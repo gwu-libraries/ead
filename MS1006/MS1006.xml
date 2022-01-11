@@ -1,0 +1,1661 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms1006.xml">ms1006.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Dr. William Griffith papers, <date calendar="gregorian" era="ce">1960-2014</date> <num>MS1006.UA</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:33:02 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Dr. William Griffith papers</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="aacr" source="naf">Griffith, Patricia Browning</persname>
+      </origination>
+      <unitid>MS1006.UA</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">22.5 Linear Feet</extent>
+        <extent altrender="carrier">18 record center cartons</extent>
+      </physdesc>
+      <unitdate datechar="creation">1960-2014</unitdate>
+      <abstract id="aspace_9ec4929e0f37f020f6304d5799357428">William B. Griffith joined the George Washington University faculty in July 1964 and was Elton Professor of Philosophy and Public Policy. The collection contains his work in the department, as well as other professional activities such as the faculty senate and papers given at conferences.</abstract>
+      <physloc id="aspace_bd9d4b79b32b82f568f05e09406508f1">Materials are stored off-site, and will require additional retrieval time. Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <scopecontent id="aspace_27b8cdeaf137e9dca257c7af781a7833">
+      <head>Scope and Contents</head>
+      <p>William B. Griffith was Elton Professor of Philosophy and Public Policy at George Washington University. He joined the GW faculty in July 1964. He devised and taught more than 30 courses during his tenure, with a special emphasis on ethical theory, philosophical aspects of public policy issues, economic justice and logic. Dr. Griffith served several terms as chair of the Department of Philosophy and was one of the longest-serving members of the Faculty Senate, where he occupied several different leadership positions.</p>
+    </scopecontent>
+    <bioghist id="aspace_9317d47cad6fd5b55349532b20b783b2">
+      <head>Biographical / Historical</head>
+      <p>William B. Griffith was Elton Professor of Philosophy and Public Policy at George Washington University.  William Byron Griffith was born in Fort Worth and was a 1958 graduate of the University of Notre Dame in South Bend, Ind. After studying at the University of Louvain in Belgium on a Fulbright scholarship, he received master's (1962) and doctoral degrees (1963) in philosophy from Yale University. He served in the Army before joining GWU in July 1964.</p>
+      <p>His research interests and publications focused on the application of theories of distributive justice to environmental policy, welfare policy, tax policy, and the regulation of business. He devised and taught more than 30 courses during his tenure, with a special emphasis on ethical theory, philosophical aspects of public policy issues, economic justice and logic. He was the principal architect and long-serving director of the MA Program in Philosophy and Public Policy, the first of its kind in the United States.</p>
+      <p>Dr. Griffith served several terms as chair of the Department of Philosophy and was one of the longest-serving members of the Faculty Senate, where he occupied several different leadership positions, including chair of the Executive Committee, and chair of the Committee on Fiscal Planning and Budgeting. He also served as the redoubtable parliamentarian for Columbian College faculty meetings through the fall of 2013. </p>
+      <p>He died at midnight on February 10, 2014. </p>
+    </bioghist>
+    <accessrestrict id="aspace_784596346a9f0a725dbf23106b870467">
+      <head>Conditions Governing Access</head>
+      <p>Some materials are restricted, such as student information and salary information. Please check with the University Archivist.</p>
+    </accessrestrict>
+    <userestrict id="aspace_6843e2e93af25121fcbc3e0940a40603">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection may be governed by copyright. For activities that the researcher determines fall under fair use as defined under U. S. Copyright Law, no permission to cite or publish is required. Researchers are responsible for determining who may hold materials' copyrights, determining if the intended re-use falls under fair use, and obtaining approval from the copyright holder if the intended use does not fall under fair use. Please contact Special Collections if the copyright status of the materials you wish to reuse is unclear. Staff will provide additional information.</p>
+    </userestrict>
+    <prefercite id="aspace_3c963141dfd7b703bbc97ae8b75092da">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. Example: James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3. Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Faculty</subject>
+      <subject source="lcsh">Public policy</subject>
+      <persname role="dnr" rules="aacr" source="naf">Griffith, Patricia Browning</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_5110c69a397e47501a3c08aa141f4c73" level="series">
+        <did>
+          <unittitle>Philosophy Department</unittitle>
+          <unitid>MS1006 Series 1</unitid>
+          <unitdate certainty="inferred" datechar="creation">1964-2014</unitdate>
+        </did>
+        <scopecontent id="aspace_105089e5d3f48f2111a00638d292112a">
+          <head>Scope and content notes</head>
+          <p>Records relating to the classes that Dr. Griffith was involved with during his tenure at GWU. He devised and taught more than 30 courses during his tenure, with a special emphasis on ethical theory, philosophical aspects of public policy issues, economic justice and logic</p>
+        </scopecontent>
+        <accessrestrict id="aspace_4276268f61ce5f4a00c8ae2780f28ed2">
+          <head>Conditions Governing Access</head>
+          <p>The letters of recommendations are restricted for 25 years from the date written.</p>
+        </accessrestrict>
+        <c id="aspace_89d5d5253608968c280c873e9cbf384c" level="file">
+          <did>
+            <unittitle>Clippings about Philosophy Department</unittitle>
+            <unitdate datechar="creation" normal="1992/2014" type="inclusive">1992-2014</unitdate>
+            <container id="aspace_9cdc6770064e6e61f2e4666c8d16b250" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_09852392ed360a5c3a84a9c7170cbce0" parent="aspace_9cdc6770064e6e61f2e4666c8d16b250" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_6fb0a0ae9e25f315628f9dc8464627cd" level="file">
+          <did>
+            <unittitle>Philosophy - Feminist Perspective</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container id="aspace_9cc2698fb2452a943d8867154bb131eb" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_f0aedae40d15cbf7381497b1b0d85a33" parent="aspace_9cc2698fb2452a943d8867154bb131eb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_d9025607111752fb739122c4f2481112" level="file">
+          <did>
+            <unittitle>Education - MBA and Ethics</unittitle>
+            <unitdate datechar="creation" normal="1988/1996" type="inclusive">1988-1996</unitdate>
+            <container id="aspace_55e1c22a30d1a3b2e129b2dd9999e85c" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_9528e7298eff5bec48bbe262c5c4a392" parent="aspace_55e1c22a30d1a3b2e129b2dd9999e85c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a513e8570827585857b2a37f874cd326" level="file">
+          <did>
+            <unittitle>Education - Humor</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <container id="aspace_8dc63599615d619d81c5f2061d13d0b4" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_0e3d7fde9799dd829e0271a06bc29533" parent="aspace_8dc63599615d619d81c5f2061d13d0b4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_86e24e62214cd52c5e0b5bcb2e82a6fd" level="file">
+          <did>
+            <unittitle>Philosophy - General Views of</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container id="aspace_0d532bb1c15bad15c7d5a0ae245b2886" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_102a9872c600570ba0250f0cb16547b9" parent="aspace_0d532bb1c15bad15c7d5a0ae245b2886" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e0489515ab48458fc032249e572e2505" level="file">
+          <did>
+            <unittitle>Philosophy - Gourmet</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container id="aspace_ceb71156dc22a6fe41c9a61731ff7b43" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_aad9f17bc4571224e896f7cb379b7036" parent="aspace_ceb71156dc22a6fe41c9a61731ff7b43" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_08ca63fc2bbbad72d24f94e8f35cb3e3" level="file">
+          <did>
+            <unittitle>American Philosophical Association - Current File</unittitle>
+            <unitdate datechar="creation" normal="1998/2005" type="inclusive">1998-2005</unitdate>
+            <container id="aspace_dcac21baf7f16724e32a3d6b3592fffa" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_3c505e2c26fbeb0c3fd430886f498506" parent="aspace_dcac21baf7f16724e32a3d6b3592fffa" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_bb9555b6126da44c857a4dff352dd62a" level="file">
+          <did>
+            <unittitle>Philosophy - Outline</unittitle>
+            <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+            <container id="aspace_a781050adacca80a0a1e6a8dc8cd15b8" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_0c24d0a47b13b74cb0dee54e7f146e8b" parent="aspace_a781050adacca80a0a1e6a8dc8cd15b8" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_eb93d481dd58ad3a69514ff2167c1d76" level="file">
+          <did>
+            <unittitle>Philosophy at the New Millennium</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container id="aspace_9215e4e227b009ca40b28a59236a6426" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_c6a53f8db3a3a24e4bba2283faacb981" parent="aspace_9215e4e227b009ca40b28a59236a6426" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c39be907d2821d4ffd809b40a81414f5" level="file">
+          <did>
+            <unittitle>Philosophy Department Photograph, Fall 1978</unittitle>
+            <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+            <container id="aspace_2e0f373f91129778d255cf313c0e25eb" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_33824dc05494ab057e7db3c061392407" parent="aspace_2e0f373f91129778d255cf313c0e25eb" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ac1df18ae50dfe8e8e7e65181d309c06" level="file">
+          <did>
+            <unittitle>Proposed Institute of Corporate Responsibility</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_957b2a4aaa2dba68c27cac96b55605ed" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_54b07ea47131b087ec67a603c7127e4a" parent="aspace_957b2a4aaa2dba68c27cac96b55605ed" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_8301c4fbea82a13bd59441828c195a32" level="file">
+          <did>
+            <unittitle>Business Ethics Chair - Search Committee</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container id="aspace_efb92c6221e8260eee1bf5ee8699e254" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_1b7fd50e56c78a3b55b2bd54c3888086" parent="aspace_efb92c6221e8260eee1bf5ee8699e254" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_0e111e5fcf7506dab8c2292ccdf52cdf" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Campaign Finance Clippings</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container id="aspace_435f8ae490fea29ae5956e257c6e8d6b" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_616769eb8c344f0b1a5d7d2a1fb159df" parent="aspace_435f8ae490fea29ae5956e257c6e8d6b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ed7ebc0cae400012459105dccdf6b46b" level="file">
+          <did>
+            <unittitle>Criminal Justice</unittitle>
+            <unitdate datechar="creation" normal="1979/2001" type="inclusive">1979-2001</unitdate>
+            <container id="aspace_2d7d919f21b80a3656b3a6b1815d91ee" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_eeec25970e085a57a0c40995fd4e1f35" parent="aspace_2d7d919f21b80a3656b3a6b1815d91ee" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_5dcaed03d1fd0737a98b73eae98205a5" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Sentencing Papers</unittitle>
+            <unitdate datechar="creation" normal="1977/2004" type="inclusive">1977-2004</unitdate>
+            <container id="aspace_5edf8152785e77bf009484435c1c9686" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_f3bca9c96c6bf42f62f94f7d59b54372" parent="aspace_5edf8152785e77bf009484435c1c9686" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_9df9f44500c23af4fe3824a91a447cfa" level="file">
+          <did>
+            <unittitle>Ethics and Justice - Death Penalty</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container id="aspace_9cb56a440ded7f527217cee46d030353" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_a35bd2bb9a4a663a7195d8bd162a5b5a" parent="aspace_9cb56a440ded7f527217cee46d030353" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_a70bc96d84aa0dbe44ef745ec68e595f" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Enterprise Liability</unittitle>
+            <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+            <container id="aspace_0a418e2936718efa406c86ab5a4a78c0" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_778df4df9ab0acaa1eb8213a4a5449cc" parent="aspace_0a418e2936718efa406c86ab5a4a78c0" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_e1f006fd8fc440fcea7a6028eeb11f52" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Liability Reform</unittitle>
+            <unitdate datechar="creation" normal="1994/1999" type="inclusive">1994-1999</unitdate>
+            <container id="aspace_a1b5162253927dd9b278eccfec493921" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_77d543076d8a83ada811f99266d0e8d7" parent="aspace_a1b5162253927dd9b278eccfec493921" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_68033cfe908953ca5dc928f801ba7b03" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Privacy Clippings</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container id="aspace_804261117e27625e231e6eaee724c05b" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_78220fba9c05bc8df1d78cbf3eac31e1" parent="aspace_804261117e27625e231e6eaee724c05b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_e5ec8d3c190c158e17fe07b8a41c5b73" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Pharmaceutical Policies</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container id="aspace_bc2059558d77d60dc94822e833e11395" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_ecf08e12c1f61467ce504b3300dafd28" parent="aspace_bc2059558d77d60dc94822e833e11395" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_776e52a068549c71ace364a616e30720" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Workers' Compensation</unittitle>
+            <unitdate datechar="creation" normal="1985/1995" type="inclusive">1985-1995</unitdate>
+            <container id="aspace_f9a470d51b100df21c6d0c3598073842" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_c29f3d9e1b546d241fe0cd88b8b6a708" parent="aspace_f9a470d51b100df21c6d0c3598073842" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_7c5ba2ce6bb4e64397f30d22260316f1" level="file">
+          <did>
+            <unittitle>Economic Justice</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container id="aspace_a2fcd9b776b706b03eb91266211d163a" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_e30da5b2ce87b5094b11e05b72d1b46a" parent="aspace_a2fcd9b776b706b03eb91266211d163a" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_c8e10b049bdf2d61b81ac8ca95fe7f82" level="file">
+          <did>
+            <unittitle>Ethics and Policy - State Gambling</unittitle>
+            <unitdate datechar="creation" normal="1995/2006" type="inclusive">1995-2005</unitdate>
+            <container id="aspace_0c403dabc685dce33eef80903c696a74" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_67f3dfe2a0d5e9827cb63464d32750f3" parent="aspace_0c403dabc685dce33eef80903c696a74" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_42d00f13d5259e9dc4f2ebe1fcb1c86a" level="file">
+          <did>
+            <unittitle>Ethics and Educational Policy</unittitle>
+            <unitdate datechar="creation" normal="1996/2005" type="inclusive">1996-2005</unitdate>
+            <container id="aspace_1f47e6c36a2508dd5b0ccff5be3636f9" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_b7ed3769d12ac0df1d93ab0846df9440" parent="aspace_1f47e6c36a2508dd5b0ccff5be3636f9" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_09cb545ea0d70deb23e1234a3c47d0ce" level="file">
+          <did>
+            <unittitle>Provost Office Semester Welcome Letter</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container id="aspace_6863434bbf928871e1df0341c4037296" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_a893ce9595b60f7e7d53e62cc6e93ad9" parent="aspace_6863434bbf928871e1df0341c4037296" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_fa7f4bd15b776478774ecd13191e52df" level="file">
+          <did>
+            <unittitle>Graduate Studies Budget</unittitle>
+            <unitdate datechar="creation" normal="2007/2008" type="inclusive">2007-2008</unitdate>
+            <container id="aspace_9af6daba77d81d233f1ce22c7f84d441" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_0df066aec951d05c61bb5e8315a5efdc" parent="aspace_9af6daba77d81d233f1ce22c7f84d441" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_6cb79a25823eb133028b8d1cb6a5bd0c" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Patriot Act</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container id="aspace_576e6f183cc0bd76fe044df2b216d6de" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_6e2344a9a3dc962fd2b687ba53795353" parent="aspace_576e6f183cc0bd76fe044df2b216d6de" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_aaf6aec33a9085fe3cc06374a0178f42" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Anti-Immigration Statistics</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container id="aspace_9d1cf158ed66c5db2313ff5bc4f5c851" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_11cdcfd6334baae261cb5b139af30e67" parent="aspace_9d1cf158ed66c5db2313ff5bc4f5c851" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_aa065dee348efa393305768acb72d365" level="file">
+          <did>
+            <unittitle>Ethics and Policy - Social Isolation</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_7b08eec7f97613d27b7089bf80da9568" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_a149b7fddac7ddc368a84f61fc6d4c3f" parent="aspace_7b08eec7f97613d27b7089bf80da9568" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_b16cbf4685d64abad80eff17dd59f069" level="file">
+          <did>
+            <unittitle>Socioeconomics </unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_3ed828af0e867a9772cebbfb13fe046b" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_ba068bb77f6589e12bed414d9816fd9c" parent="aspace_3ed828af0e867a9772cebbfb13fe046b" type="Folder">35-36</container>
+          </did>
+        </c>
+        <c id="aspace_14beb0de2f74bb3f6e69f2fe449c581d" level="file">
+          <did>
+            <unittitle>GW Seminars - Socio-Economics</unittitle>
+            <unitdate datechar="creation" normal="1985/1992" type="inclusive">1985-1995</unitdate>
+            <container id="aspace_82fbff8e71580835f9980b0ca371700a" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_e162772bc66a152faa03e852bd55e0d9" parent="aspace_82fbff8e71580835f9980b0ca371700a" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_e146e7ddfd125c5f106168af47c1ce48" level="file">
+          <did>
+            <unittitle>Philosophy and Ethics topics and courses</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Cubic Feet</extent>
+              <extent altrender="carrier">One box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1992/2008" type="inclusive">1992-2008</unitdate>
+            <container id="aspace_6915aaa72343d24ad86b7aa2e8585c93" label="Mixed Materials [32882019662298]" type="Box">3</container>
+          </did>
+          <scopecontent id="aspace_240ccd318cbe1845edd9951a85668400">
+            <head>Scope and contents note</head>
+            <p>Program description, specific classes in Philosophy and ethics such as 51, 131, 132, 801, 230, rights theory, feminist, more development, welfare and food stamps. Documents within the folder include handouts, syllabi, bibliographies</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6185db5962203d919899099cd776b14c" level="file">
+          <did>
+            <unittitle>Philosophy Department Files</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Cubic Feet</extent>
+              <extent altrender="carrier">1 Box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="2006/2012" type="inclusive">2006-2012</unitdate>
+            <container id="aspace_2bced8c01e7568e21b6f689f81e4d947" label="Mixed Materials [32882019662306]" type="Box">4</container>
+          </did>
+          <scopecontent id="aspace_b8057a19db93a42681d835af47c9c052">
+            <head>Scope and content notes</head>
+            <p>Box contains folders pertaining to prospective students, search committees for the department, general philosophy department records, specific classes such as 6230, and policy guides for students, admininstration, applications, inquiries, course description and jobs.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8f855a077344ac0ecc61420aa9bd7143" level="file">
+          <did>
+            <unittitle>Office Files</unittitle>
+            <unitdate datechar="creation" normal="1974/2007" type="inclusive">1974-2007</unitdate>
+            <container id="aspace_a6e65cae0421322e639ada56a6c101b1" label="Mixed Materials [32882019662314]" type="Box">5</container>
+            <container id="aspace_e44a9b61c2a08d938cfa0bb1ac9f3198" parent="aspace_a6e65cae0421322e639ada56a6c101b1" type="Folder">24-65</container>
+          </did>
+          <scopecontent id="aspace_3e971aec2b971f4463b960f2043462c7">
+            <head>Scope and content notes</head>
+            <p>Philosophy classes - 230 (2004-2007) with student evaluationss; criminal justice and discrimination; family support act of 1988; lawsuits that had to do with philosophical ideas; justice and equality from 1974, conference on social security from 1986.
+Ethics and sociology issues such as regulation, academic, and professionalism.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_4e4b95aee147a0143e9789953c3d759f" level="file">
+          <did>
+            <unittitle>Philosophy Department Files</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Cubic Feet</extent>
+              <extent altrender="carrier">1 Box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1987/2009" type="inclusive">1987-2009</unitdate>
+            <container id="aspace_6d0f59534da2531cbb46dc31807b4617" label="Mixed Materials [32882019662322]" type="Box">6</container>
+          </did>
+          <scopecontent id="aspace_a609a75121351bad955156d008d71cf5">
+            <head>Scope and content notes</head>
+            <p>Ethics and policy - discrimination, affirmative action, general data, views and economic theories, justice, equality and gender, and different legal cases. Specific classes such as 131, 132, 801, 198 and 235.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a3d951092fd87a93c44e061e8b760748" level="file">
+          <did>
+            <unittitle>Philosophy Department Records</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+              <extent altrender="carrier">1 box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1979/1998" type="inclusive">1979-1998</unitdate>
+            <container altrender="Record Carton" id="aspace_df873fcf0a3ac1adc494c270a34da4ce" label="Mixed Materials [32882019662330]" type="Box">7</container>
+          </did>
+          <scopecontent id="aspace_5ce55cea580a38dc19999f94023ef2f9">
+            <head>Scope and Contents</head>
+            <p>Philosophy courses such as 235, philosophy and business, philosophy and public interest, and other related topics to these classes.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_dd84e0f2485cd51cced43692b2702678" level="file">
+          <did>
+            <unittitle>Lecture Material for Ethics and Philosophy Courses</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1979/2003" type="inclusive">1979-2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record Carton" id="aspace_3d663f46263c42695c194cd9861086e9" label="Mixed Materials [32882019662355]" type="Box">9</container>
+            <container id="aspace_53690e61f76e1d45618aaa43d8b27ed3" parent="aspace_3d663f46263c42695c194cd9861086e9" type="Folder">1-37</container>
+          </did>
+        </c>
+        <c id="aspace_a2ef6ef2444c865474b1928ce4d690c0" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1967/1995" type="inclusive">1967-1995</unitdate>
+            <container altrender="Record Carton" id="aspace_3a7d38c743081059ace1ff205f6ddc62" label="Mixed Materials [32882019662355]" type="Box">9</container>
+            <container id="aspace_f2deb8cad18def88c8537d5736edf303" parent="aspace_3a7d38c743081059ace1ff205f6ddc62" type="Folder">38-40</container>
+          </did>
+        </c>
+        <c id="aspace_b9da71490902572a277ecd7172382ac7" level="file">
+          <did>
+            <unittitle>Letters of Recommendation</unittitle>
+            <unitdate datechar="creation" normal="1993/2004" type="inclusive">1993-2004</unitdate>
+            <container altrender="Record Carton" id="aspace_812bd9a25dd94b2ed6cab2494d80f53f" label="Mixed Materials [32882019662355]" type="Box">9</container>
+            <container id="aspace_f988edc10f0ca1eca139e3e0ea4c96d4" parent="aspace_812bd9a25dd94b2ed6cab2494d80f53f" type="Folder">41-45</container>
+          </did>
+          <accessrestrict id="aspace_79cd38a0aa440c6645d895b92d7916ec">
+            <head>Conditions Governing Access</head>
+            <p>Restricted for 25 years from date of creation.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_5850782790e9df0dd3c9559fc2761df4" level="file">
+          <did>
+            <unittitle>Philosophy 201 readings and research</unittitle>
+            <container id="aspace_ab85cd41ccdb798570cbef9b0a5fbf56" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_1e0d4e741f2e7ecb21af315be2f62645" parent="aspace_ab85cd41ccdb798570cbef9b0a5fbf56" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_b9c246eb29f25f3566d43db5d319a2ae" level="file">
+          <did>
+            <unittitle>Dissertation and paper proposals</unittitle>
+            <container id="aspace_872f6356f29c658721da75e56dc10f12" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_32976d6ef708f25484b93709e2276f32" parent="aspace_872f6356f29c658721da75e56dc10f12" type="Folder">52-59</container>
+          </did>
+        </c>
+        <c id="aspace_e6acaa42c807c5878df37b19cc082fc9" level="file">
+          <did>
+            <unittitle>Academic calendars and plans</unittitle>
+            <container id="aspace_710d304e1e21a2c0f5151fb4891415b5" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_bd730749f21d1dc647be2c7e742b2556" parent="aspace_710d304e1e21a2c0f5151fb4891415b5" type="Folder">60-62</container>
+          </did>
+        </c>
+        <c id="aspace_0952646f56af80ed778b35715448872a" level="file">
+          <did>
+            <unittitle>Fellowship mentor program</unittitle>
+            <unitdate datechar="creation" normal="1997/2006" type="inclusive">1997-2006</unitdate>
+            <container id="aspace_fb09d26f89e295cb415ee5043fc321f1" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_48b4903656bcd751379cd171aa5918d1" parent="aspace_fb09d26f89e295cb415ee5043fc321f1" type="Folder">63-64</container>
+          </did>
+        </c>
+        <c id="aspace_6295f47789e38b811eaf7204bbe0c1a0" level="file">
+          <did>
+            <unittitle>University Facilitating Fund Request for Proposals</unittitle>
+            <container id="aspace_dc3f0171ee494e16bf8184badfbe8f2f" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_db03c8f6c912db9cbf8df18219546943" parent="aspace_dc3f0171ee494e16bf8184badfbe8f2f" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_c226735ed6aea27e366b400a7d5227bb" level="file">
+          <did>
+            <unittitle>GWU strategic plan</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container id="aspace_f4ee64338f44e6bf9f58f84123026d41" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_0d4c752894999fc48ddc77dfce26c48f" parent="aspace_f4ee64338f44e6bf9f58f84123026d41" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_7fce57784309106d1249f7e2d618f44e" level="file">
+          <did>
+            <unittitle>GWU Unionization</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container id="aspace_918992264f7624a245b17319c3c1ef51" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_6d6e1761810fadf3eff846e417cd3fc4" parent="aspace_918992264f7624a245b17319c3c1ef51" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_88622d3301a908fb5b5318c0a2fdfe91" level="file">
+          <did>
+            <unittitle>Background information for classes</unittitle>
+            <unitdate datechar="creation" normal="1994/1999" type="inclusive">1994-1999</unitdate>
+            <container altrender="Record Carton" id="aspace_9d4811028b630c8d306e9e7d5ccd0c84" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_317b2e290071e4e791ca9e9eda1af011" parent="aspace_9d4811028b630c8d306e9e7d5ccd0c84" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_521bd0788e3e4f708364f8a5d431a301" level="file">
+          <did>
+            <unittitle>Economics and Philosophy</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container altrender="Record Carton" id="aspace_9db4d1c4403bec624ec124e9a56dc778" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_c2d240484de82fe2cc9185058d9ce0c9" parent="aspace_9db4d1c4403bec624ec124e9a56dc778" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_1f37cef61e2a78788ad5136eb1c9343e" level="file">
+          <did>
+            <unittitle>Economics and Philosophy 241-242, Labor Economics</unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container altrender="Record Carton" id="aspace_d7a8d6a1888e9fcda22bb3bfb84571a6" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_d120d666fd803ed7935abae5fe97a462" parent="aspace_d7a8d6a1888e9fcda22bb3bfb84571a6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_24214ea451a6471cd16b9939de90607e" level="file">
+          <did>
+            <unittitle>History of Economic Thought, Economy 202</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container altrender="Record Carton" id="aspace_55f8dc61694d9e37640fa55e213e9748" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_813461bad2083ead9bd96040e12dc372" parent="aspace_55f8dc61694d9e37640fa55e213e9748" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_d398627285f80d8b607ed00acfc75473" level="file">
+          <did>
+            <unittitle>Economy as Discipline</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container altrender="Record Carton" id="aspace_3a5c5917eae6dc44774ee5e1da3e2118" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_ab648348906b9d57f7c59282e5f85262" parent="aspace_3a5c5917eae6dc44774ee5e1da3e2118" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_611bb6cf742464e5d9df714819a26600" level="file">
+          <did>
+            <unittitle>Ethics and Economics</unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container altrender="Record Carton" id="aspace_0a98d5aa3ad977e325b2219d5d32938d" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_5c2e442a46dc8e7519e287eb3415c066" parent="aspace_0a98d5aa3ad977e325b2219d5d32938d" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_bad4142183fb2023ee3af783def17522" level="file">
+          <did>
+            <unittitle>Policy Science Research</unittitle>
+            <unitdate datechar="creation" normal="1972/1992" type="inclusive">1972-1992</unitdate>
+            <container altrender="Record Carton" id="aspace_ed3a3cb76099009118346679284824f7" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_b6ed7fdcfa4e52dcb2a23323d3c9bbd3" parent="aspace_ed3a3cb76099009118346679284824f7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_d59cfe7ba89eb1aa7a4257f06c0bedbf" level="file">
+          <did>
+            <unittitle>Ethics and Policy Field Issues</unittitle>
+            <unitdate datechar="creation" normal="1989/1994" type="inclusive">1989-1994</unitdate>
+            <container altrender="Record Carton" id="aspace_48deffb110ad87a23c5e571e68f3d05c" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_b741e2f842ebeadc57d51efe768489d7" parent="aspace_48deffb110ad87a23c5e571e68f3d05c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_1be3d32f45ade64afc87aa0a8f8acbbc" level="file">
+          <did>
+            <unittitle>Policy Analysis</unittitle>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <container altrender="Record Carton" id="aspace_68ce637728bc12616a9207e1d199a36a" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_5f153acb128afdeec3b98f0d60826122" parent="aspace_68ce637728bc12616a9207e1d199a36a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f2f76c366f53edc4e679c048511177ed" level="file">
+          <did>
+            <unittitle>Ethics and Policy: Rational Choice Models and Risk Assessment</unittitle>
+            <unitdate datechar="creation" normal="1983/1988" type="inclusive">1983-1988</unitdate>
+            <container altrender="Record Carton" id="aspace_9555e420279cc3737f40cd50fc29fdbd" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_8d043deda03fbb14d06670fd5e97c9b8" parent="aspace_9555e420279cc3737f40cd50fc29fdbd" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_70748fe8b8b595b85170bdab24129bbd" level="file">
+          <did>
+            <unittitle>Ethics and Policy</unittitle>
+            <unitdate datechar="creation" normal="1978/1993" type="inclusive">1978-1993</unitdate>
+            <container altrender="Record Carton" id="aspace_8a1cbaf1aaef7c6e3e25c3634480fa2f" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_0c878f995f03df1242f17e77d765829d" parent="aspace_8a1cbaf1aaef7c6e3e25c3634480fa2f" type="Folder">12-14</container>
+          </did>
+        </c>
+        <c id="aspace_67358a225ccd0ff47946f40a55314bd3" level="file">
+          <did>
+            <unittitle>Policy Courses</unittitle>
+            <unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate>
+            <container altrender="Record Carton" id="aspace_ebcf85556403351ad43847cde9fd5fb6" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_d95035059d1a7917e40c1e6130773928" parent="aspace_ebcf85556403351ad43847cde9fd5fb6" type="Folder">15-16</container>
+          </did>
+        </c>
+        <c id="aspace_d24144d7fa85fc86008be4a5589de57d" level="file">
+          <did>
+            <unittitle>Department Faculty Publications</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Record Carton" id="aspace_e0a17c424cc4f81563859a9af88a703c" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_8d2d7f3a569ed0d3640373fbf419cb7d" parent="aspace_e0a17c424cc4f81563859a9af88a703c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_4edfda65d917b6a44073b9183d5413a5" level="file">
+          <did>
+            <unittitle>Expressive Meaning, Race and the Law</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container altrender="Record Carton" id="aspace_4df3ba61576b7b5e3586bffc86e674d1" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_3ce85e02361408d330ce7722d1ab8c59" parent="aspace_4df3ba61576b7b5e3586bffc86e674d1" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_27689b3282177da46dd8177c249ffeb9" level="file">
+          <did>
+            <unittitle>Department Faculty Papers</unittitle>
+            <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container altrender="Record Carton" id="aspace_3ac522c14aacb57a777022340874ac8b" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_645c30ad5e0bc204ade25702fa780314" parent="aspace_3ac522c14aacb57a777022340874ac8b" type="Folder">19-26</container>
+          </did>
+        </c>
+        <c id="aspace_dd9088e087bdb3169a6440850876d6ab" level="file">
+          <did>
+            <unittitle>Ethics Academic Papers</unittitle>
+            <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+            <container altrender="Record Carton" id="aspace_a08806862b7301b4dfd8674075223831" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_03409cf7a295b7537c3c3b50e4cd9939" parent="aspace_a08806862b7301b4dfd8674075223831" type="Folder">27-31</container>
+          </did>
+        </c>
+        <c id="aspace_f8c8c21c02eca97509e0b2f556c4781d" level="file">
+          <did>
+            <unittitle>Philosophy of the Mind</unittitle>
+            <unitdate datechar="creation" normal="2001/2005" type="inclusive">2001-2005</unitdate>
+            <container altrender="Record Carton" id="aspace_e348160d6aedeaf2ea836d99a6971dde" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_e14ec5e637ae8f16a4111c592daffb03" parent="aspace_e348160d6aedeaf2ea836d99a6971dde" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_d8a8542dc469e15a542c93838f7be243" level="file">
+          <did>
+            <unittitle>Philosophy 231 Economic Justice</unittitle>
+            <unitdate datechar="creation" normal="1989/2007" type="inclusive">1989-2007</unitdate>
+            <container altrender="Record Carton" id="aspace_4a47ca8e7a6bda60581e234c9806d275" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_67394a029f071834dbd38801c19d12f2" parent="aspace_4a47ca8e7a6bda60581e234c9806d275" type="Folder">1-5</container>
+          </did>
+        </c>
+        <c id="aspace_f2ba5b8dcc3ea4cf830cce95c27ab72b" level="file">
+          <did>
+            <unittitle>Philosophy 235 Ethics and Business</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container altrender="Record Carton" id="aspace_f726f906d2b8a909edc1797c731118d9" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_a5b99b775dfbd27a2645fa59aaeab0ad" parent="aspace_f726f906d2b8a909edc1797c731118d9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_5c5f2e4e6df0768d35a3a5a5b0f201c8" level="file">
+          <did>
+            <unittitle>Philosophy 242</unittitle>
+            <unitdate datechar="creation" normal="1994/2005" type="inclusive">1994-2005</unitdate>
+            <container altrender="Record Carton" id="aspace_145f2c9b71521c7ecabf3aa2ca49f47e" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_b0101da0332e56e33078cb1864ae6e05" parent="aspace_145f2c9b71521c7ecabf3aa2ca49f47e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_8bc2f7e260f03d6dcaf06c082a89fdd8" level="file">
+          <did>
+            <unittitle>Philosophy 238 Feminist Ethics</unittitle>
+            <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+            <container altrender="Record Carton" id="aspace_196b932e45b79032ea2182b155e75e5c" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_3bdc3e7fa61a6c44ccf43501b5dbae93" parent="aspace_196b932e45b79032ea2182b155e75e5c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e9d519297833ad837452fac49ca76dcb" level="file">
+          <did>
+            <unittitle>Philosophy 281 Environmental Philosophy and Policy</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record Carton" id="aspace_f938bb033dc9604b62a892a6e2c2b5bc" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_227c90aa7e34b8b68aae51fa65b86c8b" parent="aspace_f938bb033dc9604b62a892a6e2c2b5bc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_230593ead918f2bd11d8860a0f183f9c" level="file">
+          <did>
+            <unittitle>Notes on organizing a research paper</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container altrender="Record Carton" id="aspace_a3c866ada0acecf129470fe57c539848" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_4ebfbd0c676fd3e7d1b7efe02aac6239" parent="aspace_a3c866ada0acecf129470fe57c539848" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_0b97e1c5acbe0a0c1e96b047fca405c6" level="file">
+          <did>
+            <unittitle>Guidance on participation in class discussion</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container altrender="Record Carton" id="aspace_0b64a44833f96fbac267fe6798d69ebf" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_2ad9bb45beb4f44a8bba511c7a593bec" parent="aspace_0b64a44833f96fbac267fe6798d69ebf" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_6b75239eb0c75887bca3ee76655454b7" level="file">
+          <did>
+            <unittitle>Course evaluations</unittitle>
+            <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
+            <container altrender="Record Carton" id="aspace_87051f398fc4a425ec7ee4c00fa75093" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_6258c912d05a5f0cc3379a56c443ccab" parent="aspace_87051f398fc4a425ec7ee4c00fa75093" type="Folder">12-15</container>
+          </did>
+        </c>
+        <c id="aspace_7afbb9f6e92bc541c6837245453a28ad" level="file">
+          <did>
+            <unittitle>Philosophy Department questions</unittitle>
+            <container altrender="Record Carton" id="aspace_27da7390de3985e847b0c15d5e7c18c0" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_bdcf265cb157d2d69ba389e869279bc5" parent="aspace_27da7390de3985e847b0c15d5e7c18c0" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_f0429eebd483967dbe4a9782b37dfae3" level="file">
+          <did>
+            <unittitle>Book adoption fees and reserve</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record Carton" id="aspace_8aa26a3d41d3e32b11f7ee4ffc773949" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_aa34f882611cab5c132e99c1b2d635ce" parent="aspace_8aa26a3d41d3e32b11f7ee4ffc773949" type="Folder">17-18</container>
+          </did>
+        </c>
+        <c id="aspace_59f888e9e1b73f87fdd6ce0ca986c08a" level="file">
+          <did>
+            <unittitle>Records</unittitle>
+            <unitdate datechar="creation" normal="2007/2009" type="inclusive">2007-2009</unitdate>
+            <container altrender="Record Carton" id="aspace_786a6bcdeeedd5167911cf871219a9a4" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_83ec00939571097d1c4c29f5fd632d56" parent="aspace_786a6bcdeeedd5167911cf871219a9a4" type="Folder">24-25</container>
+          </did>
+        </c>
+        <c id="aspace_b8025700b2db8ee1996d51c08c12244a" level="file">
+          <did>
+            <unittitle>Public Policy and Public Administration</unittitle>
+            <unitdate datechar="creation" normal="2003/2008" type="bulk">2003-2008</unitdate>
+            <container altrender="Record Carton" id="aspace_3e2b8bfc8624888882bb449d2cd08739" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_d0779abf7ba2fa38b5858d48c9391708" parent="aspace_3e2b8bfc8624888882bb449d2cd08739" type="Folder">26-27</container>
+          </did>
+        </c>
+        <c id="aspace_d308547dd154d21999fb5d28980eca30" level="file">
+          <did>
+            <unittitle>Public Policy PhD Field Exam Questions</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record Carton" id="aspace_db52e68df3a13e0a7fe1065f97831560" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_c76d38a64d5577e38ff1ba5d6dac1b74" parent="aspace_db52e68df3a13e0a7fe1065f97831560" type="Folder">28</container>
+          </did>
+          <accessrestrict id="aspace_b84dd5bc687bf4155d961728fb9c9d6f">
+            <head>Conditions Governing Access</head>
+            <p>This folder is restricted.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_4373c145aee5d3f2b23fedec042226af" level="file">
+          <did>
+            <unittitle>Public Policy courses</unittitle>
+            <unitdate datechar="creation" normal="2003/2006" type="inclusive">2003-2006</unitdate>
+            <container altrender="Record Carton" id="aspace_49e0e65d803f7f831ccb7cc96ca48e56" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_2ea4c858e5079db4202c69d295399c98" parent="aspace_49e0e65d803f7f831ccb7cc96ca48e56" type="Folder">29-31</container>
+          </did>
+        </c>
+        <c id="aspace_2e367fbda46862fd1f8ea31cb8b520e5" level="file">
+          <did>
+            <unittitle> Doctoral Program Reviews and Committee</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record Carton" id="aspace_3636eed14c29677c32aa49c3509f708b" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_083fb181c2e374a0de21d1811e1a586a" parent="aspace_3636eed14c29677c32aa49c3509f708b" type="Folder">32-33</container>
+          </did>
+          <accessrestrict id="aspace_e87f74746964f379385390306f3fc58e">
+            <head>Conditions Governing Access</head>
+            <p>This may be restricted.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_105b2b2d5821161cc484407b2037c20b" level="file">
+          <did>
+            <unittitle>Public Policy program materials</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container altrender="Record Carton" id="aspace_49b6292be6b463b8b9d8f56125cd36c8" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_41fd266cd97794c2bcd9a67375f8e2a6" parent="aspace_49b6292be6b463b8b9d8f56125cd36c8" type="Folder">34-35</container>
+          </did>
+        </c>
+        <c id="aspace_c3d35e669eb208b67c6c8a3afc228a99" level="file">
+          <did>
+            <unittitle>General Philosophy Department materials</unittitle>
+            <unitdate datechar="creation" normal="1996/2012" type="inclusive">Circa 1996-2012</unitdate>
+            <container altrender="Record Carton" id="aspace_e13c030e4a2da657b0577c828c54dd42" label="Mixed Materials [32882019662405]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_462355a1c9d74bd95f86e4113f8f3c2d" level="file">
+          <did>
+            <unittitle>Professional Ethics and Philosophy</unittitle>
+            <unitdate datechar="creation" normal="1982/1998" type="inclusive">1982-1998</unitdate>
+            <physdesc id="aspace_921d64fda027c066453d5563ae0afd8a">This box contains a wide variety of topics in the realm of ethics, economy and philosophy such as professional accountability, hedge funds, taxes, government and public administration, legal ethics, medicine, and social work. The papers appear to be research that was sometimes used in Dr. Griffith's classes.</physdesc>
+            <container altrender="Record Carton" id="aspace_5417f336655b58dfa8cf904a5aee680c" label="Mixed Materials [32882019662421]" type="Box">16</container>
+          </did>
+        </c>
+        <c id="aspace_7fb67cd542e21c47dfba7b20fc67f763" level="file">
+          <did>
+            <unittitle>Philosophy Notes and Writings</unittitle>
+            <unitdate datechar="creation" normal="1960/1985" type="inclusive">1960-1985</unitdate>
+            <physdesc id="aspace_1498071c6ea263dfa34acf0c6c52db20">Notes and writings on philosophical topics such as logic, logicism, finitism, Godel's Theorem, the history and philosophy of math and logic, valued logic and the philosophy of language. These appear to be copies of articles or presentations that Griffith attended and made notes. Some of these may be notes that Griffith himself took while a student.</physdesc>
+            <container altrender="Record Carton" id="aspace_2b01c4d52e975de7d56c00d7129745e7" label="Mixed Materials [32882019662439]" type="Box">17</container>
+          </did>
+        </c>
+        <c id="aspace_bb6cad30dd7595e405862217739cae95" level="file">
+          <did>
+            <unittitle>Philosophy Notes and Writings</unittitle>
+            <unitdate datechar="creation" normal="1967/1989" type="bulk">1967-1989</unitdate>
+            <physdesc id="aspace_6b4ca4a1ac91fbd503dbd8e38abbda08">Notes and writings on philosophical topics such as symbolic logic, logical theory, advanced logic, logic and social change, logic of choice and decisions, cryptography, and axiomatics. These appear to be copies of articles or presentations that Griffith attended and made notes. Some of these may be notes that Griffith himself took while a student.</physdesc>
+            <container altrender="Record Carton" id="aspace_1554c7067a35155634600053777c1f03" label="Mixed Materials [32882019662447]" type="Box">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_a8883dfb73db37157ad51e15b4f68f30" level="series">
+        <did>
+          <unittitle>Faculty Senate</unittitle>
+          <unitid>MS1006 Series 2</unitid>
+          <unitdate certainty="inferred" datechar="creation">1978-2014</unitdate>
+        </did>
+        <scopecontent id="aspace_4cec2bd97569a7e5c092f74cd06222f5">
+          <head>Scope and contents note</head>
+          <p>Dr. Griffith was one of the longest-serving members of the Faculty Senate, where he occupied several different leadership positions, including chair of the Executive Committee, and chair of the Committee on Fiscal Planning and Budgeting. He also served as the redoubtable parliamentarian for Columbian College faculty meetings through the fall of 2013.</p>
+        </scopecontent>
+        <c id="aspace_b2b37bc4a1832f95670f4b99e7e1b0ea" level="file">
+          <did>
+            <unittitle>Budget group - faculty subgroup</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_03edb611a894d78f8c1c24d549d61a34" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_5e4c4fe70909fcb2f365146f99c94a7f" parent="aspace_03edb611a894d78f8c1c24d549d61a34" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_939a45bcdc7441e92633343a3c3b358a" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
+            <container id="aspace_1c6260de999b04553ecb95eb8afb6667" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_a6773ec704f3203d7fe7a2058e5b2640" parent="aspace_1c6260de999b04553ecb95eb8afb6667" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_83cfcca9e430c29abdb915a564554cd3" level="file">
+          <did>
+            <unittitle>Budget working group, Spring 2006</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_9b6af02fe26d8ab230fd13f82a908ece" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_0355ed75b672da8c2396777540a3bb9c" parent="aspace_9b6af02fe26d8ab230fd13f82a908ece" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_599b750f72532a5a7d1b404269923d33" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+            <container id="aspace_21cef77de26984330b9cb298db7de881" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_74e42d238c742dcfc515495458eee52c" parent="aspace_21cef77de26984330b9cb298db7de881" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c6549103f1c3423164d13a46ca200d68" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
+            <container id="aspace_9c8a0cd754bbb47f7faa8288db3884fb" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_7c2d919ed172115e41103239ac67d608" parent="aspace_9c8a0cd754bbb47f7faa8288db3884fb" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_97397ae6d5b9b22ec6912efb48687f0b" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate>
+            <container id="aspace_ea710602163686339770bf79e8640ab7" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_ac69dfd31cb6179802b4a15f22565d37" parent="aspace_ea710602163686339770bf79e8640ab7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_dbd1c3455c76010f2f4b68b55a0a801f" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2007/2008" type="inclusive">2007-2008</unitdate>
+            <container id="aspace_15dc59e24b0c08be7bc7062e97c09903" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_7bffa9dfbf60580676f4a2e49da347b1" parent="aspace_15dc59e24b0c08be7bc7062e97c09903" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_5edffa688812754de40ef5eae61ef176" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
+            <container id="aspace_4de368ec5eeff66eb2483419bd4d3e2e" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_6d0f9568695469843f6a2ea2dfe895e6" parent="aspace_4de368ec5eeff66eb2483419bd4d3e2e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1ba5db4b93afaf14f2f0663f08bf737c" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee - Documents</unittitle>
+            <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+            <container id="aspace_5efbeaacc7c3cbaa00f4af183e620401" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_e8c6fd6f5f45e3017c7c50904d16f699" parent="aspace_5efbeaacc7c3cbaa00f4af183e620401" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_95c5da36b412e5eec3d595cfaf028179" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate>
+            <container id="aspace_d25f7bf2958e0b3ab62604d80b7c790b" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_2f2fde8de0ffef97a8194241e0e560f7" parent="aspace_d25f7bf2958e0b3ab62604d80b7c790b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_2bc4882a61e42cf2c110796106bb0f6f" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="2010/2011" type="inclusive">2010-2011</unitdate>
+            <container id="aspace_97414f07a9635e187bbe3986fb7a477f" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_7e36bf0e4a2840ca57428720b25114ae" parent="aspace_97414f07a9635e187bbe3986fb7a477f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_b802d4566bced6f3e29b0f023c23683b" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+            <container id="aspace_972537430cd17def635ac7fcdf32f946" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_4395f29c416770ad3e76f713d5e1dfd6" parent="aspace_972537430cd17def635ac7fcdf32f946" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_a90a8021eeae1dc87849bc9da629056d" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
+            <container id="aspace_b5b9b2dac29ce28f3147612faa326be9" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_0819da7cc9e688966d07f5066b9c0962" parent="aspace_b5b9b2dac29ce28f3147612faa326be9" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_70cb4654cc350957fb8b0f5aa87dfad8" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate>
+            <container id="aspace_8174eca6d838fa4a5b37425486f2f13b" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_8f080da94c552f658b0ed9a0caa48991" parent="aspace_8174eca6d838fa4a5b37425486f2f13b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_8751c97a40b9af89f0db8d034f540d82" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee - Documents, endowment</unittitle>
+            <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+            <container id="aspace_a08f1827634578d45e55cbb9c3598642" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_d14b3282b3fe157fa9b3bba026c10c6c" parent="aspace_a08f1827634578d45e55cbb9c3598642" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_c6fd3b5f65a9a8940b9ef3290fc33513" level="file">
+          <did>
+            <unittitle>CCAS By-Laws, Policies and Rules</unittitle>
+            <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+            <container id="aspace_dcd7607526860812e2dad029bcee3077" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_4ecc67827b72ffd48aacfe334bfe507d" parent="aspace_dcd7607526860812e2dad029bcee3077" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_65e9d8625c7e4e99e21654ddd6028001" level="file">
+          <did>
+            <unittitle>CCAS By-Laws - Revision Proposal</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container id="aspace_4e6b42c60c8a7a3cf517a3994fabfaf3" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_7e9623c77e1c737abf5b589a94502501" parent="aspace_4e6b42c60c8a7a3cf517a3994fabfaf3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_e27a010ddadbdf0e6060b49db1da94d4" level="file">
+          <did>
+            <unittitle>Trachtenberg School By-Laws</unittitle>
+            <unitdate datechar="creation" normal="2005/2011" type="inclusive">2005-2011</unitdate>
+            <container id="aspace_56faa787eb8f36ebe7f278980c83bf36" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_057cea507f04f189621599a117a650e9" parent="aspace_56faa787eb8f36ebe7f278980c83bf36" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_e560971e3c9e2b4b5c4852e41a243672" level="file">
+          <did>
+            <unittitle>Trachtenberg School Faculty Meeting</unittitle>
+            <unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate>
+            <container id="aspace_9bb6f0bfb34fff1d25a67a2a4ba8638c" label="Mixed Materials [32882019662280]" type="Box">1</container>
+            <container id="aspace_c5b7c7a200ab99ac0c1a0d1350183d0f" parent="aspace_9bb6f0bfb34fff1d25a67a2a4ba8638c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_8ed521fab2ed6a8d73cea056eba19425" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container id="aspace_189242c7a72c28fb49817e5216770b93" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_eacc07111ce33d60edf634577305dbab" parent="aspace_189242c7a72c28fb49817e5216770b93" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_612b55ba085738de4b3d364b441a6d20" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee - Enrollment and Endowment</unittitle>
+            <unitdate datechar="creation" normal="1999/2005" type="inclusive">1999-2005</unitdate>
+            <container id="aspace_abc04077dffe691990ca37d08ce77712" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_5ed3ea9ee87a15bc67dddedbfb0e41cb" parent="aspace_abc04077dffe691990ca37d08ce77712" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9ba8728ed7c0616717dd82ca3dc4b4a6" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee - Enrollment and Faculty Needs</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container id="aspace_1a0faa888b1a60a82cfca2c2a81501e8" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_0ead3301a1881fb6aebe79154cec99fb" parent="aspace_1a0faa888b1a60a82cfca2c2a81501e8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_0b2f4a7538d4965252447ddcb5f89a15" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee - Junior Subcommittee Athletics and Recreation</unittitle>
+            <unitdate datechar="creation" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+            <container id="aspace_23d71032d44a1f72ffbc1090d1655b55" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_b9d6860af52af86b4763c1cc6d5597bf" parent="aspace_23d71032d44a1f72ffbc1090d1655b55" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_6311cedcfd52dbc0ceb14dd75a4da1b6" level="file">
+          <did>
+            <unittitle>School of Nursing</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+            <container id="aspace_7ad3d2b153588b758d1f7d8209edf310" label="Mixed Materials [32882019662272]" type="Box">2</container>
+            <container id="aspace_9db5e40773970e4181fb9305c536a34f" parent="aspace_7ad3d2b153588b758d1f7d8209edf310" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_923c98a42246ac24d1563624e4e8b9f3" level="file">
+          <did>
+            <unittitle>Office Files</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Cubic Feet</extent>
+              <extent altrender="carrier">One box</extent>
+              <physfacet>This box shares items between both series.</physfacet>
+            </physdesc>
+            <unitdate datechar="creation" normal="1996/2001" type="inclusive">1996-2001</unitdate>
+            <container id="aspace_3d47db7f7a939f01f89ca480244d4f78" label="Mixed Materials [32882019662314]" type="Box">5</container>
+            <container id="aspace_2190646f300462dd935bcedc27033875" parent="aspace_3d47db7f7a939f01f89ca480244d4f78" type="Folder">1-23</container>
+          </did>
+          <scopecontent id="aspace_35c917db7eca1cd0ecee5745eeed0c98">
+            <head>Scope and contents note</head>
+            <p>University policies - code of academic integrity (1996); disabilities, media relations, Gelman fines, student rights and responsibilities, requirements in syllabi, and Trachtenberg prize. Also includes the Faculty Senate trustees committee and development of alumni, 2000-2001</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f415b7d062cd11e4b55fc633a28f4c4d" level="file">
+          <did>
+            <unittitle>Letters of recommendation</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+              <extent altrender="carrier">1 box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1989/2001" type="inclusive">1983-1994</unitdate>
+            <container altrender="Record Carton" id="aspace_9abdc4b98da75ccf49c098f80b112e0d" label="Mixed Materials [32882019662348]" type="Box">8</container>
+            <container id="aspace_0a9d135a263a2a604ade42d7193ca4b1" parent="aspace_9abdc4b98da75ccf49c098f80b112e0d" type="Folder">1-3</container>
+          </did>
+          <odd id="aspace_41dcaedd010f7231d40b976b1c35bce4">
+            <head>General</head>
+            <p>This file may contain sensitive information.</p>
+          </odd>
+        </c>
+        <c id="aspace_c200642290458ade282dc80cda2d0015" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate>
+            <container altrender="Record Carton" id="aspace_c2055984b7190087290fbaf0197bae7d" label="Mixed Materials [32882019662348]" type="Box">8</container>
+            <container id="aspace_c898b858190fd0121efd4938bbf3cdd2" parent="aspace_c2055984b7190087290fbaf0197bae7d" type="Folder">4-7</container>
+          </did>
+        </c>
+        <c id="aspace_4599f12512b3502885ee471602964573" level="file">
+          <did>
+            <unittitle>Fiscal Planning and Budgeting (FP&amp;B) Committee</unittitle>
+            <unitdate datechar="creation" normal="1996/2012" type="inclusive">1996-2012</unitdate>
+            <container altrender="Record Carton" id="aspace_485b9a890b4fdabc30c7d67ffd9a7fe1" label="Mixed Materials [32882019662348]" type="Box">8</container>
+            <container id="aspace_21e94f5a6bfa425d1e6beb2e1fbb2ffa" parent="aspace_485b9a890b4fdabc30c7d67ffd9a7fe1" type="Folder">8-15</container>
+          </did>
+        </c>
+        <c id="aspace_9f3c7efaf69980a79e4a72100c49b038" level="file">
+          <did>
+            <unittitle>Faculty Senate Fiscal Planning and Budgeting Committee</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record Carton" id="aspace_8f03c3a56da957304dd4fb88e7ef4366" label="Mixed Materials [32882019662371]" type="Box">11</container>
+            <container id="aspace_7a4dc07c9efb2d78a9815a862ac4568f" parent="aspace_8f03c3a56da957304dd4fb88e7ef4366" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_3f17b196731579ba210b5d72104953cb" level="file">
+          <did>
+            <unittitle>Salary Equity Revisions</unittitle>
+            <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <container altrender="Record Carton" id="aspace_23fd84f16fb842ecb8d54dc4441739bf" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_6cab5f14ccfbfd4f04fa1d18469b101f" parent="aspace_23fd84f16fb842ecb8d54dc4441739bf" type="Folder">1</container>
+          </did>
+          <accessrestrict id="aspace_9fe6bd7952bbb5297e34dad43dad0ad5">
+            <head>Conditions Governing Access</head>
+            <p>Restrictions apply to this folder.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_c45c59c337ccc61b1b426b89ca743ec3" level="file">
+          <did>
+            <unittitle>Salary Reviews</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container altrender="Record Carton" id="aspace_32470daca158102f41201c430a7c38d3" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_e48917db6ff18c27cd7ee263a0019602" parent="aspace_32470daca158102f41201c430a7c38d3" type="Folder">2</container>
+          </did>
+          <accessrestrict id="aspace_b356fe5488611b415c14819c0c7c94fc">
+            <head>Conditions Governing Access</head>
+            <p>Restrictions apply to this folder.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_a9b46f2b4e39da11c56229570f3400d8" level="file">
+          <did>
+            <unittitle>Executive Committee, Non-Tenure Data</unittitle>
+            <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+            <container altrender="Record Carton" id="aspace_0d447ff632db0279c50182351c84956e" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_0451c7dbaa2f1e11dff1a617aa9422f2" parent="aspace_0d447ff632db0279c50182351c84956e" type="Folder">3</container>
+          </did>
+          <accessrestrict id="aspace_3ed3c251b964204958d0e167b5ad9e4e">
+            <head>Conditions Governing Access</head>
+            <p>This folder may have restrictions.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_31a2ef640aa3694d84cdcbfdaa7f067d" level="file">
+          <did>
+            <unittitle>Special Committee on Non-Tenure Accruing Appointments</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container altrender="Record Carton" id="aspace_5b741a19e803a64242d3176d5de9be56" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_9717ca745f54c8f16f9136e18d387984" parent="aspace_5b741a19e803a64242d3176d5de9be56" type="Folder">4</container>
+          </did>
+          <accessrestrict id="aspace_cf9344283bf60645f6399ef4ce71bf06">
+            <head>Conditions Governing Access</head>
+            <p>This folder may have restrictions.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_45b4396baee49fea2307a51509c26e2a" level="file">
+          <did>
+            <unittitle>Academic Freedom and Tenure</unittitle>
+            <unitdate datechar="creation" normal="1980/1996" type="inclusive">1980-1996</unitdate>
+            <container altrender="Record Carton" id="aspace_b6be16dcba52f28debbe4494ffbc3f40" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_a62b6bbaf2b7f945b01960809e820118" parent="aspace_b6be16dcba52f28debbe4494ffbc3f40" type="Folder">5</container>
+          </did>
+          <accessrestrict id="aspace_163213ab260a7309e6455d46da9c6fe3">
+            <head>Conditions Governing Access</head>
+            <p>This folder may have restrictions.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_e19216c4af60996fc8cccea028ed605f" level="file">
+          <did>
+            <unittitle>Professional Ethics Committee</unittitle>
+            <unitdate datechar="creation" normal="1978/1989" type="inclusive">1978-1989</unitdate>
+            <container altrender="Record Carton" id="aspace_1ed6b8e0a0cbc3a48c226c5179341819" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_d1fef2f035c2e1e23d3e4cbe7105ca3e" parent="aspace_1ed6b8e0a0cbc3a48c226c5179341819" type="Folder">6</container>
+          </did>
+          <accessrestrict id="aspace_056dc6fe95c78872683ae4cf4b191dbd">
+            <head>Conditions Governing Access</head>
+            <p>This folder may have restrictions.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_9848a7d97e5b4d1433541caf37d1e070" level="file">
+          <did>
+            <unittitle>Professional Ethics Tenure Criteria</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container altrender="Record Carton" id="aspace_9af9b77f81260d5efbddd6362c12f74b" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_9b3c15379d61e6f1c257856b93795ad1" parent="aspace_9af9b77f81260d5efbddd6362c12f74b" type="Folder">7</container>
+          </did>
+          <accessrestrict id="aspace_ee4f84e364b3c8f71b3c55f0b2137ff8">
+            <head>Conditions Governing Access</head>
+            <p>This folder may be restricted.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_5d5445abc007b77a2ea0c65978921173" level="file">
+          <did>
+            <unittitle>Special Committee on Non-Tenure Accruing Appointments</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <container altrender="Record Carton" id="aspace_b2d985822a5941a8eb1434be2ef53ed3" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_6985bf9330a5cfe76dc7faaf71321f2e" parent="aspace_b2d985822a5941a8eb1434be2ef53ed3" type="Folder">8</container>
+          </did>
+          <accessrestrict id="aspace_ec807756cf75b76d928faf685ef5c63a">
+            <head>Conditions Governing Access</head>
+            <p>This folder may be restricted.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_dc20e77ed6070df13819deaaf58c82d4" level="file">
+          <did>
+            <unittitle>Professional Ethics Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container altrender="Record Carton" id="aspace_c6938953ae07ae75323d613b78c8fcd4" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_837198da6fda0e1132be0b2f9be24b55" parent="aspace_c6938953ae07ae75323d613b78c8fcd4" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_7a659bee8eff9c4a4d48c58b21c41f88" level="file">
+          <did>
+            <unittitle>Special Committee on Non-Tenure Accruing Data</unittitle>
+            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+            <container altrender="Record Carton" id="aspace_2ce78b8f6380ae6b9124df872ad8eb4b" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_523fc0a30c669d917de32c1c8315df54" parent="aspace_2ce78b8f6380ae6b9124df872ad8eb4b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f16c6b452fee5292b8e42604c88e5926" level="file">
+          <did>
+            <unittitle>Professional Ethics</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container altrender="Record Carton" id="aspace_4c2d389d00a9abdcf1fd0473e9fe2af8" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_a3136ac4fd4253200b765e570e14b28f" parent="aspace_4c2d389d00a9abdcf1fd0473e9fe2af8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_8a3f0315841911f1f604c8ceaae0ca7b" level="file">
+          <did>
+            <unittitle>Committee on Professional Ethics and Academic Freedom</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Record Carton" id="aspace_181cf85c1b543130f98b0aedac15d363" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_13e0b1af7871c31a2e973d1aeb69dfc7" parent="aspace_181cf85c1b543130f98b0aedac15d363" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_0ed248694d58c0b3b1bec51fc5ff503b" level="file">
+          <did>
+            <unittitle>Professional Ethics Responses to Senators</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Record Carton" id="aspace_f0492e2597a551465352437a8190b9a4" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_64b441a6cfea061267880904174e7130" parent="aspace_f0492e2597a551465352437a8190b9a4" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_c2c7745d6764dc4983730934141e9632" level="file">
+          <did>
+            <unittitle>Professional Ethics Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container altrender="Record Carton" id="aspace_0f306b0359013c80e1728730a67da9aa" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_f6deca4ce5b12c2119e774539ed373e5" parent="aspace_0f306b0359013c80e1728730a67da9aa" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_118905d93ec9db998d47d2184e0e8f9a" level="file">
+          <did>
+            <unittitle>General Faculty Senate materials</unittitle>
+            <unitdate certainty="approximate" datechar="creation" normal="1996/2012" type="inclusive">Circa 1996-2012</unitdate>
+            <container altrender="Record Carton" id="aspace_c29ff9353f976a0fbd6bcd6f635b8786" label="Mixed Materials [32882019662405]" type="Box">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_08068f876942a44559cb361a53816f21" level="series">
+        <did>
+          <unittitle>Conference Papers and Presentations</unittitle>
+          <unitid>MS1006 Series 3</unitid>
+          <unitdate datechar="creation">1992-2012</unitdate>
+        </did>
+        <scopecontent id="aspace_4a0d340ca0a119d97efd17f4a1c6f0e4">
+          <head>Scope and Contents</head>
+          <p>This box contains materials related to presentations at conferences, seminars and symposia. The folders contain the presentation themselves, notes, abstracts, correspondence and other related items.</p>
+        </scopecontent>
+        <c id="aspace_6c8c7b5c5d274dd52f5566325d8c618e" level="file">
+          <did>
+            <unittitle>Human Rights Treaties and Torture, Association for the Study of Law, Culture and the Humanities (ASLCH)</unittitle>
+            <unitdate datechar="creation" normal="2012/2012">March 2012</unitdate>
+            <container id="aspace_c2c7718bd11bd9d06da472bc5250fc23" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_876e029a68791b06a80f6cbfa0bcf744" parent="aspace_c2c7718bd11bd9d06da472bc5250fc23" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_2cf68b2b6478dadb0e9a81a0559ebdbc" level="file">
+          <did>
+            <unittitle>ASLCH abstract, conference info</unittitle>
+            <unitdate datechar="creation" normal="2012/2012">2012 March</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c6e37d9d8d46e5b976cb1cece426be7f" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_4ad1af32d819f7a298b298c01229f53b" parent="aspace_c6e37d9d8d46e5b976cb1cece426be7f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b83206169f5b2d2d2f6706973a164ca4" level="file">
+          <did>
+            <unittitle>Law, Culture and the Humanities (LCH) Abstract, presentation notes</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011 March</unitdate>
+            <container id="aspace_95878620f1bea0d831924f1469cd738c" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_07b44fb634f00e2981d8a4915118a779" parent="aspace_95878620f1bea0d831924f1469cd738c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_063dc725b62211d3aeb7f6d5241e20d6" level="file">
+          <did>
+            <unittitle>LCH Conf Presentation, notes drafts and abstract</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010 March</unitdate>
+            <container id="aspace_b65358adecd33ffd3f4969d66e2efb71" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_7e827e47823511d029c47c984ff8b0cc" parent="aspace_b65358adecd33ffd3f4969d66e2efb71" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_3ca6a5cc842d812edda516c3d7bbc992" level="file">
+          <did>
+            <unittitle>Civility Symposium panel presentation</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">October 2010</unitdate>
+            <container id="aspace_f5cc2a630c971a593ecc0d638469e3c8" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_cebcefbf2fc6d6c375d3bd47b1ae8e07" parent="aspace_f5cc2a630c971a593ecc0d638469e3c8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_d534fd60fb176161bbb5a3b673b2fe6a" level="file">
+          <did>
+            <unittitle>Presentation to Philosophy Department</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">April 2010</unitdate>
+            <container id="aspace_9e1c3ed054c2f88a6b468a2a121bb2d6" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_d81df355a7cc49fd28164f3913789d6a" parent="aspace_9e1c3ed054c2f88a6b468a2a121bb2d6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_af950b28ff32e6b4a82420193506980a" level="file">
+          <did>
+            <unittitle>Presentation to LCH Conference</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">March 2010</unitdate>
+            <container id="aspace_8ec8d1dffec54cbcf35ca9e6d40919a9" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_9d82a0e17013e77c1219e8f3ddfc9e9d" parent="aspace_8ec8d1dffec54cbcf35ca9e6d40919a9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d8b7bcf2634a2092700776ee3c1379db" level="file">
+          <did>
+            <unittitle>Article Review</unittitle>
+            <unitdate datechar="other" normal="2009/2009">October 2009</unitdate>
+            <container id="aspace_948cdd3cc3e8d86d6329f51f3a0a9390" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_e58feddd2382dd60d223a097ace6e69a" parent="aspace_948cdd3cc3e8d86d6329f51f3a0a9390" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_780b11975a552679be4017de567e0992" level="file">
+          <did>
+            <unittitle>ASLCH</unittitle>
+            <unitdate datechar="other" normal="2008/2008">March 2008</unitdate>
+            <container id="aspace_91d31bec24dfa2c2870df78db0baf370" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_80ec0a2b2d8531b7b68fa7d7fb8e584c" parent="aspace_91d31bec24dfa2c2870df78db0baf370" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_f1db0b158e69b9c09b528d94fe05b787" level="file">
+          <did>
+            <unittitle>New Direction of Humanities symposium</unittitle>
+            <unitdate datechar="other" normal="2007/2007">2007</unitdate>
+            <container id="aspace_e40009f848e120cdc0aa6ebaf6e97ab0" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_97046242118d456d46bc106eab57496c" parent="aspace_e40009f848e120cdc0aa6ebaf6e97ab0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_be2286e21fb45947665cf3c2096d26d2" level="file">
+          <did>
+            <unittitle>Roundtable Economic Justice</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">April 2006</unitdate>
+            <container id="aspace_7d73969c6616bdda8d497b0dc0264d8f" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_de4f54b1bb19ae415b359671dafd5f96" parent="aspace_7d73969c6616bdda8d497b0dc0264d8f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_8011065724c7f60b4263f5f43a1d5492" level="file">
+          <did>
+            <unittitle>Communitarian Summit Panel Papers</unittitle>
+            <unitdate datechar="creation" normal="2008/2008">July 2008</unitdate>
+            <container id="aspace_2af9809e9973fe8e7cb7517d1c2cac8a" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_7077fe9689fee2a86569843c9529d7fe" parent="aspace_2af9809e9973fe8e7cb7517d1c2cac8a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_88abc24e21ec7528bf9f3ae3081ea144" level="file">
+          <did>
+            <unittitle>North American Society for Social Philosophy</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_1108a46dfcb418527cd35b90fd06e6e3" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_f965c452380ebd9b25aa76e9d18c537f" parent="aspace_1108a46dfcb418527cd35b90fd06e6e3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_b14abbdf5e61300f9d37b66d11f48f60" level="file">
+          <did>
+            <unittitle>Conference - Law, Culture and the Humanities</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_a842e825791f4e1875ca7b3d61906669" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_3a7362a54218a9fe15a2bbb78ea3d81d" parent="aspace_a842e825791f4e1875ca7b3d61906669" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_7d24f5706d11a6d9b90395d48e81c83a" level="file">
+          <did>
+            <unittitle>LCH Conference</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">March 2005</unitdate>
+            <container id="aspace_f668b19b03adf6fe611279c4d2b3c2a0" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_699f9d2363695da01ed36babb2f73a79" parent="aspace_f668b19b03adf6fe611279c4d2b3c2a0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_727b4f81fd4368efa15fd9c22b435cd4" level="file">
+          <did>
+            <unittitle>APPAM Research Conference Creating and Using Evidence in Public Policy Analysis and Management</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">October 2004</unitdate>
+            <container id="aspace_fed0a615134b52c3bedbc1739058d297" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_eb6b7db947d57b746f4b9cf700ab05ba" parent="aspace_fed0a615134b52c3bedbc1739058d297" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_759632db5041820e7cf85d9a0bf8af9c" level="file">
+          <did>
+            <unittitle>Association of Public Policy Analysis and Management (APPAM)</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container id="aspace_d48ade25990ebe1a847a437b0c6a2d4d" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_ec5a670f934d0dfab2d227fddeb3d349" parent="aspace_d48ade25990ebe1a847a437b0c6a2d4d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ade90fa17e156472b4d340faae1333c0" level="file">
+          <did>
+            <unittitle>ASLCH</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container id="aspace_93a6a985834198295aef0dd5bc1c1e8e" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_31d87e4f8372aafbd77e164d086e2fc9" parent="aspace_93a6a985834198295aef0dd5bc1c1e8e" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_9d20e75310fa589de6dedfc30b093add" level="file">
+          <did>
+            <unittitle>APPAM</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container id="aspace_9bad7edcab05c98e50f17a24cf2d52b7" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_0284c1db26bbac86cc75716bad9d9996" parent="aspace_9bad7edcab05c98e50f17a24cf2d52b7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_6a8f94c858a5a3771c4a137584f82a35" level="file">
+          <did>
+            <unittitle>Presentation to Philosophy Faculty</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container id="aspace_9399795587517c962ab68096d2cd3192" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_d4ead74ed3541462daceb84c61dbfb05" parent="aspace_9399795587517c962ab68096d2cd3192" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_88f8516f380ca716cbf5f445d8fdd65c" level="file">
+          <did>
+            <unittitle>Comments on Liberation</unittitle>
+            <unitdate datechar="other" normal="2003/2003">2003</unitdate>
+            <container id="aspace_ca2dff42018986484ef22f8b9a41679f" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_3e37bf6057010d305f01b81dafbaf2e2" parent="aspace_ca2dff42018986484ef22f8b9a41679f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_d1bd1f33d4defc614e6d1c3b8d66fdde" level="file">
+          <did>
+            <unittitle>Conference of Concerned Philosophers for Peace</unittitle>
+            <unitdate datechar="other" normal="1998/1998">1998</unitdate>
+            <container id="aspace_71fcb7a870824db4be65ba1911590331" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_6fc59d72ec67d5327f5f45640c9b6244" parent="aspace_71fcb7a870824db4be65ba1911590331" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_6e989b1d5788f42fe3d0b00eb5ebede5" level="file">
+          <did>
+            <unittitle>Philosophy Conference</unittitle>
+            <unitdate datechar="other" normal="2004/2004">2004</unitdate>
+            <container id="aspace_3d908d65e9b3be1145c677c221a478de" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_7ef7c189dc2a6373074112cddefcca9b" parent="aspace_3d908d65e9b3be1145c677c221a478de" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_bd53e0594591607fedc1378f41af8962" level="file">
+          <did>
+            <unittitle>Communitarian Summit</unittitle>
+            <unitdate datechar="other" normal="2004/2004">2004</unitdate>
+            <container id="aspace_9c383f70aa7779755fdbbedd12e0fe03" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_6f5d8eab60330005684b4af737c1751a" parent="aspace_9c383f70aa7779755fdbbedd12e0fe03" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_adb01b1ad08ab145d9aba34b114d80a3" level="file">
+          <did>
+            <unittitle>North American Society for Social Philosophy (NASSP)</unittitle>
+            <unitdate datechar="other" normal="2003/2003">2003</unitdate>
+            <container id="aspace_92346dde6f29b0bbcd5feecad6b15ef5" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_a2b8067857675710dfd5832473e47d33" parent="aspace_92346dde6f29b0bbcd5feecad6b15ef5" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_801fcc4aa72dbcc3c3c72ad6a81bd657" level="file">
+          <did>
+            <unittitle>Paper for Future Generations</unittitle>
+            <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+            <container id="aspace_d5eb9f56a8a4aaa08af8b83ef495c1f5" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_9be9f85705af8960a08e01d46831311a" parent="aspace_d5eb9f56a8a4aaa08af8b83ef495c1f5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_c06a0fda34256ddf9e8633d776e8cf08" level="file">
+          <did>
+            <unittitle>Conference on Value Inquiry</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_9be9ac0cfc41e8a318d32ff2ec6c36ed" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_88b6de32069c8b64eb708c393bf6af60" parent="aspace_9be9ac0cfc41e8a318d32ff2ec6c36ed" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_580296e489cee1bf0482263b9e0c9672" level="file">
+          <did>
+            <unittitle>Public Policy Workshop</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_76cf22b17fe442671ff14293e66aa531" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_9e6c28d2ee03478db0cdfd1669b3b060" parent="aspace_76cf22b17fe442671ff14293e66aa531" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_b3a2b9793dca4a326b56097c446f89d9" level="file">
+          <did>
+            <unittitle>Communitarian Summit Labor Paper</unittitle>
+            <unitdate datechar="other" normal="2004/2004">2004</unitdate>
+            <container id="aspace_c41316ee0a39444dbbbe3bacfe1c716c" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_9f58e53f35eaa017b2b168649af98453" parent="aspace_c41316ee0a39444dbbbe3bacfe1c716c" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_929292b101ae080874a282d12c7be19d" level="file">
+          <did>
+            <unittitle>LCH</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_d13e2f3c7684b7b30c5c1ea1f687bf64" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_8c7d2a7c87eb3535a7d2abf8daeb710f" parent="aspace_d13e2f3c7684b7b30c5c1ea1f687bf64" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_532d05e1770a649a0f7a5ceb5e6b6a01" level="file">
+          <did>
+            <unittitle>Annual Meeting of the Society for Philosophy in the Contemporary World</unittitle>
+            <unitdate datechar="other" normal="2000/2000">2000</unitdate>
+            <container id="aspace_bce5e992272bc7569d9bf22d4fcfa984" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_6566f18b9bf43072721a74fcbf236ccc" parent="aspace_bce5e992272bc7569d9bf22d4fcfa984" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_e90ce63bce7bb8b76ba75556c21e8886" level="file">
+          <did>
+            <unittitle>Faculty brown bag discussion</unittitle>
+            <unitdate datechar="other" normal="2004/2004">2004</unitdate>
+            <container id="aspace_6d2ef429a1976a316588570ff4207be5" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_ee86bbc7a5f92ef29c8786669b30cb19" parent="aspace_6d2ef429a1976a316588570ff4207be5" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_e43d19b38a95a8c3f98c35402fdfa5fc" level="file">
+          <did>
+            <unittitle>NASSP Conference</unittitle>
+            <unitdate datechar="other" normal="2009/2009">2009</unitdate>
+            <container id="aspace_bbeaa217c59d8b471282e7668064d764" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_18e1ef6fc620e04502486cd44a22d6f7" parent="aspace_bbeaa217c59d8b471282e7668064d764" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_653657efcb881b162134e96e4782b96b" level="file">
+          <did>
+            <unittitle>LCH</unittitle>
+            <unitdate datechar="other" normal="2003/2003">2003</unitdate>
+            <container id="aspace_ee7372c810984dcec50ce93a4464b566" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_0be364b7822b3921c98099638f540815" parent="aspace_ee7372c810984dcec50ce93a4464b566" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_e8f82b623c648ce07826a8f3501948f9" level="file">
+          <did>
+            <unittitle>LCH</unittitle>
+            <unitdate datechar="other" normal="2000/2000">2000</unitdate>
+            <container id="aspace_f345c975ceb746baddbc9409d9b05d9a" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_15dba1642a57a3c7d84ac18b2bc6ccb2" parent="aspace_f345c975ceb746baddbc9409d9b05d9a" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_9c29e2d23c75da907b85f0b5a3e4b831" level="file">
+          <did>
+            <unittitle>Reason in Environmental Practice</unittitle>
+            <container id="aspace_ce8ce280a21c293d58f86092746b85e4" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_02b7ef9bd98fb1d4ff0f3654398cef09" parent="aspace_ce8ce280a21c293d58f86092746b85e4" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_c72609b7e64cc8819ad5b8f0149503d7" level="file">
+          <did>
+            <unittitle>Moral and Political Reasoning in Environmental Practice</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_08d6c588b6136151085576bab181f15d" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_8274c7cec08ac33418b4ec45d1d08385" parent="aspace_08d6c588b6136151085576bab181f15d" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_4d0d6fa5508037acee18b67c2b3263ce" level="file">
+          <did>
+            <unittitle>Human Sciences Annual Conference</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_85092badb43a875a647cc75ebc3cecd6" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_897b0cf48a18334fa1f62ffed02444c3" parent="aspace_85092badb43a875a647cc75ebc3cecd6" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_2d5ae23535d3f1ed5601e5ff4fc6706b" level="file">
+          <did>
+            <unittitle>Conference on Value Inquiry</unittitle>
+            <unitdate datechar="other" normal="2000/2000">2000</unitdate>
+            <container id="aspace_2d6b591a687630ad3daa431d3cc56901" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_31e9e77a2383504d328eb424de057295" parent="aspace_2d6b591a687630ad3daa431d3cc56901" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ee6ef3e5e3bb2701b05ca86ffb0d7a9b" level="file">
+          <did>
+            <unittitle>Rights and cost benefits</unittitle>
+            <unitdate datechar="other" normal="1995/1995">1995</unitdate>
+            <container id="aspace_36e33ad409caea0a55843259a9a1d5e7" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_9ccb76f13429b058935ba5a714044147" parent="aspace_36e33ad409caea0a55843259a9a1d5e7" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_1d0ed20632c87f123ee6c2e8e11286ed" level="file">
+          <did>
+            <unittitle>Economics at the Millennium - copies of publications</unittitle>
+            <container id="aspace_e9a0cbb6f35a64ca54879625575ee663" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_d34c2d9f87b18f7e228597a1fdfe5eb3" parent="aspace_e9a0cbb6f35a64ca54879625575ee663" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_e0ab10a2d27b3b8e9716c45bbb1ca2a7" level="file">
+          <did>
+            <unittitle>Excluding inferior workers - copies of publications</unittitle>
+            <container id="aspace_01ccb887e1d234629341cce3c6688364" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_bbaef94752aac3aefa7e7459ef41882c" parent="aspace_01ccb887e1d234629341cce3c6688364" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_e1b498eb8960b481cdbd84b07c95c28d" level="file">
+          <did>
+            <unittitle>Welfare economics papers</unittitle>
+            <container id="aspace_7f97e4b12d80a81f2b1e29b1d38cbace" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_4ca6959225538bd2d7717469182ebe67" parent="aspace_7f97e4b12d80a81f2b1e29b1d38cbace" type="Folder">43-45</container>
+          </did>
+        </c>
+        <c id="aspace_2ed2801677a4daa013f048e2c7f35993" level="file">
+          <did>
+            <unittitle>Nature of economics conference</unittitle>
+            <unitdate datechar="other" normal="1992/1992">1992</unitdate>
+            <container id="aspace_54b76a3521b639b4413b0368ec5799d8" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_24a2c6cc40b292fb69275588e905264f" parent="aspace_54b76a3521b639b4413b0368ec5799d8" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_26beaa93a4c8726f2a59d2bcfefc6fdb" level="file">
+          <did>
+            <unittitle>Fair Trade public perceptions</unittitle>
+            <unitdate datechar="other" normal="2001/2001">2001</unitdate>
+            <container id="aspace_9b25c351b130d3728f2ea5ff03cde6b7" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_98e9700fcbd685918c3e164e1a1f29e3" parent="aspace_9b25c351b130d3728f2ea5ff03cde6b7" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_808d279fb7622e498a8a6a89b8f9d330" level="file">
+          <did>
+            <unittitle>Copies of writings</unittitle>
+            <container id="aspace_23fb9d009506ea6df483d44fdc34467f" label="Mixed Materials [32882019662363]" type="Box">10</container>
+            <container id="aspace_a3a5c0a6bbadd9cd5c5d770a17b7e9cb" parent="aspace_23fb9d009506ea6df483d44fdc34467f" type="Folder">48</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_1196cc64b6881f6acbddae73e70ed7e8" level="series">
+        <did>
+          <unittitle>Personal Papers</unittitle>
+          <unitid>MS1006 Series 4</unitid>
+          <unitdate datechar="creation" normal="1964/2011" type="inclusive">1964-2011</unitdate>
+        </did>
+        <scopecontent id="aspace_73ad7c723c5b17ba52b89a0c3df39963">
+          <head>Scope and Contents</head>
+          <p>This series contains a small number of personal papers such as biographical information and annual reports.</p>
+        </scopecontent>
+        <c id="aspace_13dcd228c95a7aa8c42c6df592e283d3" level="file">
+          <did>
+            <unittitle>Annual Reports</unittitle>
+            <unitdate certainty="approximate" datechar="creation" normal="1985/2007" type="bulk">1985-2007</unitdate>
+            <container altrender="Record Carton" id="aspace_aba85dd4cfd5a480fedcaa7b7c99b44e" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_07900892480ae5bf12fa575ae39d83ef" parent="aspace_aba85dd4cfd5a480fedcaa7b7c99b44e" type="Folder">19-20</container>
+          </did>
+        </c>
+        <c id="aspace_344ad4137612becd0971a579a27ed7d3" level="file">
+          <did>
+            <unittitle>Biographical information</unittitle>
+            <unitdate certainty="approximate" datechar="creation" normal="1964/2011" type="bulk">1964-2011</unitdate>
+            <container altrender="Record Carton" id="aspace_59054bebd321abe279834c2e7d55627f" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_e4715b7e4ba0a977aaab857ba7d9c98f" parent="aspace_59054bebd321abe279834c2e7d55627f" type="Folder">21-22</container>
+          </did>
+        </c>
+        <c id="aspace_1245a6895f6f0694158c51ebe0c94dd1" level="file">
+          <did>
+            <unittitle>Promotion Papers</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container altrender="Record Carton" id="aspace_14fb25ce77d7faea677575bdee0f0eb9" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_b8058208db8bae6977d1095f9981222f" parent="aspace_14fb25ce77d7faea677575bdee0f0eb9" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_c7a09016fa84e4c0066a0b9fd45e445a" level="file">
+          <did>
+            <unittitle>Application for Fellowships</unittitle>
+            <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+            <container altrender="Record Carton" id="aspace_b1bebad124433d9df1155f8cc8a54b8b" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_f10d35f71fd046d3178f92ba89625555" parent="aspace_b1bebad124433d9df1155f8cc8a54b8b" type="Folder">24-25</container>
+          </did>
+        </c>
+        <c id="aspace_61355a88c8c3110c81f56b99c2a71f0b" level="file">
+          <did>
+            <unittitle>Library Study</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container altrender="Record Carton" id="aspace_3450ed9cc240a2256cff57ef8f693507" label="Mixed Materials [32882019662389]" type="Box">12</container>
+            <container id="aspace_d8de60c7bc725f48709a9592db4f7bf4" parent="aspace_3450ed9cc240a2256cff57ef8f693507" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_aef84e86a7dfd0f2bdf272151a810c9c" level="file">
+          <did>
+            <unittitle>Columbian College of Arts and Sciences</unittitle>
+            <unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate>
+            <container altrender="Record Carton" id="aspace_d66508eaa5187615bca98e278d54250c" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_9d64c4ebadefc1379023ac96a3013ee3" parent="aspace_d66508eaa5187615bca98e278d54250c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_c961e9937131d6cb184038022bcb3270" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1986/2007" type="inclusive">1986-2007</unitdate>
+            <container altrender="Record Carton" id="aspace_38b5ad91238f413daae91dcc4b2e88bc" label="Mixed Materials [32882019662397]" type="Box">13</container>
+            <container id="aspace_ab8346367ef60bc323251576bba5c746" parent="aspace_38b5ad91238f413daae91dcc4b2e88bc" type="Folder">16-23</container>
+          </did>
+        </c>
+        <c id="aspace_f22e60bff6499bb9be0b57cace928c63" level="file">
+          <did>
+            <unittitle>Personal writings and reviews</unittitle>
+            <unitdate datechar="creation" normal="1979/1997" type="inclusive">1979-1997</unitdate>
+            <physdesc id="aspace_fcd4ec2727753754b3017c5d64209f1b">This box contains a variety of personal writings on philosophy and ethics topics. It includes reprints, drafts, copies, and other parts of the writing process.</physdesc>
+            <container altrender="Record Carton" id="aspace_717fa0088fc388b4d183f3b81003c737" label="Mixed Materials [32882019662413]" type="Box">15</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

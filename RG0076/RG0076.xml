@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0076.xml">rg0076.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Philosophy Department records , <date calendar="gregorian" era="ce">1904-1996</date>
+ <num>RG0076</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:24 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Philosophy Department records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">George Washington University. Dept. of Philosophy</corpname>
+      </origination>
+      <unitid>RG0076</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1904-1996</unitdate>
+      <abstract id="aspace_6e633aff792b514aa016b034f8547943">Materials in this collection include syllabus, postcards, flyers, news bulletin, and press releases. They range in date from 1904-96. The materials concern lectures, "Techne", and the Elton lecture.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_b37cbea13611c90178f7d74296e2be04">
+      <head>Preferred citation</head>
+      <p>Philosophy Department records , Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_35991d669737e2baa9f7a7565fa64f4f">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_8f89749d0a894401faed5dded9339d1c">
+      <head>Acquisition Information</head>
+      <p>Acquisition information for this collection is unknown.</p>
+    </acqinfo>
+    <userestrict id="aspace_f06315c5b37754dae11d8c6dc6d178cd">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_9454ab09905b1735d8f8ae1f10396835">
+      <head>Historical or Biographical Note</head>
+      <p>During the freshman and sophomore years, studies included English, Latin, and Greek; geography; arithmetic and algebra; history and antiquities; exercises in reading, speaking and composition; elements of chronology; rhetoric and logic; logarithms, geometry, trigonometry and mensuration; surveying, navigation, conic sections and Euclid's Elements. In his junior and senior years, the student took natural philosophy, astronomy, chemistry, fluxions, natural history, history of civil society, natural religion, Revelation, natural and political law, metaphysics, moral philosophy and analogy of religion to nature. Today the Philosophy Department is a part of the Columbian College of Arts and Sciences. This note was written in 2005.</p>
+    </bioghist>
+    <scopecontent id="aspace_4ce13c36b64ad0a43cbaa8d8a56bacde">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include syllabus, postcards, flyers, news bulletin, and press releases. They range in date from 1904-96. The materials concern lectures, "Techne", and the Elton lecture.</p>
+      <p>Formerly RG9.21</p>
+    </scopecontent>
+    <odd id="aspace_3e3a4ae79935317f2c033379747f3d96">
+      <head>bib #</head>
+      <p>9063047</p>
+    </odd>
+    <controlaccess>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Lectures and lecturing</subject>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9_zfd" level="file">
+        <did>
+          <unittitle>Philosophy Department</unittitle>
+          <unitdate datechar="creation">1904-1996</unitdate>
+          <container id="aspace_35bd2e8f51c02ace174f78ea99f51920" label="Mixed Materials [Series 1 GW: 32882017682173]" type="Box">1</container>
+          <container id="aspace_cd9d70a96e7355d967af1fd497e21846" parent="aspace_35bd2e8f51c02ace174f78ea99f51920" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_k1q" level="file">
+        <did>
+          <unittitle>Philosophy Department - Elton Lectures</unittitle>
+          <unitdate datechar="creation">02/24/1965-02/23/1982</unitdate>
+          <container id="aspace_50f6fba321071c74ed25c19b426a92ea" label="Mixed Materials [Series 1 GW: 32882017682173]" type="Box">1</container>
+          <container id="aspace_eda61ae87b01c3f2b37a96677faaefa0" parent="aspace_50f6fba321071c74ed25c19b426a92ea" type="Folder">2</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

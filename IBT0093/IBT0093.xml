@@ -1,0 +1,1688 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/856">IBT0093.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the IBT COVID-19 Response Collection, <date calendar="gregorian" era="ce">2020</date> <num>IBT0093</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:55:14 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT COVID-19 Response Collection</unittitle>
+      <unitid>IBT0093</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">204 digital object(s)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="2020-04-09/2020-10-01" type="inclusive">April 9, 2020-October 1, 2020</unitdate>
+      <physloc id="aspace_7639e4292656dfbe8e3c6a3187c61cf4">Records are stored on a web-accessible server.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_ac7a80b89604331dab42a07d40080014">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_2a12ab468d94ee0dc3cee01857270b26">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_ce30e67fa97639b125704de920490f17">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <arrangement id="aspace_b4e1b18401739efd31bcab11e9f7b361">
+      <head>Arrangement</head>
+      <p>The collection is organized into 2 series: International Brotherhood of Teamsters websites and Teamsters Locals and Affiliates websites.</p>
+    </arrangement>
+    <acqinfo id="aspace_2269a013128da690ebbf00fb1d428a12">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection was harvested and archived through Archive-It and Social Feed Manager</p>
+    </acqinfo>
+    <bioghist id="aspace_a90565627381042c1105cb192eddc9dc">
+      <head>Biographical / Historical</head>
+      <p>On March 13, 2020, President Donald Trump declared a national emergency in response to the growing number of COVID-19 cases nationwide. Members of the International Brotherhood of Teamsters and the many Teamsters' affiliates and locals are employed in so-called "essential" services; nurses, grocery store clerks, police officers, delivery drivers, airline workers, and warehouse employees. This meant that, at a time when most of the country was at home, Teamsters' members were going to work to perform jobs that the rest of country depended on to run.
+This file was started in an effort to document and identify for future researchers how the IBT and the various Teamsters affiliates and locals have been communicating with and assisting their members in safely performing these duties.</p>
+    </bioghist>
+    <scopecontent id="aspace_fc9989b0c9068c7aad4543ea504efd00">
+      <head>Scope and Contents</head>
+      <p>This collection is compiled by a librarian from various IBT and Teamsters' local web-based sources. The list provides a guide for researchers to find all identified tweets and webpages addressing COVID-19 and the Teamsters' unions responses to either the pandemic or the quarantine.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject authfilenumber="sh2020000570" source="lcsh">COVID-19 (Disease)</subject>
+      <subject source="lcsh">Labor unions</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 21st century</subject>
+      <subject source="lcsh">Safety of workers</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_bf03831f52f9272416974a3e2bb9c312" level="series">
+        <did>
+          <unittitle>Teamsters Twitter Handle Search</unittitle>
+          <unitid>Series 1</unitid>
+          <origination label="Creator">
+            <corpname rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 320. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 320</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 2010. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 2010</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 783. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 783</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname authfilenumber="n89617670" rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 237 (New York, N.Y.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 396. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 396</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 399. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 399</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 988. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 988</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname authfilenumber="no2006079496" rules="aacr" source="naf">Teamsters Local 117 (Tukwila, Wash.). International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 117 (Tukwila, Wash.)</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 230. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 230</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 25. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 25</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 350. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 350</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 533. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 533</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname authfilenumber="n90651470" rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Warehouse and Distribution Workers Local 688</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 727. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 727</corpname>
+          </origination>
+          <origination label="Creator">
+            <corpname rules="aacr" source="local">Teamsters Local 822. International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America. Local 822</corpname>
+          </origination>
+          <unitdate datechar="creation" normal="2020-03-16/2020-10-15" type="bulk">Posted to Twitter between March 16 and October 15, 2020</unitdate>
+          <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_c97c3796a4c7b4a62209d6f58550d80a" level="file">
+          <did>
+            <unittitle>Teamsters' COVID-19 Tweetset</unittitle>
+            <unitid>Series 1</unitid>
+          </did>
+          <scopecontent id="aspace_5dd72eb5d3eece252d41226eb870c765">
+            <head>Scope and Contents</head>
+            <p>This material is available through Tweetset, GW Libraries' search interface for navigating archived tweets. The hashtags associated with the Teamsters' experience and response to the COVID-19 pandemic and quarantine have already been identified. They are listed here with the count of tweets containing each hashtag.</p>
+            <p>Bendthecurve 143 tweets,
+CARESAct 40 tweets,
+CouncilsNotCOVID 25 tweets,
+coronavirus 950 tweets,
+CoronavirusPandemic 423 tweets,
+COVID 723 tweets,
+Covid19 302 tweets,
+Covid_19 101 tweets,
+COVID-19 77 tweets,
+COVID19 176 tweets,
+COVID19US 4 tweets,
+COVIDfrontlines 1 tweet,
+essential 56 tweets,
+EssentialAndExcluded 177 tweets,
+essentialworkers,
+EssentialWorker,
+FlattenTheCurve,
+frontline,
+FrontlineHeroes,
+HEROES,
+HEROESAct,
+HeroesNeedMasks,
+HiddenHeroes,
+MaskUpNV,
+MaskUpMN,
+NewYorkHERO,
+paidsickleave,
+PaidSickLeave,
+pandemic,
+PPE,
+ProtectHealthcareWorkers,
+ProtectNYHeroes,
+ProtectWorkers,
+StayHealthy,
+StaySafe</p>
+          </scopecontent>
+          <userestrict id="aspace_ddb6c381b787f4d5c1a3c49e0d3a98f8">
+            <head>Conditions Governing Use</head>
+            <p>If accessing this information from an off-campus network, a full list of tweets is not available to you. The database will provide a list of tweet IDs.  A rehydrator will allow you to use the tweet IDs to retrieve all active tweets.</p>
+          </userestrict>
+        </c>
+      </c>
+      <c id="aspace_40fd54d219538b2aaef54a722e480110" level="series">
+        <did>
+          <unittitle>Teamsters Web Archives</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="2020-04-09/2020-10-30" type="inclusive">Harvested from the web between April 9, 2020 and October 30, 2020</unitdate>
+          <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_33a0289681b72da1dd3332d335ce69b1" level="item">
+          <did>
+            <unittitle>Public Service Division Secures Large Supply of PPE for Local 700 Members</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-28/2020-04-28">28 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_addb301ef7acb17d331d4f55492935dc">
+            <head>Scope and Contents</head>
+            <p>Article about how the international helped Local 700 secure PPE.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_957a4512b128fdd70520d0570afc444d" level="item">
+          <did>
+            <unittitle>Episode 195: Coronavirus Update #10</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e76a0e45b05435137ec247bc9b9611a0">
+            <head>Scope and Contents</head>
+            <p>A coronavirus specific episode of the Teamster Nation Podcast</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_76cc6dd3ebf21c7736dce7826e78916b" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates for May 18, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_461ee499c6917baf1502bcc7fbfd2ce2">
+            <head>Scope and Contents</head>
+            <p>Collection of outside news sources about the coronavirus.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9ec72e99377c008dd74eeb66aa980495" level="item">
+          <did>
+            <unittitle>Teamster Hidden Heroes</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_9cbbf52b670916a5b1d312d52e892ba9">
+            <head>Scope and Contents</head>
+            <p>Photographs of Teamster members wearing masks while at various jobs.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_aa65133d3d2b7b57c090158a711c874e" level="item">
+          <did>
+            <unittitle>COVID-19 Outbreak Resources</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="2020-04-27/2020-04-27">27 April 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_b11dce004c4a626bb0dc3cdfa7e23a2c">
+            <head>Scope and Contents</head>
+            <p>Resources compiled on April 27, 2020</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3e1501011aa01f49ad5e3f415ffc9fcd" level="item">
+          <did>
+            <unittitle>Healthcare Workers Fact Sheet</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="2020-05-21/2020-05-21">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_31b0eb36a6a3ca3e4aa478cfb0b56680">
+            <head>Scope and Contents</head>
+            <p>Teamster Health Care workers provide information for the Teamsters about the COVID outbreak and what is known about it.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8da19f1ffced21847d47355148520dbf" level="item">
+          <did>
+            <unittitle>Latest News</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="2020-05-21/2020-05-21">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_9ba874acee19a17f9f5d04a70e941ad5">
+            <head>Scope and Contents</head>
+            <p>Tiles with different news stories from different outside sources that discuss how the coronavirus pandemic impacts workers and worker rights and protection, including struggling to access PPE and labor conditions for nurses.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d5d3960fb26a22cf0e0fc18e933117c8" level="item">
+          <did>
+            <unittitle>Longtime Local 727 Member Howard Switalla Volunteers to Assist in New York during Coronavirus Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_9826d46a568b1dd93e7daee0118ff565">
+            <head>Scope and Contents</head>
+            <p>An article from Local 727 about a long time Teamster going to New York City to help out admist the Coronavirus pandemic.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e6895f37dc6d127d010aedd31720e6ba" level="item">
+          <did>
+            <unittitle>Teamsters say Final Pension Bill Must Include Multiemployer Pension Partition</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_4e367ea3d1d6d4726f7852a996e6f9dd">
+            <head>Scope and Contents</head>
+            <p>A press release about legislation created as COVID-19 relief that concerned pension plans and the stimulus check.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3cb0081c1fe1fc83a0ba4e37d68fcd7b" level="item">
+          <did>
+            <unittitle>Republic Services Workers Demand PPE and Improved Workplace Conditions Amid COVID-19 Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_2a23954903b39cb0575c0fa9ebd7e79e">
+            <head>Scope and Contents</head>
+            <p>News about workers demands for a safer work environment admist COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_febffe3cc3474f77b079da73eb25f392" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates for May 19, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_f384c1d80d9e22dddb567a0cacdb7982">
+            <head>Scope and Contents</head>
+            <p>Collection of outside news sources about the coronavirus.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6c0f4b2a7aafc5b8c68b3b8b84e55e84" level="item">
+          <did>
+            <unittitle>Teamsters Homepage</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_7a1e39433c85fc0f30a200f41d4fedaf">
+            <head>Scope and Contents</head>
+            <p>Teamsters homepage with mentions of nurses organizing in Michigan and workers in Georgia fighting to get PPE.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a65b1a98d8defc24d1f0ec5d6e56d316" level="item">
+          <did>
+            <unittitle>Public Sector Jobs At Risk Due to Senate Inaction </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_c085ade5f0a99c753593481e3fe36b5a">
+            <head>Scope and Contents</head>
+            <p>Article about the economic impacts of COVID-19.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_60cf988b4977f821c8b76afa5997a27e" level="item">
+          <did>
+            <unittitle>Teamster Union Lauds CARES Act Relief for YRCW workers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_32eee871cd1f6b2d1a61ffc843d44a99">
+            <head>Scope and Contents</head>
+            <p>Article about the CARES act and its impact on freight drivers.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_fd7350db7c4c6649e8b1892dee45a1e2" level="item">
+          <did>
+            <unittitle>Women's Conference Webinars</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_96608867b9437fd6bda3a579a7dda8d7">
+            <head>Scope and Contents</head>
+            <p>Information about how the women's conference is adjusting and offering resources to its members.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9421182db0865abfddcd77e847d743c0" level="item">
+          <did>
+            <unittitle>Teamsters Hidden Heroes</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_17d9f89abac30bf3c41307c845a6dc7c">
+            <head>Scope and Contents</head>
+            <p>A video tribute to teamsters who are essential workers throughout the pandemic.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_08ac758883108f17351b27345b461b30" level="item">
+          <did>
+            <unittitle>California Elected Officials Join Striking Essential Workers In Caravan for Justice Through Los Angeles Wholesale Produce Market. </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_11b4561efcbd6792062e66d813e39d35">
+            <head>Scope and Contents</head>
+            <p>A press release about a strike action in Los Angeles.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6ad9161974fd86113ce09f03de73e75f" level="item">
+          <did>
+            <unittitle>Risk and race concerns fuel ongoing debate around hazard pay during pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_3b53c8c2d5de261b164cfd234082ce24">
+            <head>Scope and Contents</head>
+            <p>A link to an outside source called Deep Dive about sanitation workers and racial dynamics.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f27be3d9bfcfd780830ca56a3dbedfe4" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates for July 7, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_2dc8ba85a3009cda93335b666cc67a27">
+            <head>Scope and Contents</head>
+            <p>A round up of outside news sources from July about COVID-19.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f1781516ea06ed8ed1ce52ee03469b90" level="item">
+          <did>
+            <unittitle>Public Services "Member Town Hall" June 25 Webinar Recording</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-11/2020-07-11">11 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_381a95d8a9faf06098f613348c7ad304">
+            <head>Scope and Contents</head>
+            <p>A webinar by the teamsters about how to stay "safe and sane."</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d9c363a111fcfa4583a9be221c9cac74" level="item">
+          <did>
+            <unittitle>COVID-19 Outbreak Resources </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_36ea09e11d703bcf919e652a602db345">
+            <head>Scope and Contents</head>
+            <p>Message acknowledging the pandemic and the effects it will have on workers, with links to resources</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a7d600a84ac4ac0bdba5fd9d17ebd271" level="item">
+          <did>
+            <unittitle>Teamsters Local 331</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">20 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e310ba6c17a78ac4268c7a79fdd14ef1">
+            <head>Scope and Contents</head>
+            <p>Newsletter screenshot about LabCorp antibody testing</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_87eeac69ddfd48b94608b5a69352e3e0" level="item">
+          <did>
+            <unittitle>COVID-19 Statement 03-23-20 </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_ac281d4b143e4c0864443b5557538444">
+            <head>Scope and Contents</head>
+            <p>Press release on COVID-19 from Secretary-Treasurer, Shannon R. George</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_de39e08a83253390ad6bb40b23b36cab" level="item">
+          <did>
+            <unittitle>Support Hazard Pay for Essential Public Sector Workers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_d45acbb4d5eee0b3987bf2c766cc8447">
+            <head>Scope and Contents</head>
+            <p>Bulletin encouraging readers to contact representatives so public sector workers can receive hazard pay during the pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1fd4f999bdccebcdbcb5791e318d8ad1" level="item">
+          <did>
+            <unittitle>Update</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e219a474353b0185cac659e59e053c40">
+            <head>Scope and Contents</head>
+            <p>Bulletin with an update on pay freezes and PPEs</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_cc7567897db59d313679f9d3ac2a136f" level="item">
+          <did>
+            <unittitle>Union Meetings Postponed</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_a02cbf31e12988f2badd5236831f0c57">
+            <head>Scope and Contents</head>
+            <p>Bulletin announcing the postponement of union meetings due to coronavirus pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_149c4da2a54af6f7bf1f6f1d5291d1ba" level="item">
+          <did>
+            <unittitle>Washington Teamsters Welfare Trust Memorandum on COVID-19 Actions Taken So Far</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-03-25/2020-03-25">25 March 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e08e81c70b0a00115116aff970c14732">
+            <head>Scope and Contents</head>
+            <p>Memo discussing actions taken so far by the Washington Teamsters Welfare Trust regarding COVID-19 such as coverage extension, telehealth and virtual care, and testing.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3e438be142a277630271b7c2d5e0d610" level="item">
+          <did>
+            <unittitle>How To Apply for Unemployment Benefits in Washington State</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-03-17/2020-03-17">17 March 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_5dca89141e6673b9763d1bb046a3b87e">
+            <head>Scope and Contents</head>
+            <p>Flyer listing steps to applying for unemployment benefits in Washington State</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_01e62f583b7faf9ccad1c52b91aaa603" level="item">
+          <did>
+            <unittitle>Complete Listing of Essential Industries</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-03-23/2020-03-23">23 March 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_6e1ebd9c055b355ecb4948b8c552babe">
+            <head>Scope and Contents</head>
+            <p>List of industries and types of jobs that would be considered "essential" during COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1ed4e77c94607a82e2f560ca8bf85747" level="item">
+          <did>
+            <unittitle>City of Seattle and State of Washington Resources for Workers Impacted by the COVID-19 Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">No Date</unitdate>
+          </did>
+          <scopecontent id="aspace_5725ef2497f7b73a4c8baa659fd285a1">
+            <head>Scope and Contents</head>
+            <p>List of resources specifically for Seattle and Washington State workers in response to COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_27120e2c41cc04c80daf75ba861e4088" level="item">
+          <did>
+            <unittitle>CARES Act (complete document)</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-03-27/2020-03-27">27 March 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_84a954eefbe6cc34d65a10da047359d3">
+            <head>Scope and Contents</head>
+            <p>The complete CARES Act document to provide emergency assistance to individuals, families, and businesses affected by the 2020 coronavirus pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_9717b1b9f5e70079a478fd07069da264" level="item">
+          <did>
+            <unittitle>Teamsters Local 174 Rejects Productivity Standards During COVID-19 Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_669398f3ffaebbae96856fe88cfed376">
+            <head>Scope and Contents</head>
+            <p>Article discussing demands for employers to value employee safety over productivity during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c768c2569570230b865280c2483b574b" level="item">
+          <did>
+            <unittitle>April 9, 2020 General Membership and Initiates Meeting Canceled</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_2008c9bb8d2644cf51813c6275d7f838">
+            <head>Scope and Contents</head>
+            <p>A meeting cancelation announcement due to the "Stay Home, Stay Healthy" order for COVID-19 in Washington State</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_fb5b1e8820bb65470002c39bd75489f3" level="item">
+          <did>
+            <unittitle>Members in Action: Waste Management Seattle Drivers Keep Working</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_68d53f5fc720bd0a47821819970086de">
+            <head>Scope and Contents</head>
+            <p>Images of Local 174 members/Seattle Waste Management team working amidst the COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c9c740d9658888ffbd64c5e7736f4d05" level="item">
+          <did>
+            <unittitle>Re: Liability Waivers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_20a4dce23b3abc07561ae2c2478e08d8">
+            <head>Scope and Contents</head>
+            <p>Response to contracters in Washington State requiring employees to sign liability waivers amidst the COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_952e1ebcbbd2558e29e1a8709be390ba" level="item">
+          <did>
+            <unittitle>COVID-19 Information on Unemployment and Paid Leave </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_f8068a568301f94c6ed8e70f288989a2">
+            <head>Scope and Contents</head>
+            <p>Federal and Washington State-specific resources for unemployment and paid leave</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_003b2299fc064459ebf8e967d35e6434" level="item">
+          <did>
+            <unittitle>Families First Coronavirus Response Act: Employee Paid Leave Rights</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_33bee732b03a9a7f5f0c52b05c2fb94b">
+            <head>Scope and Contents</head>
+            <p>Document explaining the Families First Coronavirus Response Act</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_786e8a428c4ff63fbb2885496e5cc2db" level="item">
+          <did>
+            <unittitle>UPS Western Region Supplemental Leaders Led by Union Chairman Andy Marshall Reach Agreement Further Protecting Employees During COVID-19 Crisis</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+        </c>
+        <c id="aspace_1c07418e677715145c5568a3dce58ab4" level="item">
+          <did>
+            <unittitle>Teamsters Local 174 - Essential Services Providers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_ac056d311d90a2c65f3a15773d84557f">
+            <head>Scope and Contents</head>
+            <p>Letter discussing what employees could potentially qualify as "essential"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_8f81b1974231ef452ad6a8b2c33e7893" level="item">
+          <did>
+            <unittitle>Washington Teamsters Welfare Trust Communication: COVID-19 Response Update</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e7187500b6c085a8d223d4da8f7b4600">
+            <head>Scope and Contents</head>
+            <p>Notice discussing the actions taken so far in response to COVID-19 such as family leave and testing</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_cbbbc0fb59c2ebfdf2e0768b500cbcd3" level="item">
+          <did>
+            <unittitle>Washington Teamsters Welfare Trustees Vote to Extend Healthcare Coverage for Up to Three Months</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_f90d6f3fe861a74fb0730d810e6e615b">
+            <head>Scope and Contents</head>
+            <p>Notice announcing vote to extend healthcare coverage for JC28 members</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3bd1428868e9b3a58255b271e368fdb6" level="item">
+          <did>
+            <unittitle>FMCSA Decision RE: Medical Exams for DOT Physicals</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e526bbd6035616164f3f29dad5fd693b">
+            <head>Scope and Contents</head>
+            <p>Notice announcing a waiver has been granted for DOT physicals for CDL and CLP holders after having difficulty due to contamination concers from COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_99e1d6f0b0de73542088be7df5c2f69f" level="item">
+          <did>
+            <unittitle>Statewide "Stay Home" Order: Which Industries are Affected?</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_3f7ee1fe3ecc70f51f9d3d1af138e6c7">
+            <head>Scope and Contents</head>
+            <p>Announcement regarding the Washington State governor's Stay at Home order during the COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2b519f4623ff98fcaa629a99a104629e" level="item">
+          <did>
+            <unittitle>Teamsters Scholarship Update: Cavano Deadline Extended</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_3fd1396f6ee8016b065896566f6d68c3">
+            <head>Scope and Contents</head>
+            <p>Notice announcing the extension of the George Cavano scholarship deadline due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_13d592a368f9b1cf2d262c68ca7bb489" level="item">
+          <did>
+            <unittitle>COVID-19 and UPS's Failed Handling of a Deadly Pandemic Vol. 1: Too Much Volume, Not Enough Hands</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_603ee3c8216c80b847be28e64ba0a948">
+            <head>Scope and Contents</head>
+            <p>Bulletin calling out UPS for for mistreatment of employees and working conditions during COVID-19 surge in business.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_06aa202f91b3856634d8d40f55e38f58" level="item">
+          <did>
+            <unittitle>A Open Letter to Teamsters Local 174 Members from Secretary Treasurer Rick Hicks: "Thank you Governor Inslee for Taking Strong Action to Combat COVID-19 Pandemic." </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_34801e20490002505022429849cfa153">
+            <head>Scope and Contents</head>
+            <p>A letter discussing the switch to more intensive measures against COVID-19 by Governor Inslee.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2b7a45533e7998e5a90dae1bbb6c02df" level="item">
+          <did>
+            <unittitle>Teamsters Joint Council 28 President Rick Hicks Op-Ed: Trump Decision to Force Opening of Meat Processing Plants Will Lead to Deaths</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-30/2020-04-30">30 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_f01021fece41a618d609402027d597e7">
+            <head>Scope and Contents</head>
+            <p>Article warning against the reponing of meat processing plants due to over 100 workers already having contracted COVID</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_4c177c44d208db137d38c086cd4a0ed3" level="item">
+          <did>
+            <unittitle>Teamsters Local 174 Members at Pozzi Bros. Transportation Unanimously Ratify New Agreement</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_c9ac3350b967a189a54fafade8da8b94">
+            <head>Scope and Contents</head>
+            <p>Announcing the first ratification via Zoom conference calling due to COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f1bced0b6c3e0465c85823e493ebadf2" level="item">
+          <did>
+            <unittitle>Harstine Island Closed Until Further Notice due to COVID-19</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_d945893c39900033a735e75df14ae718">
+            <head>Scope and Contents</head>
+            <p>Announcement of closure to Local 313's recrecational property, Harstine Island, due to COVID-19 restrictions</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_dd7706a0883ab45032abadf8af80e916" level="item">
+          <did>
+            <unittitle>COVID-19 measures</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e6003c5f5139c79d674421dcc97068c7">
+            <head>Scope and Contents</head>
+            <p>Letter from local 370 president on safety measures taken due to COIVD-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_20c851dd028fc6d80ce8fcced6d9c58f" level="item">
+          <did>
+            <unittitle>Notice: COVID-19 "Stay At Home Order"</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_55837c494c1b95d16867f526bdff077d">
+            <head>Scope and Contents</head>
+            <p>Notice supporting the stay at home order and announcing the continued suport of membership during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_630de99340e7f756f150301b049c1b0f" level="item">
+          <did>
+            <unittitle>Message from the Joint Council President</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_27762083f285eea43cfa1b3a2ddaa39c">
+            <head>Scope and Contents</head>
+            <p>Letter from the joint council president regarding the different circumstances members may be enduring during the early statges of COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7c6850606be40b090ac9bdc8e84474e0" level="item">
+          <did>
+            <unittitle>Important Notice: Coronavirus-related benefit improvements
+</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-05/2020-05-05">05 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_30ead11bcb26aea9076c9300c4df4437">
+            <head>Scope and Contents</head>
+            <p>Notice announcing updates and information regaridng the benefits plan for members</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_91fede98d26d24374d69d2675430bafb" level="item">
+          <did>
+            <unittitle>Local 330 Member Bill Wolf Serving as Essential Worker During COVID-19 Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_86ac28005272168edc79c102cd4e6e6d">
+            <head>Scope and Contents</head>
+            <p>Video link not archived</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f563cf2d817fbc181a854a74b52fbd45" level="item">
+          <did>
+            <unittitle>Notice: Cancellation of April 21, 2020 General Membership Meeting</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_71a6d27ca368612eaf5598d07dd351a5">
+            <head>Scope and Contents</head>
+            <p>Announcement regarding the cancelation of a meeting due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0c4ad37e4a99e0be045c0bc7c64c416e" level="item">
+          <did>
+            <unittitle>Governor Sununu Issues Emergency Order Re: Coronavirus</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-09/2020-05-09">09 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_897283c5f6ae42935056e9962ca432d9">
+            <head>Scope and Contents</head>
+            <p>Notice from governor issuing five emergency orders</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e69f7d18b57b0e3a2a497771277069c1" level="item">
+          <did>
+            <unittitle>March 15, 2020 General Membership Meeting Canceled</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-09/2020-05-09">09 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_8bfc62f2d3977e9e6ec901e837ed79cd">
+            <head>Scope and Contents</head>
+            <p>Notice from Principal Officer Jeff Padellaro regarding a meeting cancellation due to COVID-19 (Coronavirus)</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_afbf3b955320444a4f80612a2f2919b7" level="item">
+          <did>
+            <unittitle>Employee Rights</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_Employee Rights">
+            <head>Scope and Contents</head>
+            <p>Notice discussing the paid sick and medical leave workers can receive from their employer</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1205be6a50460051be10cd700e0faaab" level="item">
+          <did>
+            <unittitle>Attention Notice</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="20202-05-12/20202-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_Attention Notice">
+            <head>Scope and Contents</head>
+            <p>Notice announcing the temporary closure of the office of Secretary /Treasurer Leonard Crouch due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a1672d312af6b9c6e8b74e43c369bd36" level="item">
+          <did>
+            <unittitle>Employment Security</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_7cb5b344a9171873908d60ffa21c0b03">
+            <head>Scope and Contents</head>
+            <p>Employment Security</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0e77e5a8c02e0cb181f5276e4d0821af" level="item">
+          <did>
+            <unittitle>U.S. Department of Labor</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_985a8951aeef71fc577c75435217b9fe">
+            <head>Scope and Contents</head>
+            <p>U.S Department of Labor</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_db6bf1917e88a9dcb6cc1bb4d1606329" level="item">
+          <did>
+            <unittitle>Centers for Disease Control and Prevention</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_773e660a0da5cf240f130bfb79b5cc1c">
+            <head>Scope and Contents</head>
+            <p>Centers for Disease Control and Prevention</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_160f2c3a1931e30149ad3a901a3f8ca8" level="item">
+          <did>
+            <unittitle>Port Truck Drivers Take Action, Demand Protections from COVID-19</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_9381f3b9596d4ed62eda6693b974ecc6">
+            <head>Scope and Contents</head>
+            <p>Port Truck Drivers Take Action, Demand Protections from COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d18acc99b13beed300bb9f1dc6146254" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - May 7, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_5c704083f7835e27edbf3f974ddaeddb">
+            <head>Scope and Contents</head>
+            <p>COVID-19 News Updates - May 7, 2020</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b59cc88401c09777776c0358d576f374" level="item">
+          <did>
+            <unittitle>Tell Kroger: Don't Cut Hazard Pay for Essential Workers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_d0cfed22c2619975c9f836a0b2e00c25">
+            <head>Scope and Contents</head>
+            <p>Notice to announce Kroger is stopping the "Hero Bonus" after May 16</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_64b3d3519837ae9addb341a69d5a678d" level="item">
+          <did>
+            <unittitle>Teamsters Urge Treasury Department to Protect Miami Air International</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_0abdde718195c0a541a0bcc89817edfa">
+            <head>Scope and Contents</head>
+            <p>Article about Teamsters pressing for financial support for a charter airline Miami Air International that employs over 350 workers</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0f46ee69387c924092fc24e84b824d3d" level="item">
+          <did>
+            <unittitle>New Essential Worker CDC Guidelines</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b12afbe10c0f35d5b0c99e530fefe015">
+            <head>Scope and Contents</head>
+            <p>New Essential Worker CDC Guidelines</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_bd039badefab55121703a15489253893" level="item">
+          <did>
+            <unittitle>Attention all Local 781 Members</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_fda2a6ae68108759d24e9a6aa614f80d">
+            <head>Scope and Contents</head>
+            <p>Attention all Local 781 Members</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6af2edf578dd86a8c61e9f6ad029712d" level="item">
+          <did>
+            <unittitle>Illinois Teamsters Working -COVID-19</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_049c9b79201abda3c19b020dfaad3f35">
+            <head>Scope and Contents</head>
+            <p>Illinois Teamsters Working during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_13de04bd6039f881f73e06197e83caa1" level="item">
+          <did>
+            <unittitle>Employee Rights COVID-19 Response Act</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_790bb3428561dff283bf6452464656ae">
+            <head>Scope and Contents</head>
+            <p>Employee Rights COVID-19 Response Act</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ca52bb5e03064483b2b2d724e38f2e44" level="item">
+          <did>
+            <unittitle>COVID-19 Resources</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_c9126ef659aabcc09abeafbac6543131">
+            <head>Scope and Contents</head>
+            <p>Resources for COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d96317311e27e3a37d981a8bce051018" level="item">
+          <did>
+            <unittitle>Coronavirus Pandemic - Please Read</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_58de185ef0d1516e80f2b8b15465fcd3">
+            <head>Scope and Contents</head>
+            <p>Information regarding COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3361060ba41991dbe59c5632bd0f330d" level="item">
+          <did>
+            <unittitle>Unemployment Benefits COVID-19 Please Read</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_4b3444cb4b696176e937b21d359b60f9">
+            <head>Scope and Contents</head>
+            <p>Unemployment Benefits COVID-19 - Please Read</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_02bbe72f1cc45141c6e4d428ec817d12" level="item">
+          <did>
+            <unittitle>COVID-19 Important!</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b3f48905585c9fda6d83d5ca2e529dd0">
+            <head>Scope and Contents</head>
+            <p>COVID-19 Information</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a12fcdc6171ac462734bb7cbeed94514" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - April 22, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-28/2020-04-28">28 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_a90a928b6fd1cb3de61e2879c2febef7">
+            <head>Scope and Contents</head>
+            <p>Long list of news updates and linked resources surrounding the virus</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0043a58b9f98d674338caeea0d31b8f9" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - April 23, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-28/2020-04-28">28 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e81be6f34b72d7d8f2395b6a855d19c7">
+            <head>Scope and Contents</head>
+            <p>Long list of news updates and linked resources surrounding the virus</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a5eb96e2b0a78f4c1d68ef7c914b6b05" level="item">
+          <did>
+            <unittitle>General Membership Meeting Cancelled</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-04-28/2020-04-28">28 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_0503b47a8bc0c8d39ca21e19e80c69c1">
+            <head>Scope and Contents</head>
+            <p>Notice announcing the cancellation of membership meeting on May 11 , 2020 due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ab48e6750ace13f0c0c89fcb8253fa6b" level="item">
+          <did>
+            <unittitle>UPS Agreement</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">No date</unitdate>
+          </did>
+          <scopecontent id="aspace_a3bb1f5023c0d7f5c0212bacd939e9ba">
+            <head>Scope and Contents</head>
+            <p>An agreement between UPS and its workers regarding paid leave and worker's rights due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3163bf693502daee1b092dd55698eac2" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates for July 7, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_a978303303b712a4c60b682e2718f749">
+            <head>Scope and Contents</head>
+            <p>Updates and resources regarding safety precautions, paid leave, childcare, sanitation, and  economic impact payments</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_120f4574c778211212321fb8bca6cea7" level="item">
+          <did>
+            <unittitle>Risk and race concerns fuel ongoing debate around hazard pay during global pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-10/2020-07-10">10 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_ec98a8be58867dca49e1fa9cb95bdc8f">
+            <head>Scope and Contents</head>
+            <p>Article discussing demands from sanitation workers for hazard pay during COVID</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3c047519738872aba7d32437dc243ef4" level="item">
+          <did>
+            <unittitle>California essential workers join striking essential workers in caravan for justice through Los Angeles wholesale produce market</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-07-09/2020-07-09">09 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_d6285f51e0c17f3966b6bcb179b6c589">
+            <head>Scope and Contents</head>
+            <p>Frustrations and demands from Los Angeles essential workers towards the Wholesale Produce Market for better working conditions during COVID</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ea4440554f7eb8356f528413104c24ff" level="item">
+          <did>
+            <unittitle>Teamsters Local 638 32nd Annual event cancelled </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_674048052464a8f5bfa5021b1b6ddf78">
+            <head>Scope and Contents</head>
+            <p>Notice announcing the cancellation of the 32nd Annual event on July 25, 2020</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c2081f9d57153bcea548f66eb3354725" level="item">
+          <did>
+            <unittitle>Compassion in a Crisis</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-24/2020-07-24">24 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_d50e5da8f91ff86c573c60a8824b593c">
+            <head>Scope and Contents</head>
+            <p>Teamsters fill the gaps with mutual aid and support to care for essential workers when employers fail.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2130594fbd07a4fde6fc573d1afbc792" level="item">
+          <did>
+            <unittitle>During Coronavirus, Union Steps Up </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-07-24/2020-07-24">24 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_cf24ef3724ffbc9532de7f2523c4cff1">
+            <head>Scope and Contents</head>
+            <p>Details on how Teamsters protected workers throughout the pandemic.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_104ca68716b8100893c2465b8c14e836" level="item">
+          <did>
+            <unittitle>COVID-19 Outbreak Resources</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_aa47739d6ac07078b612f4f2c58a9cf5">
+            <head>Scope and Contents</head>
+            <p>Links to stories and resources for COVID-19 such as federal updates, statements from essential workers, and news stories</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_fa3cc16ac34e66904afe086e0eab3698" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates for May 15, 2020</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-15/2020-05-15">15 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_064fd45aa21d0f21e73a5a67a50e9de4">
+            <head>Scope and Contents</head>
+            <p>List of updates and links to videos of President Trump or White House correspondants regarding COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_42a6524b2ad7ed991a293a8c8ef56c97" level="item">
+          <did>
+            <unittitle>Local 839 Leaders Discuss COVID-19 Protections for Food Processing Workers (Video)</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_9055b9166033490c6bf92f242d869cfc">
+            <head>Scope and Contents</head>
+            <p>Video discussing what protections would be put into place for essential workers in food processing industry</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b1ca1cb73d719724823be44d33e39066" level="item">
+          <did>
+            <unittitle>Teamster 727 Jewel-Osco Steward Ciprian Gorgan HIghlights Union's Fight for Better Working Conditions in Recent Tribune Article</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-04-24/2020-04-24">24 April 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_0616c1eaa9b2652628364e6f49f87a9e">
+            <head>Scope and Contents</head>
+            <p>Article about the demands towards Jewel-Osco and their essential workers during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2ca907235189593fa8e3a300899a758c" level="item">
+          <did>
+            <unittitle>Teamsters Local 727 Benefit Fund Trustees Temporarily Extend Health and Welfare Coverage</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_839f3bb6a831da3457d791b5e3d9d5b5">
+            <head>Scope and Contents</head>
+            <p>Bulletin explaining the extension of health and welfare coverage in response to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_988920e77ec32fee51f25dad4fd4feb7" level="item">
+          <did>
+            <unittitle>During a National Crisis, Rolex Fails to Recognize its Essential Employees</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_24d91a250a7008928444d5bf92fbab7c">
+            <head>Scope and Contents</head>
+            <p>Comments on Rollex not paying their employees appropriately while they work during the pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3d20bb43da051164dc8c4425c5deb182" level="item">
+          <did>
+            <unittitle>MV Transportation Division 422 Employees Left Out in the Cold While Others Remain Compensated</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b3783ec2c775e8f379560f6df0d5419b">
+            <head>Scope and Contents</head>
+            <p>Article commenting on the decision MV Transportation made to furlough some employees and not others</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1cae7c9f0169f8f6e42523761bfccdc3" level="item">
+          <did>
+            <unittitle>Park USA Makes Furloughed Teamsters Local 727 Members Whole</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12 /2020-05-12 ">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_7dfc05efb36224da6b0d40304609f702">
+            <head>Scope and Contents</head>
+            <p>Teamsters Local 727 applauds the recent efforts of valet parking company, Park USA.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c275dd0dddf49084081842ff790b0113" level="item">
+          <did>
+            <unittitle>Teamsters 727 Preserves Jobs, Wages and Benefits at One Parking During Stay at Home Order</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_7f8cc8b156bca90913e907981f2b7231">
+            <head>Scope and Contents</head>
+            <p>One Parking agrees to preserve the wages for the thirty-five Local 727 member</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_95e8e1eb4f7dacb367c45ead504a5750" level="item">
+          <did>
+            <unittitle>Teamsters Local 727 Stands-Up Against Corporate Bully, Great Lakes Coca-Cola After the Company Tells Employee's to Remove Masks</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_1ded78bd320bf6864ba1bb00742b91e1">
+            <head>Scope and Contents</head>
+            <p>Article about Coca-Cola asking employees to remove their masks that had been provided to them by the Union.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_12a30654b205ce8765c121635120d731" level="item">
+          <did>
+            <unittitle>Longtime Local 727 Member Howard Switalla Volunteers to Assist in New York during Coronavirus Pandemic</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_17cf7b505cd72abbf9e4c04af680d5a4">
+            <head>Scope and Contents</head>
+            <p>Numerous local members volunteer their experience as funeral directors, embalmers, livery drivers, and grave diggers during COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_5fcee15446b268e4e2bc4e3347389aab" level="item">
+          <did>
+            <unittitle>Additional Film and Television Production Safety Guidelines Released by Multi-Union Task Force</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_0ca4415ba5c720abc497db5c15443c2c">
+            <head>Scope and Contents</head>
+            <p>Safety guidelines called "the Safe Way Forward" which outlines specific safety guidelines and includes guidance on mandatory testing, personal protective equipment (PPE), and department- specific procedures</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f66bd4295b8b822b07ffe1f05056b113" level="item">
+          <did>
+            <unittitle>Teamsters Work to Establish Safe Return-to-Work Policies for Motion Picture Division </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_55c620ad0aca7a205d4157f479b62e6d">
+            <head>Scope and Contents</head>
+            <p>Representatives of Teamsters along with IATSE, SAG-AFTRA, DGA and other producing entities and guilds have drafted a set of recommended return-to-work policies and safety protocols for motion pictures, television, and streaming productions during the COVID-19 pandemic.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e62de870e9562716f150bd7f7361dddd" level="item">
+          <did>
+            <unittitle>Union Demands Safety Be Top Priority as CVS Rolls Out COVID-19 Testing Centers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-29/2020-07-29">29 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_6b40addd9f6f31630fea92a1d524909d">
+            <head>Scope and Contents</head>
+            <p>After union pressures, CVS rolls out COVID-19 testing centers and will provide additional technician hours to all testing-center pharmacies</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d0ae96be15056dd38b5d59ccaa5da94b" level="item">
+          <did>
+            <unittitle>Tribune Engages in Bad Faith and Regressive Effects Bargaining Over Proposed Lay-Offs</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">20 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_281484db3c49164da3913ccfced03925">
+            <head>Scope and Contents</head>
+            <p>Chicago Tribune implemented a "regressive" proposal to lay-off  the two least senior drivers while also asking members to sign a confidentiality agreement</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2078a292f291af816fef2302c5310c9e" level="item">
+          <did>
+            <unittitle>727 Demands Bargaining Over Great Lakes Coca-Cola's Unjust Wellness Policy</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_73e350e22c650a401d23248e5e8bc05c">
+            <head>Scope and Contents</head>
+            <p>Article mentioning multiple issues Local 727 has with Coco-Cola company and their mistreatment of employees during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_608c52db270f696f6d96dd24b382d2ab" level="item">
+          <did>
+            <unittitle>Great Lakes Coca-Cola Withholds Information From the Union Leading the Union to Ask What GLCC Has to Hide</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">20 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b41bea6a86d7588bc68ab0aa774d3403">
+            <head>Scope and Contents</head>
+            <p>Article explaining the issues the union has with Coco-Cola including Great Lakes Coca-Cola ending hazard pay after only a month with no notice to the Union.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_af821abffce3c1adfb045ad3542df25a" level="item">
+          <did>
+            <unittitle>Keeping our Members Safe!</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_001ccbbf4da9dae46dc74f523716d5c9">
+            <head>Scope and Contents</head>
+            <p>An externally linked bulletin</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d06615c60c5486e0c3ca0431f492530a" level="item">
+          <did>
+            <unittitle>In Case You Missed It</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_09837aef850a1848a360ca2bb52ddb14">
+            <head>Scope and Contents</head>
+            <p>"Can unions surge in post-pandemic America."</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2f9bd6a2a839fd442155aa68705b334f" level="item">
+          <did>
+            <unittitle>May Day Strike at Amazon, Walmart, Fed Ex, Target, Instacart, and Whole Foods</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_757896c850461d2b6a8cedaabf909dbc">
+            <head>Scope and Contents</head>
+            <p>Dangerous pandemic-caused working conditions at warehouses, in the "gig economy," and at big box stores are forcing tens of thousands of workers at six large firms &#44; Instacart, Shipt, and Whole Foods &#110;ch breaks on May 1.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_56d531c1602cd48d1a56cb30059c4a0a" level="item">
+          <did>
+            <unittitle>Osha Inspectors Are Key to Reopening. Their Ranks Are at a 45-Year Low</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_165882419924ac0ec1d79be9c3b157b5">
+            <head>Scope and Contents</head>
+            <p>Businesses rely on Osha inspectors for potential reopening but Osha is operating at historically low staffing numbers</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6fcfe4f52eb910b475c226c2550be04c" level="item">
+          <did>
+            <unittitle>Safety Alert</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_e06ebd4157ebe2bfd648ddcd1d50961c">
+            <head>Scope and Contents</head>
+            <p>Announcement wishing members health and safety at the beginning of the COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c323f12d482eed2ea3021716c60841ee" level="item">
+          <did>
+            <unittitle>Union Meetings</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_a0780163a59486c9dc002ef09786b86d">
+            <head>Scope and Contents</head>
+            <p>Meetings postponed for the month of May except for the Executive Board meeting</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7d26fd97657cf4137d4a0e797825f3f7" level="item">
+          <did>
+            <unittitle>Update from the President 4/30</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_8550f092e2470ee513d6d8db4551eee9">
+            <head>Scope and Contents</head>
+            <p>President writes that 5 members of Local 1120 had tested positive for COVID-19 as of April 30, 2020</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_447e4a50f7c4fe45e2193129f421d6e0" level="item">
+          <did>
+            <unittitle>Retirees &amp; Friends May Meeting Canceled.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_72e3c00bed744803fc59f17ee39896c0">
+            <head>Scope and Contents</head>
+            <p>Announcing the cancellation of the May 7th, 2020 Retirees and Friends Meeting due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_30eae37deaa21704f93bee4ed75fee3e" level="item">
+          <did>
+            <unittitle>OSHA 10 GES : Our first Zoom class is full.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_c1adda8314d195272fa34da5891977cf">
+            <head>Scope and Contents</head>
+            <p>Announcement regarding the free Zoom video classes in preparation for teleworking due to COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_61c6bb6dc943c55fa5751f85ec87d597" level="item">
+          <did>
+            <unittitle>Emerald Protection Plan</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_f1108ad70c361ecd677915737717ac1b">
+            <head>Scope and Contents</head>
+            <p>Grab and Go food drive during the early stages of quarantine for COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1f7b5b7d6d0143c16fdd75069d31ede6" level="item">
+          <did>
+            <unittitle>Extensions to the COVID-19 agreements</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_6ab2f85589e72d796886554e34c7bf9f">
+            <head>Scope and Contents</head>
+            <p>Extensions to the COVID-19 agreements</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e6be7f368e4a7460cfb66ee89bc5f4c1" level="item">
+          <did>
+            <unittitle>Ferndale School Bus Driver making a difference!</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_8a83b083e5b41ec3fdb379d2e4fb4703">
+            <head>Scope and Contents</head>
+            <p>Highlighting Ferndale School District Teamster, Brent Richards, for stepping up during COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_578cd58cebd2cce5d6a35538f6f8cdfc" level="item">
+          <did>
+            <unittitle>MassMutual Market Update Session - May 7, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_025143a8dc6c584f3db242b59961ea6f">
+            <head>Scope and Contents</head>
+            <p>MassMutual hosted a virtual education meeting on May 7 to discuss member's investments and retirement savings amidst COVID-19</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0523493355af8b249b4e1b755b421de2" level="item">
+          <did>
+            <unittitle>COVID-19 Update</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-03/2020-05-03">03 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_02c0dac57e4b66b2423213423c66c842">
+            <head>Scope and Contents</head>
+            <p>Announcement showing Teamster support for its memebers during COVID-19 and including resource links for Local 231</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_46595071b18ee98e30af1e8593c65c84" level="item">
+          <did>
+            <unittitle>Message from the President</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_91fac207a4e08989b43f4cf029ea5c8b">
+            <head>Scope and Contents</head>
+            <p>On July 10, 2020, the president of Local 1120 announces there has not been any new COVID-19 cases reported.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_d58b1705fc14943360e7e270d8ab22c5" level="item">
+          <did>
+            <unittitle>Important Unemployment Extension Requirements</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b9b123901bd73e61e485f8f70b42f4b5">
+            <head>Scope and Contents</head>
+            <p>New State Extension Comes with Stricter Job Search Requirements On May 24, due to the high unemployment rate, Washington entered an 'Extended Benefits' (EB) period. Entended benefits adds up to 13 more weeks of beneftis to qualifying claims.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_86cda8a6d001fed491e4a9b5c12a2e26" level="item">
+          <did>
+            <unittitle>5 recruits, 6 instructors at El Paso Police Academy test positive for coronavirus</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_65b8727898ff18f1e776588e8561b2dd">
+            <head>Scope and Contents</head>
+            <p>The El Paso Municipal Police Officer's Assosication reported to ABC-7 that five of their recruits in the police academy, as well as six training officers there have tested positive for Covid-19. EPPD became aware the outbreak at the academy in early July.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_da8de49fd209f50aec65e999f21a9968" level="item">
+          <did>
+            <unittitle>SW Washington Works Together Presents a Virtual Town Hall: Resiliency &amp; Mental Health During a Pandemic</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_cee8f201ac19a4a25694183b8c3c017a">
+            <head>Scope and Contents</head>
+            <p>Announcement for a virtual townhall to help members and their mental health during the COVID-19 pandemic</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_184ace668b82e5bc432fbae9c62ee32d" level="item">
+          <did>
+            <unittitle>Action Alert: #SenateFAIL Cory Gardner Car Caravan this Wednesday</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_b8c604a4db7621c97addad09a50ecee3">
+            <head>Scope and Contents</head>
+            <p>Announcement regarding caravan around Senator Cory Gardner's office in protest of Senator Cory Gardner's decision to go on vacation after failing to take any meaningful action on COVID relief.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_a879f7f8442b495d40008c44f19c0c0a" level="item">
+          <did>
+            <unittitle>How the American Worker Got Fleeced</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-13/2020-07-13">13 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_da444435d1e45efe17e1cb867defd7b9">
+            <head>Scope and Contents</head>
+            <p>"[The pandemic] helps clarify just how much employers have chipped away at the labor rights and bargaining power that came with the New Deal."</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6b33cb86dd7d7d363fa4225ee80ae6cc" level="item">
+          <did>
+            <unittitle>Essential Workers Deserve Fair Pay Now!</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-12/2020-07-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_1f3a41fcb10dd5642f6abafe08fa11ea">
+            <head>Scope and Contents</head>
+            <p>Denver Public School district told essential workers that they can't afford to give workers a step increase and a COLA.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_5ff876b7e77f9ede1835f7262376f8d7" level="item">
+          <did>
+            <unittitle>Colorado Health and Safety workplace protections</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_fc89a0bb9d1a8b6f7e7edfb1e745a700">
+            <head>Scope and Contents</head>
+            <p>The bill makes it unlawful for employers in Colorado to retaliate against workers for raising health and safety issues during a pandemic. Also, it allows employees to wear their own PPE.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7fe19396fc9d155077ccb5c0c9c21c0e" level="item">
+          <did>
+            <unittitle>State &amp; Local Face Mask Requirements for Public Places</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-12/2020-05-12">12 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_7643bfeaa1b15a1e6513f2dd82571d49">
+            <head>Scope and Contents</head>
+            <p>Reminder for travelers to check the state and local requirements for face masks when passing through, since the rules vary.  Local 7777.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_c4c2fa75b0169129d88992aa50964fbf" level="item">
+          <did>
+            <unittitle>Teamsters call on Bill Gates to Provide PPE to sanitation workers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_8e971af092acbfebafc3a44562585761">
+            <head>Scope and Contents</head>
+            <p>Bulletin explaining the teamster request for Bill Gates to provide PPE to sanitation workers. The Teamsters are launching a digital advertising campaign around its annual shareholder meeting on Friday. The union is asking for members to sign a letter, "Tell Bill Gates: Use your power to keep sanitation workers safe." It represents more than 7,000 Republic Services workers, which is about 20 percent of the company's workforce.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_496b0b54511890eb1199832c331deb86" level="item">
+          <did>
+            <unittitle>Nurses Open Up About Protecting Mental Health, Program Offers Free Online Therapy During Crisis</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_bd917e1e85469d924fa4034c673e1e74">
+            <head>Scope and Contents</head>
+            <p>"It is the the start of National Nurses Week, although the trauma experienced by some of them will likely last for some time."</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_1d44b2178bd58efed692757a68a4372b" level="item">
+          <did>
+            <unittitle>Teamsters Honor Nurses, Saying Their Contributions Can't Be Overstated</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-05-21/2020-05-21">21 May 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_414692f5bfe3d7858bfbb54b39756ee8">
+            <head>Scope and Contents</head>
+            <p>Article recognizing the value of nurses during National Nurses Week in the U.S.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_0b1628fc537b2f462b740bf42bb0a4a7" level="item">
+          <did>
+            <unittitle>Washington Post: Fewer Hours, Less Pay and More Anxiety Greet Returning Workers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_761e4a1b885957ce30e3c31e21fbccab">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_4892bbcaabf5dbfb919021a21aa3f1ce" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - June 4, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_bb65dc67361f86caaa59706f733f6d2c">
+            <head>Scope and Contents</head>
+            <p>none</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b51bc42052bd565af44cec4c8dbd91c8" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - June 3, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_c6dba8740d5b44a641d7e38ebbfd1672">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2b86c7f626bd1b916036760968b7936e" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - June 2, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_5e2f154d2993d46cde1da163c92f9018">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f87553a98fc52291c9524753814e1a4d" level="item">
+          <did>
+            <unittitle>Hoffa: Infrastructure Investment Holds Key to Improving Economy</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_5b51421140495fff61718b4d2531920b">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_798291c888d5c7ff6d0058485ba87073" level="item">
+          <did>
+            <unittitle>Motion Picture Industry-Wide Labor Management Task Force Issues Return to Work Policies</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_026cb96d09302a551ab251a788006288">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_faaea5a99823afdcb2fdba935f8387b3" level="item">
+          <did>
+            <unittitle>COVID-19 News Updates - May 29, 2020</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_5690e21689421758af57b27a060f4de1">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_aea7c2bcc15a1ff775a7a9e662cf7b27" level="item">
+          <did>
+            <unittitle>Teamsters Hold Food, PPE Distribution for Port Truck Drivers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2020-07-28/2020-07-28">28 July 2020</unitdate>
+          </did>
+          <scopecontent id="aspace_58f7b9a427ee12d254e7422cb6a44221">
+            <head>Scope and Contents</head>
+            <p>None</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

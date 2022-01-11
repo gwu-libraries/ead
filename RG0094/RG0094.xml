@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0094.xml">rg0094.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Human Services Department records, <date calendar="gregorian" era="ce">1960-1985</date>
+ <num>RG0094</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:37 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Human Services Department records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">George Washington University. Undergraduate Program in Human Services</corpname>
+      </origination>
+      <unitid>RG0094</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15 Linear Feet</extent>
+        <extent altrender="carrier">10 record cartons</extent>
+      </physdesc>
+      <unitdate datechar="creation">1960-1985</unitdate>
+      <abstract id="aspace_06ced5e068cfbe12d8ef792e1ff002fe">Materials in this collection include labor relations, training programs, grievance reports and transcripts, and articles on personnel/employee relations, training, and psychology from various journals. The collection covers the years 1960 to 1985.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_6c624a0ae1e6722b7f2596b56ee40b8e">
+      <head>Preferred citation</head>
+      <p>Human Services Department records, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_3e5c073809051957b932e3a9eb326208">
+      <head>Restrictions on Access</head>
+      <p>Series 1 is closed to research for 25 years from date of record creation.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_1d5b458f2595415bda6c01b7fe8bdab3">
+      <head>Acquisition Information</head>
+      <p>Acquisitions data for this collection is unknown.</p>
+    </acqinfo>
+    <userestrict id="aspace_fe1958ec9efa39f723e14c394c398a14">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_7cb812459af54c4ef1bf83d3b279e180">
+      <head>Historical or Biographical Note</head>
+      <p>In 1987 the School of Education was organized into four departments: Department of Teacher Preparation and Special Education; the Department of Human Kinetics and Tourism; the Department of Educational Leadership, and the Department of Human Services. Each is headed by a department chair. Since 1994 the School has been known as The Graduate School of Education and Human Development, when it transitioned from a comprehensive undergraduate/graduate entity to one focusing exclusively on graduate education. In 2004 the School celebrated its Centenary. The Dean of the School reports to the Executive Vice President for Academic Affairs. N.B. This history note was written in 2005</p>
+    </bioghist>
+    <scopecontent id="aspace_be9a9576b6071df981f552d0693a66e3">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include labor relations, training programs, grievance reports and transcripts, and articles on personnel/employee relations, training, and psychology from various journals. The collection covers the years 1960 to 1985.</p>
+      <p>Formerly RG 8.6.1</p>
+    </scopecontent>
+    <arrangement id="aspace_d9014c67de41b02a1d78879d25121e4f">
+      <head>Collection Organization</head>
+      <p>Organized into two series: Labor relations, training programs, grievance reports, and transcripts; and Articles.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Employee relations</subject>
+      <subject source="lcsh">Training</subject>
+      <subject source="lcsh">Foggy Bottom (Washington, D.C.)</subject>
+      <subject source="lcsh">Psychology</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <corpname rules="aacr" source="naf">George Washington University. Graduate School of Education and Human Development</corpname>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+      <corpname rules="aacr" source="local">George Washington University. Human Services Dept.</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_2mb" level="series">
+        <did>
+          <unittitle>Labor relations, training programs, grievance reports, and transcripts</unittitle>
+          <unitid>RG0094 Series 1</unitid>
+          <unitdate datechar="creation">1967-1985</unitdate>
+          <physdesc id="aspace_516022f9bffdbf5cef83aeebd8037c40" label="General Physical Description note">4.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_ec47acfe2c6a1eb6412171cff8fd0d52">
+          <head>Scope and Contents note</head>
+          <p>This series contains materials on labor relations, training programs, grievance reports, and transcripts from 1967 to 1985.</p>
+          <p>Formerly ACC#29</p>
+        </scopecontent>
+        <c id="aspace_ref12_770" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1975-1985</unitdate>
+            <container id="aspace_21164c413fefdf796f14a0026345f898" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_02117a21a5f55e9d47c98f3273f61e8d" parent="aspace_21164c413fefdf796f14a0026345f898" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_8u3" level="file">
+          <did>
+            <unittitle>OP: Employee Relation Functions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_181bbe19ea602e54bf9cc220f2a44b1a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3e034fbd0a582844ea103112d5564b0b" parent="aspace_181bbe19ea602e54bf9cc220f2a44b1a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_ks5" level="file">
+          <did>
+            <unittitle>OP: Employee Relation: Old Budgets</unittitle>
+            <unitdate datechar="creation">1980-1985</unitdate>
+            <container id="aspace_e176abd7d41c082feb8348358e69de13" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_623bbe28efe22f0bf1e1f5626eb12d1d" parent="aspace_e176abd7d41c082feb8348358e69de13" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_buc" level="file">
+          <did>
+            <unittitle>OP: Projects Dress Code Committee</unittitle>
+            <unitdate datechar="creation">1984-1985</unitdate>
+            <container id="aspace_b23c23d0ca55b4f79a9273737b8e17c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dd082c3f1061b00275db59be5b21cc23" parent="aspace_b23c23d0ca55b4f79a9273737b8e17c6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_wj7" level="file">
+          <did>
+            <unittitle>OP: Project 1 Grievance Request: Policy</unittitle>
+            <unitdate datechar="creation">1981-1983</unitdate>
+            <container id="aspace_da4f7230e16a2a54454654f08f6b2ae1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bbd4960fd74157572d3c69643185f70c" parent="aspace_da4f7230e16a2a54454654f08f6b2ae1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_ryt" level="file">
+          <did>
+            <unittitle>OP: Project 11 Grievance Request: Policy</unittitle>
+            <unitdate datechar="creation">1983-1985</unitdate>
+            <container id="aspace_f488c943e210c35e4c767fa652f8ec08" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8b41f4492a589dc9217de453ee245f1e" parent="aspace_f488c943e210c35e4c767fa652f8ec08" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_gie" level="file">
+          <did>
+            <unittitle>A1/E/Employee Relations Activity Report: GWU Grievance Statistics</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_76c9e9b95eb19f5f3bbbbbe31b6e9550" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_75fb4912b0312e7a8f45a335813b4ff8" parent="aspace_76c9e9b95eb19f5f3bbbbbe31b6e9550" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_feh" level="file">
+          <did>
+            <unittitle>OP: Reports: ER Activity</unittitle>
+            <unitdate datechar="creation">1970-1980</unitdate>
+            <container id="aspace_41d23bb32e8d53ec09b729f215895075" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b7bb1d155e458ee8b64d19198bb69764" parent="aspace_41d23bb32e8d53ec09b729f215895075" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_ob7" level="file">
+          <did>
+            <unittitle>Employee Relations Activity Reports</unittitle>
+            <unitdate datechar="creation">1980-1984</unitdate>
+            <container id="aspace_0a85593fb4d72880ce423131791bd3c2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6045cbac3d8672fbabec0e2fb5fc2416" parent="aspace_0a85593fb4d72880ce423131791bd3c2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_rhp" level="file">
+          <did>
+            <unittitle>Involuntary Termination Reports</unittitle>
+            <unitdate datechar="creation">1980-1984</unitdate>
+            <container id="aspace_9586abbf3ec811d4b2c9c1a2e7833053" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c4639ba9a675fa1e0bfb111c3c25df0d" parent="aspace_9586abbf3ec811d4b2c9c1a2e7833053" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_fj1" level="file">
+          <did>
+            <unittitle>Exit Interview Reports</unittitle>
+            <unitdate datechar="creation">1980-1984</unitdate>
+            <container id="aspace_5dce78013bbed7a7d808c3488f0a1044" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b908f722de80d25b3958a2e09d39b4d4" parent="aspace_5dce78013bbed7a7d808c3488f0a1044" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_9sf" level="file">
+          <did>
+            <unittitle>Nursing Exit Interview Reports and Correspondence</unittitle>
+            <unitdate datechar="creation">1979-1985</unitdate>
+            <container id="aspace_af6d2fef1dda2341efeca84d66070b5e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_440b55d69e8f91c1ba5db0dcf432639c" parent="aspace_af6d2fef1dda2341efeca84d66070b5e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_rk8" level="file">
+          <did>
+            <unittitle>OP: Recordings</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_cd37902ee2c28db102b90e8a36f8559a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_63d32c176364664989f72e6ff4caf2ce" parent="aspace_cd37902ee2c28db102b90e8a36f8559a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_lgz" level="file">
+          <did>
+            <unittitle>OP: Recordings</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_e3e07259c2064ba98c2bbe7f1a0147d1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3e463c2d86df40a6687c9a97ea91e2e2" parent="aspace_e3e07259c2064ba98c2bbe7f1a0147d1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_85i" level="file">
+          <did>
+            <unittitle>OP: Recordings</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_4bd37ad6c5727c5ad816e7b8ca4154b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_920942a6f903eb14a34bdc2c60306276" parent="aspace_4bd37ad6c5727c5ad816e7b8ca4154b1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_6rp" level="file">
+          <did>
+            <unittitle>OP: Recordings</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_a006c4ee8dc2418746002fd5bdfb796c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_58ec32832078bb647f8ed2fa4adfc4f4" parent="aspace_a006c4ee8dc2418746002fd5bdfb796c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_wbt" level="file">
+          <did>
+            <unittitle>LOG: 1st Quarter</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_9071ac50056ce72198c9c6c209c66b0c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_67cbb32023d4d46bd6472dc502cfd0b4" parent="aspace_9071ac50056ce72198c9c6c209c66b0c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_13x" level="file">
+          <did>
+            <unittitle>LOG: 2nd Quarter</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_d4a025e2fcc66b8238ee7b669847c034" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_137ba7dc38c99d6f36ceb57e0c76eb67" parent="aspace_d4a025e2fcc66b8238ee7b669847c034" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_q0z" level="file">
+          <did>
+            <unittitle>LOG: 3rd Quarter</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_46607c2535fc190d08182b3622fbf9c5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4536327e1b8f3c2c684bc483a554a679" parent="aspace_46607c2535fc190d08182b3622fbf9c5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_83z" level="file">
+          <did>
+            <unittitle>LOG: 4th Quarter</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_a736cc09af6cf8275b29472da180583d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6ca4e28663fd1c7d73d831aa180fe4d4" parent="aspace_a736cc09af6cf8275b29472da180583d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_blm" level="file">
+          <did>
+            <unittitle>OP: Involuntary Termination</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_4e9b16dee4f09b2a9a2e8be2cf7c0298" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_29d307870a8d3019acc6933fd2121bad" parent="aspace_4e9b16dee4f09b2a9a2e8be2cf7c0298" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_5or" level="file">
+          <did>
+            <unittitle>OP: Involuntary Termination</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_c170e3090a3b1e627a555b4fa9759712" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_545e59d5f2d1c66a40731c80678bde9d" parent="aspace_c170e3090a3b1e627a555b4fa9759712" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_rvd" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: Past Union Contracts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a477b953271076669f8d560c0b2858b6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cbe7bcef541d45da89f9afc7f4c989b1" parent="aspace_a477b953271076669f8d560c0b2858b6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_e4z" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: Local Contracts</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_85f46b7ca2c90e33307c408e81d670aa" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5eb94b18f4632be0616a2f240717bf25" parent="aspace_85f46b7ca2c90e33307c408e81d670aa" type="Folder">2</container>
+          </did>
+          <odd id="aspace_68eb249cdca20c866245285828f72613">
+            <head>General note</head>
+            <p>1467-08-73</p>
+          </odd>
+        </c>
+        <c id="aspace_ref37_duz" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: 639 NEG</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_12dea7547c5621ddccea1c93a34a6674" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_22a7d9e49d6af188fcfedb65919c64b2" parent="aspace_12dea7547c5621ddccea1c93a34a6674" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_cak" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: Local Teamsters 639</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_8560d764c72638a3854b55091e671095" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fa761ad9e7078a595ca8455f28fdb793" parent="aspace_8560d764c72638a3854b55091e671095" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_v91" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: Local Teamsters 639</unittitle>
+            <unitdate datechar="creation">1976-1978</unitdate>
+            <container id="aspace_1df8fa8b0868c73f0f30e531e1ef756c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_295a44b54b04c0229afa122a88b1f5e2" parent="aspace_1df8fa8b0868c73f0f30e531e1ef756c" type="Folder">5</container>
+          </did>
+          <odd id="aspace_d4336e2a38bef0c00b17987dd8051885">
+            <head>General note</head>
+            <p>Negotiating Material</p>
+          </odd>
+        </c>
+        <c id="aspace_ref41_lnv" level="file">
+          <did>
+            <unittitle>Labor Relations Negotiations: Local Planning Committee</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_f9592f0c4498fea8852dde7867b2ccd7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_56ca54fb182037fab4b7afec398f2a83" parent="aspace_f9592f0c4498fea8852dde7867b2ccd7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_qsb" level="file">
+          <did>
+            <unittitle>Labor Relations</unittitle>
+            <unitdate datechar="creation">1979-1982</unitdate>
+            <container id="aspace_22e842538dc060363f5eaf61f99869ea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_63ae206c746b3288ed59f94ff7af96af" parent="aspace_22e842538dc060363f5eaf61f99869ea" type="Folder">7</container>
+          </did>
+          <odd id="aspace_f64dba87e3939ad660da0f3b92054635">
+            <head>General note</head>
+            <p>Negotiators, Local, and GWU/Union Contract</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44_ltv" level="file">
+          <did>
+            <unittitle>OP: Coordination: Sexual Harassment Committee</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_cecfcfe69ab06a5d3912cd9cf6bd12d8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e07e90a6ba4b42e7a17005fac3759c68" parent="aspace_cecfcfe69ab06a5d3912cd9cf6bd12d8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_pvt" level="file">
+          <did>
+            <unittitle>OP: Coordination: EEA</unittitle>
+            <unitdate datechar="creation">\1 ca.1980</unitdate>
+            <container id="aspace_d9d2a23847d5d89e93e1f2bffbde21be" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_861c29c946387fc1473a03036f33dd42" parent="aspace_d9d2a23847d5d89e93e1f2bffbde21be" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_ix7" level="file">
+          <did>
+            <unittitle>OP: Coordination: EEA</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_40b2466d9f33607a1c9134edaaedf953" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8ad5f445544ba611eccedd6de876ba43" parent="aspace_40b2466d9f33607a1c9134edaaedf953" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_zwq" level="file">
+          <did>
+            <unittitle>History of Training: DIWE Proposal</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_5e0372440b1f30b0663388f2cc138845" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2d3827f754023465054fa95ab71da0d4" parent="aspace_5e0372440b1f30b0663388f2cc138845" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_tva" level="file">
+          <did>
+            <unittitle>OP: Trainig Programs BASE</unittitle>
+            <unitdate datechar="creation">1979-1980</unitdate>
+            <container id="aspace_cdacc24338d5542d9305cc55257c2164" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_570fd5d429f9bd68c719f577cd21c47c" parent="aspace_cdacc24338d5542d9305cc55257c2164" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_7t2" level="file">
+          <did>
+            <unittitle>OP: Training Programs: Union Prevention</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_0da4ff310b2f58cb399f6bddb10b935a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a2011a2c750e31bf6e2efff952d3902c" parent="aspace_0da4ff310b2f58cb399f6bddb10b935a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_26f" level="file">
+          <did>
+            <unittitle>OP: Training Programs: Executive Development Proposed</unittitle>
+            <unitdate datechar="creation">06/1981</unitdate>
+            <container id="aspace_7455012fc81af22ac822dbf23a9e4b72" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_63000dc64594bd776f2af2127c9ed047" parent="aspace_7455012fc81af22ac822dbf23a9e4b72" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_3hs" level="file">
+          <did>
+            <unittitle>History of SDEL Training: Gelman Library Workshop Materials [1/2]</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_6e75ad95e1a3d41ef66a9eb3c01c77ed" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_22869a1169fafd3fcb758753b0de71cd" parent="aspace_6e75ad95e1a3d41ef66a9eb3c01c77ed" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_qni" level="file">
+          <did>
+            <unittitle>History of SDEL Training: Gelman Library Workshop Materials [2/2]</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_e9204d6ed49b076fe294fdfbc8c14d69" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c5dcc6ee12c9964f9963b8cb548dd2cc" parent="aspace_e9204d6ed49b076fe294fdfbc8c14d69" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_fak" level="file">
+          <did>
+            <unittitle>History of Training: SOS</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cf88086617b8c2aa432915ae25becaae" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c6ed109723c3ed84e9d261eac72d5809" parent="aspace_cf88086617b8c2aa432915ae25becaae" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_ry0" level="file">
+          <did>
+            <unittitle>SOS Participant Lists</unittitle>
+            <unitdate datechar="creation">1983-1984</unitdate>
+            <container id="aspace_2e98c0b134ad93e5cbd906cec9331d53" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_00477b1086ca632d5c9e44a855dbe6d3" parent="aspace_2e98c0b134ad93e5cbd906cec9331d53" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_v9x" level="file">
+          <did>
+            <unittitle>OP: Employee Relations Grievance: Historical Information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ea465bbd644af97f1839a4c679694b6f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8fc39870f287d21f9888e9f53a249cfd" parent="aspace_ea465bbd644af97f1839a4c679694b6f" type="Folder">1</container>
+          </did>
+          <odd id="aspace_3322abe1b2b4da65ea1b100f77123107">
+            <head>General note</head>
+            <p>General</p>
+          </odd>
+        </c>
+        <c id="aspace_ref57_0q0" level="file">
+          <did>
+            <unittitle>Formal Grievance Reports</unittitle>
+            <unitdate datechar="creation">1973-1980</unitdate>
+            <container id="aspace_01778153b1abc86feab70d9ec4a5d3ab" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c6a17a56e0f3b70863145fdb94af23d1" parent="aspace_01778153b1abc86feab70d9ec4a5d3ab" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_m8d" level="file">
+          <did>
+            <unittitle>Grievance Request: Formal Grievance Hearing Committee Decisions</unittitle>
+            <unitdate datechar="creation">1973-1976</unitdate>
+            <container id="aspace_d72b8482dd58391177856fb3ea718465" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_19a428b9b0a38ffd2084c3bf1776cd50" parent="aspace_d72b8482dd58391177856fb3ea718465" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_ozg" level="file">
+          <did>
+            <unittitle>Grievance Request: Formal Grievance Hearing Committee Decisions</unittitle>
+            <unitdate datechar="creation">1977-1980</unitdate>
+            <container id="aspace_3364bc2728673782b1349891dfd53aca" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_65c1cd901e685f0b79c940c72f5adc85" parent="aspace_3364bc2728673782b1349891dfd53aca" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_6dj" level="file">
+          <did>
+            <unittitle>Grievance Request: Formal Grievance Hearing committee Decisions</unittitle>
+            <unitdate datechar="creation">1981-1983</unitdate>
+            <container id="aspace_92a5ef402aa6e0e077d155d8c08f8fe3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_86dbcf5f51ea26213d63b7b0600c5829" parent="aspace_92a5ef402aa6e0e077d155d8c08f8fe3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_6wm" level="file">
+          <did>
+            <unittitle>Grievance Reports</unittitle>
+            <unitdate datechar="creation">1980-1984</unitdate>
+            <container id="aspace_79954a4a5aa5898fe904fbafb5cc1452" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e22dbcf070a0b7be4b59f398506aa883" parent="aspace_79954a4a5aa5898fe904fbafb5cc1452" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_p0x" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_efb7c649710ed1837de860e4dd9f8baf" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_29738ac66d154179afed6b7c9e382ae7" parent="aspace_efb7c649710ed1837de860e4dd9f8baf" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_960" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_1aeee6729baf8a7d2ade9d2eb68fc0a3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_878aa77ebbb23552409bc09eb7c5a8c2" parent="aspace_1aeee6729baf8a7d2ade9d2eb68fc0a3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_nbs" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_cc3df86f9cde87ba6bfdc79dc2056747" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_17cb54669084f6c7c6c9f63befaa0b6f" parent="aspace_cc3df86f9cde87ba6bfdc79dc2056747" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_7te" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_77bc094417cbe02318c0f53b2e5e596b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d1c97d12661713f33fbab0a4c81103ad" parent="aspace_77bc094417cbe02318c0f53b2e5e596b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_r2f" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_42cb2268d4cbafd6db8464bbcabc1da1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6d28929fbd6071cd76fac7345618c394" parent="aspace_42cb2268d4cbafd6db8464bbcabc1da1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_x8m" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing Requests</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_789eba58a18c7e643f276a9a00828c0a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_9920e36ab64ed2b73438e1972b8ef35a" parent="aspace_789eba58a18c7e643f276a9a00828c0a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_fv2" level="file">
+          <did>
+            <unittitle>Grievance Request: Informal Grievance Hearing</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e744b15cfb60fc9df251c770ecbcf6cf" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3f5cd9f855d9b8d3c0ae41ad430c2846" parent="aspace_e744b15cfb60fc9df251c770ecbcf6cf" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_g04" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Gilford</unittitle>
+            <unitdate datechar="creation">02/07/1983</unitdate>
+            <container id="aspace_f8de264ed5f39525abbcb024284d65d0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4c759a95e8009535fb37fb836d9b5672" parent="aspace_f8de264ed5f39525abbcb024284d65d0" type="Folder">14</container>
+          </did>
+          <odd id="aspace_58b3311067498fbcc8263f988cdc087a">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref71_0pl" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Baytop</unittitle>
+            <unitdate datechar="creation">06/14/1983</unitdate>
+            <container id="aspace_2de0667fc5e26a22bd996567722c7e1b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bcf9727d9de1f9258665ddf8b0bd47d8" parent="aspace_2de0667fc5e26a22bd996567722c7e1b" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f725659a37ddb69f1de93870c93a9b7f">
+            <head>General note</head>
+            <p>4 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref73_lm0" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Leath</unittitle>
+            <unitdate datechar="creation">06/16/1983</unitdate>
+            <container id="aspace_ebcc992bcac2f0a194c56cfb10458de4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6be7d493eed3352ba901403bd2d1e45f" parent="aspace_ebcc992bcac2f0a194c56cfb10458de4" type="Folder">16</container>
+          </did>
+          <odd id="aspace_dbeff064c817bb2928fa2c53100a5bcd">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref75_kng" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Grant</unittitle>
+            <unitdate datechar="creation">07/07/1983</unitdate>
+            <container id="aspace_53d84ef7884f8f70c63e33b941c03b81" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e5f775d153634bc03f612af36a4b3bbc" parent="aspace_53d84ef7884f8f70c63e33b941c03b81" type="Folder">17</container>
+          </did>
+          <odd id="aspace_88ba54a9857e7f532a01931f177edbd3">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref77_r9s" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Theola Myokhin</unittitle>
+            <unitdate datechar="creation">10/03/1983</unitdate>
+            <container id="aspace_12c7f58c200cb8653e1ed4b9a8a71311" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_30f9e043d07660b92f492814eed359b9" parent="aspace_12c7f58c200cb8653e1ed4b9a8a71311" type="Folder">18</container>
+          </did>
+          <odd id="aspace_033891897fd14ad2644c5342fc66af85">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref79_hfl" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Graves</unittitle>
+            <unitdate datechar="creation">10/11/1983</unitdate>
+            <container id="aspace_f47ee8c79cbc5c3eca991f467a11cfb7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b1b708756e2cf9db41ec57b2c3630fbc" parent="aspace_f47ee8c79cbc5c3eca991f467a11cfb7" type="Folder">19</container>
+          </did>
+          <odd id="aspace_4c60b73f2f3e35e99cdf0197eb696456">
+            <head>General note</head>
+            <p>1 Tape</p>
+          </odd>
+        </c>
+        <c id="aspace_ref81_e6t" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Deborah Winefield</unittitle>
+            <unitdate datechar="creation">10/18/1983</unitdate>
+            <container id="aspace_f13934a7b2cc1bf877020bd217bd67b8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5efc75baef5b7e9bdc71ebf88957ede3" parent="aspace_f13934a7b2cc1bf877020bd217bd67b8" type="Folder">20</container>
+          </did>
+          <odd id="aspace_5e867a68f2d01ad13cc7418cec425e14">
+            <head>General note</head>
+            <p>1 Tape</p>
+          </odd>
+        </c>
+        <c id="aspace_ref83_4gx" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Veronica Foxx</unittitle>
+            <unitdate datechar="creation">11/18/1983</unitdate>
+            <container id="aspace_2476ce91cd6a0d85cc9d4151c6fa21fd" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e6246224774fc874a2d11f83f272a8f1" parent="aspace_2476ce91cd6a0d85cc9d4151c6fa21fd" type="Folder">21</container>
+          </did>
+          <odd id="aspace_26b802dde8771d8dac14a17c4d983085">
+            <head>General note</head>
+            <p>3 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref85_9f7" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Mr. Itarry White</unittitle>
+            <unitdate datechar="creation">11/22/1983</unitdate>
+            <container id="aspace_082c54b8c92d8935aef31c0627c95694" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3fa0f9fa20cf0f5cb92ae95a1a3cc2f3" parent="aspace_082c54b8c92d8935aef31c0627c95694" type="Folder">22</container>
+          </did>
+          <odd id="aspace_a818727e5c14dde12b29ba052e158e08">
+            <head>General note</head>
+            <p>4 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref87_hls" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Roland Sims</unittitle>
+            <unitdate datechar="creation">10/30/1983</unitdate>
+            <container id="aspace_8819f7694439fbd43fd73f3d46faaef3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b5c56efc53b318aa45a378335122b3a2" parent="aspace_8819f7694439fbd43fd73f3d46faaef3" type="Folder">23</container>
+          </did>
+          <odd id="aspace_fdc133d9c7c0101b56d846f5bf766cb4">
+            <head>General note</head>
+            <p>4 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref89_awb" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Jarvis Crocker</unittitle>
+            <unitdate datechar="creation">03/27/1984</unitdate>
+            <container id="aspace_91aac7aefdd2b8630d204baad0d4d820" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fdc9958c67ec79ceea73e45dd129aed3" parent="aspace_91aac7aefdd2b8630d204baad0d4d820" type="Folder">24</container>
+          </did>
+          <odd id="aspace_e0530ed8a48bcdbc58c0d6197e36932b">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref91_3vt" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Richard Giacomin</unittitle>
+            <unitdate datechar="creation">04/12/1984</unitdate>
+            <container id="aspace_c1f455273e24e7bd09b56d43e0076ca6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6cb80f695d2a7888a480f0243108feea" parent="aspace_c1f455273e24e7bd09b56d43e0076ca6" type="Folder">25</container>
+          </did>
+          <odd id="aspace_49f3f9a7f462ccd76aab761feaca9c2b">
+            <head>General note</head>
+            <p>1 Tape</p>
+          </odd>
+        </c>
+        <c id="aspace_ref93_s5v" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Harlan Green</unittitle>
+            <unitdate datechar="creation">04/25/1984</unitdate>
+            <container id="aspace_d5fda4d9d56deb7bda87c9a3dc235454" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2d753f663d63ed3affe6fb7a9556369f" parent="aspace_d5fda4d9d56deb7bda87c9a3dc235454" type="Folder">26</container>
+          </did>
+          <odd id="aspace_96a65aaeae50b5ba51415fccd6f76e25">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref95_5i8" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Adrienne Scott</unittitle>
+            <unitdate datechar="creation">03/23/1984</unitdate>
+            <container id="aspace_362d3d1cf9a7ee22bde8be12e42f702c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_df07554f4ac14c50f05091c04db2d88b" parent="aspace_362d3d1cf9a7ee22bde8be12e42f702c" type="Folder">27</container>
+          </did>
+          <odd id="aspace_1bf7f45ac66af6d779b9c13140543eca">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref97_c81" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Maurita Williams</unittitle>
+            <unitdate datechar="creation">06/11/1984</unitdate>
+            <container id="aspace_c3dd8b9e5d00bc0032efd1fb01a5ffe0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_362b8c7a67c1e4eb68b9c6073c76b768" parent="aspace_c3dd8b9e5d00bc0032efd1fb01a5ffe0" type="Folder">28</container>
+          </did>
+          <odd id="aspace_53a4370cc1bf34498dcd57c49adb7b73">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref99_7pl" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Alan Taylor</unittitle>
+            <unitdate datechar="creation">06/29/1984</unitdate>
+            <container id="aspace_801915bf979ec444f4ce87de03abccd5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d5dfd1ad8cda52c4cf5467a67603309e" parent="aspace_801915bf979ec444f4ce87de03abccd5" type="Folder">29</container>
+          </did>
+          <odd id="aspace_0c749177bc338662d4ff6f70ec5376fc">
+            <head>General note</head>
+            <p>3 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref101_zav" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Christine Richardson</unittitle>
+            <unitdate datechar="creation">07/23/1984</unitdate>
+            <container id="aspace_10a36f5e0c64c7ad201b69d472a0c0a0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_959366234834e8d273171a1834b39f86" parent="aspace_10a36f5e0c64c7ad201b69d472a0c0a0" type="Folder">30</container>
+          </did>
+          <odd id="aspace_2fb009e9d92904870e12e4fc17afecc9">
+            <head>General note</head>
+            <p>3 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref103_lyd" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Beverly Myers</unittitle>
+            <unitdate datechar="creation">07/30/1984</unitdate>
+            <container id="aspace_2205d05a69822765160678964a59de63" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e1e45bca25df2198fead666b69e4fc02" parent="aspace_2205d05a69822765160678964a59de63" type="Folder">31</container>
+          </did>
+          <odd id="aspace_d7715bcd449075f6aa5bdd2768d9a4eb">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref105_bu7" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Lucille Washington</unittitle>
+            <unitdate datechar="creation">08/21/1984</unitdate>
+            <container id="aspace_c813b4ed6886d0f8cd9c7d59c03ee473" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c3bc53fdc421d8b29cb7bf0b9998d328" parent="aspace_c813b4ed6886d0f8cd9c7d59c03ee473" type="Folder">32</container>
+          </did>
+          <odd id="aspace_34e1e4d147187c9778a0894f56e99358">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref107_dop" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Gail Hunter</unittitle>
+            <unitdate datechar="creation">02/28/1984</unitdate>
+            <container id="aspace_8a4b3f7b3007b681ed5dc5d6246ff916" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_724a19f5addd8d766e3e88ad79a5c5d2" parent="aspace_8a4b3f7b3007b681ed5dc5d6246ff916" type="Folder">33</container>
+          </did>
+          <odd id="aspace_3acf372f12a737df2147be86bc5414fb">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref109_wj7" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Ronnie Hynes</unittitle>
+            <unitdate datechar="creation">10/17/1984</unitdate>
+            <container id="aspace_12266bfc764f4c0aa44e1b4c75eb82e8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_056ee7f2c0a7020710eba53893d63170" parent="aspace_12266bfc764f4c0aa44e1b4c75eb82e8" type="Folder">34</container>
+          </did>
+          <odd id="aspace_1eb970e00a0dba31f0be3f7133e89be7">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref111_m5y" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: James Belteau</unittitle>
+            <unitdate datechar="creation">11/02/1984</unitdate>
+            <container id="aspace_19010357158e7effb0eb49d7503c8bc3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1a85538df1194766567a6e5e4c3f989e" parent="aspace_19010357158e7effb0eb49d7503c8bc3" type="Folder">35</container>
+          </did>
+          <odd id="aspace_cfb12016519188389f99bd3329fa0247">
+            <head>General note</head>
+            <p>3 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref113_y8o" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Rybicke</unittitle>
+            <unitdate datechar="creation">03/06/1985</unitdate>
+            <container id="aspace_dbd17222b0dfb247fe9dd1aba41d81ed" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_af40e2b9f3556a34a0c69d598ed8df1d" parent="aspace_dbd17222b0dfb247fe9dd1aba41d81ed" type="Folder">36</container>
+          </did>
+          <odd id="aspace_8c74d2986cff76b1d99e55ed12e920fe">
+            <head>General note</head>
+            <p>1 Tape</p>
+          </odd>
+        </c>
+        <c id="aspace_ref115_53s" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Sharon Littlejohn</unittitle>
+            <unitdate datechar="creation">04/13/1985</unitdate>
+            <container id="aspace_8da292b702def838582449359e7ea6fe" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2ed7a2c6f9bb04c2b2dd67006162af8f" parent="aspace_8da292b702def838582449359e7ea6fe" type="Folder">37</container>
+          </did>
+          <odd id="aspace_2f8a4090c947cec3af3d3b4a4b788fa7">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref117_dae" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Denise Moore</unittitle>
+            <unitdate datechar="creation">07/02/1985</unitdate>
+            <container id="aspace_15771dde3e8e048d54859bc217769c2a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2774dfa25ca7302fffd9142acc63aef4" parent="aspace_15771dde3e8e048d54859bc217769c2a" type="Folder">38</container>
+          </did>
+          <odd id="aspace_5c20ead667661c81e429d3d2f4274d79">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref119_4me" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Rufus Kearns</unittitle>
+            <unitdate datechar="creation">07/16/1985</unitdate>
+            <container id="aspace_1bf1e60557d5212f3471906e75aa5beb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_114dccf7c07aa9cc17b92a780ab80732" parent="aspace_1bf1e60557d5212f3471906e75aa5beb" type="Folder">39</container>
+          </did>
+          <odd id="aspace_1cd2402ace9c3502d3c55d719cb11d05">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref121_qdd" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Abdullah Azim</unittitle>
+            <unitdate datechar="creation">11/22/1985</unitdate>
+            <container id="aspace_732356751e5b413eb3bf835f37231a66" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6f53bd7500f6abcf3f72f0997e9d9da2" parent="aspace_732356751e5b413eb3bf835f37231a66" type="Folder">40</container>
+          </did>
+          <odd id="aspace_0f2fbfe6d93197fca996f58424cdca98">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref123_ssq" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Allis Harrison</unittitle>
+            <unitdate datechar="creation">12/10/1985</unitdate>
+            <container id="aspace_5214c1e1390549c1a26dc2ece3c6b408" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_416c7038fbbaffdbf8e78e50d9fb551e" parent="aspace_5214c1e1390549c1a26dc2ece3c6b408" type="Folder">41</container>
+          </did>
+          <odd id="aspace_71c454e927e8126772bf6df6e1d29a88">
+            <head>General note</head>
+            <p>3 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref125_f95" level="file">
+          <did>
+            <unittitle>Formal Grievance Hearing Audio Transcripts: Leslie Thornton</unittitle>
+            <unitdate datechar="creation">12/19/1985</unitdate>
+            <container id="aspace_54ee4cb784cfda629f915c59ffda14e8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2cc2a0f783e61f4f0f9e150a603682b4" parent="aspace_54ee4cb784cfda629f915c59ffda14e8" type="Folder">42</container>
+          </did>
+          <odd id="aspace_94099c773efa8c61199bb4fe4e25f558">
+            <head>General note</head>
+            <p>2 Tapes</p>
+          </odd>
+        </c>
+        <c id="aspace_ref127_4vy" level="file">
+          <did>
+            <unittitle>Tape Conversation between Charles Lease and Jackie Grant</unittitle>
+            <unitdate datechar="creation">06/18/1981</unitdate>
+            <container id="aspace_29ccd0f59c23ca818239a62a750a2b5d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8df48bb32136cb6a24b696983652756f" parent="aspace_29ccd0f59c23ca818239a62a750a2b5d" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_f3d515d8a829be9915f3899ba9f497be" level="file">
+          <did>
+            <unittitle>Chronology of Labor History</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="bulk">ND</unitdate>
+          </did>
+        </c>
+        <c id="aspace_6f178f65d83e95932982a2d63db640f0" level="file">
+          <did>
+            <unittitle>Teaching Labor Studies in the Schools, Lesson Plans</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" type="inclusive">1987</unitdate>
+          </did>
+        </c>
+        <c id="aspace_282bf8b72d0075816cf0c4267a1e137d" level="file">
+          <did>
+            <unittitle>Teaching Labor STudies in the Schools, Lesson Plans, Volume 2</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" type="inclusive">1988</unitdate>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref129_o64" level="series">
+        <did>
+          <unittitle>Articles</unittitle>
+          <unitid>RG0094 Series 2</unitid>
+          <unitdate datechar="creation">1960-1985</unitdate>
+          <physdesc id="aspace_c160c38d867ee3186605312f36b7672d" label="General Physical Description note">10.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_c105ae447a66e5f40ffa7ba3824b1f2c">
+          <head>Scope and Contents note</head>
+          <p>This series contains articles on personnel/employee relations, training, and psychology from different journals.</p>
+          <p>Formerly ACC#163, 175</p>
+          <p>This series has a paper container list in the reading room, please ask staff for assistance. </p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

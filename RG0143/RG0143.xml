@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/XXXXXX.xml"/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>
+          <num>RG0143</num>
+        </titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:53:16 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="recordgrp">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Human Sciences Program records</unittitle>
+      <unitid>RG0143</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14.5 Linear Feet</extent>
+        <extent altrender="carrier">12 Paige Cartons (filed letter)</extent>
+      </physdesc>
+      <unitdate datechar="creation">undated</unitdate>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+      <container id="aspace_4bb9df70ed5b23fd5af3333e9ba61e8b" label="Mixed Materials [32882020667203]" type="Box">3</container>
+      <container id="aspace_151f4b3632686a3332b3fb72784a914f" label="Mixed Materials [32882020667211]" type="Box">4</container>
+      <container id="aspace_a1a7dd4c1c114267114b457945b736b4" label="Mixed Materials [32882020667187]" type="Box">1</container>
+      <container id="aspace_aa8dc0005c13b871dad9f514a52595ce" label="Mixed Materials [32882020667195]" type="Box">2</container>
+      <container id="aspace_b44a66bcc3528e40567c15a137e778c2" label="Mixed Materials [32882020667252]" type="Box">7</container>
+      <container id="aspace_c15266978775309ddb29fbab837a57f2" label="Mixed Materials [32882020667245]" type="Box">8</container>
+      <container id="aspace_a290b16beb0d6cbb5e3d04d63d22c0c6" label="Mixed Materials [32882020667229]" type="Box">5</container>
+      <container id="aspace_f90be72b289ab667e3c0032771877476" label="Mixed Materials [32882020667237]" type="Box">6</container>
+      <container id="aspace_00bbc1651fa13e6bf5109ec2b7fb1f5e" label="Mixed Materials [32882020667344]" type="Box">11</container>
+      <container id="aspace_c71751183ad510850b0ca1640fba439f" label="Mixed Materials [32882020667179]" type="Box">12</container>
+      <container id="aspace_eac49360f53cf489c5efda21aad5ad51" label="Mixed Materials [32882020667260]" type="Box">9</container>
+      <container id="aspace_0d48e3a8d27211729fa6975277911a5d" label="Mixed Materials [32882020667278]" type="Box">10</container>
+    </did>
+    <odd id="aspace_4692fb0142ff56798b1bc00d86998b0b">
+      <head>Bib#</head>
+      <p>12700515</p>
+    </odd>
+    <dsc/>
+  </archdesc>
+</ead>

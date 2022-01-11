@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="folder_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2314.xml">ms2314.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John Elsberg literary magazine collection, <date calendar="gregorian" era="ce">1966-2007</date> 
+ <num>MS2314</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2013</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:43:58 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>John Elsberg literary magazine collection</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="aacr" source="local">Elsberg, Constance</persname>
+      </origination>
+      <unitid>MS2314</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1966/2007" type="inclusive">1966-2007</unitdate>
+      <abstract id="aspace_4f2e2a73f70a28b32acbd5be33e1e4d9">This collection contains literary publications. Each folder has a list of publication titles included. These materials date from 1966-2007.</abstract>
+      <physloc id="aspace_81dc680fd71639bd7a70fdf44da27189">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_fb52da33a564bb0d390a15b2ab039977">
+      <head>Arrangement</head>
+      <p>Arranged in alphabetical order by publication title.</p>
+    </arrangement>
+    <originalsloc id="aspace_bb043663dad8e8e4810f41c46b0f9145">
+      <head>Existence and Location of Originals</head>
+      <p>There are books by John Elsberg and published by Bogg press in the Special Collections book collection. Please search John Elsberg as an author.</p>
+    </originalsloc>
+    <scopecontent id="aspace_8be3855196bddd8f5e67fa03efe26641">
+      <head>Scope and Contents</head>
+      <p>This collection contains literary publications. Each folder has a list of publication titles included. These materials date from 1966-2007.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_6245442c4cdadb591418835eaa9283f9">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_c35cbef1ae0175e25ee6d46fe4a54314">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_15ae44169f0d2ac3db475f3c4332ab57">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <acqinfo id="aspace_5f89249dd17568ee57e8964d2685229e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Constance Elsberg, 2013 February 20 (2013.003)</p>
+    </acqinfo>
+    <separatedmaterial id="aspace_a1bf743ab14216af6cf30a67c6054f46">
+      <head>Separated Materials</head>
+      <p>Issues of Bogg Magazine were separated from the collection and added to the existing serial catalog entry for Bogg magazine.</p>
+    </separatedmaterial>
+    <bioghist id="aspace_e2367183c6704dcdc49dd24cf0b3f433">
+      <head>Biographical / Historical</head>
+      <p>John Elsberg (1945-2012) was the author of more than a dozen books and chapbooks of poetry.  He was also the editor of the seminal small press magazine Bogg. Bogg began publication in the 1960s.Bogg was founded by George Cairncross in England. Elsberg worked with him on that publication, in the 1970s Elsberg became the US (and Australian) editor and eventually Elsberg assumed sole publishing responsibilities.</p>
+    </bioghist>
+    <controlaccess>
+      <subject source="lcsh">Poetry -- 20th century</subject>
+      <subject source="lcsh">Literature</subject>
+      <subject source="lcsh">Poetry</subject>
+      <subject source="lcsh">Experimental poetry -- 20th century.</subject>
+      <persname role="dnr" rules="aacr" source="local">Elsberg, Constance</persname>
+      <persname role="aut" rules="aacr" source="naf">Elsberg, John</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref7_ae2" level="file">
+        <did>
+          <unittitle>Poetry Magazines - A</unittitle>
+          <unitdate datechar="creation" normal="1978/2005" type="inclusive">1978-2005</unitdate>
+          <container id="aspace_9a7c4a86eb7796c1573e50a1c2b89228" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_9fc0d042cb6b62282510a5c9517d8f6f" parent="aspace_9a7c4a86eb7796c1573e50a1c2b89228" type="Folder">1</container>
+        </did>
+        <odd id="aspace_3579a9c7b05ac28ee93b68fe340868e4">
+          <head>General</head>
+          <p>Titles include:
+10th Muse;
+78 RPM;
+Abarth to Zil;
+Abbey;
+Always Have Ithica;
+Aunt Jane &amp; Friends;
+Alice to Zappa;
+Ank to Zen</p>
+        </odd>
+      </c>
+      <c id="aspace_ref9_jn7" level="file">
+        <did>
+          <unittitle>Poetry Magazines - B</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container id="aspace_a126094828ba82c0a5eed7372a063b31" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_d3419a3e5e75e9637111b8684e851339" parent="aspace_a126094828ba82c0a5eed7372a063b31" type="Folder">2</container>
+        </did>
+        <odd id="aspace_fdd0db9e9267476f09930646b5f6942e">
+          <head>General</head>
+          <p>Titles include:
+British Underground Magscene News;
+Askew to Zimmerman</p>
+        </odd>
+      </c>
+      <c id="aspace_ref11_h23" level="file">
+        <did>
+          <unittitle>Poetry Magazines - C</unittitle>
+          <unitdate datechar="creation" normal="1977/1980" type="inclusive">1977-1980</unitdate>
+          <container id="aspace_7b28e5bd12c1a35437e7acd15b72442a" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_b7881ed1b6dbc9d81206b3a61ff58af6" parent="aspace_7b28e5bd12c1a35437e7acd15b72442a" type="Folder">3</container>
+        </did>
+        <odd id="aspace_5ea64b5d4dd872fed684f741692e065a">
+          <head>General</head>
+          <p>Titles include:
+The Chair;
+Colin David Webb;
+The Conjuror and his Dog or Feet;
+Contemporary Verse Two;
+The Credible Adventures of Nick Toczek</p>
+        </odd>
+      </c>
+      <c id="aspace_ref13_pix" level="file">
+        <did>
+          <unittitle>Poetry Magazines - D</unittitle>
+          <unitdate datechar="creation" normal="1979/1990" type="inclusive">1979-1990</unitdate>
+          <container id="aspace_81041df7d93e1121bf6385402b66e2c1" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_40257a4686402e5878919afba0e230d6" parent="aspace_81041df7d93e1121bf6385402b66e2c1" type="Folder">4</container>
+        </did>
+        <odd id="aspace_7f228414540a5969e69929d3170418cb">
+          <head>General</head>
+          <p>Titles include:
+The Deep Earth Review;
+Doors into and Out of Dorset</p>
+        </odd>
+      </c>
+      <c id="aspace_ref15_799" level="file">
+        <did>
+          <unittitle>Poetry Magazines - E</unittitle>
+          <unitdate datechar="creation" normal="1976/1990" type="inclusive">1976-1990</unitdate>
+          <container id="aspace_7628442ed2857f7ac35bed8cc36dac5e" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_482f24b67ab959d55dd2184acc7ba044" parent="aspace_7628442ed2857f7ac35bed8cc36dac5e" type="Folder">5</container>
+        </did>
+        <odd id="aspace_830c9b5be314b52fa73c501d492cc9d2">
+          <head>General</head>
+          <p>Titles include:
+EBEB;
+Echoes from the Waste Land;
+Envoi;
+Excello &amp; Bollard</p>
+        </odd>
+      </c>
+      <c id="aspace_ref17_ifk" level="file">
+        <did>
+          <unittitle>Poetry Magazines - F</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container id="aspace_8d1e90e80a6f733c56e0953e6180f32e" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_078ee0271f00a2b2047b8370e4c39800" parent="aspace_8d1e90e80a6f733c56e0953e6180f32e" type="Folder">6</container>
+        </did>
+        <odd id="aspace_69830b3cea6febbddc0634e0a2a3a4f9">
+          <head>General</head>
+          <p>Titles include:
+Fauxpas;
+Folio International</p>
+        </odd>
+      </c>
+      <c id="aspace_ref19_md7" level="file">
+        <did>
+          <unittitle>Poetry Magazines - G</unittitle>
+          <unitdate datechar="creation" normal="1978/1988" type="inclusive">1978-1988</unitdate>
+          <container id="aspace_804139376078e0a4701d0b198e93519e" label="Mixed Materials [32882020595842]" type="Box">1</container>
+          <container id="aspace_254d40527a61b6b651bf4d85e3b203d9" parent="aspace_804139376078e0a4701d0b198e93519e" type="Folder">7</container>
+        </did>
+        <odd id="aspace_ff814f2e8c01ea78f5c9ac034feeee72">
+          <head>General</head>
+          <p>Titles include:
+Gazunda;
+Global Tapestry;
+Grapeshot;
+GTJ</p>
+        </odd>
+      </c>
+      <c id="aspace_ref21_pd0" level="file">
+        <did>
+          <unittitle>Poetry Magazines - H</unittitle>
+          <unitdate datechar="creation" normal="1966/1979" type="inclusive">1966-1979</unitdate>
+          <container id="aspace_ba40b2f67b4903f5646d5f6bd1ccab2e" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_ae65d3254780898a5e239698462d289e" parent="aspace_ba40b2f67b4903f5646d5f6bd1ccab2e" type="Folder">1</container>
+        </did>
+        <odd id="aspace_d1d7acf7ff6dd05e1735f5f96f1e9c6d">
+          <head>General</head>
+          <p>Titles include:
+Half Man Half Hammock Half Marlo Brandon;
+Hat;
+HYN</p>
+        </odd>
+      </c>
+      <c id="aspace_ref23_df7" level="file">
+        <did>
+          <unittitle>Poetry Magazines - I-J</unittitle>
+          <unitdate datechar="creation" normal="1978/2007" type="inclusive">1978-2007</unitdate>
+          <container id="aspace_8ebbcd206152139cefd0edf22864cdc5" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_563b1fcdeea22b78f34326d40f420277" parent="aspace_8ebbcd206152139cefd0edf22864cdc5" type="Folder">2</container>
+        </did>
+        <odd id="aspace_f5e4d07bf18610352eb91ea7648bdf96">
+          <head>General</head>
+          <p>Titles include:
+I Am Paraguay;
+Iota;
+Joe Soap's Canoe</p>
+        </odd>
+      </c>
+      <c id="aspace_ref25_wdr" level="file">
+        <did>
+          <unittitle>Poetry Magazines - K-L</unittitle>
+          <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
+          <container id="aspace_81fe6a906be18ae71759e72f28a6f4f1" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_cc4a79a24124925eb8c4b6d880edf30a" parent="aspace_81fe6a906be18ae71759e72f28a6f4f1" type="Folder">3</container>
+        </did>
+        <odd id="aspace_15f8bfcc5260365fd2d14f9af73ff8ef">
+          <head>General</head>
+          <p>Titles include:
+Kellog's;
+Krax;
+The Lantern Angel is Coming;
+The Littack Supplement;
+Ludd's Mill</p>
+        </odd>
+      </c>
+      <c id="aspace_ref27_8m5" level="file">
+        <did>
+          <unittitle>Poetry Magazines - M</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_a18195c38bf295515f72270ed4205b40" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_b66a4d8d8cb600c7f56b9d9dc3fd37b2" parent="aspace_a18195c38bf295515f72270ed4205b40" type="Folder">4</container>
+        </did>
+        <odd id="aspace_ee75ab20fc1bdee3afb0add328b28864">
+          <head>General</head>
+          <p>Titles include:
+Magic City;
+Mark Williams;
+Max Tracks;
+Merseyside Poetry Circuit;
+The Mill</p>
+        </odd>
+      </c>
+      <c id="aspace_ref29_69s" level="file">
+        <did>
+          <unittitle>Poetry Magazines - N  [1/2]</unittitle>
+          <unitdate datechar="creation" normal="1981/1990" type="inclusive">1981-1990</unitdate>
+          <container id="aspace_3abd6218ec6231aad8342b765baee1a4" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_80acbf7c952999c7954905f53082239f" parent="aspace_3abd6218ec6231aad8342b765baee1a4" type="Folder">5</container>
+        </did>
+        <odd id="aspace_4b2fe131807cc24896cbc2b7dbc1d8ed">
+          <head>General</head>
+          <p>Titles include:
+New Departures;
+New Hope International;
+The New Gwent Review</p>
+        </odd>
+      </c>
+      <c id="aspace_ref31_0va" level="file">
+        <did>
+          <unittitle>Poetry Magazines - N  [2/2]</unittitle>
+          <unitdate datechar="creation" normal="1978/1985" type="inclusive">1978-1985</unitdate>
+          <container id="aspace_6e20594806a4fc019a7c43b34f13a70d" label="Mixed Materials [32882020595255]" type="Box">2</container>
+          <container id="aspace_9a86a5904b86c4219836eb737242e8be" parent="aspace_6e20594806a4fc019a7c43b34f13a70d" type="Folder">6</container>
+        </did>
+        <odd id="aspace_225be893facb6f591e5812573b8d006d">
+          <head>General</head>
+          <p>Titles include:
+New Poetry;
+Northern Journal;
+Not to be Named</p>
+        </odd>
+      </c>
+      <c id="aspace_ref33_1n7" level="file">
+        <did>
+          <unittitle>Poetry Magazines - O</unittitle>
+          <unitdate datechar="creation" normal="1980/1985" type="inclusive">1980-1985</unitdate>
+          <container id="aspace_c815a5af440f23d33e8528cb74b55bd0" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_fe28b1f9c23fd854fc4bc8ef810b6337" parent="aspace_c815a5af440f23d33e8528cb74b55bd0" type="Folder">1</container>
+        </did>
+        <odd id="aspace_744ecd58bf50381c7df98ccd5909d920">
+          <head>General</head>
+          <p>Included titles:
+Oil Slick;
+The Old Incline;
+Orbis;
+Orpheus;
+Owls &amp; Swimmers</p>
+        </odd>
+      </c>
+      <c id="aspace_ref35_6ok" level="file">
+        <did>
+          <unittitle>Poetry Magazines - P [1/2]</unittitle>
+          <unitdate datechar="creation" normal="1980/1990" type="inclusive">1980-1990</unitdate>
+          <container id="aspace_7f0cd0891235eb7e88098bd1664e1882" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_eb2ea823dc9bd2c033418f2535d0819b" parent="aspace_7f0cd0891235eb7e88098bd1664e1882" type="Folder">2</container>
+        </did>
+        <odd id="aspace_ebfe0fea2510b12f6fe67ddb8b4e8f4c">
+          <head>General</head>
+          <p>Included titles:
+Pan's Scrubbers;
+Paradise Circus, Paradise Square;
+Peeping Tom;
+Poetry Books;
+Poetry Motel</p>
+        </odd>
+      </c>
+      <c id="aspace_ref37_z2u" level="file">
+        <did>
+          <unittitle>Poetry Magazines - P [2/2]</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_18fec62dfae16ac3637349da8fd7bb04" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_bb202187b93680d17eb0a90dbbe90377" parent="aspace_18fec62dfae16ac3637349da8fd7bb04" type="Folder">3</container>
+        </did>
+        <odd id="aspace_fea2e402e2e8a87b87202f648903cb7f">
+          <head>General</head>
+          <p>Included titles:
+Press Pigeons;
+Progress of the Soul;
+Psychopoetica</p>
+        </odd>
+      </c>
+      <c id="aspace_ref39_fn7" level="file">
+        <did>
+          <unittitle>Poetry Magazines - R</unittitle>
+          <unitdate datechar="creation" normal="1977/1986" type="inclusive">1977-1986</unitdate>
+          <container id="aspace_9718dc88f89ca8b124f787fc7b800246" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_9c2466e04f319c7c54850e2240f7bd9f" parent="aspace_9718dc88f89ca8b124f787fc7b800246" type="Folder">4</container>
+        </did>
+        <odd id="aspace_0f68c2ddbcc2ae54281b266a20470bd7">
+          <head>General</head>
+          <p>Included titles:
+Raedinga;
+Reviews of this Chapbook;
+The Romantic Abstract of the Physical Agon</p>
+        </odd>
+      </c>
+      <c id="aspace_ref41_2u2" level="file">
+        <did>
+          <unittitle>Poetry Magazines - S [1/4]</unittitle>
+          <unitdate datechar="creation" normal="1975/1989" type="inclusive">1975-1989</unitdate>
+          <container id="aspace_acac09cc041756b9482aeaaacd000cef" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_cbee279be44180c8d22115ab113b0f05" parent="aspace_acac09cc041756b9482aeaaacd000cef" type="Folder">5</container>
+        </did>
+        <odd id="aspace_f2bc49666a2e5dda43a2f6b8084a561d">
+          <head>General</head>
+          <p>Included titles:
+Samisdat;
+Sandwiches;
+Savage;
+Scree</p>
+        </odd>
+      </c>
+      <c id="aspace_ref43_f5f" level="file">
+        <did>
+          <unittitle>Poetry Magazines - S [2/4]</unittitle>
+          <unitdate datechar="creation" normal="1979/1981" type="inclusive">1979-1981</unitdate>
+          <container id="aspace_747195da7d216b4c94bfc8820b7731a8" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_629e1899b3370535e2e1913e3ce218a7" parent="aspace_747195da7d216b4c94bfc8820b7731a8" type="Folder">6</container>
+        </did>
+        <odd id="aspace_dab515ac4fddc76d870c946b5973bebb">
+          <head>General</head>
+          <p>Included titles:
+Scree;
+Self Abused but Still Standing;
+Sepia;
+Slow Dancer</p>
+        </odd>
+      </c>
+      <c id="aspace_ref45_lcb" level="file">
+        <did>
+          <unittitle>Poetry Magazines - S [3/4]</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container id="aspace_d9003f388f531bb996d30f64ffe788a2" label="Mixed Materials [32882020595248]" type="Box">3</container>
+          <container id="aspace_7962050d5d8640a0d345542d272ad7bf" parent="aspace_d9003f388f531bb996d30f64ffe788a2" type="Folder">7</container>
+        </did>
+        <odd id="aspace_a9472cfc88f5a0410da1b286d53bdd36">
+          <head>General</head>
+          <p>Included titles:
+Small Exchange;
+Smoke;
+Sol Quarterly;
+Spook;
+Stash</p>
+        </odd>
+      </c>
+      <c id="aspace_ref47_2hp" level="file">
+        <did>
+          <unittitle>Poetry Magazines - S [4/4]</unittitle>
+          <unitdate datechar="creation" normal="1979/1985" type="inclusive">1979-1985</unitdate>
+          <container id="aspace_52adc831ba9b4fb9ac32c38bd5d88e55" label="Mixed Materials [32882020595115]" type="Box">4</container>
+          <container id="aspace_4a217c84c67bbed68576011467a58759" parent="aspace_52adc831ba9b4fb9ac32c38bd5d88e55" type="Folder">1</container>
+        </did>
+        <odd id="aspace_f758a698f20fbf5caadd90bd16f6be41">
+          <head>General</head>
+          <p>Included titles:
+Steve Sneyd;
+Stride;
+Subway Rape;
+Syzygy</p>
+        </odd>
+      </c>
+      <c id="aspace_ref49_0y6" level="file">
+        <did>
+          <unittitle>Poetry Magazines - T</unittitle>
+          <unitdate datechar="creation" normal="1971/1984" type="inclusive">1971-1984</unitdate>
+          <container id="aspace_15ab36426ea633e71520706bf8599a29" label="Mixed Materials [32882020595115]" type="Box">4</container>
+          <container id="aspace_f59f73a95e82e246719c06ba0de1c122" parent="aspace_15ab36426ea633e71520706bf8599a29" type="Folder">2</container>
+        </did>
+        <odd id="aspace_0686cfd20ab4cdc8f12d79b0a840a23f">
+          <head>General</head>
+          <p>Included titles:
+Tears in the Fence;
+Tides in the Sky;
+Tuff Stuff;
+Trends</p>
+        </odd>
+      </c>
+      <c id="aspace_ref51_yui" level="file">
+        <did>
+          <unittitle>Poetry Magazines - V</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_5769d5f5f2d5b27d1321029174df2166" label="Mixed Materials [32882020595115]" type="Box">4</container>
+          <container id="aspace_caf02cfb3132b2a8651c66f94e535abc" parent="aspace_5769d5f5f2d5b27d1321029174df2166" type="Folder">3</container>
+        </did>
+        <odd id="aspace_5a9dd97db67f10892c168f5e13aa1bd0">
+          <head>General</head>
+          <p>Included titles:
+Village Voice;
+Vindictment</p>
+        </odd>
+      </c>
+      <c id="aspace_ref53_tf4" level="file">
+        <did>
+          <unittitle>Poetry Magazines - W</unittitle>
+          <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+          <container id="aspace_83deb9f13c4c04135817e34b06d40e04" label="Mixed Materials [32882020595115]" type="Box">4</container>
+          <container id="aspace_940268dd921dc0de366c906e0c9bc33b" parent="aspace_83deb9f13c4c04135817e34b06d40e04" type="Folder">4</container>
+        </did>
+        <odd id="aspace_a9baed246c37031bb30ea9d67bf50da5">
+          <head>General</head>
+          <p>Included titles:
+Waving the Flag;
+Window;
+The Wolly of Swot;
+Why-Fronts</p>
+        </odd>
+      </c>
+      <c id="aspace_ref56_1vo" level="file">
+        <did>
+          <unittitle>John Elsberg loose papers for Bogg</unittitle>
+          <unitdate datechar="creation">Undated</unitdate>
+          <container id="aspace_0ce5cabbbb1bcb0b7ca1c6cfd03d9bba" label="Mixed Materials [32882020595115]" type="Box">4</container>
+          <container id="aspace_c8761cdfefedbe1910bcc005397c4827" parent="aspace_0ce5cabbbb1bcb0b7ca1c6cfd03d9bba" type="Folder">5</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

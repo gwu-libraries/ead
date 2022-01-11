@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/53">ibt0036.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Brotherhood of Teamsters Local 82 records<date calendar="gregorian" era="ce">1937-2003</date>
+ <num>IBT0036</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:30:30 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT Local 82 records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+      </origination>
+      <unitid>IBT0036</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1937/2003" type="inclusive">1937-2003</unitdate>
+      <physloc id="aspace_b158b6aaa286e9dca73a8f2c3d43355a">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_bdc5d98010e71e4490d91c16a295ea20">This collections contains material produced by the International Brotherhood of Teamsters Local 82 dating from 1937-2003. The bulk of the material dates from 1940-1960. Included are a variety of materials related to the day-to-day operation of the Local, such as correspondence, meeting minutes, meeting notices and attendance lists, dues ledgers, contract agreements, seniority lists, membership applications,contract negotiation and agreements dating.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_ac337938310d3e20a868389fa98ceb5b">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <acqinfo id="aspace_4955c008e9bae7f17f7961815c0fda38">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by International Brotherhood of Teamsters, 2012 [2012.082].</p>
+    </acqinfo>
+    <userestrict id="aspace_42f8dea2c36d1cdc38ed85aa6ef9a5a9">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <arrangement id="aspace_6a99d7375f3350e63f0f5e17e173ac3a">
+      <head>Arrangement</head>
+      <p>Organized into two series: Administrative files and Contract Negotiation and Agreements</p>
+    </arrangement>
+    <scopecontent id="aspace_b5b3b29d2ae542c49ce8e68a1b0601c7">
+      <head>Scope and Contents</head>
+      <p>This collection contains records produced by the International Brotherhood of Teamsters Local 82. The material dates from 1937-2003 with the bulk of the material dated 1940-1960. Included are a variety of materials related to the day-to-day operation of the Local, such as correspondence, meeting minutes, meeting notices and attendance lists, dues ledgers, contract agreements, seniority lists and membership applications.  Also included are contract negotiation and agreements dating from 1939-1981. Of particular note are correspondence and other materials from the National War Labor Board, which was established by President Roosevelt in 1942.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_4e05431a5e20ec377283a8d2e1f2f9df">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor</subject>
+      <subject source="lcsh">Labor unions</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 20th century</subject>
+      <subject source="lcsh">Contracts</subject>
+      <subject source="lcsh">World War, 1939-1945</subject>
+      <subject source="lcsh">Labor unions -- Boston -- History -- 20th century</subject>
+      <corpname rules="aacr" source="naf">United States. National War Labor Board (1942-1945)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1_kk5" level="series">
+        <did>
+          <unittitle>Administrative Files</unittitle>
+          <unitid>Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1937/2003" type="inclusive">1937-2003</unitdate>
+          <unitdate datechar="creation" normal="1940/1960" type="bulk">1940-1960</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_d50badbe38496a5819e0d88d92937cd5">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_dbdf1d1a34e162830f481ca97919d8d1">
+          <head>Scope and Contents</head>
+          <p>This series contains IBT Local 82 Administrative Files dating from 1937-2003. The bulk of the material dates from 1940-1960. Included are a variety of materials related to the day-to-day operation of the Local, such as correspondence, meeting minutes, meeting notices and attendance lists, dues ledgers, contract agreements, seniority lists, event anouncements, membership applications, newspaper clippings and other miscellaneous items.</p>
+        </scopecontent>
+        <c id="aspace_ref28_yxu" level="file">
+          <did>
+            <unittitle>Acme Truck Service</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate>
+            <container id="aspace_5a6ff7b0f944d4e6084eb757edc4bbb3" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_781bd8fae4c3e54847f84043d0312266" parent="aspace_5a6ff7b0f944d4e6084eb757edc4bbb3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_m4r" level="file">
+          <did>
+            <unittitle>Boston Truck Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/2003" type="inclusive">1991-2003</unitdate>
+            <container id="aspace_504603b719324660197d1bb239a49e05" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_899f335cacf45bcbfc469aa81dbed619" parent="aspace_504603b719324660197d1bb239a49e05" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_v4m" level="file">
+          <did>
+            <unittitle>Cambridge Central Labor Union</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate>
+            <container id="aspace_d33b688262f8528b338bf21d053ea3e8" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_9a228a22d9b11f30a026af3e6736b866" parent="aspace_d33b688262f8528b338bf21d053ea3e8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_q1w" level="file">
+          <did>
+            <unittitle>Central Labor Union of Boston and Vicinity</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate>
+            <container id="aspace_4fb9f3dc7ebbd4cb691bc1bc4a6ea2d7" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_16c431a7676a84e8bc9dd0b30590d100" parent="aspace_4fb9f3dc7ebbd4cb691bc1bc4a6ea2d7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_7e6" level="file">
+          <did>
+            <unittitle>Columbia Warehouse Storage Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+            <container id="aspace_562844d0bdf3185c92006ced6f06d248" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_a364176b643249f63c5b78b67756794c" parent="aspace_562844d0bdf3185c92006ced6f06d248" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_rt3" level="file">
+          <did>
+            <unittitle>Correspondence: Letters from Members [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container id="aspace_e0cd99b06056d9a2065550163be25c4d" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_755ea8f3bd34dbe7c41634949bc39e36" parent="aspace_e0cd99b06056d9a2065550163be25c4d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_uoy" level="file">
+          <did>
+            <unittitle>Correspondence: Letters from Members [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1949/1953" type="inclusive">1949-1953</unitdate>
+            <container id="aspace_2a62744ee608fa00aee62a5b1a52311a" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_34f2c03a3373b3b8a8a18194a2906976" parent="aspace_2a62744ee608fa00aee62a5b1a52311a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_2hy" level="file">
+          <did>
+            <unittitle>Correspondence: Leters to Members [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1951" type="inclusive">1947-1951</unitdate>
+            <container id="aspace_83581507cd6e1063d44b3d0cb1c90af0" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_7179203e673871755627559d19b30d5e" parent="aspace_83581507cd6e1063d44b3d0cb1c90af0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_gpo" level="file">
+          <did>
+            <unittitle>Correspondence: Letters to Members [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container id="aspace_ff512a43cd8cfb21732c5dda7fcba1e8" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_413345227ee4689378a369fc9299b03a" parent="aspace_ff512a43cd8cfb21732c5dda7fcba1e8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_x0w" level="file">
+          <did>
+            <unittitle>Correspondence: National Union [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1956" type="inclusive">1952-1956</unitdate>
+            <container id="aspace_3b7bea74ed0b62fdc2cca73108e7cf4f" label="Mixed Materials [32882020599091]" type="Box">4</container>
+            <container id="aspace_908017c89f2ba97e068e3b30204128a4" parent="aspace_3b7bea74ed0b62fdc2cca73108e7cf4f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_4g4" level="file">
+          <did>
+            <unittitle>Correspondence: National Union [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1957" type="inclusive">1953-1957</unitdate>
+            <container id="aspace_7c9f72eba1aef9569254012478ea8ce8" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_d7ce686765a52a900e37c8a82bc8cbb1" parent="aspace_7c9f72eba1aef9569254012478ea8ce8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_rju" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1937/1945" type="inclusive">1937-1945</unitdate>
+            <container id="aspace_84090908d13847ec12bc5dca2fcc6605" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_e5f6f805a2dc8377ae2ad9046c719b33" parent="aspace_84090908d13847ec12bc5dca2fcc6605" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_a2h" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1991" type="inclusive">1946-1991</unitdate>
+            <container id="aspace_d4c896e6507a71df804843eea1e1ff85" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_bafc63cbdea3e1fb742252034536b59a" parent="aspace_d4c896e6507a71df804843eea1e1ff85" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_b2x" level="file">
+          <did>
+            <unittitle>Gilchrist Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1973" type="inclusive">1951-1973</unitdate>
+            <container id="aspace_accad3465261f5c105affddf92026c40" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_26deb9879486c81af8b2d37e2fa27d81" parent="aspace_accad3465261f5c105affddf92026c40" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_rf8" level="file">
+          <did>
+            <unittitle>H. Goldman, Inc. [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
+            <container id="aspace_978484be5a80c3728f93a634caf2e65a" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_23b9021e553ac43d0b6d4705686561b2" parent="aspace_978484be5a80c3728f93a634caf2e65a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_2yl" level="file">
+          <did>
+            <unittitle>H. Goldman, Inc. [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_3eb06e7a2bd598ae435be19e3052ec81" label="Mixed Materials [32882020599109]" type="Box">5</container>
+            <container id="aspace_be50d225e2d6d41bbb9284c29acf5541" parent="aspace_3eb06e7a2bd598ae435be19e3052ec81" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_yom" level="file">
+          <did>
+            <unittitle>IBT Labor-Management Joint Committee Meeting Minutes</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942 December 15-16</unitdate>
+            <container id="aspace_28b695a923e7e938d91ee3f4b61ca55e" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_da6dd6383de3d9568c3e479acc0931d5" parent="aspace_28b695a923e7e938d91ee3f4b61ca55e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_uh0" level="file">
+          <did>
+            <unittitle>IBT National Rubber Committee Meeting Minutes </unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943 January - September</unitdate>
+            <container id="aspace_62bd777b0a07b7ae850b76b3b6ae819a" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_333f146cd6bdb29bd98fc3e82253a3c4" parent="aspace_62bd777b0a07b7ae850b76b3b6ae819a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_d8x" level="file">
+          <did>
+            <unittitle>IBT National Rubber Committee Meeting Minutes</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943 November - 1944 March</unitdate>
+            <container id="aspace_6ae11b7342435ca79a3e491fdce3cc15" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_04cd887d3d30d33347b5c416854e77fb" parent="aspace_6ae11b7342435ca79a3e491fdce3cc15" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_fwm" level="file">
+          <did>
+            <unittitle>IBT Permanent Committee Meeting Minutes</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942 March-May</unitdate>
+            <container id="aspace_d79740bf756debceb83ec0e5dfb9961e" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_c93ccfee720e593fa2e1f09a1fbfeb33" parent="aspace_d79740bf756debceb83ec0e5dfb9961e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_okx" level="file">
+          <did>
+            <unittitle>J.A. Garvey Transportation, Inc. [1/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate>
+            <container id="aspace_d6e3dcd6fefdbe6333501fd6e4b12894" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_0477752c0f5ab55873831ab4c4c42d5c" parent="aspace_d6e3dcd6fefdbe6333501fd6e4b12894" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_ati" level="file">
+          <did>
+            <unittitle>J.A. Garvey Transportation, Inc. [2/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate>
+            <container id="aspace_80537c6b30a55d011e323274d847f272" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_f21c06b5c2d7803bba01051f328a46b9" parent="aspace_80537c6b30a55d011e323274d847f272" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_o2z" level="file">
+          <did>
+            <unittitle>J.A. Garvey Transportation, Inc. [3/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1959" type="inclusive">1953-1959</unitdate>
+            <container id="aspace_6b1e9def88592f0ba9fc69a49431c090" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_05e79d6ec4dcb78ee9f6dd243d176b64" parent="aspace_6b1e9def88592f0ba9fc69a49431c090" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_9wi" level="file">
+          <did>
+            <unittitle>Jackson Chairs, Inc.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate>
+            <container id="aspace_c05c442a80fdb989c94585064ab3d7dd" label="Mixed Materials [32882020599117]" type="Box">6</container>
+            <container id="aspace_7e95e9c734b8161eea5bc03585a174dd" parent="aspace_c05c442a80fdb989c94585064ab3d7dd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_9p1" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1941/1943" type="inclusive">1941-1943</unitdate>
+            <container id="aspace_2d0de077eaaff4eed9dcc168ec36c2ff" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_ba529a88d81ba4c02e7f6e842ce5b963" parent="aspace_2d0de077eaaff4eed9dcc168ec36c2ff" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_ac3" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container id="aspace_eb3353f93bb0577e10631cc774f22dfd" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_d4ef046adcf3e53429dc732682112a67" parent="aspace_eb3353f93bb0577e10631cc774f22dfd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_1of" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_a46ff2d1ef7eae22f37e005af558f33d" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_c8ae3cbe54bdc490d062f755c73de828" parent="aspace_a46ff2d1ef7eae22f37e005af558f33d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_wox" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1950" type="inclusive">1946-1950</unitdate>
+            <container id="aspace_f1b729047a273257504e646cd61d11cf" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_a30a1b339251fefeab06fb041f9f0ba4" parent="aspace_f1b729047a273257504e646cd61d11cf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_f5p" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container id="aspace_2ada51c244f4d37dc5ecbf0b54c4cbe8" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_b738034c95674a09a3da53b85a4a7ebc" parent="aspace_2ada51c244f4d37dc5ecbf0b54c4cbe8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_wk5" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_61fc4273a39d33756ec84dba77deff52" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_e13249c66da7629f26d08d0093a3f1f6" parent="aspace_61fc4273a39d33756ec84dba77deff52" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_ill" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company Seniority Lists</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1952" type="inclusive">1948-1952</unitdate>
+            <container id="aspace_a07310c4207a1cb00636d0a60b39229d" label="Mixed Materials [32882020599125]" type="Box">7</container>
+            <container id="aspace_5437867f1c9047bd149ad472152c15c9" parent="aspace_a07310c4207a1cb00636d0a60b39229d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_rvz" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company Seniority Lists</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_277c596ebc7e8e344eb6655732374ffd" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_194cef16490f008ff0c6c174ca019dc3" parent="aspace_277c596ebc7e8e344eb6655732374ffd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_8s8" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company Seniority Lists</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate>
+            <container id="aspace_be5f836c3f7dc882e45b1479a25f45cc" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_f04e6aae596be997d4e7c2c4b4d2a4b0" parent="aspace_be5f836c3f7dc882e45b1479a25f45cc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_95h" level="file">
+          <did>
+            <unittitle>Kane's, Inc.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container id="aspace_50e482e289684518f0b636d854ca6014" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_f05bc2b61abf14703ffcf19cfefd0259" parent="aspace_50e482e289684518f0b636d854ca6014" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_ak5" level="file">
+          <did>
+            <unittitle>Kane's, Inc.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">1943-1951</unitdate>
+            <container id="aspace_2d3bf63d0d5964c240769a2036a63f94" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_a605d7a5f4a13513963a65e73cb4765e" parent="aspace_2d3bf63d0d5964c240769a2036a63f94" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_a1u" level="file">
+          <did>
+            <unittitle>Kane's, Inc.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1944/1956" type="inclusive">1944-1956</unitdate>
+            <container id="aspace_c65c8e123b17de091e4ff11ca5c5bfc3" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_dedd2d611d186ad349640ec6c3f84cd1" parent="aspace_c65c8e123b17de091e4ff11ca5c5bfc3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_6lj" level="file">
+          <did>
+            <unittitle>Lincoln Oil Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+            <container id="aspace_efff11c944f5e236e9bfe21b1ac9ce3e" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_38383a14d7c92ee5da7c0ff02b8d30a8" parent="aspace_efff11c944f5e236e9bfe21b1ac9ce3e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_gyu" level="file">
+          <did>
+            <unittitle>Local Unions</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1955" type="inclusive">1952-1955</unitdate>
+            <container id="aspace_97d9a82e9b7f2377244072fbe1a90453" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_4974e1db3bc75d0ac9c06954af9e6237" parent="aspace_97d9a82e9b7f2377244072fbe1a90453" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_zda" level="file">
+          <did>
+            <unittitle>M &amp; A Trucking Company</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1956" type="inclusive">1952-1956</unitdate>
+            <container id="aspace_ad71b1f6c1c631a1dca2e167288b52d3" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_a47f929693a23b13a2c2f64e0bc39182" parent="aspace_ad71b1f6c1c631a1dca2e167288b52d3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_x5a" level="file">
+          <did>
+            <unittitle>Massachusetts State Federation of Labor</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container id="aspace_31563f421d911fa53f2dbcd41acde158" label="Mixed Materials [32882020599133]" type="Box">8</container>
+            <container id="aspace_96807837d66d867c4d0427346c08f184" parent="aspace_31563f421d911fa53f2dbcd41acde158" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_qur" level="file">
+          <did>
+            <unittitle>Meeting Attendance and Dues Lists</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate>
+            <container id="aspace_dc0847f8f6375014ea4a70c8128800b6" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_b7f6c2d901cef6e5fa7a2befebd210ef" parent="aspace_dc0847f8f6375014ea4a70c8128800b6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_2a2" level="file">
+          <did>
+            <unittitle>Meeting Notices</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1955" type="inclusive">1946-1955</unitdate>
+            <container id="aspace_7c3b98b5e7d2e433634c573035d0d346" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_ecbfc232fb7a940df6bd9128765b467f" parent="aspace_7c3b98b5e7d2e433634c573035d0d346" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_qfz" level="file">
+          <did>
+            <unittitle>Membership Applications</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_6ef8e006bf6123e1504d56eed53921e6" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_798833625a8afc58e3944dfc8016189f" parent="aspace_6ef8e006bf6123e1504d56eed53921e6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_eo4" level="file">
+          <did>
+            <unittitle>National War Labor Board</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate>
+            <container id="aspace_e11acd3318793be33576d6c1be38f892" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_600e76e06898a77dac4c6cd13006138b" parent="aspace_e11acd3318793be33576d6c1be38f892" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_k59" level="file">
+          <did>
+            <unittitle>National Warehouse Division</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1952/1957" type="inclusive">1952-1957</unitdate>
+            <container id="aspace_145548f45b90572545aba1949bf940d4" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_dc66855cae642ca30cfcb2f74c17c455" parent="aspace_145548f45b90572545aba1949bf940d4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_q54" level="file">
+          <did>
+            <unittitle>National Warehouse Division</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1954/1960" type="inclusive">1954-1960</unitdate>
+            <container id="aspace_a3561182bf58b3f7f3d6b105bbf9cf1e" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_edb168ac6e0e7bab0c14858995825c54" parent="aspace_a3561182bf58b3f7f3d6b105bbf9cf1e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_0yf" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1940s</unitdate>
+            <container id="aspace_abcbf0d28c254c258acd7d9c55daaf0a" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_331b139c2c835e4dcf46e6655172d5db" parent="aspace_abcbf0d28c254c258acd7d9c55daaf0a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_y4o" level="file">
+          <did>
+            <unittitle>Union Label and Services Trades Department</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_89bc33058ef1e629711f83bb6a84f36e" label="Mixed Materials [32882020599141]" type="Box">9</container>
+            <container id="aspace_7bbc12167f28dd9f41bfeb677422e5c2" parent="aspace_89bc33058ef1e629711f83bb6a84f36e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_22o" level="file">
+          <did>
+            <unittitle>Miscellaneous [1/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1940/1945" type="inclusive">1940-1945</unitdate>
+            <container id="aspace_529b65a4a2b9045d360922e9839f7ff7" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_d3e2b9fd4ef8f96d394a3ed8711846ed" parent="aspace_529b65a4a2b9045d360922e9839f7ff7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_ejv" level="file">
+          <did>
+            <unittitle>Miscellaneous [2/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1943/1958" type="inclusive">1943-1958</unitdate>
+            <container id="aspace_edae93d097a68de66695667e49e251cf" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_948cc128fb82806a7654ab9451feae08" parent="aspace_edae93d097a68de66695667e49e251cf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_dd1" level="file">
+          <did>
+            <unittitle>Miscellaneous [3/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <container id="aspace_55b51ec8dd3e2d52ae77e43018911331" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_f85ccbe1d5655163a051af67a83bb390" parent="aspace_55b51ec8dd3e2d52ae77e43018911331" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_emi" level="file">
+          <did>
+            <unittitle>Miscellaneous [4/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1940/1957" type="inclusive">1940-1957</unitdate>
+            <container id="aspace_f125b49325e052fe2d0dae0c22625b38" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_b3bd8c01833781a692071c6b3aa9f031" parent="aspace_f125b49325e052fe2d0dae0c22625b38" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_4da" level="file">
+          <did>
+            <unittitle>Miscellaneous [5/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1960" type="inclusive">1946-1960</unitdate>
+            <container id="aspace_4975846a30223446db15e0425c854d84" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_c644a78943a3806ac4018976fdcc6abe" parent="aspace_4975846a30223446db15e0425c854d84" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_t29" level="file">
+          <did>
+            <unittitle>Miscellaneous [6/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1977" type="inclusive">1948-1977</unitdate>
+            <container id="aspace_ac22d811146c863acee910e99e49a3b1" label="Mixed Materials [32882020599158]" type="Box">10</container>
+            <container id="aspace_4609efbae78c55ce4fae79bfc65df222" parent="aspace_ac22d811146c863acee910e99e49a3b1" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2_79t" level="series">
+        <did>
+          <unittitle>Contract Negotiation and Agreements</unittitle>
+          <unitid>Series 2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1939/1981" type="inclusive">1939-1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_d1d9f432922754caf5a74feff9d0a55d">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_dfccc68b4e7d3b98e420769f7c7de2df">
+          <head>Scope and Contents</head>
+          <p>This series contains materials related to IBT Local 82 contract negotiation and agreements dating from 1939-1981. Included are agreement texts, meeting minutes, reports, correspondence and handwritten notes. Of particular note are correspondence and other materials from the National War Labor Board, which was reestablished by President Roosevelt in 1942.</p>
+        </scopecontent>
+        <c id="aspace_ref3_qeg" level="file">
+          <did>
+            <unittitle>Floral City Furniture Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_0c65ac9b2a07e184e3531fa58efc6d5a" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_603fcf0e37eec1e7a1cb870704f5cdef" parent="aspace_0c65ac9b2a07e184e3531fa58efc6d5a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4_dno" level="file">
+          <did>
+            <unittitle>Gilchrist Company [1/2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container id="aspace_ed15baac5f992c35eb8c3d336323ea15" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_eec3115e557904879c294e970a01ae3f" parent="aspace_ed15baac5f992c35eb8c3d336323ea15" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5_if7" level="file">
+          <did>
+            <unittitle>Gilchrist Company [2/2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1940/1950" type="inclusive">1940-1950</unitdate>
+            <container id="aspace_0d19d84b9c57a5491da624021085f7db" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_90719c1f00f093b79124e3306ffaecf9" parent="aspace_0d19d84b9c57a5491da624021085f7db" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6_o6s" level="file">
+          <did>
+            <unittitle>Hassol's, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_a390df856cb6d03d43f78cd78f1c64ff" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_3cec9dc74e94167ea42d48236ca6b14f" parent="aspace_a390df856cb6d03d43f78cd78f1c64ff" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7_8yl" level="file">
+          <did>
+            <unittitle>John H. Pray and Sons Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container id="aspace_36c6a71fc2dc7ba97167b37663fcf325" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_82c750eb5af96267fce92a3994ba160f" parent="aspace_36c6a71fc2dc7ba97167b37663fcf325" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8_d0g" level="file">
+          <did>
+            <unittitle>Joint Council No. 10</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1943/1947" type="inclusive">1943-1947</unitdate>
+            <container id="aspace_9fac02ee56c90207849a128fb190d065" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_5bd4bd64043d9bb020b049945ac98a30" parent="aspace_9fac02ee56c90207849a128fb190d065" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9_2bt" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_97a7929d9bfe497585e38f50499d71fe" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_ec5c942c81f9b5514f6c2e448813d42e" parent="aspace_97a7929d9bfe497585e38f50499d71fe" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10_obb" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_f6cdf963fa51a36c4b095b8ff66eda92" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_0d075526a3a2b1ea772daf99a0cb9f6e" parent="aspace_f6cdf963fa51a36c4b095b8ff66eda92" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11_6n7" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1941/1946" type="inclusive">1941-1946</unitdate>
+            <container id="aspace_ea53e7129583a1cb3924595349df0f76" label="Mixed Materials [32882020594936]" type="Box">1</container>
+            <container id="aspace_efe0846b7c4a10ce3a592017d2dce3dd" parent="aspace_ea53e7129583a1cb3924595349df0f76" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12_37t" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate>
+            <container id="aspace_1da43246a6ca7ca200b29931ecbbe081" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_196932571fbbddde059f75bf6e36a26e" parent="aspace_1da43246a6ca7ca200b29931ecbbe081" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_eks" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1942/1955" type="inclusive">1942-1955</unitdate>
+            <container id="aspace_0b6bac8c9812cffc05420f7ab5f776a0" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_ca23ec8f0c8409bfc8b884d35c8653a7" parent="aspace_0b6bac8c9812cffc05420f7ab5f776a0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_thp" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_9ce67e025163d58180a70422a27ed891" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_f1585a352e96432f26de02f50be94322" parent="aspace_9ce67e025163d58180a70422a27ed891" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_foi" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container id="aspace_84e0b19f77ffe3c3fdf9b91a517716fa" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_8512544852e39e122e9981eecb748959" parent="aspace_84e0b19f77ffe3c3fdf9b91a517716fa" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_lq3" level="file">
+          <did>
+            <unittitle>Jordan Marsh Company</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate>
+            <container id="aspace_267bc7a9a6e0f9f96178d787e4325a4f" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_3f779966bcd8257ccec5ff64286529f7" parent="aspace_267bc7a9a6e0f9f96178d787e4325a4f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_0e8" level="file">
+          <did>
+            <unittitle>Kane's, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1945/1950" type="inclusive">1945-1950</unitdate>
+            <container id="aspace_dc1b089fca461c924b7e357f3029173a" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_7fd4b30a7451f03f2fbae9d7bc9dd604" parent="aspace_dc1b089fca461c924b7e357f3029173a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_65q" level="file">
+          <did>
+            <unittitle>M.J. Freed, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_773422d3d94c8548a09c51256bbce45a" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_ae7f38e19e39429ee79b8f50e128d0cb" parent="aspace_773422d3d94c8548a09c51256bbce45a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_j4l" level="file">
+          <did>
+            <unittitle>O'Hearns Moving Service, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1979/1981" type="inclusive">1979-1981</unitdate>
+            <container id="aspace_206815fff7bea156a877c1732418e4d2" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_8ad64292b25e98b19d4c248a3e5af522" parent="aspace_206815fff7bea156a877c1732418e4d2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_b3o" level="file">
+          <did>
+            <unittitle>Paine's of Boston, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+            <container id="aspace_b51e6d91a01a85611dfd79e2769dfb52" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_11bec6b39927bae151c300dced21439d" parent="aspace_b51e6d91a01a85611dfd79e2769dfb52" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_ri0" level="file">
+          <did>
+            <unittitle>Royal Furniture Company, Inc.</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_af589dc21cbb816240759014473a255b" label="Mixed Materials [32882020594944]" type="Box">2</container>
+            <container id="aspace_1c088e91a3b1030338317abc6aaf9930" parent="aspace_af589dc21cbb816240759014473a255b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_93n" level="file">
+          <did>
+            <unittitle>Welch Motor Lines</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1940/1954" type="inclusive">1940-1954</unitdate>
+            <container id="aspace_b321d60a98d23c1a57d371f67ba3c62c" label="Mixed Materials [32882020594951]" type="Box">3</container>
+            <container id="aspace_a314d8f535213220e39b3d2070c495db" parent="aspace_b321d60a98d23c1a57d371f67ba3c62c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_2fi" level="file">
+          <did>
+            <unittitle>Miscellaneous [1/3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1939/1949" type="inclusive">1939-1949</unitdate>
+            <container id="aspace_83dc249be548e0d25306384f8e5d0eb0" label="Mixed Materials [32882020594951]" type="Box">3</container>
+            <container id="aspace_70d1d963a4ccc19f2344a895bee8bed8" parent="aspace_83dc249be548e0d25306384f8e5d0eb0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_ta2" level="file">
+          <did>
+            <unittitle>Miscellaneous [2/3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container id="aspace_66c686c4385666b8a38cfe32681783f5" label="Mixed Materials [32882020594951]" type="Box">3</container>
+            <container id="aspace_f7c361807fcd7742d85a28aeb94265cb" parent="aspace_66c686c4385666b8a38cfe32681783f5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_vu0" level="file">
+          <did>
+            <unittitle>Miscellaneous [3/3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1941/1948" type="inclusive">1941-1948</unitdate>
+            <container id="aspace_c3694b546793b6ff152c655a3bcce99b" label="Mixed Materials [32882020594951]" type="Box">3</container>
+            <container id="aspace_d504b8e1258ddb024e1eccd0e90ee3c0" parent="aspace_c3694b546793b6ff152c655a3bcce99b" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

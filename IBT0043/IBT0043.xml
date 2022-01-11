@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/60">ibt0043.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>
+          <num>IBT0043</num>
+        </titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:30:34 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT Local Union 456 records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">International Brotherhood of Teamsters</corpname>
+      </origination>
+      <unitid>IBT0043</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1946/1960" type="inclusive">1946-1960</unitdate>
+      <physloc id="aspace_c3c33d454c6ab92483b73a7c72ae4cf4">Materials are stored off-site, and will require additional retrieval time. Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_196c4d7169a70d4b95e32fac428d28e2">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <arrangement id="aspace_1f12bf80c3a55015ea29c642f427d7fb">
+      <head>Arrangement</head>
+      <p>Arranged chronologically</p>
+    </arrangement>
+    <bioghist id="aspace_13ba6104802d5efa8ccbdf790f793c3d">
+      <head>Historical Note</head>
+      <p>Teamsters and Chauffeurs Local 456 served members in Westchester County, NY.</p>
+    </bioghist>
+    <prefercite id="aspace_52ffe03546b77b077b2eaa20ce541976">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way: Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. Example: James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3. Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <scopecontent id="aspace_f07dbb051c0d3392633b34310cc3643b">
+      <head>Scope and Contents</head>
+      <p>This collection currently hold one scrap book - containing news articles and commentary about the International Brotherhood of Teamsters Local Union 456. The article range from news articles on labor disputes, to the election of Teamster officals. The dates range from 1946 to 1960. The scrap book is 34 pages.</p>
+    </scopecontent>
+    <userestrict id="aspace_9cf54b40e990ca367b8ccc51ce2bba8d">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Labor unions -- United States -- History -- 20th century</subject>
+      <subject source="lcsh">Labor and laboring classes</subject>
+      <subject source="lcsh">Labor unions</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref3_m3s" level="file">
+        <did>
+          <unittitle>Scrapbook</unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation" normal="1946/1960" type="inclusive">1946-1960</unitdate>
+          <container id="aspace_05d33adcd6a496969c3c128ee97a09ba" label="Mixed Materials [32882020665827]" type="Box">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

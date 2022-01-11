@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/mvc0059.xml">mvc0059.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Julia Dorn Heflin papers, <date calendar="gregorian" era="ce">1919-1990</date>
+ <num>MVC0059.MS</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:45:11 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Julia Dorn Heflin papers</unittitle>
+      <unitid>MVC0059.MS</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">3 document boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1919/1990" type="inclusive">1919-1990</unitdate>
+      <unitdate datechar="creation" normal="1950/1970" type="bulk">1950-1970</unitdate>
+      <abstract id="aspace_771cd0fc467684f843db4774fa8e1be8">The Julia Dorn Heflin papers consist of material relating to her career at Mount Vernon College and her external work in the theater arts community of Washington, DC. Heflin was Director of the Drama and Speech department at Mount Vernon College and as faculty advisor to the popular "Prep Players" and "Curtain Callers" student theater groups. This collection consists of Heflin's personal and professional correspondence, performance programs and scripts, clippings, material relating to development of classes in speech and drama and her work with theater organizations. The inclusive dates of the collection are 1911-1990, with the bulk of the material dating from the 1950s and 1960s.</abstract>
+      <physloc id="aspace_4664a183705dcb6dbe43bfa6fa7a9715">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_3eb8d29751671189decda047c4667bf2">
+      <head>Arrangement</head>
+      <p>The collection is organized into two series:  Mount Vernon professional work and Personal correspondence and outside activities.</p>
+    </arrangement>
+    <bioghist id="aspace_978db816637bb6721e64245d8d278c09">
+      <head>Biographical / Historical</head>
+      <p>Julia Dorn Heflin (1911-2007) served in many capacities during her 22 year tenure at Mount Vernon College. She was hired in 1956 as Director of the Speech and Drama Department at Mount Vernon, a position which she held until 1977, when she was named Professor Emeritus. She  also served as Faculty Advisor to the popular student theater groups "The Prep Players" and "The Curtain Callers."</p>
+      <p>Prior to her arrival at Mount Vernon, Heflin was active in theater production in other cities. Beginning in the 1930s, she acted and worked on Broadway, and also staged a theater production in Moscow, Russia. She co-founded the Bucks County Playhouse (PA) and also served as its company manager and director. In addition, she had a career in journalism, interviewing theater performers for "Stage Magazine" and working as a researcher and writer for the CBS radio program "We, The People."</p>
+      <p>During her tenure at Mount Vernon, Heflin directed more than 80 stage productions at Mount Vernon. Heflin also served on the Advisory Committee to the Mount Vernon College Arts and Humanities program. During her career, she was actively involved in many theater and arts organizations beyond the Mount Vernon campus. </p>
+      <p>After her retirement, she worked tirelessly to ensure that the drama program continued at Mount Vernon. She maintained contact with Mount Vernon alumnae and drama students from other colleges and universities regarding their theater careers. </p>
+      <p>Julia Dorn Heflin died in Washington, DC, in August 2007 at the age of 96. </p>
+    </bioghist>
+    <accessrestrict id="aspace_ebcfc36d434c731db89586a3893e08d1">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_7dfc942f7ad20cd652e07cc33d05caee">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_e7c1191073df197b5e16330868539a1a">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <scopecontent id="aspace_1cb0b6cf340e6c3784324ac31f3d170c">
+      <head>Scope and Contents</head>
+      <p>This collection contains correspondence, performance programs and scripts, newspaper clippings, conference and meeting programs, and photographs. The material dates from 1919-1990, with the bulk of the material dating from the 1950s and 1960s. These are the papers of Julia Dorn Heflin, who served as Director of Speech and Drama at Mount Vernon College from 1956-1978. Heflin was also the producer of many theater performances at Mount Vernon while serving as Faculty Advisor to the Prep Players and Curtain Callers student theater groups. Some material in this collection is also generated from Heflin's affiliation with outside theater organizations and her personal correspondence with Mount Vernon alumnae and others in the theater world.</p>
+    </scopecontent>
+    <acqinfo id="aspace_bd4234198254640f2d4797ddcd2f4d78">
+      <head>Immediate Source of Acquisition</head>
+      <p>Collection acquired by GWU upon merger with Mount Vernon College. Collection transferred to Foggy Bottom campus.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Drama</subject>
+      <subject source="lcsh">Theater management</subject>
+      <subject source="lcsh">Student organizations</subject>
+      <genreform source="aat">Plays (document genre)</genreform>
+      <subject source="lcsh">Performances</subject>
+      <subject source="lcsh">Performing arts</subject>
+      <subject source="lcsh">Theater</subject>
+      <corpname rules="aacr" source="naf">Mount Vernon Seminary</corpname>
+      <corpname rules="aacr" source="naf">Mount Vernon College</corpname>
+      <persname rules="dacs" source="naf">Julia Dorn Heflin</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref23_rtn" level="series">
+        <did>
+          <unittitle>Mount Vernon professional work </unittitle>
+          <unitid>Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1919/1987" type="inclusive">1919-1987</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_b3fd0fe6b50f41b5e1696bc6dc8ceeaf">
+          <head>Scope and Contents</head>
+          <p>This series contains materials relating to Heflin's various roles at Mount Vernon, including as Director and Instructor of Speech and Drama and as creator and advisor to the student led theater groups, the Prep Players and Curtain Callers. Also found in this series are materials relating to her role as member of the Advisory Committee to the Arts and Humanities Program at Mount Vernon. Material in Series 1 is arranged alphabetically by folder title. It contains performance programs and scripts, newspaper clippings relating to theater performances, and correspondence relating to her professional work at Mount Vernon.</p>
+        </scopecontent>
+        <arrangement id="aspace_8135d6a54c0f4b240d592a0570a131f1">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_ref28_w19" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1956/1963" type="inclusive">12/19/1956-04/21/1963</unitdate>
+            <container id="aspace_fbcd2a8e35f450deecdb9e6583ef255c" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_b9eda30d90fa1fd3870830ad1883c81d" parent="aspace_fbcd2a8e35f450deecdb9e6583ef255c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_fxn" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1963/1986" type="inclusive">04/26/1963-04/1986</unitdate>
+            <container id="aspace_cbc57c4ce47a7fe2d7b4451e0af6a2a3" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_502cdd97da99db9ee3312ef9a4e5d9c7" parent="aspace_cbc57c4ce47a7fe2d7b4451e0af6a2a3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_fki" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">05/05/1960-04/21/1969</unitdate>
+            <container id="aspace_f33207aff0bc5601c768be0f6df6d368" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_2a74c6ca3789e5ee8e6fff5a689aeee4" parent="aspace_f33207aff0bc5601c768be0f6df6d368" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_968" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">11/28/1970-11/29/1979</unitdate>
+            <container id="aspace_3faee192b0d896329cf29651f0b5bded" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_fc9c6b389f911efae6f92e38d3937cac" parent="aspace_3faee192b0d896329cf29651f0b5bded" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_1db" level="file">
+          <did>
+            <unittitle>Correspondence </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1956/1958" type="inclusive">07/06/1956-10/21/1958</unitdate>
+            <container id="aspace_d3e8b33b732b7bc16da01267a28acee8" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_5c32db1811c105201a9437b8c8006e81" parent="aspace_d3e8b33b732b7bc16da01267a28acee8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_cpp" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1980/1987" type="inclusive">02/29/1980-03/11/1987</unitdate>
+            <container id="aspace_9b82f7566aab100e4cac2f113525166a" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_e5c7d13dd99888d21e30e7bc8f61d94a" parent="aspace_9b82f7566aab100e4cac2f113525166a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_bqe" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ac35231cb6d7117a91e21297e466b17d" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_98fc3f41dcaa03f32a7a21f124f8e245" parent="aspace_ac35231cb6d7117a91e21297e466b17d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_po8" level="file">
+          <did>
+            <unittitle>Costume Sketches</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1950</unitdate>
+            <container id="aspace_790ea5eb8bbe014af89d3e5523298465" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_df04307da4d1a41e0a3da69d30bb83cf" parent="aspace_790ea5eb8bbe014af89d3e5523298465" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_ykl" level="file">
+          <did>
+            <unittitle>Curtain Callers, Constitution </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d93c1d308874b0db49750413852efae9" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_d8e2f829454708de07ec310f16168e3e" parent="aspace_d93c1d308874b0db49750413852efae9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_2st" level="file">
+          <did>
+            <unittitle>Curtain Callers Roll </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1965-1966</unitdate>
+            <container id="aspace_2e487d5cf9e305d3632a339b8894b543" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_b8b3da50719289ad41555d52280c2bda" parent="aspace_2e487d5cf9e305d3632a339b8894b543" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_jh0" level="file">
+          <did>
+            <unittitle>Julia Dorn Heflin Self-Evaluation </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_c9c4e5de5cb781bef4a21dd7275f86e5" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_d883820dd74dbd6695b5b68d2aa9f0e7" parent="aspace_c9c4e5de5cb781bef4a21dd7275f86e5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_gqf" level="file">
+          <did>
+            <unittitle>Lists of Mount Vernon College Students</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1956-1964</unitdate>
+            <container id="aspace_3cbf3187597f82c3ad274924261e905a" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_20dac20a6c005b04d093502e1b4fb972" parent="aspace_3cbf3187597f82c3ad274924261e905a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_rut" level="file">
+          <did>
+            <unittitle>Mount Vernon Publications</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1925-1986</unitdate>
+            <container id="aspace_55b1d41c46321122f144ed3444eb1ecb" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_e8674e7138ab5cefc5fe3a67e5fc03a1" parent="aspace_55b1d41c46321122f144ed3444eb1ecb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_7tt" level="file">
+          <did>
+            <unittitle>Mount Vernon Assembly Program </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1957-1958</unitdate>
+            <container id="aspace_e37287abd278d796111c031f26dee687" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_4234590dd1245ea37dd25f1a4cca06e5" parent="aspace_e37287abd278d796111c031f26dee687" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_7cp" level="file">
+          <did>
+            <unittitle>Mount Vernon College Arts and Humanities Faculty Meeting Minutes </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">11/22/1985</unitdate>
+            <container id="aspace_ff374bfc9e1d260746999f6dbf49fef4" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_ae24488cf6ee8026a0469c690f667fba" parent="aspace_ff374bfc9e1d260746999f6dbf49fef4" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_az3" level="file">
+          <did>
+            <unittitle>Mount Vernon College Arts and Humanities Program Publication, "Musings" </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">circa 1980</unitdate>
+            <container id="aspace_5273011f4f3d810851027ded433ddf92" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_3820c29e79cb6ca626f015e761a8d344" parent="aspace_5273011f4f3d810851027ded433ddf92" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_q2b" level="file">
+          <did>
+            <unittitle>Mount Vernon College Arts and Humanities Program Reports</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1978-1981</unitdate>
+            <container id="aspace_be3a0c40b2ae3c9bd8bee665a9b09459" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_ef21616ca011c8f4bacbb907e95fc17d" parent="aspace_be3a0c40b2ae3c9bd8bee665a9b09459" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_epo" level="file">
+          <did>
+            <unittitle>Mount Vernon College Course Development and Planning</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1957-1986</unitdate>
+            <container id="aspace_3e38062282d019df85f7621d7819c756" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_dc7e87a7835ce3609e0806c53f97abdf" parent="aspace_3e38062282d019df85f7621d7819c756" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_lc6" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_fa8f472166384e932abd16f44c2fac02" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_42e7968153d9bfd4d2ad5910937eb70d" parent="aspace_fa8f472166384e932abd16f44c2fac02" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_xrw" level="file">
+          <did>
+            <unittitle>Performance Announcements--Dance At Mount Vernon </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">circa 1980</unitdate>
+            <container id="aspace_ff2c25af54ca7588c0336afb5bc2e267" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_ae5967d57b0dbb204aafbfabc762c669" parent="aspace_ff2c25af54ca7588c0336afb5bc2e267" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_wy5" level="file">
+          <did>
+            <unittitle>Performance Announcements and Invitations </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1965-1972 </unitdate>
+            <container id="aspace_cce0df209ff2cfaded7c40966662afc7" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_2bd8a8183d1f889b72ac078c69d9d148" parent="aspace_cce0df209ff2cfaded7c40966662afc7" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_hjv" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_e18581df467327fc7d9eb1f0dde2e82c" label="Mixed Materials [32882019249278]" type="Box">1</container>
+            <container id="aspace_69ef929ea4284015c8bd2721c24a166d" parent="aspace_e18581df467327fc7d9eb1f0dde2e82c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_xg9" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1950</unitdate>
+            <container id="aspace_a746bc9aa2c0281e8e7226183ca3075d" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_ecea9fddfc2077264f788256ab9f7907" parent="aspace_a746bc9aa2c0281e8e7226183ca3075d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_tvc" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1951</unitdate>
+            <container id="aspace_342c6f5cae997ff05356826a51839216" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_d13ea6db6a93020b1bf69e2e88846944" parent="aspace_342c6f5cae997ff05356826a51839216" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_2yf" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1954</unitdate>
+            <container id="aspace_d260b2395b17d0eed3fd92a29981d13a" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_25c9e4717fe2c12bc81ca28a172885c7" parent="aspace_d260b2395b17d0eed3fd92a29981d13a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_0x5" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1955</unitdate>
+            <container id="aspace_8718e900b52adbc320b6b4f975f259be" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_0e99a2e4086b3da254ff8bbe0c119c4e" parent="aspace_8718e900b52adbc320b6b4f975f259be" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_g8i" level="file">
+          <did>
+            <unittitle>Performance Programs</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1956</unitdate>
+            <container id="aspace_553c77e7e799b9a6e014cd7d9bacf382" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_a0a02339cdb13024d63c40c1ab072b86" parent="aspace_553c77e7e799b9a6e014cd7d9bacf382" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_pnu" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1957</unitdate>
+            <container id="aspace_af680e2ea09ab75f41ff4f6bda9d3ea4" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_c72b8b2102350095e42c345a87a4981f" parent="aspace_af680e2ea09ab75f41ff4f6bda9d3ea4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_lax" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitdate datechar="creation">1958</unitdate>
+            <container id="aspace_69cece9b2fe78333d8be2a8f04975e56" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_c52b689c210cbb2ab2c4979e26476112" parent="aspace_69cece9b2fe78333d8be2a8f04975e56" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_89a" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1959</unitdate>
+            <container id="aspace_1fcb779ce2cad6554fee813e5c9efe92" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_1dc2c2b372687a5319f0ebd0e03d07d0" parent="aspace_1fcb779ce2cad6554fee813e5c9efe92" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_62h" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1960</unitdate>
+            <container id="aspace_3ce8c5486e65b799053d2acbf063e164" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_f69889cb53f9e1a2551757f531680a6e" parent="aspace_3ce8c5486e65b799053d2acbf063e164" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_fbp" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1961</unitdate>
+            <container id="aspace_cdff5d3ddbf17d160889228b20f06b5b" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_e986f7a1e45d936d39ded013141a1045" parent="aspace_cdff5d3ddbf17d160889228b20f06b5b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_4nb" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1962</unitdate>
+            <container id="aspace_d8dc13afe8c7c31ed6f073563dd38b40" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_5860cbe93d5374625e1675b36be30f63" parent="aspace_d8dc13afe8c7c31ed6f073563dd38b40" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_vty" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1963</unitdate>
+            <container id="aspace_fa520c36e8ac6245c26f773871ad2043" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_a84f61eea03e892b260a2961387f08c4" parent="aspace_fa520c36e8ac6245c26f773871ad2043" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_en9" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1964</unitdate>
+            <container id="aspace_2c9e6f10b2115cac35c2f6b2b9376737" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_3b995fc1bba3e723117f4c1b4c7fff58" parent="aspace_2c9e6f10b2115cac35c2f6b2b9376737" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_0r2" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1965</unitdate>
+            <container id="aspace_52a0caed24da561762eb5566e0187503" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_9eee70954788b5a6e1ca93247ef30253" parent="aspace_52a0caed24da561762eb5566e0187503" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_hmo" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_c849add6c89ad234ae32901ebf99ccaa" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_82391d11836f4f7f52cb842bbd72ffd5" parent="aspace_c849add6c89ad234ae32901ebf99ccaa" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_k32" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_ccd5bc02d41ea47d5979fcf9b93114ad" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_454e49e49f1efde48f33db9fabeea57d" parent="aspace_ccd5bc02d41ea47d5979fcf9b93114ad" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_cpe" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_618a56a8093f8c52de90eecab8bc469e" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_9de14beae38f331ba21783ff62bebb9c" parent="aspace_618a56a8093f8c52de90eecab8bc469e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_zlv" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1969</unitdate>
+            <container id="aspace_60606a861faa967ef0510560e3fc68c4" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_90a545aeeb925e9d42336128036f40a1" parent="aspace_60606a861faa967ef0510560e3fc68c4" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_cav" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_b600b812a915fa9b6f55c50af3090b11" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_dfaf3ead629153a59070e08147f06081" parent="aspace_b600b812a915fa9b6f55c50af3090b11" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_o14" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_cb66499e2f32f96c372b40ddce5ccbc1" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_5a491c40b1173691c812f1230fdd0703" parent="aspace_cb66499e2f32f96c372b40ddce5ccbc1" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_myk" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_c33e99b261bbd64340aa8305d8bb255d" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_12f6f5890ca0be058b69acf053e2a13d" parent="aspace_c33e99b261bbd64340aa8305d8bb255d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_ycr" level="file">
+          <did>
+            <unittitle>Performance Programs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_206ce0e50989f173a378bfa1699d744b" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_2aae56e7aad854a98d3bcebf5bb38fd9" parent="aspace_206ce0e50989f173a378bfa1699d744b" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_o8j" level="file">
+          <did>
+            <unittitle>Performance Scripts </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1919-1931 </unitdate>
+            <container id="aspace_d7fb85b47f7a7886dfa19098fd8a9dbd" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_cf29ef1d661aabbc7ee5da76199b2348" parent="aspace_d7fb85b47f7a7886dfa19098fd8a9dbd" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_cd3" level="file">
+          <did>
+            <unittitle>Performance Scripts </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1935-1937</unitdate>
+            <container id="aspace_cbff7e383b12b7a4ae895bf57323240f" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_9397783627f6d57f7708b0938497ebac" parent="aspace_cbff7e383b12b7a4ae895bf57323240f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_mq5" level="file">
+          <did>
+            <unittitle>Performance Scripts </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1941-1970 </unitdate>
+            <container id="aspace_587b06993a97af93e093415aef8bb77e" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_b690770ce94ebe642b51ddabd00575cc" parent="aspace_587b06993a97af93e093415aef8bb77e" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_oe4" level="file">
+          <did>
+            <unittitle>Performance Scripts </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_cc59fd0386590ab1fc70fbfdea53064b" label="Mixed Materials [32882019249294]" type="Box">2</container>
+            <container id="aspace_da5c79df15f68fe7dcf55d248da2fa0b" parent="aspace_cc59fd0386590ab1fc70fbfdea53064b" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_clp" level="file">
+          <did>
+            <unittitle>Performance Script-"Alice in Wonderland"</unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1951</unitdate>
+            <container id="aspace_88f5f0c0c84cd19d1548b18b3a3fdf54" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_8b33dc1c4facb9be7859670903c6b1ef" parent="aspace_88f5f0c0c84cd19d1548b18b3a3fdf54" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_fgm" level="file">
+          <did>
+            <unittitle>Photographs </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_83e9d529ca7c9a06749f4b613a105300" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_5c8056311f4e29a68da51ff9c37bdd4f" parent="aspace_83e9d529ca7c9a06749f4b613a105300" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_0vy" level="file">
+          <did>
+            <unittitle>Prep Players Account Book and Receipts </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation" normal="1956/1964" type="inclusive">1956-1964</unitdate>
+            <container id="aspace_39f7762d9bd9d70f0652f3ade71f5564" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_153a840ca66f22a9bcb1e0c9ed57066c" parent="aspace_39f7762d9bd9d70f0652f3ade71f5564" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_yys" level="file">
+          <did>
+            <unittitle>Prep Players Cast List "You Can't Take It With You" </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">1960 </unitdate>
+            <container id="aspace_eced4d80d14e569c763f85dade7d46e0" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_65dc7cadc0b1701b3ef6df68de80a461" parent="aspace_eced4d80d14e569c763f85dade7d46e0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_298" level="file">
+          <did>
+            <unittitle>Prep Players Evaluation </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">11/24/1957 </unitdate>
+            <container id="aspace_9674115fbed51a7e5b5abb01f07bfcf1" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_c64ca79b191b4fddc09604424b4ab9e1" parent="aspace_9674115fbed51a7e5b5abb01f07bfcf1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_pxi" level="file">
+          <did>
+            <unittitle>Prep Players, Statement of Purpose </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">02/1958 </unitdate>
+            <container id="aspace_12b695c41741ceda67c89f5147dd6e9c" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_2ebe6e10cedb877edb9b6b90cd5319d5" parent="aspace_12b695c41741ceda67c89f5147dd6e9c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_75u" level="file">
+          <did>
+            <unittitle>Rehearsal Schedules </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_2fb0d3a99a2c53bc77e621e5bc4a3f3a" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_b6ca9dd389b51b2e1d8074b5bcfece00" parent="aspace_2fb0d3a99a2c53bc77e621e5bc4a3f3a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_29w" level="file">
+          <did>
+            <unittitle>Slides, "Carnival" </unittitle>
+            <unitid>Series 1 </unitid>
+            <unitdate datechar="creation">05/1969</unitdate>
+            <container id="aspace_e0fff6c1b448da503da33e42495cfdc7" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_ed1dd6aa23262332698d80dd2aa82645" parent="aspace_e0fff6c1b448da503da33e42495cfdc7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_uk1" level="file">
+          <did>
+            <unittitle>Speeches </unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_fac35ef26b4bd8e5aa876ba62bcf1eef" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_fe92ffe75e76df0b72606555541b7070" parent="aspace_fac35ef26b4bd8e5aa876ba62bcf1eef" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref24_1lc" level="series">
+        <did>
+          <unittitle>Personal correspondence and outside activities </unittitle>
+          <unitid>Series 2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1955/1990" type="inclusive">1955-1990</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_99f65fff1bfa4074a9f4a877985867b4">
+          <head>Scope and Contents</head>
+          <p>This series contains Heflin's personal correspondence and material generated from her involvement with activities external to Mount Vernon. Her correspondence includes letters to and from alumnae, cards and notes, recommendation letters for alumnnae and also for students at other colleges. This series also contains material generated from Heflin's involvement with external theater organizations, including conference programs, and newspaper clippings and correspondence with individuals in the theater community. Material in Series 2 is arranged alphabetically by folder title.</p>
+        </scopecontent>
+        <arrangement id="aspace_718ff062b30fa4502ab201b9a5648463">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_ref90_vq6" level="file">
+          <did>
+            <unittitle>Articles, Miscellaneous Subjects </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">1979-1984 </unitdate>
+            <container id="aspace_0bfaaf853f8853aa7b49d603e4dfc05a" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_2d16ab1089f798954ce296eaee56a26c" parent="aspace_0bfaaf853f8853aa7b49d603e4dfc05a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_6ra" level="file">
+          <did>
+            <unittitle>Clippings, Theater </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">05/1961-09/1961 </unitdate>
+            <container id="aspace_9fab286898d659c98b94de4d46064fd6" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_c65ff09041f8b92a75016361b0ffe4eb" parent="aspace_9fab286898d659c98b94de4d46064fd6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_r4d" level="file">
+          <did>
+            <unittitle>Constitution, American Educational Theatre Association, Inc. </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">12/30/1959 </unitdate>
+            <container id="aspace_7d168ff05b7278d9f9b8d18574f00fe9" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_2c2706979dd1d795d054dac829e07fce" parent="aspace_7d168ff05b7278d9f9b8d18574f00fe9" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_fv5" level="file">
+          <did>
+            <unittitle>Cum Laude Society Handbook</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">1963 </unitdate>
+            <container id="aspace_f7d40dcdd7cc1272973c8dfaeed89f5b" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_80004683bb472d495c67c24150c732f8" parent="aspace_f7d40dcdd7cc1272973c8dfaeed89f5b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_iv1" level="file">
+          <did>
+            <unittitle>Julia Dorn Heflin, Receipt from Adams Teachers Agency, Inc. </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">09/29/1955 </unitdate>
+            <container id="aspace_c3252dca8360c0410f39d0ced566a37d" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_0d9370c1cc5b265d1eb4e6cb6dbb9b6f" parent="aspace_c3252dca8360c0410f39d0ced566a37d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_d38" level="file">
+          <did>
+            <unittitle>Mayoral Proclamation, American Educational Theatre Association, Inc. Conference </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">08/21/1961 </unitdate>
+            <container id="aspace_831ca0ccc16beaa818680c59facfa745" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_43de6dfcc83de1801cedafb01202bd3f" parent="aspace_831ca0ccc16beaa818680c59facfa745" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_mq9" level="file">
+          <did>
+            <unittitle>Mount Vernon College Alumnae Resume </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">circa 1981 </unitdate>
+            <container id="aspace_9f786e85dc9f0b32ed499c8c47958de8" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_347e9920d977f22a016b5db91511193a" parent="aspace_9f786e85dc9f0b32ed499c8c47958de8" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_p2h" level="file">
+          <did>
+            <unittitle>Performance Announcements</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_27ef30bb74ef89fd1372ed4bbc246b0b" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_fb917fb736a2ced8db9ffd1e1a1d05bd" parent="aspace_27ef30bb74ef89fd1372ed4bbc246b0b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_olg" level="file">
+          <did>
+            <unittitle>Personal Correspondence, cards</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">1966-1990</unitdate>
+            <container id="aspace_b0f85a4dcfc87c4ef342e89c8265d2b9" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_ca85ebf077bc6f09ea2dcd586dd02144" parent="aspace_b0f85a4dcfc87c4ef342e89c8265d2b9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_lgz" level="file">
+          <did>
+            <unittitle>Personal Correspondence, Christmas Cards </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">circa 1965-1983 </unitdate>
+            <container id="aspace_999b41372c94652c643f5e9a0ea7a8cf" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_4e88f93861f1fa13e2006e61d9d285f9" parent="aspace_999b41372c94652c643f5e9a0ea7a8cf" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_1qt" level="file">
+          <did>
+            <unittitle>Personal Correspondence, Letters of recommendation </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="1964/1969" type="inclusive">04/14/1964-02/07/1969</unitdate>
+            <container id="aspace_079f1bb323d866e49a440aaafc109c1e" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_13af353761a751518cc8f36e4368bfa3" parent="aspace_079f1bb323d866e49a440aaafc109c1e" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_jri" level="file">
+          <did>
+            <unittitle>Personal Correspondence, regarding Theater Conferences </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="1965/1970" type="inclusive">04/29/1965-06/18/1970</unitdate>
+            <container id="aspace_b5e87ad89a2a1bfe46d6d73bba430b7a" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_49a52d891de578d34e5ede0ecd3c97d8" parent="aspace_b5e87ad89a2a1bfe46d6d73bba430b7a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_anz" level="file">
+          <did>
+            <unittitle>Personal Correspondence with Mount Vernon alumnae </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="1967/1981" type="inclusive">05/28/1967-04/15/1981</unitdate>
+            <container id="aspace_54d94804bb32bcb50db7717e5509455d" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_21fbaf9993ac979ecacb473ca80b3d7d" parent="aspace_54d94804bb32bcb50db7717e5509455d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_p23" level="file">
+          <did>
+            <unittitle>Personal Correspondence with Olwen Lloyd</unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">1972-1979</unitdate>
+            <container id="aspace_3696f3b12b29112727d9baaac64a4a05" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_8953fc31434c35bab396d245423c6d45" parent="aspace_3696f3b12b29112727d9baaac64a4a05" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_gbx" level="file">
+          <did>
+            <unittitle>Personal Correspondence with Theater Groups </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">03/29/1961-01/04/1984 </unitdate>
+            <container id="aspace_376af65cb14cd397f078c5b60f51cd17" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_53287002fd4397ede8266e40246739b0" parent="aspace_376af65cb14cd397f078c5b60f51cd17" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_gut" level="file">
+          <did>
+            <unittitle>Programs, Theater Conferences </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation" normal="1961/1977" type="inclusive">08/24/1961-08/17/1977</unitdate>
+            <container id="aspace_6a273edf7955e7d9d8106d0a61e854a2" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_184599fbda490e56ebb7ac31a025aea4" parent="aspace_6a273edf7955e7d9d8106d0a61e854a2" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_yw0" level="file">
+          <did>
+            <unittitle>Report and Code, Secondary School Theatre Conference</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">12/1959 </unitdate>
+            <container id="aspace_600c5b14b67a91adbd687a3d00bc4d0a" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_0461268ca399bcd0221fd4b8d4994347" parent="aspace_600c5b14b67a91adbd687a3d00bc4d0a" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_3uy" level="file">
+          <did>
+            <unittitle>Theater Workshop Summary </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">undated </unitdate>
+            <container id="aspace_c1242458c3df17c065a0b6bc71cd711f" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_7c205a4e65bd3ff6def415b96be495a6" parent="aspace_c1242458c3df17c065a0b6bc71cd711f" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_658" level="file">
+          <did>
+            <unittitle>Transcripts, Theater Conference Sessions </unittitle>
+            <unitid>Series 2 </unitid>
+            <unitdate datechar="creation">08/28/1961-10/29/1961</unitdate>
+            <container id="aspace_a4e83c8b5261c939a23a073686f488da" label="Mixed Materials [32882019249286]" type="Box">3</container>
+            <container id="aspace_b93583c71cd3c6b72f3fa5b8a6fc11c8" parent="aspace_a4e83c8b5261c939a23a073686f488da" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

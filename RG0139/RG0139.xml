@@ -1,0 +1,989 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0139.xml">rg0139.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Gelman Library University Librarian records, <date calendar="gregorian" era="ce">1991-2008</date>
+ <num>RG0139</num></titleproper>
+        <author>Finding aid prepared by Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:53:15 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Gelman Library University Librarian records</unittitle>
+      <origination label="source">
+        <corpname rules="dacs" source="local">Gelman Library. Office of the University Librarian</corpname>
+      </origination>
+      <unitid>RG0139</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1991/2008" type="inclusive">1991-2008</unitdate>
+      <unitdate datechar="creation" normal="1994/2008" type="bulk">1994-2008</unitdate>
+      <abstract id="aspace_0982957fac58e4a4cf34d3cfd34caf37">This collection contains the records of the University Librarian for George Washington University. Materials in this collection include budgets, reports, and working files. They range in date from 1991 to 2008, with the bulk of the material dating between 1994 and 1995.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <acqinfo id="aspace_6c8148924aa542385182ff7a8ef0c0ea">
+      <head>Acquisition Information</head>
+      <p>Materials were transferred to the University Archives by the University Librarian.</p>
+    </acqinfo>
+    <bioghist id="aspace_2fbede13785381faccf959020e61d37f">
+      <head>Historical or Biographical Note</head>
+      <p>The George Washington University's Melvin Gelman Library opened in 1973. Before the Gelman Library (which received its current name in 1980), the University Library was located in Lisner Hall, formerly Lisner Library. When the University moved to Foggy Bottom in 1912 from its location on 15th and H Streets, N.W., the first library was located in the original Lisner Hall, the former St. Rose's School for Orphaned Girls, between 20th and 21st Streets on G Street. Other libraries include the Virginia Campus Library (established n 1990), and the Mount Vernon Campus Eckles Library (under GW control since 1997). Together, these three libraries form the Gelman Library System (GLS).</p>
+      <p>The Library is headed by a University Librarian, who oversees: the Assistant University Librarian, Administration, Development, and Personnel; Associate University Librarian for Collections and Scholarly Communication; Associate University Librarian for Information Technology; Associate University Librarian for Public Services; Directors of the Mt. Vernon and Virginia Campus libraries, and the Manager of GLS (Gelman Library System) Financial Operations.</p>
+    </bioghist>
+    <scopecontent id="aspace_a8a13c902a2f471d28f80dacf7e1d463">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include budgets, reports, and working files from the office of the University Librarian. They range in date from 1991 to 2008.</p>
+    </scopecontent>
+    <arrangement id="aspace_13d0fbcfa0085cb130cbf8c1fdb0b456">
+      <head>Collection Organization</head>
+      <p>Organized into two series: Office files and Jack Siggins records [accession 2012.071]</p>
+    </arrangement>
+    <accessrestrict id="aspace_91ca163329ab530df655c7d20cae879f">
+      <head>Conditions Governing Access</head>
+      <p>Series 1 is open for research. Series 2 is closed for 50 years from date of record creation.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4f8a712dabeeecf5fe6615bd8328639e">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_501321e33783444bb9d8b3c985531bd0">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Finance</subject>
+      <subject source="lcsh">Melvin Gelman Library</subject>
+      <subject source="lcsh">Librarians</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <corpname role="fmo" rules="dacs" source="local">Gelman Library. Office of the University Librarian</corpname>
+      <corpname rules="aacr" source="naf">George Washington University. Library</corpname>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_gox" level="series">
+        <did>
+          <unittitle>Office files</unittitle>
+          <unitid>RG0139 Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+            <extent altrender="carrier">2 record cartons</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1991/1996" type="inclusive">1991-1996 and undated</unitdate>
+          <unitdate datechar="creation" normal="1994/1995" type="bulk">1994-1995</unitdate>
+        </did>
+        <scopecontent id="aspace_423eb0f99b5ca12d22b843a9520bd117">
+          <head>Scope and Contents note</head>
+          <p>This series contains office files related to the subjects of the staff management group (smg), budget, WRLC, GW Tidewater and Hampton locations, computer information center, university policies, Virginia Campus Library, faculty senate, friends of the libraries group. The records cover the years 1992-96.</p>
+          <p>Formerly ACC#666</p>
+        </scopecontent>
+        <c id="aspace_ref12_vbu" level="file">
+          <did>
+            <unittitle>Working file: Staff Management Group</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f8b66fd29c98863efd9d616cdd072266" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_9c71fd41354eb45fbef55d1f983df2cd" parent="aspace_f8b66fd29c98863efd9d616cdd072266" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_kvv" level="file">
+          <did>
+            <unittitle>Working file: External Programs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_afecb8a84b811d776f1b166371774034" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_9f8efdc200122f4058df832d12c85aaf" parent="aspace_afecb8a84b811d776f1b166371774034" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_g8z" level="file">
+          <did>
+            <unittitle>Gelman Library: Three year budget planning document</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b037ee86dae09f3a3f34da34f0a4f753" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_bd8750869b3f7cb8d27296f5256c3b0d" parent="aspace_b037ee86dae09f3a3f34da34f0a4f753" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_z37" level="file">
+          <did>
+            <unittitle>WRLC and Southeastern Universities Research Association</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c6835fb4702b9f7346a5f856e924f829" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_35027394f32ae58c2e4a16b417fa1425" parent="aspace_c6835fb4702b9f7346a5f856e924f829" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_3ag" level="file">
+          <did>
+            <unittitle>Working file: WRLC Directors</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_758ad3dd062f96ec11cc67e0c83d49be" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_e793436c530f56520f7039b395dd3239" parent="aspace_758ad3dd062f96ec11cc67e0c83d49be" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_zwc" level="file">
+          <did>
+            <unittitle>Working file: Council of Deans</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_ab9d3e68fa1552bd0fcae1fc2c79f955" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_a3eac5744a92f90ed2f294b1036ad145" parent="aspace_ab9d3e68fa1552bd0fcae1fc2c79f955" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_ih3" level="file">
+          <did>
+            <unittitle>Graduate School of Arts and Sciences: Orientation Attendees</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2ee3b9d2c8bbc8e44c4a04e937f79f41" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_cb8bd8af440ed3f2c8969bbe59f3a2f0" parent="aspace_2ee3b9d2c8bbc8e44c4a04e937f79f41" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_neq" level="file">
+          <did>
+            <unittitle>Working file: Annual Report</unittitle>
+            <unitdate datechar="creation">1993-1994</unitdate>
+            <container id="aspace_6c1be3e1f42580bb7977684533edf47f" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_8ba3b3ea7f303cabe2d887f107501265" parent="aspace_6c1be3e1f42580bb7977684533edf47f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_hzr" level="file">
+          <did>
+            <unittitle>Working file: Budget</unittitle>
+            <unitdate datechar="creation">1991-1993</unitdate>
+            <container id="aspace_0190e2a8ec3b3ec781494a3542135fd7" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_7e33d2665f37c7c66fbd0426322c56de" parent="aspace_0190e2a8ec3b3ec781494a3542135fd7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_a3s" level="file">
+          <did>
+            <unittitle>GWU Tidewater Center</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a339ec61f58e27824a18d1bfb3f3e539" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_1531bb846e697ffb61696d290526b2b0" parent="aspace_a339ec61f58e27824a18d1bfb3f3e539" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_jty" level="file">
+          <did>
+            <unittitle>Hampton Roads and Richmond Campuses</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3b0d7913ac7318f61cec5c96d538c161" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_72c795e20dad492d37ce966664b11d5a" parent="aspace_3b0d7913ac7318f61cec5c96d538c161" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_8xn" level="file">
+          <did>
+            <unittitle>Sample GW pubs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a3d93b1e79464132c0199180cde1c95" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_2181922978f3f7e0e0baeda3f1354178" parent="aspace_9a3d93b1e79464132c0199180cde1c95" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_5l5" level="file">
+          <did>
+            <unittitle>Computer Information and Resource Center</unittitle>
+            <unitdate datechar="creation">1992-1994</unitdate>
+            <container id="aspace_6e891e49782d24b1ba2aca901cbf3413" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_1370bb92ee8013c9a492a75ecdb4dc20" parent="aspace_6e891e49782d24b1ba2aca901cbf3413" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_si8" level="file">
+          <did>
+            <unittitle>Gelman Library Info</unittitle>
+            <unitdate datechar="creation">1993-1994</unitdate>
+            <container id="aspace_d0f440037f6a131d1aa19a347b53d8ec" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_86961b3f2ebf4a103d214577432b6a83" parent="aspace_d0f440037f6a131d1aa19a347b53d8ec" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_51v" level="file">
+          <did>
+            <unittitle>GW University Policies and Procedures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ac26477c1ffce9be07a568b7d936c2dd" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_abf1a1b2d7e6c4ec9bf01635363737cb" parent="aspace_ac26477c1ffce9be07a568b7d936c2dd" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_w72" level="file">
+          <did>
+            <unittitle>GW campus contacts and initiatives</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1867f3efdd85f697d291630c8007f334" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_70c5191a4bc915e09bfa149d5dd1f955" parent="aspace_1867f3efdd85f697d291630c8007f334" type="Folder">16</container>
+          </did>
+          <odd id="aspace_78ee50e4531c7b836b7bbcec09ad5c11">
+            <head>General note</head>
+            <p>Alphabetically by last name</p>
+          </odd>
+        </c>
+        <c id="aspace_ref32_x6r" level="file">
+          <did>
+            <unittitle>Subject Specialists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ac284020f8ae97b3fc7d2879c2e4bd7a" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_98961d04c382e8423bdc6294671ff7a4" parent="aspace_ac284020f8ae97b3fc7d2879c2e4bd7a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_5ce" level="file">
+          <did>
+            <unittitle>Equipment, furniture, LAN, consulting-AAC, networks, CAPCON</unittitle>
+            <unitdate datechar="creation">1994-1995</unitdate>
+            <container id="aspace_4805aaab808969be41d0ef689c41aaf2" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_a78cd521bc89aff6f773cab67029715c" parent="aspace_4805aaab808969be41d0ef689c41aaf2" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_orz" level="file">
+          <did>
+            <unittitle>Virginia Campus Library</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5c506ed6a01f2200b1caf3200f23a659" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_4ac90e062fb0aeb18b769fc0bef7101a" parent="aspace_5c506ed6a01f2200b1caf3200f23a659" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_4vb" level="file">
+          <did>
+            <unittitle>Gelman Background</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_57b939380f2965e868d914e03406bd04" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_260a7559b460af40016cbc5c24c41a45" parent="aspace_57b939380f2965e868d914e03406bd04" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_coj" level="file">
+          <did>
+            <unittitle>Gelman Personnel</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_20be39aca45f6478fc6274bd167a4a1f" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_da7b28327deba7893c7b2587579da349" parent="aspace_20be39aca45f6478fc6274bd167a4a1f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_wvo" level="file">
+          <did>
+            <unittitle>Working file: Faculty Senate</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_a56a49cba324d1f152f8972fe7f5e823" label="Mixed Materials [32882013262574]" type="Box">1</container>
+            <container id="aspace_9812b1a02d834247b1c2f5a33510058c" parent="aspace_a56a49cba324d1f152f8972fe7f5e823" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_d5m" level="file">
+          <did>
+            <unittitle>Working file: OCLC</unittitle>
+            <unitdate datechar="creation">1992-1994</unitdate>
+            <container id="aspace_88bb4362b2e964e503b037db3b8ef1ed" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_435380a3b6108ee00627ccebdf7ab446" parent="aspace_88bb4362b2e964e503b037db3b8ef1ed" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_900" level="file">
+          <did>
+            <unittitle>Working file: Faculty Library Senate Committee</unittitle>
+            <unitdate datechar="creation">1992-1994</unitdate>
+            <container id="aspace_c0e75ec484e0ee5848819063609bef2b" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_4726b2dbfc908ead58f81dd0fce403aa" parent="aspace_c0e75ec484e0ee5848819063609bef2b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_wqy" level="file">
+          <did>
+            <unittitle>Working file: Friends of the Libraries</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_ab52088704b3d9f7c6ef4bcd0d9b5276" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_34e7d1f79892d9d5eba5f88a315b0f00" parent="aspace_ab52088704b3d9f7c6ef4bcd0d9b5276" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_y41" level="file">
+          <did>
+            <unittitle>Working file: Technology</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_12d04b69c95b4b65a0afa54c25078bd5" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_1bbff0e56588d85e6f4b89cd1b2c7b7c" parent="aspace_12d04b69c95b4b65a0afa54c25078bd5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_l7z" level="file">
+          <did>
+            <unittitle>Information Technology: Higher education and Healthcare at GWU</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4c945e34a96956f5c6a8c13e5dea48c7" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_f5dfeea06b9af037eea641cda08b4e3f" parent="aspace_4c945e34a96956f5c6a8c13e5dea48c7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_q4t" level="file">
+          <did>
+            <unittitle>Working file: Campus wide information systems steering committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0efebbcb6fd6b85e0ce80c3e1970e929" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_ca4ffb077e0fa61afed31563321fdd66" parent="aspace_0efebbcb6fd6b85e0ce80c3e1970e929" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_r92" level="file">
+          <did>
+            <unittitle>Working file: Subject Specialists Planners Gelman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5a1acc400634448f2836f6da7cede053" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_e223ad3184682bd616bc1972aa1bebfc" parent="aspace_5a1acc400634448f2836f6da7cede053" type="Folder">7</container>
+          </did>
+          <odd id="aspace_48796869d869d51f7880ff079093af81">
+            <head>General note</head>
+            <p>time and hours</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46_cac" level="file">
+          <did>
+            <unittitle>Faculty Senate</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_0d74b63b44731e0dd75460fa0f7db2ac" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_b53cadc28d3a7078ecb3f4dfc05b455b" parent="aspace_0d74b63b44731e0dd75460fa0f7db2ac" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_5pm" level="file">
+          <did>
+            <unittitle>Working file: Subject Specialists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a48fb50ebfb5f1114ed7f8a5a029670b" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_8bce04c3e29b69b20e5bfb6159d91607" parent="aspace_a48fb50ebfb5f1114ed7f8a5a029670b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_fgg" level="file">
+          <did>
+            <unittitle>Working file: Academic Affairs VP</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_30256913a69c1a16f874be2e1f282d64" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_94adb9a2e86b5231fb7d2a6cb091b730" parent="aspace_30256913a69c1a16f874be2e1f282d64" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_q9g" level="file">
+          <did>
+            <unittitle>Working file: Credenza Top File</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9605cb874c3280c721b144c2fb4577a6" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_06a69fcb062f2a3538a674702db6404f" parent="aspace_9605cb874c3280c721b144c2fb4577a6" type="Folder">11</container>
+          </did>
+          <odd id="aspace_47ebbc09d41a840dd3de9ec0378fa273">
+            <head>General note</head>
+            <p>Academic Computing Advisory Council</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52_wzs" level="file">
+          <did>
+            <unittitle>Working file: Collections budget and development</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cbe9b209f53362f2bffa5bbf5ad5bb2c" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_959b62a435de90a8201fe1c25a4142fe" parent="aspace_cbe9b209f53362f2bffa5bbf5ad5bb2c" type="Folder">12</container>
+          </did>
+          <odd id="aspace_36425de9f1fb06c88ed5943c1c439f89">
+            <head>General note</head>
+            <p>Gelman</p>
+          </odd>
+        </c>
+        <c id="aspace_ref54_x52" level="file">
+          <did>
+            <unittitle>GW Admininistration and business procedures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4d7c4268402d8dcf36e2b788493732b9" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_8b3666abf55179ec06e0117f08a506ae" parent="aspace_4d7c4268402d8dcf36e2b788493732b9" type="Folder">13</container>
+          </did>
+          <odd id="aspace_2bc92c8ebb2d3ccf44ac2855c5d23dc9">
+            <head>General note</head>
+            <p>CIRC Strat Plan</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56_dxm" level="file">
+          <did>
+            <unittitle>Working file: Strategic Plan</unittitle>
+            <unitdate datechar="creation">1995-1996</unitdate>
+            <container id="aspace_c3dc2dd91c861c11c414c1a4e45f5989" label="Mixed Materials [32882013262582]" type="Box">2</container>
+            <container id="aspace_9b16256be5e767d35fba4b926591c8a2" parent="aspace_c3dc2dd91c861c11c414c1a4e45f5989" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref64_t9m" level="series">
+        <did>
+          <unittitle>Jack Siggins records [accession 2012.071]</unittitle>
+          <unitid>Series 2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1995/2008" type="inclusive">1995-2008</unitdate>
+        </did>
+        <accessrestrict id="aspace_6c1e9db850713156ed3409e58bee5c42">
+          <head>Conditions Governing Access</head>
+          <p>The records in series 2 are closed for 50 years from date of record creation.</p>
+        </accessrestrict>
+        <acqinfo id="aspace_97638066a880b41113745e87647bf280">
+          <head>Immediate Source of Acquisition</head>
+          <p>Transferred by Office of the University Librarian, August 24, 2012 (Accession 2012.071).</p>
+        </acqinfo>
+        <arrangement id="aspace_efd8701da40710bc25a2629b48bb4317">
+          <head>Arrangement</head>
+          <p>Original order retained.</p>
+        </arrangement>
+        <c id="aspace_ref65_19g" level="file">
+          <did>
+            <unittitle>VII.J. Learning Organization</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_208fb643e40c5d3c33f74a2df11afdba" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c1f2d51b2589f99c1f75a5ffa26ecb67" parent="aspace_208fb643e40c5d3c33f74a2df11afdba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_tpa" level="file">
+          <did>
+            <unittitle>V.H. Korean Library</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_925246931333b9408587637f0a2849d8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6b909fd2c7ec18e4d9597c8d37c97f05" parent="aspace_925246931333b9408587637f0a2849d8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_t0j" level="file">
+          <did>
+            <unittitle>I.B. Committee on Information Technology</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d61383a82052592d60ceee9393fb32ad" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_cbfc944a295bbc3df469f8640343721f" parent="aspace_d61383a82052592d60ceee9393fb32ad" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_jaj" level="file">
+          <did>
+            <unittitle>I.A. Board of Trustees: IT Committee</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_845b966c46cbfe073621d2d1d7b93a95" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_15f84537841de9cb46cc20bb6582a973" parent="aspace_845b966c46cbfe073621d2d1d7b93a95" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_xer" level="file">
+          <did>
+            <unittitle>Stephen Joel Trachtenberg (SJT) 2007</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2007</unitdate>
+            <container id="aspace_cf819d975f2be9190fafe52769fa5732" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_26043dbd4fa130e08880405fa7dca38b" parent="aspace_cf819d975f2be9190fafe52769fa5732" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_feh" level="file">
+          <did>
+            <unittitle>SJT 2006</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_a35939df9e2e7a41401a1011df4f171f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fbe7956146999a17687176dae4552df1" parent="aspace_a35939df9e2e7a41401a1011df4f171f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_t4e" level="file">
+          <did>
+            <unittitle>SJT 2005</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_37ddf71be60744803be025ce704aafaa" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_35b80c27557dd2a3201c2a4f1c8da6f3" parent="aspace_37ddf71be60744803be025ce704aafaa" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_ald" level="file">
+          <did>
+            <unittitle>SJT 2004</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_d0326487412280e1a5942d134f402b66" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1eaf1733c76eb5862f9db100e0b97d26" parent="aspace_d0326487412280e1a5942d134f402b66" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_3rw" level="file">
+          <did>
+            <unittitle>SJT 2003</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_e9ede37c713079268c3345944e7b288c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_be062bc2f8e390f15ddc804abf73fa2a" parent="aspace_e9ede37c713079268c3345944e7b288c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_sme" level="file">
+          <did>
+            <unittitle>SJT 2002</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_f4e7f67c6293c26f71ae4a778ff29253" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f3fd0d1e38fb123ef47a0d310d10ef32" parent="aspace_f4e7f67c6293c26f71ae4a778ff29253" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_lbt" level="file">
+          <did>
+            <unittitle>SJT 2001</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_366926434f6f4494c481076a2a5711e2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0e7fcb2dad13041940dd04d8eeac9763" parent="aspace_366926434f6f4494c481076a2a5711e2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_s8h" level="file">
+          <did>
+            <unittitle>SJT 2000</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_2e098110ca52ad0f1d4b9d7763e75efb" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d2ede45a40aa018019df5f627829f9cb" parent="aspace_2e098110ca52ad0f1d4b9d7763e75efb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_6zl" level="file">
+          <did>
+            <unittitle>SJT 1999</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_82a1804b8b611119add63c338146882f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_de3ac0fadcd491ad2725430b55ae71af" parent="aspace_82a1804b8b611119add63c338146882f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_mw6" level="file">
+          <did>
+            <unittitle>SJT 1998</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_cd5065f3682e20c1646fc216bd3728fd" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a185303528d2329167a6eb6277e70502" parent="aspace_cd5065f3682e20c1646fc216bd3728fd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_cep" level="file">
+          <did>
+            <unittitle>SJT 1995 - 1997</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1995-1997</unitdate>
+            <container id="aspace_6786e605429330254d9a0d9d0abd5d76" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a8e2a5c73c1f71394855cf99fabe0936" parent="aspace_6786e605429330254d9a0d9d0abd5d76" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_h0r" level="file">
+          <did>
+            <unittitle>I.E.1 Council of Librarians: Code/ByLaws</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_28ed84d41be09c0b6ae635a70c4f3281" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_74425862ecddcd71f4ffe0a9a1f1e7c1" parent="aspace_28ed84d41be09c0b6ae635a70c4f3281" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_xx2" level="file">
+          <did>
+            <unittitle>I.G. Mission Statement</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b379d0353045ce239d316d6d982527ed" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d53b432b9e97bb1c2b6ab9bc5240dcc0" parent="aspace_b379d0353045ce239d316d6d982527ed" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_2e1" level="file">
+          <did>
+            <unittitle>I.H. Mt. Vernon Campus Library</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a3055268e7faefb48188c6a2644333c0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e51eaeafef88c5c5dc6ba191bfaf93ee" parent="aspace_a3055268e7faefb48188c6a2644333c0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_t79" level="file">
+          <did>
+            <unittitle>I.H.1. Roosevelt Papers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8dfc044a6d72a217ffb4b21fc72a078e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_bc63daeb28543d9c992af3b6a5aa6995" parent="aspace_8dfc044a6d72a217ffb4b21fc72a078e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_scx" level="file">
+          <did>
+            <unittitle>I.H.2. Les Dames D'Escoffier</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_620b011439069a4f570ce757ea0ec3a6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8786e1bbfe144953da98c11376b974f6" parent="aspace_620b011439069a4f570ce757ea0ec3a6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_hn1" level="file">
+          <did>
+            <unittitle>I.I.1. National Transportation Safety Board</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b5074c0cae7ad1cac55d0b25d47f6d33" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0615bbc4969a66c2de687718a267d3c6" parent="aspace_b5074c0cae7ad1cac55d0b25d47f6d33" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_ffc" level="file">
+          <did>
+            <unittitle>I.J. Organization Charts</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8f5faa1b51df34bfc4a236a09b0fc4a6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c2bde8e3c2bf1e0ac7d984128f596731" parent="aspace_8f5faa1b51df34bfc4a236a09b0fc4a6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_p6q" level="file">
+          <did>
+            <unittitle>I.N. Strategic Plan</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fc19bc29427d5f51aa8a2cdfcc442137" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fca1f0b32b3940fc13888bedf76d73f0" parent="aspace_fc19bc29427d5f51aa8a2cdfcc442137" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_851" level="file">
+          <did>
+            <unittitle>I.O. Surveys</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_42422e8c5b133387095fecd91a307cb1" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9399b3b4d4c3cf2712e5115b51f7bf24" parent="aspace_42422e8c5b133387095fecd91a307cb1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_xic" level="file">
+          <did>
+            <unittitle>I.O.1. LibQual</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_77053cb0f133a8cb160c8a2d473f57e4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7c2ed9e92249641fa15f730f531eb525" parent="aspace_77053cb0f133a8cb160c8a2d473f57e4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_2bt" level="file">
+          <did>
+            <unittitle>II.C. Capital Budget</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ef7024be23ba60f55e35edeede76441f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_68af0dda839fc37d03faedae1d475458" parent="aspace_ef7024be23ba60f55e35edeede76441f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_bsr" level="file">
+          <did>
+            <unittitle>II.H.1. Merit Increases FY2006</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_279a793d4a14a954effacd748f4d4451" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e4e257d3ea6f3bd3e7cfc64952c4eb6b" parent="aspace_279a793d4a14a954effacd748f4d4451" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_0q2" level="file">
+          <did>
+            <unittitle>II.H.1 Merit Increases FY2005</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_e6142133351754357189417bd997b04b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b2994cc1c317dee5e872481ff5d82346" parent="aspace_e6142133351754357189417bd997b04b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_gq3" level="file">
+          <did>
+            <unittitle>III.A. Access</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_095115694f0d777f9d14468e4906abad" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2037e067f5927cc5dcaa06a1954e8b98" parent="aspace_095115694f0d777f9d14468e4906abad" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_r8h" level="file">
+          <did>
+            <unittitle>III.A.1. Woodrow Wilson School</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c15c302885c3a1fe32b0d62de058f44f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_328ef89caaf19a4f11904e9d5a235db6" parent="aspace_c15c302885c3a1fe32b0d62de058f44f" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_uk6" level="file">
+          <did>
+            <unittitle>III.E.1. Library Hours</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d918cab156f6defc7bd1e86b63c76bfb" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a9b762baa5cee3fbd8b9316da8d462be" parent="aspace_d918cab156f6defc7bd1e86b63c76bfb" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_0s3" level="file">
+          <did>
+            <unittitle>III.G. Security</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d3fff7eca66e4eee7d2db4096ad1f8cd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_31c90496944d1a2ef0b87a624a40cf25" parent="aspace_d3fff7eca66e4eee7d2db4096ad1f8cd" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_2c1" level="file">
+          <did>
+            <unittitle>III.D. Emergency Procedures</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_197104ec7293695019daf659b8c5164b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8ee7c88ae4a3eab8dede445e696abf2b" parent="aspace_197104ec7293695019daf659b8c5164b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_ujr" level="file">
+          <did>
+            <unittitle>III.N. (Starbucks) Café</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_440acb35786e3390e12fa019471b5516" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_39ae743e9768ce0b32fcb5c0c0f1c574" parent="aspace_440acb35786e3390e12fa019471b5516" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_u3z" level="file">
+          <did>
+            <unittitle>IV.B.1. Copy Center</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_afe8267bacbac05524792b9e9b88ada9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1a09f3c6388967acd5fa50a1062c92f7" parent="aspace_afe8267bacbac05524792b9e9b88ada9" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_833" level="file">
+          <did>
+            <unittitle>V.A. Collection Development Specialists</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7f404edce379d2f724d48cb3f1f4dd1c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6b08e4c5f265f9dbdb22dd63f59510a4" parent="aspace_7f404edce379d2f724d48cb3f1f4dd1c" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_2jf" level="file">
+          <did>
+            <unittitle>V.E. Special Collections</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e53006277890bc7b727b3d41b8449d47" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6eee9578a82f51db70c35e1dc0b8b495" parent="aspace_e53006277890bc7b727b3d41b8449d47" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_f4y" level="file">
+          <did>
+            <unittitle>V.E.7 Curator of Africana</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7bf7acb3638b01d4b6f9021d89e80d9b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0c9dfc325f46235b4c00ac8c66867c93" parent="aspace_7bf7acb3638b01d4b6f9021d89e80d9b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_af1" level="file">
+          <did>
+            <unittitle>V.F. University Archivist</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_48b2412bed6ef9311b3d51faf306fcd7" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f9a25c670800d07ab0af9faeb2662b9e" parent="aspace_48b2412bed6ef9311b3d51faf306fcd7" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_nw6" level="file">
+          <did>
+            <unittitle>V.G. Faculty Authors</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b4b8c9b3ff357f9e43279667fa815cb1" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_501a65f67e28acc1f77d2eee80e4e5a4" parent="aspace_b4b8c9b3ff357f9e43279667fa815cb1" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_45c" level="file">
+          <did>
+            <unittitle>WF: Annual Report Fy 2000</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_e296a4bf23a019260a7badf8a5829b85" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8e89c1fa1921075863f56410d9c90de1" parent="aspace_e296a4bf23a019260a7badf8a5829b85" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_vzd" level="file">
+          <did>
+            <unittitle>WF: Annual Report FY 2001</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_149dc1fd56cb69ad5fe585416a1b3a76" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_65729c1d8e33ed4fcfe3196a4ab1a6c5" parent="aspace_149dc1fd56cb69ad5fe585416a1b3a76" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_26b" level="file">
+          <did>
+            <unittitle>I.B. Annual Report FY 2002</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_20a646265726d27cc3033cbe027b8b68" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_fa8f554cbf825165c5c84a806948549e" parent="aspace_20a646265726d27cc3033cbe027b8b68" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_cre" level="file">
+          <did>
+            <unittitle>I.B. Annual Report FY 2003</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_adf49ae689664ba5bf18a7f219e7d186" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_61f32f0ba55d27e670a0ab4591efb414" parent="aspace_adf49ae689664ba5bf18a7f219e7d186" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_civ" level="file">
+          <did>
+            <unittitle>I.B. Annual Report FY 2005</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_8e1e314f84bd0caea72754528a826f08" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_644b4802ec270389480077c466d8e506" parent="aspace_8e1e314f84bd0caea72754528a826f08" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_b5z" level="file">
+          <did>
+            <unittitle>I.B. Annual Report FY 2006</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_2e8f1c69e9f70e20b6e28a46d944c818" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b9160e7bd176d94f08f1dec0b3e5da1a" parent="aspace_2e8f1c69e9f70e20b6e28a46d944c818" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_u8y" level="file">
+          <did>
+            <unittitle>I.D. Cabinet</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6385fd06f09296cd26473e223b3d002c" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_66557930c459c6f4f30007b25e0cf27b" parent="aspace_6385fd06f09296cd26473e223b3d002c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_ccn" level="file">
+          <did>
+            <unittitle>I.E. Council of Librarians</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_55c40150e3f76928e8a879bfcdd6ca6e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_4ce45a19604ef6dc752cfb56de4298a8" parent="aspace_55c40150e3f76928e8a879bfcdd6ca6e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_22a" level="file">
+          <did>
+            <unittitle>I.H. Mt. Vernon Campus Library</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_72567f282eebe79be6500b36829b6576" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_36378183309a965df0230e0b69493677" parent="aspace_72567f282eebe79be6500b36829b6576" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_y3m" level="file">
+          <did>
+            <unittitle>I.I. Virginia Campus Library</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d0e401edc304912c7aedf0d27791c55f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1d61e19080eb17be5e8ebab94d7b3bea" parent="aspace_d0e401edc304912c7aedf0d27791c55f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_vqh" level="file">
+          <did>
+            <unittitle>I.K. Staff Management Group</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7c917ccae28d2408b862c2fea785eba5" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1817309b78a0cedd98ff5902a679cc86" parent="aspace_7c917ccae28d2408b862c2fea785eba5" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_8bg" level="file">
+          <did>
+            <unittitle>I.L. Staff Association</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2e577431244c3ce2545c115f1f4d7307" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a0a24943d0b345f892794d3a9cddeaf1" parent="aspace_2e577431244c3ce2545c115f1f4d7307" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_4a3" level="file">
+          <did>
+            <unittitle>I.M. Statistics</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_145c71f628cbd8e5f1e89ce0933e0e10" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a6b0564def8f4af0b2eb4eb7c2c758bd" parent="aspace_145c71f628cbd8e5f1e89ce0933e0e10" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_gmh" level="file">
+          <did>
+            <unittitle>I.P. Symposia</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8208e4b34c3c93f697c248f252e9bd82" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f97510969b7961f49cb6503cfb6ca3a4" parent="aspace_8208e4b34c3c93f697c248f252e9bd82" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_adl" level="file">
+          <did>
+            <unittitle>I.Q.1 UPD Incident Reports</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1fc9a58ffa3fe5acb4aa6e1db443bbaa" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_dca6ce0a1365bf7a4087dd530bdcaaf3" parent="aspace_1fc9a58ffa3fe5acb4aa6e1db443bbaa" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_3hi" level="file">
+          <did>
+            <unittitle>I.R. Student Liaison/Advisory Board</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8ddecbe607f3d51fa62a5ad726a7ab4a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_29ac3196348d65d54ee9b4553d2fe557" parent="aspace_8ddecbe607f3d51fa62a5ad726a7ab4a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_hs7" level="file">
+          <did>
+            <unittitle>II.A.5. Budget 2002</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_d21c84fdef79bc9ff8295f7ec0db38bc" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ac8fc92e68fc2ee010277096fee93863" parent="aspace_d21c84fdef79bc9ff8295f7ec0db38bc" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref122_n3m" level="file">
+          <did>
+            <unittitle>II.A. 6. Budget 2003</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_78d52e5656bfd2f69e382b20ad940f59" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_7a26738feaec58cb98a587c6d286af49" parent="aspace_78d52e5656bfd2f69e382b20ad940f59" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_v4z" level="file">
+          <did>
+            <unittitle>II.A.7 Budget 2004</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_3b3515c83b0b10c02c9b796bfba16607" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_df2665a80a24e56ae8ca381ca5ce32f1" parent="aspace_3b3515c83b0b10c02c9b796bfba16607" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_12b" level="file">
+          <did>
+            <unittitle>II.A.8 Budget 2005</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_349fce736ec115a7634c420e0aff0ac3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a42abadc9dfb09baf4205272d22d74f4" parent="aspace_349fce736ec115a7634c420e0aff0ac3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_wps" level="file">
+          <did>
+            <unittitle>II.B. 3-Year Planning</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3177bc6edf24b61b07de12732cb19f1a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_54a0382f124d682a51fc13e398fc2e62" parent="aspace_3177bc6edf24b61b07de12732cb19f1a" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

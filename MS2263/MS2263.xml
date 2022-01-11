@@ -1,0 +1,1280 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="folder_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2263.xml">ms2263.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Otis Graham Jr. papers, <date calendar="gregorian" era="ce">1978-2008</date>
+ <num>MS2263</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:42:55 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Otis Graham Jr. papers</unittitle>
+      <origination label="source">
+        <persname role="dnr" rules="aacr" source="naf">Graham, Otis L</persname>
+      </origination>
+      <unitid>MS2263</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+        <extent altrender="carrier">18 document boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1978/2008" type="inclusive">1978-2008</unitdate>
+      <physloc id="aspace_3e1f3f1e54c043a1c2615c5296e87346">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_ded52dc4b9717be41652f0b17e35f247">This collection contains newspaper articles, policy papers, meeting minutes and correspondence related to the subject of immigration and more specifically the topic of immigration in California.  The creator of the collection, Otis Graham Jr., served on the boards of both the Federation for American Immigration Reform (FAIR) and the Center for Immigration Studies (CIS).  Some of the records in this collection relate to the work of these two organizations. The material dates from 1978-2008.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <acqinfo id="aspace_0355a3f94ad7afca7c3394b2d6178f44">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Otis Graham, Jr., 2008 (Accession 2009.009).</p>
+    </acqinfo>
+    <bioghist id="aspace_b62e7350ca2747e62e4e630f604e41f3">
+      <head>Biography</head>
+      <p>Otis L. Graham, Jr., was born in 1935.  He is an historian who spent most of his teaching life at the University of California, Santa Barbara.  In 1978, he was a member of the founding board of the Federation for American Immigration Reform and served on the Board from more than 20 years.  He has also served as Chair and a member of the Board of the Center for Immigration Studies (CIS). Graham has authored or edited numerous books and articles on the subjects of American reform movements, political economy, and environment and immigration. He is the author of a memoir titled Immigration Reform and America's Unchosen Future.  This memoir has an insiders perspective of the social movement that challenged the mass immigration movement it identified as forming in the 1960s.</p>
+      <p>He was a Guggenheim Fellow, a Fellow at the Woodrow Wilson Center for Scholars, the National Endowment for the Humanities, and the Center for Advanced Study and Behavioral Sciences, and received the Robert Kelley Memorial Award from the National Council on Public History. </p>
+      <p>Graham is a graduate of Yale University (B.A., 1957) and Columbia University (PhD, 1966).</p>
+    </bioghist>
+    <arrangement id="aspace_fb7e3b1e833dce6b52902c4505472f47">
+      <head>Arrangement</head>
+      <p>This collection is minimally processed. The documents are maintained in the order received by the donor which had a loose organization by topic and within a topic the papers were loosly organized chronologically.</p>
+    </arrangement>
+    <prefercite id="aspace_f307ae448c0e8c7866033cb489c8b3d8">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <userestrict id="aspace_336f900281bc2c241abd822d05502e78">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <accessrestrict id="aspace_9437ffdcf043c642ac914721fa8b6f7d">
+      <head>Conditions Governing Access</head>
+      <p>The two documents in Folder 10a of Box 2 titled "E-mail and memo regarding the FAIR Board" are closed (and have been removed and replaced with a separation sheet) to research unless permission is granted by Otis Graham.  Following the death of Otis Graham the documents will remain closed for ten years. During this ten-year period permission to use may be granted by the Chairman of the Board of FAIR. Following this ten-year period the documents will be open to to the public.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_cf69103695f1d0350aae0865c888c766">
+      <head>Scope and Contents</head>
+      <p>This collection contains newspaper articles, journal articles, newsletters, organization's publications, correspondence, and meeting minutes related to the topic of immigration. These papers are a mixture of print media and scholarly policy papers reporting upon and exploring immigration from the late 1970s through 2008.  These papers were gathered and maintained by Otis Graham and particularly the documents he saved to assist him in writing his memoir. The papers include some records of the organizations the Federation for American Immigration Reform (FAIR), the Center for Immigration Studies (CIS) as well as several grassroots reform organizations.  Much of this data appears to relate to the state of California in its immigration debate.</p>
+      <p>
+Please note that these papers are not processed and will take more time to use for research.  Since these are the records Graham used to write his book some folder titles are actually notes to himself about the chapter that is appropriate for these documents or whether the materials were used in the book.  Graham had assigned the original boxes a very broad topic such as Proposition 187 or Immigration trends and patterns.  When applicable this box description was added to the folder title. In the absence of meaningful folder titles the box title was used as the folder title. As this collection is still unprocessed it does sometimes result in a folder title that is not paticularly descriptive. This is something that will be rectified when the collection is processed.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Population</subject>
+      <subject source="lcsh">Immigration</subject>
+      <subject source="lcsh">Immigration opponents -- California</subject>
+      <subject source="lcsh">Immigration policy and research</subject>
+      <subject source="lcsh">Immigration opponents</subject>
+      <persname role="dnr" rules="aacr" source="naf">Graham, Otis L</persname>
+      <corpname rules="aacr" source="naf">Federation for American Immigration Reform</corpname>
+      <corpname rules="aacr" source="naf">Center for Immigration Studies (Washington, D.C.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6_4na" level="file">
+        <did>
+          <unittitle>FAIR founding: Fair Board</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e177ac4f057c1e8b0ccc5035a1c864e8" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_95d004229f02caf06599a5e0fb3e5451" parent="aspace_e177ac4f057c1e8b0ccc5035a1c864e8" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref7_s4o" level="file">
+        <did>
+          <unittitle>FAIR founding: Immigration Reform Group</unittitle>
+          <unitdate datechar="creation">11/1978-02/28/1979</unitdate>
+          <container id="aspace_56db9b19bc662aab02b455c91f735786" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_438b3e5cd468b92c871895d351efd238" parent="aspace_56db9b19bc662aab02b455c91f735786" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref8_7zb" level="file">
+        <did>
+          <unittitle>FAIR founding: On amnesty I and R Commission</unittitle>
+          <unitdate datechar="creation">06/09/1980</unitdate>
+          <container id="aspace_315f6dfdceb5c188abe6781a251e5139" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_c04d8d11ea63b4891471e0119e892d89" parent="aspace_315f6dfdceb5c188abe6781a251e5139" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref9_tkd" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1980</unitdate>
+          <container id="aspace_d4727065423d996c9060d2489df62d2d" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_d8cea04d06cbb390f7f98111f2ae380f" parent="aspace_d4727065423d996c9060d2489df62d2d" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_uss" level="file">
+        <did>
+          <unittitle>FAIR founding: SOS Select Commission on Immigration and Refugee Policy </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_4a20b8ceffa6532373afc3659afcb4d7" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_62438c9d5f925255d1d7542af9ff5ff6" parent="aspace_4a20b8ceffa6532373afc3659afcb4d7" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref11_lyd" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_fbaa5b59acb6d49314c77e168d48cbb1" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_205e01aa6b7612160fec513130855017" parent="aspace_fbaa5b59acb6d49314c77e168d48cbb1" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_nix" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1980-1981</unitdate>
+          <container id="aspace_159d6961716e4bdb70a5ebe95fea4845" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_bb2e3e175593bdc691d18699a7d6ce80" parent="aspace_159d6961716e4bdb70a5ebe95fea4845" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref13_bio" level="file">
+        <did>
+          <unittitle>FAIR founding: FAIR pamphlet #3</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d89de6dc4575621041a15104ae32c354" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_af0df9559919d0678d4b0de6c021d180" parent="aspace_d89de6dc4575621041a15104ae32c354" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_jlp" level="file">
+        <did>
+          <unittitle>FAIR founding: FAIR Survey</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_31ca35e81b93d7676191edaa8089617e" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_abd41bc9f443d357d0668fd16ff4845f" parent="aspace_31ca35e81b93d7676191edaa8089617e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_4wx" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1981-1983</unitdate>
+          <container id="aspace_e5dfd5800ec97dee43c7f43f86292eb5" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_22b9d62215694c8c9f9766ae852cce2b" parent="aspace_e5dfd5800ec97dee43c7f43f86292eb5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref17_u6h" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1978</unitdate>
+          <container id="aspace_237f2d2a626848caffe6f0e1ac30ae1b" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_d4553a68bc848c2df7ae6243c16681be" parent="aspace_237f2d2a626848caffe6f0e1ac30ae1b" type="Folder">11</container>
+        </did>
+        <scopecontent id="aspace_636fc6217c6692e16419540a362b97b6">
+          <head>Scope and Contents</head>
+          <p>The title of the folder is not legible.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref18_vvc" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1979</unitdate>
+          <container id="aspace_c0d5e80bf0d030a59b13700c84028209" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_c29542be2a69e1f4cddcc9444e438233" parent="aspace_c0d5e80bf0d030a59b13700c84028209" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref19_cxs" level="file">
+        <did>
+          <unittitle>FAIR founding: FAIR Board records</unittitle>
+          <unitdate datechar="creation">circa 1982- circa 1988</unitdate>
+          <container id="aspace_4a50e086f3c5f47e6bdeff1c030257af" label="Text [GW: 32882019219198 IM: 560693024]" type="Box">1</container>
+          <container id="aspace_01b0300f076de5802ea4da66e1355a32" parent="aspace_4a50e086f3c5f47e6bdeff1c030257af" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_lw0" level="file">
+        <did>
+          <unittitle>FAIR founding: FAIR history project</unittitle>
+          <unitdate datechar="creation">1988</unitdate>
+          <container id="aspace_56ab8d9e038641bbad3f965eec3d26fa" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_a4558bc6c1081822feb57af978378970" parent="aspace_56ab8d9e038641bbad3f965eec3d26fa" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref21_q3z" level="file">
+        <did>
+          <unittitle>FAIR founding: ACRRO</unittitle>
+          <unitdate datechar="creation">1987</unitdate>
+          <container id="aspace_b3e99373e172a7f1452fc5e18d944ab6" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_2b4b4ad23f9701edcc44b29d5786a766" parent="aspace_b3e99373e172a7f1452fc5e18d944ab6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_jku" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1984-1989</unitdate>
+          <container id="aspace_3f79fd11c49daf228c1d70e131d2000b" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_1ca2a038882845eac2621bb2c73acf44" parent="aspace_3f79fd11c49daf228c1d70e131d2000b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref23_yn1" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">circa 1980- circa 1989</unitdate>
+          <container id="aspace_ea2e2542c0f001ff5336eb1ba6239478" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_2b58c36548880ae19de162b2a4f459a3" parent="aspace_ea2e2542c0f001ff5336eb1ba6239478" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_lva" level="file">
+        <did>
+          <unittitle>FAIR founding: FAIR 10th anniversary</unittitle>
+          <unitdate datechar="creation">1988-1989</unitdate>
+          <container id="aspace_5db3bd9285a2130cd2fab470eee9e14e" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_6db17853b8b0fc680584ea4b676183e1" parent="aspace_5db3bd9285a2130cd2fab470eee9e14e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref25_u4y" level="file">
+        <did>
+          <unittitle>FAIR founding: timeline</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8fb1480eed8b4635669eab8334307963" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_cf1fbd4ea3f516a65f9d1668aac77b53" parent="aspace_8fb1480eed8b4635669eab8334307963" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_qe9" level="file">
+        <did>
+          <unittitle>FAIR founding: Board trip</unittitle>
+          <unitdate datechar="creation">01/1990</unitdate>
+          <container id="aspace_71856af741c3b59a5015c16435232c59" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_2e4675932f2efb4fa979ced6853ff439" parent="aspace_71856af741c3b59a5015c16435232c59" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref27_ou4" level="file">
+        <did>
+          <unittitle>FAIR founding: Board meeting</unittitle>
+          <unitdate datechar="creation">1993</unitdate>
+          <container id="aspace_96c9e0a5331d09b8aad3ac2a12c423eb" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_65fa6ed64447dec7c1b5e75208faf130" parent="aspace_96c9e0a5331d09b8aad3ac2a12c423eb" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_ezh" level="file">
+        <did>
+          <unittitle>FAIR founding: data from FAIR board books</unittitle>
+          <unitdate datechar="creation">circ 1990</unitdate>
+          <container id="aspace_8ddef93b0f698e89d658192578997301" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_89a71f515b131dea3d4e73cbf0c1c239" parent="aspace_8ddef93b0f698e89d658192578997301" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_pbr" level="file">
+        <did>
+          <unittitle>FAIR founding</unittitle>
+          <unitdate datechar="creation">1993</unitdate>
+          <container id="aspace_249cb76782f016577a86ae14ed0ecf0d" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_fc86db06be2188c6e8a3430e061a1d79" parent="aspace_249cb76782f016577a86ae14ed0ecf0d" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref168_z4c" level="file">
+        <did>
+          <unittitle>E-mail and memo regarding FAIR Board</unittitle>
+          <unitdate datechar="creation">07/15/1989-02/03/2002</unitdate>
+          <container id="aspace_ecbd7460b066f97111e1c90001aa355a" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_2c48d6d56790ff0eeb93812cf823e80d" parent="aspace_ecbd7460b066f97111e1c90001aa355a" type="Folder">10a</container>
+          <container id="aspace_68c4e645b1cbac9837c41e705e795675" label="Text [32882020112572]" type="Box">R1</container>
+          <container id="aspace_22cd8f949959a5ccd5ee4de1a06cc9c1" parent="aspace_68c4e645b1cbac9837c41e705e795675" type="Folder">1</container>
+        </did>
+        <accessrestrict id="aspace_31c2b24fc3c84187a069abf0553e0a65">
+          <head>Restriction</head>
+          <p>The e-mail and the memo in this folder have been removed and replaced with a separation sheet explaining the restriction. These documents are closed unless the patron receives permission from Otis Graham to access. Following the death of Otis Graham these documents will remain closed for an addition ten-year period.  During this ten-year period permission to use will be granted by the Chairman of the Board of FAIR. Following this ten-year period the documents will be open for research.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref30_nsr" level="file">
+        <did>
+          <unittitle>Proposition 187:  grassroots</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_03da3f1ebd9749890cadfe1630ddda72" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_85f4f0433b4f0d084b734d1e707d3c85" parent="aspace_03da3f1ebd9749890cadfe1630ddda72" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_xjc" level="file">
+        <did>
+          <unittitle>Proposition 187: Immigration law (Morrison Bill)</unittitle>
+          <unitdate datechar="creation">1990</unitdate>
+          <container id="aspace_076711409effe6c6e857181a44f4896a" label="Text [GW: 32882019219206 IM: 560693025]" type="Box">2</container>
+          <container id="aspace_2e3fc0a0ad6af248ede5186203db6f44" parent="aspace_076711409effe6c6e857181a44f4896a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_ctp" level="file">
+        <did>
+          <unittitle>Proposition 187 California</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_840af350859e980d27912a228ef6b580" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_94ee58d0ba4707652b2c6466257a94ea" parent="aspace_840af350859e980d27912a228ef6b580" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref33_xom" level="file">
+        <did>
+          <unittitle>Proposition 187: Calif US Immigration </unittitle>
+          <unitdate datechar="creation">1994-1995</unitdate>
+          <container id="aspace_58e3ff51cabf826e6aabcfddb405af41" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_7aa4fc1eb8fa6598e4f5e2ca016821b7" parent="aspace_58e3ff51cabf826e6aabcfddb405af41" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_k9r" level="file">
+        <did>
+          <unittitle>Proposition 187</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_51515e86a2271cf8fc011e260c1549f1" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_53dcf1417a4adf58f044dd5f9fc39229" parent="aspace_51515e86a2271cf8fc011e260c1549f1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_jhn" level="file">
+        <did>
+          <unittitle>Proposition 187: FAIR Board </unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_dfcd278735cae48356a8f7d791c893fa" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_03673abea1be4289c7167c532921ceab" parent="aspace_dfcd278735cae48356a8f7d791c893fa" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_byq" level="file">
+        <did>
+          <unittitle>Proposition 187: </unittitle>
+          <unitdate datechar="creation">1992-1994</unitdate>
+          <container id="aspace_a13d73f2fddd7a2fc1d652ffe8d7ce06" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_9fe66b2284102e0db00a630285f6cceb" parent="aspace_a13d73f2fddd7a2fc1d652ffe8d7ce06" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref37_5vd" level="file">
+        <did>
+          <unittitle>Proposition 187: </unittitle>
+          <unitdate datechar="creation">1990</unitdate>
+          <container id="aspace_ab8da95e40a29b9d7c879e722f6b2271" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_048378b618ad6b99cc4afdf5ee82bb51" parent="aspace_ab8da95e40a29b9d7c879e722f6b2271" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_ogs" level="file">
+        <did>
+          <unittitle>Proposition 187: Californians for Population Stabilization</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b0748a08dd528ed483091316d6be9abe" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_f6eedce1dca428fa06b274169040b0c0" parent="aspace_b0748a08dd528ed483091316d6be9abe" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref39_31v" level="file">
+        <did>
+          <unittitle>Proposition 187: CA Talk Immigration</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_920bc0b60ceb7b2e5616c24ef3f2a211" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_9dd5042f4c1b523a8e821676baba8d87" parent="aspace_920bc0b60ceb7b2e5616c24ef3f2a211" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref41_7k2" level="file">
+        <did>
+          <unittitle>Proposition 187: anti-PC</unittitle>
+          <unitdate datechar="creation">1990-1991</unitdate>
+          <container id="aspace_9ac40ded8410639137012225e1a4e34c" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_ab79c5ce66b6ce562cb39b89d52c3f7a" parent="aspace_9ac40ded8410639137012225e1a4e34c" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_fwl" level="file">
+        <did>
+          <unittitle>Proposition 187: Authur Schlesinger Jr.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e05ba28a58d026c1219e55e256b6b346" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_2945a36ece949f0113454592ef6db38c" parent="aspace_e05ba28a58d026c1219e55e256b6b346" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref43_4k4" level="file">
+        <did>
+          <unittitle>Proposition 187</unittitle>
+          <unitdate datechar="creation">10/1990-1991</unitdate>
+          <container id="aspace_1d5ff4895c4ea5005aa550ef2f580545" label="Text [GW: 32882019219214 IM: 560693026]" type="Box">3</container>
+          <container id="aspace_4ad6081fb6805c0e84dc0fc6882acc66" parent="aspace_1d5ff4895c4ea5005aa550ef2f580545" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_imi" level="file">
+        <did>
+          <unittitle>Proposition 187: cult war digest</unittitle>
+          <unitdate datechar="creation">1990-1991</unitdate>
+          <container id="aspace_c59095780ba92ac9838f3da0ecc9f6fa" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_2a52dd4aff24d807e715c6502327d50f" parent="aspace_c59095780ba92ac9838f3da0ecc9f6fa" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref45_6aj" level="file">
+        <did>
+          <unittitle>CA Proposition 187</unittitle>
+          <unitdate datechar="creation">1992-1994</unitdate>
+          <container id="aspace_6794bd93c381a0794205f86913ddced1" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_fdbf0a5e6d4aeb0949b2e1ebd15abd01" parent="aspace_6794bd93c381a0794205f86913ddced1" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_f59" level="file">
+        <did>
+          <unittitle>CA Proposition 187</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ca4bbe06dae2d2e05023728f988d3129" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_b5e40a1b56a33d6eab86e63792b06179" parent="aspace_ca4bbe06dae2d2e05023728f988d3129" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref47_q8y" level="file">
+        <did>
+          <unittitle>CA Proposition 187: events </unittitle>
+          <unitdate datechar="creation">1998-2001</unitdate>
+          <container id="aspace_63ee8eff44a8eb91a8879caa96d33838" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_f79c2bc0d075ad7a6744c99d0d20a2da" parent="aspace_63ee8eff44a8eb91a8879caa96d33838" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref48_eiz" level="file">
+        <did>
+          <unittitle>CA Proposition 187: FAIR</unittitle>
+          <unitdate datechar="creation">2001-2005</unitdate>
+          <container id="aspace_b83208cb7f82f814cb613db890aaf4f5" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_a4c0419f0dc6667af734bcc4853a8852" parent="aspace_b83208cb7f82f814cb613db890aaf4f5" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref49_0c1" level="file">
+        <did>
+          <unittitle>Stein Interview FAIR field</unittitle>
+          <unitdate datechar="creation">circa 1980- circa 1990</unitdate>
+          <container id="aspace_0c724ea9138b06ddb10691f16e35a232" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_2d98ca5122dc91a27f82e5dcca2e8806" parent="aspace_0c724ea9138b06ddb10691f16e35a232" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref50_3zg" level="file">
+        <did>
+          <unittitle>FAIR Field Operations</unittitle>
+          <unitdate datechar="creation">circa 1980- circa 1990</unitdate>
+          <container id="aspace_082f66b43401b3b0fecd6df652f069f6" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_cb917a661abc894ead406c2079609310" parent="aspace_082f66b43401b3b0fecd6df652f069f6" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref51_1sk" level="file">
+        <did>
+          <unittitle>FAIR Field Operations</unittitle>
+          <unitdate datechar="creation">1980-1986</unitdate>
+          <container id="aspace_7d0cbda2b7ab9cbd4149acf682f70c89" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_b79badbcdeeb0ba242e844bc2a0415a7" parent="aspace_7d0cbda2b7ab9cbd4149acf682f70c89" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref52_gjr" level="file">
+        <did>
+          <unittitle>FAIR Field Operations</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_7fc4af04b9c8a044d8580f93b4413aa5" label="Text [GW: 32882019219222 IM: 560693027]" type="Box">4</container>
+          <container id="aspace_a90dfe464ad6fdefad2adfde25cea926" parent="aspace_7fc4af04b9c8a044d8580f93b4413aa5" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref53_n20" level="file">
+        <did>
+          <unittitle>Pickus</unittitle>
+          <unitdate datechar="creation">1996-1999</unitdate>
+          <container id="aspace_fea636ca1257baf2a0928894ce9178f5" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_ba4461b8fb1bf931191a138897b5e1bb" parent="aspace_fea636ca1257baf2a0928894ce9178f5" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref54_mno" level="file">
+        <did>
+          <unittitle>Pickus citizenship</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3565c127d4d0ec041912395e130966dd" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_b69ddca89b4c904741c4e34cf5b87e39" parent="aspace_3565c127d4d0ec041912395e130966dd" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref55_95f" level="file">
+        <did>
+          <unittitle>Identity Pickus WWWC Project</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f273a675e12b78279e005ba97e19478a" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_1dbdb8713eebbedaf2accc020a707209" parent="aspace_f273a675e12b78279e005ba97e19478a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref56_s6w" level="file">
+        <did>
+          <unittitle>FAIR field operations</unittitle>
+          <unitdate datechar="creation">1990-1997</unitdate>
+          <container id="aspace_6c27ddbfc3dd8f6cbc63dcd1398057a4" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_7fb1e28dfe875244b4e8515e4ab52a64" parent="aspace_6c27ddbfc3dd8f6cbc63dcd1398057a4" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref57_gqv" level="file">
+        <did>
+          <unittitle>FAIR field operations</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_f41e2da90c8c84a4c344d1e85ecf608a" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_82c45a470e7a4d31400b3046b37ce89a" parent="aspace_f41e2da90c8c84a4c344d1e85ecf608a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref58_dil" level="file">
+        <did>
+          <unittitle>FAIR field operations</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_a1a79cf1d6990fced3a121f8d4a70ca6" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_7c7fa16b593f4496f5d7198178168bd3" parent="aspace_a1a79cf1d6990fced3a121f8d4a70ca6" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref59_ry7" level="file">
+        <did>
+          <unittitle>FAIR field operations</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_038159c5eabe0b2e59d8fcd7e9295d8c" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_1c83f77eb9019f603bccc4eb7012504b" parent="aspace_038159c5eabe0b2e59d8fcd7e9295d8c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref60_jro" level="file">
+        <did>
+          <unittitle>asylum mess of 1990s</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_5969238aa7fb781ee4e088358936d602" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_2fba80e7353849612547397afed78674" parent="aspace_5969238aa7fb781ee4e088358936d602" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref61_6gw" level="file">
+        <did>
+          <unittitle>FAIR misc printed</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_d957d63db3801d9afc807f371d053ad7" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_2bc87c5d1d55b8293a66894939d5def7" parent="aspace_d957d63db3801d9afc807f371d053ad7" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref62_rtu" level="file">
+        <did>
+          <unittitle>Immigration Reform Awareness week</unittitle>
+          <unitdate datechar="creation">04/23/1998-04/25/1998</unitdate>
+          <container id="aspace_d90bfd2d7351a0b9922e65220e4aa0c5" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_3171c7c42336556f3f74c973d750ef6e" parent="aspace_d90bfd2d7351a0b9922e65220e4aa0c5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref63_56k" level="file">
+        <did>
+          <unittitle>FAIR printed materials</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_5ad9d56756dcf35278e5a155792e19f1" label="Text [GW: 32882019219230 IM: 560693028]" type="Box">5</container>
+          <container id="aspace_98682ae721680d5706d9cd78a25acb51" parent="aspace_5ad9d56756dcf35278e5a155792e19f1" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref64_svv" level="file">
+        <did>
+          <unittitle>Biblio</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a55d6a97db770ff72ea8ed25602a4c1c" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_4a8eeb9ba45769f1af0cf72c374320e9" parent="aspace_a55d6a97db770ff72ea8ed25602a4c1c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref65_7wa" level="file">
+        <did>
+          <unittitle>Growth in California: Growth and Sprawl and the lack of an [illegible] connection</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_36120c1939c619b5c2538f2851e8253a" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_fa4d2d15f477375f61913b900686772f" parent="aspace_36120c1939c619b5c2538f2851e8253a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref66_8y4" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990- circa 2000</unitdate>
+          <container id="aspace_dc90469b644287b1f67138cdae9f9fa8" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_bb973ce7baa9b11cf6ef38c729d4f1ad" parent="aspace_dc90469b644287b1f67138cdae9f9fa8" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref67_hln" level="file">
+        <did>
+          <unittitle>Growth in California: CIS next meeting</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c5b84d2e4d23a7ca87ac6e522aca1ca6" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_07cb1ef6d2dc2cf394ad3b7dc35805ca" parent="aspace_c5b84d2e4d23a7ca87ac6e522aca1ca6" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref68_17a" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990-2007</unitdate>
+          <container id="aspace_6c45e2756332e68eaf35fb9f55b7744f" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_a9f7f7cf58e91c3a20b4f0b1ea10606f" parent="aspace_6c45e2756332e68eaf35fb9f55b7744f" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref69_sj6" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990-2007</unitdate>
+          <container id="aspace_a081007a756b5f2f19c9a6458d9f15a2" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_375e50852f3732dff0a2bfd53765d5d5" parent="aspace_a081007a756b5f2f19c9a6458d9f15a2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref70_ese" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_f439d18b27d6340c0c7dc8ce996f2c38" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_e17108e265391e7bf6967088e4c858dd" parent="aspace_f439d18b27d6340c0c7dc8ce996f2c38" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref71_lm2" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990</unitdate>
+          <container id="aspace_71fe49892e5f43bbd64038356b885aba" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_e2dd3c699190fc60bff8886a0447559c" parent="aspace_71fe49892e5f43bbd64038356b885aba" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref72_p9k" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_333f48858612d034815494eb20a49e72" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_8bea3207c9d0b254eff44b2a45b53a6d" parent="aspace_333f48858612d034815494eb20a49e72" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref73_h8o" level="file">
+        <did>
+          <unittitle>Growth in California: scope</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9c80003f8133d398c44dd4f511769e56" label="Text [GW: 32882019219248 IM: 560693029]" type="Box">6</container>
+          <container id="aspace_be47f8b9721986977ad99dbc70ed7853" parent="aspace_9c80003f8133d398c44dd4f511769e56" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref74_76r" level="file">
+        <did>
+          <unittitle>Growth in California: typing notes</unittitle>
+          <unitdate datechar="creation">1996-2001</unitdate>
+          <container id="aspace_36b3ec9fc20e27dbf103ece5884d366e" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_c1ea6645a0ba74c315f55bc4e093c904" parent="aspace_36b3ec9fc20e27dbf103ece5884d366e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref76_zjq" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7aa698f9f1405f9d1318c0d2deb215fe" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_4cdbbf9ec05fead830b79741faecde2f" parent="aspace_7aa698f9f1405f9d1318c0d2deb215fe" type="Folder">2</container>
+        </did>
+        <scopecontent id="aspace_03b46b7db03dfe13cbfc81280bbd1d62">
+          <head>Scope and Contents</head>
+          <p>note on file stating "file not used"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref77_626" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">1997-2002</unitdate>
+          <container id="aspace_a70fb4705fdeb993054da26aa3acab77" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_2fe42954296bf886cb8f83dd40346957" parent="aspace_a70fb4705fdeb993054da26aa3acab77" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref79_bvq" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_39bf7b2fd5cb027ca1d31d2b717b4aa4" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_88f76a4e3d4add55575c9944e803dd2f" parent="aspace_39bf7b2fd5cb027ca1d31d2b717b4aa4" type="Folder">4</container>
+        </did>
+        <scopecontent id="aspace_e5a8e111f69fb2e73ad1bda69661ffcb">
+          <head>Scope and Contents</head>
+          <p>note on file "add to ch 25"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref80_28b" level="file">
+        <did>
+          <unittitle>Growth in California: misc to be considered</unittitle>
+          <unitdate datechar="creation">01/04/2003</unitdate>
+          <container id="aspace_8c55091daca2ac32c112417e34b29644" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_42de6f6cefee47bce8dc41901eebf751" parent="aspace_8c55091daca2ac32c112417e34b29644" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref81_67e" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">circa 1990-2007</unitdate>
+          <container id="aspace_0ac8be345b533d95e91a431e6fd36917" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_d44712fb8ec9e4220d7b6c3b201d5e77" parent="aspace_0ac8be345b533d95e91a431e6fd36917" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref82_1ri" level="file">
+        <did>
+          <unittitle>Growth in California: immigration</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <container id="aspace_391534bbc36aa5c957da9c869a13749a" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_3cce766cd2dec33b9595e819b2c74cfc" parent="aspace_391534bbc36aa5c957da9c869a13749a" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref83_zw7" level="file">
+        <did>
+          <unittitle>Growth in California: immigration</unittitle>
+          <unitdate datechar="creation">1997-2006</unitdate>
+          <container id="aspace_6b4b3e8185ccd87fdf73a7f1df22ecf6" label="Text [GW: 32882019219255 IM: 560693030]" type="Box">7</container>
+          <container id="aspace_2f8ba1b789dd2a7fd69b681ca7c80a91" parent="aspace_6b4b3e8185ccd87fdf73a7f1df22ecf6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref84_92y" level="file">
+        <did>
+          <unittitle>Growth in California: immigration</unittitle>
+          <unitdate datechar="creation">03/2007-04/2007</unitdate>
+          <container id="aspace_3ae4d8186f8629ec3fa312d27c327277" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_d6a1e83b2194ecc9434b613a3e84988a" parent="aspace_3ae4d8186f8629ec3fa312d27c327277" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref85_tlr" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d60952f8bae6f7ca3f1863070432b730" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_e86fc8b1a099c8c7ef6037eac0bb779f" parent="aspace_d60952f8bae6f7ca3f1863070432b730" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref153_bsl" level="file">
+        <did>
+          <unittitle>Growth in California</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <container id="aspace_b1981478f2d9a47059161fdec218426d" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_da02a03eca5bf79b26d341323da3e9ed" parent="aspace_b1981478f2d9a47059161fdec218426d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref86_d0e" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a004dd91e6ed7de52d9b19e210026d7f" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_4a56599c1c7511ab5f9cae541b1f0147" parent="aspace_a004dd91e6ed7de52d9b19e210026d7f" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref87_xqm" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">1994</unitdate>
+          <container id="aspace_6e01883c04a1f4645ea39b5597b79100" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_6507ddbb04845f52b8e84499071db241" parent="aspace_6e01883c04a1f4645ea39b5597b79100" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref89_bvj" level="file">
+        <did>
+          <unittitle>Jordan Commission</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8b82af79418a9673a788ce541c21a3af" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_8a7fc8348c555a763666f1e3a7dc9566" parent="aspace_8b82af79418a9673a788ce541c21a3af" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref90_v76" level="file">
+        <did>
+          <unittitle>Immigration </unittitle>
+          <unitdate datechar="creation">1995-1996</unitdate>
+          <container id="aspace_9c47a1d1d3446a978b1fcd180f704f50" label="Text [GW: 32882019219263 IM: 560693031]" type="Box">8</container>
+          <container id="aspace_e0796cfc5ddb75bcf5cb81fea64e2497" parent="aspace_9c47a1d1d3446a978b1fcd180f704f50" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref91_dwc" level="file">
+        <did>
+          <unittitle>Immigration </unittitle>
+          <unitdate datechar="creation">2003-2004</unitdate>
+          <container id="aspace_5095e3c48ec508dd4cb2347944e9cd9b" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_6c214e9550073693dd518b061c221c00" parent="aspace_5095e3c48ec508dd4cb2347944e9cd9b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref92_9ga" level="file">
+        <did>
+          <unittitle>Sierra Club</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7aec3180912335eacfe36bffc5232e54" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_3f7c71756a79920d0e97878d85577eb2" parent="aspace_7aec3180912335eacfe36bffc5232e54" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref93_d78" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">1997-2004</unitdate>
+          <container id="aspace_61260f060977c11f8c2dda20ee7d391c" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_ce0d5d250e41da83d86bafe0fcd34d3b" parent="aspace_61260f060977c11f8c2dda20ee7d391c" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref94_yds" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">2004</unitdate>
+          <container id="aspace_94cd01fd8d6b11b97a06a20f97dd5088" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_bf62107f069d4f50798b3427ba6353ad" parent="aspace_94cd01fd8d6b11b97a06a20f97dd5088" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref95_2z4" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">2004</unitdate>
+          <container id="aspace_ece7e73864b838b0f1a00cba11c05b5b" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_f39e8b06c301a2d371e4c1c736b10c1c" parent="aspace_ece7e73864b838b0f1a00cba11c05b5b" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref96_p9q" level="file">
+        <did>
+          <unittitle>Immigration</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_2f1733f0419d16fb7e415c9585b95df2" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_815b80807b1c09f21f4cde53da171f5d" parent="aspace_2f1733f0419d16fb7e415c9585b95df2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref97_12a" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies</unittitle>
+          <unitdate datechar="creation">1986-2001</unitdate>
+          <container id="aspace_fa1ff5959d3e2a357d11d69c38d8ebd3" label="Text [GW: 32882019219271 IM: 560693032]" type="Box">9</container>
+          <container id="aspace_c2216171b5513ca7d34bfc3b1f8aefaa" parent="aspace_fa1ff5959d3e2a357d11d69c38d8ebd3" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref98_ygl" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">1989-1991</unitdate>
+          <container id="aspace_ee1759131b7df8071ea92dbd8a20694d" label="Text [GW: 32882019219289 IM: 560693033]" type="Box">10</container>
+          <container id="aspace_e5f1500e69cc60cd56024e0d7bd87bba" parent="aspace_ee1759131b7df8071ea92dbd8a20694d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref99_1wz" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">1993-1999</unitdate>
+          <container id="aspace_70cd95c79d821381ac66a78df1c40f08" label="Text [GW: 32882019219289 IM: 560693033]" type="Box">10</container>
+          <container id="aspace_388ee58195bc221652bc7146639c8ab1" parent="aspace_70cd95c79d821381ac66a78df1c40f08" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref100_3xq" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">1995-1998</unitdate>
+          <container id="aspace_20a36348458b5663541e750086a14c09" label="Text [GW: 32882019219289 IM: 560693033]" type="Box">10</container>
+          <container id="aspace_17ec2dfdfd14a998a1bc3de381a2763a" parent="aspace_20a36348458b5663541e750086a14c09" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref101_ke0" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">1994-1995</unitdate>
+          <container id="aspace_9ebfcb47436c7ed2f218edafdfd194a5" label="Text [GW: 32882019219289 IM: 560693033]" type="Box">10</container>
+          <container id="aspace_29b36a6b59c1491c71a4556aaff0c6d3" parent="aspace_9ebfcb47436c7ed2f218edafdfd194a5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref102_vmy" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">1998-2000</unitdate>
+          <container id="aspace_59f759df4725f31dc22dd5927acbd40e" label="Text [GW: 32882019219289 IM: 560693033]" type="Box">10</container>
+          <container id="aspace_dd486f24376b9b9ac73e26bbbe3cd90f" parent="aspace_59f759df4725f31dc22dd5927acbd40e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref103_929" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2001-2003</unitdate>
+          <container id="aspace_e58a0d5ccc9717dfe8ffe75e19678766" label="Text [GW: 32882019219297 IM: 560693034]" type="Box">11</container>
+          <container id="aspace_4a7fc27277d1d78bf36a5dd03d57c8e9" parent="aspace_e58a0d5ccc9717dfe8ffe75e19678766" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref104_0bw" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2004-2006</unitdate>
+          <container id="aspace_bfe029e3a00dd8afada5b0eef5fe6923" label="Text [GW: 32882019219297 IM: 560693034]" type="Box">11</container>
+          <container id="aspace_6b5adbcebe4ed7d3a7c123197cc7c6e4" parent="aspace_bfe029e3a00dd8afada5b0eef5fe6923" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref105_75f" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2001-2007</unitdate>
+          <container id="aspace_630656a9d1e555e9ea5dc27225b2b46a" label="Text [GW: 32882019219297 IM: 560693034]" type="Box">11</container>
+          <container id="aspace_e3ff9640987435985a3f8a9c270152bb" parent="aspace_630656a9d1e555e9ea5dc27225b2b46a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref106_pa6" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2000-2001</unitdate>
+          <container id="aspace_5024f50cfc8f356d3a6a995d3db3c923" label="Text [GW: 32882019219297 IM: 560693034]" type="Box">11</container>
+          <container id="aspace_276952bf1a3d899a10287d62675a450c" parent="aspace_5024f50cfc8f356d3a6a995d3db3c923" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref107_dnw" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2002-2003</unitdate>
+          <container id="aspace_7a48919a1183d52759ce77afc6cbe423" label="Text [GW: 32882019219305 IM: 560693035]" type="Box">12</container>
+          <container id="aspace_72a2727a26465c4112335e176a745aa5" parent="aspace_7a48919a1183d52759ce77afc6cbe423" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref108_dkm" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2202-2007</unitdate>
+          <container id="aspace_a0edc8a4eb574a332ac17d6cf99564bf" label="Text [GW: 32882019219305 IM: 560693035]" type="Box">12</container>
+          <container id="aspace_af0ff7613332547392d7a8806b3058a6" parent="aspace_a0edc8a4eb574a332ac17d6cf99564bf" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref109_j84" level="file">
+        <did>
+          <unittitle>Center for Immigration Studies Publications</unittitle>
+          <unitdate datechar="creation">2006-2007</unitdate>
+          <container id="aspace_b3ec6f5a02d9a3c26b60a9dd91fecde9" label="Text [GW: 32882019219305 IM: 560693035]" type="Box">12</container>
+          <container id="aspace_18eefad4784c78626af0dcfda21f20b6" parent="aspace_b3ec6f5a02d9a3c26b60a9dd91fecde9" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref110_nll" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2005-2006</unitdate>
+          <container id="aspace_704f725072a22047ce3f7d27e7748566" label="Text [GW: 32882019219305 IM: 560693035]" type="Box">12</container>
+          <container id="aspace_6d826488287e728e2ac1896e169f4c37" parent="aspace_704f725072a22047ce3f7d27e7748566" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref111_m4f" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_6540ddab99c2620b681958c6007e863a" label="Text [GW: 32882019219305 IM: 560693035]" type="Box">12</container>
+          <container id="aspace_cd0f7edfcf2536fe072457d71db7540a" parent="aspace_6540ddab99c2620b681958c6007e863a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref112_x72" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_bbd6c09a2400514314a1f2379cb0dbb9" label="Text [GW: 32882019219313 IM: 560693036]" type="Box">13</container>
+          <container id="aspace_bdd5cd8ef8ca0fc1911cde3f07201c11" parent="aspace_bbd6c09a2400514314a1f2379cb0dbb9" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref113_ybl" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_c5eac2d0e0bc172d12dd27aa36c0107a" label="Text [GW: 32882019219313 IM: 560693036]" type="Box">13</container>
+          <container id="aspace_65e332b50d86048c90d7bdabfcf674c1" parent="aspace_c5eac2d0e0bc172d12dd27aa36c0107a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref115_uri" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns: 90s outlines</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8ac81d4495269986608081f95f6609c8" label="Text [GW: 32882019219313 IM: 560693036]" type="Box">13</container>
+          <container id="aspace_4b0df51838e4b39a2f831772df8c28b9" parent="aspace_8ac81d4495269986608081f95f6609c8" type="Folder">3</container>
+        </did>
+        <scopecontent id="aspace_282b585894a14bec4f025b8c32e597cb">
+          <head>Scope and Contents</head>
+          <p>note on folder "not used in '06"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref116_f2a" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns [1/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_464a27cf77d7fb14331f19c5a3419cf5" label="Text [GW: 32882019219313 IM: 560693036]" type="Box">13</container>
+          <container id="aspace_62aff197e940585f6a578b80e21f09d5" parent="aspace_464a27cf77d7fb14331f19c5a3419cf5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref117_js7" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns [2/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_a2f9e4651bd8d02e30e95ff2058ad53c" label="Text [GW: 32882019219313 IM: 560693036]" type="Box">13</container>
+          <container id="aspace_bea644ec94058f5bb9fff4b1556e23b1" parent="aspace_a2f9e4651bd8d02e30e95ff2058ad53c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref118_29g" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_9aa171592c3b6173d7bde76aace371e3" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_920b5c3f2c454b354013de16ca993e6c" parent="aspace_9aa171592c3b6173d7bde76aace371e3" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref119_gwp" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns [1/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_22f7dbe80fc7d3b87ef7825664c2c926" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_7a7bdfd1968a80737673213b798a2002" parent="aspace_22f7dbe80fc7d3b87ef7825664c2c926" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref120_nax" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns [2/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_099b2e75af48d5662591d614f1bd1f4f" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_1e15e33bef9e4ea982ea139cdd4b71f9" parent="aspace_099b2e75af48d5662591d614f1bd1f4f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref121_ufs" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_002b440918df2b98e36dbc5adb9f53b9" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_e9106a569f77584443721bc2bf7fcc7a" parent="aspace_002b440918df2b98e36dbc5adb9f53b9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref122_hnt" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns Arizona</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b88318b8c98869780b6cf8b7121316e5" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_d0d7fb9874cfb5171650e3fda9c1ca0e" parent="aspace_b88318b8c98869780b6cf8b7121316e5" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref123_vms" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns </unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_dd113044cd96bc60658f066bc0355ace" label="Text [GW: 32882019219321 IM: 560693037]" type="Box">14</container>
+          <container id="aspace_0cf581aa6584266e31d3c4fea1de5f5c" parent="aspace_dd113044cd96bc60658f066bc0355ace" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref124_rf6" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns: no American union</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c4eb90f1053ec365b1a3661a8b4d6a8b" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_7ad44c264c54e0d90111188d71c5360e" parent="aspace_c4eb90f1053ec365b1a3661a8b4d6a8b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref125_gxs" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns: Danish cartoon and Islam</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d7ee66eab0f6c58a6c65793ac06b9c95" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_ff195119056c3fc1ad5143d203766a77" parent="aspace_d7ee66eab0f6c58a6c65793ac06b9c95" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref126_isu" level="file">
+        <did>
+          <unittitle>Immigration policy and patterns</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_ed3c936a48a695bdc63cdee0f76f77bb" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_698798a3a2f3d0d7c28ac57d56adc1dd" parent="aspace_ed3c936a48a695bdc63cdee0f76f77bb" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref128_n5q" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_b870f3f7ca343d94842a1b783d7f0f18" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_f7fcbe373ecd8db33e598d07e3672cf5" parent="aspace_b870f3f7ca343d94842a1b783d7f0f18" type="Folder">4</container>
+        </did>
+        <scopecontent id="aspace_a1ade180b9e8fd7776dc497416dfa1d9">
+          <head>Scope and Contents</head>
+          <p>note on file " not used"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref130_619" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [1/2]</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_6fc73003a53f6a3025b6805c34425ad6" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_5eb3bd7a82ffb942f979b93a6916bf6d" parent="aspace_6fc73003a53f6a3025b6805c34425ad6" type="Folder">5</container>
+        </did>
+        <scopecontent id="aspace_fe08b3f687b860fd6be3359c63f29c4d">
+          <head>Scope and Contents</head>
+          <p>note on file "used"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref132_9ie" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [2/2]</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_b4e7d38e41a14a2607d4f70539a10434" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_0332b466d258076d3a1e0b9ad963611d" parent="aspace_b4e7d38e41a14a2607d4f70539a10434" type="Folder">6</container>
+        </did>
+        <scopecontent id="aspace_4e095d5238463e44f59ffd2657cacabd">
+          <head>Scope and Contents</head>
+          <p>note on file "used"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref133_0s8" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_3116a186be49470940c7864e85932062" label="Text [GW: 32882019219339 IM: 560693038]" type="Box">15</container>
+          <container id="aspace_68a80c4dd8b99a7bb22ac885bbc2448f" parent="aspace_3116a186be49470940c7864e85932062" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref134_gyi" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [1/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_0f065dc25da299dd6d882a6afd54104f" label="Text [GW: 32882019219354 IM: 560693039]" type="Box">16</container>
+          <container id="aspace_d5ccca68d3501b8a2e1b99d15f9deeca" parent="aspace_0f065dc25da299dd6d882a6afd54104f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref135_m7n" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [2/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_f6180271940832fd640f9c5d48b78bb5" label="Text [GW: 32882019219354 IM: 560693039]" type="Box">16</container>
+          <container id="aspace_6ef2c89119b5bc8ea16163368ac6a902" parent="aspace_f6180271940832fd640f9c5d48b78bb5" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref136_0yh" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [1/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_a9249245f81e2671564d165ec31072fe" label="Text [GW: 32882019219354 IM: 560693039]" type="Box">16</container>
+          <container id="aspace_3e0a81304659ec829d53ccf1070910a1" parent="aspace_a9249245f81e2671564d165ec31072fe" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref137_he0" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [2/2]</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <container id="aspace_3ca608efbf0378116bad82f93fcf932a" label="Text [GW: 32882019219354 IM: 560693039]" type="Box">16</container>
+          <container id="aspace_88f6eb412ec94b99aeedb1cf18f9abcb" parent="aspace_3ca608efbf0378116bad82f93fcf932a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref138_v5e" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <container id="aspace_df5f4e396950adb0f4700a07a5618148" label="Text [GW: 32882019219354 IM: 560693039]" type="Box">16</container>
+          <container id="aspace_e0d63364ec7a74271010660a47d6564b" parent="aspace_df5f4e396950adb0f4700a07a5618148" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref139_0uz" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <container id="aspace_c562b9de13c58bcb38cc04536e8c4f7b" label="Text [GW: 32882019219362 IM: 560693040]" type="Box">17</container>
+          <container id="aspace_64d3d8cd2fe8f7ca9c378e6ba2277778" parent="aspace_c562b9de13c58bcb38cc04536e8c4f7b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref140_764" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <container id="aspace_0c49873018720c5d36b50a709291c122" label="Text [GW: 32882019219362 IM: 560693040]" type="Box">17</container>
+          <container id="aspace_671de84d9573d14a888a9d5f9651065a" parent="aspace_0c49873018720c5d36b50a709291c122" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref141_nys" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2008</unitdate>
+          <container id="aspace_abd7f4dbc8f3992f1e56daaf021a2bd0" label="Text [GW: 32882019219362 IM: 560693040]" type="Box">17</container>
+          <container id="aspace_1d3485ac81da4dd3faf99172e9a33162" parent="aspace_abd7f4dbc8f3992f1e56daaf021a2bd0" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref142_gei" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [1/2]</unittitle>
+          <unitdate datechar="creation">2008</unitdate>
+          <container id="aspace_2f24d470d78719ed3a94acbfea58feb5" label="Text [GW: 32882019219362 IM: 560693040]" type="Box">17</container>
+          <container id="aspace_a636fb3b8a541ad1ea63a2e8317800ea" parent="aspace_2f24d470d78719ed3a94acbfea58feb5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref143_jp2" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends [2/2]</unittitle>
+          <unitdate datechar="creation">2008</unitdate>
+          <container id="aspace_33dc2a5913d88b415980a03bbdbfd3ab" label="Text [GW: 32882019219362 IM: 560693040]" type="Box">17</container>
+          <container id="aspace_4caeb4434534a6d7a8c5ef0c91edd83f" parent="aspace_33dc2a5913d88b415980a03bbdbfd3ab" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref144_5j3" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2000-2006</unitdate>
+          <container id="aspace_90e7f8bca95a99e3fba43d971fa1fdef" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_6e85baab4e8eae4253c222dec901e32b" parent="aspace_90e7f8bca95a99e3fba43d971fa1fdef" type="Folder">1</container>
+        </did>
+        <scopecontent id="aspace_d7d75a1ac5ce52a317236c0b54a83e17">
+          <head>Scope and Contents</head>
+          <p>Folder had note "misc for review"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref145_jc1" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">1997-2008</unitdate>
+          <container id="aspace_5eb7ff991e4b168abefc3bee7884f069" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_3bba2b52fd1062b50e6a4ceadf6ae9c4" parent="aspace_5eb7ff991e4b168abefc3bee7884f069" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref146_488" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9b4bb0dfbcacbede748a55816a515e72" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_a6db872ba89b806b0a1457539d7bf87c" parent="aspace_9b4bb0dfbcacbede748a55816a515e72" type="Folder">3</container>
+        </did>
+        <scopecontent id="aspace_4245ecf08b8cb0d3a8931b1ff560ac21">
+          <head>Scope and Contents</head>
+          <p>folder had note "Conclusion notes"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref147_exu" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container id="aspace_acd5c9b1624d72ef6e54cbe7a6f4831f" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_f19c0ac9a8dcc1d97589908b9a080441" parent="aspace_acd5c9b1624d72ef6e54cbe7a6f4831f" type="Folder">4</container>
+        </did>
+        <scopecontent id="aspace_931a524f7b35810a07073c363403ff53">
+          <head>Scope and Contents</head>
+          <p>Folder title had note "used for ch 25"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref148_0e9" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_669d7d4937a4bc9fff078d9e6221cecf" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_c3d0eee48ede84383576586c99ee8c9d" parent="aspace_669d7d4937a4bc9fff078d9e6221cecf" type="Folder">5</container>
+        </did>
+        <scopecontent id="aspace_7842cd9c8ec107bed026978dbeaa7c85">
+          <head>Scope and Contents</head>
+          <p>Folder had note "Ch 28"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref149_bvi" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5778c5aeb7f56fa704da770dc922317e" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_d4886a0e8ec83723f86b9a063449cdf5" parent="aspace_5778c5aeb7f56fa704da770dc922317e" type="Folder">6</container>
+        </did>
+        <scopecontent id="aspace_3d85cb7e6165fc8508c227683ec4f9bf">
+          <head>Scope and Contents</head>
+          <p>Folder title had note "Ch 29 not used"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref150_kqe" level="file">
+        <did>
+          <unittitle>policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">2008</unitdate>
+          <container id="aspace_76fa0d5f7067fdcc4c8006506449fb1c" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_8dee836fd605d09e5e0a6f3f3ad2f5c2" parent="aspace_76fa0d5f7067fdcc4c8006506449fb1c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref151_9lq" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">1998-2006</unitdate>
+          <container id="aspace_9de21635d7bc9eaba4d3322cdf61d9f0" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_b01be91a052cee9f0b6175510af3ea5a" parent="aspace_9de21635d7bc9eaba4d3322cdf61d9f0" type="Folder">8</container>
+        </did>
+        <scopecontent id="aspace_05c5ed41e0f76b960d44b705249927f3">
+          <head>Scope and Contents</head>
+          <p>Folder had note "used to revise"</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref152_bm3" level="file">
+        <did>
+          <unittitle>Policy wars and immigration trends</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_968c91ffbd3ae435a8e160f9068414b2" label="Text [GW: 32882019219370 IM: 560693041]" type="Box">18</container>
+          <container id="aspace_c1e169b75a641840aa6ce5c2598eb545" parent="aspace_968c91ffbd3ae435a8e160f9068414b2" type="Folder">9</container>
+        </did>
+        <scopecontent id="aspace_3992c199fc4ff68d0f485b0d3c65b1da">
+          <head>Scope and Contents</head>
+          <p>Folder title had note "to add"</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

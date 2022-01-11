@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/mvc0008.xml">mvc0008.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Adelia Gates Hensley collection, <date calendar="gregorian" era="ce">Circa 1871-1951</date> 
+ <num>MVC0008.MS</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:44:49 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Adelia Gates Hensley collection</unittitle>
+      <unitid>MVC0008.MS</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6.25 Linear Feet</extent>
+        <extent altrender="carrier">1 slim document box, 6 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1871/1951" type="inclusive">circa 1871-1951</unitdate>
+      <physloc id="aspace_df93392da9fecd9ba6f1839ca6bfb748">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_baeca8a2b267196706c2a459595c92be">Adelia Gates Hensley was the second president of Mount Vernon Seminary, founded in Washington, D.C. in 1875. Mount Vernon Seminary and College merged with The George Washington University in 1999. This collection contains correspondence, photographs, silverware, a diploma, and mortorboard of and belonging to Adelia Gates Hensley, president of Mount Vernon Seminary from 1915 to 1923.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_6ca2bf7252517ca00e1c7998acaf00d5">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_e826ff7226e56c651ecc7284c607f745">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <arrangement id="aspace_313e556ba16db31ad225563bed209555">
+      <head>Arrangement</head>
+      <p>Organized into three series: Photographs and prints, Speeches and correspondence, and Memorabilia.</p>
+    </arrangement>
+    <prefercite id="aspace_aa7362f2ffd691b46ec21d9bd2a1b91e">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <scopecontent id="aspace_b4568cbdaa757aec9ee62f34bc796abd">
+      <head>Scope and Contents</head>
+      <p>This collection contains photographs, prints, correspondence, silverware, a diploma, and a mortarboard of and belonging to Adelia Gates Hensley. The materials range in date from circa 1870 to 1951.</p>
+    </scopecontent>
+    <bioghist id="aspace_6a32c0a4215b5dc7b42b7c72d2a71364">
+      <head>Biographical / Historical</head>
+      <p>Adelia Gates Hensley graduated from Mount Holyoke College in 1877. She joined the faculty of Mount Vernon Seminary in 1884 and taught history, literature, and art history. She later succeeded Elizabeth Somers as President of Mount Vernon Seminary from 1915 to 1923.</p>
+    </bioghist>
+    <acqinfo id="aspace_3b6f82adde830cd1af2d8533ecdf4f5f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Collection acquired by GWU upon merger with Mount Vernon College. Collection transferred to Foggy Bottom campus in 2009.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Women's colleges</subject>
+      <subject source="lcsh">Women -- Education</subject>
+      <persname rules="dacs" source="local">Hensley, Adelia Gates</persname>
+      <corpname rules="aacr" source="naf">Mount Vernon Seminary</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref19_kq9" level="series">
+        <did>
+          <unittitle>Photographs and prints</unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation" normal="1908/1951" type="inclusive">1908-1951</unitdate>
+        </did>
+        <arrangement id="aspace_63e47ff9043c2b9af2d47fef4b2a86dc">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent id="aspace_b627642c09d4e7e71d82596b0657bea4">
+          <head>Scope and Contents</head>
+          <p>This series contains photographs and prints of Adelia Gates Hensley, including one of her husband James Hensley.</p>
+        </scopecontent>
+        <c id="aspace_ref20_iyr" level="file">
+          <did>
+            <unittitle>Small photo of Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1908/1909" type="inclusive">1908-1909</unitdate>
+            <container id="aspace_38aa41e856679b8b85f64492868017bb" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_5634b9765a74f438307249000716929d" parent="aspace_38aa41e856679b8b85f64492868017bb" type="Folder">1</container>
+          </did>
+          <arrangement id="aspace_6484d5c1196ed733ecc761abc7043d10">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+        </c>
+        <c id="aspace_ref21_ve2" level="file">
+          <did>
+            <unittitle>Adelia Gates Hensley with President of Mt. Holyoke college and accompanying letter</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_cba1b809409d947707edfa2f09e3c9ec" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_ff087d163731eb7e91298644786ff9b3" parent="aspace_cba1b809409d947707edfa2f09e3c9ec" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_ztu" level="file">
+          <did>
+            <unittitle>Print of watercolor of Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_ef26bfb13b989b642559b8a59f107e29" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_b73c5b0367116e0be3e9b4496170acbc" parent="aspace_ef26bfb13b989b642559b8a59f107e29" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_ntg" level="file">
+          <did>
+            <unittitle>"In the early years of M.V.S. and our Mrs. Hensley"</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fb3b77d922e9e197e6520db3d5fcb2c3" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_d422a25154f80867b90100165eb14ad6" parent="aspace_fb3b77d922e9e197e6520db3d5fcb2c3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_xhj" level="file">
+          <did>
+            <unittitle>Little Adelia Gates at Seven</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_21e529f60189da4b3c0c4362270349a2" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_afca1d66148950571bbc8318acf26c89" parent="aspace_21e529f60189da4b3c0c4362270349a2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_k7d" level="file">
+          <did>
+            <unittitle>Mounted sepia photograph of Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b7795de82a64e82f20f6f7e16a29e6c1" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_f3bfebb1ed1a33843c35428d95bc13c7" parent="aspace_b7795de82a64e82f20f6f7e16a29e6c1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_a98" level="file">
+          <did>
+            <unittitle>Paper print of photographs taken in 1884-1885</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dc5c75afc6f89d0249a0bbe1a325ee68" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_b8a1822916e772813482cee7845ee1e1" parent="aspace_dc5c75afc6f89d0249a0bbe1a325ee68" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_3qz" level="file">
+          <did>
+            <unittitle>James Hensley with accompanying letter</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_37f64bb10dabaaf709e50496116925c4" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_26d7872ca7e3722fb31af3ae1afc931a" parent="aspace_37f64bb10dabaaf709e50496116925c4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_iy6" level="file">
+          <did>
+            <unittitle>Sepia photograph of older Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_89f555c8a36b49c7a74e4e22c2f2d614" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_29c5e2e6be5d9c15ada217c472410aa8" parent="aspace_89f555c8a36b49c7a74e4e22c2f2d614" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_dso" level="file">
+          <did>
+            <unittitle>Small photograph of young Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5e28d1620b57d414c25a646d4d41a2ab" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_8d361ce9f9caf8635e1c959decb8f7e6" parent="aspace_5e28d1620b57d414c25a646d4d41a2ab" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_wsf" level="file">
+          <did>
+            <unittitle>Small photograph of young Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d88f2d094c8fa55b4e4554617d971c54" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_2e265126af63859d558432b1fd08f22c" parent="aspace_d88f2d094c8fa55b4e4554617d971c54" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_glu" level="file">
+          <did>
+            <unittitle>Sepia print of watercolor painting of Adelia Gates Hensley</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fb1280dfe12aef5d15040282d85d1548" label="Mixed Materials [32882019435620]" type="Box">1</container>
+            <container id="aspace_2bb5f7a90f1ea2cec35061f1df243d15" parent="aspace_fb1280dfe12aef5d15040282d85d1548" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_id8" level="file">
+          <did>
+            <unittitle>Glass plate photograph of "Miss Gates The Student at Mt. Holyoke"</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3b12d7cc99d3f5f7143ec70de4898667" label="Mixed Materials [32882019435612]" type="Box">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref33_aih" level="series">
+        <did>
+          <unittitle>Correspondence and speeches</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="1916/1929" type="inclusive">1916-1929</unitdate>
+        </did>
+        <arrangement id="aspace_65a4b9060fcf62a88ea0214b0bcd3a13">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <scopecontent id="aspace_8edf7c33cd379437c437c276e69217f0">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence to and from Adelia Gates Hensley as well as speeches written by her.</p>
+        </scopecontent>
+        <c id="aspace_ref34_40x" level="file">
+          <did>
+            <unittitle>Correspondence and speeches written by Adelia Gates Hensley</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1916/1919" type="inclusive">1916-1919</unitdate>
+            <container id="aspace_f283b022fdbe4fa0fa37dff975060d67" label="Mixed Materials [32882019435562]" type="Box">3</container>
+            <container id="aspace_f119a54b5a8d427047be7fdc4e324a70" parent="aspace_f283b022fdbe4fa0fa37dff975060d67" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_kjw" level="file">
+          <did>
+            <unittitle>Correspondence concerning Adelia Gates Hensley's death and the settling of her estate</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1923/1929" type="inclusive">1923-1929</unitdate>
+            <container id="aspace_c395188446879a7afb9ed845d9f6d26e" label="Mixed Materials [32882019435562]" type="Box">3</container>
+            <container id="aspace_c450dfcb5b3f79ed7ea812200ca63ad1" parent="aspace_c395188446879a7afb9ed845d9f6d26e" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref1_h0a" level="series">
+        <did>
+          <unittitle>Memorabilia</unittitle>
+          <unitid>Series 3</unitid>
+          <unitdate datechar="creation" normal="1871/1917" type="inclusive">circa 1871-1917</unitdate>
+        </did>
+        <scopecontent id="aspace_f2f6f76ba5a7a04738db88e6019bf8dc">
+          <head>Scope and Contents</head>
+          <p>This series includes sterling silver holloware and flatware as well as a framed diploma and mortar board from the personal collection of Adelia Gates Hensley, president of Mount Vernon Seminary from 1915 to 1923.</p>
+        </scopecontent>
+        <arrangement id="aspace_85871c30441de5cf9181fb671636df12">
+          <head>Arrangement</head>
+          <p>Arranged chronologically.</p>
+        </arrangement>
+        <c id="aspace_ref2_3z5" level="item">
+          <did>
+            <unittitle>Silver plate serving cup with Adelia Gates Hensley's "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1871/1879" type="inclusive">circa 1871-1879</unitdate>
+            <container id="aspace_bc6da033b7c13a1290f22ed868970dbb" label="Mixed Materials [32882019435570]" type="Box">6</container>
+            <container id="aspace_5d4b2ffb7f1a1dd1fadff17d7504dc76" parent="aspace_bc6da033b7c13a1290f22ed868970dbb" type="item">1</container>
+          </did>
+          <scopecontent id="aspace_53d5ea47d7b0ec8c212f4cb818727c32">
+            <head>Scope and Contents</head>
+            <p>Made by Wallace Brothers' Silver Company in Wallingford, CT. Pattern #V456. Likely made from a nickel alloy known as German silver. The company retained the name "Wallace Brothers Silver Company" only from 1871-1879, thus this piece is dated within those years.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref4_gqt" level="item">
+          <did>
+            <unittitle>Silver plate creamer with Adelia Gates Hensley's "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1871/1879" type="inclusive">circa 1871-1879</unitdate>
+            <container id="aspace_1de0f3632ab870e1bd3e457e770ee7f6" label="Mixed Materials [32882019435570]" type="Box">6</container>
+            <container id="aspace_57b40a1bf86f4be35a21b651570cd405" parent="aspace_1de0f3632ab870e1bd3e457e770ee7f6" type="item">2</container>
+          </did>
+          <scopecontent id="aspace_34408e6c060b1359c7d4f0dbcbdaa776">
+            <head>Scope and Contents</head>
+            <p>Made by Wallace Brothers' Silver Company in Wallingford, CT. Pattern #V456. Likely made from a nickel alloy known as German silver. The company retained the name "Wallace Brothers Silver Company" only from 1871-1879, thus this piece is dated within those years.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref6_eg7" level="item">
+          <did>
+            <unittitle>Silver plate coffee pot with Adelia Gates Hensley's "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1871/1879" type="inclusive">circa 1871-1879</unitdate>
+            <container id="aspace_ce54b0c80d784049aa156aa9b0a15359" label="Mixed Materials [32882019435570]" type="Box">6</container>
+            <container id="aspace_4442e18779ba0632bcfd0871763a157f" parent="aspace_ce54b0c80d784049aa156aa9b0a15359" type="item">3</container>
+          </did>
+          <scopecontent id="aspace_3137f90c20e5d836fc36f2cbf3c06466">
+            <head>Scope and Contents</head>
+            <p>Made by Wallace Brothers Silver Company in Wallingford, CT. Pattern #V456. Likely made from a nickel alloy known as German silver. The company retained the name "Wallace Brothers Silver Company" only from 1871-1879, thus this piece is dated within those years.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref8_y6j" level="item">
+          <did>
+            <unittitle>3 sterling silver coffee spoons with "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
+            <container id="aspace_ff89a1f0e5b2fd05ea75a860da9bf3f8" label="Mixed Materials [32882019436438]" type="Box">7</container>
+            <container id="aspace_d2392bd152b1ecc4a0832fe79d3ce4f0" parent="aspace_ff89a1f0e5b2fd05ea75a860da9bf3f8" type="item">1</container>
+          </did>
+          <scopecontent id="aspace_640024a35c17fd0ee519c24433b59fc7">
+            <head>Scope and Contents</head>
+            <p>The lion and "W" in a circle on the handle indicate that these spoons were designed by the Whiting Manufacturing Company, formed in 1866 and bought by Gorham in 1924. </p>
+            <p>This pattern is called Louis XV and was patented in 1891. </p>
+            <p>One of the spoons is also stamped with "Galt &amp; Bro." indicating that Galt &amp; Bros., a company established in 1802 based in Washington, D.C. bought the forks from Whiting.</p>
+            <p>see: http://www.925-1000.com/patterns_Whiting_4.html</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref13_sei" level="item">
+          <did>
+            <unittitle>5 sterling silver soup spoons with "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1892/1923" type="inclusive">circa 1892-1923</unitdate>
+            <container id="aspace_6dd464c255667450b28f56c484d37fcc" label="Mixed Materials [32882019436438]" type="Box">7</container>
+            <container id="aspace_e6eb1ea521b3581983b4cf7448d95c41" parent="aspace_6dd464c255667450b28f56c484d37fcc" type="item">2</container>
+          </did>
+          <scopecontent id="aspace_62ea98f280c390571b05577c40cb5bd8">
+            <head>Scope and Contents</head>
+            <p>The back of the handles are stamped with the word "sterling", "925/1000" and an unidentified symbol. 925/1000 identifies it as sterling silver because sterling silver legally must contain 92.5% pure silver. The remaining 7.5% is another metal, usually copper. </p>
+            <p>The inscription "Galt &amp; Bro." on the back of the handle indicates that the spoons were either produced or sold by Galt &amp; Bros., a company established in 1802 based in Washington, D.C. The fleur de lis was a hallmark of James Galt's former company, Davis &amp; Galt.  </p>
+            <p>The spoons are dated between ca. 1892 and 1923 because the company changed its name from M.W. Galt &amp; Bro &amp; Co to Galt &amp; Bro in 1892 and Adelia Gates Hensley died in 1923. </p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref10_yn7" level="item">
+          <did>
+            <unittitle>Sterling silver serving spoon with "H" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
+            <container id="aspace_c54cb397bd5de1a98dafe28b8cab295c" label="Mixed Materials [32882019436438]" type="Box">7</container>
+            <container id="aspace_7518b1a540a4b2bf2a1e9175bca996c6" parent="aspace_c54cb397bd5de1a98dafe28b8cab295c" type="item">3</container>
+          </did>
+          <scopecontent id="aspace_294787de33886abbbb15ef5975880eda">
+            <head>Scope and Contents</head>
+            <p>The hallmark "Alvin Sterling" on the handle indicates that this spoon was manufactured by the Alvin Corporation, founded in 1886.</p>
+            <p>The pattern of this spoon is called Maryland and was patented in 1910. </p>
+            <p>see: http://www.sterlingflatwarefashions.com/CatalogPgs/Alvin/Maryld.html</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref15_gwg" level="item">
+          <did>
+            <unittitle>Sterling silver flat, pointed spoon with "ADH" monogram</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1912/1914" type="inclusive">circa 1912-1914</unitdate>
+            <container id="aspace_14e1d2190ee37674d1bd6c4748718568" label="Mixed Materials [32882019436438]" type="Box">7</container>
+            <container id="aspace_aeeadd8c82588c3e196d59f5062589db" parent="aspace_14e1d2190ee37674d1bd6c4748718568" type="item">4</container>
+          </did>
+          <scopecontent id="aspace_30990296622f39a107f41b549833cd04">
+            <head>Scope and Contents</head>
+            <p>The hallmark on this piece (an "A" in the form of a hammer with the handle extending through the word "Stone" and crossing the "t")indicates that it was manufactured by Arthur Stone and his workshop. Stone's private company was in business in Massachusetts from 1901-1937. </p>
+            <p>The W stamp on each spoon indicates that it was manufactured specifically by Alfred Wickstrom, a member of Stone's workshop, between ca. 1912-1914. </p>
+            <p>see: http://www.925-1000.com/a_stone.html</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref37_utg" level="item">
+          <did>
+            <unittitle>Adelia Gates Hensley's diploma from Mount Holyoke</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_51cac8103f304b6e9fb3a6d490daf9a7" label="Mixed Materials [32882019435588]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_5qw" level="item">
+          <did>
+            <unittitle>Adelia Gates Hensley's mortarboard</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9b375ef3d899f7edc967203a505f6a1b" label="Mixed Materials [32882019435604]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

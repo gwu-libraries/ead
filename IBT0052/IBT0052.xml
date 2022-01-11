@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/XXXXXX.xml"/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>
+          <num>IBT0052</num>
+        </titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:30:43 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT Local 682 records</unittitle>
+      <unitid>IBT0052</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1950/1960" type="inclusive">1950-1960</unitdate>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_e63b436ed63d95f8475b7e24dbb534f0">
+      <head>Arrangement</head>
+      <p>Organized into 2 series: Local 366 and Local 682</p>
+    </arrangement>
+    <dsc>
+      <c id="aspace_ref15_5lt" level="series">
+        <did>
+          <unittitle>Local 366</unittitle>
+          <unitid>Series 1</unitid>
+        </did>
+        <c id="aspace_ref19_t4j" level="file">
+          <did>
+            <unittitle>Amalgamated Association of Laundry and Cleaning Companies</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1945/1949" type="inclusive">1945-1949</unitdate>
+            <container id="aspace_3f461877d492e3c10dda2c84777a5226" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_c76b0315ffa3b0d347887be5a55494b4" parent="aspace_3f461877d492e3c10dda2c84777a5226" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref2_ewn" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Wage Agreements</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_9c8fdca213a958bfb4fcc39772f46c1a" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_8c33aef706b4d6e76468b793e3cf2336" parent="aspace_9c8fdca213a958bfb4fcc39772f46c1a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref4_k4m" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [1]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_b0ce966eac5d09268d22b3abd10a4c4f" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_6954b10ce99813491d3761c0706b4576" parent="aspace_b0ce966eac5d09268d22b3abd10a4c4f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_1s0" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">January 1948</unitdate>
+            <container id="aspace_281c1aabf2115bf1bbd49988aa017882" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_6a84311ce2af89aa588cf923764f73dd" parent="aspace_281c1aabf2115bf1bbd49988aa017882" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_gji" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">February-November 1948</unitdate>
+            <container id="aspace_d33c942fbf5bb44d580bdb5ac20ff611" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_2d25024612ae2ca30c77be163b220aa9" parent="aspace_d33c942fbf5bb44d580bdb5ac20ff611" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_mjo" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [4]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">September 1948</unitdate>
+            <container id="aspace_7f5a4e6831f786518a953097535b0de1" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_af171d5104b875c6c92956d1e7a73aa0" parent="aspace_7f5a4e6831f786518a953097535b0de1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_3zs" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [5]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_1159fc92ff14eb2560d96041e1d32199" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_cfa04db58f8cfee7d03405c81fdaed4a" parent="aspace_1159fc92ff14eb2560d96041e1d32199" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_2h4" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1950/1951" type="inclusive">March 1950-1951</unitdate>
+            <container id="aspace_1dd0135c0e69d0c6a76ab05192b76054" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_bb4eb384d82a0cd96e9158511dd99075" parent="aspace_1dd0135c0e69d0c6a76ab05192b76054" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_6wz" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [7]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">July 1950</unitdate>
+            <container id="aspace_7c66cd3f888dff20430354d7435e65f2" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_cc1163db68a0769f9fc0077fe301ee0b" parent="aspace_7c66cd3f888dff20430354d7435e65f2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_s8j" level="file">
+          <did>
+            <unittitle>St. Louis Cleaners: Contracts [8]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">July 1950</unitdate>
+            <container id="aspace_ee2b8921725634983d74d7fbdb72db33" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_dc7e13a3cb9ec1aca0c2529a6fd27bdf" parent="aspace_ee2b8921725634983d74d7fbdb72db33" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_x3c" level="file">
+          <did>
+            <unittitle>St. Louis Dry Cleaners Exchange</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1937/1952" type="inclusive">1937-1952</unitdate>
+            <container id="aspace_f29e483b9efedfa0cb18509c63a0cc04" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_7884fd5cc9f2855a18d310422249e42c" parent="aspace_f29e483b9efedfa0cb18509c63a0cc04" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_s8q" level="file">
+          <did>
+            <unittitle>St. Louis Linens: Contracts [1]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_a06ce6948ed5732863b23176fb82b6ee" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_495f8be25d310dccde09964ff24ab88a" parent="aspace_a06ce6948ed5732863b23176fb82b6ee" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_hk0" level="file">
+          <did>
+            <unittitle>St. Louis Linens: Contracts [2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container id="aspace_5900293947c0c2b3cf8da076c2f6f486" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_a2eccd3a157bd8822454376272ffa58f" parent="aspace_5900293947c0c2b3cf8da076c2f6f486" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_36y" level="file">
+          <did>
+            <unittitle>St. Louis Linens: Contracts [3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container id="aspace_e62589ab75af165a7f44c0aa855fc257" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_bf2bb47ba0caf9e373204b884a3fddd4" parent="aspace_e62589ab75af165a7f44c0aa855fc257" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref1_eyo" level="file">
+          <did>
+            <unittitle>William Frenger papers</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1937/1960" type="inclusive">1937-1960</unitdate>
+            <container id="aspace_e3870ae618e3ef9dc70615137fa1420a" label="Mixed Materials [32882020900349]" type="Box">1</container>
+            <container id="aspace_e171317cc464e6e01c90cdfe22c211ba" parent="aspace_e3870ae618e3ef9dc70615137fa1420a" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref17_y92" level="series">
+        <did>
+          <unittitle>Local 682</unittitle>
+          <unitid>Series 2</unitid>
+        </did>
+        <c id="aspace_ref14_aop" level="file">
+          <did>
+            <unittitle>AGC-St. Louis: Contracts</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1960/1962" type="inclusive">1960-1962</unitdate>
+            <container id="aspace_21a19d3ea53bc04cc5f0f19bff85fa2c" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_0d3bf2c54c83ebfb16fd8d0b198d274e" parent="aspace_21a19d3ea53bc04cc5f0f19bff85fa2c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_ps8" level="file">
+          <did>
+            <unittitle>AGC-St. Louis: Correspondence [1]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_a94c2b45372a45bf14985b08787be5f0" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_d12bc9667d554ae5bd543ea62d962b83" parent="aspace_a94c2b45372a45bf14985b08787be5f0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_vul" level="file">
+          <did>
+            <unittitle>AGC-St. Louis: Correspondence [2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_d21a79315033df30d051305427b1c000" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_dc40d8f912704ff5f146295e6d18420c" parent="aspace_d21a79315033df30d051305427b1c000" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_d0l" level="file">
+          <did>
+            <unittitle>AGC-St. Louis: Correspondence [3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_60c9a5d29fc9ae495ff75641b98f2b9e" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_1e4ee18bf5d3cf1b0123f847846b7ab5" parent="aspace_60c9a5d29fc9ae495ff75641b98f2b9e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_etl" level="file">
+          <did>
+            <unittitle>Miscellanous</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1957/1962" type="inclusive">1957-1962</unitdate>
+            <container id="aspace_5d928370332c2c73a4d79ed2f39fc6a3" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_36da21ffc06dda197399b1304cde2429" parent="aspace_5d928370332c2c73a4d79ed2f39fc6a3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_2ow" level="file">
+          <did>
+            <unittitle>Non-Discrimination in Employment Contracts</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container id="aspace_9713a536c08e945d2cf2c49743cf9ea9" label="Mixed Materials [32882020900356]" type="Box">2</container>
+            <container id="aspace_47e3f1c6bbc79072527d321616439af2" parent="aspace_9713a536c08e945d2cf2c49743cf9ea9" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

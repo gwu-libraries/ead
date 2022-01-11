@@ -1,0 +1,817 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2033.xml">ms2033.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the William Wilson papers, <date calendar="gregorian" era="ce">1978-1997</date>
+ <num>MS2033</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:36:42 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>William Wilson papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Wilson , William</persname>
+      </origination>
+      <unitid>MS2033</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1978-1997</unitdate>
+      <abstract id="aspace_e9c9cc03b965dc0583edb769ce2edb8b">The William Wilson papers consists materials such as buttons, t-shirts, and printed material including programs for entertainment events and fundraisers. The material dates from 1978-97. Many of this material is from events that Mr. Williams attended. Many of the items are autographed by local and national celebrities, including former DC Council member Polly Shackleton and Congressman Barney Frank. Most of the t-shirts and buttons have messages related to Gay pride, political activism, and the fight against AIDS.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_c761566805a08055e4b29a0ad0878073">
+      <head>Preferred citation</head>
+      <p>William Wilson papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_f08c1addd9e867bd950ea88cffee1e93">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_dc9498fa4147795fcd6983db52254dba">
+      <head>Acquisition Information</head>
+      <p>William Wilson donated the collection to the Gelman Library in 1998.</p>
+    </acqinfo>
+    <userestrict id="aspace_aea02b120f2ecd68577fa5cc20514b09">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_ac514c8c6edfdd4b2f5d0eb31baaa5a9">
+      <head>Biographical Note</head>
+      <p>Mr. Wilson, a resident of the District from 1972-97, collected a number of t-shirts, political buttons, and programs relating to the Gay and Lesbian culture of the city.</p>
+    </bioghist>
+    <scopecontent id="aspace_fc599e37fe03f43634df3296acaea614">
+      <head>Collection Scope and Content</head>
+      <p>The William Wilson papers consists materials such as buttons, t-shirts, and printed material including programs for entertainment events and fundraisers. The material dates from 1978-97. Many of this material is from events that Mr. Williams attended. Many of the items are autographed by local and national celebrities, including former DC Council member Polly Shackleton and Congressman Barney Frank. Most of the t-shirts and buttons have messages related to Gay pride, political activism, and the fight against AIDS.</p>
+    </scopecontent>
+    <arrangement id="aspace_a80df20aab73d6e0e6328c4cfee8c668">
+      <head>Collection Organization</head>
+      <p>Organized into three series: Printed materials, T-shirts, and Buttons.</p>
+    </arrangement>
+    <odd id="aspace_251bd3bd625d07a49ae18d47672a5ff1">
+      <head>Collection note</head>
+      <p>Formerly Ephemera Collection 11</p>
+    </odd>
+    <controlaccess>
+      <subject source="lcsh">Lesbians -- Washington (D.C.)</subject>
+      <subject source="lcsh">Gays</subject>
+      <subject source="lcsh">Gay men -- Washington (D.C.)</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">AIDS (Disease)</subject>
+      <persname rules="aacr" source="local">Shackleton, Polly</persname>
+      <corpname rules="aacr" source="naf">Whitman-Walker Clinic</corpname>
+      <persname source="local">Wilson , William</persname>
+      <corpname rules="aacr" source="naf">National AIDS Network (U.S.)</corpname>
+      <persname rules="aacr" source="naf">Matlovich, Leonard</persname>
+      <corpname rules="aacr" source="naf">Human Rights Campaign (U.S.)</corpname>
+      <corpname rules="aacr" source="naf">Gay Men's Chorus of Washington, DC</corpname>
+      <persname rules="aacr" source="naf">Frank, Barney</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_yqm" level="series">
+        <did>
+          <unittitle>Printed material</unittitle>
+          <unitid>MS2033 Series 1</unitid>
+          <unitdate datechar="creation" normal="1983/1996" type="inclusive">1983-1996</unitdate>
+          <physdesc id="aspace_0c82b8304a1729a1c7044bbe452ff221" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_8b2ce55eb5c71042e847a8024fd24dbf">
+          <head>Scope and Contents note</head>
+          <p>This series contains programs, tickets, a postcard, and a newsletter. The material covers the dates 1983-96. All of this material relates to the activities of the Gay and Lesbian community in Washington, D.C. Many of these items are autographed.</p>
+        </scopecontent>
+        <c id="aspace_ref12_do1" level="file">
+          <did>
+            <unittitle>Program -- "A Gay Yuletide" - Joint Holiday Concert with The D.C. Area Feminist Chorus, D.C.'s Different Drummers, The Gay Men's Chorus of Washington, D.C. and Carl Barnwell at the Great Casavant Organ. -- Autographed- "Best Wishes, Bill! Jim Richardson." "Caroline Foty." "Gerry Walker."</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983 December 10</unitdate>
+            <container id="aspace_e9dec2eb91ad55225df17982134a6990" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1121fbc47b4df1fe0e553159ab203af5" parent="aspace_e9dec2eb91ad55225df17982134a6990" type="Folder">1</container>
+          </did>
+          <odd id="aspace_22c1d3b52b5dae9eb89064e8e3cedd05">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref14_6eh" level="file">
+          <did>
+            <unittitle>Program -- "Made in America" - Gay Men's Chorus of Washington, D.C. -- Autographed - "To Bill Best Wishes, James Adler."</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984 March 17-24</unitdate>
+            <container id="aspace_3c38a6ce437442d3720e0062f6ca76b7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60f611dbe12354a5a8a59c3cf73582dd" parent="aspace_3c38a6ce437442d3720e0062f6ca76b7" type="Folder">2</container>
+          </did>
+          <odd id="aspace_a8f64ad7f23c0eaede67b4b4eaec3b31">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref16_v30" level="file">
+          <did>
+            <unittitle>Ticket -- "The Michael Greer Show." -- Autographed - "Bill! Love you! No merde! Michael Greer."</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985 February 28</unitdate>
+            <container id="aspace_4b14e32a98575ea85cdd0e2f7135ea41" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_289e2d2aa160d7f15569c032c7a5fa82" parent="aspace_4b14e32a98575ea85cdd0e2f7135ea41" type="Folder">3</container>
+          </did>
+          <odd id="aspace_d804cd27a71693cefe08c76795ace59b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref18_5e1" level="file">
+          <did>
+            <unittitle>Newsletter -- Gertrude Stein Democratic Club.</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_64aa4ba75a8113d1d6285b08fd07c2a1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_25d94e7fe3f1462ef01ac7d0bc4f55b9" parent="aspace_64aa4ba75a8113d1d6285b08fd07c2a1" type="Folder">4</container>
+          </did>
+          <odd id="aspace_2dedd3939f6e50a76c351cb9ad807346">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref20_xb8" level="file">
+          <did>
+            <unittitle>Program -- Gertrude Stein Democratic Club 10th Anniversary Banquet. -- Autographed - "Bill - Thanks for being there. Steve Smith." "Best wishes from Polly Shackleton." "Thanks for supporting so many good causes Barney Frank." "With best wishes Effi Barry."</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986 May 09</unitdate>
+            <container id="aspace_a8a1d3ddb56e672c96f1a78bc8d13843" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b80ddced62579a816dfb21c44ea88200" parent="aspace_a8a1d3ddb56e672c96f1a78bc8d13843" type="Folder">5</container>
+          </did>
+          <odd id="aspace_de9267d6c99762557605d1413e233ed1">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref22_55u" level="file">
+          <did>
+            <unittitle>Program -- "As Is" -- Autographed - "For Bill From William M. Hoffman."</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986 July 29</unitdate>
+            <container id="aspace_9fabf618d859d58aa5d2c79da7f268c9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d296ee9e459f0baff6cc6564410efc1" parent="aspace_9fabf618d859d58aa5d2c79da7f268c9" type="Folder">6</container>
+          </did>
+          <odd id="aspace_618d3fe7021b05ec38da89634d73e344">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref24_8vs" level="file">
+          <did>
+            <unittitle>Program -- "Silverbelle" - An Evening with Patti LaBelle. -- Autographed - "With Best Wishes, Effi Barry."</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 March 28</unitdate>
+            <container id="aspace_9d02ff78ea419d121cc90599e06344a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b5c5b20371b81f5bbb35ef2aada9160f" parent="aspace_9d02ff78ea419d121cc90599e06344a3" type="Folder">7</container>
+          </did>
+          <odd id="aspace_4b3b78b9772340938015bf14ba0676c5">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref26_6lk" level="file">
+          <did>
+            <unittitle>Program - Americans Who Care, A Project of the National AIDS Network.</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 October 09</unitdate>
+            <container id="aspace_192eca2f81e9a66a03cee23e4759190f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cabddfc9160bb1e0f2d7cd6c28f0fc72" parent="aspace_192eca2f81e9a66a03cee23e4759190f" type="Folder">8</container>
+          </did>
+          <odd id="aspace_0ecde884697be746ab1aa3c1a5b69cfc">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref28_l6w" level="file">
+          <did>
+            <unittitle>Program -- "Americans Who Care: Volunteers Working in the Battle Against AIDS." -- Autographed - "For Bill - Love, Morgan Fairchild." "To Bill Nice to Meet You Joel Brooks." "To Bill Thank you Love Lorna Luft."</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 October</unitdate>
+            <container id="aspace_b8ee71bcdef014e38c2c184b2bb933ab" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cb79ae053ec1b9fee64b9608a02042ad" parent="aspace_b8ee71bcdef014e38c2c184b2bb933ab" type="Folder">9</container>
+          </did>
+          <odd id="aspace_7522003d357b08c623a3ec1bcdb50a3f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref30_8ux" level="file">
+          <did>
+            <unittitle>Program and News clipping -- Funeral of Leonard Matlovich.</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 June</unitdate>
+            <container id="aspace_cf5b83f98422e12609c34b531f3c9329" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e697d45ea0e2b4e8568ec5e62432c4da" parent="aspace_cf5b83f98422e12609c34b531f3c9329" type="Folder">10</container>
+          </did>
+          <odd id="aspace_cbfa74a50f5371f3ada52eb41d72abbd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref32_uln" level="file">
+          <did>
+            <unittitle>Program -- "Whitman-Walker Clinic Honors Its Volunteers" - "Extraordinary People". -- Autographed - "To Bill - Very Best! Henry Tenebaum." "To Bill: With very warm regards. AS Fauci, MD."</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 November 19</unitdate>
+            <container id="aspace_2adf10df3867f8df0f7fff2e373a5c8d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9cb9509895550365a47e0a5362ccfb4d" parent="aspace_2adf10df3867f8df0f7fff2e373a5c8d" type="Folder">11</container>
+          </did>
+          <odd id="aspace_dce7320f181827c0a5643f6f49242d98">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref34_2ta" level="file">
+          <did>
+            <unittitle>Program -- "Gay and Lesbian Inaugural Celebration."</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993 January 18-20</unitdate>
+            <container id="aspace_dd904a09990e1e0682d8bda22e68aac1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_76ec2ab3553557adeb0c2847dc9e3f07" parent="aspace_dd904a09990e1e0682d8bda22e68aac1" type="Folder">12</container>
+          </did>
+          <odd id="aspace_024b438a5c09afd91078bb75a90833b7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref36_21j" level="file">
+          <did>
+            <unittitle>Program -- "Let Freedom Ring" - Gertrude Stein Democratic Club Banquet. -- Autographed - "Happy to be here - Roberta Achtenberg."</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993 September 11</unitdate>
+            <container id="aspace_76069113056e8459d6e09b839121e5f8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2bc23c90bab86f033197673e719fb11d" parent="aspace_76069113056e8459d6e09b839121e5f8" type="Folder">13</container>
+          </did>
+          <odd id="aspace_7aca3547ff8b95464a80cbc493182271">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref38_4h3" level="file">
+          <did>
+            <unittitle>Postcard -- AIDSWALK '95 - Photograph of Tipper Gore.</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 September 23</unitdate>
+            <container id="aspace_dfd1ea34e91acb3828ff0d771e748df1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c567f69613b5e8c036b4c7f7b4baba68" parent="aspace_dfd1ea34e91acb3828ff0d771e748df1" type="Folder">14</container>
+          </did>
+          <odd id="aspace_284db262d4b0645ef42f7c3b2a65738d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref40_9gf" level="file">
+          <did>
+            <unittitle>Program -- Human Rights Campaign - Washington D.C. Gala.-- Autographed - "Bill Best Wishes, Steve Gunderson."</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 November 11</unitdate>
+            <container id="aspace_04291851b76f7c18f3ec4702d34ebc95" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f6ddedfa120d173341e523c08508691a" parent="aspace_04291851b76f7c18f3ec4702d34ebc95" type="Folder">15</container>
+          </did>
+          <odd id="aspace_26ed93dd61120d3ba88939377ca884d8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref42_pez" level="file">
+          <did>
+            <unittitle>Program -- "Campaign Crazy" - Gay Men's Chorus of Washington, D.C. -- Autographed - "Bill, darling, Hope I've got your VOTE!!! Love, Mrs Foggybottom."</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996 March 29-30</unitdate>
+            <container id="aspace_9d4c3f44172576806cd065e9270ef9a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7e83df546a131955091c143c70374ac5" parent="aspace_9d4c3f44172576806cd065e9270ef9a0" type="Folder">16</container>
+          </did>
+          <odd id="aspace_10eb98ac129587f11c0d829c8989dda4">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref45_ims" level="series">
+        <did>
+          <unittitle>T-shirts</unittitle>
+          <unitid>MS2033 Series 2</unitid>
+          <unitdate datechar="creation" normal="1983/1997" type="inclusive">1983-1997</unitdate>
+          <physdesc id="aspace_ec8d577c69b1f7b430034ec9be85b4ff" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_f929be22b934e195dd319c3f354da2ab">
+          <head>Scope and Contents note</head>
+          <p>This series contains t-shirts related to the activities of the Gay and Lesbian community in Washington, D.C. The materials cover the dates 1983-97.</p>
+        </scopecontent>
+        <c id="aspace_ref47_qnf" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Black; medium. -- "National AIDS Vigil October 8, 1983 Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983 October 08</unitdate>
+            <container id="aspace_89bba5ab6bf81e2bb1fd011ef5b5002d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3fa0cf6b82c4d0b4a6899445e472e491" parent="aspace_89bba5ab6bf81e2bb1fd011ef5b5002d" type="Folder">1</container>
+          </did>
+          <odd id="aspace_f1706cfe36bd364df745bb73c3b1d804">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref49_o9x" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Black; silk screened in pink, purple and green; large. -- flamingos with lambdas as legs wading in reflecting pool.</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986 June 22</unitdate>
+            <container id="aspace_a0df1bb80e23d24ed3c751736d97576d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8fc295ca68520aef7b9a180e77a20abf" parent="aspace_a0df1bb80e23d24ed3c751736d97576d" type="Folder">2</container>
+          </did>
+          <odd id="aspace_c394592f130f705b73b2f9b4d3723082">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref51_910" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Blue; pink heart; extra-large. -- "Celebrate Volunteers Whitman-Walker Clinic 1986"</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_bc72bb5f7983a4cef3f608011d1b45c8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_356f57b023c6b587d0426fb5c57b6441" parent="aspace_bc72bb5f7983a4cef3f608011d1b45c8" type="Folder">3</container>
+          </did>
+          <odd id="aspace_5a2e4cfd1d605f19299983cf14c00f4c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref53_7ev" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Green; pink and white printing; extra-large. -- "March on Washington; We're Not Going Back; National March on Washington for Lesbian and Gay Rights October 11, 1987"</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 October 11</unitdate>
+            <container id="aspace_1f792357286335e527461422b00bca6f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_628fc34c57a8744048f03bf9500e5884" parent="aspace_1f792357286335e527461422b00bca6f" type="Folder">4</container>
+          </did>
+          <odd id="aspace_3d2841818aecf0b4dc8554bffdf9b786">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref55_2s5" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Blue; silk screened in pink and black; capitol dome with pink triangles; large. -- "We, the people Proud, United, Strong"</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_972b34e26a68879a118ca92ad766f0bb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5633b83f81ea69f74199b398386cee6b" parent="aspace_972b34e26a68879a118ca92ad766f0bb" type="Folder">5</container>
+          </did>
+          <odd id="aspace_a64085ddf24f7e434197149c21e97b22">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref57_6u8" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; extra-large. -- "The Next Step AIDSWALK Washington 88 Sunday May 15, 1988"</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 May 15</unitdate>
+            <container id="aspace_99235c0ac14a04aa61f3991c619cd9c2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0a6755cdb69a9c3d7d54940bfac38bdd" parent="aspace_99235c0ac14a04aa61f3991c619cd9c2" type="Folder">6</container>
+          </did>
+          <odd id="aspace_679ad2ca50595bcdfd072769de03398d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref59_cif" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; silk screened in red and grey; red lambdas above red bars, symbolic of the DC flag; large</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 June 19</unitdate>
+            <container id="aspace_f9619557e2d313fc04da623ecbccccba" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_423bda070433ffbd8a3a2df68b042592" parent="aspace_f9619557e2d313fc04da623ecbccccba" type="Folder">7</container>
+          </did>
+          <odd id="aspace_875f6c11f0a38610e873a3bf731fe4da">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref61_1fj" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; purple and black printing; image of Jesse Jackson; extra-large. -- "Jesse Jackson '88 It's Time For a Change"</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_b86691fd597cf7f28de34e1ca619d6c0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_95bd39b87172ef65b4175aba4dcdee97" parent="aspace_b86691fd597cf7f28de34e1ca619d6c0" type="Folder">8</container>
+          </did>
+          <odd id="aspace_31c99f8286dcf880c1ae6fb0fea1a039">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref63_vds" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; black printing; black fist holding pen, paint brush; large. -- "Freedom for the Creative Mind". Back -"Mapplethorpe Protest at the Corcoran Gallery of Art 9 pm June 30, 1989"</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989 June 30</unitdate>
+            <container id="aspace_20072bcb1f541d73e284ca7e1dbaaf6e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c8ec2d623dde203832353707fd25c038" parent="aspace_20072bcb1f541d73e284ca7e1dbaaf6e" type="Folder">9</container>
+          </did>
+          <odd id="aspace_b624128d97659f391b253d580b367167">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref65_e0j" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; black printing. -- "Let's All Come Together Banneker Field NW Saturday, May 25, 1991 Black Lesbian &amp; Gay Pride Day Inc."</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991 May 25</unitdate>
+            <container id="aspace_acb52ad80f3b9b8682e0d1743e9512e0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_60c75c813cb3d4c8d4977ceb226d2531" parent="aspace_acb52ad80f3b9b8682e0d1743e9512e0" type="Folder">10</container>
+          </did>
+          <odd id="aspace_139a7ab50fbed4aa07ec6aa65eadddbc">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref67_d3s" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; multi-colored; male and female figures raising rainbow flag; extra-large. -- "Pride=Power Lesbian and Gay Pride Day Washington, D.C. June 21, 1992"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992 June 21</unitdate>
+            <container id="aspace_2c87c88eedc5282141713fb3990ca36e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6ebaba43376e61cc75599473ef9608fe" parent="aspace_2c87c88eedc5282141713fb3990ca36e" type="Folder">11</container>
+          </did>
+          <odd id="aspace_6dcc2a644aeec58aee74dbce1b5d7dd9">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref69_mir" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Red; black printing; ex-large. -- "Black Lesbian &amp; Gay Pride Day Pride=Power Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_61bef1da78acd377cf8b1c6209ab9d39" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_21676c0a272e7ace5905c2ecc7d20b03" parent="aspace_61bef1da78acd377cf8b1c6209ab9d39" type="Folder">12</container>
+          </did>
+          <odd id="aspace_ca5cea4ab3f83f77a4fb3cb5fabbaa65">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref71_zlc" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Grey; blue printing; extra-large. -- "Gay and Lesbian Voters for Clinton/Gore Human Rights Campaign Fund"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_ebddf79cacfc7f96570c8755cf9512ee" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_90bf4515d9c7c6a53d7ca0cb8f2d0553" parent="aspace_ebddf79cacfc7f96570c8755cf9512ee" type="Folder">13</container>
+          </did>
+          <odd id="aspace_f235664db06f1b71947d59682921aa1a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref73_dfu" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; silk screened in blue, pink, and orange; extra-large. -- "The 1993 March on Washington for Lesbian, Gay and Bi Equal Rights and Liberation April 25"</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993 April 25</unitdate>
+            <container id="aspace_77dceb9bebb0a9260cce4ee10ae43455" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7f738baf8a3e7deaa8b5ac536d14c67d" parent="aspace_77dceb9bebb0a9260cce4ee10ae43455" type="Folder">14</container>
+          </did>
+          <odd id="aspace_8ef67055598f726dc1a2318f74ab512e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref75_fsw" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; silk screened in white, red, yellow, and green; extra-large. -- "Visibility, the Key to Pride '95 Black Pride Weekend May 26-28 Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 May 26-28</unitdate>
+            <container id="aspace_f6646ab555f822568ef9d57469182e7d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bf12e21a9893968a60fd5f9f7dd2d5e1" parent="aspace_f6646ab555f822568ef9d57469182e7d" type="Folder">15</container>
+          </did>
+          <odd id="aspace_93436e15b7391b07a4eb4eec271aeef7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref77_etk" level="file">
+          <did>
+            <unittitle>Tee-shirt -- White; silk screened in blue, purple and black; extra-large. --"Come Out Proud! 20 years of Pride Lesbian and Gay Freedom Festival June 11-18, 1995 Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 June 11-18</unitdate>
+            <container id="aspace_8969e80025ed72eae3b68f8ffedd9a5e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_822655e0f5296dd30d7a9e04258b2607" parent="aspace_8969e80025ed72eae3b68f8ffedd9a5e" type="Folder">16</container>
+          </did>
+          <odd id="aspace_64e1bbbed0540b388a454d90339327dd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref79_mhc" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Blue printing; extra-large. -- "Clinton Gore '96" on pink triangle.</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_c81beeda473117d220156ca83a5395ba" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_aa1182e77327fcd3895c9310e58f430d" parent="aspace_c81beeda473117d220156ca83a5395ba" type="Folder">17</container>
+          </did>
+          <odd id="aspace_16210aa00e78db6786ffdb73c613ad94">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref81_mkv" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Purple; silk screened in black, green, red and yellow; extra-large. -- "Black Pride '97 Proud Sisters &amp; Brothers Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_631d8989b19f410a5dfa4168e5e7906c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5031376ab9620cf57b59d8f2a8563d07" parent="aspace_631d8989b19f410a5dfa4168e5e7906c" type="Folder">18</container>
+          </did>
+          <odd id="aspace_b187433dc568037367f6e39783dc2785">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref83_6n7" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Purple; silk screened in black, green, red and yellow; extra-large. -- "Black Pride '97 Proud Sisters &amp; Brothers Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_00d3f97df3e5a8a6ef91b8b5537fc5f2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_488fe6b4dca8b0549d3cf160ebf045d2" parent="aspace_00d3f97df3e5a8a6ef91b8b5537fc5f2" type="Folder">19</container>
+          </did>
+          <odd id="aspace_bda8d5f62b103fe97d02e5ad65223e39">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref85_a7d" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Black; pink and white printing; extra-large. -- "Lift the Ban NOW (National Organization for Women)"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6b45ff3df7df3412ed3ab0077a9981c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cd6480b0c37fa1ee965aad89dd6c190d" parent="aspace_6b45ff3df7df3412ed3ab0077a9981c7" type="Folder">20</container>
+          </did>
+          <odd id="aspace_6c5cf7b3115265c43a0cec0c145eec45">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref87_gps" level="file">
+          <did>
+            <unittitle>Tee-shirt -- Blue printing; extra-large. -- "SHARE Study Help Aids Research Effort"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_52376f8fc0b75d9d6a516a42e6c077d4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_23a0d107b2d8d0ed0603dec93ba8a0af" parent="aspace_52376f8fc0b75d9d6a516a42e6c077d4" type="Folder">21</container>
+          </did>
+          <odd id="aspace_86b7d2c504643c8a28b1e57bb38155a7">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref90_lzi" level="series">
+        <did>
+          <unittitle>Buttons</unittitle>
+          <unitid>MS2033 Series 3</unitid>
+          <unitdate datechar="creation" normal="1978/1996" type="inclusive">1978-1996</unitdate>
+          <physdesc id="aspace_93382e912e8302c73a7864213bde2c6b" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_bad9a48d96e1f546bf6783f9e79b4e56">
+          <head>Scope and Contents note</head>
+          <p>This series contains buttons related to the activies of the Gay and Lesbian community in Washington, D.C. The material covers the dates 1978-96.</p>
+        </scopecontent>
+        <c id="aspace_ref92_zl1" level="file">
+          <did>
+            <unittitle>Political button -- "Lesbian and Gay Voters for Mayor Barry"</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_e6ef150e7d8d7a9dada57345c2a824a4" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_cefeefd10a698b63630777ac9b3655e6" parent="aspace_e6ef150e7d8d7a9dada57345c2a824a4" type="Box">3</container>
+            <container id="aspace_fed2113f09dd709023a1d69569762e51" parent="aspace_cefeefd10a698b63630777ac9b3655e6" type="Folder">1</container>
+          </did>
+          <odd id="aspace_dd3c30ffe655d9f25be678df13356dd8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref94_foe" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Washington, D.C. Lesbian &amp; Gay Pride '83"</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_cd4e11f0e87d2a55dc511d69e943eaec" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_085d803c743f6ffea215eb47bed5a1c4" parent="aspace_cd4e11f0e87d2a55dc511d69e943eaec" type="Box">3</container>
+            <container id="aspace_44677b7b017020485290eadbd98b38e8" parent="aspace_085d803c743f6ffea215eb47bed5a1c4" type="Box">2</container>
+          </did>
+          <odd id="aspace_84a4a2241bd21c9e948c4d9af13cb76f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref96_siv" level="file">
+          <did>
+            <unittitle>Political button -- "Gays for Mondale"</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_09c910cf89a4e2df688524f699962b31" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_bdfce07fce90f2d6c1095c2b6becd609" parent="aspace_09c910cf89a4e2df688524f699962b31" type="Box">3</container>
+            <container id="aspace_fd60eaa1275bc7fefc0fda67832f7ca7" parent="aspace_bdfce07fce90f2d6c1095c2b6becd609" type="Folder">3</container>
+          </did>
+          <odd id="aspace_66effd6a16ceb6faf5fbbef765dc3761">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref98_6fv" level="file">
+          <did>
+            <unittitle>Political button -- "Vote Mondale for President Maccubbin for Delegate"</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_32305ebf4fe28c9ebb3ef8654a17f077" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_4c0b0dcdf189c84a268685993ad594f3" parent="aspace_32305ebf4fe28c9ebb3ef8654a17f077" type="Box">3</container>
+            <container id="aspace_68e4f1f6935e7fba314d507cf2eeb76e" parent="aspace_4c0b0dcdf189c84a268685993ad594f3" type="Folder">4</container>
+          </did>
+          <odd id="aspace_06770d0fbc6c42630f51b420f6ebbadc">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref100_zbp" level="file">
+          <did>
+            <unittitle>Political button -- "Vote Democratic the ass you save might be your own"</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_39ba0ebefe0d12d8c216b89647472c2f" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_74a16fd8a030d262dda2e220ab7120fa" parent="aspace_39ba0ebefe0d12d8c216b89647472c2f" type="Box">3</container>
+            <container id="aspace_5a25b329f0620c7c8c3ced240d9bfe23" parent="aspace_74a16fd8a030d262dda2e220ab7120fa" type="Folder">5</container>
+          </did>
+          <odd id="aspace_2128bc6eb87adb1c21a7bd53f415c5c6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref102_xro" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Pride Week Washington, D.C. "We the People..." Proud, United, Strong 1987"</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_ea89536e79c03884c3fd7eb4d9358efc" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_8d1c77cb0cb41d80255a4021ce2a60af" parent="aspace_ea89536e79c03884c3fd7eb4d9358efc" type="Box">3</container>
+            <container id="aspace_67c506b916d73bf512e2db2385ebdd00" parent="aspace_8d1c77cb0cb41d80255a4021ce2a60af" type="Folder">6</container>
+          </did>
+          <odd id="aspace_d2a34577c907eb3f7de6a397876808f3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref104_fto" level="file">
+          <did>
+            <unittitle>Aidswalk button -- "Ask me about THE NEXT STEP"</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 June 28</unitdate>
+            <container id="aspace_4b71b4de56f68f103dccded9131dae31" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_9309a309109b5b23d7943d29d40643fd" parent="aspace_4b71b4de56f68f103dccded9131dae31" type="Box">3</container>
+            <container id="aspace_71145944f14c743bd80c1953d0c6035d" parent="aspace_9309a309109b5b23d7943d29d40643fd" type="Folder">7</container>
+          </did>
+          <odd id="aspace_2acf10bd4eeca0d70918261db935321a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref106_m7b" level="file">
+          <did>
+            <unittitle>Political button -- "Lesbian and Gays for Jackson '88 Lavender Stripe"</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_8a455a997be6d7f628a4bb4302ec8ae2" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_6b1ff1713bef4bbca283bde26b488fa8" parent="aspace_8a455a997be6d7f628a4bb4302ec8ae2" type="Box">3</container>
+            <container id="aspace_b841c2cdae4e65316e4611c3a938f9d2" parent="aspace_6b1ff1713bef4bbca283bde26b488fa8" type="Folder">8</container>
+          </did>
+          <odd id="aspace_9e22133c881049c1f6916d48291a02b6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref108_s7r" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Washington D.C. June 23, 1991 Together in Pride '91"</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991 June 02</unitdate>
+            <container id="aspace_9a4f04dad3e6b7aa8d179366fb785c0e" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_7accbac88a77ecb1ddef4b9f50416642" parent="aspace_9a4f04dad3e6b7aa8d179366fb785c0e" type="Box">3</container>
+            <container id="aspace_aed7e3438060ef1cd8baa077ca1fedae" parent="aspace_7accbac88a77ecb1ddef4b9f50416642" type="Folder">9</container>
+          </did>
+          <odd id="aspace_a3a1999b6af6702de672fbeef645cc00">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref110_6ub" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Black Lesbian &amp; Gay Pride Day '92 Pride=Power Washington, D.C. May 22-24"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992 May 22-24</unitdate>
+            <container id="aspace_bbebd89990812348ea243e777634a7f2" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_ad375976e4b1d2ebb034f4d07fdc7cbc" parent="aspace_bbebd89990812348ea243e777634a7f2" type="Box">3</container>
+            <container id="aspace_dc79a72397182f4266750defc77cc77b" parent="aspace_ad375976e4b1d2ebb034f4d07fdc7cbc" type="Folder">10</container>
+          </did>
+          <odd id="aspace_5878259b784980e26b00e39a91a5b78b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref112_fa2" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Pride=Power Lesbian &amp; Gay Pride Day Washington, D.C. June 21, 1992"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992 June 21</unitdate>
+            <container id="aspace_e5e8e27c0dbc5057981901c13651e00e" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_83d6d97e6693dcd8e2f81c255e3f87ac" parent="aspace_e5e8e27c0dbc5057981901c13651e00e" type="Box">3</container>
+            <container id="aspace_7ed95be429ba9b61ce4c0e3c01ebb463" parent="aspace_83d6d97e6693dcd8e2f81c255e3f87ac" type="Folder">11</container>
+          </did>
+          <odd id="aspace_e5e567aaae339597156f153784bcac40">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref114_b36" level="file">
+          <did>
+            <unittitle>Aidswalk button -- "Heart &amp; Soles Aidswalk Washington SATURDAY September 26 1992"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992 September 26</unitdate>
+            <container id="aspace_465a2dcf3846fdaf6f2be50b49d453a9" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_34d5271883a93b4443d6f25c66a29871" parent="aspace_465a2dcf3846fdaf6f2be50b49d453a9" type="Box">3</container>
+            <container id="aspace_ca77c2ffd40731ae5f1815415f04f2b3" parent="aspace_34d5271883a93b4443d6f25c66a29871" type="Folder">12</container>
+          </did>
+          <odd id="aspace_d5d75fcc1dca1563a278fc23fad373c5">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref116_oz9" level="file">
+          <did>
+            <unittitle>Political button -- "Bill Clinton for President"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_da7dd4290f98e43ea7b241b2af29520c" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_2f12c17691ac28eeae9ab3c4e6bb4780" parent="aspace_da7dd4290f98e43ea7b241b2af29520c" type="Box">3</container>
+            <container id="aspace_65ab2b6f4d3e43f424c1e82566141179" parent="aspace_2f12c17691ac28eeae9ab3c4e6bb4780" type="Folder">13</container>
+          </did>
+          <odd id="aspace_8b9e479b32079ea476cb54723f6fe8c2">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref118_8tt" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Keep in Stride with Black Pride Black Lesbian and Gay Pride Weekend '94 May 27-30 Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994 May 27-30</unitdate>
+            <container id="aspace_76a8fc7c3c8ebe430aaab08f4c474503" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_fd19c9423d390d093a65f87be74c6136" parent="aspace_76a8fc7c3c8ebe430aaab08f4c474503" type="Box">4</container>
+            <container id="aspace_533ba5ebccc83d1324d44dbe7b67f833" parent="aspace_fd19c9423d390d093a65f87be74c6136" type="Folder">1</container>
+          </did>
+          <odd id="aspace_af1c70b233dd1f7e3532d7bd8e02d51e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref120_v6v" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- "Come Out Proud" "20 Years of Pride", "Lesbian &amp; Gay FREEDOM FESTIVAL June 11-18, 1995 Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 June 11-18</unitdate>
+            <container id="aspace_d93d2b46343e4779d681c652e701425f" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_09b8a4e69a671d790014d57a39badd23" parent="aspace_d93d2b46343e4779d681c652e701425f" type="Box">4</container>
+            <container id="aspace_f42bf57588854de37b5da7b6de4c3b78" parent="aspace_09b8a4e69a671d790014d57a39badd23" type="Folder">2</container>
+          </did>
+          <odd id="aspace_c2af16e2e9ec9ebe51d3dd09f9b1842c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref122_80z" level="file">
+          <did>
+            <unittitle>Aidswalk button -- "Aidswalk Washington Sat. Sept 23 '95 A Pledgewalk Sponsored by Whitman-Walker Clinic 202-332-WALK"</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995 November 23</unitdate>
+            <container id="aspace_44e19ade6b06dd2410cc995f7c79b801" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_3b3789519dbe60ec38ada90f33d801d4" parent="aspace_44e19ade6b06dd2410cc995f7c79b801" type="Box">4</container>
+            <container id="aspace_f74eaaa06e264b11b129c779542a84c2" parent="aspace_3b3789519dbe60ec38ada90f33d801d4" type="Folder">3</container>
+          </did>
+          <odd id="aspace_840f0e69ded764731fc2e720b9bdf2f8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref124_ngx" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- Black on yellow. "Black Pride Day '95 5th Anniversary Washington, D.C."</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_a3fd1c3bdb3d75a307a252b562a66385" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_96d62a562a2e3564b12f7649ff88adaf" parent="aspace_a3fd1c3bdb3d75a307a252b562a66385" type="Box">4</container>
+            <container id="aspace_7b62c95e52ba185ce74a293a4e868d42" parent="aspace_96d62a562a2e3564b12f7649ff88adaf" type="Folder">4</container>
+          </did>
+          <odd id="aspace_f9ba2b4fd2f9e12b85ec1ad3026b9fe0">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref126_qsf" level="file">
+          <did>
+            <unittitle>Gay and lesbian pride button -- Same as above except full color design on white background.</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_4618dc6703a941cb670101e02eaed776" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_d8a25da0d41339cdfc555e3ceb9b86b8" parent="aspace_4618dc6703a941cb670101e02eaed776" type="Box">4</container>
+            <container id="aspace_8f68c24eecdb403f35a164a816f51749" parent="aspace_d8a25da0d41339cdfc555e3ceb9b86b8" type="Folder">5</container>
+          </did>
+          <odd id="aspace_94360600fe269f7291ce838875495444">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref128_onx" level="file">
+          <did>
+            <unittitle>Political button -- "Gays and Lesbians for Clinton Gore 96"</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_d9d7a61a9ffb8beb17efcd2407413904" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_e2c9e2607e93ca4bc62529f033495866" parent="aspace_d9d7a61a9ffb8beb17efcd2407413904" type="Box">4</container>
+            <container id="aspace_6e411721f10e251a9d874378b35e4357" parent="aspace_e2c9e2607e93ca4bc62529f033495866" type="Folder">6</container>
+          </did>
+          <odd id="aspace_32240c7542922b778ac2b439ea5a4797">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref130_wlf" level="file">
+          <did>
+            <unittitle>Political button -- "Chorlton"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0d310c1effbc6279d3f4c897a9c78f3d" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_eb4cb4d497fd9a4392a1bd8f16c6fcea" parent="aspace_0d310c1effbc6279d3f4c897a9c78f3d" type="Box">4</container>
+            <container id="aspace_c337ada4f25eca18eccf9c210d5b6ddb" parent="aspace_eb4cb4d497fd9a4392a1bd8f16c6fcea" type="Folder">7</container>
+          </did>
+          <odd id="aspace_eed50ea205b2bc3559e8a456c4005cfd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref132_3wy" level="file">
+          <did>
+            <unittitle>Political button -- "I Support Bill 6-343"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b3e5efd9fe1a5f276e59cb71906d7513" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_4e8775966146c790436a1fa09a9a3254" parent="aspace_b3e5efd9fe1a5f276e59cb71906d7513" type="Box">4</container>
+            <container id="aspace_9c49173500d86ba59a6fcfaebe8a38a2" parent="aspace_4e8775966146c790436a1fa09a9a3254" type="Folder">8</container>
+          </did>
+          <odd id="aspace_ba7bbac3628e32b5e4d226bd22007c2f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref134_rfi" level="file">
+          <did>
+            <unittitle>Aidswalk button -- "PLEDGE ME!"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dcf88f4a381824209806fb5e526d4e2f" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_45be1cab1d7b16181e13c57b916ca03f" parent="aspace_dcf88f4a381824209806fb5e526d4e2f" type="Box">4</container>
+            <container id="aspace_6bb45b569ad4da6a749b89ac688e69b8" parent="aspace_45be1cab1d7b16181e13c57b916ca03f" type="Folder">9</container>
+          </did>
+          <odd id="aspace_3ba7083b2ce7ed4edbf980fde51040a3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref136_h2p" level="file">
+          <did>
+            <unittitle>Political button -- "Zais Ward 2"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ee91a9aa14e238c83b1f880b92476810" label="Mixed Materials [32882021644599]" type="Box">SHARED Box 17</container>
+            <container id="aspace_4441a05c794e01e216858b4e8e3306bc" parent="aspace_ee91a9aa14e238c83b1f880b92476810" type="Box">4</container>
+            <container id="aspace_e5f008964e5754ca94e634ff23c92022" parent="aspace_4441a05c794e01e216858b4e8e3306bc" type="Folder">10</container>
+          </did>
+          <odd id="aspace_47c675e246296e2b3944145d2eda3173">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

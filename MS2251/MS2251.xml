@@ -1,0 +1,475 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2251.xml">ms2251.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the D.C. Poets against the War records
+ <num>MS2251</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:42:50 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>D.C. Poets Against the War records</unittitle>
+      <origination label="source">
+        <persname rules="aacr" source="naf">McCombs, Judith</persname>
+      </origination>
+      <origination label="source">
+        <persname source="naf">Roberts, Kim, 1961-</persname>
+      </origination>
+      <origination label="source">
+        <persname rules="aacr" source="naf">Browning, Sarah</persname>
+      </origination>
+      <origination label="source">
+        <persname rules="aacr" source="naf">Miller, E. Ethelbert</persname>
+      </origination>
+      <unitid>MS2251</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">2003-2008</unitdate>
+      <physloc id="aspace_7b1bdd902a9630e5d6984a6c7afaa1a1">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_28bfc93b47d7deec3aba101f396bd5af">This collection contains correspondence, flyers,publications and other material relating the Poets against the War organization.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <userestrict id="aspace_2f06a51f36d654c797adaa21fcd4452c">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <acqinfo id="aspace_101cfeccee308c67c17ea97d565e63ad">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Sarah Browning, 07/17/2008 Acc# 2008.027</p>
+    </acqinfo>
+    <bioghist id="aspace_5b888eb7478e2b2be96b00c4e4d26fb1">
+      <head>Biographical / Historical</head>
+      <p>In late January 2003, in response to an invitation to a symposium by Laura Bush to celebrate "Poetry and the American Voice," Sam Hamill declined, instead, he asked about 50 fellow poets to "reconstitute a Poets Against the War movement like the one organized to speak out against the war in Vietnam...to speak up for the conscience of our country and lend your names to our petition against this war" by submitting poems of protest that he would send to the White House. </p>
+      <p>By March 1, more than 13,000 poems had been reviewed and posted by 25 volunteer editors. Since then the organization has grown to include poets from other nations such as England, Australia, Turkey, Italy, France, Germany, India, Pakistan. </p>
+      <p>Take from the Poets Against the War website, http://www.poetsagainstthewar.org/</p>
+    </bioghist>
+    <arrangement id="aspace_73599f4e94a40b00fb5390c996ce3f01">
+      <head>Arrangement</head>
+      <p>Without series, organized by folder as the material was donated.</p>
+    </arrangement>
+    <scopecontent id="aspace_cb0fc3d74704e9600343bef9c47b8e2f">
+      <head>Scope and Contents</head>
+      <p>This collection containes poetry, correspondence, flyers, buttons, clippings and other material relating to the Poets Against the War organization.  Using poetry as a means of peaceful protest, this group reached out to thier community through events and workshops.</p>
+    </scopecontent>
+    <prefercite id="aspace_a33a1bc17a4d0876c87b532d650c24b0">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <accessrestrict id="aspace_f6ad68d54f398b6cc54f8837d6093745">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <controlaccess>
+      <subject source="lcsh">Protest movements</subject>
+      <subject source="lcsh">Poetry</subject>
+      <persname role="fmo" rules="aacr" source="naf">McCombs, Judith</persname>
+      <persname role="fmo" source="naf">Roberts, Kim, 1961-</persname>
+      <persname role="fmo" rules="aacr" source="naf">Browning, Sarah</persname>
+      <persname role="fmo" rules="aacr" source="naf">Miller, E. Ethelbert</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_uef" level="file">
+        <did>
+          <unittitle>DC Poets Against the War(PAW) website</unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_e77081febc4899b40704dfce5c9f8bca" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_06963da49e4beb5f623b6c2613c0306e" parent="aspace_e77081febc4899b40704dfce5c9f8bca" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_4y0" level="file">
+        <did>
+          <unittitle>DC PAW meetings, plans</unittitle>
+          <unitdate datechar="creation">2003-2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_4327ed103db1951b1587a4c3430e0a38" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_8b4bc5eda2615ab5b2f675c7d2f6cf81" parent="aspace_4327ed103db1951b1587a4c3430e0a38" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref2_eie" level="file">
+        <did>
+          <unittitle>Poems Read at DC PAW oputdoor events</unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_5e61558aa18859a537e3b761bcf52830" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_705aae954ee7186735056a5edc95fd71" parent="aspace_5e61558aa18859a537e3b761bcf52830" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref13_dnq" level="file">
+        <did>
+          <unittitle>DC PAW sign up lists and contact information</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_bfb4bc05d8d2bba246cbc51caaea60ed" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_0f368ca8f0f2eb3723c1707890f0aaa0" parent="aspace_bfb4bc05d8d2bba246cbc51caaea60ed" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_dnq" level="file">
+        <did>
+          <unittitle>DC PAW reading</unittitle>
+          <unitdate datechar="creation">02/12/2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_25b59f9dda5d85e6249041c272b1b05a" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_2ba92e3204501bbf99dd064bf9d763e4" parent="aspace_25b59f9dda5d85e6249041c272b1b05a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref3_mxp" level="file">
+        <did>
+          <unittitle>DC PAW reading # 2 </unittitle>
+          <unitdate datechar="creation">03/04/2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_54ca9e42d39dfc05153b0902be8bb1b3" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_3523cfe02b8e8bc4a30d9b2bd663b3b8" parent="aspace_54ca9e42d39dfc05153b0902be8bb1b3" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref4_f48" level="file">
+        <did>
+          <unittitle>Events </unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_8416e9ef72e313dbfb56305f2820d301" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_64e39724ec5b9ab6494383cf7f7da53d" parent="aspace_8416e9ef72e313dbfb56305f2820d301" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref5_7re" level="file">
+        <did>
+          <unittitle>Events </unittitle>
+          <unitdate datechar="creation">2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_3153dfaca080d007272810d247605b15" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_0cfd3adca783af6f35ed1815f53e33e2" parent="aspace_3153dfaca080d007272810d247605b15" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref6_ebi" level="file">
+        <did>
+          <unittitle>Events</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_6762813f8967da8f1f4bdc6afbb96acd" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_0fb5dadd8495c54cfbb2854bae41af4f" parent="aspace_6762813f8967da8f1f4bdc6afbb96acd" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref7_3t8" level="file">
+        <did>
+          <unittitle>Events</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_2692964ac8d4a72120ade7d16d075cc9" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_b4cddf1d0a75388992afadefe943b6b3" parent="aspace_2692964ac8d4a72120ade7d16d075cc9" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref8_yjf" level="file">
+        <did>
+          <unittitle>Events</unittitle>
+          <unitdate datechar="creation">2007</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_f92124bfc1f34ad8985eeb7bca20088a" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_edb3931df787e82379ab1feae401cf8d" parent="aspace_f92124bfc1f34ad8985eeb7bca20088a" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref9_0wg" level="file">
+        <did>
+          <unittitle>Events</unittitle>
+          <unitdate datechar="creation">2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_64eee1ac7b1a3b30faf97cf51a213fe9" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_592c4e5113b6129ec238094b074362d3" parent="aspace_64eee1ac7b1a3b30faf97cf51a213fe9" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_sde" level="file">
+        <did>
+          <unittitle>DC PAW press</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_1d2ec4d44dfeeb89f2d7c69aea196887" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_338dd8fce462fa517d7324dfee887042" parent="aspace_1d2ec4d44dfeeb89f2d7c69aea196887" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_9gh" level="file">
+        <did>
+          <unittitle>Media panel</unittitle>
+          <unitdate datechar="creation">01/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_20bd96e40b561001c33b2f2d71236a04" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_2563c86b5774f4ffd9c25b3dbff43c66" parent="aspace_20bd96e40b561001c33b2f2d71236a04" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_pob" level="file">
+        <did>
+          <unittitle>Martin Luther King library  poetry exhibit</unittitle>
+          <unitdate datechar="creation">01/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_95c0bba9b42da00251dd2855c956fdf3" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_4802184a0708c5bcc2606509284f83d1" parent="aspace_95c0bba9b42da00251dd2855c956fdf3" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref17_ock" level="file">
+        <did>
+          <unittitle>Cesar Chavez High Schoool</unittitle>
+          <unitdate datechar="creation">06/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_b2df4b1a870e934843480172b5a22d76" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_a2f26317a7533171e096b1bff519bc55" parent="aspace_b2df4b1a870e934843480172b5a22d76" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_tp2" level="file">
+        <did>
+          <unittitle>Punto Vivo workshop</unittitle>
+          <unitdate datechar="creation">50/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_ea39bec5dce026237fcb75cce0c94ded" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_6b041e1fed555c9dffba70b3e58474da" parent="aspace_ea39bec5dce026237fcb75cce0c94ded" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref19_noc" level="file">
+        <did>
+          <unittitle>Wilson High School panel</unittitle>
+          <unitdate datechar="creation">10/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_41605cd119d71af2a1b63ae4603879ad" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_31080fe095d81adebc30fb9c2a45b0c4" parent="aspace_41605cd119d71af2a1b63ae4603879ad" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_qgi" level="file">
+        <did>
+          <unittitle>Katrina fundraiser</unittitle>
+          <unitdate datechar="creation">09/11/2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_8d4d703bbb8a6063f86e7098589f7817" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_b0afbca8f00c0f6ed9ecc5ec330bcb20" parent="aspace_8d4d703bbb8a6063f86e7098589f7817" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref21_shd" level="file">
+        <did>
+          <unittitle>Whitman festival</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_4cf9a74277be4d01086971616fbbfb60" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_33fec9ba5ea11e8cd14fe23dd9502dba" parent="aspace_4cf9a74277be4d01086971616fbbfb60" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_gi2" level="file">
+        <did>
+          <unittitle>DC PAW press</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_9297f492ad43f541b822b5c8e206f55a" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_2601abfee6be1d78f60802a58edee8d7" parent="aspace_9297f492ad43f541b822b5c8e206f55a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref23_kbk" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation">2006-2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_295c4ce66a63d9b91480889502104ea6" label="Mixed Materials [GW: 32882019220659 IM: T560693154]" type="Box">1</container>
+          <container id="aspace_fcecbcd4fef2699ad22a9de4ed5b2e4f" parent="aspace_295c4ce66a63d9b91480889502104ea6" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_qvz" level="file">
+        <did>
+          <unittitle>Anthology</unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_b6f5ecf0ecb57cd184c32877738b995f" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_e4b30b5183204f2f82fdac1bc42010e3" parent="aspace_b6f5ecf0ecb57cd184c32877738b995f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref25_mt7" level="file">
+        <did>
+          <unittitle>Expanded Anthology </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_9a483ec181e09262226de183c548dc3e" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_4da18f68212995bc768c0cd3f3a93ca2" parent="aspace_9a483ec181e09262226de183c548dc3e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_uqi" level="file">
+        <did>
+          <unittitle>Anthology 2:contact information</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_35af03cdb4d8deaea730dc6828dfa780" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_5ce3d42cd1e66e2e9765febdfd064bd1" parent="aspace_35af03cdb4d8deaea730dc6828dfa780" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref27_6kr" level="file">
+        <did>
+          <unittitle>Anthology 2nd edtion production</unittitle>
+          <unitdate datechar="creation">2004-2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_8dc4285d727e29e683b9fdc684f8ab63" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_017180e9f3d2c5703b3e6a032d27b8e4" parent="aspace_8dc4285d727e29e683b9fdc684f8ab63" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_u62" level="file">
+        <did>
+          <unittitle>Anthology: Poems from Lord Hutton</unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_5c7615819515e7bc5053df42282c86df" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_a6c0c4b7ae1a5295aaf61b8d0b8fe958" parent="aspace_5c7615819515e7bc5053df42282c86df" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_11q" level="file">
+        <did>
+          <unittitle>Anthology marketing</unittitle>
+          <unitdate datechar="creation">2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_8160dda847146a578e4853599b149289" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_a49003bba07c8716da94034f65ac18bc" parent="aspace_8160dda847146a578e4853599b149289" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_o8m" level="file">
+        <did>
+          <unittitle>Anthology reviews</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_038a83a1d3534e6730a7fc3877b0fa6f" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_31b9d0e174bb79e5f791f39119a5ef1b" parent="aspace_038a83a1d3534e6730a7fc3877b0fa6f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_jnu" level="file">
+        <did>
+          <unittitle>Anthology financial records</unittitle>
+          <unitdate datechar="creation">2003-2008</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_aac2f4b75698cf187120d5e663db2034" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_47c68e841110ab19496222f002f8072d" parent="aspace_aac2f4b75698cf187120d5e663db2034" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_k7j" level="file">
+        <did>
+          <unittitle>Anthologies bookstores</unittitle>
+          <unitdate datechar="creation">2004-2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_27632a2ca6a1ff17c4456008c4f99886" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_3d2c714b8a67648bfb55cba516365afd" parent="aspace_27632a2ca6a1ff17c4456008c4f99886" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref33_3sv" level="file">
+        <did>
+          <unittitle>Voices in Wartime</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_ff6843150beef989f73c23624679ff6a" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_5a8ff3521c8106ababd0bfd2add482d8" parent="aspace_ff6843150beef989f73c23624679ff6a" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_ukd" level="file">
+        <did>
+          <unittitle>Beltway Poetry Quarterly</unittitle>
+          <unitdate datechar="creation">04/2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_4f77cc7e59bb34aa2f4f64f17effebae" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_3c897c2ea4f193ccc5fc1b8717fa0d7a" parent="aspace_4f77cc7e59bb34aa2f4f64f17effebae" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_nwa" level="file">
+        <did>
+          <unittitle>Mayor Arts Awards</unittitle>
+          <unitdate datechar="creation">2005-2007</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_fbaea493f48137bf4b786fec44b6afe3" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_5c38c2c037b6c448cf8733762f3b0ea2" parent="aspace_fbaea493f48137bf4b786fec44b6afe3" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_so4" level="file">
+        <did>
+          <unittitle>The Washington Spark</unittitle>
+          <unitdate datechar="creation">2004-2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_919a3d599933a3d4171052b252be9021" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_789882135564d9f533edcba11b37ef33" parent="aspace_919a3d599933a3d4171052b252be9021" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref40_94u" level="file">
+        <did>
+          <unittitle>Divide City</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_228819877158b24892122eda12282aef" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_f20cbd5f901210060e194d4e01a0449c" parent="aspace_228819877158b24892122eda12282aef" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref41_4c5" level="file">
+        <did>
+          <unittitle>Teaching for change</unittitle>
+          <unitdate datechar="creation">2005-2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_8b9f8eb42a17935b59e966cc78a62088" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_6292365705a8970a082eae744226eaaf" parent="aspace_8b9f8eb42a17935b59e966cc78a62088" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_70n" level="file">
+        <did>
+          <unittitle>Arlington Arts Center</unittitle>
+          <unitdate datechar="creation">2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_96d2c4522bc7c4be0f2c452ad8e8b845" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_b258c35cb865016b6795262e16de455d" parent="aspace_96d2c4522bc7c4be0f2c452ad8e8b845" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref43_ihb" level="file">
+        <did>
+          <unittitle>Youtew</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_3cda59e7de9dbffbd539285d4edf22cb" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_f78ebedaf5e919b3e298a246fa8afc76" parent="aspace_3cda59e7de9dbffbd539285d4edf22cb" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_f5r" level="file">
+        <did>
+          <unittitle>Marketing flyers</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_f7fe40e8a8b9f04e5b227d8569a4dcf6" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_a70b4acbd88f57f67013ef0e0c2e7762" parent="aspace_f7fe40e8a8b9f04e5b227d8569a4dcf6" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref45_r8o" level="file">
+        <did>
+          <unittitle>Front+ Back Matter</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_b73bba47aad47b9dfa4bafedab18353f" label="Mixed Materials [GW: 32882019220832 IM:T560693155]" type="Box">2</container>
+          <container id="aspace_b594f1e995833d78fa48621ba65f3b52" parent="aspace_b73bba47aad47b9dfa4bafedab18353f" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_7b1" level="file">
+        <did>
+          <unittitle>Poetry on display at Martin Luther King Library </unittitle>
+          <unitdate datechar="creation">01/2004</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container id="aspace_d2ea3c138a80fa41974651e692e4c8e0" label="Mixed Materials [GW: 32882019220824]" type="flat_box">3</container>
+          <container id="aspace_3dc72525ae7c47de2ea5c1dc0284e161" parent="aspace_d2ea3c138a80fa41974651e692e4c8e0" type="Folder">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,2119 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/IBT0049.xml">IBT0049.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Brotherhood of Teamsters Member Dues Ledgers Collection collection<date calendar="gregorian" era="ce">1903-1982</date>
+ <num>IBT0049</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:30:37 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT Member Dues Ledgers and Local Minute Books collection</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+      </origination>
+      <unitid>IBT0049</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">69 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1891/1982" type="inclusive">1891-1982</unitdate>
+      <unitdate datechar="creation" normal="1930/1960" type="bulk">1930-1960</unitdate>
+      <physloc id="aspace_f3644c1e47846ecc3b09b25eab8b2cbd">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_8be7bcdba31080fe8aebb5a97b7aaf73">This collection contains bound ledger books from Teamsters Local Unions 14, 366, 572, 606, 686, 700, and 864; earlier Teamsters ledgers collectively list multiple rather than individual Local Unions. Included are cash books, day books, dues books, minutes books, expense books, membership directories, and welfare books. The ledgers date from 1903-1973, with the bulk dating from 1930-1960.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_a3260d11c7e47cc6b294cec22c72ce42">
+      <head>Arrangement</head>
+      <p>This collection is arranged numerically by Local Union, then alphabetically according to specific type of ledger. Bulk of materials are organized by a specific Local Union, except for earliest dated ledgers consisting of collective rather than individual union records.</p>
+    </arrangement>
+    <prefercite id="aspace_9bf62d486e13ba6b1672bdd85f8567b7">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <userestrict id="aspace_a7073ee7695036a7aeed2a6f95c34a25">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <accessrestrict id="aspace_b4d8b3126df72142477a50f971e7ab21">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_944bedc5154bc22ede48e5c5a784ba6d">
+      <head>Scope and Contents</head>
+      <p>This collection contains bound ledger books from a variety of Teamsters Local Unions  Included are cash books, day books, dues books, minutes books, expense books, membership directories, and welfare books. The ledgers date from 1891-1973, with the bulk dating from 1930-1960.</p>
+    </scopecontent>
+    <acqinfo id="aspace_e1d99c282572ee114fdb40b25dc7c32a">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred from IBT 2009 and 2006.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Labor unions</subject>
+      <subject source="lcsh">Labor</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 20th century</subject>
+      <subject source="lcsh">Financial statements</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref115_3f8" level="series">
+        <did>
+          <unittitle>Local 14</unittitle>
+          <unitid>ibt0049 series 1</unitid>
+        </did>
+        <scopecontent id="aspace_58d84ab4b693afb24431301c008c09aa">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues, cash and day books of IBT Local 14.</p>
+        </scopecontent>
+        <c id="aspace_ref1_pez" level="file">
+          <did>
+            <unittitle>Local 14: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1945/1953" type="inclusive">1945-1953</unitdate>
+            <container id="aspace_8870e654386d6f6da16d216fa5debd7c" label="Mixed Materials [32882020897842]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref2_dm0" level="file">
+          <did>
+            <unittitle>Local 14: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1946/1952" type="inclusive">1946-1952</unitdate>
+            <container id="aspace_8d1bc058b8d2a65bb9e8f82f22939bc0" label="Mixed Materials [32882020897859]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref3_ztz" level="file">
+          <did>
+            <unittitle>Local 14: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate>
+            <container id="aspace_e3e670732ff0c5b96e48402d4aa11132" label="Mixed Materials [32882020897867]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref4_0rm" level="file">
+          <did>
+            <unittitle>Local 14: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1945/1948" type="inclusive">1945-1948</unitdate>
+            <container id="aspace_33a920bf1463e304ee4cbe317d49f060" label="Mixed Materials [32882020897875]" type="Box">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref124_jy4" level="series">
+        <did>
+          <unittitle>Local 50</unittitle>
+          <unitid>ibt0049 series 2</unitid>
+          <unitdate datechar="creation" normal="1898/1912" type="inclusive">1898-1912</unitdate>
+        </did>
+        <scopecontent id="aspace_987ecc5c0c1b4920eee1d1383a859e2d">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 50.</p>
+        </scopecontent>
+        <c id="aspace_ref125_20w" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1898/1899" type="inclusive">1898</unitdate>
+            <container id="aspace_3c6a6344739b6b12a7516485bdc37a93" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_ef2fa196486598a400d487eb9974eabf" parent="aspace_3c6a6344739b6b12a7516485bdc37a93" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_tpu" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1898/1900" type="inclusive">1898-1900</unitdate>
+            <container id="aspace_5bc61915799dab074d74106048e2e153" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_3795b8ef5644906024dbcfb78b79fedf" parent="aspace_5bc61915799dab074d74106048e2e153" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref142_c8n" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1898/1901" type="inclusive">1898-1901</unitdate>
+            <container id="aspace_d2a47c936f17339e772bb8bdf3b80fbf" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_c902da1c6cca278470524b294ebcdfc7" parent="aspace_d2a47c936f17339e772bb8bdf3b80fbf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_m9t" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1904/1905" type="inclusive">1904-1905</unitdate>
+            <container id="aspace_8bbf7209949b4afdfe8e8277de32567e" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_2b22ded46ac478a6b1b5507df8f90f7a" parent="aspace_8bbf7209949b4afdfe8e8277de32567e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref144_hck" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1906/1907" type="inclusive">1906-1907</unitdate>
+            <container id="aspace_03c93d1d70d80ecdbe2695f70c6075b3" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_29f6f7c0d04eacaac21b848fb57a9150" parent="aspace_03c93d1d70d80ecdbe2695f70c6075b3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_c5y" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1908/1909" type="inclusive">1908-1909</unitdate>
+            <container id="aspace_360793682bcb6e0d09d18404fed387fa" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_c451f4044d6e0555ab0d85260e9370ee" parent="aspace_360793682bcb6e0d09d18404fed387fa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref146_ckp" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1910/1912" type="inclusive">1910-1912</unitdate>
+            <container id="aspace_58d896c6a6ebb3759178972c8f573074" label="Mixed Materials [32882021232593]" type="Box">64A</container>
+            <container id="aspace_e32f5082130cdfa70ae128c58850d530" parent="aspace_58d896c6a6ebb3759178972c8f573074" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref153_3hh" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1913/1914" type="inclusive">1913-1914</unitdate>
+            <container id="aspace_572a3e9a03de9a0eb70388c00248d241" label="Mixed Materials [32882021232601]" type="Box">65A</container>
+            <container id="aspace_ddadfce4882c541b284dc581bc767cd4" parent="aspace_572a3e9a03de9a0eb70388c00248d241" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref154_16u" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1915/1916" type="inclusive">1915 - 1916</unitdate>
+            <container id="aspace_253356f80bfd021be9bf541bb7fa64d0" label="Mixed Materials [32882021232601]" type="Box">65A</container>
+            <container id="aspace_8f9bf59d41efcc7281f66d9397ad06a6" parent="aspace_253356f80bfd021be9bf541bb7fa64d0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref158_apx" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1917/1918" type="inclusive">1917 -1918</unitdate>
+            <container id="aspace_32edd417ac9ea2f74d2d7b222807ae13" label="Mixed Materials [32882021232619]" type="Box">66A</container>
+            <container id="aspace_8734ae03b1d387430e5333cc997b0373" parent="aspace_32edd417ac9ea2f74d2d7b222807ae13" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_j89" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1917/1922" type="inclusive">1917 - 1922 </unitdate>
+            <container id="aspace_ba774592d73dbe76942a34460f60d795" label="Mixed Materials [32882021232619]" type="Box">66A</container>
+            <container id="aspace_aed6080359e7f888f60657a16898823e" parent="aspace_ba774592d73dbe76942a34460f60d795" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref157_ded" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1923/1926" type="inclusive">1923 -1926</unitdate>
+            <container id="aspace_600fa163c8b85926855ff37d600d7ce7" label="Mixed Materials [32882021232627]" type="Box">67A</container>
+            <container id="aspace_41024acbefc3d8ede0c5c7a688691880" parent="aspace_600fa163c8b85926855ff37d600d7ce7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref156_49t" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1927/1930" type="inclusive">1927-1930</unitdate>
+            <container id="aspace_d8e198fda9f4951787fb352a501b2e1b" label="Mixed Materials [32882021232627]" type="Box">67A</container>
+            <container id="aspace_6bf157bb6fcce6b3bb1a7d823c0a1aa8" parent="aspace_d8e198fda9f4951787fb352a501b2e1b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_443" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1931/1934" type="inclusive">1931-1934</unitdate>
+            <container id="aspace_96a85aa84a11966210611ece1a62714a" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_7e389ed78f5df35c8eccbdd0251d6b27" parent="aspace_96a85aa84a11966210611ece1a62714a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref160_s2c" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935 - 1937</unitdate>
+            <container id="aspace_0beb7c3f947569e6b4bfdb98daaf52bc" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_af899da7411678d5e9cfd77f5eaa801d" parent="aspace_0beb7c3f947569e6b4bfdb98daaf52bc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref161_v1k" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_db58a8d8e5de37913664a78aa389bce4" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_880c94390183bf0a7276f4b1bba22b66" parent="aspace_db58a8d8e5de37913664a78aa389bce4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref162_2c6" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1938/1939" type="inclusive">1938 - 1939 </unitdate>
+            <container id="aspace_0a5fd7851be05a489a58ee94c954930f" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_82dbe2f27aac4ab71a1bb2f7a3b0eead" parent="aspace_0a5fd7851be05a489a58ee94c954930f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_gs0" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_72e445996da30f2e885996c34f34a566" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_8cc1b597af8affa54f7e7b8a0fdf187f" parent="aspace_72e445996da30f2e885996c34f34a566" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref164_w4h" level="file">
+          <did>
+            <unittitle>Local 50: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_368f11cafb8d527578aac1dcdfc3a243" label="Mixed Materials [32882021235901]" type="Box">68A</container>
+            <container id="aspace_022dec57ae30f52b68e8029f7b866fd7" parent="aspace_368f11cafb8d527578aac1dcdfc3a243" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref116_8ih" level="series">
+        <did>
+          <unittitle>Local 366</unittitle>
+          <unitid>ibt0049 series 3</unitid>
+        </did>
+        <scopecontent id="aspace_92963a8041a75f655975533712e61274">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues ledgers and minute books of IBT Local 366.</p>
+        </scopecontent>
+        <c id="aspace_ref5_h19" level="file">
+          <did>
+            <unittitle>Local 366: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1957" type="inclusive">1941-1957</unitdate>
+            <container id="aspace_5863961d6c26d58ff54194a6434c5e16" label="Mixed Materials [32882020897883]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref6_6p5" level="file">
+          <did>
+            <unittitle>Local 366: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1950" type="inclusive">1947-1950</unitdate>
+            <container id="aspace_2401fc3fc6d0009e9810861cdc4634a5" label="Mixed Materials [32882020897891]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref7_981" level="file">
+          <did>
+            <unittitle>Local 366: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1951/1954" type="inclusive">1951-1954</unitdate>
+            <container id="aspace_e24069d4e74cd775d0a80c4bc317b2d1" label="Mixed Materials [32882020897909]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref8_yqm" level="file">
+          <did>
+            <unittitle>Local 366: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate>
+            <container id="aspace_b56e90b7db856150352f9a2af3fd1192" label="Mixed Materials [32882020897917]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref9_cie" level="file">
+          <did>
+            <unittitle>Local 366: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1bce4c34eea81a8bc191193626513796" label="Mixed Materials [32882020897925]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref10_gy5" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1933/1938" type="inclusive">1933-1938</unitdate>
+            <container id="aspace_4c9fbadf86819e3e6b9d1f9083afd9e2" label="Mixed Materials [32882020897933]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref11_mk6" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1939/1942" type="inclusive">1939-1942</unitdate>
+            <container id="aspace_4cf1e3708ccb27e918c39e0db8a8ca6d" label="Mixed Materials [32882020897941]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref12_rdt" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1943/1946" type="inclusive">1943-1946</unitdate>
+            <container id="aspace_9d8447f5c199520f66ea9708d4167961" label="Mixed Materials [32882020897958]" type="Box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_baw" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_7219b06c347993626d90a05d5b3db64b" label="Mixed Materials [32882020897966]" type="Box">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_yhg" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_8049e690d0c848a93a138c0fdcd8035a" label="Mixed Materials [32882020897974]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_0fh" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <container id="aspace_edb037757b4436de549263f994588a7f" label="Mixed Materials [32882020897982]" type="Box">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_5yp" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_93bb463d03ad3d31878fda46502b5a3f" label="Mixed Materials [32882020897990]" type="Box">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_elk" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1953/1956" type="inclusive">1953-1956</unitdate>
+            <container id="aspace_c5e46f41d407bc90b2890d015058ea4a" label="Mixed Materials [32882020898006]" type="Box">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_4nl" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate>
+            <container id="aspace_64c068b741ef279ecd6f4e8dd27a7db4" label="Mixed Materials [32882020898014]" type="Box">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_enm" level="file">
+          <did>
+            <unittitle>Local 366: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate>
+            <container id="aspace_1114b103172289bf692f50eaf362cff4" label="Mixed Materials [32882020898022]" type="Box">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_pke" level="file">
+          <did>
+            <unittitle>Local 366: Minute books</unittitle>
+            <unitdate datechar="creation" normal="1933/1936" type="inclusive">1933-1936</unitdate>
+            <container id="aspace_c10113b1c99665d5679f2c58080d0db8" label="Mixed Materials [32882020900414]" type="Box">65</container>
+            <container id="aspace_30ef77250bb4108448b8d4615ed5a10b" parent="aspace_c10113b1c99665d5679f2c58080d0db8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_ylk" level="file">
+          <did>
+            <unittitle>Local 366: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
+            <container id="aspace_bfee66108124a694da3f9a51d7982c56" label="Mixed Materials [32882020900414]" type="Box">65</container>
+            <container id="aspace_7bd1c14b2e7854e6bf55d64f6ffbd08c" parent="aspace_bfee66108124a694da3f9a51d7982c56" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_vd9" level="file">
+          <did>
+            <unittitle>Local 366: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate>
+            <container id="aspace_0bbd0b90b10fa30bc0676450ebf8dd87" label="Mixed Materials [32882020900414]" type="Box">65</container>
+            <container id="aspace_0adc6279abd1e2dfd9ede9d73ea0123a" parent="aspace_0bbd0b90b10fa30bc0676450ebf8dd87" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_goq" level="file">
+          <did>
+            <unittitle>Local 366: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1945" type="inclusive">1941-1945</unitdate>
+            <container id="aspace_fb1c273c0c8fe7d99b1e69d4a1f2d27a" label="Mixed Materials [32882020900414]" type="Box">65</container>
+            <container id="aspace_a2bef7909b79b857caf00464e7b6cf25" parent="aspace_fb1c273c0c8fe7d99b1e69d4a1f2d27a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_3le" level="file">
+          <did>
+            <unittitle>Local 366: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1945/1948" type="inclusive">1945-1948</unitdate>
+            <container id="aspace_5d80d7a1aee39c82f7ecd6df4dac5f17" label="Mixed Materials [32882020900414]" type="Box">65</container>
+            <container id="aspace_227e95cc343eb0bba1f054a322a04e1f" parent="aspace_5d80d7a1aee39c82f7ecd6df4dac5f17" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref229_unr" level="file">
+          <did>
+            <unittitle>Local 336: </unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_29cd512113c53aa766f0e462b4c72e2a" label="Mixed Materials [32882021235620]" type="Box">84</container>
+            <container id="aspace_339cc94e2845b88f2fdc60540bf8b262" parent="aspace_29cd512113c53aa766f0e462b4c72e2a" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref117_0in" level="series">
+        <did>
+          <unittitle>Local 392</unittitle>
+          <unitid>ibt0049 series 4</unitid>
+        </did>
+        <scopecontent id="aspace_3a5383083e45946b57f0161be674cff5">
+          <head>Scope and Contents</head>
+          <p>This series consists of a membership dues ledger for IBT Local 392.</p>
+        </scopecontent>
+        <c id="aspace_ref108_g2k" level="file">
+          <did>
+            <unittitle>Local 392: Membership Ledger</unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">February-April 1913</unitdate>
+            <container id="aspace_0a111bd6c304cf59157a17e03e400d23" label="Mixed Materials [32882020904432]" type="Box">71</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref118_l13" level="series">
+        <did>
+          <unittitle>Local 572</unittitle>
+          <unitid>ibt0049 series 5</unitid>
+        </did>
+        <scopecontent id="aspace_c7a0427d2522775f538351029603303d">
+          <head>Scope and Contents</head>
+          <p>This series consists of cash books for IBT Local 572.</p>
+        </scopecontent>
+        <c id="aspace_ref104_3rd" level="file">
+          <did>
+            <unittitle>Local 572: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1950/1953" type="inclusive">January 1950 to December 1953</unitdate>
+            <container id="aspace_8601bc105dc3e6a8df0636ef4c770859" label="Mixed Materials [32882020904358]" type="Box">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_med" level="file">
+          <did>
+            <unittitle>Local 572: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1956/1960" type="inclusive">January 1956 to December 1960</unitdate>
+            <container id="aspace_3c0c7bc767c6958db6ed3990855a974a" label="Mixed Materials [32882020904440]" type="Box">69</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref119_l6i" level="series">
+        <did>
+          <unittitle>Local 606</unittitle>
+          <unitid>ibt0049 series 6</unitid>
+        </did>
+        <scopecontent id="aspace_6c751265d15c6da843adca28c662dca3">
+          <head>Scope and Contents</head>
+          <p>This series consists of cash, day, dues and initiation books for IBT Local 606.</p>
+        </scopecontent>
+        <c id="aspace_ref20_ld2" level="file">
+          <did>
+            <unittitle>Local 606: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1913/1939" type="inclusive">1913-1939</unitdate>
+            <container id="aspace_402413805a551a7fb519a1c7de57d7e2" label="Mixed Materials [32882020898030]" type="Box">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_zsv" level="file">
+          <did>
+            <unittitle>Local 606: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1939/1950" type="inclusive">1939-1950</unitdate>
+            <container id="aspace_fb08668e3143e470be511f5d82e696d1" label="Mixed Materials [32882020898048]" type="Box">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_1s5" level="file">
+          <did>
+            <unittitle>Local 606: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1938/1941" type="inclusive">1938-1941</unitdate>
+            <container id="aspace_db28ac3b1b0b79bd8cbedd366eb6f0c5" label="Mixed Materials [32882020898055]" type="Box">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_udj" level="file">
+          <did>
+            <unittitle>Local 606: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1942/1945" type="inclusive">1942-1945</unitdate>
+            <container id="aspace_18e231706ecfbfcdf0123566b34a807d" label="Mixed Materials [32882020898063]" type="Box">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_knv" level="file">
+          <did>
+            <unittitle>Local 606: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1945/1948" type="inclusive">1945-1948</unitdate>
+            <container id="aspace_aedb77896a74a398bdf3ae3f6119e199" label="Mixed Materials [32882020898071]" type="Box">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_hal" level="file">
+          <did>
+            <unittitle>Local 606: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+            <container id="aspace_360e00f362849a043bdde4c15d0be2d6" label="Mixed Materials [32882020898089]" type="Box">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_nr8" level="file">
+          <did>
+            <unittitle>Local 606: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container id="aspace_822f8575291a006c457ea3c860bd027d" label="Mixed Materials [32882020898097]" type="Box">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_cj5" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <container id="aspace_667ebfbe268587a2255147dc0145b785" label="Mixed Materials [32882020898105]" type="Box">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_qm3" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929-1932</unitdate>
+            <container id="aspace_7147406e2b354932d78b4a77e7e65f88" label="Mixed Materials [32882020898113]" type="Box">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_hpa" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_f3551c090b7113cd3c12ff399097de89" label="Mixed Materials [32882020898121]" type="Box">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_fg0" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+            <container id="aspace_87046f88b26a2cdf390e22ed84faa753" label="Mixed Materials [32882020898139]" type="Box">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_qw5" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1933/1936" type="inclusive">1933-1936</unitdate>
+            <container id="aspace_f352df5a08d5299ec5ae15cae91cb516" label="Mixed Materials [32882020898147]" type="Box">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_ccs" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1935/1938" type="inclusive">1935-1938</unitdate>
+            <container id="aspace_f5f2607438b154fbc37546768bb03930" label="Mixed Materials [32882020898154]" type="Box">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_3z5" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1937/1940" type="inclusive">1937-1940</unitdate>
+            <container id="aspace_6a22ee8a666bcdefeee02f6b09956c58" label="Mixed Materials [32882020898162]" type="Box">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_pkl" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1944" type="inclusive">1941-1944</unitdate>
+            <container id="aspace_f80843ff43d7659b14c9b0fac2db711d" label="Mixed Materials [32882020898170]" type="Box">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_tqo" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_2f5d93190ba1d7ea802a7f230aef706c" label="Mixed Materials [32882020898188]" type="Box">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_mor" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_241036271bad408a3023a246e9ec4c18" label="Mixed Materials [32882020898196]" type="Box">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_cri" level="file">
+          <did>
+            <unittitle>Local 606: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_8407705aebc6d826d1f775f09aa120ca" label="Mixed Materials [32882020898204]" type="Box">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_apv" level="file">
+          <did>
+            <unittitle>Local 606: Member Directory</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_94601bbd25d7f82df79eee9c9d20ad23" label="Mixed Materials [32882020898212]" type="Box">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref225_jrt" level="file">
+          <did>
+            <unittitle>Local 606: Member Dues and Ledgers Book</unittitle>
+            <unitdate datechar="creation" normal="1937/1949" type="inclusive">1937 - 1949</unitdate>
+            <container id="aspace_f26a0abb90c048fd52d6be1fe777f152" label="Mixed Materials [32882021235844]" type="Box">82</container>
+            <container id="aspace_2397295bf4677b1968d6709c5c85a51f" parent="aspace_f26a0abb90c048fd52d6be1fe777f152" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref241_6y8" level="file">
+          <did>
+            <unittitle>Local 606: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_0ec24ff36906dbf47cc6fde41425f5be" label="Mixed Materials [32882021235885]" type="Box">86</container>
+            <container id="aspace_f0070d2d97074d830ba1aba3a3f4ccaa" parent="aspace_0ec24ff36906dbf47cc6fde41425f5be" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref120_p33" level="series">
+        <did>
+          <unittitle>Local 682</unittitle>
+          <unitid>ibt0049 series 7</unitid>
+        </did>
+        <scopecontent id="aspace_b2bbffe1dc9dab6e011dad793d46dd8c">
+          <head>Scope and Contents</head>
+          <p>This series consists of cash, day, dues and minute books for IBT Local 682.</p>
+        </scopecontent>
+        <c id="aspace_ref40_yqu" level="file">
+          <did>
+            <unittitle>Local 682: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1952/1954" type="inclusive">1952-1954</unitdate>
+            <container id="aspace_c807d1aff6c4465a7049dc925c816c68" label="Mixed Materials [32882020898238]" type="Box">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_wtx" level="file">
+          <did>
+            <unittitle>Local 682: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_77a015c417a183c28f248f7b8bf5b189" label="Mixed Materials [32882020898246]" type="Box">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_lp2" level="file">
+          <did>
+            <unittitle>Local 682: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_12aa5e5f9dd66036456e82e39ada4cf4" label="Mixed Materials [32882020898253]" type="Box">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_1vw" level="file">
+          <did>
+            <unittitle>Local 682: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+            <container id="aspace_c08facb81afcac38a45aab8bdc6ee6a2" label="Mixed Materials [32882020898279]" type="Box">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_fjg" level="file">
+          <did>
+            <unittitle>Local 682: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1952/1954" type="inclusive">1952-1954</unitdate>
+            <container id="aspace_69203de24b3e62aad4820257f5c50de0" label="Mixed Materials [32882020898261]" type="Box">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_w7m" level="file">
+          <did>
+            <unittitle>Local 682: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <container id="aspace_5480a8b488040737d8dd41567f2f4368" label="Mixed Materials [32882020898287]" type="Box">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_eju" level="file">
+          <did>
+            <unittitle>Local 682: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_ab7007d9a9f6cfeef9cfc6dc8e05aea3" label="Mixed Materials [32882020898295]" type="Box">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_jrz" level="file">
+          <did>
+            <unittitle>Local 682: Member Directory</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4ad326b69fe0c61d7f0198879a188cad" label="Mixed Materials [32882020898303]" type="Box">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_hs0" level="file">
+          <did>
+            <unittitle>Local 682: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1926/1929" type="inclusive">February 1926-September 1929</unitdate>
+            <container id="aspace_9404bfd8def97a0b94679d8ab03ecfda" label="Mixed Materials [32882020900380]" type="Box">64</container>
+            <container id="aspace_3f2ab1c0acf57d107a390f152fb96400" parent="aspace_9404bfd8def97a0b94679d8ab03ecfda" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_p6s" level="file">
+          <did>
+            <unittitle>Local 682: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1963/1972" type="inclusive">November 1963-November 1972</unitdate>
+            <container id="aspace_6a6829c2f5f7c5fd6280265253717bb6" label="Mixed Materials [32882020900380]" type="Box">64</container>
+            <container id="aspace_18b383db98ad28bde452714fe9c76eb3" parent="aspace_6a6829c2f5f7c5fd6280265253717bb6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_wwr" level="file">
+          <did>
+            <unittitle>Local 682: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1973/1976" type="inclusive">January 1973-May 1976</unitdate>
+            <container id="aspace_049e8d4abdd6622873e8ba9a828e39aa" label="Mixed Materials [32882020900380]" type="Box">64</container>
+            <container id="aspace_d6e2aa8867dc31b62e244a3ccb7d7dad" parent="aspace_049e8d4abdd6622873e8ba9a828e39aa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_mua" level="file">
+          <did>
+            <unittitle>Local 682: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">September 1982</unitdate>
+            <container id="aspace_7092064b80715ff515000748331d3526" label="Mixed Materials [32882020900380]" type="Box">64</container>
+            <container id="aspace_00d22e4e7ffc8948e409c70ae12d96d0" parent="aspace_7092064b80715ff515000748331d3526" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_z70" level="file">
+          <did>
+            <unittitle>Local 682: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <container id="aspace_2b37a28bfe70ffe16050a7ab7e89c6ec" label="Mixed Materials [32882020898220]" type="Box">39</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref121_a33" level="series">
+        <did>
+          <unittitle>Local 700</unittitle>
+          <unitid>ibt0049 series 8</unitid>
+        </did>
+        <scopecontent id="aspace_231925ee0bd3dffa38358c0a49fe6f1e">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues, expense, minute and welfare books for IBT Local 700.</p>
+        </scopecontent>
+        <c id="aspace_ref48_p9c" level="file">
+          <did>
+            <unittitle>Local 700: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1936/1952" type="inclusive">1936-1952</unitdate>
+            <container id="aspace_0a2ca56781b36893b6a6e671e04de494" label="Mixed Materials [32882020898311]" type="Box">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_k63" level="file">
+          <did>
+            <unittitle>Local 700: Cash Books</unittitle>
+            <unitdate datechar="creation" normal="1952/1961" type="inclusive">1952-1961</unitdate>
+            <container id="aspace_63b8d6d6af629cc3f14fc9fd3b5e9bb9" label="Mixed Materials [32882020898329]" type="Box">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_564" level="file">
+          <did>
+            <unittitle>Local 700: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1954/1959" type="inclusive">1954-1959</unitdate>
+            <container id="aspace_08084b4302ae433131c7c2bd72bb1946" label="Mixed Materials [32882020898337]" type="Box">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_ipy" level="file">
+          <did>
+            <unittitle>Local 700: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1959/1964" type="inclusive">1959-1964</unitdate>
+            <container id="aspace_a6269c5ff0bd68ae863c057915907f0c" label="Mixed Materials [32882020898345]" type="Box">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_du5" level="file">
+          <did>
+            <unittitle>Local 700: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1964/1969" type="inclusive">1964-1969</unitdate>
+            <container id="aspace_bd3324b47d47c65126926dafc877f85a" label="Mixed Materials [32882020898352]" type="Box">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_qy1" level="file">
+          <did>
+            <unittitle>Local 700: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+            <container id="aspace_a21bba2235056f223704e1e11f1a2034" label="Mixed Materials [32882020898360]" type="Box">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_ujp" level="file">
+          <did>
+            <unittitle>Local 700: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_f6645852d1bba25e84bf794708be1436" label="Mixed Materials [32882020898378]" type="Box">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_aby" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1919/1923" type="inclusive">1919-1923</unitdate>
+            <container id="aspace_9af5e4d5048eea8a699e1585abd88c37" label="Mixed Materials [32882020898386]" type="Box">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_0fg" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1928/1930" type="inclusive">1928-1930</unitdate>
+            <container id="aspace_55baa6e4cb1be3a46c357230af854a5e" label="Mixed Materials [32882020898394]" type="Box">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_pi4" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1931/1936" type="inclusive">1931-1936</unitdate>
+            <container id="aspace_1a57065804aa8043dd5c5e39907c3604" label="Mixed Materials [32882020898402]" type="Box">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_ol1" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1937/1942" type="inclusive">1937-1942</unitdate>
+            <container id="aspace_4f9b2a33c65b761343090d66c8d0900b" label="Mixed Materials [32882020898410]" type="Box">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_k7h" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1943/1946" type="inclusive">1943-1946</unitdate>
+            <container id="aspace_304477946314d9e11d3d95efea2e7995" label="Mixed Materials [32882020898428]" type="Box">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_u45" level="file">
+          <did>
+            <unittitle>Local 700: Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_b47f084cb2971b71acc89cb309c67b76" label="Mixed Materials [32882020898436]" type="Box">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_u2j" level="file">
+          <did>
+            <unittitle>Local 700: Expense Books</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_612409694601c49a50fc3421c2836f7f" label="Mixed Materials [32882020898444]" type="Box">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_kv9" level="file">
+          <did>
+            <unittitle>Local 700 Membership Ledger</unittitle>
+            <unitdate datechar="creation" normal="1969/1975" type="inclusive">November 1969-January 1975</unitdate>
+            <container id="aspace_2a8bc86f7148a4677644b7f79271e0a4" label="Mixed Materials [32882020900463]" type="Box">68</container>
+            <container id="aspace_778c8c378a105e5b71b1a07e36d51079" parent="aspace_2a8bc86f7148a4677644b7f79271e0a4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_8g5" level="file">
+          <did>
+            <unittitle>Local 700 Membership Ledger</unittitle>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_614c70cf32737887c950e59f7cd70236" label="Mixed Materials [32882020900463]" type="Box">68</container>
+            <container id="aspace_d84e72c3aa032d9ffbb240611edf05b4" parent="aspace_614c70cf32737887c950e59f7cd70236" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_hoe" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1929/1933" type="inclusive">September1929-February 1933</unitdate>
+            <container id="aspace_8ee282c4dbb1e5cbd85613a3c4d7be8b" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_1d7ff5c537d2c97436a06329efb1e912" parent="aspace_8ee282c4dbb1e5cbd85613a3c4d7be8b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_g07" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1936/1941" type="inclusive">September 1936-July 1941</unitdate>
+            <container id="aspace_fda72ef4668aff1db5e6976d998f6505" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_cd1c8973a58b9b902dd5e7f63953305d" parent="aspace_fda72ef4668aff1db5e6976d998f6505" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_7cn" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1933/1936" type="inclusive">February 1933-September 1936</unitdate>
+            <container id="aspace_506898dd2bf3cba8dbb7d29344c73a7e" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_301ac1a94fe5e72371ef922cfbe7f42b" parent="aspace_506898dd2bf3cba8dbb7d29344c73a7e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_m7m" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1937/1944" type="inclusive">July 1937-February 1944</unitdate>
+            <container id="aspace_51a6226eb05d973922a0d565eaeed702" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_4d677408257be1d7ea09391da7a03fc4" parent="aspace_51a6226eb05d973922a0d565eaeed702" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_9za" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1941/1947" type="inclusive">August 1941-1947</unitdate>
+            <container id="aspace_6b0debbec377dfc0af2b17ae4adffb09" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_d2e0f26f8177775666b7dc16e5a9398f" parent="aspace_6b0debbec377dfc0af2b17ae4adffb09" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_nwk" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1947/1955" type="inclusive">1947-1955</unitdate>
+            <container id="aspace_a63e7803c2230b2da9d08cabd22c21d0" label="Mixed Materials [32882020900398]" type="Box">66</container>
+            <container id="aspace_a9132aad99584e1233f61cf79c2586e3" parent="aspace_a63e7803c2230b2da9d08cabd22c21d0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_5fn" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation">January 1961-August 1964</unitdate>
+            <container id="aspace_45f29cdeb23ffa36644faaed5b435000" label="Mixed Materials [32882020903087]" type="Box">67</container>
+            <container id="aspace_74e7c98e8b9749bc95a08da09cdf99a1" parent="aspace_45f29cdeb23ffa36644faaed5b435000" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_biw" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1964/1968" type="inclusive">September1964-December 1968</unitdate>
+            <container id="aspace_30570d97970b1ed8d9c89042169d0d23" label="Mixed Materials [32882020903087]" type="Box">67</container>
+            <container id="aspace_784a531672f1d87be053b07b4d033ff8" parent="aspace_30570d97970b1ed8d9c89042169d0d23" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_fbj" level="file">
+          <did>
+            <unittitle>Local 700: Minute Books</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate>
+            <container id="aspace_d69ca348e092eac60b1ef382f028620c" label="Mixed Materials [32882020903087]" type="Box">67</container>
+            <container id="aspace_34687974eedfa1e2546f48af5c462b0e" parent="aspace_d69ca348e092eac60b1ef382f028620c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_irt" level="file">
+          <did>
+            <unittitle>Local 700: Welfare Books</unittitle>
+            <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container id="aspace_78e23c234897ec012f57eab6e650b616" label="Mixed Materials [32882020898451]" type="Box">62</container>
+            <container id="aspace_ec8d16c3285b1c795052a4b6a846f0f6" parent="aspace_78e23c234897ec012f57eab6e650b616" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_ink" level="file">
+          <did>
+            <unittitle>Local 700: Welfare Books</unittitle>
+            <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container id="aspace_dad0c5e3bddac60f71ee71c4f9c8710c" label="Mixed Materials [32882020898451]" type="Box">62</container>
+            <container id="aspace_e8498e99d785085a5f9fdab10ea28f5b" parent="aspace_dad0c5e3bddac60f71ee71c4f9c8710c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_mn0" level="file">
+          <did>
+            <unittitle>Local 700: Welfare Books</unittitle>
+            <unitdate datechar="creation" normal="1958/1962" type="inclusive">1958-1962</unitdate>
+            <container id="aspace_145281e81b21edb0a804f65ac792dd72" label="Mixed Materials [32882020898451]" type="Box">62</container>
+            <container id="aspace_1bd3b5c948f2f199a7488e5785fb338f" parent="aspace_145281e81b21edb0a804f65ac792dd72" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_bki" level="file">
+          <did>
+            <unittitle>Local 700: Welfare Books</unittitle>
+            <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+            <container id="aspace_a19fb025d57bb872f0643c431d0f0c04" label="Mixed Materials [32882020898451]" type="Box">62</container>
+            <container id="aspace_4c9f638b01c5b1001269666224589997" parent="aspace_a19fb025d57bb872f0643c431d0f0c04" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_68d" level="file">
+          <did>
+            <unittitle>Local 700: Welfare Books</unittitle>
+            <unitdate datechar="creation" normal="1966/1975" type="inclusive">1966-1975</unitdate>
+            <container id="aspace_4259839b2f032e18266d98bcc2313bea" label="Mixed Materials [32882020898451]" type="Box">62</container>
+            <container id="aspace_ade6117a813c7cb1c06fef3b7070fded" parent="aspace_4259839b2f032e18266d98bcc2313bea" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref230_7b0" level="file">
+          <did>
+            <unittitle>Local 700: Minute Book </unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_ffdf9c4351bafe81be82d290d5334cf6" label="Mixed Materials [32882021235620]" type="Box">84</container>
+            <container id="aspace_e63b4c1303a8b2ad1d156aa070ed92d4" parent="aspace_ffdf9c4351bafe81be82d290d5334cf6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref232_v8u" level="file">
+          <did>
+            <unittitle>Local 700: </unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_5700d813b202ca0061d21027862bf8d8" label="Mixed Materials [32882021235620]" type="Box">84</container>
+            <container id="aspace_d8888639e70dfb0a5326d8398482d452" parent="aspace_5700d813b202ca0061d21027862bf8d8" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref122_1u6" level="series">
+        <did>
+          <unittitle>Local 864</unittitle>
+          <unitid>ibt0049 series 9</unitid>
+        </did>
+        <scopecontent id="aspace_73a8104e164d7ea0838ef93700ac7a9f">
+          <head>Scope and Contents</head>
+          <p>This seriess consists of day books for IBT Local 864.</p>
+        </scopecontent>
+        <c id="aspace_ref63_is8" level="file">
+          <did>
+            <unittitle>Local 864: Day Books</unittitle>
+            <unitdate datechar="creation" normal="1957/1960" type="inclusive">1957-1960</unitdate>
+            <container id="aspace_754ee3e5f4d30d6f7b2e9cb189473e9c" label="Mixed Materials [32882020898469]" type="Box">63</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref149_ozp" level="series">
+        <did>
+          <unittitle>Local 576</unittitle>
+          <unitid>ibt0049 series 10</unitid>
+          <unitdate datechar="creation" normal="1925/1946" type="inclusive">1925-1944, 1946</unitdate>
+        </did>
+        <scopecontent id="aspace_cd97e93317a5f451c7cc2308aaa8cc62">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 576.</p>
+        </scopecontent>
+        <c id="aspace_ref150_e6z" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitid>Series 10</unitid>
+            <unitdate datechar="creation" normal="1925/1931" type="inclusive">1925 -1931</unitdate>
+            <container id="aspace_815d8dfd187f3ca1e72a3608f85df651" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_972a5f2cdfd4cdf6b239666df289f7b7" parent="aspace_815d8dfd187f3ca1e72a3608f85df651" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref178_kh6" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1931/1934" type="inclusive">1931-1934</unitdate>
+            <container id="aspace_f851acf89ec8fae39feaa0a982d95065" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_90f0f89cb0feef3afa677c5b515b305a" parent="aspace_f851acf89ec8fae39feaa0a982d95065" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_r9o" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1935/1938" type="inclusive">1935 - 1938</unitdate>
+            <container id="aspace_7206cfede762ea6b5301c705482f1e15" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_17bf8d4e134e82042b68ddc4490c1378" parent="aspace_7206cfede762ea6b5301c705482f1e15" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref180_5q1" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1939/1941" type="inclusive">1939 - 1941</unitdate>
+            <container id="aspace_0127b4e24b45f3c852eb5ef835bd44af" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_d72d13df8318c3fad30ba493a08e2143" parent="aspace_0127b4e24b45f3c852eb5ef835bd44af" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_x8g" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1942/1944" type="inclusive">1942 - 1944</unitdate>
+            <container id="aspace_33ec80e8bb56bd6b162188de98dfd6c4" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_0577fdb145542274e1beb8ea65d54f61" parent="aspace_33ec80e8bb56bd6b162188de98dfd6c4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref182_bsd" level="file">
+          <did>
+            <unittitle>Local 576: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_8958e0c63fd7d22030ab8133edbda291" label="Mixed Materials [32882021236347]" type="Box">71A</container>
+            <container id="aspace_06c5ae72b489ba6bb3683b57200e4336" parent="aspace_8958e0c63fd7d22030ab8133edbda291" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref171_syw" level="series">
+        <did>
+          <unittitle>Local 3</unittitle>
+          <unitid>ibt0049 series 11</unitid>
+          <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940 -1941</unitdate>
+        </did>
+        <scopecontent id="aspace_39f8df077b3e30b6aad44227d0ffa2a9">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 3.</p>
+        </scopecontent>
+        <c id="aspace_ref173_ett" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_e10483076fd9c4fad3f8515c62e99cfc" label="Mixed Materials [32882021232643]" type="Box">69A</container>
+            <container id="aspace_fb6c3027ee6b67723650549d0c0e0a4f" parent="aspace_e10483076fd9c4fad3f8515c62e99cfc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref174_1im" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_bdb8ddf72f1176836a1e6a34c1e5e284" label="Mixed Materials [32882021232643]" type="Box">69A</container>
+            <container id="aspace_550ea44ae0d2aadb7f209b31e51a47a2" parent="aspace_bdb8ddf72f1176836a1e6a34c1e5e284" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_sq4" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_7a9ee149d332a95b9ac803b1edcb7d9d" label="Mixed Materials [32882021232643]" type="Box">69A</container>
+            <container id="aspace_c923c16d817f9a5740212ba8ef654dd9" parent="aspace_7a9ee149d332a95b9ac803b1edcb7d9d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_05n" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1935/1942" type="inclusive">1935-1942</unitdate>
+            <container id="aspace_0b053318201c4d5f69dfaa0b1bd6f8c6" label="Mixed Materials [32882021232650]" type="Box">70A</container>
+            <container id="aspace_d50a313f3955f4b199aba5c2c4783ac8" parent="aspace_0b053318201c4d5f69dfaa0b1bd6f8c6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref176_s5i" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_ac904b8d067bf6b79fa2e9ebacb08000" label="Mixed Materials [32882021232650]" type="Box">70A</container>
+            <container id="aspace_4ba3ac5da19cc7818098c41944e3b45e" parent="aspace_ac904b8d067bf6b79fa2e9ebacb08000" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref188_8om" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_2680ffabd17d9eec42f5b7c1a59efb9a" label="Mixed Materials [32882021232676]" type="Box">73A</container>
+            <container id="aspace_f3561481b3cc88a44e1ea3293563e112" parent="aspace_2680ffabd17d9eec42f5b7c1a59efb9a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_qxg" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_c13069383bf4f5d8c224ede9fa5e3c9d" label="Mixed Materials [32882021232676]" type="Box">73A</container>
+            <container id="aspace_a8d2eb1afdf29d3a9c51b99217cc6275" parent="aspace_c13069383bf4f5d8c224ede9fa5e3c9d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref190_gyn" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_bc1f312ca0ccd899a7ce97beb92cc3f0" label="Mixed Materials [32882021235661]" type="Box">74</container>
+            <container id="aspace_44d7acd297402229f33bfa3b7d00a420" parent="aspace_bc1f312ca0ccd899a7ce97beb92cc3f0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_2ob" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_6353cee06f6a1dbf06a615baec1ef80e" label="Mixed Materials [32882021235661]" type="Box">74</container>
+            <container id="aspace_d07544293f11e8b1531765725b863d20" parent="aspace_6353cee06f6a1dbf06a615baec1ef80e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref192_gqx" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_3524813b883bb80c412bcef014d33249" label="Mixed Materials [32882021235661]" type="Box">74</container>
+            <container id="aspace_43813b7eae6558166411846cf8d2e4f1" parent="aspace_3524813b883bb80c412bcef014d33249" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_6ah" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_3851ea354bd888a3dce88c91a944b2d6" label="Mixed Materials [32882021235653]" type="Box">75</container>
+            <container id="aspace_ab75f18d9928cb7e7d56fb925af0361f" parent="aspace_3851ea354bd888a3dce88c91a944b2d6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref194_88p" level="file">
+          <did>
+            <unittitle>Local 3: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_44de1a9aba9dd7dd4757a5bb700c3f7a" label="Mixed Materials [32882021235653]" type="Box">75</container>
+            <container id="aspace_cbb290cb8ce70d238523f9896da50d63" parent="aspace_44de1a9aba9dd7dd4757a5bb700c3f7a" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref183_xmc" level="series">
+        <did>
+          <unittitle>Local 729</unittitle>
+          <unitid>ibt0049 series 12</unitid>
+        </did>
+        <scopecontent id="aspace_f2e7ea07657997052f79da1b75381cc0">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 729.</p>
+        </scopecontent>
+        <c id="aspace_ref185_396" level="file">
+          <did>
+            <unittitle>Local 729: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <container id="aspace_18f67a9478ac24df1821249d7bfc263e" label="Mixed Materials [32882021232668]" type="Box">72</container>
+            <container id="aspace_302688f06e27f5c3e2b96a4d696cb214" parent="aspace_18f67a9478ac24df1821249d7bfc263e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref186_y77" level="file">
+          <did>
+            <unittitle>Local 729: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940 -1941 </unitdate>
+            <container id="aspace_3211886b7f91a941700955a92bd573b1" label="Mixed Materials [32882021232668]" type="Box">72</container>
+            <container id="aspace_6cf57f4ee21cbb75f812fef713ba507d" parent="aspace_3211886b7f91a941700955a92bd573b1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_x3y" level="file">
+          <did>
+            <unittitle>Local 729: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_79f041728324eedb8b281f88e475fd6a" label="Mixed Materials [32882021232668]" type="Box">72</container>
+            <container id="aspace_0fd21ea4caf9a566b2bba8d460b3453d" parent="aspace_79f041728324eedb8b281f88e475fd6a" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref195_eoc" level="series">
+        <did>
+          <unittitle>Local 269</unittitle>
+          <unitid>ibt0049 series 13</unitid>
+        </did>
+        <scopecontent id="aspace_082781793a62fe3d5953b2f42e2537cc">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 269.</p>
+        </scopecontent>
+        <c id="aspace_ref196_bor" level="file">
+          <did>
+            <unittitle>Local 269: Dues and initation books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947 - 1948</unitdate>
+            <container id="aspace_31efa3308d66cd2e8e661fe9a08d721b" label="Mixed Materials [32882021235646]" type="Box">76</container>
+            <container id="aspace_8500405195b14f79f2c901b4f9cfb251" parent="aspace_31efa3308d66cd2e8e661fe9a08d721b" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref197_8pw" level="series">
+        <did>
+          <unittitle>Unidentified Local </unittitle>
+          <unitid>ibt0049 series 14</unitid>
+        </did>
+        <scopecontent id="aspace_9a6ad839891e9b3dab6ca9a2afe1fa7d">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for an unidentified IBT local union.</p>
+        </scopecontent>
+        <c id="aspace_ref198_c6t" level="file">
+          <did>
+            <unittitle>Unidentified Local: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_bf8544a36f20548b84a1baf340f449af" label="Mixed Materials [32882021235646]" type="Box">76</container>
+            <container id="aspace_af314085058dd3067d319c3e3458bd11" parent="aspace_bf8544a36f20548b84a1baf340f449af" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref200_9kr" level="file">
+          <did>
+            <unittitle>Unidentified Local: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_598925e9a342d257e690a864cd2062fc" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_da6de7d235e96f7c48ece8e7ad3b21d4" parent="aspace_598925e9a342d257e690a864cd2062fc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_c1f7402f0a185dc022cb8ec32c167b3f" level="file">
+          <did>
+            <unittitle>Multiple Locals Ledger</unittitle>
+            <unitid>Series 14</unitid>
+            <unitdate datechar="creation" type="inclusive">1948</unitdate>
+            <container altrender="Flat box 13.25x3.25x11" id="aspace_5f6253fd15e0b90ffc9bf40098c6c81f" label="Mixed Materials [32882022379013]" type="Box">96</container>
+            <container id="aspace_6b557a1bed5940b1417e27f5975f4a9e" parent="aspace_5f6253fd15e0b90ffc9bf40098c6c81f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_845e172bb7a15e025cbdb5ad98d5517c" level="file">
+          <did>
+            <unittitle>Unidentified Local: Address Book</unittitle>
+            <unitid>Series 14</unitid>
+            <unitdate datechar="creation" type="inclusive">1947-1950</unitdate>
+            <container altrender="Flat box 13.25x3.25x11" id="aspace_43ec58f872ac3b09f647bf693335f555" label="Mixed Materials [32882022379013]" type="Box">96</container>
+            <container id="aspace_a9c21477ebd405d4182313a2e415106b" parent="aspace_43ec58f872ac3b09f647bf693335f555" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref201_m0j" level="series">
+        <did>
+          <unittitle>Local 410</unittitle>
+          <unitid>ibt0049 series 15</unitid>
+        </did>
+        <scopecontent id="aspace_8bc97143540d493f47be6ba9b66a0c4f">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 410.</p>
+        </scopecontent>
+        <c id="aspace_ref202_fdy" level="file">
+          <did>
+            <unittitle>Local 410: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_d1ddc8bfcb032e44d5c94b304ca3e6be" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_69a207f798efc877b92583c583dfd0de" parent="aspace_d1ddc8bfcb032e44d5c94b304ca3e6be" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref203_o1y" level="series">
+        <did>
+          <unittitle>Local 832</unittitle>
+          <unitid>ibt0049 series 16</unitid>
+        </did>
+        <scopecontent id="aspace_df77284fad33af0d110db4182bbc1da4">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 832.</p>
+        </scopecontent>
+        <c id="aspace_ref206_5ib" level="file">
+          <did>
+            <unittitle>Local 832: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937 -1938</unitdate>
+            <container id="aspace_cfa5a8d295803b7407737bff28f8d9d2" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_7b37d1f986fc64bbc1f227811a30fe95" parent="aspace_cfa5a8d295803b7407737bff28f8d9d2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref207_2rj" level="file">
+          <did>
+            <unittitle>Local 832: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1940/1942" type="inclusive">1940 - 1942</unitdate>
+            <container id="aspace_bb15fd6054658e832163c8d432a52c24" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_7dd88452fb7a24c228f549b7c0c33951" parent="aspace_bb15fd6054658e832163c8d432a52c24" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref208_6uv" level="series">
+        <did>
+          <unittitle>Local 191</unittitle>
+          <unitid>ibt0049 series 17</unitid>
+        </did>
+        <scopecontent id="aspace_5dde8c34bf20bfdace9ed2578796c178">
+          <head>Scope and Contents</head>
+          <p>This sweries consists of dues and initiation books for IBT Local 191.</p>
+        </scopecontent>
+        <c id="aspace_ref209_0vy" level="file">
+          <did>
+            <unittitle>Local 191: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1927/1930" type="inclusive">1927 - 1930</unitdate>
+            <container id="aspace_ca38d5f520a1beb89dc7aba54eb984af" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_986c70f0677c95d4f38eb5ddc0f8db47" parent="aspace_ca38d5f520a1beb89dc7aba54eb984af" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref210_akk" level="file">
+          <did>
+            <unittitle>Local 191: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+            <container id="aspace_0bc72062cd1cb71c4377a5a1ea36c4ad" label="Mixed Materials [32882021235638]" type="Box">77</container>
+            <container id="aspace_8d67fc8d6b0068789e52fba6436d1287" parent="aspace_0bc72062cd1cb71c4377a5a1ea36c4ad" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref211_wtk" level="series">
+        <did>
+          <unittitle>Local 198</unittitle>
+          <unitid>ibt0049 series 18</unitid>
+        </did>
+        <scopecontent id="aspace_defcee41340f1d0dbce7bf9b627717d1">
+          <head>Scope and Contents</head>
+          <p>This series consists of dues and initiation books for IBT Local 198.</p>
+        </scopecontent>
+        <c id="aspace_ref212_iw9" level="file">
+          <did>
+            <unittitle>Local 198: Dues and initiation books</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947 -1948</unitdate>
+            <container id="aspace_d950e330a292f9ab144aa1654cfdd994" label="Mixed Materials [32882021235869]" type="Box">78</container>
+            <container id="aspace_c3fca5b8d9b20e9a4a5cca8c15de942b" parent="aspace_d950e330a292f9ab144aa1654cfdd994" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref216_432" level="series">
+        <did>
+          <unittitle>Brewery Local 69</unittitle>
+          <unitid>ibt0049 series 19</unitid>
+        </did>
+        <scopecontent id="aspace_0ccf215c737669ad13f658d5a2cde01b">
+          <head>Scope and Contents</head>
+          <p>This series consists of minyute books for Brewery Workers Local 69.</p>
+        </scopecontent>
+        <c id="aspace_ref217_77p" level="file">
+          <did>
+            <unittitle>Local 69: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1891/1897" type="inclusive">1891-1897</unitdate>
+            <container id="aspace_44e0d78969d2bab0825209f369fcb059" label="Mixed Materials [32882021235612]" type="Box">79</container>
+            <container id="aspace_cb3f83f64ced70c843a064f07b1ed29a" parent="aspace_44e0d78969d2bab0825209f369fcb059" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref220_0fr" level="file">
+          <did>
+            <unittitle>Local 69: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1900/1905" type="inclusive">1900 - 1905</unitdate>
+            <container id="aspace_b9c2a5b94956369a1d7762e46d8aa4d8" label="Mixed Materials [32882021235604]" type="Box">80</container>
+            <container id="aspace_93d1690ec35bfe3a66221f12b29b5b3a" parent="aspace_b9c2a5b94956369a1d7762e46d8aa4d8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref221_x6q" level="file">
+          <did>
+            <unittitle>Local 69: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1905/1912" type="inclusive">1905 - 1912</unitdate>
+            <container id="aspace_a7d86d19976a4bd03e957e20e6bafcc0" label="Mixed Materials [32882021235604]" type="Box">80</container>
+            <container id="aspace_b8476ef3c827944807d87d5a377afb2c" parent="aspace_a7d86d19976a4bd03e957e20e6bafcc0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref222_cbv" level="file">
+          <did>
+            <unittitle>Local 69: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1905/1912" type="inclusive">1905 - 1912</unitdate>
+            <container id="aspace_e38191f3931547bf6a0e99e28b98f360" label="Mixed Materials [32882021235604]" type="Box">80</container>
+            <container id="aspace_583904d312ce70d5ab2a2c5d0d54767e" parent="aspace_e38191f3931547bf6a0e99e28b98f360" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref218_7dr" level="series">
+        <did>
+          <unittitle>Local 17</unittitle>
+          <unitid>ibt0049 series 20</unitid>
+        </did>
+        <scopecontent id="aspace_c2c1faed50e2b7cb332d995d2f217a35">
+          <head>Scope and Contents</head>
+          <p>This series consists of a minute book for IBT Local 17.</p>
+        </scopecontent>
+        <c id="aspace_ref219_k3q" level="file">
+          <did>
+            <unittitle>Local 17: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1900/1901" type="inclusive">1900-1901</unitdate>
+            <container id="aspace_8e186cc7e8ce3744d0c72d1aa66e0a9a" label="Mixed Materials [32882021235612]" type="Box">79</container>
+            <container id="aspace_8f8ebba19316b8cbeb5f17e25e52e0d5" parent="aspace_8e186cc7e8ce3744d0c72d1aa66e0a9a" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref223_ddz" level="series">
+        <did>
+          <unittitle>Local 597</unittitle>
+          <unitid>ibt0049 series 21</unitid>
+        </did>
+        <scopecontent id="aspace_8752d576e953e1dcbc99af911560c480">
+          <head>Scope and Contents</head>
+          <p>This series consists of a member dues ledger for IBT Local 597.</p>
+        </scopecontent>
+        <c id="aspace_ref224_wmi" level="file">
+          <did>
+            <unittitle>Local 597: Member Dues and Ledger Book</unittitle>
+            <unitdate datechar="creation" normal="1941/1959" type="inclusive">1941 - 1959</unitdate>
+            <container id="aspace_541a1ff7ef5854a1be5412eb01acdcd4" label="Mixed Materials [32882021235596]" type="Box">81</container>
+            <container id="aspace_292c5b52df6f9cab3aeb986c82fc729f" parent="aspace_541a1ff7ef5854a1be5412eb01acdcd4" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref226_vq6" level="series">
+        <did>
+          <unittitle>Brewery Local 23</unittitle>
+          <unitid>ibt0049 series 22</unitid>
+        </did>
+        <scopecontent id="aspace_fe191a6686f1de24d6bfb20da9de3e9e">
+          <head>Scope and Contents</head>
+          <p>This series consists of a financial ledger for Brewery Workers Local 23.</p>
+        </scopecontent>
+        <c id="aspace_ref227_ku4" level="file">
+          <did>
+            <unittitle>Local 23: Financial Ledger</unittitle>
+            <unitdate datechar="creation" normal="1919/1925" type="inclusive">1919 - 1925</unitdate>
+            <container id="aspace_88e748c7729002403a8d908679c3774e" label="Mixed Materials [32882021235851]" type="Box">83</container>
+            <container id="aspace_cd3c1780fd5be409638d9c00b150396a" parent="aspace_88e748c7729002403a8d908679c3774e" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref233_7gd" level="series">
+        <did>
+          <unittitle>Local 392</unittitle>
+          <unitid>ibt0049 series 23</unitid>
+        </did>
+        <scopecontent id="aspace_b50be6d30541664f8d2631709071852f">
+          <head>Scope and Contents</head>
+          <p>This series consists of a minute book for IBT Local 392.</p>
+        </scopecontent>
+        <c id="aspace_ref235_no8" level="file">
+          <did>
+            <unittitle>Local 392: Minute Book </unittitle>
+            <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+            <container id="aspace_d63bedd62b5a7b5dcbe980e3157c9ccc" label="Mixed Materials [32882021235620]" type="Box">84</container>
+            <container id="aspace_9feaa365754b3c67c7637b1a04ec9b4a" parent="aspace_d63bedd62b5a7b5dcbe980e3157c9ccc" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref238_et3" level="series">
+        <did>
+          <unittitle>Local 158</unittitle>
+          <unitid>ibt0049 series 24</unitid>
+        </did>
+        <scopecontent id="aspace_a8fc01b60691c8892f79d8659b175b02">
+          <head>Scope and Contents</head>
+          <p>This series consists of a cash book for IBT Local 158.</p>
+        </scopecontent>
+        <c id="aspace_ref240_qd7" level="file">
+          <did>
+            <unittitle>Local 158: Cash Book</unittitle>
+            <unitdate datechar="creation" normal="1957/1959" type="inclusive">1957 -1959</unitdate>
+            <container id="aspace_35853819a54bf5d64b76456ef3f3f0d0" label="Mixed Materials [32882021235877]" type="Box">85</container>
+            <container id="aspace_a72ab444475cadcc3639a1903044c763" parent="aspace_35853819a54bf5d64b76456ef3f3f0d0" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref242_dei" level="series">
+        <did>
+          <unittitle>Local 345</unittitle>
+          <unitid>ibt0049 series 25</unitid>
+        </did>
+        <scopecontent id="aspace_f025ac8b6be7dce1edc13149077de2e6">
+          <head>Scope and Contents</head>
+          <p>This series consists of a minute book for IBT Local 345.</p>
+        </scopecontent>
+        <c id="aspace_ref243_peg" level="file">
+          <did>
+            <unittitle>Local 345: Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1943/1953" type="inclusive">1943-1953</unitdate>
+            <container id="aspace_cd3753588c43c421c7430a3676b2f5ac" label="Mixed Materials [32882021235893]" type="Box">87</container>
+            <container id="aspace_16c2803929abf906e5b0fe815f6bb71f" parent="aspace_cd3753588c43c421c7430a3676b2f5ac" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_c8fc54c34c576fb940c602d005131379" level="series">
+        <did>
+          <unittitle>Joint Council 58</unittitle>
+        </did>
+        <scopecontent id="aspace_b2dc4636e14fc57d94223eae921586c5">
+          <head>Scope and Contents</head>
+          <p>This series consists of minute books and ledgers from IBT Joint Council 58.</p>
+        </scopecontent>
+        <c id="aspace_9b7477d145c7c330b8665df1042f8c73" level="file">
+          <did>
+            <unittitle>JC 58 Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_207c831904bd5e42ab2cbea61206f81f" label="Mixed Materials [32882021361475]" type="Box">88</container>
+            <container id="aspace_3f8e1520e50443d30806102c07573ac2" parent="aspace_207c831904bd5e42ab2cbea61206f81f" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_601398a3103d9fdb09b71b00ae0a3b1d" level="file">
+          <did>
+            <unittitle>JC 58 Cash Book</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_cda6256e476f651343d7b7349ce5723c" label="Mixed Materials [32882021361475]" type="Box">88</container>
+            <container id="aspace_8fdd5514e7a757fbc6612ee865f08d97" parent="aspace_cda6256e476f651343d7b7349ce5723c" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_7e96ceb6452978f92762962072618ed7" level="file">
+          <did>
+            <unittitle>JC 58 Cash Book</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_cf42dfd71713ba0a37d050c13e3cc165" label="Mixed Materials [32882021361475]" type="Box">88</container>
+            <container id="aspace_d1a7d389335553571144fba3edc8ce09" parent="aspace_cf42dfd71713ba0a37d050c13e3cc165" type="item">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ef656b6d0d3089b68606d27dcbf2cac1" level="series">
+        <did>
+          <unittitle>Local 367</unittitle>
+        </did>
+        <scopecontent id="aspace_2deb57ac7e5c5be6a37d42beb45dd9f7">
+          <head>Scope and Contents</head>
+          <p>This series consists of minute books and ledgers from IBT Local 367.</p>
+        </scopecontent>
+        <c id="aspace_ebc86dbfd5c787ec36420695a5291966" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_44ec89d6b0445d1ac0f583f8d173f322" label="Mixed Materials [32882021360964]" type="Box">89</container>
+            <container id="aspace_de3704b8461eabcceee93dd949ece590" parent="aspace_44ec89d6b0445d1ac0f583f8d173f322" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_172bed4832d9ecb44beaf76131aabc2f" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_7349487756defeb92805bc5af2d8e278" label="Mixed Materials [32882021360964]" type="Box">89</container>
+            <container id="aspace_0bb8da1dc982fbaad7a492c23b58e6ea" parent="aspace_7349487756defeb92805bc5af2d8e278" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_1915b3f18cb7b3e24d4fd45cf8a1c915" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_487aecdb27412cb29e29eb90e2f99068" label="Mixed Materials [32882021360964]" type="Box">89</container>
+            <container id="aspace_9ec52710b3db932952f7c4aac6ce06e3" parent="aspace_487aecdb27412cb29e29eb90e2f99068" type="item">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_c105ce154512e59945fbc35e9bd12273" level="series">
+        <did>
+          <unittitle>Local 133</unittitle>
+        </did>
+        <scopecontent id="aspace_ff3d5303e9e26ebd575edb8c6fdb632c">
+          <head>Scope and Contents</head>
+          <p>This series consists of ledgers and minutes books from IBT Local 133.</p>
+        </scopecontent>
+        <c id="aspace_cb5a9dfd9ea170af1ef0a7fe069630d1" level="file">
+          <did>
+            <unittitle>Local 133 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_83627d8e7770963981ef25859c71c900" label="Mixed Materials [32882021361228]" type="Box">90</container>
+            <container id="aspace_21971973cc8fb49c49205eedd3a7dbdb" parent="aspace_83627d8e7770963981ef25859c71c900" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_047e38c77eb307af5326a39470eaeef2" level="file">
+          <did>
+            <unittitle>Local 133 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_4b44902400e5dbd5c7b51aeb905988de" label="Mixed Materials [32882021361228]" type="Box">90</container>
+            <container id="aspace_56bf09cc3be1947171458f0a792773cd" parent="aspace_4b44902400e5dbd5c7b51aeb905988de" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_cd7e8b8815131930997b2f9c671309fc" level="file">
+          <did>
+            <unittitle>Local 133 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_fcd8b3c0cab3452a0648b336dd077230" label="Mixed Materials [32882021361228]" type="Box">90</container>
+            <container id="aspace_3ff5c58047c87beeb579af5c89662e6e" parent="aspace_fcd8b3c0cab3452a0648b336dd077230" type="item">3</container>
+          </did>
+        </c>
+        <c id="aspace_2652d9562252cf68a903b9cfa9eb7096" level="file">
+          <did>
+            <unittitle>Local 133 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_086b2262145bdcaefd06aca815502c7b" label="Mixed Materials [32882021361228]" type="Box">90</container>
+            <container id="aspace_fb4cb7af51246f63f6e7296a1951d4ed" parent="aspace_086b2262145bdcaefd06aca815502c7b" type="item">4</container>
+          </did>
+        </c>
+        <c id="aspace_c3977377811e71a9df16ca7c1a4c173e" level="file">
+          <did>
+            <unittitle>Local 133 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_1a950b7b96087d03eaf30d72483f4bc9" label="Mixed Materials [32882021361228]" type="Box">90</container>
+            <container id="aspace_e13e804e4eb9ca2208c1d7ad99c5a658" parent="aspace_1a950b7b96087d03eaf30d72483f4bc9" type="item">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_5eecb10831494f492a18d6fca494e46b" level="series">
+        <did>
+          <unittitle>Local 326</unittitle>
+        </did>
+        <scopecontent id="aspace_97ac20a308833a2d9a7aa97ec0870077">
+          <head>Scope and Contents</head>
+          <p>This series consists of ledgers from IBT Local 326.</p>
+        </scopecontent>
+        <c id="aspace_8d99be4dda6f51d782ed4350ff08ce72" level="file">
+          <did>
+            <unittitle>Local 326 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_62969d17e931c2c9d09ed973633b072e" label="Mixed Materials [32882021361467]" type="Box">91</container>
+            <container id="aspace_38bd33ef337cb6dc9b8332bfc065e7dc" parent="aspace_62969d17e931c2c9d09ed973633b072e" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_df2160995cf1980e5186d5f606129c5f" level="file">
+          <did>
+            <unittitle>Local 326 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_ffa834a8f25172ccf4650bbb9b2244bb" label="Mixed Materials [32882021361467]" type="Box">91</container>
+            <container id="aspace_d3f1226e6dd4e2eff77d05cf9a25dcd4" parent="aspace_ffa834a8f25172ccf4650bbb9b2244bb" type="item">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_22e107b0c15911fd02a5bb7d5c882d64" level="series">
+        <did>
+          <unittitle>Local 367</unittitle>
+        </did>
+        <scopecontent id="aspace_4bd451687387f5e4f688796c7a91db71">
+          <head>Scope and Contents</head>
+          <p>This series consists of ledgers and minutes books from IBT local 367.</p>
+        </scopecontent>
+        <c id="aspace_9a407d783b880d64d67c52de88852731" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_5f8590b85d5ca2a9bcbfc8176838214f" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_ab9ed193d67674a3e61ad9b65e4e8503" parent="aspace_5f8590b85d5ca2a9bcbfc8176838214f" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_1e71988fc088a350ba836ff0346b4e58" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_d2bdfb12ecd8e404afb784dddc333cc0" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_5cadf4496642b3486787c86cfcb487be" parent="aspace_d2bdfb12ecd8e404afb784dddc333cc0" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_de016f26ee6becd998732e9c9d04615b" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_0978d8e57a0aa3cba8cb991cc441f0a3" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_01e1647a8be5a02b9601a944832b08df" parent="aspace_0978d8e57a0aa3cba8cb991cc441f0a3" type="item">3</container>
+          </did>
+        </c>
+        <c id="aspace_b8e6de28903b530793053a4214c4dc2e" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_9bdcf43eb751b8984983b76a1a6625dc" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_33745d103beecdddd81c6cbd191bf096" parent="aspace_9bdcf43eb751b8984983b76a1a6625dc" type="item">4</container>
+          </did>
+        </c>
+        <c id="aspace_a734492823c70f579969bb5559de7af4" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_d9e51cdd29633e88d91f6bc86171be65" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_458d205180d8adfb7c0fdf700bd205da" parent="aspace_d9e51cdd29633e88d91f6bc86171be65" type="item">5</container>
+          </did>
+        </c>
+        <c id="aspace_b94bd451941dd4f6393ce106518cdf89" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_c416d5d27b17ed6044eb292e8bba17d1" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_fd95e467a724c83498009b66d34678a9" parent="aspace_c416d5d27b17ed6044eb292e8bba17d1" type="item">6</container>
+          </did>
+        </c>
+        <c id="aspace_d0f85f8f3eb68d860910d4e84a90bb12" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_9cd98d64d3dd63871d4b229db46216ac" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_d25e1b67b709a6592be744c720995802" parent="aspace_9cd98d64d3dd63871d4b229db46216ac" type="item">7</container>
+          </did>
+        </c>
+        <c id="aspace_a94ddf27fddb0ca31459fac73df774b7" level="file">
+          <did>
+            <unittitle>Local 367 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_f677fe2c6a8be8f111bd4283a46b92c1" label="Mixed Materials [32882021361210]" type="Box">92</container>
+            <container id="aspace_a1cba6bf506ab437390ecbb01ff1bbab" parent="aspace_f677fe2c6a8be8f111bd4283a46b92c1" type="item">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_4cd92b290c14c7712fa6e31007855508" level="series">
+        <did>
+          <unittitle>Local 393 </unittitle>
+        </did>
+        <scopecontent id="aspace_8b37d5ab0f4f76aba0dfb66476626271">
+          <head>Scope and Contents</head>
+          <p>This series consists of ledgers and minutes books from IBT Local 393.</p>
+        </scopecontent>
+        <c id="aspace_404de8839cc97e644b7b65de1a386012" level="file">
+          <did>
+            <unittitle>Local 393 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_84083077a1b0c395b478ca2079ad27b5" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_722cf335e0342853e9480a144bd246c7" parent="aspace_84083077a1b0c395b478ca2079ad27b5" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_adefa1e6dbb9043a91d726b00b4d1b68" level="file">
+          <did>
+            <unittitle>Local 393 Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_e0644143f69d05c1bc047882672db75b" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_2c7c25bbf7bd17d9506d5afdcc887998" parent="aspace_e0644143f69d05c1bc047882672db75b" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_d5bf85310775f1af6b749ac40a321c1d" level="file">
+          <did>
+            <unittitle>Local 393 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_ad61d05a71463c5e447f7798e8bbac78" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_70855ff0051e5ae7265129fd5bb2fb68" parent="aspace_ad61d05a71463c5e447f7798e8bbac78" type="item">3</container>
+          </did>
+        </c>
+        <c id="aspace_2802d18013d7969106fb8ddebe4fb5be" level="file">
+          <did>
+            <unittitle>Local 393 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_0df3ed7c1dcfc7da16fa3b75addd7921" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_e1c120530926259c0378f3135f6b942d" parent="aspace_0df3ed7c1dcfc7da16fa3b75addd7921" type="item">4</container>
+          </did>
+        </c>
+        <c id="aspace_56ccead1d1ff26470216ee0d5b339bbd" level="file">
+          <did>
+            <unittitle>Local 393 Ledger</unittitle>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_5da861fc6cf984370cc985bf231adab3" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_244246f78b418d1807af62759f79637a" parent="aspace_5da861fc6cf984370cc985bf231adab3" type="item">5</container>
+          </did>
+        </c>
+        <c id="aspace_569dd9c0c51cad5d820dda5bb10042b3" level="file">
+          <did>
+            <unittitle>Local 393 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_887d07aba5dbafeaa84effb6c8e9eaab" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_825de6f49c5fdc584e05e4ad8a8ae35e" parent="aspace_887d07aba5dbafeaa84effb6c8e9eaab" type="item">6</container>
+          </did>
+        </c>
+        <c id="aspace_eeea9f7559f26a3c1794062fddc41dfe" level="file">
+          <did>
+            <unittitle>Local 393 Minutes Book</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_bbd450a967e2b5dc185fcef559382a2b" label="Mixed Materials [32882021361459]" type="Box">93</container>
+            <container id="aspace_a851e3118a48ef8c74b295522b782dd1" parent="aspace_bbd450a967e2b5dc185fcef559382a2b" type="item">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_c71b55e053f9c8314f8653dad5978cf9" level="series">
+        <did>
+          <unittitle>Local 349 </unittitle>
+        </did>
+        <scopecontent id="aspace_7938313263bdcef290bf224ce353ec6e">
+          <head>Scope and Contents</head>
+          <p>This series consists of ledgers and minutes books from IBT Local 349.</p>
+        </scopecontent>
+        <c id="aspace_e9692b7c565df442cf1eda9a0cb474ca" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container id="aspace_fe8bc414bae4b52dbe73f6d9e4911706" label="Mixed Materials [32882021360956]" type="Box">94</container>
+            <container id="aspace_7cd2f04690fd71107e4a4c55acf6a1fd" parent="aspace_fe8bc414bae4b52dbe73f6d9e4911706" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_b15ffaf72606ca8984c7b69bbac402ab" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_03d5522f74f3b6872c77c2d75dd01344" label="Mixed Materials [32882021360956]" type="Box">94</container>
+            <container id="aspace_4a31b9f4db4d6329c194e33923530aaf" parent="aspace_03d5522f74f3b6872c77c2d75dd01344" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_29bc76903c63ca3539ff38643a8d3119" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_2d8836298969a5e214a3812724365d07" label="Mixed Materials [32882021360956]" type="Box">94</container>
+            <container id="aspace_478021188ad08b4837cc456ee540e2f0" parent="aspace_2d8836298969a5e214a3812724365d07" type="item">3</container>
+          </did>
+        </c>
+        <c id="aspace_2a4fd79793060aa4e0688bd2f834ad3f" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1942/1943" type="inclusive">1942-1943</unitdate>
+            <container id="aspace_9976832c485d86cb1334d30122d2a69a" label="Mixed Materials [32882021361202]" type="Box">95</container>
+            <container id="aspace_1e6e8804aaae6aac5809cc145d991712" parent="aspace_9976832c485d86cb1334d30122d2a69a" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_3130fcf0d99f7fdc804ad01d593db9e7" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_9ca1aaa60138690d78c0dd09e55f4271" label="Mixed Materials [32882021361202]" type="Box">95</container>
+            <container id="aspace_a58296b7218e260ec5f87f0c65899a83" parent="aspace_9ca1aaa60138690d78c0dd09e55f4271" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_9504e529d8711983573734f67e3f0a77" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_59066f8249e12b582647a7d7defb781f" label="Mixed Materials [32882021361202]" type="Box">95</container>
+            <container id="aspace_ead7a2daf0907dada4a8cda7ec567f37" parent="aspace_59066f8249e12b582647a7d7defb781f" type="item">3</container>
+          </did>
+        </c>
+        <c id="aspace_37ba4f32e50c41c620072a249c071348" level="file">
+          <did>
+            <unittitle>Local 349 Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_7aed48990977ef42ac9af47cfe951c95" label="Mixed Materials [32882021361202]" type="Box">95</container>
+            <container id="aspace_6d7bb77f7786b4962f37e7c5d9172666" parent="aspace_7aed48990977ef42ac9af47cfe951c95" type="item">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_4c2e69d0676d58fa007257252752c806" level="series">
+        <did>
+          <unittitle>Local 577</unittitle>
+          <unitid>IBT 0049</unitid>
+        </did>
+        <c id="aspace_6b0de474cbb6c1249d9a156d48de63f8" level="file">
+          <did>
+            <unittitle>Local 577 Ledger Meeting Minutes and Notes</unittitle>
+            <unitid>IBT 0049 Series 33</unitid>
+            <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+            <container id="aspace_2b43127ef81304b7bebf9fee12cdaf4a" label="Mixed Materials [32882022386372]" type="Box">Shared Box 30</container>
+            <container id="aspace_4e81d8d64e902aa8d2776acef2be647d" parent="aspace_2b43127ef81304b7bebf9fee12cdaf4a" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_040e9daccca822490f8e958821d1250a" level="series">
+        <did>
+          <unittitle>Local 41</unittitle>
+          <unitid>IBT0049 Series 34</unitid>
+        </did>
+        <c id="aspace_2ab42270841e3c332149872d9e1285af" level="file">
+          <did>
+            <unittitle>Local 41 Dues Cards (3)</unittitle>
+            <unitid>IBT0049 Series 34</unitid>
+            <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+            <container id="aspace_804144ac907f7a92aba58eb0b15f1b58" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_b2671d6664d6419c59212df81819f56b" parent="aspace_804144ac907f7a92aba58eb0b15f1b58" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8131d720eae3036115e3490336294895" level="series">
+        <did>
+          <unittitle>Local 94</unittitle>
+          <unitid>IBT0049 Series 35</unitid>
+        </did>
+        <c id="aspace_af5d133576a5afe486c93975d101cbaf" level="file">
+          <did>
+            <unittitle>Local 94 Dues Cards (2)</unittitle>
+            <unitid>IBT 0049 Series 35</unitid>
+            <unitdate datechar="creation" normal="1946/1946">1946</unitdate>
+            <container id="aspace_d1f025455ef2b3b782eba546ecd26e82" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_c90733c8291214f526b92e3cd6a38dfc" parent="aspace_d1f025455ef2b3b782eba546ecd26e82" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_da5e55e86430e9823824e7eaad185a76" level="series">
+        <did>
+          <unittitle>Other Unions</unittitle>
+          <unitid>IBT0049 Series 36</unitid>
+        </did>
+        <c id="aspace_ee2fcf8f975057e6bee2aba9c92295c0" level="file">
+          <did>
+            <unittitle>AFL Dues Cards</unittitle>
+            <unitid>IBT0049 Series 36</unitid>
+            <unitdate datechar="creation" normal="1924/1924">1924</unitdate>
+            <container id="aspace_4ced42a2056d6ba8d61844b8253dc66c" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_0f046b207a191e0b219757d705f91412" parent="aspace_4ced42a2056d6ba8d61844b8253dc66c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_e82648625935cd0ef33542dd987efc33" level="file">
+          <did>
+            <unittitle>Brotherhood of Carpenters Local 1441 Dues Cards</unittitle>
+            <unitid>IBT0049 Series 36</unitid>
+            <unitdate datechar="creation" normal="1921/1921">1921</unitdate>
+            <container id="aspace_553acba4a03bb24403e06b36ab352f83" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_2ca4d941fbb7f6a77d8267fdfa0041bb" parent="aspace_553acba4a03bb24403e06b36ab352f83" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_234d334cfafcb6fdb5f2e2b0651cc949" level="file">
+          <did>
+            <unittitle>Finnish Seamen's Union Dues Card</unittitle>
+            <unitid>IBT0049 Series 36</unitid>
+            <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
+            <container id="aspace_185ed85de103dd2cd868d4d666e1e177" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_73d204706fa1e01d8063b62271371af1" parent="aspace_185ed85de103dd2cd868d4d666e1e177" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_cbe9eb6477f33a79c01379ed13bb93a0" level="file">
+          <did>
+            <unittitle>Association of Machinists Dues Card</unittitle>
+            <unitid>IBT0049 Series 36</unitid>
+            <unitdate datechar="creation" normal="1937/1951" type="inclusive">1937-1951</unitdate>
+            <container id="aspace_2c34b24945d226375708cbdf228c8f05" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_2d19df12e9a591bd1a26583b0868100f" parent="aspace_2c34b24945d226375708cbdf228c8f05" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_584b3805a5d76c1775de5e408bc0767c" level="file">
+          <did>
+            <unittitle>Railway Car Men Local 932</unittitle>
+            <unitid>IBT0049 Series 36</unitid>
+            <unitdate datechar="creation" normal="1918/1918">1918</unitdate>
+            <container id="aspace_ea0a32e9b1706491c8220cf3e48c63d8" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_dae3a59c512c37d283d76d5691815792" parent="aspace_ea0a32e9b1706491c8220cf3e48c63d8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_103d2d84c8d4e77198f7ddd2a803d60d" level="file">
+          <did>
+            <unittitle>UFCW Local 328 Dues Card</unittitle>
+            <unitid>IBT 0049 Series 36</unitid>
+            <container id="aspace_aa6517387297d987e036283767321a10" label="Mixed Materials [32882022386406]" type="Box">97</container>
+            <container id="aspace_eb08cd43eaaa66f79352a4d905682a6f" parent="aspace_aa6517387297d987e036283767321a10" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8541c9fb764db07e88cf471f6d14eba8" level="series">
+        <did>
+          <unittitle>Local 70</unittitle>
+          <unitid>IBT 0049 Series 37</unitid>
+        </did>
+        <c id="aspace_680b4a79667202c26785d304bc8f7dc6" level="file">
+          <did>
+            <unittitle>Local 70: Strike Card</unittitle>
+            <unitid>IBT 0049 Series 37</unitid>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_5ed9196fed914ddb6294d77ded1332e8" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_adee2960f1a16029d302f310520d0344" parent="aspace_5ed9196fed914ddb6294d77ded1332e8" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2ecb03a1900b59c64da5aa7a690e303d" level="series">
+        <did>
+          <unittitle>Local 74</unittitle>
+          <unitid>IBT 0049 Series 38</unitid>
+        </did>
+        <c id="aspace_cab35d74eae54608ec6788c93785d3f8" level="file">
+          <did>
+            <unittitle>Local 74: Withdrawal Card and Transfer Card</unittitle>
+            <unitid>IBT 0049 Series 38</unitid>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_d82074f1ad068f60f75f9a2b8bef941f" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_3bbef92e6f944e69a91c136f92bbdbdd" parent="aspace_d82074f1ad068f60f75f9a2b8bef941f" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_3ce2f140546589c6eb1a18a6d0c21e28" level="series">
+        <did>
+          <unittitle>Local 98</unittitle>
+          <unitid>IBT 0049 Series 39</unitid>
+        </did>
+        <c id="aspace_145e5f8950137d33a47ba873435e28a9" level="file">
+          <did>
+            <unittitle>Local 98: Dues Cards</unittitle>
+            <unitid>IBT 0049 Series 39</unitid>
+            <unitdate datechar="creation" normal="1930/1930">1930</unitdate>
+            <container id="aspace_29969fc1e982ac782ba892c363264b47" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_0ad5a53e9af65597fd7cbc27a8c4354a" parent="aspace_29969fc1e982ac782ba892c363264b47" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2d6d8bd9b6c7d5abe4fef331e6e71ffa" level="series">
+        <did>
+          <unittitle>Local 116</unittitle>
+          <unitid>IBT 0049 Series 40</unitid>
+        </did>
+        <c id="aspace_f830b38f58746c2f725f80594b968bb2" level="file">
+          <did>
+            <unittitle>Local 116: Withdrawal Card</unittitle>
+            <unitid>IBT 0049 Series 40</unitid>
+            <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+            <container id="aspace_b0a7e72d4a6563660403a77600e6b93c" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_101c713ceb7bab2de326c8dd6e75c554" parent="aspace_b0a7e72d4a6563660403a77600e6b93c" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_b3a3f3e45ad95e35686536cc28eef706" level="series">
+        <did>
+          <unittitle>Local 118</unittitle>
+          <unitid>IBT 0049 Series 41</unitid>
+        </did>
+        <c id="aspace_12e54577d72681de3471bc095091ca0d" level="file">
+          <did>
+            <unittitle>Local 118: Withdrawal Card</unittitle>
+            <unitid>IBT 0049 Series 41</unitid>
+            <unitdate datechar="creation" normal="1940/1940">1940</unitdate>
+            <container id="aspace_3f70842af3e200fa6c88240fe7195e67" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_6913c5255b754404e8617f21aae4d811" parent="aspace_3f70842af3e200fa6c88240fe7195e67" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_a9e7003b9de4d22db6962ac86bcfcee2" level="series">
+        <did>
+          <unittitle>Local 169</unittitle>
+          <unitid>IBT 0049 Series 42</unitid>
+        </did>
+        <c id="aspace_a72e52e2906a9d999db5af6123ce9b5f" level="file">
+          <did>
+            <unittitle>Local 169: Dues Card</unittitle>
+            <unitid>IBT 0049 Series 42</unitid>
+            <unitdate datechar="creation" normal="1903/1903">1903</unitdate>
+            <container id="aspace_2f10e2ca728e2b1660cb789e4899173d" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_ef6dd929888a077b6faa49ab41164bb1" parent="aspace_2f10e2ca728e2b1660cb789e4899173d" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8553c429ae910109f3c4ef032662a792" level="series">
+        <did>
+          <unittitle>Local 430</unittitle>
+          <unitid>IBT 0049 Series 43</unitid>
+        </did>
+        <c id="aspace_ae40f74082dd9482c2e4ecd261090ee6" level="file">
+          <did>
+            <unittitle>Local 430: Member Card</unittitle>
+            <unitid>IBT 0049 Series 43</unitid>
+            <unitdate datechar="creation" normal="1940-06-01/1940-06-01">June 1, 1940</unitdate>
+            <container id="aspace_f7a4ee83bbd9ff01f58ae4cafc598709" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_8d3e69eb28bec5e57d2c87ce08011e6e" parent="aspace_f7a4ee83bbd9ff01f58ae4cafc598709" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_2a1d35c79eae043550e16392bbff2eda" level="series">
+        <did>
+          <unittitle>Local 595</unittitle>
+          <unitid>IBT 0049 Series 44</unitid>
+        </did>
+        <c id="aspace_5d5c367e8cf915464ecf8bccb4a84aa8" level="file">
+          <did>
+            <unittitle>Local 595: Dues Card</unittitle>
+            <unitid>IBT 0049 Series 44</unitid>
+            <unitdate datechar="creation" normal="1945/1945">1945</unitdate>
+            <container id="aspace_617b12628a8ea6d864fdcd0f7795eb40" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_b51fe47cdbc6494b6a9e14670ef60acc" parent="aspace_617b12628a8ea6d864fdcd0f7795eb40" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_32ad353cd63330fb1eaf44f470f97b17" level="series">
+        <did>
+          <unittitle>Local 710</unittitle>
+          <unitid>IBT 0049 Series 45</unitid>
+        </did>
+        <c id="aspace_d16d37bcbc3b718b4fd6393f352f4178" level="file">
+          <did>
+            <unittitle>Local 710: Withdrawal Card</unittitle>
+            <unitid>IBT 0049 Series 45</unitid>
+            <unitdate datechar="creation" normal="1941/1941">1941</unitdate>
+            <container id="aspace_da470a94c4a77f8d8d7db2dfc3e7d3fd" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_72192dc709979dfbe478ed5073e6a616" parent="aspace_da470a94c4a77f8d8d7db2dfc3e7d3fd" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_a743ad7f01b1e904f550fa9b395f9902" level="series">
+        <did>
+          <unittitle>Local 976</unittitle>
+          <unitid>IBT 0049 Series 46</unitid>
+        </did>
+        <c id="aspace_2fc470d5943b7f14f6d0637ee1355588" level="file">
+          <did>
+            <unittitle>Local 976: Dues Card</unittitle>
+            <unitid>IBT 0049 Series 46</unitid>
+            <unitdate datechar="creation" normal="1942/1942">1942</unitdate>
+            <container id="aspace_0a12b54ab4d13cb2006f8de2c1a6e273" label="Mixed Materials [32882022386539]" type="Box">98</container>
+            <container id="aspace_e49bcc21000571f863dcd06f904494ab" parent="aspace_0a12b54ab4d13cb2006f8de2c1a6e273" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

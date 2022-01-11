@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms0248.xml">ms0248.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Ernest Shephard papers, <date calendar="gregorian" era="ce">1939-1950</date>
+ <num>MS0248.UA</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:24 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Ernest Shephard papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Shephard, Ernest</persname>
+      </origination>
+      <unitid>MS0248.UA</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1939/1950" type="inclusive">1939-1950</unitdate>
+      <abstract id="aspace_09559478a99bbf4879d4b61d8eb2a68b">Ernest Sewall Shephard was a member of the George Washington University faculty from 1926 to 1966. Dr. Shephard was Professor of English holding the Master of Arts degree. He chaired the English Department for many years. Collection includes correspondence, articles papers, English class notes, lectures, and other items from Ernest Shephard. The materials range from 1939-50.</abstract>
+      <physloc id="aspace_f77b68c4182e427d4f0d158ae8913249">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+      <container id="aspace_d16dab42e669294112f31ba9ea68dfab" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+      <container id="aspace_31494b26d78320141385e1a3337948a1" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+      <container id="aspace_c95c63c21eb7dd82ad49b08212d6ebf3" label="Mixed Materials [GW: 32882018204845]" type="Box">7</container>
+      <container id="aspace_ff807aaf507a3147a67635fed809edd3" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+      <container id="aspace_776f139bf41da2e7f97327305ad24867" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+      <container id="aspace_2c3841dea38088658b808dcd7ec8703e" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+      <container id="aspace_7a12cf8f6eb3cdb05e9ee6f3011fb30c" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+    </did>
+    <prefercite id="aspace_a89b384ea603f38fae089b845cfacc7f">
+      <head>Preferred citation</head>
+      <p>Ernest Shephard papers, University Archives, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <acqinfo id="aspace_d43b4f2bc4a6fa3a50b2af962768a920">
+      <head>Acquisition Information</head>
+      <p>Provenance of collection is unknown.</p>
+    </acqinfo>
+    <userestrict id="aspace_42d1f57660430bbd22dc60c8f73a1fa2">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_6f7165e3ca83b4064c4490f1703d6c22">
+      <head>Historical or Biographical Note</head>
+      <p>Ernest Sewall Shephard was a member of the George Washington University faculty from 1926 to 1966. Dr. Shephard was Professor of English holding the Master of Arts degree. He chaired the English Department for many years.</p>
+    </bioghist>
+    <scopecontent id="aspace_faee3d3c883bc08d5a33b563f17eb086">
+      <head>Collection Scope and Content</head>
+      <p>Materials in the collection include correspondence, articles papers, English class notes, lectures, and other items from Ernest Shephard. The materials range from 1939-50.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_feaf7804e9a92dfc7ef5dbad13602917">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <controlaccess>
+      <subject source="lcsh">Education</subject>
+      <subject source="lcsh">Biography</subject>
+      <subject source="lcsh">English</subject>
+      <subject source="lcsh">Courses and lectures</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+      <persname source="local">Shephard, Ernest</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_00i" level="file">
+        <did>
+          <unittitle>Personal Correspondence</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_eb537c922bd1419b76705393319621ce" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_d4d57c773d87efb7ca38d6d9fcf136fb" parent="aspace_eb537c922bd1419b76705393319621ce" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_wex" level="file">
+        <did>
+          <unittitle>Patent</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_53c2bcccc3506360d05114faa845d3d0" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_edacb3a8f3700dcc1637c11e5326f050" parent="aspace_53c2bcccc3506360d05114faa845d3d0" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_g25" level="file">
+        <did>
+          <unittitle>Photography</unittitle>
+          <unitdate datechar="creation">1939-1942</unitdate>
+          <container id="aspace_5e5438e58b08d97c664bef8380cf62ea" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_d34ec76044bacc3a9126321f91bb1b50" parent="aspace_5e5438e58b08d97c664bef8380cf62ea" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_t5h" level="file">
+        <did>
+          <unittitle>English D. The Novel</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_08ab612976934299e5f945632ed3983a" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_5518b5d32ca8b34c99d29ad8f09cbda7" parent="aspace_08ab612976934299e5f945632ed3983a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_xx1" level="file">
+        <did>
+          <unittitle>English 14. Machiavelli's The Prince</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_443ad9050a705e7f7bd5ae605672ef88" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_d311cca307c8cd4e676d04952ce37543" parent="aspace_443ad9050a705e7f7bd5ae605672ef88" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_p0k" level="file">
+        <did>
+          <unittitle>Truth And Beauty E 9</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8bfb41190470d6dd6a594fe8700d0cd4" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_735a6db51000ab5ea155a8596757b23f" parent="aspace_8bfb41190470d6dd6a594fe8700d0cd4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_adv" level="file">
+        <did>
+          <unittitle>Seminar In Restoration Comedy 1676-1680</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_846700e39a222d374eb26052c8a45233" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_83cd2289668b9e116476a1580e48887c" parent="aspace_846700e39a222d374eb26052c8a45233" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_pdd" level="file">
+        <did>
+          <unittitle>Abandoned Souls E 9</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_00bc06f6b40a71a6ebc19de1228787f8" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_25f1e3372d5a42c6898120a7de1ced19" parent="aspace_00bc06f6b40a71a6ebc19de1228787f8" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_8ak" level="file">
+        <did>
+          <unittitle>The Better Half E 9</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_56e1c2a1a9a9a18cf9e5707a13ea671f" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_c129f0003035141713f2d8707c591c01" parent="aspace_56e1c2a1a9a9a18cf9e5707a13ea671f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_k1c" level="file">
+        <did>
+          <unittitle>English 46 Book #1 And #2</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ec769cef8df8c0b50687016b575eee20" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_baac6ab11f744782081ff6ff4f886d85" parent="aspace_ec769cef8df8c0b50687016b575eee20" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_vfl" level="file">
+        <did>
+          <unittitle>English 45 Book #1 And #2</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_cce993a21525043355d54f776bc81aec" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_26d3361a670ba598fdb105b2955810d0" parent="aspace_cce993a21525043355d54f776bc81aec" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_jha" level="file">
+        <did>
+          <unittitle>English 9 Book #1 And #2</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3569a04f7d68449fc81119c9787d6dc3" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_1b72265efb689bd98adbba9e6ef45532" parent="aspace_3569a04f7d68449fc81119c9787d6dc3" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_zl7" level="file">
+        <did>
+          <unittitle>The Disobedient</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9aa6d819b19d9ce4cd05c809950dfd80" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_58fa807cbf4d9e06ff36d06f26a92cf6" parent="aspace_9aa6d819b19d9ce4cd05c809950dfd80" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_yb6" level="file">
+        <did>
+          <unittitle>Columbus Sees His Circle E 9; Deliverance E 9</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3c92a6def97372b718c74e73ab4c3d85" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_4dc08a84b3b508ea785f227db10fdf42" parent="aspace_3c92a6def97372b718c74e73ab4c3d85" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_jhh" level="file">
+        <did>
+          <unittitle>Burglary A La Mode</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_642fed78ff7bc2dd75ac6b4204ac87ec" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_a52d3045ed8994e23051d0e6a4d1c99b" parent="aspace_642fed78ff7bc2dd75ac6b4204ac87ec" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref40_bjf" level="file">
+        <did>
+          <unittitle>Bread Upon The Water</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f380675329dc6d6aeec6b5f77a2e4016" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_f1bc80f50d467071061285c3c79e8e48" parent="aspace_f380675329dc6d6aeec6b5f77a2e4016" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_la0" level="file">
+        <did>
+          <unittitle>The Plain Gold Band</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f54241d64450c866823bfc0a6ac5dcba" label="Mixed Materials [GW: 32882018204647]" type="Box">1</container>
+          <container id="aspace_4ef011d747e00d7df0016bed346d0a36" parent="aspace_f54241d64450c866823bfc0a6ac5dcba" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_dpi" level="file">
+        <did>
+          <unittitle>Involuntary Proselyter; The Fall Of The Dynasty; In And Out The Chimney</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_4540fab5113c5e8a343967a1b465a191" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_23c22e5c77ec851e483cdee01bbd9b33" parent="aspace_4540fab5113c5e8a343967a1b465a191" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_qcq" level="file">
+        <did>
+          <unittitle>Piece of String (Criticism)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_50074f7e49c130601b9d2f41f22e862e" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_1c48b5d3a6c0a38d0889fb5d1663f559" parent="aspace_50074f7e49c130601b9d2f41f22e862e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref48_cm4" level="file">
+        <did>
+          <unittitle>Night Air</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a0fb79c0dd87537db262fbc59994f74d" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_cd4bd3c9e1ac04c4c51d87626be3a026" parent="aspace_a0fb79c0dd87537db262fbc59994f74d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref50_dej" level="file">
+        <did>
+          <unittitle>Miniature Anthology of Contemporary Verse</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_363ee289991b5c421a34ef5d63d6ed03" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_178ebd11fce84a927f6aaff504553cc9" parent="aspace_363ee289991b5c421a34ef5d63d6ed03" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref52_7jf" level="file">
+        <did>
+          <unittitle>Milly</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_aa571f5d8f58bb857546db5b919d806e" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_6af4d60f3b6e7e9adb302ad3ec12f19d" parent="aspace_aa571f5d8f58bb857546db5b919d806e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref54_o5x" level="file">
+        <did>
+          <unittitle>Master of his Destiny</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b631c3612e53be3c889eb828568238c7" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_43585b1e6c23a25238a0302f69ca7216" parent="aspace_b631c3612e53be3c889eb828568238c7" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref56_4vx" level="file">
+        <did>
+          <unittitle>Little Red Riding Hood</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c2fd94a2fa78248bd09e74d795e77111" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_58e29ac16d69ddc67a5f36b3b034650b" parent="aspace_c2fd94a2fa78248bd09e74d795e77111" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref58_mue" level="file">
+        <did>
+          <unittitle>English 48</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8fe85fcd9e51c05781463f7f1387336b" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_33043c56f671caaffdc0947a5434d678" parent="aspace_8fe85fcd9e51c05781463f7f1387336b" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref60_e7u" level="file">
+        <did>
+          <unittitle>Such Stuff As Dreams Are Made On or Jean</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_cd9076d6d0f287d94f80d1167e4f421f" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_d0c72c009a3260c516ab59e16e1ccafc" parent="aspace_cd9076d6d0f287d94f80d1167e4f421f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref62_il8" level="file">
+        <did>
+          <unittitle>To Err Is Human; Traffic (An Essay); The Third Degree</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_6b4e9f945b362c853e99ca1be99ab0ed" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_4e6a93ad0c1cbc7981782cf9377a6e96" parent="aspace_6b4e9f945b362c853e99ca1be99ab0ed" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref64_75c" level="file">
+        <did>
+          <unittitle>The Recovery of Eben Trask</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c76e9ff7f906173b69229eb8d8531403" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_6e3151e70d81422c9512559f11b36cf9" parent="aspace_c76e9ff7f906173b69229eb8d8531403" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref66_hql" level="file">
+        <did>
+          <unittitle>Reading of Poetry: A Virtue Or A Vice E 9</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b897ed72e14a1cff961f322dda7441db" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_6d26d996f18395f3509156cf22546da4" parent="aspace_b897ed72e14a1cff961f322dda7441db" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref68_wg8" level="file">
+        <did>
+          <unittitle>Puppy Love; Professional Call</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_abb539540b02572592dbba131ef58d51" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_8262bc8fd944811a4d6f0c724e9cf2bd" parent="aspace_abb539540b02572592dbba131ef58d51" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref70_gbi" level="file">
+        <did>
+          <unittitle>The Presidential Campaign Of 1904</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_fdeb0ff38ce03b80668c707160d6a4bc" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_a7b3c10db397383d9f1b31eb5a7b1d71" parent="aspace_fdeb0ff38ce03b80668c707160d6a4bc" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref72_7b8" level="file">
+        <did>
+          <unittitle>The Appearance Of Sentimentalism In Restoration Comedy</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_80cd735f88fb4c64026588f8462d8aa0" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_047519270db3ed25dc3dba817239f167" parent="aspace_80cd735f88fb4c64026588f8462d8aa0" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref74_9er" level="file">
+        <did>
+          <unittitle>Restoration Drama</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c6dc5064956dad75212e9cb1f99b62b7" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_2012db15d57cd932dbb76630aa02f771" parent="aspace_c6dc5064956dad75212e9cb1f99b62b7" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref76_kot" level="file">
+        <did>
+          <unittitle>Jurgen Visits Verona; Little Myths</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_06433091faf8865e1ebb3800f1474dcb" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_ff43b3d3c0ce6f785e2ba766cbb18618" parent="aspace_06433091faf8865e1ebb3800f1474dcb" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref78_ubb" level="file">
+        <did>
+          <unittitle>Truth About The Cherry Tree</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_db1b2f3dbde4284c6978dd410c938069" label="Mixed Materials [GW: 32882018204654]" type="Box">2</container>
+          <container id="aspace_b4d8df896b8af2ce646cb1d23a77e007" parent="aspace_db1b2f3dbde4284c6978dd410c938069" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref80_in8" level="file">
+        <did>
+          <unittitle>Rhetorics And Brown Derbies</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3f16b0058582da4b46deec1116b854eb" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_c0f3727d85be969d8c8c4a82b0b9a15a" parent="aspace_3f16b0058582da4b46deec1116b854eb" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref82_rvq" level="file">
+        <did>
+          <unittitle>Remarks</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_63cae496b142241b829cc4893e9c2a8b" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_2531ae521da06a82e7d34451cfe1ed3c" parent="aspace_63cae496b142241b829cc4893e9c2a8b" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref84_7us" level="file">
+        <did>
+          <unittitle>Rabelais</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_881a424ca0d0d1cafcc5da91c347bf93" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_f542e91592f8ca80f6520ecbc3224e77" parent="aspace_881a424ca0d0d1cafcc5da91c347bf93" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref86_3wc" level="file">
+        <did>
+          <unittitle>Satire</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f40a2e847b6855a3df2a668b0fc40ad4" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_ca9324ad4437ae2d2dec10892d4c9290" parent="aspace_f40a2e847b6855a3df2a668b0fc40ad4" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref88_0rl" level="file">
+        <did>
+          <unittitle>Poetry</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5f43733ca57ec2ed9f626cb2a96d87a5" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_06eb35ecd653f5ae1b46902bc1bfa09c" parent="aspace_5f43733ca57ec2ed9f626cb2a96d87a5" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref90_540" level="file">
+        <did>
+          <unittitle>Miscellaneous II: Drama General</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_508049ffc685b372dc47dad26d4b98c7" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_41e27675dcf38be8d0b03643dc491b12" parent="aspace_508049ffc685b372dc47dad26d4b98c7" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref92_ln8" level="file">
+        <did>
+          <unittitle>Miscellaneous II: Education</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bef914d86234b1794a3f1e816e924144" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_d885a0ac315634f6ba21576c2d86855b" parent="aspace_bef914d86234b1794a3f1e816e924144" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref94_tzw" level="file">
+        <did>
+          <unittitle>Miscellaneous II: Christmas Cards</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bc256b528b4bc5f73e0f7a718274facd" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_e50b54d80896323e46bb1144cd157d6c" parent="aspace_bc256b528b4bc5f73e0f7a718274facd" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref96_n9z" level="file">
+        <did>
+          <unittitle>Miscellaneous II: Correspondence with Students</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_4d5ad89451d2df83988ef85bf25d11a4" label="Mixed Materials [GW: 32882018204662]" type="Box">3</container>
+          <container id="aspace_f9aa7cd490eaa99bbe6893c876d8516c" parent="aspace_4d5ad89451d2df83988ef85bf25d11a4" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref98_suy" level="file">
+        <did>
+          <unittitle>English 92 (European Lit.)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_235369c32eddf61bd8858aaa44defeee" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_9c927cc842b263308fd1cdd875edb834" parent="aspace_235369c32eddf61bd8858aaa44defeee" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref100_s5s" level="file">
+        <did>
+          <unittitle>Lectures and Outlines</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e423a0c0c9f09862800d07d7c732b474" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_9bbc0dc345163a1166e3bdefecd0908a" parent="aspace_e423a0c0c9f09862800d07d7c732b474" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref102_nz1" level="file">
+        <did>
+          <unittitle>Survey: Undergraduate Notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1bfb42034465931efd35538409d11c8b" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_07b2d51cbc7e9f155c59cb22fe8d3a48" parent="aspace_1bfb42034465931efd35538409d11c8b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref104_xoc" level="file">
+        <did>
+          <unittitle>English 91 (Lectures)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_42da0a95a3f745d35ba634aacd5efded" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_eb792eb428daa61624592a72d95bd347" parent="aspace_42da0a95a3f745d35ba634aacd5efded" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref106_utq" level="file">
+        <did>
+          <unittitle>English 91 (Lectures)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c4eefef60d8d16794c8f75879c1be5bb" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_98688ccd020d88954155f08714e4c593" parent="aspace_c4eefef60d8d16794c8f75879c1be5bb" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref108_7mo" level="file">
+        <did>
+          <unittitle>English 51</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_cad98ad9da683d1cbbb430fa532c8197" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_38f7919ec82601cb156dca163896dd2e" parent="aspace_cad98ad9da683d1cbbb430fa532c8197" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref110_mm1" level="file">
+        <did>
+          <unittitle>English 51</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_82ff27735a7425da82c2cd7169f01adb" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_c6f21b903b8e25bfbf77370b35c2135d" parent="aspace_82ff27735a7425da82c2cd7169f01adb" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref112_h6a" level="file">
+        <did>
+          <unittitle>English 91</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e69540d648835f8c77617fe991ba0c02" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_d841f6673493ca9fa7ed4246bf2c8105" parent="aspace_e69540d648835f8c77617fe991ba0c02" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref114_zsj" level="file">
+        <did>
+          <unittitle>Literary Crit.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_0e599c6f2601aa51e578b90af3321ff2" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_fecad4921d25bdd2b08ce79da62d431f" parent="aspace_0e599c6f2601aa51e578b90af3321ff2" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref116_bbx" level="file">
+        <did>
+          <unittitle>English 51</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5d895a9541b953b674e8430138c6868c" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_474e189f9509cdea49f672ba55836f9a" parent="aspace_5d895a9541b953b674e8430138c6868c" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref118_j7a" level="file">
+        <did>
+          <unittitle>Biography</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a9f6f61eaaf75ed91ea55555c42da8a8" label="Mixed Materials [GW: 32882018204670]" type="Box">4</container>
+          <container id="aspace_35c421c18c4c3e6772f9c4ab7d2113b7" parent="aspace_a9f6f61eaaf75ed91ea55555c42da8a8" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref120_bnv" level="file">
+        <did>
+          <unittitle>Types: Lectures</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5804cdca8c9ae84018046c2a7f9c3158" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_809e7c084699a14aa2a952fc6bccb47b" parent="aspace_5804cdca8c9ae84018046c2a7f9c3158" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref122_hh5" level="file">
+        <did>
+          <unittitle>English 91-92 (Outline Of Course)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_797b674eb8469e2c2d94b45bc5438154" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_167582adf17f22a75a49d590812f8134" parent="aspace_797b674eb8469e2c2d94b45bc5438154" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref124_410" level="file">
+        <did>
+          <unittitle>English 52 Exams</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_373c4834bb27427af46d482ba21072a8" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_c00a763839ebfc70dd58e208145c48e8" parent="aspace_373c4834bb27427af46d482ba21072a8" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref126_zg5" level="file">
+        <did>
+          <unittitle>English 52 Notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_dd6052e57a318fe66e89742297061e67" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_58d4dec35dc7b9d13be16fd95f2d2b5d" parent="aspace_dd6052e57a318fe66e89742297061e67" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref128_6wc" level="file">
+        <did>
+          <unittitle>English 152 (Shelley)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d95e0a4fe60cec68c3706b94aba8b560" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_f0e068c0403f06d18be31529b7e8ca3e" parent="aspace_d95e0a4fe60cec68c3706b94aba8b560" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref130_rf8" level="file">
+        <did>
+          <unittitle>Miscellaneous Notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3bff17c33c8c6531a0e94590384dc4f3" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_247648e9db9d7a067a8029932f635d1a" parent="aspace_3bff17c33c8c6531a0e94590384dc4f3" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref132_86j" level="file">
+        <did>
+          <unittitle>Lucretius Questions</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_2be6984de23a17c5c654966ccb3ef1be" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_8cd31f630fe63125dad0a3534e57403c" parent="aspace_2be6984de23a17c5c654966ccb3ef1be" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref134_svs" level="file">
+        <did>
+          <unittitle>Reorganization of Columbian College</unittitle>
+          <unitdate datechar="creation">1949-1950</unitdate>
+          <container id="aspace_5b86a72c3bfb0c3074e91971ddc97d9c" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_ba07c1e8bf8a418469fb05c01f28da8e" parent="aspace_5b86a72c3bfb0c3074e91971ddc97d9c" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref136_swd" level="file">
+        <did>
+          <unittitle>Freshman Composition</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_dd79350334a049382a49ffcb7d0e7599" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_a6a3de573283c0e7a9fc5aeb45ca5cff" parent="aspace_dd79350334a049382a49ffcb7d0e7599" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref138_bi1" level="file">
+        <did>
+          <unittitle>English 92 (Dante)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_acd8a5849bd2c4e936051af08b80db0c" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_b8c74f37caa6c3f42f2958c3abfff447" parent="aspace_acd8a5849bd2c4e936051af08b80db0c" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref140_aco" level="file">
+        <did>
+          <unittitle>Renaissance</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b513cc32c5ab43089f5713d054fa8bc0" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_6f55bc1ca040b884ed94155ccfb80265" parent="aspace_b513cc32c5ab43089f5713d054fa8bc0" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref142_jkr" level="file">
+        <did>
+          <unittitle>English 92 (Roland)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_be3bcfeda8b26870fe0aa5f4558a3723" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_30ebedc73853eb02c59ca0840b8c8acd" parent="aspace_be3bcfeda8b26870fe0aa5f4558a3723" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref144_tzu" level="file">
+        <did>
+          <unittitle>English 92 (Spanish Lit.- Cervantes)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_15ce9367403146a4050981426070685c" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_6ddb4364f3f7caf880a673f6a450c5b4" parent="aspace_15ce9367403146a4050981426070685c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref146_bpj" level="file">
+        <did>
+          <unittitle>English 92 (Philosophers)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_412aacb07256fa6dcb67550f16c66432" label="Mixed Materials [GW: 32882018204688]" type="Box">5</container>
+          <container id="aspace_6fd579b8a6c5e17f1c973745964ec09f" parent="aspace_412aacb07256fa6dcb67550f16c66432" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref148_prn" level="file">
+        <did>
+          <unittitle>Department</unittitle>
+          <unitdate datechar="creation">1950</unitdate>
+          <container id="aspace_9844a54b82b9bc1fb781b3dcd3d1d7de" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_a937006dea0d3b1557231c2178e90865" parent="aspace_9844a54b82b9bc1fb781b3dcd3d1d7de" type="Folder">1</container>
+        </did>
+        <odd id="aspace_8e3fffe0b9a401bcd8211d7d4a873159">
+          <head>General note</head>
+          <p>Spring</p>
+        </odd>
+      </c>
+      <c id="aspace_ref150_rz0" level="file">
+        <did>
+          <unittitle>George Meredith</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_64d17e205f2264316dcf79f680200710" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_5c068073ae512cf697c22bc689321b77" parent="aspace_64d17e205f2264316dcf79f680200710" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref152_sha" level="file">
+        <did>
+          <unittitle>Drama 91 I</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f0f2baecab5888a2c118e2b4b25a346d" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_a270373ac72bc78c154dd945b05db01b" parent="aspace_f0f2baecab5888a2c118e2b4b25a346d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref154_d6o" level="file">
+        <did>
+          <unittitle>English 91 (Classic Epics)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_785b3bbf397991052b0afd5f9b63abcd" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_924d3a516fc2b9d89024377d70f129c8" parent="aspace_785b3bbf397991052b0afd5f9b63abcd" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref156_bhf" level="file">
+        <did>
+          <unittitle>Drama 91 II</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_226d172c25c7c0829361ac8fabe28660" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_d0e65f94fccac664e6734494f5a92fde" parent="aspace_226d172c25c7c0829361ac8fabe28660" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref158_55v" level="file">
+        <did>
+          <unittitle>English 92 (Njal's Saga)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_fc0fac4f8b8d5c46043622eaafd7f9fa" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_bb56508f9418aa5b87c0be48b7581d72" parent="aspace_fc0fac4f8b8d5c46043622eaafd7f9fa" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref160_06i" level="file">
+        <did>
+          <unittitle>Drama 91 III</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_16c9919e9354ddf386897aedc5deabe5" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_000e7799a65a37b9ae43a479382efb57" parent="aspace_16c9919e9354ddf386897aedc5deabe5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref162_76o" level="file">
+        <did>
+          <unittitle>English 92 Exams</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ac42c2b4626560199daa2db3ea300977" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_0427cab8ea18134961bed556ca0521da" parent="aspace_ac42c2b4626560199daa2db3ea300977" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref164_9qc" level="file">
+        <did>
+          <unittitle>Outlines</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_328a707beb05fc04db9871412451840d" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_0215a9c5dcfa25592404825422614604" parent="aspace_328a707beb05fc04db9871412451840d" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref166_v00" level="file">
+        <did>
+          <unittitle>Neo-Classicism</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_2f7fb2895d54c17530086d0136ee013f" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_df1dc1e54ddc3ae7324e27354a0552de" parent="aspace_2f7fb2895d54c17530086d0136ee013f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref168_3t1" level="file">
+        <did>
+          <unittitle>English 151 (Romantic Movement)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_81d806e9b6bf2cbb27b8d01c0d56b716" label="Mixed Materials [GW: 32882018204696]" type="Box">6</container>
+          <container id="aspace_78901c9189f8fba636891b32611ce785" parent="aspace_81d806e9b6bf2cbb27b8d01c0d56b716" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref170_jo4" level="file">
+        <did>
+          <unittitle>Types Of European Lit.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_633a06a9575b50c9f31740e37ada2012" label="Mixed Materials [GW: 32882018204845]" type="Box">7</container>
+          <container id="aspace_27ec450f446da8c873b58951c39366a3" parent="aspace_633a06a9575b50c9f31740e37ada2012" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref172_sfs" level="file">
+        <did>
+          <unittitle>Lectures</unittitle>
+          <unitdate datechar="creation">1946</unitdate>
+          <container id="aspace_97cba433ef9a005140bd55c8a2269b5e" label="Mixed Materials [GW: 32882018204845]" type="Box">7</container>
+          <container id="aspace_49148e6eaa673f737f94991787c6491b" parent="aspace_97cba433ef9a005140bd55c8a2269b5e" type="Folder">2</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

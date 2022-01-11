@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2152.xml">ms2152.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Orville W. Crowder's Cheasapeake and Ohio Canal collection, <date calendar="gregorian" era="ce">"1927-1997</date>  
+
+ <num>MS2152</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:40:20 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Orville W. Crowder's Chesapeake and Ohio Canal collection</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Crowder, Orville W.</persname>
+      </origination>
+      <unitid>MS2152</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1927/1997" type="inclusive">1927-1997</unitdate>
+      <unitdate datechar="creation" normal="1951/1974" type="bulk">1951-1974</unitdate>
+      <abstract id="aspace_5988b533b7f9ac54993dbadb5543fbf2">This collection contains newspaper clippings, newsletters, photographs, maps, guide books, certificates, color slides, reports, pins, membership cards, and other memorabilia. The material dates from 1927-1997, but the bulk of the material dates from 1951-1974.  The material was collected by Orville Wright Crowder and relates to his tour and preservation work on the Chesapeake and Ohio Canal.  Much of the materials consist of maps of Maryland, Pennsylvania, Virginia and Ohio.</abstract>
+      <physloc id="aspace_2225623fc7dd83d88e3bb37e6a9ce77f">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_96fcc8e5282de55a3a95895d1d384fbe">
+      <head>Preferred citation</head>
+      <p>Orville W. Crowder's Cheasapeake and Ohio Canal collection, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <acqinfo id="aspace_ba867694a695330fa1bbc753351d9843">
+      <head>Acquisition Information</head>
+      <p>Gift of Donald Messersmith 1/26/2006 (accession 2006.032)</p>
+    </acqinfo>
+    <userestrict id="aspace_f61fe04fea4de9fc54cbdf29237c0aaa">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_92a00fd18f5d67c89272fb7580072343">
+      <head>Historical or Biographical Note</head>
+      <p>Orville Wright Crowder (1904 - 1974) was a nature enthusiast that worked as a historian and guide for the Chesapeake and Ohio Canal Association from 1933 - 1974. His contributions to the association included helping to measure and describe the Chesapeake and Ohio Canal, creating various clubs and organizations and leading a daily bird tour. His most notable achievements outside of the C&amp;O Association include helping create, measure and describe the Appalachian trail, becoming the third person to hike the entire length of the trail and founding the World Nature Tours and the World Nature Club. His extensive nature tours allowed him to set foot on each country in the world except five as well as hike the highest points of each state within the United States except for Alaska and Hawaii.</p>
+    </bioghist>
+    <scopecontent id="aspace_e6f7479f093391bf697a8ad69154fcc0">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains newspaper clippings, newsletters, photographs, maps, guide books, certificates, color slides, reports, pins, membership cards, and other memorabilia. The material dates from 1927-1997, but the bulk of the material dates from 1951-1974.  The material was collected by Orville Wright Crowder and relates to his tour and preservation work on the Chesapeake and Ohio Canal.  Much of the materials consist of maps of Maryland, Pennsylvania, Virginia and Ohio.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_dd1a2cd16a41ec679a605bc7243933f7">
+      <head>Conditions Governing Access note</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <arrangement id="aspace_dd248ba3d2deb730bd9452a49c6802d4">
+      <head>Arrangement note</head>
+      <p>Folders are organized alphabetically; topographical maps are arranged in order of the canal's route.  This collection is not divided into series.</p>
+    </arrangement>
+    <controlaccess>
+      <geogname source="lcsh">Chesapeake and Ohio Canal (Md. and Washington, D.C.)</geogname>
+      <genreform source="aat">Photographs</genreform>
+      <geogname source="lcsh">Chesapeake and Ohio Canal National Historical Park</geogname>
+      <subject source="lcsh">Membership</subject>
+      <genreform source="aat">Color slides</genreform>
+      <subject source="lcsh">Guidebooks</subject>
+      <genreform source="aat">Maps</genreform>
+      <corpname authfilenumber="n94035948" rules="aacr" source="naf">Chesapeake &amp; Ohio Canal Association -- Pictorial works</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13_vjc" level="file">
+        <did>
+          <unittitle>Along the Towpath newsletter</unittitle>
+          <unitdate datechar="creation" normal="1970/1973" type="inclusive">03/20/1970-10/1973</unitdate>
+          <container id="aspace_c41c22b68438c65febdcd1ea6d96d745" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_8d161e3ca2a14ab9fabeba5c14c83bce" parent="aspace_c41c22b68438c65febdcd1ea6d96d745" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_11d" level="file">
+        <did>
+          <unittitle>Along the Towpath newsletter</unittitle>
+          <unitdate datechar="creation" normal="1996/1996" type="inclusive">06/1996-12/1996</unitdate>
+          <container id="aspace_805061bc13f157b3500e9ce06b643a1d" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_a77a111ed7f6557fe7d63fefab92d32b" parent="aspace_805061bc13f157b3500e9ce06b643a1d" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_gkj" level="file">
+        <did>
+          <unittitle>The Amazing Pennsylvania Canals</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_8d91a9afaa43501dc1f5e68cfda80901" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_b5a0e84804605fe4a93a2bfb80b717cf" parent="aspace_8d91a9afaa43501dc1f5e68cfda80901" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref17_qey" level="file">
+        <did>
+          <unittitle>C and O Canal National Monument staff</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">circa 1962</unitdate>
+          <container id="aspace_2e85a0de744b97236ea6634ef8941c40" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_4aaa2b85c43e4be4b4e178a822c6a1f9" parent="aspace_2e85a0de744b97236ea6634ef8941c40" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_ius" level="file">
+        <did>
+          <unittitle>C and O Canal of Cumberland, Maryland, Inc.</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">07/28/1973</unitdate>
+          <container id="aspace_c0121899689a9dcef40351b8e7cce2bc" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_cbc0577771bc4e1f66eb21257186d8fc" parent="aspace_c0121899689a9dcef40351b8e7cce2bc" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref19_frq" level="file">
+        <did>
+          <unittitle>C and O Canal memorabilia</unittitle>
+          <unitdate datechar="creation" normal="1924/1971" type="inclusive">circa 1924 - circa 1971</unitdate>
+          <container id="aspace_0597e64f1a0675a1226b33f00af92506" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_260e3253cc8d6ca78f602e41bea6a70b" parent="aspace_0597e64f1a0675a1226b33f00af92506" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_dnu" level="file">
+        <did>
+          <unittitle>Chesapeak and Ohio Canal Association</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">undated and 01/30/1997</unitdate>
+          <container id="aspace_f0813489a67b766a947a56321d713a1c" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_5d78d7d3f610d6f293035b9584bb60a6" parent="aspace_f0813489a67b766a947a56321d713a1c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref21_f2w" level="file">
+        <did>
+          <unittitle>Clippings</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container id="aspace_35f0f1c7f38f1fc61648dbe33111f1ec" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_d1dad713d0b076e5fd9c5ec87ffbde75" parent="aspace_35f0f1c7f38f1fc61648dbe33111f1ec" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_pwn" level="file">
+        <did>
+          <unittitle>Collection of maps of the Chesapeake and Ohio Canal</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container id="aspace_310a9915604a6bb2b9f3ce9167586c24" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_8f7e417457afbd1091c8a7c8bda35e17" parent="aspace_310a9915604a6bb2b9f3ce9167586c24" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref23_4yy" level="file">
+        <did>
+          <unittitle>Death claims Orville Crowder</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">09/1974</unitdate>
+          <container id="aspace_80713def64c8839f5056c9b2d6556a8c" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_8255d7f1827c470ca19cfdda414a8832" parent="aspace_80713def64c8839f5056c9b2d6556a8c" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_xk6" level="file">
+        <did>
+          <unittitle>Gude seeks to preserve C and O Canal</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_84d1c5f348f37d8247d6ebcd218d2c6c" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_7ed05233638e9b64d3b36cc5b7e354ec" parent="aspace_84d1c5f348f37d8247d6ebcd218d2c6c" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref25_8yi" level="file">
+        <did>
+          <unittitle>Membership cards</unittitle>
+          <unitdate datechar="creation" normal="1964/1968" type="inclusive">1964-1968</unitdate>
+          <container id="aspace_25a2547457e81f871d8c5e5385e14887" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_3cb1b7335e98c2edd3c847c00523bda3" parent="aspace_25a2547457e81f871d8c5e5385e14887" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_lft" level="file">
+        <did>
+          <unittitle>Photograph of Ernest Grubb, Orville Crowder, and Supreme Court Justice William Douglas</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c8b6382dfdea1d7ea8e6e2f703c7d0df" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_6c3518410cc09dd3b274e1bf5096c80d" parent="aspace_c8b6382dfdea1d7ea8e6e2f703c7d0df" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref27_1q0" level="file">
+        <did>
+          <unittitle>Photographs of Harpers Ferry vicinity </unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_727dcdad360ee750f72d7692e5e0acf1" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_138728b7dc2eae87f236abe160e76d0e" parent="aspace_727dcdad360ee750f72d7692e5e0acf1" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_jib" level="file">
+        <did>
+          <unittitle>Public information meeting to discuss C and O Canal</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">05/1972</unitdate>
+          <container id="aspace_3c85106271ef51964a903e23d48d698f" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_44f30fe9a9dc612b69584083e60d99aa" parent="aspace_3c85106271ef51964a903e23d48d698f" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_6b5" level="file">
+        <did>
+          <unittitle>Slides of C and O Canal</unittitle>
+          <unitdate datechar="creation" normal="1954/1959" type="inclusive">circa 1954 - circa 1959</unitdate>
+          <container id="aspace_739cd31a79e3f73c9c42e645b517697f" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_4647b6797ba5dc1568af0921753b53ea" parent="aspace_739cd31a79e3f73c9c42e645b517697f" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_x3j" level="file">
+        <did>
+          <unittitle>A Study of the History of the Potomac River Valley</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_910c3afe6c1a9e491072c4aa29dc1461" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_30958925b8afc73f6a7e33f1a3ed5d07" parent="aspace_910c3afe6c1a9e491072c4aa29dc1461" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_qgy" level="file">
+        <did>
+          <unittitle>Towpath Guide - Sections 1 and 2</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container id="aspace_259665141249e09d5acb15e61c649d4a" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_aef815132ff0c44af58ff328278efa9c" parent="aspace_259665141249e09d5acb15e61c649d4a" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_rqq" level="file">
+        <did>
+          <unittitle>Towpath Guide - Sections 3 and 4</unittitle>
+          <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <container id="aspace_e66f75a46e3068b9981596a3ffebf257" label="Mixed Materials [GW: 32882019238552 IM: 560702008]" type="Box">1</container>
+          <container id="aspace_81c916de1f3b6a2a2a8acfdb0ac037ac" parent="aspace_e66f75a46e3068b9981596a3ffebf257" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_foj" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 1 - Washington West</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_3dac1cd4229a58fcac61b14236e9aad4" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_60cbe769717a789aa6f1f90a61a03ee6" parent="aspace_3dac1cd4229a58fcac61b14236e9aad4" type="item">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_3a5" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 2 - Falls Church</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_004a14dcdeb95a4640022d1b7120780a" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_c28baa7b14fcd586f1956201ed59150e" parent="aspace_004a14dcdeb95a4640022d1b7120780a" type="item">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_ntn" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 3 - Rockville</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_8ab620d1cbac472fc517dd5cac596649" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_ba7160aa0237ae0c88defda77063c1ec" parent="aspace_8ab620d1cbac472fc517dd5cac596649" type="item">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref37_tlp" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 4 - Seneca</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_0261c43c77ed48ff6add785b2d037201" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_5a0354d2d03bcd238c87d24fac436e21" parent="aspace_0261c43c77ed48ff6add785b2d037201" type="item">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_0vs" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 5 - Sterling</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_cb45a8025549e7b8f849a10b73242071" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_a526359a585dd8d33f2e7d324e453bd8" parent="aspace_cb45a8025549e7b8f849a10b73242071" type="item">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref39_mqj" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 6 - Leesburg</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_58ef1e9c201bba1ead4d1834d942934f" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_d44ae9501369183229f3c14ad6513151" parent="aspace_58ef1e9c201bba1ead4d1834d942934f" type="item">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref40_pdw" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 7 - Waterford</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_5db67a8a0ca1117d5609eb788300cb7f" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_ba221649e97a989155e4327ea8212eee" parent="aspace_5db67a8a0ca1117d5609eb788300cb7f" type="item">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref41_ixv" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 8 - Poolesville</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_f6d3f1c8feb3e53403337058e26f68f1" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_259989eca139f49cc240d39b421eb36a" parent="aspace_f6d3f1c8feb3e53403337058e26f68f1" type="item">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_xct" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 9 - Buckeystown</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container id="aspace_0e76d19232fe95323b420e4710ef4835" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_96a65a30b0c27bf0fab230fca7da86ef" parent="aspace_0e76d19232fe95323b420e4710ef4835" type="item">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref43_8dy" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 10 - Point of Rocks</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_7877fe24728f3c714b7fb02357b5d713" label="Mixed Materials [GW: 32882019238560]" type="map-folder">1</container>
+          <container id="aspace_2b21053735f23352c634ee8068b47a44" parent="aspace_7877fe24728f3c714b7fb02357b5d713" type="item">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_s8k" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 11 - Harpers Ferry</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_7e39996478bbaeb9401e18ea9e065cbb" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_3496b9471b0115a48b08a5890f7cba74" parent="aspace_7e39996478bbaeb9401e18ea9e065cbb" type="item">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref45_ouj" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 13 - Keedysville</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_6d32e0adc2e8960e9184d13862f6625a" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_81f907ce1c6623bb6a513d9715eea898" parent="aspace_6d32e0adc2e8960e9184d13862f6625a" type="item">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_ch2" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 15 - Williamsport</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_8bc8741c7d0b110ac5634032e2cd821c" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_a41ef9ef0541b4bcd23f72f2b32ed790" parent="aspace_8bc8741c7d0b110ac5634032e2cd821c" type="item">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref47_dta" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 16 - Hedgesville</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_2ad18ac9374f42e8fd01927d330813ff" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_33f760de97a2cf54b54403b059467f71" parent="aspace_2ad18ac9374f42e8fd01927d330813ff" type="item">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref48_klj" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 17 - Clear Springs</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container id="aspace_6ce7ba3759ce336fc2c700f06ebb757f" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_1d90ae4fb85e44819f1257001af8e101" parent="aspace_6ce7ba3759ce336fc2c700f06ebb757f" type="item">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref49_8yd" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 18 - Big Pool</unittitle>
+          <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_5eb0c945d7056d8c9d911658b49840ef" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_4f78c00cc60b25d7a344f68f26631133" parent="aspace_5eb0c945d7056d8c9d911658b49840ef" type="item">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref50_a5p" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 19 - Cherry Run</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_f58982ddd61268b8385c8a79af2e87ec" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_e155c9675ef08987199e65a0107d582f" parent="aspace_f58982ddd61268b8385c8a79af2e87ec" type="item">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref51_wvf" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 20 - Hancock</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_9414737508f33dc0babe202fa24b616d" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_b154fd46e7000686e434a16ccb49e6a8" parent="aspace_9414737508f33dc0babe202fa24b616d" type="item">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref52_lnr" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 21 - Bellegrove</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_41b26f1d520402d5235b6be8534db1f2" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_698e8d3fe7228d085737143aedcf50b7" parent="aspace_41b26f1d520402d5235b6be8534db1f2" type="item">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref53_d7p" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 22 - Great Cacapon</unittitle>
+          <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+          <container id="aspace_a19adee16798f82af2cf3577f5c89f1b" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_a30d058c0df49f5115d5843e431b8f3c" parent="aspace_a19adee16798f82af2cf3577f5c89f1b" type="item">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref54_hbe" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 23 - Artemas</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_312fdf8114f9a888d032b1b20310d57d" label="Mixed Materials [GW: 32882019238578]" type="map-folder">2</container>
+          <container id="aspace_c9f5ab487900812e7f44f2c2f872f773" parent="aspace_312fdf8114f9a888d032b1b20310d57d" type="item">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref55_hlp" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 24 - Paw Paw</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_beca362de56f6f41f7fea5464cb72710" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_e2dc23f8496815a11e7c73b381c869f2" parent="aspace_beca362de56f6f41f7fea5464cb72710" type="item">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref56_5uw" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 25 - Old Town</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_a264bec3046a4008a5032465fdc6eaa3" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_d3bac63986d83a97f79d4afc52268eee" parent="aspace_a264bec3046a4008a5032465fdc6eaa3" type="item">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref57_3q3" level="file">
+        <did>
+          <unittitle>C and O Canal Topographical map 26-29</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f3c8c7a17f930615865c77b3a7189477" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_edfbde953ff49428319cc9109b6ef8e0" parent="aspace_f3c8c7a17f930615865c77b3a7189477" type="item">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref58_c4t" level="file">
+        <did>
+          <unittitle>Map of Allegany County</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container id="aspace_22fdd589e307e0d7062a0d820c362d89" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_743d805497345e110efa970d4f248677" parent="aspace_22fdd589e307e0d7062a0d820c362d89" type="item">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref59_pwt" level="file">
+        <did>
+          <unittitle>Map of Federick County</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container id="aspace_ae6fca8b8221dcc745dff5fdaa6f0e81" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_f44202f3bbd86d475396a42d210e872f" parent="aspace_ae6fca8b8221dcc745dff5fdaa6f0e81" type="item">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref60_16a" level="file">
+        <did>
+          <unittitle>Map of Montgonery County and DC</unittitle>
+          <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+          <container id="aspace_910b52b99df530839995519c7965a68a" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_5fac1a65adfb7f975cef0a456cf3d274" parent="aspace_910b52b99df530839995519c7965a68a" type="item">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref61_y0r" level="file">
+        <did>
+          <unittitle>Map of Hancock, W. VA - MD - PA</unittitle>
+          <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
+          <container id="aspace_849e0758d2d2fffc84ca89e4bd2b632e" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_39398488b1b6fd515cd2470c370811b9" parent="aspace_849e0758d2d2fffc84ca89e4bd2b632e" type="item">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref62_p4r" level="file">
+        <did>
+          <unittitle>Map of Washington County</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container id="aspace_29d17f0cb4ff3d2515b6145cbd3802bf" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_2ddf4b6be95a782b741e41a54bc2dbff" parent="aspace_29d17f0cb4ff3d2515b6145cbd3802bf" type="item">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref63_z16" level="file">
+        <did>
+          <unittitle>Map of HancockC and O Canal Topographical map 19 - Cherry Run</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container id="aspace_ed3ecd24f36ff1a4fb7311b1759c47f6" label="Mixed Materials [GW: 32882019238586]" type="map-folder">3</container>
+          <container id="aspace_a4f1f0010d41efe48044c52d5b49b69c" parent="aspace_ed3ecd24f36ff1a4fb7311b1759c47f6" type="item">9</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

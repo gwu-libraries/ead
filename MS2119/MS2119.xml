@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2119.xml">ms2119.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Henry Percy Litchfield papers, <date calendar="gregorian" era="ce">1865-1984</date>
+ <num>MS2119</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:34 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Henry Percy Litchfield papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Litchfield, Henry Percy</persname>
+      </origination>
+      <unitid>MS2119</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1865/1984" type="inclusive">1865-1984</unitdate>
+      <abstract id="aspace_a275b587d0c62ae4e57d55547c85a463">Collection contains translations of German works, drafts of Litchfield's book The Franco-German War of 1870; unpublished works on the topics of European history, the U.S. presidents, religion, and other topics in English, German, French, and Italian; and journals dated 1864-70 and 1877-84 covering his extensive European travel, family matters, and social life. In addition, the collection contains a description, dated 1875, of Gracehill, the family home in Brooklyn, N.Y.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_a05ad7b709d1feab091187fe82057e84">
+      <head>Preferred citation</head>
+      <p>Henry Percy Litchfield papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_94033dc1e382a7441b519a19beabd186">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_164d95d9b28b05632ddc16e87d702309">
+      <head>Acquisition Information</head>
+      <p>Henry Percy Litchfields's sister, Grace Denio Litchfield, donated these papers on April 14, 1942.</p>
+    </acqinfo>
+    <userestrict id="aspace_15ace2f9b60aba7bbf206af79d9e0321">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_0433cbff4c3803a85bb44a866e5ad867">
+      <head>Historical or Biographical Note</head>
+      <p>Henry Percy Litchfield (1847-1919) was an amateur historian and translator. He was the brother of author Grace Denio Litchfield.</p>
+    </bioghist>
+    <scopecontent id="aspace_a1c62316d603777d3689e28e7d941b4c">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains translations of German works, drafts of Litchfield's book The Franco-German War of 1870; unpublished works on the topics of European history, the U.S. presidents, religion, and other topics in English, German, French, and Italian; and journals dated 1864-70 and 1877-84 covering his extensive European travel, family matters, and social life. In addition, the collection contains a description, dated 1875, of Gracehill, the family home in Brooklyn, N.Y.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Religion</subject>
+      <subject source="lcsh">United States presidents</subject>
+      <geogname source="lcsh">Brooklyn (New York, N.Y.)</geogname>
+      <subject source="lcsh">Litchfield family</subject>
+      <subject source="lcsh">Europe -- Description and travel</subject>
+      <subject source="lcsh">Social life and customs</subject>
+      <subject source="lcsh">Franco-Prussian War, 1870-1871</subject>
+      <subject source="lcsh">United States -- History</subject>
+      <persname source="naf">Litchfield, Henry Percy</persname>
+      <persname rules="aacr" source="naf">Litchfield, Grace Denio</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9_h4n" level="file">
+        <did>
+          <unittitle>JOURNAL</unittitle>
+          <unitdate datechar="creation">1865-1868</unitdate>
+          <container id="aspace_dfa76bd5e6963b26c4c9c011302627fd" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_f064cd81bf2457dbe1f49f34b03d3f99" parent="aspace_dfa76bd5e6963b26c4c9c011302627fd" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_qtf" level="file">
+        <did>
+          <unittitle>JOURNAL: Souvenirs of Gracehill</unittitle>
+          <unitdate datechar="creation">1875</unitdate>
+          <container id="aspace_e1037e9071593823230aa0a35b0b7e33" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4610c5d97f9d351c0d610a62ab296a60" parent="aspace_e1037e9071593823230aa0a35b0b7e33" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref11_o46" level="file">
+        <did>
+          <unittitle>JOURNAL</unittitle>
+          <unitdate datechar="creation">1877-1880</unitdate>
+          <container id="aspace_549519489485b6c6e4911dcea7ec8673" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_48f4ac3fccba10a712d4355b12e9db4e" parent="aspace_549519489485b6c6e4911dcea7ec8673" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_ymx" level="file">
+        <did>
+          <unittitle>JOURNAL</unittitle>
+          <unitdate datechar="creation">1880-1884</unitdate>
+          <container id="aspace_1e57eabfbc6bb7d4baf19221f64f0c33" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_9f51843c5f9c43d11bc92b1280825927" parent="aspace_1e57eabfbc6bb7d4baf19221f64f0c33" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref13_pl9" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hacklaender, F.W. Tales for the young</unittitle>
+          <unitdate datechar="creation">1875</unitdate>
+          <container id="aspace_f57e752c95c7bde6ebb0616896de3afd" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_6b54418fd510cd4956c3fe6d056201c6" parent="aspace_f57e752c95c7bde6ebb0616896de3afd" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_koe" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hacklaender, F.W. Tales for the young</unittitle>
+          <unitdate datechar="creation">1876</unitdate>
+          <container id="aspace_f59d576687c280f721995418575fc6d5" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_7fffee95539fcde026ec0a2705d04ffe" parent="aspace_f59d576687c280f721995418575fc6d5" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_y4q" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hacklaender, Otto, Grimm &amp; Bone. Tales from the German</unittitle>
+          <unitdate datechar="creation">1876</unitdate>
+          <container id="aspace_b097878a91914480051c4b014db7d31b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_414a180c7998e21d439437d54efa5c01" parent="aspace_b097878a91914480051c4b014db7d31b" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_y70" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Otto, Emil. Tales for the people</unittitle>
+          <unitdate datechar="creation">1876</unitdate>
+          <container id="aspace_49a8ce6dc56b4011066190e0a80e9332" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_d7fdf165e3bc9ae45440800b1683bc51" parent="aspace_49a8ce6dc56b4011066190e0a80e9332" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref17_5on" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hacklaender, F.W. Christmas story</unittitle>
+          <unitdate datechar="creation">1877</unitdate>
+          <container id="aspace_a095e55d408a9f9ae12c7be84d619f85" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_6b059da18b7d750a6b9beda5f2975de0" parent="aspace_a095e55d408a9f9ae12c7be84d619f85" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_oef" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. The inn in the Spessart</unittitle>
+          <unitdate datechar="creation">1879</unitdate>
+          <container id="aspace_978684ead4ab04debb3a86b20a589ed2" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4966d660be46bc5d4c26a0cb42101fc1" parent="aspace_978684ead4ab04debb3a86b20a589ed2" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref19_snf" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. Tales for the young</unittitle>
+          <unitdate datechar="creation">1879</unitdate>
+          <container id="aspace_f938d1eb73111dcabf937135db19feef" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_46d04da7cbe9008900d9ca4285e0220f" parent="aspace_f938d1eb73111dcabf937135db19feef" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_d8a" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. Hauff's tales</unittitle>
+          <unitdate datechar="creation">1879</unitdate>
+          <container id="aspace_8c6c635ee8163148f5584406ac827a13" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_9bb6d5ea49024e9801e03ab3745b309e" parent="aspace_8c6c635ee8163148f5584406ac827a13" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref21_sgy" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. The caravan</unittitle>
+          <unitdate datechar="creation">1880</unitdate>
+          <container id="aspace_240594b4e00fbd17a1e163d3eb3e1063" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_2dcf8069e12b5f1ef7f0401d375f43eb" parent="aspace_240594b4e00fbd17a1e163d3eb3e1063" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_hjk" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. The inn in the Spessart</unittitle>
+          <unitdate datechar="creation">1880</unitdate>
+          <container id="aspace_ca52aeb6dbd831801d440ec260c96c1d" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_98ccf85e3c0f76a8fba5c9caa9d3ce06" parent="aspace_ca52aeb6dbd831801d440ec260c96c1d" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref23_yt9" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Hauff, William. The sheik of Alexandria and his slaves</unittitle>
+          <unitdate datechar="creation">1880</unitdate>
+          <container id="aspace_2ed66a7ac66bb0fee08031d5d2400d4c" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_c76dc2a3e6f47c33b25f3e9cb7b37104" parent="aspace_2ed66a7ac66bb0fee08031d5d2400d4c" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_4ea" level="file">
+        <did>
+          <unittitle>TRANSLATED WORK FROM GERMAN TO ENGLISH: Lessing, [Gotthold Ephraima] Fables, n.d.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_21d9db9716e0b946b200fa58aefab183" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_8f06acf8fdf3b4654fa18a2ef01a0c6e" parent="aspace_21d9db9716e0b946b200fa58aefab183" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref25_nzw" level="file">
+        <did>
+          <unittitle>ORIGINAL WORK: Composition</unittitle>
+          <unitdate datechar="creation">1868</unitdate>
+          <container id="aspace_59b80b9cdde18cd9dcfe0edafc472386" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_b84d80e56bdab621b6ff75c0742968ed" parent="aspace_59b80b9cdde18cd9dcfe0edafc472386" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_gzv" level="file">
+        <did>
+          <unittitle>ORIGINAL WORK: The Franco-German War of 1870 (2 drafts)</unittitle>
+          <unitdate datechar="creation">1872</unitdate>
+          <container id="aspace_7aaf22a191a6899d077de4cdb16642f3" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_35abf2ecfc6c8d662bb2b31cd6a3ba83" parent="aspace_7aaf22a191a6899d077de4cdb16642f3" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref27_ue4" level="file">
+        <did>
+          <unittitle>ORIGINAL WORK: [History of Europe]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3a103c435286d3cb62dc781a9c67aaea" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_ed2780daf941a9b250d66560a57ff2bd" parent="aspace_3a103c435286d3cb62dc781a9c67aaea" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_9cq" level="file">
+        <did>
+          <unittitle>ORIGINAL WORK: [Lives of the Presidents]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1b2bc111fdb9959f01cea3d12d907f00" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_465298033ecd92d6768e1b36d6b4c1e4" parent="aspace_1b2bc111fdb9959f01cea3d12d907f00" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_lrg" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: [Thoughts on religion]</unittitle>
+          <unitdate datechar="creation">1861</unitdate>
+          <container id="aspace_f08bc9ec504ca473c423df690ed7c0ed" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_99ace9d2953296dc2394c0a8186d0726" parent="aspace_f08bc9ec504ca473c423df690ed7c0ed" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_k4o" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: [Description of animals (with sketches)]</unittitle>
+          <unitdate datechar="creation">1865</unitdate>
+          <container id="aspace_765362ca2f534bf5a4285b73a75e7ad4" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_8c9c635f5b48d2d6f6b26424585897e4" parent="aspace_765362ca2f534bf5a4285b73a75e7ad4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_s9k" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: German penmanship</unittitle>
+          <unitdate datechar="creation">1868</unitdate>
+          <container id="aspace_c2ced852a73c89df44c4d0883e907fc5" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_3b8c08eb49e2950a8e80c154072660d3" parent="aspace_c2ced852a73c89df44c4d0883e907fc5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_m50" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Travels</unittitle>
+          <unitdate datechar="creation">1868-1870</unitdate>
+          <container id="aspace_d0c56894eaf09aeea67d55c6ea7a6ac6" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_b000d54fc886379d631e8e349ac9b3c3" parent="aspace_d0c56894eaf09aeea67d55c6ea7a6ac6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref33_hyi" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Conversazione Italiane</unittitle>
+          <unitdate datechar="creation">1869</unitdate>
+          <container id="aspace_7e70982e88420c503316d78ecf05b775" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_18dff8f7ae5cacb1df9425ec39f0c8d2" parent="aspace_7e70982e88420c503316d78ecf05b775" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_ec4" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: [Thoughts on religion]</unittitle>
+          <unitdate datechar="creation">1869</unitdate>
+          <container id="aspace_ff5031477f8f8cc07def763f63f962ff" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_1910dc6009fd132174abe948179c9e2f" parent="aspace_ff5031477f8f8cc07def763f63f962ff" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_734" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Account book</unittitle>
+          <unitdate datechar="creation">1869-1872</unitdate>
+          <container id="aspace_cdd9169b52401614593f92fa4cb5a290" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_983e89a3db21c96a125e18c45002f3d0" parent="aspace_cdd9169b52401614593f92fa4cb5a290" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_9gl" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: [Letter from H. Litchfield's mother]</unittitle>
+          <unitdate datechar="creation">10/08/1871</unitdate>
+          <container id="aspace_47d0e489ea1352003dd31ebf8829ebc0" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_d8b66540abd1042c1322537a5b664080" parent="aspace_47d0e489ea1352003dd31ebf8829ebc0" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref37_jry" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Notes of the war between Russia and Turkey</unittitle>
+          <unitdate datechar="creation">1877</unitdate>
+          <container id="aspace_4970442990e13e84fa17b5cbc8f0cf11" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_60584602a44f859f80cbf19faac3f130" parent="aspace_4970442990e13e84fa17b5cbc8f0cf11" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_0z0" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Letzioni Italiani, n.d.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a691823c4ae5f3cd88f2ece9194d6e20" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_49c221b0c3ef6d0a1b4f56857850cb0e" parent="aspace_a691823c4ae5f3cd88f2ece9194d6e20" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref39_8f8" level="file">
+        <did>
+          <unittitle>MISCELLANEOUS: Narration. (French history (in French)), .n.d.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f9203597a96a691826172c7d72ebd541" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_af7bf98e6d81807811abd1d01e480cc6" parent="aspace_f9203597a96a691826172c7d72ebd541" type="Folder">7</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

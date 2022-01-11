@@ -1,0 +1,2836 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0070.xml">rg0070.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the English Department records , <date calendar="gregorian" era="ce">1895-2006</date>
+ <num>RG0070</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:18 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>English Department records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">George Washington University. Dept. of English</corpname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Moskowitz, Faye</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="aut" rules="aacr" source="local">McAleavey, David W.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Griffith, Patricia Browning</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Clair , Maxine</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Ziegler, Anna</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Shore, Jane</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="ive" rules="aacr" source="naf">Chandra, Vikram</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="tch" rules="aacr" source="naf">Daiya, Kavita</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="tch" rules="aacr" source="naf">Ihimaera, Witi Tame</persname>
+      </origination>
+      <origination label="Creator">
+        <persname role="tch" rules="aacr" source="naf">Evaristo, Bernardine</persname>
+      </origination>
+      <unitid>RG0070</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.75 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1895-2006</unitdate>
+      <abstract id="aspace_6a8ebea3b24e0bf40658037e744ed962">This collection contains minutes of committee and departmental meetings, Tupper lectures, Ph.D. field exams, class mid-term exams, course descriptions, correspondence, CDs and DVDS, photographs of past faculty (1895-1976) and other materials pertaining to the English Department and the Jenny McKean Moore Fund for Writers. The collection is organized into three series, two containing department files and the third containing the records of the Jenny McKean Moore Fund for Writers.</abstract>
+      <physloc id="aspace_fdedce17dc22b00ca5bf3b0191c41c0f">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_5ce85657bf98c906d38201e94f457625">
+      <head>Preferred citation</head>
+      <p>English Department records , Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <acqinfo id="aspace_8d4c68c3aeaed15b7eefff44dc3e0999">
+      <head>Acquisition Information</head>
+      <p>Materials acquired through transfers from the Engliish Department. The material related to the Jenny McKean Moore Fund were donated by Faye Moskowitz and Susan Willens in two separate accessions.  </p>
+      <p>Gift of David McAleavey 7/29/2009 (acc. 2009.041)</p>
+    </acqinfo>
+    <userestrict id="aspace_b9ff20d0f8e89c4825f25b5f91c84ffd">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_aeca39991cfaba3388f3a826b5237321">
+      <head>Historical or Biographical Note</head>
+      <p>The English Department of The George Washington University is responsible for undergraduate English requirements and offers undergraduate and graduate degrees.</p>
+      <p>English and Literature have always been a part of the curriculum from Columbian College's founding in 1821 to the present. Requisites for admission in 1822 included an acquaintance with English grammar and arithmetic, a thorough knowledge of geography, and the ability to read and write Latin. The prospective student had to be able to translate, with a high degree of competence, Caesar's Commentaries, and the works of Virgil, Sallust, select orations of Cicero, and the New Testament in Greek. A candidate for advanced standing from another college had to pass examinations in all subjects previously taken and show that he left the other institution in good standing. No one was admitted without satisfactory credentials of good moral character. </p>
+      <p>Jenny McKean Moore (1923-1973) was a writer and social activist in Washington, D.C. After her passing in 1973, the Jenny McKean Moore Fund was established at the George Washington University. Formed in 1976 with an endowment left by Jenny McKean Moore, the purpose of the fund is to choose a candidate to teach four semester long creative writing workshops at George Washington University as the Jenny McKean Moore Writer-In-Residence. </p>
+    </bioghist>
+    <scopecontent id="aspace_2b0ef577ed0692a7a9013d56586701c1">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains minutes of committee and departmental meetings, Tupper lectures, Ph.D. field exams, class mid-term exams, course descriptions, photographs of past faculty (1895-1976), and CDS and DVDs of courses taught by GW faculty as distance education courses in 2005. The collection covers 1895 to 2000. The collection was transfered to the University Archives by the Chair of the English Department in 1995.</p>
+      <p>The third series of this collection contains administration files, financial files, correspondence, clippings and other material pertaining to the Jenny McKean Moore Fund for Writers.</p>
+    </scopecontent>
+    <arrangement id="aspace_5df0ac75daefe6144efec0a7edf22689">
+      <head>Collection Organization</head>
+      <p>Organized in four series: department files, department files, Jenny McKean Moore Fund for Writers records, and Distance Education course recordings.</p>
+    </arrangement>
+    <accessrestrict id="aspace_e8686aa055bf8bc208615f823bc74817">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <controlaccess>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Creative writing</subject>
+      <subject source="lcsh">Distance education</subject>
+      <subject source="lcsh">Committees</subject>
+      <subject source="lcsh">Lectures and lecturing</subject>
+      <genreform source="aat">Photographs</genreform>
+      <subject source="lcsh">Examinations</subject>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_xyp" level="series">
+        <did>
+          <unittitle>Departmental files</unittitle>
+          <unitid>RG0070 Series 1</unitid>
+          <unitdate datechar="creation">1895-1987</unitdate>
+          <physdesc id="aspace_daca98ed856b62d4124dc3e6ac64fa29" label="General Physical Description note">2 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_bb730afdbe4d745e9d08b05ff8c53ba2">
+          <head>Scope and Contents note</head>
+          <p>This series is a collection of committee and departmental meetings, Tupper lectures, Ph.D. field exams, class mid-term exams, course descriptions, and photographs of past faculty (1895-1976). The materials range in date from 1964 to1987.</p>
+        </scopecontent>
+        <c id="aspace_ref12_c9d" level="file">
+          <did>
+            <unittitle>Tupper Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_a07ec253037e1c03787a417c7ed028ff" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f6534d51bae324e0656d24e9a2099e7d" parent="aspace_a07ec253037e1c03787a417c7ed028ff" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_9ma" level="file">
+          <did>
+            <unittitle>Tupper Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_03971e526c55104f29d3f96a0f4e057f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eef6b20a86c5a546c937b951edde897a" parent="aspace_03971e526c55104f29d3f96a0f4e057f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_11v" level="file">
+          <did>
+            <unittitle>Tupper Fund--Computer printouts of account</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8a4405477621de2a0c0b638840dd79c5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f1635c6bf243524d571d2e1cf84ec761" parent="aspace_8a4405477621de2a0c0b638840dd79c5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_fcj" level="file">
+          <did>
+            <unittitle>Graduate Committee Report</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_a4cd764757a54110c42671a7d219d2e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_930d0dc44900b759cee82bc1a1c75bf8" parent="aspace_a4cd764757a54110c42671a7d219d2e6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_v5c" level="file">
+          <did>
+            <unittitle>Committee Report: Undergraduate Programs in literature</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7ddb8d4d716ba32c9bdff4ed02b1c097" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1f6a68d1a2f9650344236c745414841d" parent="aspace_7ddb8d4d716ba32c9bdff4ed02b1c097" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_60b" level="file">
+          <did>
+            <unittitle>Committee Report: graduate renovation committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fd200d735a3834ea45f01b93e871cd00" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4aa29302709ae27b2f92e5cf457e9925" parent="aspace_fd200d735a3834ea45f01b93e871cd00" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_n16" level="file">
+          <did>
+            <unittitle>Tupper--Anne R. Barton Lecture Manuscript</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_8a08af65e19356f1fb5d783114dd805a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4dcd00517947e770f2433f6d6947981a" parent="aspace_8a08af65e19356f1fb5d783114dd805a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_h0j" level="file">
+          <did>
+            <unittitle>Sample MA and Ph.D. exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ddeedef4c636270af1619393cf850e2e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_07143c0931e877697d0f7aebeb671d95" parent="aspace_ddeedef4c636270af1619393cf850e2e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_fkp" level="file">
+          <did>
+            <unittitle>MA and Ph.D. reading lists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b541ab32fcc5f9ddba9d92539fb4353c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8ac60a016ba3d919eb198e62f07ff5f9" parent="aspace_b541ab32fcc5f9ddba9d92539fb4353c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_gt4" level="file">
+          <did>
+            <unittitle>Curriculum committee (Prof. Ganz, chairman)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_326974239de6f88d4067cd518841a525" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ca505b73a3391f6f58a6bfaef9ef1177" parent="aspace_326974239de6f88d4067cd518841a525" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_q21" level="file">
+          <did>
+            <unittitle>Committee--graduate programs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_56929d849d84af055351655115bc4c01" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e0d2e50123f6dc4c44229413b2595332" parent="aspace_56929d849d84af055351655115bc4c01" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_aaj" level="file">
+          <did>
+            <unittitle>Committee--Appointments</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ed97eabf49f2c4a846b77b90f3571c58" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_50b821cd07617400b948c9319c845170" parent="aspace_ed97eabf49f2c4a846b77b90f3571c58" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_xa3" level="file">
+          <did>
+            <unittitle>Advisory Council</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_57358e76deec88aa683de6ec950d0c09" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f4fd23a0259ed76a33efebc38c45738b" parent="aspace_57358e76deec88aa683de6ec950d0c09" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_cy0" level="file">
+          <did>
+            <unittitle>Advising</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_265fbbe6d795fd7d20bdb47bfb6fb57b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a40c6b6be18b2ef553bedd1c9429b76a" parent="aspace_265fbbe6d795fd7d20bdb47bfb6fb57b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_gno" level="file">
+          <did>
+            <unittitle>McCandlish Fellowship</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_049ab738676860860076e5e67eb78028" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5fd792a2f0331df329412561d03ed400" parent="aspace_049ab738676860860076e5e67eb78028" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_uah" level="file">
+          <did>
+            <unittitle>Shepard Memorial Fund</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f76157303fd0c59060619968f4508068" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6fec9a2535a91bfd1a72b0764fad321e" parent="aspace_f76157303fd0c59060619968f4508068" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_cq7" level="file">
+          <did>
+            <unittitle>Bequests</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_66c0b0bc12a8991d8e32938256463474" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bef3cda3269079e31630194f6d8d292c" parent="aspace_66c0b0bc12a8991d8e32938256463474" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_a7u" level="file">
+          <did>
+            <unittitle>Tupper Fund--Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3f8897bdf058995d1216d5c9fcfccc64" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_48a1c0c3853e5bad2e6852cc50e0a76e" parent="aspace_3f8897bdf058995d1216d5c9fcfccc64" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_3i1" level="file">
+          <did>
+            <unittitle>Language Examinations</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_496c9711b6d03c8b54799251872eb7e4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_16d8e319f1b339abbe51be2510e57895" parent="aspace_496c9711b6d03c8b54799251872eb7e4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_uyi" level="file">
+          <did>
+            <unittitle>Graduate programs--English Department</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ad9ff0518af000a04ce36146e98e64f8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ff6afeb8d26b51a1ea1563a06818ba5c" parent="aspace_ad9ff0518af000a04ce36146e98e64f8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_ht0" level="file">
+          <did>
+            <unittitle>President's Commission</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6c176930b6b32f5306975e979237e086" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ee90b78b34423152b09bb7d98c3597e2" parent="aspace_6c176930b6b32f5306975e979237e086" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_t9h" level="file">
+          <did>
+            <unittitle>Washington and Writing, Spring conference</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_be4112526ebf8cc091b782c3619d06b6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_53baf3e552c9b028f3e29b80f4bacf2c" parent="aspace_be4112526ebf8cc091b782c3619d06b6" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_7la" level="file">
+          <did>
+            <unittitle>Structure of the Department</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4dc6805a3579702eaba669c90edae03b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5c3afa500a5c68d468d2285ca5b3b488" parent="aspace_4dc6805a3579702eaba669c90edae03b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_pq1" level="file">
+          <did>
+            <unittitle>Curriculum Committee: Department of English</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6b4bb891b4a48e92aa368fbcbc531d8a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_27e7b7e8420373bac70c8b2e35c2f85a" parent="aspace_6b4bb891b4a48e92aa368fbcbc531d8a" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_55b" level="file">
+          <did>
+            <unittitle>Undergraduate Major Programs--English Department</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1fb2204073a640bee2816ab23c9ad203" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_07240fc9bb01d0c8289166c4c793e8e7" parent="aspace_1fb2204073a640bee2816ab23c9ad203" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_0c5" level="file">
+          <did>
+            <unittitle>Advisor's Handbook, Department of English</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a3f8b802d5c0342289326277d34a4177" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_686d98d3fb0fd9f3f6674e03b133a8e9" parent="aspace_a3f8b802d5c0342289326277d34a4177" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_r7s" level="file">
+          <did>
+            <unittitle>Course Descriptions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2273de20895305796c3dbcf58c7340a1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ed45d652db2e5f5d35d9dfe5c4cb858f" parent="aspace_2273de20895305796c3dbcf58c7340a1" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_hz9" level="file">
+          <did>
+            <unittitle>Curriculum Committee</unittitle>
+            <unitdate datechar="creation">1985-1986</unitdate>
+            <container id="aspace_673dc9ab559dd6a2d19f97d7f1791231" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1631c85e7026c29a15f6ff89a450bf8a" parent="aspace_673dc9ab559dd6a2d19f97d7f1791231" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_xlv" level="file">
+          <did>
+            <unittitle>Fall 1985-Spring 1986</unittitle>
+            <unitdate datechar="creation">1985-1986</unitdate>
+            <container id="aspace_e562e5e29044d0cd70d12c9b63d4c91f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_92500e9365e8f02b2207471869435d5a" parent="aspace_e562e5e29044d0cd70d12c9b63d4c91f" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_yh1" level="file">
+          <did>
+            <unittitle>Graduate Program review--Report and Actions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3356b195cd00048c6fb131d073d6e36f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c82452c579240a95e60bb7cb0b60e98a" parent="aspace_3356b195cd00048c6fb131d073d6e36f" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_f7f" level="file">
+          <did>
+            <unittitle>Graduate faculty correspondence</unittitle>
+            <unitdate datechar="creation">1985-1986</unitdate>
+            <container id="aspace_1b33d9e346dee96352a9a4e0f9f7d1af" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0e6165ac7e78f28ce9e7e458aa353f13" parent="aspace_1b33d9e346dee96352a9a4e0f9f7d1af" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_ay8" level="file">
+          <did>
+            <unittitle>English 11 with Palmer Graham</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_367b8cba5955c72aebd47885f754900d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9e701ca108eaa4e2af03f46046577166" parent="aspace_367b8cba5955c72aebd47885f754900d" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_m9i" level="file">
+          <did>
+            <unittitle>Departmental meeting, April 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a6c5a393ce8a1591a20dc1136aeb011d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_53ebea8b60aeb436d158c704e297bf45" parent="aspace_a6c5a393ce8a1591a20dc1136aeb011d" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_2ms" level="file">
+          <did>
+            <unittitle>Budget</unittitle>
+            <unitdate datechar="creation">1986-1987</unitdate>
+            <container id="aspace_4e3440391749d82cb888d98181c1db2e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ed0402d339b4e89d2cb254b2f7ea4591" parent="aspace_4e3440391749d82cb888d98181c1db2e" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_j0e" level="file">
+          <did>
+            <unittitle>Graduate Faculty</unittitle>
+            <unitdate datechar="creation">05/01/1986</unitdate>
+            <container id="aspace_e27eeb968756a0f8cd35d691200c3e3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f0ee23344f8c17b82a8a98a599c44fc6" parent="aspace_e27eeb968756a0f8cd35d691200c3e3a" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_3ol" level="file">
+          <did>
+            <unittitle>English Department</unittitle>
+            <unitdate datechar="creation">1982-1983</unitdate>
+            <container id="aspace_a6888155ab4c098bfe1abf123c7f3677" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5761b7c4914e67a534e5a33e970a49cf" parent="aspace_a6888155ab4c098bfe1abf123c7f3677" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_4ob" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">04/04/1986</unitdate>
+            <container id="aspace_41e0035e838466adcefbc1e10bd5a8e4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_abd4b1543b7c23fa3c3dd8e3d6a78928" parent="aspace_41e0035e838466adcefbc1e10bd5a8e4" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_x08" level="file">
+          <did>
+            <unittitle>Development Office, J. Anderson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0028a20b24c5dbca961a63e5ace66241" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4441d09ce6da86c2d037c004709ffca9" parent="aspace_0028a20b24c5dbca961a63e5ace66241" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_yag" level="file">
+          <did>
+            <unittitle>Departmental meeting, November 20</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3e95d368057773145b160d06f8b152d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_274d90028d2af2cdbbd0743b93f50d70" parent="aspace_3e95d368057773145b160d06f8b152d0" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_ymm" level="file">
+          <did>
+            <unittitle>Meeting with Dean Lovitt</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_0003930f7f75d10c3c2447a4b9deee9a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e35582b263d83a07863c2c3264d4947e" parent="aspace_0003930f7f75d10c3c2447a4b9deee9a" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_5xp" level="file">
+          <did>
+            <unittitle>Departmental meeting November 11</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0b6bbf7a193a18cbdcefac3f5ac039bc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_33c4acb44287e9180e45b65122c56b41" parent="aspace_0b6bbf7a193a18cbdcefac3f5ac039bc" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_my1" level="file">
+          <did>
+            <unittitle>Departmental meeting October 20</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2bd8e6a85ab5295b00cb14d5f270c39c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f8a9b553a617069fb2ef39fc2fc4fdf6" parent="aspace_2bd8e6a85ab5295b00cb14d5f270c39c" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_9x6" level="file">
+          <did>
+            <unittitle>Departmental meeting October 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6b4b3c2b45408c21da61e21a78b1973f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_849b40977469fad5ce6cc156f539f45a" parent="aspace_6b4b3c2b45408c21da61e21a78b1973f" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_7v3" level="file">
+          <did>
+            <unittitle>Composition of the Department of English, meeting, September 13</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_414671dfb395e8685b74e0380cdcda82" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_73bff0247893e21896ba471315ba2d3d" parent="aspace_414671dfb395e8685b74e0380cdcda82" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_kgm" level="file">
+          <did>
+            <unittitle>Departmental meeting, September 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_757809ed88fbe1239a73a542dade2ca3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_180d1aba8aa374cc1595f7470b112e99" parent="aspace_757809ed88fbe1239a73a542dade2ca3" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_dv4" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">04/21/1986</unitdate>
+            <container id="aspace_294224d4f1982ff986362251a39a9de2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_244578cea347e324f9af3dff242879ca" parent="aspace_294224d4f1982ff986362251a39a9de2" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_zko" level="file">
+          <did>
+            <unittitle>Ad Hoc Committee: Composition and Part time faculty</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e58dc311f915cdb63fe22c1206ded701" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e58135fd4a878bcc5a045a475892b527" parent="aspace_e58dc311f915cdb63fe22c1206ded701" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_sma" level="file">
+          <did>
+            <unittitle>Tupper--Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation">1964-1971</unitdate>
+            <container id="aspace_8a04a34069fe5f86b91b3ffb058c3fe8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ad6a79b4274c1cf830c06db1b66b8ff5" parent="aspace_8a04a34069fe5f86b91b3ffb058c3fe8" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_4u1" level="file">
+          <did>
+            <unittitle>"The Potomac" Literary Magazine</unittitle>
+            <unitdate datechar="creation">1960-1968</unitdate>
+            <container id="aspace_c7e0ddcab219c8a18fe05aa800d2f15e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_363f542e70acc515b280a98b3ee4a06b" parent="aspace_c7e0ddcab219c8a18fe05aa800d2f15e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_o3o" level="file">
+          <did>
+            <unittitle>Ph.D. Field Exam--American Poetry</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2174599eb374061caa72ea7b48c9c281" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3481ec3d94eb963517cb9116f4ab4caf" parent="aspace_2174599eb374061caa72ea7b48c9c281" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_dp7" level="file">
+          <did>
+            <unittitle>Ph.D. Field Exam--American Romanticism</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1af437241b59d6d7e720140650b1f97c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6113a20f554d5fae95cb3bf88dfa5988" parent="aspace_1af437241b59d6d7e720140650b1f97c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_1n4" level="file">
+          <did>
+            <unittitle>Faculty Personnel--grants</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8a7c54947f4915fcb13225dcdc8fe712" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ca29af67a2920afe09b0b4015482c76c" parent="aspace_8a7c54947f4915fcb13225dcdc8fe712" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_3sw" level="file">
+          <did>
+            <unittitle>English Majors</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1c5fd38f5fcb48101b0fc6986735fb45" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2fe149590a6bf46c2b45d62bd8c2073e" parent="aspace_1c5fd38f5fcb48101b0fc6986735fb45" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_vz2" level="file">
+          <did>
+            <unittitle>Departmental Meetings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6714af1b74aba284d6ac6d26cd2b6f45" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b508aced09896f1880a4aa65c521e28a" parent="aspace_6714af1b74aba284d6ac6d26cd2b6f45" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_gkh" level="file">
+          <did>
+            <unittitle>Independent Study</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b2abc57c3d1431bb1eb7f7dfbd6f61f0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ee776ff01d74926627d8efedbc0f1be2" parent="aspace_b2abc57c3d1431bb1eb7f7dfbd6f61f0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_fmo" level="file">
+          <did>
+            <unittitle>Lectures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a39142ea6242e52968a913071463d10" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c2c77651998a93f3ff492071ed93aef0" parent="aspace_9a39142ea6242e52968a913071463d10" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_ukh" level="file">
+          <did>
+            <unittitle>Literary Society</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8db7fd446a3f0106a4c369393aab0e20" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_54034ec2274c3f981baf140f72eae84f" parent="aspace_8db7fd446a3f0106a4c369393aab0e20" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_ibl" level="file">
+          <did>
+            <unittitle>Personnel (New Plan)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b91a003039a5e4e8d9d9f2ccdb652bfc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1a38a00c58544fceabc7e48075aec98c" parent="aspace_b91a003039a5e4e8d9d9f2ccdb652bfc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_8qo" level="file">
+          <did>
+            <unittitle>Ph.D. Reading Guide: Old English, History, Middle English, Chaucer</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_33b7822e5979b7735b37726775c294d6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f3395fa7ac200536a953bbac5999d4d9" parent="aspace_33b7822e5979b7735b37726775c294d6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_jag" level="file">
+          <did>
+            <unittitle>Prizes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4a237974e6d754534c672f0cfbdf87d3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_52f60a36121402f2c946a3c251e9ade5" parent="aspace_4a237974e6d754534c672f0cfbdf87d3" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_udo" level="file">
+          <did>
+            <unittitle>Undergraduate Programs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_efc2c395d09cd4a59546b874942ae039" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_74071e3aa086590b1c3763b5435cd578" parent="aspace_efc2c395d09cd4a59546b874942ae039" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_99d" level="file">
+          <did>
+            <unittitle>Undergraduate Advisees</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_035570d7d679ccc0434eb756746d8783" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_44cdfda622e63ff40b8e719254452527" parent="aspace_035570d7d679ccc0434eb756746d8783" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_hxp" level="file">
+          <did>
+            <unittitle>Graduate Program, Graduate School</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c9ca6fc7970ac3207250d44cde707f95" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_983d5a5fc00a98875669fa8c81a44402" parent="aspace_c9ca6fc7970ac3207250d44cde707f95" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_l5q" level="file">
+          <did>
+            <unittitle>English Tutorial</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ab17b9ea78430cfcb2fc7379392d718d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_efa4c000e8819baa502ea619a7bb4399" parent="aspace_ab17b9ea78430cfcb2fc7379392d718d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_ie7" level="file">
+          <did>
+            <unittitle>Composition</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d5e661803142828f0bfe2b275eac0d80" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_db9251eed31420283455e40c7c788485" parent="aspace_d5e661803142828f0bfe2b275eac0d80" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_88i" level="file">
+          <did>
+            <unittitle>Course Descriptions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1ba4c1ad25ce6b411340e4f8eebf7357" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_35edd6f5f52c42080734632fce212caa" parent="aspace_1ba4c1ad25ce6b411340e4f8eebf7357" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_g2p" level="file">
+          <did>
+            <unittitle>Curriculum Review Committee (Ganz)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cd42e26cbfe4f43d76248ba3c08da73b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d778f0f53e56eb65fbaa8fba2d257857" parent="aspace_cd42e26cbfe4f43d76248ba3c08da73b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_e8q" level="file">
+          <did>
+            <unittitle>Departmental Memoranda</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0e541e7512bd57c4cc78e0e391177bd7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_93413e7a5489358b999e87b1675256c2" parent="aspace_0e541e7512bd57c4cc78e0e391177bd7" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_tso" level="file">
+          <did>
+            <unittitle>English for International Students</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a716dcf989e39439175fdf0cd1724ff" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_550229ec6363e862a6ee03b9c8cc5606" parent="aspace_9a716dcf989e39439175fdf0cd1724ff" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_98n" level="file">
+          <did>
+            <unittitle>American CIV (Department)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_47676dd9dd831c5f31eae18cb2ab4164" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_db58bcb508ad606e23f8be3a6d764648" parent="aspace_47676dd9dd831c5f31eae18cb2ab4164" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_7qa" level="file">
+          <did>
+            <unittitle>Agenda: tenure meeting</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_92ecff98321934e7879b691ffc6d4016" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_68b47a8c756eb6a05ab59af99eb7580c" parent="aspace_92ecff98321934e7879b691ffc6d4016" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_7nl" level="file">
+          <did>
+            <unittitle>Columbian College</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6acdcadb8ed5bf000134f480233058c9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_625a483fb885feb4e5e970498a2589bf" parent="aspace_6acdcadb8ed5bf000134f480233058c9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_px7" level="file">
+          <did>
+            <unittitle>Tupper--Hallett Smith manuscript</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_145d4150e7f188e6f737891780c36ca9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c6af132f2a8066b4fd22a38a4c1cba6e" parent="aspace_145d4150e7f188e6f737891780c36ca9" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_w9l" level="file">
+          <did>
+            <unittitle>Tupper Memorial Shakespeare Lecture, Robert B. Heilman</unittitle>
+            <unitdate datechar="creation">03/1977</unitdate>
+            <container id="aspace_66804e363f372feacb7dcff0d81bdc17" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bc8bfc46bfdebc68fde214b1cb5a0165" parent="aspace_66804e363f372feacb7dcff0d81bdc17" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_qi8" level="file">
+          <did>
+            <unittitle>Waith, Eugene</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_d17f527692993de3c52663314b729513" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7e38ef970575622ffcacbefc7079b6be" parent="aspace_d17f527692993de3c52663314b729513" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_8n0" level="file">
+          <did>
+            <unittitle>Tupper--Harry Levine Lecture manuscript</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_bfebb14f4b9e24c80bb9d6a61c3b4441" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0ef15226d766c54e4de0d63f2fa3798f" parent="aspace_bfebb14f4b9e24c80bb9d6a61c3b4441" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_mtc" level="file">
+          <did>
+            <unittitle>Tupper--Essays and correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_460ceabaeffe7b23937952fb045da91e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_aa513b7fcd5a6e53aa11a07c36ae2ff5" parent="aspace_460ceabaeffe7b23937952fb045da91e" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_i6e" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">05/08/1988</unitdate>
+            <container id="aspace_35c3ce51f5e5486f5a72722df6828e22" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4c97a910f81a01a4bc296ce85d8da8b3" parent="aspace_35c3ce51f5e5486f5a72722df6828e22" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_3qf" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">04/07/1988</unitdate>
+            <container id="aspace_7427ad9a6962f6fb8fdd616722dd0242" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ecc60daff4494cec02fab55cd7cb8a6e" parent="aspace_7427ad9a6962f6fb8fdd616722dd0242" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_b3f" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">05/03/1988</unitdate>
+            <container id="aspace_6c309a4de41203a5976b0bc0aa1df705" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e64e408c6cc35c05168dd589835587ca" parent="aspace_6c309a4de41203a5976b0bc0aa1df705" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_4bc" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">02/02/1988</unitdate>
+            <container id="aspace_92a15a341884d3ec7e4c277b230ec1d9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9b5034a08056abedfe1ad0a4e603417a" parent="aspace_92a15a341884d3ec7e4c277b230ec1d9" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_93w" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">01/14/1988</unitdate>
+            <container id="aspace_48f71107228b4110b6ea05c905c11194" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_61a5e07278a9ca97eb61c18ba20b20d5" parent="aspace_48f71107228b4110b6ea05c905c11194" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_11a" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">11/05/1987</unitdate>
+            <container id="aspace_0299169906918baa570d1b75b06e9a25" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_031d1bd14f77050391549d0622657322" parent="aspace_0299169906918baa570d1b75b06e9a25" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_aum" level="file">
+          <did>
+            <unittitle>Professors meeting</unittitle>
+            <unitdate datechar="creation">10/22/1987-11/05/1987</unitdate>
+            <container id="aspace_1ba4149cb99bf3e92b1ffe6d7bec2712" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a9c5a262b00b87a846f6b388220ff83c" parent="aspace_1ba4149cb99bf3e92b1ffe6d7bec2712" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_mog" level="file">
+          <did>
+            <unittitle>Professor Meeting, annual review (copies)</unittitle>
+            <unitdate datechar="creation">09/29/1987</unitdate>
+            <container id="aspace_4c8edea1c9d3d39200436597fb34b037" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0151f994b3214fe67f456de7e7886f40" parent="aspace_4c8edea1c9d3d39200436597fb34b037" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_jj8" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">09/03/1987</unitdate>
+            <container id="aspace_9d651a9c71c2166b69b46a26285a92da" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_30c21014922dd65baff78f2cc7b87a71" parent="aspace_9d651a9c71c2166b69b46a26285a92da" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_tki" level="file">
+          <did>
+            <unittitle>Faculty meeting, March 24</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c834a7c3716c112c5c40e8e7168ee574" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_db23b5b2011d8c351e4fb87e1914e7b5" parent="aspace_c834a7c3716c112c5c40e8e7168ee574" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_0a7" level="file">
+          <did>
+            <unittitle>Professor Meeting</unittitle>
+            <unitdate datechar="creation">03/10/1987</unitdate>
+            <container id="aspace_a35b13ecefa0d4bb72e6a4965e124df1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7fd73a5b0771e8145862ee3bf9837e56" parent="aspace_a35b13ecefa0d4bb72e6a4965e124df1" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_3hn" level="file">
+          <did>
+            <unittitle>Meeting with professors</unittitle>
+            <unitdate datechar="creation">03/03/1987-03/12/1987</unitdate>
+            <container id="aspace_d63ddf54b58ac74d06d06fb627c42bed" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8838f8c430c97e52b6043d0d3c70f56d" parent="aspace_d63ddf54b58ac74d06d06fb627c42bed" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_bxz" level="file">
+          <did>
+            <unittitle>Departmental meeting January 20</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ac4260ea4f8da4cff9cc85530a256be9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_187963500c7e1b9000c14b0da2757f01" parent="aspace_ac4260ea4f8da4cff9cc85530a256be9" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_9pc" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">01/05/1987</unitdate>
+            <container id="aspace_4529e654713013486d515aa0beef4dac" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_85ebaa79a88c99e72914b004fd26a448" parent="aspace_4529e654713013486d515aa0beef4dac" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_jvu" level="file">
+          <did>
+            <unittitle>Tupper Fund--donors and mailing list information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e1945d8cfd4e0f5864d3d706c0760e7f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_607d65b0b73edadf64ae5c85d22686ca" parent="aspace_e1945d8cfd4e0f5864d3d706c0760e7f" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_s20" level="file">
+          <did>
+            <unittitle>Tupper--David Bevington Lecture manuscript</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_50fac4dc289c8c4c90e6ff7b3b3cba96" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f725bb220608f7101cc6d47c03f5bf41" parent="aspace_50fac4dc289c8c4c90e6ff7b3b3cba96" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_2v0" level="file">
+          <did>
+            <unittitle>Ben DeMott</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_abd1e150ce77c5270f380a8867ae4e8e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5b4485d7c881719ae5102f61a17daa7c" parent="aspace_abd1e150ce77c5270f380a8867ae4e8e" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_pa9" level="file">
+          <did>
+            <unittitle>Tupper--Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation">1972-1975</unitdate>
+            <container id="aspace_da56c27083f0e48714ee6f3a47369da9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a61b144d4e285e4755fcde2396b2ac28" parent="aspace_da56c27083f0e48714ee6f3a47369da9" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_2nu" level="file">
+          <did>
+            <unittitle>Lecture--preparations</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_19362f61f62d7ef8e36feab0e5e22872" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a7afb8011d4d46eebadccb43361aeb90" parent="aspace_19362f61f62d7ef8e36feab0e5e22872" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_hw7" level="file">
+          <did>
+            <unittitle>Donors</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_999a814dac634848115000b836456958" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_920dd216f47099b9e3f8e33f9f256fc4" parent="aspace_999a814dac634848115000b836456958" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_r5a" level="file">
+          <did>
+            <unittitle>Tupper--publications (and royalty records)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4216cf13b86b47b9096dd0278602d5f8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_acfb3e12dce78a62dac44fc75442d7ec" parent="aspace_4216cf13b86b47b9096dd0278602d5f8" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_ufr" level="file">
+          <did>
+            <unittitle>Framed Photographs: English Department</unittitle>
+            <unitdate datechar="creation">1940</unitdate>
+            <container id="aspace_3a98ac3e1158e878e726f396df0482aa" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0f4ed77682c3fcbf222fb2f35f063903" parent="aspace_3a98ac3e1158e878e726f396df0482aa" type="Folder">1</container>
+          </did>
+          <odd id="aspace_cd208fd2e0a8d8fb961a0bd1b5c9882d">
+            <head>General note</head>
+            <p>Bement, Stone, Cole, Tupper, Shepard, Baker, Adams, Cooper, Bolwell, Smith</p>
+          </odd>
+        </c>
+        <c id="aspace_ref112_yu4" level="file">
+          <did>
+            <unittitle>Framed Photographs: Anna Pearl Cooper</unittitle>
+            <unitdate datechar="creation">1927-1940</unitdate>
+            <container id="aspace_6d0d3c21a9510046a5323da5e537ff8f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d4b9d6074ae77c77bb012dbd14ae8dd5" parent="aspace_6d0d3c21a9510046a5323da5e537ff8f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_ynm" level="file">
+          <did>
+            <unittitle>Framed Photographs: William Lewis Turner</unittitle>
+            <unitdate datechar="creation">1941-1976</unitdate>
+            <container id="aspace_58c7fd85ef41091975fda186d375921b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4488fac7286183186b9145d7b78efc52" parent="aspace_58c7fd85ef41091975fda186d375921b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_1kq" level="file">
+          <did>
+            <unittitle>Framed Photographs: Milton Crane</unittitle>
+            <unitdate datechar="creation">1964-1975</unitdate>
+            <container id="aspace_52ce6cabbaa21084551b2c734815cbee" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_040e427bd9dd59a41aefc4b42c2a9162" parent="aspace_52ce6cabbaa21084551b2c734815cbee" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_ahh" level="file">
+          <did>
+            <unittitle>Framed Photographs: Charles William Cole</unittitle>
+            <unitdate datechar="creation">1939-1974</unitdate>
+            <container id="aspace_ed47c7a1ff2292d42ffc0da8544549e5" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_62fcad56e86128956bb8da3293ec159c" parent="aspace_ed47c7a1ff2292d42ffc0da8544549e5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_6ai" level="file">
+          <did>
+            <unittitle>Framed Photographs: Robert Whitney Bolwell</unittitle>
+            <unitdate datechar="creation">1920-1957</unitdate>
+            <container id="aspace_d3ce832d16b5334b8b40fe6d7d8cde4e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_af31e48e913b669be61b52af4b03167d" parent="aspace_d3ce832d16b5334b8b40fe6d7d8cde4e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_ue4" level="file">
+          <did>
+            <unittitle>Framed Photographs: Edward Ronald Weismiller</unittitle>
+            <unitdate datechar="creation">1968-1980</unitdate>
+            <container id="aspace_9228ed1e72b4ae5a49821d43f8c89aa0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f00452bf582d49d7869588f047c92a34" parent="aspace_9228ed1e72b4ae5a49821d43f8c89aa0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_6te" level="file">
+          <did>
+            <unittitle>Framed Photographs: Robert Hamilton Moore</unittitle>
+            <unitdate datechar="creation">1949-1978</unitdate>
+            <container id="aspace_f400f557ee04c3156c931f86924e68ea" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_647b5f0ebaa2015a0ccc29d0ac6d85c8" parent="aspace_f400f557ee04c3156c931f86924e68ea" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_j6t" level="file">
+          <did>
+            <unittitle>Framed Photographs: Averett Howard</unittitle>
+            <unitdate datechar="creation">1941-1958</unitdate>
+            <container id="aspace_08a15086494139ab76bec1d8f134e4e2" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_151209103d17796c83c3769544a42b12" parent="aspace_08a15086494139ab76bec1d8f134e4e2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_uru" level="file">
+          <did>
+            <unittitle>Framed Photographs: James Harold Coberly</unittitle>
+            <unitdate datechar="creation">1945-1974</unitdate>
+            <container id="aspace_8ebcd6b0fba3a4a590d137718e6be509" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_221293ecac7395cfec5bceb11c0b6ff8" parent="aspace_8ebcd6b0fba3a4a590d137718e6be509" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_29b" level="file">
+          <did>
+            <unittitle>Framed Photographs: Ernest Sewall Shepard</unittitle>
+            <unitdate datechar="creation">1926-1966</unitdate>
+            <container id="aspace_d7a9b853ee6da8ebc0762aa7a841417d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_69761fb1f7f8aac730877c080f9b0ac7" parent="aspace_d7a9b853ee6da8ebc0762aa7a841417d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref122_5lm" level="file">
+          <did>
+            <unittitle>Framed Photographs: DeWitt Clinton Croissant</unittitle>
+            <unitdate datechar="creation">1905-1941</unitdate>
+            <container id="aspace_e7b7e8bc9c18de673a379906ef7c566c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3c06d744dfa3f9ca10a371e0e16b9e9e" parent="aspace_e7b7e8bc9c18de673a379906ef7c566c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_2if" level="file">
+          <did>
+            <unittitle>Framed Photographs: Courtland Darke Baker</unittitle>
+            <unitdate datechar="creation">1924-1944</unitdate>
+            <container id="aspace_fccde6bbc42a1a6410ff2f5c9dfbc62e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2828f7fee45505c22b5fbb6a823841dd" parent="aspace_fccde6bbc42a1a6410ff2f5c9dfbc62e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_p11" level="file">
+          <did>
+            <unittitle>Framed Photographs: William Allen Wilbur</unittitle>
+            <unitdate datechar="creation">1895-1935</unitdate>
+            <container id="aspace_a0f9366a5b1c259b76f25d7bf9d7526f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8010b94160804f3c6df64bab822a3fa9" parent="aspace_a0f9366a5b1c259b76f25d7bf9d7526f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_gkc" level="file">
+          <did>
+            <unittitle>Framed Photographs: Elizabeth Truman Wright</unittitle>
+            <unitdate datechar="creation">1956-1972</unitdate>
+            <container id="aspace_fd326fa578c035aad4f36a957082e878" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5c15efe9449752a55fada46f9e3d45dd" parent="aspace_fd326fa578c035aad4f36a957082e878" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref126_1n4" level="file">
+          <did>
+            <unittitle>Framed Photographs: Joseph Quincy Adams</unittitle>
+            <unitdate datechar="creation">1934-1946</unitdate>
+            <container id="aspace_18b133049a8af65a384de1b12d53b5b4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_49524f26f4c6bd28e111f1a29fd1d680" parent="aspace_18b133049a8af65a384de1b12d53b5b4" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_ov2" level="file">
+          <did>
+            <unittitle>Framed Photographs: Frederick Salisbury Tupper</unittitle>
+            <unitdate datechar="creation">1936-1963</unitdate>
+            <container id="aspace_184f02a2635ae18b1f3af9245c52d539" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_90e53df530fcc45820c63186382a09d8" parent="aspace_184f02a2635ae18b1f3af9245c52d539" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref128_w0b" level="file">
+          <did>
+            <unittitle>Negatives of photos in Lisner Hall 404; Faculty pictures fall 1978 (unframed)</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_df3e37d4cabbca07544602abbf81be7c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ebf732eb3b82d1d6506e0b83d35fa6df" parent="aspace_df3e37d4cabbca07544602abbf81be7c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_buj" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">11/14/1985</unitdate>
+            <container id="aspace_1f6928a463fd87d0c8ce8a7868566c26" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1088b7512b1a17860f5bf82488437d36" parent="aspace_1f6928a463fd87d0c8ce8a7868566c26" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref130_vy2" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">10/17/1985</unitdate>
+            <container id="aspace_57784b63b4a34254a797689e3ad46373" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9e7c28babd003676f4dbacfe26f49b01" parent="aspace_57784b63b4a34254a797689e3ad46373" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref131_1dy" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">08/28/1985</unitdate>
+            <container id="aspace_11e9fd268b2242ec1a16daec412707a7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f16be0f69bc00b35248ebac5640c7316" parent="aspace_11e9fd268b2242ec1a16daec412707a7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref132_zz2" level="file">
+          <did>
+            <unittitle>Professor meeting</unittitle>
+            <unitdate datechar="creation">09/26/1985</unitdate>
+            <container id="aspace_bf24dbf2007fea642f619781a386d300" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_da5d14483980a19d898fe266be4ed377" parent="aspace_bf24dbf2007fea642f619781a386d300" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref133_78a" level="file">
+          <did>
+            <unittitle>Professor meeting</unittitle>
+            <unitdate datechar="creation">05/15/1985</unitdate>
+            <container id="aspace_23e49fafb7b0db6eb83e37a2973b2e47" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_68d7218e0d9b7747e9073b7e9ec9cde3" parent="aspace_23e49fafb7b0db6eb83e37a2973b2e47" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref134_9js" level="file">
+          <did>
+            <unittitle>Composition, Fall 1984 and Spring 1985</unittitle>
+            <unitdate datechar="creation">1984-1985</unitdate>
+            <container id="aspace_6ba4f6f53fa1e100432e823eaab62ecf" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d3d6d46e7531120784bb38777f72a2b4" parent="aspace_6ba4f6f53fa1e100432e823eaab62ecf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_o0c" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">03/20/1986</unitdate>
+            <container id="aspace_8cc7d567a9d34c1415894ae81585b31b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5fd3e9e731488f694695c6d714a9afe2" parent="aspace_8cc7d567a9d34c1415894ae81585b31b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref136_ipz" level="file">
+          <did>
+            <unittitle>Departmental meeting February 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9f428fb28cdb47226e0ee8e45f5d1ab0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6b6cd74323c06c0c305a6edb8c1c3848" parent="aspace_9f428fb28cdb47226e0ee8e45f5d1ab0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_6sl" level="file">
+          <did>
+            <unittitle>Departmental meeting</unittitle>
+            <unitdate datechar="creation">01/17/1986</unitdate>
+            <container id="aspace_0eb392a4f56fb921838827ce46e35b5c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6f844d7ae26e66c1b4f3c2f09690d66f" parent="aspace_0eb392a4f56fb921838827ce46e35b5c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref138_ka7" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1972-1973</unitdate>
+            <container id="aspace_84523c2ddacc47a96e3ab3531f4314b3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7ed42bcf0d4562d9e3b479f8b0b081a0" parent="aspace_84523c2ddacc47a96e3ab3531f4314b3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref139_k06" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_435c56d047b8e2a2044096ba7584b6af" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b3266368ffa9e73a78fff2761b82a0f4" parent="aspace_435c56d047b8e2a2044096ba7584b6af" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref140_dwd" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_3191c83b4a2e6ad0b0c8adff89c1c282" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e1a17ac6f9bcd1be5d38777bf0d931c6" parent="aspace_3191c83b4a2e6ad0b0c8adff89c1c282" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_u7b" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <container id="aspace_209bd59277f5742c37cb738365123670" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7e4d273d14e9e7640df555e00630b81f" parent="aspace_209bd59277f5742c37cb738365123670" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref142_3gy" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1976-1977</unitdate>
+            <container id="aspace_71c3bf653d2048668e4c26c6ace5f78c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a83f2521d9f04be68128c9d9115be5db" parent="aspace_71c3bf653d2048668e4c26c6ace5f78c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_ss0" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1977-1978</unitdate>
+            <container id="aspace_04566ef59749b545e1f965757410e5c1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_129c2fbb743bf0447d304d8278287aba" parent="aspace_04566ef59749b545e1f965757410e5c1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref144_8fs" level="file">
+          <did>
+            <unittitle>Tenure Staff Meetings</unittitle>
+            <unitdate datechar="creation">1978-1979</unitdate>
+            <container id="aspace_116a7cd18b12cb05f030b3d72ad87caa" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_12384877cddec707178cf750c1b4f3c3" parent="aspace_116a7cd18b12cb05f030b3d72ad87caa" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_mrx" level="file">
+          <did>
+            <unittitle>Statements of departmental policies regarding full-time teaching appointments</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_abfabf645f0b1d48c08ac3a1140b9b77" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_512c9f7e604879702ea5e18552ce1821" parent="aspace_abfabf645f0b1d48c08ac3a1140b9b77" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref146_awj" level="file">
+          <did>
+            <unittitle>Program of Course</unittitle>
+            <unitdate datechar="creation">1970-1971</unitdate>
+            <container id="aspace_dba4330c5b2c84b8439098c9d74b9835" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3e56b4a7cdddd82f0afcb52e04cd5c8c" parent="aspace_dba4330c5b2c84b8439098c9d74b9835" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref147_abh" level="file">
+          <did>
+            <unittitle>Comm. On programs, English Department</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_502cb96ef0d8497457d56f15fda40bc9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5d76458121666dbbb3f7513dffb1f65c" parent="aspace_502cb96ef0d8497457d56f15fda40bc9" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref148_met" level="file">
+          <did>
+            <unittitle>90 Hour Program</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e249f0cf83eda31ea45fa32a2915d28f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_59e3a9cfc6aa8c5038cc4f68dfa02328" parent="aspace_e249f0cf83eda31ea45fa32a2915d28f" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_smg" level="file">
+          <did>
+            <unittitle>Composition Program</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ff65926ad82e95d876c052b0f58cb911" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_76e631397e03cc599da56ac42523c8b9" parent="aspace_ff65926ad82e95d876c052b0f58cb911" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref150_r3y" level="file">
+          <did>
+            <unittitle>Surveys--English, American, European</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_367588dddbe019cc5ef6a6a303ca304d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_23cb21bd635461ac9e3950f14a344e76" parent="aspace_367588dddbe019cc5ef6a6a303ca304d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_qg4" level="file">
+          <did>
+            <unittitle>English Department Students correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e2509922d6b1fb1df75a8b68d35007d1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5fca03f1db2a2e5c19ac17b9d4325b8c" parent="aspace_e2509922d6b1fb1df75a8b68d35007d1" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref152_13x" level="file">
+          <did>
+            <unittitle>Program of Courses</unittitle>
+            <unitdate datechar="creation">1971-1972</unitdate>
+            <container id="aspace_d7c7ccd1cc321c607009d1701b185242" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b1409b969acda4280048383c86bee88d" parent="aspace_d7c7ccd1cc321c607009d1701b185242" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref153_pwi" level="file">
+          <did>
+            <unittitle>Summer Academic Program</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_de35d7d2f92d33d6150c0779a2dfcd65" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_002a2b7377902b4d6dc8825400d801fd" parent="aspace_de35d7d2f92d33d6150c0779a2dfcd65" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref154_9wz" level="file">
+          <did>
+            <unittitle>Academic Program</unittitle>
+            <unitdate datechar="creation">1974-1977</unitdate>
+            <container id="aspace_20d3c0d9efe7dd206bb05b5aea0dfcc3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7b506b0f14b90773f4ab4d8100646739" parent="aspace_20d3c0d9efe7dd206bb05b5aea0dfcc3" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_b4i" level="file">
+          <did>
+            <unittitle>Department Constitution</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d4be3bd5daf0feaf8adb53b272fe4518" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1539383d02f82a61e4993cf3d1143731" parent="aspace_d4be3bd5daf0feaf8adb53b272fe4518" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref156_0c0" level="file">
+          <did>
+            <unittitle>Ph.D. Field Exam: American Realism</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_eac8a8b5966c7780e15b52adcb491a62" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ef282c8ca835e61d0f3f0412ac77d0f8" parent="aspace_eac8a8b5966c7780e15b52adcb491a62" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref157_cr2" level="file">
+          <did>
+            <unittitle>Ph.D. Field Exam: American Drama</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0b76d7b90326472f6485eba07f4d38b7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7c1d7edbfaec823edb0548c78a80d88d" parent="aspace_0b76d7b90326472f6485eba07f4d38b7" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref158_wli" level="file">
+          <did>
+            <unittitle>English 9, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a1ea5d5ce611c8771c18e708c0a5c347" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_53c5ce28a33d07d8d66fa98e0a137e96" parent="aspace_a1ea5d5ce611c8771c18e708c0a5c347" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_smr" level="file">
+          <did>
+            <unittitle>English 11, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_74e646e7009cdb2c0037471b8811029f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c074654db0339089c11f912461146eb1" parent="aspace_74e646e7009cdb2c0037471b8811029f" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref160_dsh" level="file">
+          <did>
+            <unittitle>English 91, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_93bee3ca7fbc844d79f4aa0f70761b9f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9e985a422703e04130e624b3044e1125" parent="aspace_93bee3ca7fbc844d79f4aa0f70761b9f" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref161_mfd" level="file">
+          <did>
+            <unittitle>English 92, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cdcd32738e3f391363500e7703ba07c0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_563a5fe4d36b45c79a417481ba68f0ff" parent="aspace_cdcd32738e3f391363500e7703ba07c0" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref162_kzd" level="file">
+          <did>
+            <unittitle>English 101, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_62286d1decc697f1ced0559b50cb3015" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_661ae76cc5a6cd04cf5208b784e4a772" parent="aspace_62286d1decc697f1ced0559b50cb3015" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_kvl" level="file">
+          <did>
+            <unittitle>English 102, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_aad70b6f62dcdabbc1f672c610193e61" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_70d68105b797a1b80a907dd44a25c884" parent="aspace_aad70b6f62dcdabbc1f672c610193e61" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref164_qvj" level="file">
+          <did>
+            <unittitle>English 103, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_08119b9507f313985a2fd034e269231f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_bac5b48ea329ea2f784a316e03175332" parent="aspace_08119b9507f313985a2fd034e269231f" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref165_7ch" level="file">
+          <did>
+            <unittitle>English 105-106, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_42998aa2fccca52b059a3291f48ee0b3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7fa247bd0dc9af96ea1c50169f7cfa35" parent="aspace_42998aa2fccca52b059a3291f48ee0b3" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref166_do9" level="file">
+          <did>
+            <unittitle>English 107, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2370f725e550cf570f250ebd7c931130" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_eb0a4f8976b96a79f90f78df6c2a4caa" parent="aspace_2370f725e550cf570f250ebd7c931130" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_rgx" level="file">
+          <did>
+            <unittitle>English 108, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_39d0f99e4ebecc0b21110330d4208901" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_951b031c204a94066786d79a38e91f0b" parent="aspace_39d0f99e4ebecc0b21110330d4208901" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref168_vpf" level="file">
+          <did>
+            <unittitle>English 111, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a1c02897cc4bcfa0381536e725bb81e2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_07aa2fc9e9311ec0d3bf0342d4d0c25f" parent="aspace_a1c02897cc4bcfa0381536e725bb81e2" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_ls9" level="file">
+          <did>
+            <unittitle>English 112, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_01c23846a952c44ebafda23cffbb620f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7085ea48e68abc395897e7bea43c3f51" parent="aspace_01c23846a952c44ebafda23cffbb620f" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref170_z71" level="file">
+          <did>
+            <unittitle>English 115, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1399fb05374274e08c559e991df3cbd8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3669037a7baf2f4f4e1d4c023699377c" parent="aspace_1399fb05374274e08c559e991df3cbd8" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_t9q" level="file">
+          <did>
+            <unittitle>English 116, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1e762f403da742f5fd654996278e16e7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_29bcbbdf8020bd1d9b1115a7cefcce3f" parent="aspace_1e762f403da742f5fd654996278e16e7" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref172_6ce" level="file">
+          <did>
+            <unittitle>English 117, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d9148aa3dd14098519ff923f27d1cdea" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7484e16e2572cf921c3c30f112a73765" parent="aspace_d9148aa3dd14098519ff923f27d1cdea" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_1q2" level="file">
+          <did>
+            <unittitle>English 118, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b9de07341da47bff4ea4293dac0a085b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d79035e42f771644eb6f41d02a2c8c2e" parent="aspace_b9de07341da47bff4ea4293dac0a085b" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref174_cbp" level="file">
+          <did>
+            <unittitle>English 120, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_782f9272e20120ae7bc00a77b795dd91" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_eee30b681b8d80e4f15f912285eeb288" parent="aspace_782f9272e20120ae7bc00a77b795dd91" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_h0g" level="file">
+          <did>
+            <unittitle>English 121, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_11d7ffad3d76bbb5cb296857a08f2184" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_78c5195dd8427378a09e7a1e780221ad" parent="aspace_11d7ffad3d76bbb5cb296857a08f2184" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref176_b5m" level="file">
+          <did>
+            <unittitle>English 122, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_30a8096b9cc2bbf06bb295c5f5076071" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7b9d6ddd4d89715d327e1b54b65516e5" parent="aspace_30a8096b9cc2bbf06bb295c5f5076071" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_73c" level="file">
+          <did>
+            <unittitle>English 123, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9e6f8ba082b10d9f3ac3fb0fa50095f6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_58e1a035a95bf0c018982ba2472e0ef4" parent="aspace_9e6f8ba082b10d9f3ac3fb0fa50095f6" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref178_f5e" level="file">
+          <did>
+            <unittitle>English 125, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_267c8081bd5edbb370116f58e1478c23" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1365f17cfedd62f309789302754e4bfe" parent="aspace_267c8081bd5edbb370116f58e1478c23" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_84u" level="file">
+          <did>
+            <unittitle>English 126, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_92daddf8b6cb8cbf4926d2590c6d7414" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5a8962cfdd2420cffe0333b35850e0e2" parent="aspace_92daddf8b6cb8cbf4926d2590c6d7414" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref180_35x" level="file">
+          <did>
+            <unittitle>English 127, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d6c3340e60861c0d5f15f31d63200405" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_25b878cca2650efb79719c7b6e23314e" parent="aspace_d6c3340e60861c0d5f15f31d63200405" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_c1i" level="file">
+          <did>
+            <unittitle>English 128, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_384c509ae1bde66fc1b8f8bc54d5b235" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_44db883042b2eff4fc4e1dccd907db32" parent="aspace_384c509ae1bde66fc1b8f8bc54d5b235" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref182_h38" level="file">
+          <did>
+            <unittitle>English 129, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7b369d0b72251017410ed33b91843ae3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b884c7f82357c7793b04e17cc0922f38" parent="aspace_7b369d0b72251017410ed33b91843ae3" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref183_koh" level="file">
+          <did>
+            <unittitle>English 130, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4f1941f689ec212848575cd99e05dfbe" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5b2343aa9b57a7ed9762175b29a8fc42" parent="aspace_4f1941f689ec212848575cd99e05dfbe" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref184_k2p" level="file">
+          <did>
+            <unittitle>English 131, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a1df92ad5be5a43871c9c5e34704f5d5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7dd690813ca85e715b6afd3ab97223d0" parent="aspace_a1df92ad5be5a43871c9c5e34704f5d5" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref185_vnl" level="file">
+          <did>
+            <unittitle>English 132, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d753c530f5d31b28068495c9c629c4a1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_37a8f4d5715dfeae98e7e98099e3da61" parent="aspace_d753c530f5d31b28068495c9c629c4a1" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref186_b15" level="file">
+          <did>
+            <unittitle>English 133, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_39f370db7eec5ab1e7192e905f93d020" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c9301b6ed12a61a54448ac1b5217aea6" parent="aspace_39f370db7eec5ab1e7192e905f93d020" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_40p" level="file">
+          <did>
+            <unittitle>English 134, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_77ceeb645a1923ee3fb043bf95135bda" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9d773024918634a2eed1d79fdc534b03" parent="aspace_77ceeb645a1923ee3fb043bf95135bda" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref188_7tm" level="file">
+          <did>
+            <unittitle>English 135, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_418e305b57fb2ef3213c351da760ed14" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d8fe9c55cf8c3d131304b0efa3b4b16c" parent="aspace_418e305b57fb2ef3213c351da760ed14" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_xxq" level="file">
+          <did>
+            <unittitle>English 136, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_07146507c05c5b52a3a4f7a233aa2016" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6e05a8275707362e19c63ebcba646f45" parent="aspace_07146507c05c5b52a3a4f7a233aa2016" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref190_avh" level="file">
+          <did>
+            <unittitle>English 137, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9b8620b28b6444f8ddb90a275012f7b6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_94714251674db3ce36f527240b4b3a44" parent="aspace_9b8620b28b6444f8ddb90a275012f7b6" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_umq" level="file">
+          <did>
+            <unittitle>English 138, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_01af081b7503305efe03678a115fef4d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_dc3f69e571dee26249d89f6e9a97a222" parent="aspace_01af081b7503305efe03678a115fef4d" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref192_arm" level="file">
+          <did>
+            <unittitle>English 145, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_59bd2fe2846abe40cc09bdf3c7973ec0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f68ec80e1d2731d2497af5419e1a5ed5" parent="aspace_59bd2fe2846abe40cc09bdf3c7973ec0" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_792" level="file">
+          <did>
+            <unittitle>English 151, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_515db091dfb9c3318434587e85bff976" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2912fef3d7bb1817597ec4352474bc77" parent="aspace_515db091dfb9c3318434587e85bff976" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref194_szs" level="file">
+          <did>
+            <unittitle>English 153, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e952c16e1e61687037ef3a3e15e89c49" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c89bb91ed6149e9575e475c84ccfa82a" parent="aspace_e952c16e1e61687037ef3a3e15e89c49" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref195_3qb" level="file">
+          <did>
+            <unittitle>English 154, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9b2b713d85f12c0c80bc6297a0307d73" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d17935856b3815a3b79739017012433c" parent="aspace_9b2b713d85f12c0c80bc6297a0307d73" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_ref196_xjp" level="file">
+          <did>
+            <unittitle>English 155, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ca566525f0bb48ee44534c221ed1aae2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a7c3958e2c9fe54c6e721d2973a2aed1" parent="aspace_ca566525f0bb48ee44534c221ed1aae2" type="Folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_ref197_tu9" level="file">
+          <did>
+            <unittitle>English 156, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4b079fcc3c9234efd87aced71fb254a0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a9f5af51860db193dc0e73e5713a6a5d" parent="aspace_4b079fcc3c9234efd87aced71fb254a0" type="Folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_ref198_3uj" level="file">
+          <did>
+            <unittitle>English 157, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_419c79b19fb3dd91a9a57918b38da4b5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7cf957b61e959352b377bf140cf9fa24" parent="aspace_419c79b19fb3dd91a9a57918b38da4b5" type="Folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref199_889" level="file">
+          <did>
+            <unittitle>English 158, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2b9753887d2e4085e4c8e6ca8a2150b8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d91eaa6b158cd0c0bf0b5a5f783b20f1" parent="aspace_2b9753887d2e4085e4c8e6ca8a2150b8" type="Folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_ref200_v72" level="file">
+          <did>
+            <unittitle>English 161, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f6f86ae8653f288345a712bb6204d8b3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f3c2445787229455c946a75232365473" parent="aspace_f6f86ae8653f288345a712bb6204d8b3" type="Folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_ref201_dgm" level="file">
+          <did>
+            <unittitle>English 162, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_811e7010d8773efd13aa1142b8532957" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b6fba2f63e4943a5adfb594fca815d19" parent="aspace_811e7010d8773efd13aa1142b8532957" type="Folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_ref202_opb" level="file">
+          <did>
+            <unittitle>English 163, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_695c7c7e27ee0a18d3b90a0ed508db62" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d4f5b7df411e14ca826b91d537341ea4" parent="aspace_695c7c7e27ee0a18d3b90a0ed508db62" type="Folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_ref203_hvj" level="file">
+          <did>
+            <unittitle>English 164, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a41adc2e2cd264fb1842f5314c8f8267" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_53973170459c134d96b81af0f95ba27b" parent="aspace_a41adc2e2cd264fb1842f5314c8f8267" type="Folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_ref204_pb1" level="file">
+          <did>
+            <unittitle>English 165, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a72c02343652c786c22dfd0d6e08af88" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_60218659feace69c35c13e2fdf65c020" parent="aspace_a72c02343652c786c22dfd0d6e08af88" type="Folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_ref205_elh" level="file">
+          <did>
+            <unittitle>English 166, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1a2611c896217e272f6c9757dddd2f34" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_50e653262738b5349da18a9516eceec3" parent="aspace_1a2611c896217e272f6c9757dddd2f34" type="Folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_ref206_6g3" level="file">
+          <did>
+            <unittitle>English 167, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_496430fabe869c668ed5aa441bd4f36d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9bd3079e29b7f4c9ded89f40ceeb2f63" parent="aspace_496430fabe869c668ed5aa441bd4f36d" type="Folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_ref207_jws" level="file">
+          <did>
+            <unittitle>English 168, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_49a27166bd0a7b56d7aba601a4354904" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9183209b30fc773e5c3b3e76b03d2a82" parent="aspace_49a27166bd0a7b56d7aba601a4354904" type="Folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_ref208_gwe" level="file">
+          <did>
+            <unittitle>English 170, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_309da4196b6bc88cb12e51fffcaa273a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a84eff586d9d8cfda69db0a80be056d1" parent="aspace_309da4196b6bc88cb12e51fffcaa273a" type="Folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_ref209_v8x" level="file">
+          <did>
+            <unittitle>English 171, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_13aafd49e127ddfe2236c91e453a059a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a9ab625853ab287fa7ce1350f2b9c892" parent="aspace_13aafd49e127ddfe2236c91e453a059a" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_ref210_525" level="file">
+          <did>
+            <unittitle>English 172, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5d7f479b62ddfd8fc002273d5ecfbd44" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8f71841bc54b9da6d8639e6a8fdf2a7e" parent="aspace_5d7f479b62ddfd8fc002273d5ecfbd44" type="Folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_ref211_vsk" level="file">
+          <did>
+            <unittitle>English 173, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1b8e9b1e8c6ee2b90408493a6fc63584" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a81ed1fc35233a2e3f4d43e64cdf3d59" parent="aspace_1b8e9b1e8c6ee2b90408493a6fc63584" type="Folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_ref212_mq6" level="file">
+          <did>
+            <unittitle>English 174, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_646eae7c19badd2c12e45a4000171e66" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c71e19991e88d906a6440e27432a4723" parent="aspace_646eae7c19badd2c12e45a4000171e66" type="Folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_ref213_xwj" level="file">
+          <did>
+            <unittitle>English 175, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c30dfdd9068f4f22d0ed9cb1e53e3ef6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_176313ec733bca40c0c355d1e60efe95" parent="aspace_c30dfdd9068f4f22d0ed9cb1e53e3ef6" type="Folder">85</container>
+          </did>
+        </c>
+        <c id="aspace_ref214_el0" level="file">
+          <did>
+            <unittitle>English 176, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_67a7c01d99d372b593949f5913e08d74" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8917f1bd81fc4db827190bea4e320b92" parent="aspace_67a7c01d99d372b593949f5913e08d74" type="Folder">86</container>
+          </did>
+        </c>
+        <c id="aspace_ref215_qf0" level="file">
+          <did>
+            <unittitle>English 177, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c812d5ac73d2593d8616d5e5f8cc701f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4456e0f5b9e480692d0a0dd6f7b25e3a" parent="aspace_c812d5ac73d2593d8616d5e5f8cc701f" type="Folder">87</container>
+          </did>
+        </c>
+        <c id="aspace_ref216_sda" level="file">
+          <did>
+            <unittitle>English 178, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ff92f3a04bc90337a2c5d4a1ffdb3898" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_513a7598dbe2b0aac46dfe223ff18f33" parent="aspace_ff92f3a04bc90337a2c5d4a1ffdb3898" type="Folder">88</container>
+          </did>
+        </c>
+        <c id="aspace_ref217_0cw" level="file">
+          <did>
+            <unittitle>English 181, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_05ea3b6cedd8c1a52ce56d0554e5e25c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d1715ae937a6d1f82bbcade407f66237" parent="aspace_05ea3b6cedd8c1a52ce56d0554e5e25c" type="Folder">89</container>
+          </did>
+        </c>
+        <c id="aspace_ref218_pui" level="file">
+          <did>
+            <unittitle>English 194, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4d7fd32089a1a833ec9bfd9d6afeaee2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5c53ed8a1d06c545ee952d492c11941b" parent="aspace_4d7fd32089a1a833ec9bfd9d6afeaee2" type="Folder">90</container>
+          </did>
+        </c>
+        <c id="aspace_ref219_ter" level="file">
+          <did>
+            <unittitle>English 219, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0f46abcf68d6988b6f4e37e29f75e583" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_df2420e3649309669999a064cea8c9a2" parent="aspace_0f46abcf68d6988b6f4e37e29f75e583" type="Folder">91</container>
+          </did>
+        </c>
+        <c id="aspace_ref220_ymp" level="file">
+          <did>
+            <unittitle>English/French 271, midterm exams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_86474d264962a14c8a3cdac054ce8153" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9a12d80bbbf548836015d835d6c6c628" parent="aspace_86474d264962a14c8a3cdac054ce8153" type="Folder">92</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref222_6mj" level="series">
+        <did>
+          <unittitle>Departmental files</unittitle>
+          <unitid>RG0070 Series 2</unitid>
+          <unitdate datechar="creation">1895-2000</unitdate>
+          <physdesc id="aspace_c0fe82475a34c85d74134f0db63bccb1" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_ceb28b8a76f6d004cfaae365da4535fe">
+          <head>Scope and Contents note</head>
+          <p>This series contains newsletters, correspondence, programs, lectures, syllabi, award winning student essays, and special projects. They range in date from 1933 to 2000.</p>
+        </scopecontent>
+        <c id="aspace_ref224_b39" level="file">
+          <did>
+            <unittitle>Awards and Prizes De Witt Clinton Croissant Prize Essay</unittitle>
+            <unitdate datechar="creation">1951-1970</unitdate>
+            <container id="aspace_fc8899ba85284979ffe8f4a88ef514c3" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_148a1ec8f4fd8ca207b500a6cba8a345" parent="aspace_fc8899ba85284979ffe8f4a88ef514c3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref225_68u" level="file">
+          <did>
+            <unittitle>English Department</unittitle>
+            <unitdate datechar="creation">1973-1984</unitdate>
+            <container id="aspace_a31b6f068c44ea67e2f9a84154921760" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_50618b09ff3b0ba931b60afe8a3380c8" parent="aspace_a31b6f068c44ea67e2f9a84154921760" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref226_elc" level="file">
+          <did>
+            <unittitle>English Departments - Class Projects</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_0a5fb26d31ea5cce5c54a3f08f82a1d2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5ce657ae6c9161c8084b9a213fdf06ef" parent="aspace_0a5fb26d31ea5cce5c54a3f08f82a1d2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref227_9a1" level="file">
+          <did>
+            <unittitle>English Department - Kaleidoscope (Award Winning Student Essays)</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_9030a1b96cc936cb97a3e6c3a38daa5c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8947cec3677cdf5c4b1e3df91d6e9f74" parent="aspace_9030a1b96cc936cb97a3e6c3a38daa5c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref228_mwk" level="file">
+          <did>
+            <unittitle>English Department - Special Events</unittitle>
+            <unitdate datechar="creation">1977-1992</unitdate>
+            <container id="aspace_45d8f119290c341ba0f830ac29cbd7b0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_449a8c21a647bc47c9813c9fa3e0d009" parent="aspace_45d8f119290c341ba0f830ac29cbd7b0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref229_1tv" level="file">
+          <did>
+            <unittitle>English Department - Syllabus and Readings, 1930's</unittitle>
+            <unitdate datechar="creation">1933</unitdate>
+            <container id="aspace_16968128e3888ab0e044b23bbd657926" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6452d1221fb7a28934443a404b0051d6" parent="aspace_16968128e3888ab0e044b23bbd657926" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref230_uv5" level="file">
+          <did>
+            <unittitle>English Department - Tupper Lectures</unittitle>
+            <unitdate datechar="creation">1963-1973</unitdate>
+            <container id="aspace_9d1465a31bb0963433ae83a8646ab8e9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8f96b8430f3db1cc6640c9be6ae9f25a" parent="aspace_9d1465a31bb0963433ae83a8646ab8e9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref231_ft1" level="file">
+          <did>
+            <unittitle>English as a Foreign Language Department</unittitle>
+            <unitdate datechar="creation">1997-1998</unitdate>
+            <container id="aspace_04b4bfc9e70fd5203a0bc1fae4e55e14" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7956ad734868c54c1a2e8bba1c448a86" parent="aspace_04b4bfc9e70fd5203a0bc1fae4e55e14" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref233_a7s" level="series">
+        <did>
+          <unittitle>Jenny McKean Moore Fund for Writers records</unittitle>
+          <unitid>RG0070 Series 3</unitid>
+          <unitdate datechar="creation">1978-2006</unitdate>
+          <physdesc id="aspace_716a562db6e616395b75754e0e69c9b3" label="General Physical Description note">3 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_fe877bc8000bdd86d1ca9accc076190e">
+          <head>Scope and Contents note</head>
+          <p>Jenny McKean Moore (1923-1973), a writer and social activist in Washingtons, D.C. Wife of Paul Moore, the 13th bishop of New York(1972-1989) and mother of nine children including poet Honor Moore. In 1968 she published a book, The People on Second Street , a memoir of her life with small children and an Episcopal priest husband in an urban parish in downtown Jersey City during the 1950's. Also in 1968, she served as the advance woman for Abigail McCarthy in the McCarthy campaign . She had also joined a feminist consciousness raising group in Cleveland Park. By 1972 she had published several feature articles in the Washington Post, was working on a play, and taking playwriting classes at George Washington University. After her passing in 1973 from liver cancer, the Jenny Mckean Moore Fund was established at George Washington University. The records found in boxes 10 through 12 were donated by Susan Willens on behalf of the family of James Heller. Mr. Heller served both as secretary and as the attorney for the Board of Directors of the Fund.</p>
+          <p>The Jenny Mckean Moore Fund for Writers was formed in 1976 with an endowment left by Jenny Mckean Moore. The purpose of the fund is to choose a candidate to teach four semester long creative writing workshops at George Washington University as the Jenny McKean Moore Writer-In Washington.</p>
+        </scopecontent>
+        <c id="aspace_ref235_5tz" level="file">
+          <did>
+            <unittitle>Board of directors</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_cfee89584ed791973c3947bf4a589160" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_30205a8a64b26d575faf904f871f0017" parent="aspace_cfee89584ed791973c3947bf4a589160" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref236_iug" level="file">
+          <did>
+            <unittitle>By Laws</unittitle>
+            <unitdate datechar="creation">04/04/1987</unitdate>
+            <container id="aspace_fabbd183e1551f18f4a12b906a80e749" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f8addc2fd1b8fee923955e79897b9be9" parent="aspace_fabbd183e1551f18f4a12b906a80e749" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref237_aah" level="file">
+          <did>
+            <unittitle>Trust Fund drafts, proposals</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <container id="aspace_d921375982bdf1c776688f9c2c771183" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5cad4230c148996092c324be3c85cf8b" parent="aspace_d921375982bdf1c776688f9c2c771183" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref238_ykt" level="file">
+          <did>
+            <unittitle>Budgets</unittitle>
+            <unitdate datechar="creation">1975-1984</unitdate>
+            <container id="aspace_c8150b391b122b1e8435f5402a8a40ad" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_92e6092176b710d75984fe4b9874d086" parent="aspace_c8150b391b122b1e8435f5402a8a40ad" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref239_nou" level="file">
+          <did>
+            <unittitle>Budets for advertising</unittitle>
+            <unitdate datechar="creation">1982-1983</unitdate>
+            <container id="aspace_db3c0e22da84b0c1eb6ff16aae0776d1" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_026e0e032913ef5d6a02ea29ec18df67" parent="aspace_db3c0e22da84b0c1eb6ff16aae0776d1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref240_zmf" level="file">
+          <did>
+            <unittitle>Endowment gift information</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_436258a5bae135c0d76ad5136dc4e379" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_0f65a29f955b4f9e4aa59e7dde659aed" parent="aspace_436258a5bae135c0d76ad5136dc4e379" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref241_y2g" level="file">
+          <did>
+            <unittitle>Annual reports</unittitle>
+            <unitdate datechar="creation">1978-1986</unitdate>
+            <container id="aspace_d21fe5969e07c604e8817b1a3cb4ff5f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_172d2fdca877224508c42fb63d92fc6c" parent="aspace_d21fe5969e07c604e8817b1a3cb4ff5f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref242_988" level="file">
+          <did>
+            <unittitle>Report and questionnaire for workshop participants</unittitle>
+            <unitdate datechar="creation">05/1981</unitdate>
+            <container id="aspace_6a0ea1b744591383552b51a2310085ad" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_005dcdb2d308bb8545cda10f0deb197a" parent="aspace_6a0ea1b744591383552b51a2310085ad" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref243_s7b" level="file">
+          <did>
+            <unittitle>Report Tix for Kids</unittitle>
+            <unitdate datechar="creation">04/10/1994</unitdate>
+            <container id="aspace_655d81ef7dab9f0d452117f358560f01" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ba52ef646ca6d65383ab7fc3f3de1313" parent="aspace_655d81ef7dab9f0d452117f358560f01" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref244_fr0" level="file">
+          <did>
+            <unittitle>Reports, miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_49b78c8854f93e873cd66d4e7410bbea" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_eff90ef6042875e0f28103d27f18696f" parent="aspace_49b78c8854f93e873cd66d4e7410bbea" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref245_rk7" level="file">
+          <did>
+            <unittitle>Meeting minutes, agendas</unittitle>
+            <unitdate datechar="creation">1979-1999</unitdate>
+            <container id="aspace_221e80c36d7d03ea1eccaa6b36227478" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_65a4b7dd17d43bcd1f224744e75b378c" parent="aspace_221e80c36d7d03ea1eccaa6b36227478" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref246_j7i" level="file">
+          <did>
+            <unittitle>Contracts, agreements</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_160b4199d74c1cf95e919f6731ad886f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1e9687f72de4f6fdcf7bfb64fb22955f" parent="aspace_160b4199d74c1cf95e919f6731ad886f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref247_0my" level="file">
+          <did>
+            <unittitle>List of candidates</unittitle>
+            <unitdate datechar="creation">1977-2004</unitdate>
+            <container id="aspace_b11d71b4020062a63e0a08ae8848bd0a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_09ab18e9596be7fe7dbff3b0617c9b92" parent="aspace_b11d71b4020062a63e0a08ae8848bd0a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref248_xhp" level="file">
+          <did>
+            <unittitle>Lists of Poets</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0fd9416d916c4dcd2d264d1f966c7363" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1f0f009d1282cbf76a033a759a605f14" parent="aspace_0fd9416d916c4dcd2d264d1f966c7363" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref249_bn2" level="file">
+          <did>
+            <unittitle>Job lists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_569817a69f86671e513aebe26e7a52ee" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_682e1dbc1e8635bf9ad5b4f3d2e75348" parent="aspace_569817a69f86671e513aebe26e7a52ee" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref250_ft7" level="file">
+          <did>
+            <unittitle>Lists Literary Newspapers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7ccf8cb653d90d5abd7dcac24c4cd261" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_76faae8fa6520c785807b9acca348c40" parent="aspace_7ccf8cb653d90d5abd7dcac24c4cd261" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref251_b0i" level="file">
+          <did>
+            <unittitle>Literature Live proposals</unittitle>
+            <unitdate datechar="creation">2003-2004</unitdate>
+            <container id="aspace_ecc64a51b945661accc11e9e36925c6f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_07bca275e3b316b7a5247e994f5a4ff2" parent="aspace_ecc64a51b945661accc11e9e36925c6f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref252_l7b" level="file">
+          <did>
+            <unittitle>Announcements of fund</unittitle>
+            <unitdate datechar="creation">1977-2004</unitdate>
+            <container id="aspace_0173244f85700d22580c6b382df30aad" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b9f8c2995abfc48a4ccdc0cfb16cd154" parent="aspace_0173244f85700d22580c6b382df30aad" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref253_klb" level="file">
+          <did>
+            <unittitle>Press releases</unittitle>
+            <unitdate datechar="creation">1976-2003</unitdate>
+            <container id="aspace_07904d771af3cd808e2f07721c35e2e5" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_131b8571987c50ba5f467dced9001268" parent="aspace_07904d771af3cd808e2f07721c35e2e5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref254_bq8" level="file">
+          <did>
+            <unittitle>Memoranda: creation of fund</unittitle>
+            <unitdate datechar="creation">02/06/1975-02/22/1976</unitdate>
+            <container id="aspace_f0e123a2cd9e8717677206a86b5155e3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_2c53716d74c487a0dcb4a367f30706d2" parent="aspace_f0e123a2cd9e8717677206a86b5155e3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref255_z26" level="file">
+          <did>
+            <unittitle>Memoranda</unittitle>
+            <unitdate datechar="creation">1975-1979</unitdate>
+            <container id="aspace_c34ae62c83ddbe21a5ea016b0d20671d" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8eb22c8f353c0b649c04bd8dc88c1aaa" parent="aspace_c34ae62c83ddbe21a5ea016b0d20671d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref256_5sp" level="file">
+          <did>
+            <unittitle>Memoranda</unittitle>
+            <unitdate datechar="creation">1981-1995</unitdate>
+            <container id="aspace_255d38e04722b9678382566e39d448f3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_a346628db1902421745e0948e82d5945" parent="aspace_255d38e04722b9678382566e39d448f3" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref257_gtx" level="file">
+          <did>
+            <unittitle>Memoranda</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cf0ab241aa486abb4d811b434a95f3b2" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ac6ba5e60b681157326ade6f2b5ac102" parent="aspace_cf0ab241aa486abb4d811b434a95f3b2" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref258_iqe" level="file">
+          <did>
+            <unittitle>Correspondence: to Faye Moskowitz</unittitle>
+            <unitdate datechar="creation">1974-2000</unitdate>
+            <container id="aspace_12621ee030ab12eb2956bbe6a8f0f8f0" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8d956aa0b50d39e1d552b599fa256c2a" parent="aspace_12621ee030ab12eb2956bbe6a8f0f8f0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref259_czf" level="file">
+          <did>
+            <unittitle>Correspondence: Eda Kriseova</unittitle>
+            <unitdate datechar="creation">1983-1985</unitdate>
+            <container id="aspace_4ef2e52e43de06b40891de67ea7f6d29" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a13147e5358b539a472133fce6441946" parent="aspace_4ef2e52e43de06b40891de67ea7f6d29" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref260_6pt" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1975-1979</unitdate>
+            <container id="aspace_b9213eeab61a65819b908382f44a721d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_28d76349ea95655a16674817851499d6" parent="aspace_b9213eeab61a65819b908382f44a721d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref261_pto" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1980-1985</unitdate>
+            <container id="aspace_ceab705099fba4ca4eb823e274dd68cb" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_753182c48f38a5216a29e2c329a45540" parent="aspace_ceab705099fba4ca4eb823e274dd68cb" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref262_z4t" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1986-1989</unitdate>
+            <container id="aspace_f324fa42f3cd6270b51d90283ffbce49" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_f73808da29cffd4832d37c574df122d4" parent="aspace_f324fa42f3cd6270b51d90283ffbce49" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref263_326" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1990-1996</unitdate>
+            <container id="aspace_7819393ba9a68c3a8a93d48dd3be0cd3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_17bef33eec80e53bd4ae89e0372fce50" parent="aspace_7819393ba9a68c3a8a93d48dd3be0cd3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref264_ngd" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">1996-1999</unitdate>
+            <container id="aspace_0f78f01de503f95f67a58aa3b65f1ad1" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_1cd53f036327af6bde46285638d3aab3" parent="aspace_0f78f01de503f95f67a58aa3b65f1ad1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref265_9aq" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">2000-2006</unitdate>
+            <container id="aspace_5afd19533d307e847dbe97f0b102ef98" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_abbc851cb2e79936eb043d13282c09fc" parent="aspace_5afd19533d307e847dbe97f0b102ef98" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref266_4g2" level="file">
+          <did>
+            <unittitle>Correspondence: contracts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fbf1e8ed74af9257b7e573d0079c402e" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_19736713c58faf26003fcc14bc0c4de1" parent="aspace_fbf1e8ed74af9257b7e573d0079c402e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref267_ka4" level="file">
+          <did>
+            <unittitle>Correspondence: contracts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bcff4aeb73ae55ad249bb79c1075df51" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_03e7bc70cb7071093e4a285c74e2f264" parent="aspace_bcff4aeb73ae55ad249bb79c1075df51" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref268_b64" level="file">
+          <did>
+            <unittitle>Recommendations of Writers in Residence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c450eaacfa3cd32a89c74d2b087dcc56" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ba8f3a631d44601f55621efcb749a93e" parent="aspace_c450eaacfa3cd32a89c74d2b087dcc56" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref269_kp7" level="file">
+          <did>
+            <unittitle>Recommendations for Julia Alvarez</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_86a7398a68e4847d0598bd1b4488dba3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_56a001f95e6ee422943bbb44bbf8edc9" parent="aspace_86a7398a68e4847d0598bd1b4488dba3" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref270_acu" level="file">
+          <did>
+            <unittitle>Resumes of writers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_af098b3196ec42602ff3504f4ce57355" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_c7dfcc1dc812969bb733fa7fe266b908" parent="aspace_af098b3196ec42602ff3504f4ce57355" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref271_4xf" level="file">
+          <did>
+            <unittitle>Work of Julia Alvarez</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c4225d9f373c412926d95129a9eb3e02" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_4c96505f96ea5fac503a8500af633acf" parent="aspace_c4225d9f373c412926d95129a9eb3e02" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref272_vbn" level="file">
+          <did>
+            <unittitle>Work of Lucille Clifton</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9715b65d65b4f0ab4656a7f9ed93cc16" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_14be5e8f3007bebe7b82e2ee7d7a7585" parent="aspace_9715b65d65b4f0ab4656a7f9ed93cc16" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref273_8fx" level="file">
+          <did>
+            <unittitle>Work of Peter Meinke</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_528c470cdf11cb12bd024178c7dbe856" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_3c588e1a46ed0a1827ada57be549b8ed" parent="aspace_528c470cdf11cb12bd024178c7dbe856" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref274_kvs" level="file">
+          <did>
+            <unittitle>Work of LeRa Jones</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_19900a0418e44937ed6d7f21f5180c47" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_d5b9a59458ae38ff42278b75d176e725" parent="aspace_19900a0418e44937ed6d7f21f5180c47" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref275_uhy" level="file">
+          <did>
+            <unittitle>Works of Gloria Naylor</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_eaad4bbae83cbbc1e32556457085d859" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_3ca3a9487a492324ca102133aba62a4e" parent="aspace_eaad4bbae83cbbc1e32556457085d859" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref276_ovf" level="file">
+          <did>
+            <unittitle>Works of writers: miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e30f7ea04e47ccd5def621b8a2b9fb2f" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_6456613dfdb8291ce8d71ede46c22902" parent="aspace_e30f7ea04e47ccd5def621b8a2b9fb2f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref277_6ly" level="file">
+          <did>
+            <unittitle>Applications forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b45dff6159744826509ac1d4597917e3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_9f88a57c133708fa0ef17096546ece6f" parent="aspace_b45dff6159744826509ac1d4597917e3" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref278_l19" level="file">
+          <did>
+            <unittitle>Application procedures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_060963a4b6e20802d63dbe499d6f1230" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_197b2132d5f6d05c284ba737d0463d37" parent="aspace_060963a4b6e20802d63dbe499d6f1230" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref279_y45" level="file">
+          <did>
+            <unittitle>Workshop materials: collected poems</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_f8f8f1224206b60915e023ba9b811e1f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_4a1ecd67415b95848086b8dad85eaca5" parent="aspace_f8f8f1224206b60915e023ba9b811e1f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref280_umd" level="file">
+          <did>
+            <unittitle>Workshop materials</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9fc7f5f416b2952508466cf3f12d5e15" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_7954c69cdd4aba85325f9221b9d0ab5a" parent="aspace_9fc7f5f416b2952508466cf3f12d5e15" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref281_aa3" level="file">
+          <did>
+            <unittitle>Readings programs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7140eda3ce276cd366b4eba277b5b658" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_3d3dcdc25cc5f678b3cfc064b76c106c" parent="aspace_7140eda3ce276cd366b4eba277b5b658" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref282_c6b" level="file">
+          <did>
+            <unittitle>Programs, brochures</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7954995810d5cac0650aed13eb74303d" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_6b4112baa846babc0090a895e9422128" parent="aspace_7954995810d5cac0650aed13eb74303d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref283_2gi" level="file">
+          <did>
+            <unittitle>Programs: miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f887ce9f6d64d684b369d0ec8a1f47be" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_ebeb4d3ccf81ca4e91a366f4003b78a6" parent="aspace_f887ce9f6d64d684b369d0ec8a1f47be" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref284_uha" level="file">
+          <did>
+            <unittitle>Flyers: Reading series</unittitle>
+            <unitdate datechar="creation">1989-2003</unitdate>
+            <container id="aspace_fea6c7ad2cb5b5d1a9dca0d64c57bb47" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_ef3702a70028bd65d4f3a1327f301753" parent="aspace_fea6c7ad2cb5b5d1a9dca0d64c57bb47" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref285_65m" level="file">
+          <did>
+            <unittitle>Flyers: workshop</unittitle>
+            <unitdate datechar="creation">1998-2004</unitdate>
+            <container id="aspace_44b793ec1c4b591ffb3cb99e32306164" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_6379ac81f40b14d945817ec3d697c319" parent="aspace_44b793ec1c4b591ffb3cb99e32306164" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref286_4mv" level="file">
+          <did>
+            <unittitle>Flyers, posters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cb2ffaaae9923b7d7f35289fa0fdb14c" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_f20c126cefb954b418efc30c45afc498" parent="aspace_cb2ffaaae9923b7d7f35289fa0fdb14c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref287_urk" level="file">
+          <did>
+            <unittitle>Flyers, posters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b056ffa25548404b0b3cd105d1f57c9a" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_318561cf16e68e0993f2f0ae62fc9e0b" parent="aspace_b056ffa25548404b0b3cd105d1f57c9a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref288_o75" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6a89fe875ae61f883e2a0c9644bb949b" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_e7bdd142364baac3788934bdaa4f64f3" parent="aspace_6a89fe875ae61f883e2a0c9644bb949b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref289_tvp" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_990568e63b6d03307a3e5f2307cd393e" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_51ad11714b6020da1221535d7373da98" parent="aspace_990568e63b6d03307a3e5f2307cd393e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref290_9r1" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d89850f260aa6316cf55dd01a15bda4e" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_e92d7a65020bf1d73394674073b966ff" parent="aspace_d89850f260aa6316cf55dd01a15bda4e" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref291_wsh" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1220a5d6235eee2b423510e717a7783b" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_a141a46a8c28f7dc912998f1e015a598" parent="aspace_1220a5d6235eee2b423510e717a7783b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref292_q7y" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_89a336be7bd681b5e15aa9c980cd2313" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_5d2c3a5e9ed4d739846195b3ece2c60a" parent="aspace_89a336be7bd681b5e15aa9c980cd2313" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref293_rye" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e7ba84aaa6c0f554d632228d4824a11f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_24ff1899afab2a02a97a8c73759283a1" parent="aspace_e7ba84aaa6c0f554d632228d4824a11f" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref294_yya" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1d3fc2db9a423bb9799ea9f1a4df23c2" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_26a49513387d348cb8309943f47d4a6c" parent="aspace_1d3fc2db9a423bb9799ea9f1a4df23c2" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref295_p34" level="file">
+          <did>
+            <unittitle>Memoir: Jenny Moore</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b0a313be2b3de0ee86bfe5e7a1fb40c3" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_a7bab22de3365dbd3ce14cdfdd00c6e0" parent="aspace_b0a313be2b3de0ee86bfe5e7a1fb40c3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref296_68s" level="file">
+          <did>
+            <unittitle>Play: The Job, Jenny McKeen Moore</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8ac4798f8d1fe2159d2772a0f539112f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_ea7ec4750000e52fca3b72730aba0412" parent="aspace_8ac4798f8d1fe2159d2772a0f539112f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref297_d97" level="file">
+          <did>
+            <unittitle>Mariam Shapiro</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ea5ff2aae531b215565c36be3f999168" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_a69c4b0914e1b4a1ff3fc421c9d7fead" parent="aspace_ea5ff2aae531b215565c36be3f999168" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref298_0hk" level="file">
+          <did>
+            <unittitle>Posters: oversize</unittitle>
+            <unitdate datechar="creation">1977-1986</unitdate>
+            <container id="aspace_8dd86ac469d809aaeb69759554966514" label="Mixed Materials [GW: 32882018992670]" type="Box">9</container>
+            <container id="aspace_8ae224c33346787aac5f45f91dc8c7d5" parent="aspace_8dd86ac469d809aaeb69759554966514" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref299_33a" level="file">
+          <did>
+            <unittitle>Agreement forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e8477d1aa7315dec37a75c3d139a7350" label="Mixed Materials [GW: 32882018992670]" type="Box">9</container>
+            <container id="aspace_81cf6a70eacb5b1f7144039e2db5b701" parent="aspace_e8477d1aa7315dec37a75c3d139a7350" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref300_bgo" level="file">
+          <did>
+            <unittitle>Works of Jenny McKeen Moore, oversize</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_349c4eedc17a6614e621d9b28c84d2cc" label="Mixed Materials [GW: 32882018992670]" type="Box">9</container>
+            <container id="aspace_223ab8f636f74d8577618001dbe39ddb" parent="aspace_349c4eedc17a6614e621d9b28c84d2cc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref301_ahn" level="file">
+          <did>
+            <unittitle>JMMF - GW Endowment</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_3ac0f4cb46a7c82f59b19d5ee4f9f8a4" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_fa129f7721cd9dceffb31f67304f67d2" parent="aspace_3ac0f4cb46a7c82f59b19d5ee4f9f8a4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref302_r63" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_da652f7c4a5114a06b7b5e5aa9ea9e8b" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_4f9d7b1224edf447232fac5f1899cd66" parent="aspace_da652f7c4a5114a06b7b5e5aa9ea9e8b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref303_zy6" level="file">
+          <did>
+            <unittitle>Kampelman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0ab4685b4af4c7cd316fe1ddfc99ac33" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_77c0ca7323327bce69522e3ad258982e" parent="aspace_0ab4685b4af4c7cd316fe1ddfc99ac33" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref304_8zx" level="file">
+          <did>
+            <unittitle>Nations Bank Bank Statements</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_95d69023b0168aca86918a269cf5951d" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_56023cda383bdbc112c56b2b3d60c4ea" parent="aspace_95d69023b0168aca86918a269cf5951d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref305_k0v" level="file">
+          <did>
+            <unittitle>Nations Bank Bank Statements</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_1365f3df09e6711dc965388a527d188b" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_180f322412affd3c96a6402bd230d19d" parent="aspace_1365f3df09e6711dc965388a527d188b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref306_lpb" level="file">
+          <did>
+            <unittitle>JMMF By laws </unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_c290b1a91b99a1ba5122d2a1bbd1205f" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_242383873ff7f742d0549ec55c156d67" parent="aspace_c290b1a91b99a1ba5122d2a1bbd1205f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref307_83z" level="file">
+          <did>
+            <unittitle>Jenny Moore - Board List</unittitle>
+            <unitdate datechar="creation">1993-1998</unitdate>
+            <container id="aspace_de6c67a0d77285fae7e850c1e38e5b2d" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_4d49ca809e8e696d437c13607c9c90e8" parent="aspace_de6c67a0d77285fae7e850c1e38e5b2d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref308_anp" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund for Writers</unittitle>
+            <unitdate datechar="creation">1999-2000</unitdate>
+            <container id="aspace_e81ab000cdda86c0f96e5d710fd9894e" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_3da24fc2451e1db30591db9553a10909" parent="aspace_e81ab000cdda86c0f96e5d710fd9894e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref309_y9u" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund - Asst Treasurer</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_98540d3ce70cf51753379b739ccbba12" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_5e502bad0fd9e23d14929ee5824bc08c" parent="aspace_98540d3ce70cf51753379b739ccbba12" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref310_w6c" level="file">
+          <did>
+            <unittitle>JMMFW - DC Franchise Tax Exemption</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_b5c848bb35691123d4230525dc2102de" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_10941a4505a19481d094290cdbecc80c" parent="aspace_b5c848bb35691123d4230525dc2102de" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref311_q4x" level="file">
+          <did>
+            <unittitle>Income Tax Returns - Jenny McKean Moore Fund</unittitle>
+            <unitdate datechar="creation">1997-1998</unitdate>
+            <container id="aspace_5b01115c4f3be747656395fca8b679cc" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_412c79a82d7214eceb2de1eedd374920" parent="aspace_5b01115c4f3be747656395fca8b679cc" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref312_ktf" level="file">
+          <did>
+            <unittitle>Income Tax Returns - JKMMF</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_0ec9cdaa49f5d16b97d9437b39dd5642" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_698bf5ce95e6ef88a137f0f9d5bcd910" parent="aspace_0ec9cdaa49f5d16b97d9437b39dd5642" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref313_rgb" level="file">
+          <did>
+            <unittitle>Income Tax Returns - JKMMF</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_d817d5ce51616320a5dd9df8302e0fd6" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_1b39b3f5f375d445675517e34d0d868b" parent="aspace_d817d5ce51616320a5dd9df8302e0fd6" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref314_eh6" level="file">
+          <did>
+            <unittitle>Income Tax Returns - JKMMF</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_0b7fe8d367d8a9cbf70ba1ba23ef1e85" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_daed777816502a7fe441aeb873bdb6a6" parent="aspace_0b7fe8d367d8a9cbf70ba1ba23ef1e85" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref315_1qo" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund - Takes</unittitle>
+            <unitdate datechar="creation">1999-2000</unitdate>
+            <container id="aspace_839f5b2d76f78deb083e79a0a10c6f28" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_27b238b718240caff282259f02bb0d17" parent="aspace_839f5b2d76f78deb083e79a0a10c6f28" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref316_o25" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund Bank Account</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_94dcbae8797c1e903fe3c2a4c2697189" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_bb9f701251a34ecfd9fe0f91be2d613f" parent="aspace_94dcbae8797c1e903fe3c2a4c2697189" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref317_kwx" level="file">
+          <did>
+            <unittitle>JMMF</unittitle>
+            <unitdate datechar="creation">1997-1998</unitdate>
+            <container id="aspace_b0a61fa9d660474a9943a2762dfbc7b6" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_6378ebc3db8295693722b383de20501e" parent="aspace_b0a61fa9d660474a9943a2762dfbc7b6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref318_olh" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund</unittitle>
+            <unitdate datechar="creation">1996-1997</unitdate>
+            <container id="aspace_d0f49f7ea6b4d262e9d92765c1d42504" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_a2666406cd06e8d1da052215adfb25de" parent="aspace_d0f49f7ea6b4d262e9d92765c1d42504" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref319_9re" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund</unittitle>
+            <unitdate datechar="creation">1995-1996</unitdate>
+            <container id="aspace_ee1a75170a1c92856630109aeb7fbc7c" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_972b296b080216ad7b78fdfdb0c65e53" parent="aspace_ee1a75170a1c92856630109aeb7fbc7c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref320_309" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund</unittitle>
+            <unitdate datechar="creation">1994-1995</unitdate>
+            <container id="aspace_a401e20ce69ccf54bbcd99cfa9a56672" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_d91d0f268ba84aaa7cf75ee8faca13b4" parent="aspace_a401e20ce69ccf54bbcd99cfa9a56672" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref321_vjv" level="file">
+          <did>
+            <unittitle>Young Peoples Workshop - Sample poems</unittitle>
+            <unitdate datechar="creation">1994-1996</unitdate>
+            <container id="aspace_a78add2b89366248a55b0e519dcff0bd" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_b4956c5be0d19ef50c18cf520ec7cdde" parent="aspace_a78add2b89366248a55b0e519dcff0bd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref322_y1c" level="file">
+          <did>
+            <unittitle>Iona Senior Services</unittitle>
+            <unitdate datechar="creation">1993-1996</unitdate>
+            <container id="aspace_a77eb426bd8c4f6bc2cf264f73dfc17f" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_c869cc3274a99fe2fd4545f7b9c78bcb" parent="aspace_a77eb426bd8c4f6bc2cf264f73dfc17f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref323_f65" level="file">
+          <did>
+            <unittitle>"East of the River" DC Humanities Council</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_c2c9cd3285277e77f21b23385b4c1ce7" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_3fbbde77b5cb6e1a37e50f8fcb9887ca" parent="aspace_c2c9cd3285277e77f21b23385b4c1ce7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref324_mk3" level="file">
+          <did>
+            <unittitle>JMMF - National Museum of Women in the Arts</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_7b5680d81a34ff18d6746a6a0cde318b" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_6df61f9537282de5744538f3afd47674" parent="aspace_7b5680d81a34ff18d6746a6a0cde318b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref325_byn" level="file">
+          <did>
+            <unittitle>JMMF - T/X Progress</unittitle>
+            <unitdate datechar="creation">1999-2000</unitdate>
+            <container id="aspace_e50813422bffab8b369c6968a20e68bb" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_d53f7b684b2a8b9499a5c612c2d1ea98" parent="aspace_e50813422bffab8b369c6968a20e68bb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref326_c70" level="file">
+          <did>
+            <unittitle>JMMF Cave Canem</unittitle>
+            <unitdate datechar="creation">1998-2000</unitdate>
+            <container id="aspace_ffdb4569f530e359822b68993c2a298f" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_0f650a5bf4dba80c9e8606aa7053b4f5" parent="aspace_ffdb4569f530e359822b68993c2a298f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref327_mil" level="file">
+          <did>
+            <unittitle>JMMF African American Writers Guild</unittitle>
+            <unitdate datechar="creation">1994-1997</unitdate>
+            <container id="aspace_fb051586c3b15fe85bc34936e6395bba" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_f50f5d1a466fbfa3e7c773dd48b51a3d" parent="aspace_fb051586c3b15fe85bc34936e6395bba" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref328_phb" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_c1e0518c91e8a7710eebe76732683b23" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_caa4bcd2938f379fbb699bbd0783c9ef" parent="aspace_c1e0518c91e8a7710eebe76732683b23" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref329_9ut" level="file">
+          <did>
+            <unittitle>Jenny Moore Fund - GWU English Dept</unittitle>
+            <unitdate datechar="creation">1994-1998</unitdate>
+            <container id="aspace_004c56378264bde5b43be6dbf8813418" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_f404d06678271c884f3ae61651cce887" parent="aspace_004c56378264bde5b43be6dbf8813418" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref330_ttq" level="file">
+          <did>
+            <unittitle>JMMF - Turkey Thicket</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_f063401c21a93d7a696eb4be63409d5a" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_29916327df45b238503010ccd14793b7" parent="aspace_f063401c21a93d7a696eb4be63409d5a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref331_85g" level="file">
+          <did>
+            <unittitle>JMMF - Joy Jones/Turkey Thicket Ref Center</unittitle>
+            <unitdate datechar="creation">1997-1998</unitdate>
+            <container id="aspace_2a8e19e87f51f19091ec963e2756eccc" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_9417dd09e3f1726a40f81aeb6bba87b6" parent="aspace_2a8e19e87f51f19091ec963e2756eccc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref332_6gq" level="file">
+          <did>
+            <unittitle>Writers Corps</unittitle>
+            <unitdate datechar="creation">1998-2000</unitdate>
+            <container id="aspace_bd32ebe4ecffe55fb848c9378dbebfe7" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_21715c4b2035acb3d12ab68f46a6d255" parent="aspace_bd32ebe4ecffe55fb848c9378dbebfe7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref333_1ec" level="file">
+          <did>
+            <unittitle>Checks Stubs</unittitle>
+            <unitdate datechar="creation">1998-2000</unitdate>
+            <container id="aspace_41c3e1e62136855b650683524c924af9" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_ba1272f5956679b7e3d227d3f4b7c8ec" parent="aspace_41c3e1e62136855b650683524c924af9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref334_e44" level="file">
+          <did>
+            <unittitle>Resolution No. 1</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_6aece3d7948ef131e41cabe3606014aa" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_bf10cc8a4ced4e4680b1daaa135bd26a" parent="aspace_6aece3d7948ef131e41cabe3606014aa" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref335_tou" level="file">
+          <did>
+            <unittitle>Resolution No. 2</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_564cf9fd78b4e011e444f983c94c857f" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_43fbda658e1dd0c181c711879cf388d1" parent="aspace_564cf9fd78b4e011e444f983c94c857f" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref339_wyy" level="series">
+        <did>
+          <unittitle>Distance Education course recordings
+
+</unittitle>
+          <unitid>Series 4</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.05 Linear Feet</extent>
+            <extent altrender="carrier">1 document box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="2005/2005" type="inclusive">02/28/2005-05/25/2005</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_9a5ef1d99ece1389ac304fce9f94f8f8">
+          <head>Scope and Contents</head>
+          <p>This series contains CDs and DVDs for two online courses SDLI Creative Writing and Engl 092 Post Colonial Literature II. The creative writing coures was taught by Professor David McAleavey.  He interviewed faculty from the English Department about their creative writing process. He used these interviews for instruction. The Engl 092 Post Colonial Literature II was taught by Dr. Davita Daiya as part of the 2005 Distance Education Series produced by Academic Technologies.  All of these cds were recorded in 2005.</p>
+        </scopecontent>
+        <c id="aspace_ref341_j78" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing Poetry course</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">02/28/2005</unitdate>
+            <container id="aspace_2a03c8f55197aef5eb6c7ef3217c3286" label="Moving Images [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_7d3145670934dcc41139ff95344fe321" parent="aspace_2a03c8f55197aef5eb6c7ef3217c3286" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref343_qh2" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course interview Vikram Chandra</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">02/28/2005-05/23/2005</unitdate>
+            <container id="aspace_2e289a88359f1d38582feff08d4823e6" label="Mixed Materials [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_e8984371c6ddc3d31d81d0b477b202ae" parent="aspace_2e289a88359f1d38582feff08d4823e6" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_5a6f4adae68f687f32cb811f2cb97f03">
+            <head>Scope and Contents</head>
+            <p>There is one CD and one DVD in this file.  The one dated 05/23/2005 is the CD and indicates it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref345_ygk" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course interview and poetry lecture with Jane Shore</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">03/11/2005-05/18/2005</unitdate>
+            <container id="aspace_6f49e9a1835f8e242dc80a8fd9fa666b" label="Mixed Materials [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_21fe2f7871b9fde877d5fa64eb8aae3f" parent="aspace_6f49e9a1835f8e242dc80a8fd9fa666b" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_37bb9cff4da7cbc5cc0b5e8bfcb6a143">
+            <head>Scope and Contents</head>
+            <p>There is one CD and one DVD in this file.  The one dated 05/18/2005 is the CD and it indicates it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref346_qoo" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course introduction first draft</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">3/21/2005</unitdate>
+            <container id="aspace_80908d862c2f46c94225f6189ed0eef4" label="Audio [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_164862b7a8a01c3520cb733786532b11" parent="aspace_80908d862c2f46c94225f6189ed0eef4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref348_5u3" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course Pati Griffith Rushes and interview</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">3/29/2005-05/25/2005</unitdate>
+            <container id="aspace_680b1d0d1c504869e20c37f4cf677af7" label="Audio [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_8752ae43c72cb6120d34c8e4489e3f48" parent="aspace_680b1d0d1c504869e20c37f4cf677af7" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_8f7c649c253bb34ffd2d1a9eec34f19a">
+            <head>Scope and Contents</head>
+            <p>This folder containes two CDs. The one dated 03/29/2005 has the title Rushes and the one dated 05/25/2005 indicates it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref350_ggl" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course Anna Zeigler interview</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">04/01/2005-05/25/2005</unitdate>
+            <container id="aspace_08fa4ff82263121476b3e98f84def0d8" label="Audio [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_f658dfedbd4f3c63ded1b561e2124bfb" parent="aspace_08fa4ff82263121476b3e98f84def0d8" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_c74f0f32e9e923b88cd867704eb9f5f6">
+            <head>Scope and Contents</head>
+            <p>This folder containes two CDs. The one dated 04/01/2005 says rough cuts and the one dated 05/25/2005 indicates it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref352_7ky" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course Maxine Clair interview</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">04/06/2005-05/23/2005</unitdate>
+            <container id="aspace_87e51794211b69b25a0045ae6c2e59a7" label="Audio [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_90acf2e910fb0d9534b0eed8c010d37b" parent="aspace_87e51794211b69b25a0045ae6c2e59a7" type="Folder">7</container>
+          </did>
+          <scopecontent id="aspace_959dcfc6373bb480c24dbfe8e9e3befa">
+            <head>Scope and Contents</head>
+            <p>This folder contains two CDs. The one dated 04/06/2005 says rough cuts and the one dated 05/23/2005 indicates it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref353_by6" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course Faye Moskowitz rough cut</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">04/06/2005</unitdate>
+            <container id="aspace_b0bd681f36d7a4f742297e576ea77861" label="Audio [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_145f8b1f22171ff8a7a5a6d3ff6d5fc4" parent="aspace_b0bd681f36d7a4f742297e576ea77861" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref355_hme" level="file">
+          <did>
+            <unittitle>SDLI Creative Writing course experimental writing forum</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">05/11/2005-05/25/2005</unitdate>
+            <container id="aspace_0e9cfd7eeb94a9ea878184a1b8fe1c4f" label="Mixed Materials [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_32af2fdf06d9e391fbb800973c2153c5" parent="aspace_0e9cfd7eeb94a9ea878184a1b8fe1c4f" type="Folder">9</container>
+          </did>
+          <scopecontent id="aspace_d83ad3b8f03037d51be370456585fce9">
+            <head>Scope and Contents</head>
+            <p>This folder contains one CD and one DVD. The CD is dated 05/25/2005 says that it has been edited.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref357_3y6" level="file">
+          <did>
+            <unittitle>Engl 092 Post Colonial Literature II classes #5 and #10</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_2de8a85fd1bbb480f5db4cb6263fdb54" label="Moving Images [GW: 32882019240517 IMP: T560698493]" type="Box">13</container>
+            <container id="aspace_1ef3474614d10e4de0ec1e0e65ad16da" parent="aspace_2de8a85fd1bbb480f5db4cb6263fdb54" type="Folder">10</container>
+          </did>
+          <scopecontent id="aspace_1482f8d8e24cf92b35e0a9e2d478420d">
+            <head>Scope and Contents</head>
+            <p>Class #5 is Dr. Kavita Daiya with special guest Witi Ihimaera. Class #10 is Dr. Kavita Daiya with guest Bernadine Evaristo.</p>
+          </scopecontent>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

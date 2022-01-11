@@ -1,0 +1,1076 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2173.xml">ms2173.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the David G. Henderson papers, <date calendar="gregorian" era="ce">1926-1988</date>
+ <num>MS2173</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:40:32 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>David G. Henderson papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Henderson, David G.</persname>
+      </origination>
+      <unitid>MS2173</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.75 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1926-1988</unitdate>
+      <abstract id="aspace_23d4f8468444c51ec05dc2a2841a84bd">Collection contains memoranda, correspondence, reports, handbooks, publications, articles, bibliographies, conference materials, photographs, catalogs, notes, and architectural drawings collected by David G. Henderson in the course of his career as an architect for the National Park Service. The material dates from 1926-88 (bulk: 1963-82). The collection deals with issues of historic preservation. It includes internal National Park Service memoranda, guidelines, procedures, and policies, as well as general background information about the preservation and restoration of historic structures. The collection also includes plans and reports for the restoration and maintenance of several national parks and historic sites around the United States.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+      <container id="aspace_2f263a5fa67f7a94eb23d43401c70885" label="Mixed Materials" type="Box">S0001</container>
+    </did>
+    <prefercite id="aspace_92a0f52a4004736022a8b58a444f2e80">
+      <head>Preferred citation</head>
+      <p>David G. Henderson papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_2ace5d17e849e61e0181bd595ef45d75">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_06db2fa3eda42ff10fedbf4bcc92190d">
+      <head>Acquisition Information</head>
+      <p>The collection was donated by David G. Henderson in 1990. A number of books were included with this donation. They have been separated from the manuscript materials and are now housed in the general collection.</p>
+    </acqinfo>
+    <userestrict id="aspace_a4794828d0e7c64eebdeb6bb82e06f3e">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_f986bb4f6c8c3c1db4712b95ab7f7b85">
+      <head>Historical or Biographical Note</head>
+      <p>David G. Henderson worked as an architect specializing in historic preservation. He was employed by the National Park Service's Office of Environmental Planning and Design's Denver Service Center and Eastern Service Center.</p>
+    </bioghist>
+    <scopecontent id="aspace_a5bb0540049cd13062661c284ae10583">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains memoranda, correspondence, reports, handbooks, publications, articles, bibliographies, conference materials, photographs, catalogs, notes, and architectural drawings collected by David G. Henderson in the course of his career as an architect for the National Park Service. The material dates from 1926-88 (bulk: 1963-82). The collection deals with issues of historic preservation. It includes internal National Park Service memoranda, guidelines, procedures, and policies, as well as general background information about the preservation and restoration of historic structures. The collection also includes plans and reports for the restoration and maintenance of several national parks and historic sites around the United States.</p>
+    </scopecontent>
+    <arrangement id="aspace_ac92c0f7905792ae3497f5ebb979f8cf">
+      <head>Collection Organization</head>
+      <p>Organized into two series: Subject files and Reports and plans.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Preservation and restoration</subject>
+      <subject source="lcsh">Historic buildings</subject>
+      <genreform source="aat">Photographs</genreform>
+      <subject source="lcsh">Conservation and restoration</subject>
+      <subject source="lcsh">Historic preservation</subject>
+      <corpname rules="aacr" source="naf">United States. National Park Service</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_w7i" level="series">
+        <did>
+          <unittitle>Subject files</unittitle>
+          <unitid>MS 2173 Series 1</unitid>
+          <unitdate datechar="creation">1926-1988</unitdate>
+          <physdesc id="aspace_3ae1519a3d42bf142b0bc8668cabbc87" label="General Physical Description note">3.5 Linear feet</physdesc>
+          <container id="aspace_4c0d1a41ba5602ab2e6dad865ac59fd7" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_24171e4b4276648e1cf364e4c2eae012" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_14b910e65d03b94639918d9ac025b3f0" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_8ab211fcc413810484f2ab87b6c48884" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_b0463fb50e26fab47ee5c3808012bbfb" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_43c56eb8ddd896e5e22cd2480b6ef8a3" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_fe6765a63d75e27b8027cc5e56af6ffb" label="Mixed Materials" type="Box">10</container>
+        </did>
+        <scopecontent id="aspace_b43a7e0d65051761738bc602d2c8f583">
+          <head>Scope and Contents note</head>
+          <p>This series contains memoranda, correspondence, reports, handbooks, publications, articles, bibliographies, conference materials, photographs, catalogs, notes, and architectural drawings collected by David G. Henderson in the course of his career as an architect for the National Park Service. The material dates from 1926-88 (bulk: 1963-83). The series includes internal National Park Service memoranda, guidelines, procedures, and policies, as well as general background information about the preservation and restoration of historic structures. Of particular interest are materials relating to the restoration of the White House.</p>
+        </scopecontent>
+        <c id="aspace_ref15_e2b" level="file">
+          <did>
+            <unittitle>Access for handicapped</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_99d1321e19d83769986cad5ceef3a524" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bb5f7f3676850f9b8bee0133ba5c7f99" parent="aspace_99d1321e19d83769986cad5ceef3a524" type="Folder">1</container>
+          </did>
+          <odd id="aspace_d9c4ca23277059c59b10f863b752313f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref17_2qe" level="file">
+          <did>
+            <unittitle>Amateur's Guide to Terms Commonly Used in Describing Historic Buildings</unittitle>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_de024ce1c523cac2d7b9e7a2cf0f245c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_67bbbd15f83334951684849214f1e83b" parent="aspace_de024ce1c523cac2d7b9e7a2cf0f245c" type="Folder">2</container>
+          </did>
+          <odd id="aspace_47cc83f9799704846cb1ffca9b2dbad8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref19_tnb" level="file">
+          <did>
+            <unittitle>Architectural history, style charts, etc.</unittitle>
+            <unitdate datechar="creation">1978-1979</unitdate>
+            <container id="aspace_4c30c4f63934b8478eb937828fa77bee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7e26fe4ee5316d178fc7ca1e2f094f99" parent="aspace_4c30c4f63934b8478eb937828fa77bee" type="Folder">3</container>
+          </did>
+          <odd id="aspace_f403edf2a1535f3ef85f757ea7f5b65b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref21_1y6" level="file">
+          <did>
+            <unittitle>Association for Preservation Technology</unittitle>
+            <unitdate datechar="creation">1973-1982</unitdate>
+            <container id="aspace_012bdd3d4a8af0031e91cbf79e375802" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c8c3546ccdb792d3456b9805a029cda4" parent="aspace_012bdd3d4a8af0031e91cbf79e375802" type="Folder">4</container>
+          </did>
+          <odd id="aspace_051145c0a9e7047bfb3722aa347aa41e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref23_77h" level="file">
+          <did>
+            <unittitle>Attingham</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_7e97432fd5d67d335d8326968c7b36af" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a2d4e5bf6e2e5050c740923baf0fddf6" parent="aspace_7e97432fd5d67d335d8326968c7b36af" type="Folder">5</container>
+          </did>
+          <odd id="aspace_6fe66b7c715baa1c645a3fa0a75fbcee">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref25_zj0" level="file">
+          <did>
+            <unittitle>Bulletin--Cultural resources management</unittitle>
+            <unitdate datechar="creation">1976-1979</unitdate>
+            <container id="aspace_13cf28b7cc3f8424b4663632e880e740" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_49433917d298219209a5a75a48c94f9a" parent="aspace_13cf28b7cc3f8424b4663632e880e740" type="Folder">6</container>
+          </did>
+          <odd id="aspace_33d5a206da6fe2a86b444421bac28464">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref27_baq" level="file">
+          <did>
+            <unittitle>Classified structure field inventory report--Inter 5323-75</unittitle>
+            <unitdate datechar="creation">05/05/1975-02/13/1976</unitdate>
+            <container id="aspace_c7d3ce6c81ca3f4e64f12ad420b596b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a78bd6337053b604b5337de854b14ae9" parent="aspace_c7d3ce6c81ca3f4e64f12ad420b596b0" type="Folder">7</container>
+          </did>
+          <odd id="aspace_ea0b75d2fc8028a8145d136b1d853bed">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref29_z4z" level="file">
+          <did>
+            <unittitle>Concrete</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_1d8871567e5549f903ab7991ee183ceb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8b79e777d42b62cc13d2fc2251752259" parent="aspace_1d8871567e5549f903ab7991ee183ceb" type="Folder">8</container>
+          </did>
+          <odd id="aspace_89c290def07a2398c0726ffeebd8b58e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref31_6fb" level="file">
+          <did>
+            <unittitle>Conference on conservation of historic stone buildings and monuments</unittitle>
+            <unitdate datechar="creation">02/02/1981-02/04/1981</unitdate>
+            <container id="aspace_e2e7f5f02fc24b5d6db3c43c6e581ca3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2794cba3811eea5c443e82de2bb1de2e" parent="aspace_e2e7f5f02fc24b5d6db3c43c6e581ca3" type="Folder">9</container>
+          </did>
+          <odd id="aspace_d0f95e2ecb5b03ebc307490406e5e6cf">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref33_3mf" level="file">
+          <did>
+            <unittitle>The conservation of stone</unittitle>
+            <unitdate datechar="creation">03/1977</unitdate>
+            <container id="aspace_63a40b90bf4b862c806d9a6d0fe59407" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f8e0d17cba38bede15e8bc9604091024" parent="aspace_63a40b90bf4b862c806d9a6d0fe59407" type="Folder">10</container>
+          </did>
+          <odd id="aspace_1e13d815f824d82c3c2973a778a0f993">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref37_4nw" level="file">
+          <did>
+            <unittitle>Development corporation</unittitle>
+            <unitdate datechar="creation">06/16/1971-01/06/1972</unitdate>
+            <container id="aspace_b563f407d0067ac37f84c14327232359" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fe64a7bc4d4f202eca6d9a303b89225f" parent="aspace_b563f407d0067ac37f84c14327232359" type="Folder">1</container>
+          </did>
+          <odd id="aspace_72fac57cdd20949ff1b6d4a91afe75a4">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref39_5f8" level="file">
+          <did>
+            <unittitle>Epoxy</unittitle>
+            <unitdate datechar="creation">1977-1983</unitdate>
+            <container id="aspace_16b62ef07bde65973bcb6f873c47ed55" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d7578dd56ddb81bfd41aacd92175bf9b" parent="aspace_16b62ef07bde65973bcb6f873c47ed55" type="Folder">2</container>
+          </did>
+          <odd id="aspace_1f6ee3732094ddc275721c8b7cfa83f7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref41_m08" level="file">
+          <did>
+            <unittitle>Export summaries</unittitle>
+            <unitdate datechar="creation">07/05/1988-08/19/1988</unitdate>
+            <container id="aspace_2172c9136af3b35d62d693eb212b66bb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7565e1ab88540a20b2a4513e86903747" parent="aspace_2172c9136af3b35d62d693eb212b66bb" type="Folder">3</container>
+          </did>
+          <odd id="aspace_4c86bf867f6504d7ae0c160e5222f857">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref43_kt5" level="file">
+          <did>
+            <unittitle>Federal architecture: Adaptive-use facilities--Staff report</unittitle>
+            <unitdate datechar="creation">05/1975</unitdate>
+            <container id="aspace_bd0e655b2fecf8865f8c2ef3e8e5bc06" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_208176a783d2984e256411113b29d782" parent="aspace_bd0e655b2fecf8865f8c2ef3e8e5bc06" type="Folder">4</container>
+          </did>
+          <odd id="aspace_3b570223cb3bf29b6930374bd525ef2c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref45_nzh" level="file">
+          <did>
+            <unittitle>Historic preservation and stablization class "C" estimating manual</unittitle>
+            <unitdate datechar="creation">07/1983</unitdate>
+            <container id="aspace_023f1845fbd8a590c40b218cc786c3be" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_edf437faab182344838ab529b2726234" parent="aspace_023f1845fbd8a590c40b218cc786c3be" type="Folder">5</container>
+          </did>
+          <odd id="aspace_b76b1f26eafb76366c303290f97e38b2">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref47_41f" level="file">
+          <did>
+            <unittitle>Historic Denver, inc.</unittitle>
+            <unitdate datechar="creation">1972-1975</unitdate>
+            <container id="aspace_0baadb3556bb2cedf2b3db0f9cc6b314" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4bd9d0aa33c50150bcc899df10e21be0" parent="aspace_0baadb3556bb2cedf2b3db0f9cc6b314" type="Folder">6</container>
+          </did>
+          <odd id="aspace_29086f133bab9601f335fe4facaf93ab">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref49_d0n" level="file">
+          <did>
+            <unittitle>Historic and prehistoric structures handbook</unittitle>
+            <unitdate datechar="creation">1963-1966</unitdate>
+            <container id="aspace_8133aa4b02f6e64e60fcaa5dd27032b3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ac787b65b44952ac6ffb5df6c00eb18a" parent="aspace_8133aa4b02f6e64e60fcaa5dd27032b3" type="Folder">7</container>
+          </did>
+          <odd id="aspace_cecef90b0405a18af77621e1671c2cb5">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref51_pcm" level="file">
+          <did>
+            <unittitle>Historic American buildings survey</unittitle>
+            <unitdate datechar="creation">1968-1982</unitdate>
+            <container id="aspace_c0b2bef0d5a8946eab7fea858c4a7244" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_32fe1d97837ecbb9c9e6aa4eb971f272" parent="aspace_c0b2bef0d5a8946eab7fea858c4a7244" type="Folder">8</container>
+          </did>
+          <odd id="aspace_61d5be2534a3024b8cfefd7f77da4cb6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref53_vtu" level="file">
+          <did>
+            <unittitle>Masonry cleaning--10G clearance</unittitle>
+            <unitdate datechar="creation">1976-1981</unitdate>
+            <container id="aspace_632ab06751268c4e0b689af09e465dc8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d815a684d2537b49364783723ae38c4a" parent="aspace_632ab06751268c4e0b689af09e465dc8" type="Folder">9</container>
+          </did>
+          <odd id="aspace_e9bca8d5d2381430bbfd85f4e4805caa">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref55_q13" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <unitdate datechar="creation">05/02/1979</unitdate>
+            <container id="aspace_3f39af3736508ebffbab110f51f6a6b9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_95d9e53becf305a51abad631f00cc161" parent="aspace_3f39af3736508ebffbab110f51f6a6b9" type="Folder">10</container>
+          </did>
+          <odd id="aspace_b422d01572352ee8cd3828cf203a6133">
+            <head>General note</head>
+            <p>Text on photograph: "Dry Sandblasting North Face, West End, South Wing, May 2, 1979"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref57_m6e" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <unitdate datechar="creation">05/02/1979</unitdate>
+            <container id="aspace_c0dc4b290114d7e41414198f87d5a502" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5e844a85662f476fd91fe045818a5b78" parent="aspace_c0dc4b290114d7e41414198f87d5a502" type="Folder">11</container>
+          </did>
+          <odd id="aspace_bc3cb06a37610fe7c635d4b9cfd651db">
+            <head>General note</head>
+            <p>Text on photograph: "Wet Aggregate, North Face, West End, South Wing, May 2, 1979"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref59_jp2" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <unitdate datechar="creation">05/02/1979</unitdate>
+            <container id="aspace_729bec6417e2d82965034d6eb0a9baab" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0ecd09d77ddd67dd3e0ab4457663e1ed" parent="aspace_729bec6417e2d82965034d6eb0a9baab" type="Folder">12</container>
+          </did>
+          <odd id="aspace_893d9970335e16eb6759511e45140a4f">
+            <head>General note</head>
+            <p>Text on photograph: "Water Jet North Face, West End, South Wing - May 2, 1979 - started at 1,000 p.s.i.--increased to 2,000 p.s.i"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref61_38a" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <unitdate datechar="creation">05/02/1979</unitdate>
+            <container id="aspace_a8105056d09b574e35502f0d30d4b048" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3b7b683f01f7ccdec4596e9562722c97" parent="aspace_a8105056d09b574e35502f0d30d4b048" type="Folder">13</container>
+          </did>
+          <odd id="aspace_9c7b8453fead488346ac426a3d41026b">
+            <head>General note</head>
+            <p>Text on photograph: "Paint Stripper North Face, West End, South Wing May 2, 1979"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref63_7gv" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <container id="aspace_1d6bff124c9ce732e5461bcd82421b87" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_021d22db3c788a92bfc5e30b1de3a0c9" parent="aspace_1d6bff124c9ce732e5461bcd82421b87" type="Folder">14</container>
+          </did>
+          <odd id="aspace_098ac2cb648927cf297afe2ffbfb024a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref65_vtj" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <container id="aspace_b43425cd6261612c8f4dafcaa63b2e9b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0212cb5cc00fffccfdc36f5946325c9d" parent="aspace_b43425cd6261612c8f4dafcaa63b2e9b" type="Folder">15</container>
+          </did>
+          <odd id="aspace_b0be72cc802b3f45e619febe47761fad">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref67_7h9" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <container id="aspace_c60f7109206d0af5e400e2881f06c8b0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_81f01bbce2a28c417e0c036923d6e090" parent="aspace_c60f7109206d0af5e400e2881f06c8b0" type="Folder">16</container>
+          </did>
+          <odd id="aspace_7f638017c635f4cbdb3407ac7432904f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref69_c9h" level="file">
+          <did>
+            <unittitle>Masonry cleaning</unittitle>
+            <container id="aspace_660c9cb53cbfeb09a8a5d9a8657f8450" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6cf7c92dc8dba81cfb7862b237939f71" parent="aspace_660c9cb53cbfeb09a8a5d9a8657f8450" type="Folder">17</container>
+          </did>
+          <odd id="aspace_9196487af7343dae743fc266380b0052">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref73_la8" level="file">
+          <did>
+            <unittitle>Masonry, mortar</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_fc863aedd893e5c36e0ef181a3b84e97" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_53454219b5894c3371e0fa27e8360440" parent="aspace_fc863aedd893e5c36e0ef181a3b84e97" type="Folder">1</container>
+          </did>
+          <odd id="aspace_6061e3977cd2f7684f8dc26dbfeb1d46">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref75_fdn" level="file">
+          <did>
+            <unittitle>Masonry workshop--APT--Campbell Center / Weaver-Weiss Mt. Carroll, Ill.</unittitle>
+            <unitdate datechar="creation">1979-1981</unitdate>
+            <container id="aspace_1a72d2bf02b5da6479c972aebbc3eda3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4c860a18c7250fba792e5eef57c262de" parent="aspace_1a72d2bf02b5da6479c972aebbc3eda3" type="Folder">2</container>
+          </did>
+          <odd id="aspace_f05abc98600f113adfb6bdeee7a3aef2">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref77_83l" level="file">
+          <did>
+            <unittitle>Metal corrosion</unittitle>
+            <unitdate datechar="creation">1967-1981</unitdate>
+            <container id="aspace_0d623748be7c6b13507f8b049573863f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1990e8c5acce8cd80e9731feb173f29f" parent="aspace_0d623748be7c6b13507f8b049573863f" type="Folder">3</container>
+          </did>
+          <odd id="aspace_e089d6334f3c0e9ba80b0bcea7030902">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref79_jk0" level="file">
+          <did>
+            <unittitle>Moisture intrusion--Built-up roofs</unittitle>
+            <unitdate datechar="creation">1977-1979</unitdate>
+            <container id="aspace_fc070207d82dcde42db05474a07220a1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_badb7f6d39df5c6368a451aaeb618ebd" parent="aspace_fc070207d82dcde42db05474a07220a1" type="Folder">4</container>
+          </did>
+          <odd id="aspace_5d3d10abdb454f0a7573cf10f5f9032e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref81_819" level="file">
+          <did>
+            <unittitle>Nails and hardware</unittitle>
+            <unitdate datechar="creation">1968-1976</unitdate>
+            <container id="aspace_c066ec54bcc401eeb59885f383505d03" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_773b68b23cf49c8e4407cff3e0caa87c" parent="aspace_c066ec54bcc401eeb59885f383505d03" type="Folder">5</container>
+          </did>
+          <odd id="aspace_6db17fbbf23f247a742f49e39c83caa3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref83_hzx" level="file">
+          <did>
+            <unittitle>National Conservation Advisory Council</unittitle>
+            <unitdate datechar="creation">1980-1981</unitdate>
+            <container id="aspace_f6e10cf7f859ce50178c8bd055984d9b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e01d94cb342a5b11994523a8db61c87e" parent="aspace_f6e10cf7f859ce50178c8bd055984d9b" type="Folder">6</container>
+          </did>
+          <odd id="aspace_12fd8f8159932b411cfca730e0489a53">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref85_t0i" level="file">
+          <did>
+            <unittitle>National Park Service cultural resources managament guidelines December 1981[1/2]</unittitle>
+            <unitdate datechar="creation">12/1981</unitdate>
+            <container id="aspace_f696180100ee7054e0b85c8ae138a910" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_059ff8ad9d3b58c225d86860143ee8bc" parent="aspace_f696180100ee7054e0b85c8ae138a910" type="Folder">7</container>
+          </did>
+          <odd id="aspace_a27da6f889346e64b83345f49fea09c3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref87_was" level="file">
+          <did>
+            <unittitle>National Park Service cultural resources management guidelines December 1981 [2/2]</unittitle>
+            <unitdate datechar="creation">12/1981</unitdate>
+            <container id="aspace_ae677189ab39bc2aeafce28cee461988" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f56956f7e762fad49727e27a31546fee" parent="aspace_ae677189ab39bc2aeafce28cee461988" type="Folder">8</container>
+          </did>
+          <odd id="aspace_c40c52877d8a2bdd2b6a0af29f12abfb">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref89_8wu" level="file">
+          <did>
+            <unittitle>National Park Service design standards</unittitle>
+            <unitdate datechar="creation">1977-1982</unitdate>
+            <container id="aspace_f16335b25108510a62c2977154685722" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_83634cff58ae4ea6d34fac8fc0deec60" parent="aspace_f16335b25108510a62c2977154685722" type="Folder">9</container>
+          </did>
+          <odd id="aspace_644582d7e5bd6cd9aa67713df323d38c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref91_pd2" level="file">
+          <did>
+            <unittitle>National Park Service management policies [1/3]</unittitle>
+            <unitdate datechar="creation">1963-1981</unitdate>
+            <container id="aspace_55aa162e238e6d0125e60e3620f3bc7e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_01c102951c856abbf1f05a2b3331b467" parent="aspace_55aa162e238e6d0125e60e3620f3bc7e" type="Folder">10</container>
+          </did>
+          <odd id="aspace_d003ebef8406cf41c0fe0b1f3f92f96e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref95_djn" level="file">
+          <did>
+            <unittitle>National Park Service management policies [2/3]</unittitle>
+            <unitdate datechar="creation">1963-1981</unitdate>
+            <container id="aspace_95d48d3bea4770dd0e40e26ca9eb1743" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_000927638be9073a0f191ee5a3e4c66e" parent="aspace_95d48d3bea4770dd0e40e26ca9eb1743" type="Folder">1</container>
+          </did>
+          <odd id="aspace_060310b8ef9209465c7ad4c8402f073f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref97_rct" level="file">
+          <did>
+            <unittitle>National Park Service management policies [3/3]</unittitle>
+            <unitdate datechar="creation">1963-1981</unitdate>
+            <container id="aspace_096123a113b22676566b3b13711ee617" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f180cc8182e740ae1d4226f42f0db8ae" parent="aspace_096123a113b22676566b3b13711ee617" type="Folder">2</container>
+          </did>
+          <odd id="aspace_32fb574a86eae98b303064cc11c55943">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref99_fld" level="file">
+          <did>
+            <unittitle>National Park Service standards guidelines for cultural resources</unittitle>
+            <unitdate datechar="creation">1971-1974</unitdate>
+            <container id="aspace_b450ad3341ac01c89a4e1e2048214a1e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e3c4668c590b032105d94d7012f01cfd" parent="aspace_b450ad3341ac01c89a4e1e2048214a1e" type="Folder">3</container>
+          </did>
+          <odd id="aspace_df4fb30f6f9f66b534c93a2b87bd88ad">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref101_a5y" level="file">
+          <did>
+            <unittitle>National Park Service technical preservation services division [1/2]</unittitle>
+            <unitdate datechar="creation">1977-1983</unitdate>
+            <container id="aspace_771fd3784cc5f7637886b0cf99b60ff2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7dbdc6b122f12161040d1326db15a251" parent="aspace_771fd3784cc5f7637886b0cf99b60ff2" type="Folder">4</container>
+          </did>
+          <odd id="aspace_8550c5fc84fd44b6df56009467db9e18">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref103_h36" level="file">
+          <did>
+            <unittitle>National Park Service technical preservation services division [2/2]</unittitle>
+            <unitdate datechar="creation">1977-1983</unitdate>
+            <container id="aspace_5e8d0bb59e0bc115906963265168f628" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ebb0b6b2e4d6cb0e4caf9c4c6357624c" parent="aspace_5e8d0bb59e0bc115906963265168f628" type="Folder">5</container>
+          </did>
+          <odd id="aspace_1de0b1f06b6504cc0554dab4d23210c5">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref105_mks" level="file">
+          <did>
+            <unittitle>National register historic landmarks--Historic survey</unittitle>
+            <unitdate datechar="creation">1969-1973</unitdate>
+            <container id="aspace_2ac8e53b0ad0375f6c7651373473a250" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2bd05d48f51fe6669deabc4d113d343b" parent="aspace_2ac8e53b0ad0375f6c7651373473a250" type="Folder">6</container>
+          </did>
+          <odd id="aspace_c69d8a4b2615deaf701a50b8ec6b3097">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref107_5bp" level="file">
+          <did>
+            <unittitle>National trust for historic preservation</unittitle>
+            <unitdate datechar="creation">1977-1979</unitdate>
+            <container id="aspace_6db697c35f1e0f792caf6ba53760e15d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3cde18b52ad99bfb425f980388a55790" parent="aspace_6db697c35f1e0f792caf6ba53760e15d" type="Folder">7</container>
+          </did>
+          <odd id="aspace_ed9333ee3daf9431cfb554e911846b24">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref109_pnd" level="file">
+          <did>
+            <unittitle>Office of environmental planning and design memoranda</unittitle>
+            <unitdate datechar="creation">1970-1980</unitdate>
+            <container id="aspace_53a3f951b28165a1b637fd0d31f9da2a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9427436488bdfbdda403207ae18fd33b" parent="aspace_53a3f951b28165a1b637fd0d31f9da2a" type="Folder">8</container>
+          </did>
+          <odd id="aspace_1fc249ae79991bd568d2c27e6607595d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref111_3jg" level="file">
+          <did>
+            <unittitle>Old House journal</unittitle>
+            <unitdate datechar="creation">1975 ca.</unitdate>
+            <container id="aspace_7414fd8163d3691faa57a7bc9d472074" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3297138add6e50eeb76fe7022dd76cca" parent="aspace_7414fd8163d3691faa57a7bc9d472074" type="Folder">9</container>
+          </did>
+          <odd id="aspace_71af4afdfbba2af95c5a7b31bd2487c7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref113_mik" level="file">
+          <did>
+            <unittitle>Paint</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_248201853e44821ddf568cb1445347a0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_bdf4921a8be4afd34da5021496cfccff" parent="aspace_248201853e44821ddf568cb1445347a0" type="Folder">10</container>
+          </did>
+          <odd id="aspace_d2e370d2fe97a361dd19c1cdfe0cc6a8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref115_o3p" level="file">
+          <did>
+            <unittitle>Philosophy / approach</unittitle>
+            <unitdate datechar="creation">1971-1976</unitdate>
+            <container id="aspace_6188202f947b477b79472845cc4c89c2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2a4ccda712267f843aa4f00ea2a7770b" parent="aspace_6188202f947b477b79472845cc4c89c2" type="Folder">11</container>
+          </did>
+          <odd id="aspace_aaf8dc6e72295c89463bc335d3058608">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref119_uni" level="file">
+          <did>
+            <unittitle>Planning conference--Albright Mar-71 [1/2]</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_f5039b6fcdf2465a82364746a25ba890" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b1503dab962643d4c987318d6b5a6b31" parent="aspace_f5039b6fcdf2465a82364746a25ba890" type="Folder">1</container>
+          </did>
+          <odd id="aspace_83b01428f4084804a538e6104fca281a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref121_s95" level="file">
+          <did>
+            <unittitle>Planning conference--Albright Mar-71-Images [2/2]</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_989ec8998980190273020eea84afd16e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9d28bf9fc10892d92cc07592533234b2" parent="aspace_989ec8998980190273020eea84afd16e" type="Folder">2</container>
+          </did>
+          <odd id="aspace_1f52f3bffdbd3d8509141de10ded517b">
+            <head>General note</head>
+            <p>Text on photograph: "United States Department of the Interior, National Park Service, Horace M. Albright Training Academy, Orientation to Park Planning, March 22-26, 1971" Caption includes names of people in photograph.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref123_2bu" level="file">
+          <did>
+            <unittitle>Planning--General policies and procedures</unittitle>
+            <unitdate datechar="creation">07/1967-05/1970</unitdate>
+            <container id="aspace_86361ea9970df3eca67664edc20390ab" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_65aad572f87e52cd06b1e5fc80a91855" parent="aspace_86361ea9970df3eca67664edc20390ab" type="Folder">3</container>
+          </did>
+          <odd id="aspace_4348f1f9fc330b0db5ad8958170387a1">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref125_z85" level="file">
+          <did>
+            <unittitle>Preservation--Investigation techniques and methods</unittitle>
+            <unitdate datechar="creation">1973-1978</unitdate>
+            <container id="aspace_078e1abca20ed3fefe76df1b7bdbccad" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_51590a9f341d81863d3cb2004ae7ba27" parent="aspace_078e1abca20ed3fefe76df1b7bdbccad" type="Folder">4</container>
+          </did>
+          <odd id="aspace_731699bccb3f1f9f019ee0ce37867993">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref127_x8g" level="file">
+          <did>
+            <unittitle>Publications and reading lists--O.A.H.P., N.B.S., etc.</unittitle>
+            <unitdate datechar="creation">1976-1979</unitdate>
+            <container id="aspace_a21683247535933f41c0a1d39ee216fd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ceecaf5d01e22e96c3e68029960df25e" parent="aspace_a21683247535933f41c0a1d39ee216fd" type="Folder">5</container>
+          </did>
+          <odd id="aspace_767c99840bb67da1fd9fb30925ff3207">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref129_t41" level="file">
+          <did>
+            <unittitle>Rectified photography and photo drawings for historic preservation</unittitle>
+            <unitdate datechar="creation">12/1973</unitdate>
+            <container id="aspace_2a5ace248853b51146edcecc638dcdf4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ceffae06e7efce79ffd036fee0cede1e" parent="aspace_2a5ace248853b51146edcecc638dcdf4" type="Folder">6</container>
+          </did>
+          <odd id="aspace_fdabd9adfbc963044fb7206b7bba6313">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref131_4wk" level="file">
+          <did>
+            <unittitle>Restoration guidelines</unittitle>
+            <unitdate datechar="creation">1940 ca.-1972</unitdate>
+            <container id="aspace_59b878e69f3f22dbe11e97e7863391c1" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_6418e870c2a05c72d7feabf99474a8e5" parent="aspace_59b878e69f3f22dbe11e97e7863391c1" type="Folder">7</container>
+          </did>
+          <odd id="aspace_1bd419bcfa75f4326050a08cf58f2cf3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref133_p9v" level="file">
+          <did>
+            <unittitle>Solmica</unittitle>
+            <unitdate datechar="creation">1974-1979</unitdate>
+            <container id="aspace_164305fb363465e239095535d54e4427" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_021045ae8ab016a8579146f3d7bf51d7" parent="aspace_164305fb363465e239095535d54e4427" type="Folder">8</container>
+          </did>
+          <odd id="aspace_ec9ff45a7ac5c00a0bb678ac2f9bf2f2">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref135_uns" level="file">
+          <did>
+            <unittitle>Stone [1/2]</unittitle>
+            <unitdate datechar="creation">1972-1977</unitdate>
+            <container id="aspace_ab69229d69d22b122a08b14cebe3856b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9a905fa9423cfcf97f074ba0c5ce5a92" parent="aspace_ab69229d69d22b122a08b14cebe3856b" type="Folder">9</container>
+          </did>
+          <odd id="aspace_59a2736ab33fc7ed96ea7dc2cc49f797">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref137_8h5" level="file">
+          <did>
+            <unittitle>Stone [2/2]</unittitle>
+            <container id="aspace_8d2227ec90667ad0d7be2fb61b93a3eb" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1787c2551fd6218a8c6aabe022e63367" parent="aspace_8d2227ec90667ad0d7be2fb61b93a3eb" type="Folder">10</container>
+          </did>
+          <odd id="aspace_acb706f9a0c92bd60a847e836d8f731c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref141_8a0" level="file">
+          <did>
+            <unittitle>Technical preservation services division--O.A.H.P. / H.C.R.S.</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_2d0993b2f8c30c23195c282cf12b4083" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_01bc60ea85f1d90c0621906abb4584ba" parent="aspace_2d0993b2f8c30c23195c282cf12b4083" type="Folder">1</container>
+          </did>
+          <odd id="aspace_a5ae1076c1c730972a3e48347a570a14">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref143_dtc" level="file">
+          <did>
+            <unittitle>Third annual historic structures training conference</unittitle>
+            <unitdate datechar="creation">08/09/1963</unitdate>
+            <container id="aspace_81b514fefd36cb7d82944f720cd569a2" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_597fe386cd8d01b0951f4ca6759ebfce" parent="aspace_81b514fefd36cb7d82944f720cd569a2" type="Folder">2</container>
+          </did>
+          <odd id="aspace_386332aeee1119536561dc2c65e1820b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref145_2ar" level="file">
+          <did>
+            <unittitle>Transportation: National parks (review draft)</unittitle>
+            <unitdate datechar="creation">07/1970</unitdate>
+            <container id="aspace_c72a2e30e0513923781521233301204b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_16e19f8fda05d1855b2cba24c1499100" parent="aspace_c72a2e30e0513923781521233301204b" type="Folder">3</container>
+          </did>
+          <odd id="aspace_1388d48b6783847dd256bd11b91e1ea7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref147_b2h" level="file">
+          <did>
+            <unittitle>White House [1/2]</unittitle>
+            <unitdate datechar="creation">1926-1980</unitdate>
+            <container id="aspace_af877efcc33f706f3ec5bdd55d1020db" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_da10fdb50563e7a2aba70467a322a961" parent="aspace_af877efcc33f706f3ec5bdd55d1020db" type="Folder">4</container>
+          </did>
+          <odd id="aspace_f8a6c71fdcc6b62ab0c7039a5efadec7">
+            <head>General note</head>
+            <p>A set of architectural drawings have been removed from this folder and placed in MS2173-S001#00001.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref149_yxi" level="file">
+          <did>
+            <unittitle>White House [2/2]</unittitle>
+            <unitdate datechar="creation">1981-1983</unitdate>
+            <container id="aspace_f5fd1daf59243d3c29d63d6f7e469ae3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_fd44a88a0e693ca86f9cacad638ae31b" parent="aspace_f5fd1daf59243d3c29d63d6f7e469ae3" type="Folder">5</container>
+          </did>
+          <odd id="aspace_317b363ab4b712a1659b79958802fddc">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref151_vc7" level="file">
+          <did>
+            <unittitle>Wood</unittitle>
+            <unitdate datechar="creation">1952-1972</unitdate>
+            <container id="aspace_c5eff9f22e4113331700be1fa466927c" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_43b12ba474eefda81a47c26482f6c0a7" parent="aspace_c5eff9f22e4113331700be1fa466927c" type="Folder">6</container>
+          </did>
+          <odd id="aspace_74d0dc06d0be9f821b0eba0b0020a6a4">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref155_8tq" level="file">
+          <did>
+            <unittitle>Design and planning drawings</unittitle>
+            <unitdate datechar="creation">1970-1980</unitdate>
+            <container id="aspace_402ab50e2897a01d836866921aeb3b4a" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_339a424ddfa3232d683492050b911d4f" parent="aspace_402ab50e2897a01d836866921aeb3b4a" type="Folder">1</container>
+          </did>
+          <odd id="aspace_079f62352024c4284543bd43352eba71">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref159_56h" level="file">
+          <did>
+            <unittitle>Thaddeus Kosciuszko National Memorial drawings</unittitle>
+            <unitdate datechar="creation">07/1974</unitdate>
+            <container id="aspace_7d4e0b1ae22507342171d47ce33a54cd" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_ecfa86837094e00424faf044ea404c83" parent="aspace_7d4e0b1ae22507342171d47ce33a54cd" type="Folder">1</container>
+          </did>
+          <odd id="aspace_5a49f0abff6c508d3d12dc69064e75f3">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref162_hzb" level="series">
+        <did>
+          <unittitle>Reports and Plans</unittitle>
+          <unitid>MS 2173 Series 2</unitid>
+          <unitdate datechar="creation">1968-1982</unitdate>
+          <physdesc id="aspace_4ec9692f7214a61176a86a0cc697ad77" label="General Physical Description note">1.25 Linear feet</physdesc>
+          <container id="aspace_94ae6dfb6556b492e8ca29ac415df32c" label="Mixed Materials" type="Box">8</container>
+          <container id="aspace_58e96690851bd7e3a06131b5b8b51466" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_578655e54314734b9540209a1a9ec0c4" label="Mixed Materials" type="Box">7</container>
+        </did>
+        <scopecontent id="aspace_f58147bea62ec719ae2a1768c6928d49">
+          <head>Scope and Contents note</head>
+          <p>This series contains master plans, historic structure reports, studies and other documents related to several national parks and historic sites around the United States. The material dates from 1968-82. David Henderson either wrote or contributed to most of these documents. In addition to providing detailed architectural information about the historic sites, the documents also describe the history of the sites and their role in the larger community and region. They provide a framework for the cultural and historical interpretation of the sites and structures they describe.</p>
+        </scopecontent>
+        <c id="aspace_ref166_xyw" level="file">
+          <did>
+            <unittitle>Fort McHenry--Master plan</unittitle>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_93b1675c6b9eceb085333329efc324c4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_569f418d5dd7d7ddf18fd303fe862d92" parent="aspace_93b1675c6b9eceb085333329efc324c4" type="Folder">7</container>
+          </did>
+          <odd id="aspace_cf68ad3ed08adfcad6bc56832ccaa250">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref168_alb" level="file">
+          <did>
+            <unittitle>Hampton--Purpose and objectives</unittitle>
+            <container id="aspace_cfaf01b63d6af120ddceaa5cebf6262f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_35ee7d31058cd37ccae223b03d83611d" parent="aspace_cfaf01b63d6af120ddceaa5cebf6262f" type="Folder">8</container>
+          </did>
+          <odd id="aspace_d1c2998cedb5bba6657a11726e75ffc3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref170_8ut" level="file">
+          <did>
+            <unittitle>Home of Franklin D. Roosevelt--Master plan preliminary draft</unittitle>
+            <container id="aspace_bf1c7bd00397a9588da4a411c6880311" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9bbd95d409177e1c0a16febe48429844" parent="aspace_bf1c7bd00397a9588da4a411c6880311" type="Folder">9</container>
+          </did>
+          <odd id="aspace_75f240b15892491b238ea3bfce4e5527">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref172_u2z" level="file">
+          <did>
+            <unittitle>Home of Franklin D. Roosevelt--Final Environment Statement</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_424a85a6c7cf8156cb88f953140e47c1" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5ab13dc87bc7a7069b1156d4d41df9d2" parent="aspace_424a85a6c7cf8156cb88f953140e47c1" type="Folder">10</container>
+          </did>
+          <odd id="aspace_792b2a3bbd7dc75f1e9756f1eaff9e1b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref176_c6q" level="file">
+          <did>
+            <unittitle>Hot Springs--Master plan</unittitle>
+            <unitdate datechar="creation">05/1971</unitdate>
+            <container id="aspace_62f57369671e5776d45cad1654bdf738" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_85a58a4860413c1fcff11ec7c4bb53c8" parent="aspace_62f57369671e5776d45cad1654bdf738" type="Folder">1</container>
+          </did>
+          <odd id="aspace_ddf1eddf3b02570c2f4809ca42b4b5f6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref178_w1p" level="file">
+          <did>
+            <unittitle>Independence--Master plan</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_3b6d2f4700a51fbe74604ccff09dd9ab" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ec25d332bb6ef957a19cec09cacc5e43" parent="aspace_3b6d2f4700a51fbe74604ccff09dd9ab" type="Folder">2</container>
+          </did>
+          <odd id="aspace_e212baeeb74807b4ca68aad69573f38d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref180_8t1" level="file">
+          <did>
+            <unittitle>Jefferson--Old Courthouse--Energy conservation survey</unittitle>
+            <unitdate datechar="creation">07/1980</unitdate>
+            <container id="aspace_4f8e2e3655c1d184c55eadb4a55c86d7" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e3204af9648a865f0e79c991f83fada3" parent="aspace_4f8e2e3655c1d184c55eadb4a55c86d7" type="Folder">3</container>
+          </did>
+          <odd id="aspace_af89bb043166ac82c779bba3e4ca2178">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref182_wi5" level="file">
+          <did>
+            <unittitle>Jefferson--Old Courthouse--Historic struction report--Historic data section (part 1) and historic grounds survey</unittitle>
+            <unitdate datechar="creation">01/1982</unitdate>
+            <container id="aspace_7d47e50c740a7f2263c79ad0eeb1726a" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_14151ca090cbd6233323fe6fa99c01b2" parent="aspace_7d47e50c740a7f2263c79ad0eeb1726a" type="Folder">4</container>
+          </did>
+          <odd id="aspace_d0823decf9a73df9e60bd766bf22d301">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref184_v38" level="file">
+          <did>
+            <unittitle>Jefferson National Expansion Memorial--Specifications</unittitle>
+            <unitdate datechar="creation">07/1977</unitdate>
+            <container id="aspace_17decb97d04ca6a99834d5eb039e6a8c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_d4ef6dd38111b07b8e26d274fc003f23" parent="aspace_17decb97d04ca6a99834d5eb039e6a8c" type="Folder">5</container>
+          </did>
+          <odd id="aspace_497932cddc333c26fd7c27f9cfb786ba">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref186_re9" level="file">
+          <did>
+            <unittitle>Minute Man--Historic structure report</unittitle>
+            <unitdate datechar="creation">03/1973</unitdate>
+            <container id="aspace_d0c6351aa874f4090a22f7a579dd18ff" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_0911cf29d5c60f73a892863ac31c14f0" parent="aspace_d0c6351aa874f4090a22f7a579dd18ff" type="Folder">6</container>
+          </did>
+          <odd id="aspace_e91ddff521f20aa38a68b34a9f989234">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref188_gcp" level="file">
+          <did>
+            <unittitle>Nez Perce--St. Joseph's Mission Church--Historic structure report</unittitle>
+            <unitdate datechar="creation">02/1974</unitdate>
+            <container id="aspace_ee420818ae097bcd2eb07a47c6287eb5" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_9f3a09b2e22ea837c6fb50a80464990d" parent="aspace_ee420818ae097bcd2eb07a47c6287eb5" type="Folder">7</container>
+          </did>
+          <odd id="aspace_c93c2ad186d9b2a35d0fd75ba3c20924">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref190_mnr" level="file">
+          <did>
+            <unittitle>Nez Perce--Historic structure report</unittitle>
+            <unitdate datechar="creation">01/1974</unitdate>
+            <container id="aspace_473df26685dcd87dde729f640a313033" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ec298aa2ff883b171ccd0f36e3dea49d" parent="aspace_473df26685dcd87dde729f640a313033" type="Folder">8</container>
+          </did>
+          <odd id="aspace_a0c6fc4917a3d2bede583ab0dc226e8b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref192_elt" level="file">
+          <did>
+            <unittitle>Nez Perce--Historic structure report--St. Joseph's Mission historical data</unittitle>
+            <unitdate datechar="creation">05/1973</unitdate>
+            <container id="aspace_b95893c0e205fe942c071bd7f70e4b37" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_5e4e4197d721ad8f8a86237fa752bf2f" parent="aspace_b95893c0e205fe942c071bd7f70e4b37" type="Folder">9</container>
+          </did>
+          <odd id="aspace_36cc5f2bd6accf6e1f1cfa42ce9368f2">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref196_6a3" level="file">
+          <did>
+            <unittitle>Salem Maritime--Interpretive prospectus</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_9d5d6ddcb730f9e9fbcb034975205851" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_19113d18722639f617b78d169c55eb0f" parent="aspace_9d5d6ddcb730f9e9fbcb034975205851" type="Folder">1</container>
+          </did>
+          <odd id="aspace_ea46c70b0b26a41bee9b8c082959d565">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref198_chv" level="file">
+          <did>
+            <unittitle>St. Gaudens--Master plan</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_4bf50a5234ff8a3f72b5200773759a8c" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_e3c5d7b4703edce9758b19c34d37b06c" parent="aspace_4bf50a5234ff8a3f72b5200773759a8c" type="Folder">2</container>
+          </did>
+          <odd id="aspace_c483b41d26d0909cfa2550d69b4b685e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref200_rzd" level="file">
+          <did>
+            <unittitle>St. Croix Island--Assessment of alternatives</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <container id="aspace_f85365209e9fd05175fddc0c8d50ac15" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_3f81a3be75ac86911b78f4583a9ed4fa" parent="aspace_f85365209e9fd05175fddc0c8d50ac15" type="Folder">3</container>
+          </did>
+          <odd id="aspace_b857380cf2f0bc20a7f5db06b1c84894">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref202_opk" level="file">
+          <did>
+            <unittitle>Thaddeus Kosciuszko National Memorial--Specifications</unittitle>
+            <container id="aspace_f8ac7a94bf805eebcfd3bb71b665cc2a" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1bfca130543549f350bae5d9c14877f8" parent="aspace_f8ac7a94bf805eebcfd3bb71b665cc2a" type="Folder">4</container>
+          </did>
+          <odd id="aspace_fb9b827100755f483e97162486fa65e3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref204_jvn" level="file">
+          <did>
+            <unittitle>Vanderbilt Mansion--Final master plan</unittitle>
+            <unitdate datechar="creation">01/1976</unitdate>
+            <container id="aspace_b4de0c5b489ce908c496e8e22aadcd3f" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_7b7e2a13403aa58c2f6d26db17aa75b6" parent="aspace_b4de0c5b489ce908c496e8e22aadcd3f" type="Folder">5</container>
+          </did>
+          <odd id="aspace_d49e36fe5d538ed4091dac931b39a07f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref206_ymb" level="file">
+          <did>
+            <unittitle>Whiskeytown--Historic structure report</unittitle>
+            <unitdate datechar="creation">05/1973</unitdate>
+            <container id="aspace_95d09dbc13b07bfaa9fc631f8b11f302" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_ea16b5f9748f0074c6fbad5d683851b3" parent="aspace_95d09dbc13b07bfaa9fc631f8b11f302" type="Folder">6</container>
+          </did>
+          <odd id="aspace_3333c00163c038d15cf60f2d0ad01b7c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref208_hx6" level="file">
+          <did>
+            <unittitle>Wolf Trap Farm Park--Master plan</unittitle>
+            <unitdate datechar="creation">10/1970</unitdate>
+            <container id="aspace_011d2a870a4e46b522b1bbe5b177094c" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_77e629840cb8aeaf001e792b6f9bb5d1" parent="aspace_011d2a870a4e46b522b1bbe5b177094c" type="Folder">7</container>
+          </did>
+          <odd id="aspace_3cdde5a837809921e70295503a04694f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref210_kse" level="file">
+          <did>
+            <unittitle>Yellowstone--Old Faithful Inn--Historic structure report, historic data section</unittitle>
+            <unitdate datechar="creation">01/1982</unitdate>
+            <container id="aspace_77ac257ba12e02af1841f2f3828fab04" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_417a8b21e1fb16b99367b829b7f07cdc" parent="aspace_77ac257ba12e02af1841f2f3828fab04" type="Folder">8</container>
+          </did>
+          <odd id="aspace_ed2b8638ade2ea3d72c434850c8948ab">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

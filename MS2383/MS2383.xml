@@ -1,0 +1,656 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/836">ms2383.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Citizens for New Columbia collection, <date calendar="gregorian" era="ce">1982-1994</date> <num>MS2383</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2018</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:55:02 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Citizens for New Columbia collection</unittitle>
+      <origination label="source">
+        <persname rules="dacs" source="local">demczuk, Bernard</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Citizens for New Columbia</corpname>
+      </origination>
+      <unitid>MS2383</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">3 document boxes, 1 flat box</extent>
+      </physdesc>
+      <unitdate certainty="approximate" datechar="creation" normal="1993/1994" type="bulk">1993-1994</unitdate>
+      <unitdate certainty="approximate" datechar="creation" normal="1982/1994" type="inclusive">1930, 1982 - 1994</unitdate>
+      <physloc id="aspace_a594e94ba059bcc4772f0e02bf01cb3b">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_9e0755192710e27a8c83fdbffdaf0740">Citizens for New Columbia was a statehood advocacy group active in the early 1990s that actively supported statehood for D.C. The group was a pro-statehood grass-roots group working to promote citizen participation using civil disobedience and congressional lobbying in advance of the initial House vote. Prominent members of the group included former mayors of Washington D.C. Sharon Pratt and Walter Washington, Congresswoman Eleanor Holmes Norton, Senator Jesse L. Jackson, and Senator Florence Pendleton. 
+
+This collection contains planning documents, fliers, posters, buttons, memorabilia, cartoons, editorials, correspondence, editorials, and handwritten materials for the Citizens for New Columbia, an organization that worked towards D.C. Statehood. The records date from 1982-1994, but most of the records date from 1993-1994.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_be09fddf896f3c952b12c2b19486a764">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_17a19124e2d02532df75bc4ca4462541">
+      <head>Conditions Governing Use</head>
+      <p>Materials in this collection may be governed by copyright. For activities that the researcher determines fall under fair use as defined under U. S. Copyright Law, no permission to cite or publish is required. Researchers are responsible for determining who may hold materials' copyrights, determining if the intended re-use falls under fair use, and obtaining approval from the copyright holder if the intended use does not fall under fair use. Please contact Special Collections if the copyright status of the materials you wish to reuse is unclear. Staff will provide additional information.</p>
+    </userestrict>
+    <prefercite id="aspace_c083c061c7b8d92b0ce7674ac83c146c">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <arrangement id="aspace_719af3db5c5866f30f81898f2d8a647f">
+      <head>Arrangement</head>
+      <p>Organized into 3 series:  Organizations, direct action, proposed legal measures,  Promotional materials, event planning, publicity, and Governance.</p>
+    </arrangement>
+    <acqinfo id="aspace_9abb84248a7cf16f5ceb74fe8cd51007">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by Division of External Relations, 2018 December 04 (2018.049)</p>
+    </acqinfo>
+    <bioghist id="aspace_5621b5223d794e7ab45faf70d6415300">
+      <head>Historical note</head>
+      <p>Citizens for New Columbia was a statehood advocacy group active in the early 1990s that actively supported statehood for D.C. The group was a pro-statehood grass-roots group working to promote citizen participation using civil disobedience and congressional lobbying in advance of the initial House vote.</p>
+      <p>Prominent members of the group included former mayors of Washington D.C. Sharon Pratt and Walter Washington, Congresswoman Eleanor Holmes Norton, Senator Jesse L. Jackson, and Senator Florence Pendleton. </p>
+      <p>Community engagement was a core part of their strategy. They encouraged community members to contribute as volunteers and donors and tied the issue of self-determination to other social issues D.C. residents were facing. They hosted walks for independence, organized summits and award ceremonies, circulated newsletters, and corresponded with other grassroots groups to strategize. Their belief in self-determination, full citizenship, and congressional representation </p>
+    </bioghist>
+    <scopecontent id="aspace_906b9130d3335ede2c494009895569d0">
+      <head>Scope and Contents</head>
+      <p>This collection contains promotional fliers, mock-ups of fliers, planning documents, organizing materials (chant sheets, notes about legal/media strategies, demonstration handbook) political cartoons, news releases, correspondence, drafts of editorials, magazines, buttons, branded plastic bags,  policy documentation, and reports related to the working of the organization Citizens for New Columbia as they worked to promote D.C. Statehood. The records date from 1982-1994, but most of the records date from 1993-1994.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Statehood (American politics) -- Washington (D.C.)</subject>
+      <subject source="lcsh">Washington (D.C.) Politics and government</subject>
+      <subject source="lcsh">Political activists</subject>
+      <persname role="fmo" rules="dacs" source="local">demczuk, Bernard</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_31518dd7ddd59ab7e01e74b513ce7773" level="series">
+        <did>
+          <unittitle>Organizations, direct action, proposed legal measures </unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation" normal="1982/1994" type="inclusive">1982-1994</unitdate>
+        </did>
+        <scopecontent id="aspace_7c49e5ad1a9b9a763b9fc47f373a0f01">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence between the Citizens of New Columbia and other organizations, fundraising materials, letters of support or opposition to establishing statehood, and other materials related to organizing and direct action. They primarily range from 1993-1994, but some records date from 1982.</p>
+        </scopecontent>
+        <arrangement id="aspace_8583c0b12a52fbbdae3d34e4abee77fa">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_8f367a5e0203ff2937f77569ebcea430" level="file">
+          <did>
+            <unittitle>Canvas</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_3a5fd9202c15f28de0106499dcb78465" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_28a1d29adc0a1e9686c0200856c49576" parent="aspace_3a5fd9202c15f28de0106499dcb78465" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5c5a4793e7325bbf7d139479d55d2bc2" level="file">
+          <did>
+            <unittitle>Correspondence [1 of 2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_ec5262ab3b2c67e268f84218748a8b83" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_235e8b6d469f2990e9d1ac60bc811375" parent="aspace_ec5262ab3b2c67e268f84218748a8b83" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_812ab97e3f87d1ca17945afa6fb39904" level="file">
+          <did>
+            <unittitle>Correspondence [2 of 2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_1fea025dbb9b61daf9fd39ed601ffedc" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_f92790810b1893bdccd04982880fff99" parent="aspace_1fea025dbb9b61daf9fd39ed601ffedc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f9e5f25793232207f9b79179342aa353" level="file">
+          <did>
+            <unittitle>Direct action [1 of 2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_df2623ad83051fd607a2164b43e86535" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_771eee0cfc8829d796ba4c72d9773803" parent="aspace_df2623ad83051fd607a2164b43e86535" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_61e7e63fd840a0c942b5748be66b71b5">
+            <head>Scope and Contents</head>
+            <p>One document in this folder may have a missing page</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f37e41db91ef8d61782040feaea7709d" level="file">
+          <did>
+            <unittitle>Direct action [2 of 2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_8affb40ceb5ce9b49113c9eb09a85dc0" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_e6c9d558a92ebfbebe78615daaf5e702" parent="aspace_8affb40ceb5ce9b49113c9eb09a85dc0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3c9c63bf1ef1c1c6ae71a0003ee50997" level="file">
+          <did>
+            <unittitle>Endorsements--statehood</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="inclusive">undated</unitdate>
+            <container id="aspace_e083045dd05932508aac47533f56cbf2" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_b535f26f1757f4a1af57413790c26f91" parent="aspace_e083045dd05932508aac47533f56cbf2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_2ad66ce3043951dcbf6fb2105fce5381" level="file">
+          <did>
+            <unittitle>Fundraising committee agendas</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_72157c29ce499a78753011d8dfb8cfc3" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_3a7d6822bbfccfcb2491ab2f39a4f4c7" parent="aspace_72157c29ce499a78753011d8dfb8cfc3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_c030f19cc6bb6f86e6061f014b960ceb" level="file">
+          <did>
+            <unittitle>HR51 bill + amendments</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_cd0a6a6760d3defda59c2f75c1f4d795" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_0383778b101917450a0933a3b653ea41" parent="aspace_cd0a6a6760d3defda59c2f75c1f4d795" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_18a75d1dbdd0419871f9cf7d863121d9" level="file">
+          <did>
+            <unittitle>Legal</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_7dcba11fd04a73bd3864c337dc799f05" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_800269ac3dba19b0a108d5db1d3712f3" parent="aspace_7dcba11fd04a73bd3864c337dc799f05" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_fee90e31ef4f7137d0ba62ffb88203af" level="file">
+          <did>
+            <unittitle>Legal and governmental documents</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/1994" type="inclusive">1991-1994</unitdate>
+            <container id="aspace_ac162888e64051b41cac994d442bfa47" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_5b196ce147376537463575c11202764c" parent="aspace_ac162888e64051b41cac994d442bfa47" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_4e882cd904c92dbde26a5f62eb591768" level="file">
+          <did>
+            <unittitle>Proposed legal measures</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <container id="aspace_1b8cbde2558a3e95ff003f37eeea0962" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_515500a74862f02474c7a4b38fd12ef0" parent="aspace_1b8cbde2558a3e95ff003f37eeea0962" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_792c0e1c177e867c74770767840843f6" level="file">
+          <did>
+            <unittitle>Memos </unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_c172543cfbcfa73924f91637482116e8" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_f040d4560cef4874be22039d823d5cfa" parent="aspace_c172543cfbcfa73924f91637482116e8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_358e27eed4a6fdce3813b78a85ae2894" level="file">
+          <did>
+            <unittitle>Opposition</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_936e50f1a601c4adac09c773b2118e4d" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_2ff008f09d6e5aa071e12124d03e5278" parent="aspace_936e50f1a601c4adac09c773b2118e4d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_4ca4d751264b1c1a4dcaba62923b2a43" level="file">
+          <did>
+            <unittitle>Support and opposition</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container id="aspace_049c19c6c14c08e1267f741613dfd257" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_68f19d19043148db27601ee400909660" parent="aspace_049c19c6c14c08e1267f741613dfd257" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_3a49bda1e1e0c9f0747bc632929c56a1" level="file">
+          <did>
+            <unittitle>Resolutions -- statehood</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991-1991</unitdate>
+            <container id="aspace_8c477d1ce4624b73c2f9ea4ae7df7c37" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_fdfd15b772b94523806fccf2f9b8f785" parent="aspace_8c477d1ce4624b73c2f9ea4ae7df7c37" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_8b1187c4ecdbda8d22ccfe22dde2bd3a" level="file">
+          <did>
+            <unittitle>[Jim] Sasser</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_f6e76b405b733137296e7a6f7255d7e1" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_3bfc5682740dfd27ccc2f4be08b389e5" parent="aspace_f6e76b405b733137296e7a6f7255d7e1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_23ee2b4fed9065900e32f9d138ae3674" level="file">
+          <did>
+            <unittitle>Sign-in sheets</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="inclusive">undated</unitdate>
+            <container id="aspace_d0714ef13a49fc5e57bf76c4acccecff" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_2bc469f662c6692abf9d5a3b95e75b48" parent="aspace_d0714ef13a49fc5e57bf76c4acccecff" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_2b797117bdc13b340589466169233444" level="file">
+          <did>
+            <unittitle>U.E. (New Haven)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <container id="aspace_1d70c2cf850fe76f13db5f7a0b1d37b0" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_4572acd613bccb88a67c91db7eab0745" parent="aspace_1d70c2cf850fe76f13db5f7a0b1d37b0" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_dcebb0312582037c7b66a70e826adaed" level="file">
+          <did>
+            <unittitle>UFCW Local 400</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990-1990</unitdate>
+            <container id="aspace_fdf13593f303396931ce9667c0c1f20a" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_7172449e77079501ad6747c74e553d47" parent="aspace_fdf13593f303396931ce9667c0c1f20a" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_35f96d0ec9f1f036533904e3681f1ecb" level="file">
+          <did>
+            <unittitle>UPIU L-14: Jay, me.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990-1990</unitdate>
+            <container id="aspace_e9667b3d5401bc031a372a509f0cf70d" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_86c00c83bcc074b401e3ab7578b7db92" parent="aspace_e9667b3d5401bc031a372a509f0cf70d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_bd822438e4913acfb11a3170ef76c9e9" level="file">
+          <did>
+            <unittitle>UPIU local 654</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990-1990</unitdate>
+            <container id="aspace_4f5e3987aa0a5acab00a26e13ebcfc3f" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_5a71e65f7ae63243b6ae4ec3987b8fb4" parent="aspace_4f5e3987aa0a5acab00a26e13ebcfc3f" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_02dcaaa434139c423ff5715a64c91f3b" level="series">
+        <did>
+          <unittitle>Promotional materials, event planning, publicity</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="1930/1994" type="inclusive">1930, 1993-1994</unitdate>
+          <unitdate datechar="creation" normal="1993/1994" type="bulk">1993-1994</unitdate>
+        </did>
+        <scopecontent id="aspace_5f2187e78d8d6bcdbdf83935da21eab0">
+          <head>Scope and Contents</head>
+          <p>This series contains materials that were distributed to members of the organization and the general public to promote events and inform readers about statehood and self-determination. Some of these materials are oversized.</p>
+        </scopecontent>
+        <arrangement id="aspace_83c44bd9af11b9d6dc909daeeae0c81e">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_43e4e1d93e88b2995f1fa286ba1db8ab" level="file">
+          <did>
+            <unittitle>Articles</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_9e9fc68f9012f84ba62ed09c5627c752" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_556a51fc106fe8ad4e565899bd89aa66" parent="aspace_9e9fc68f9012f84ba62ed09c5627c752" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_0f3386645b5981f214387f9001f7935c" level="file">
+          <did>
+            <unittitle>CNC memorabilia and promotional materials </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_dc6d08b3abd9c34cf6ea6445da47c991" label="Mixed Materials [32882017924963]" type="Box">4</container>
+            <container id="aspace_62ae68b51960aaa3bf8871801791f792" parent="aspace_dc6d08b3abd9c34cf6ea6445da47c991" type="flat_box">4</container>
+          </did>
+          <scopecontent id="aspace_64022a3c0347ce38592cf819af904d1e">
+            <head>Scope and Contents</head>
+            <p>This box contains oversized materials that were intended to promote the Citizens of New Columbia. Materials include folders with the CNC logo, markups of stickers, buttons, plastic bags, proclamations, resolutions, awards, and the Citizens of New Columbia newspaper.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_216f12ed5c0892b4db1390e9b47b1b86" level="file">
+          <did>
+            <unittitle>December 1 awards</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_157960f4ff35f8d8ae5a9f13a72f9470" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_fe833f1916d8b3caef9a37731f040681" parent="aspace_157960f4ff35f8d8ae5a9f13a72f9470" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_f4a9755eb25ef5ffaa397c280f76c585" level="file">
+          <did>
+            <unittitle>Editorial</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_2e1191656791ad54ddc33ccf4521ac6d" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_72330cce0900fb218c592ee02194f31a" parent="aspace_2e1191656791ad54ddc33ccf4521ac6d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_10f514b5c47c6c573f5b84321d9162cb" level="file">
+          <did>
+            <unittitle>Flag</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="inclusive">undated</unitdate>
+            <container id="aspace_3d9ca48b839c90203204da0bc6d86a0c" label="Mixed Materials [32882022372802]" type="Box">1</container>
+            <container id="aspace_2e417748ee1888f3e71b5ddedd919be3" parent="aspace_3d9ca48b839c90203204da0bc6d86a0c" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_50c689e958d021018b96dade11b3c6a4" level="file">
+          <did>
+            <unittitle>Media/News Releases</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_ed4fc6dce7663ca6beeeaaa3ac55da1f" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_c1d07aa412c2ed7408f2a255f1641f40" parent="aspace_ed4fc6dce7663ca6beeeaaa3ac55da1f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_7b9c22d2f8d67d835b28d52bab44dff2" level="file">
+          <did>
+            <unittitle>News Conference</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_67cc60a50a8b5b8fdc295465904ddf90" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_779153dfa047ee790ae6a6cc94c57607" parent="aspace_67cc60a50a8b5b8fdc295465904ddf90" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_5de63e2e0d9a5e0ba74d7dc30c7bd318" level="file">
+          <did>
+            <unittitle>NO!</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_9dae4345c4298168fb25bf5d92059e5f" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_98326de89ff8c6513f647b78234a500b" parent="aspace_9dae4345c4298168fb25bf5d92059e5f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_be7b3180ad0d1ff593a33ca4ec9e664e" level="file">
+          <did>
+            <unittitle>National Outreach -- Statehood </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_8ced2a3fefae60d58e3606cd393f023d" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_dbb461497252b523bd5db248ef5a23a5" parent="aspace_8ced2a3fefae60d58e3606cd393f023d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4f4af878d91e08db03d94cb5dc049a2e" level="file">
+          <did>
+            <unittitle>NYTimes</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1992/1992" type="inclusive">1992-1992</unitdate>
+            <container id="aspace_ec0a0d08979c76e7b5aafb19ae57f4d2" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_2975505d4fcba7a83b2171d58a53ead9" parent="aspace_ec0a0d08979c76e7b5aafb19ae57f4d2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_4122e3e41125a40289edc65ffb2ae20b" level="file">
+          <did>
+            <unittitle>Pictures</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_2dc4d526effcf8a7a98eb8a4dd65f1e9" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_ead9d6d2b275e31dfdfd83b7369539cb" parent="aspace_2dc4d526effcf8a7a98eb8a4dd65f1e9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_b7eb05b55c5127a9f1b44c115bcbfecf" level="file">
+          <did>
+            <unittitle>Printing</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_6aa15a650837afe07570d805b5ef52ad" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_6f955409c7ac8d236e1c3dc9ff69463b" parent="aspace_6aa15a650837afe07570d805b5ef52ad" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a4ebfb2a4624ffbf5b3300ad2fcd95a0" level="file">
+          <did>
+            <unittitle>Poetry/Pictures</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" type="inclusive">[undated]</unitdate>
+            <container id="aspace_ab6bd663141c7bcbd7700710fe578696" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_bb1ec7c3eccf907c362210ef93f15618" parent="aspace_ab6bd663141c7bcbd7700710fe578696" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_565dd319c3d02849008bb4e57915259c" level="file">
+          <did>
+            <unittitle>Promotional Materials [1 of 3] </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_2dee1e157255fd119c717072c7616e8e" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_807937a471acbe0a2c829cd27902898f" parent="aspace_2dee1e157255fd119c717072c7616e8e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4c9ed42644aaa51e797b224da7cee552" level="file">
+          <did>
+            <unittitle>Promotional Materials [2 of 3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_eda778645924153db542057730ffc1e1" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_5d7ec0e13fc6d56ba53cc973ac21d350" parent="aspace_eda778645924153db542057730ffc1e1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_7bb47cb8778b2e76d8b78320c0fca554" level="file">
+          <did>
+            <unittitle>Promotional Materials [3 of 3]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_a5facbe4e266ba15665b449276e1ae1b" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_a89e2fc833481c4bc43e3c15611344eb" parent="aspace_a5facbe4e266ba15665b449276e1ae1b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_bd485931a6fa9b656b9e5ce9f9fc2226" level="file">
+          <did>
+            <unittitle>Publications [1 of 2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_db70da7d7735df2bd1bd403693b39ef9" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_29405708d5f6b8f96712464f2b54f718" parent="aspace_db70da7d7735df2bd1bd403693b39ef9" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ad63589681cd716da1aa9b0d4c42d24f" level="file">
+          <did>
+            <unittitle>Publications [2 of 2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_ee46baa364b8816a1ef295a8cea96cef" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_f6cb059ff784cbefbe79d22effc641f3" parent="aspace_ee46baa364b8816a1ef295a8cea96cef" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d4ea121dcb3c5db67cd586030bc54dfd" level="file">
+          <did>
+            <unittitle>Story of Flag -- Star 51</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" type="inclusive">[undated]</unitdate>
+            <container id="aspace_bb2a3258951647ce5a48914cb9912bb2" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_14a9cd3386b00bc9fddb43fe903205d6" parent="aspace_bb2a3258951647ce5a48914cb9912bb2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_9c6af5a36c03b58bc83678a4c41a65a5" level="file">
+          <did>
+            <unittitle>Summit Follow-Up</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_e4655b7b3c083c315b8a7e9043c52f29" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_4f8465b7ffc3dd305896a53ed03eda4d" parent="aspace_e4655b7b3c083c315b8a7e9043c52f29" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_820ac94866a32e3b2b85dc5c1a1f2598" level="file">
+          <did>
+            <unittitle>Summit planning</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_66b4f689d00724d96dcf8decc237df3f" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_72e1fd3e65e641811992f3e4caacd8bf" parent="aspace_66b4f689d00724d96dcf8decc237df3f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_003d51a4afb0dcd8859f650df3e0f201" level="file">
+          <did>
+            <unittitle>Statehood transition</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="Creation" normal="1989/1994" type="inclusive">1989-1994</unitdate>
+            <container id="aspace_0afaab301fd3473237520b8525e96586" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_d238eef337407c1696294a1ac49a9ed9" parent="aspace_0afaab301fd3473237520b8525e96586" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_44f72210cb5ca00c06b2fc0a21a7a76b" level="file">
+          <did>
+            <unittitle>Symbols </unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="other" normal="1930/1993" type="inclusive">1930-1993</unitdate>
+            <container id="aspace_fb3bf730e7a0086fb7303995d45e6fc0" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_d73da8711529ee828347405112257688" parent="aspace_fb3bf730e7a0086fb7303995d45e6fc0" type="Folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_f48623ac7dba404155c24b4455f796b7" level="series">
+        <did>
+          <unittitle>Governance
+</unittitle>
+          <unitid>Series 3</unitid>
+          <unitdate datechar="creation" normal="1991/1994" type="inclusive">1991-1994</unitdate>
+        </did>
+        <scopecontent id="aspace_397c04ba7248dc8a8df4260fbd11c1a1">
+          <head>Scope and Contents</head>
+          <p>This series contains documents related to planning, the structure of the organization, correspondence between members, and financial documents. These materials were distributed to members of the organization.</p>
+        </scopecontent>
+        <arrangement id="aspace_ad26812bc7b4988251951e55d7afac5c">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <c id="aspace_9dfb40054a8fb6499f755f0aa8edcb66" level="file">
+          <did>
+            <unittitle>Agendas [1 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_61ad461ac549c35e2b9b97f6464967b4" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_296eeaa9ac0d67fb770b7a3c42f4e155" parent="aspace_61ad461ac549c35e2b9b97f6464967b4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_187c9a0b00ed74713d777569cfba6ace" level="file">
+          <did>
+            <unittitle>Agendas [2 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_d4361fd3e3a88b6236235ed26ab3663d" label="Mixed Materials [32882022379765]" type="Box">2</container>
+            <container id="aspace_478c8f045746212d52ae0ec4c6118038" parent="aspace_d4361fd3e3a88b6236235ed26ab3663d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_f36d638b067c098fb01f19f18b028b68" level="file">
+          <did>
+            <unittitle>Agendas - gen. mtgs.</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_057ef39a9ce752e6e969a748471c0bcc" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_832f0a4ca0818bf8843cc79db8e318e1" parent="aspace_057ef39a9ce752e6e969a748471c0bcc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_fb4197fa6626062037fa0e2a73ccd4bc" level="file">
+          <did>
+            <unittitle>Correspondence between members</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container id="aspace_2c4eb7f09e9d6aa6c2877ba707f47501" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_4bd05a47030a36adf824861389944d5b" parent="aspace_2c4eb7f09e9d6aa6c2877ba707f47501" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ec733aaf1a85ff4aaf18a70894cb683b" level="file">
+          <did>
+            <unittitle>Inter-organizational materials [1 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_d48c0e3ebb95bcccd6be095d563e6f2d" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_644c56ce8318ca6466667c517b46c3ef" parent="aspace_d48c0e3ebb95bcccd6be095d563e6f2d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0de0460009340135125ce08db6611f91" level="file">
+          <did>
+            <unittitle>Inter-organizational materials [2 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_e0b949c46da595c2c47a998f93e5d85f" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_5e1e9867635ee48e0ae2a0e4ad012880" parent="aspace_e0b949c46da595c2c47a998f93e5d85f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1796b5eaf158227fc1298dbee4bf14ff" level="file">
+          <did>
+            <unittitle>LCCR - statehood</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_65ac4c32308675b69d5859dbcc04fe56" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_eb60c77f42a02ed1043e5aa172c83a08" parent="aspace_65ac4c32308675b69d5859dbcc04fe56" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_91d59f1ca9a09dbb6719266c3c7e0c5b" level="file">
+          <did>
+            <unittitle>Meeting notes [1 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_7f7fd0b5b5d6fa51323d753be1bbe762" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_a4ea070c204a23c529cf3652c24fc16b" parent="aspace_7f7fd0b5b5d6fa51323d753be1bbe762" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_8fe473bffc169529d1f5fed6650b58ea" level="file">
+          <did>
+            <unittitle>Meeting notes [2 of 2]</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_065956398ed7158769f988fbe6ad0765" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_24816be054ea681b42e581af97422818" parent="aspace_065956398ed7158769f988fbe6ad0765" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_8830ee38c10443af0a8263d16c26e7ef" level="file">
+          <did>
+            <unittitle>Organizational structure</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" type="inclusive">[undated]</unitdate>
+            <container id="aspace_b4e0eaaa883e9b9f9b8634a4d6601786" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_137ec2c264e0f7fbd7d0bccd50a38a59" parent="aspace_b4e0eaaa883e9b9f9b8634a4d6601786" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_d74b2104fe0dd6e48a04c01e77061e8f" level="file">
+          <did>
+            <unittitle>POA [Plan of Action] clean</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_4d1499ddd2038b5af5f0333f0cbc5b15" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_f39e4ea9e80d43ad20cf6555b30cf665" parent="aspace_4d1499ddd2038b5af5f0333f0cbc5b15" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ef84865ed4187ec02f5db84cd5c07be2" level="file">
+          <did>
+            <unittitle>Statehood Education Foundation forms</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993-1993</unitdate>
+            <container id="aspace_7e594eaf7f0b39619110bd1306f862fe" label="Mixed Materials [32883022379781]" type="Box">3</container>
+            <container id="aspace_2c39641ba2c3b9b49565e325733817ed" parent="aspace_7e594eaf7f0b39619110bd1306f862fe" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

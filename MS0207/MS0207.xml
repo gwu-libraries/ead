@@ -1,0 +1,1252 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms0207.xml">ms0207.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Charles S. Tidball papers, <date calendar="gregorian" era="ce">1949-1999</date>
+ <num>MS0207.UA</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:17 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Charles S. Tidball papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Tidball, Charles S.</persname>
+      </origination>
+      <unitid>MS0207.UA</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1949-1999</unitdate>
+      <abstract id="aspace_a66dca7f1749a0aa2a33430574c5a949">Collection includes computer programming materials developed at GW between 1966 and 1980. It also contains Educational Computing Technology Workshop materials, TMIS Training Program Modules, Medical Computer Programming for Patients and other items such as a Chi-Square, Data Red, Deeds, MLS, Paired T-Test, Plot 12A, Rankcorr, Dersim Notebook, Orcon/S2632, POMR, Pharmacokinetics, Drug-Receptor Interactions and Regresso, Serdis, T-Test, Variance.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_08a2d4221cdf75713313ab70bbac5a18">
+      <head>Preferred citation</head>
+      <p>Charles S. Tidball papers, University Archives, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_218292929e6135e3ecfc2559106ccfc4">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_977fa186a7a7cd6e9a0c850687daa493">
+      <head>Acquisition Information</head>
+      <p>Dr. Tidball, along with M. Elizabeth Tidball (Professor Emeritus of Physiology at The George Washington University) donated the collection to Special Collections in 1993.</p>
+    </acqinfo>
+    <userestrict id="aspace_996c454ecedab2fc426203872eaf4fa6">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_29990df7f28ff0de4266d54789e87d7e">
+      <head>Biographical Note</head>
+      <p>Charles S. Tidball is Professor Emeritus of Computer Medicine and of Neurological Surgery at The George Washington University. In addition to his many accomplishments as a physician and as a scholar in the field of physiology, he also has made significant contributions to the field of education as a computer scientist. He founded an Educational Computing Technology Program for the Department of Education at The George Washington University. Dr. Tidball was honored by George Washington University with its President's Medal, the highest honor the university can bestow. This note was written in 2005.</p>
+    </bioghist>
+    <scopecontent id="aspace_eb31f172b4ef79e3c80fe52f2cc13d82">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include computer programming materials developed at GW between 1966 and 1980. It also contains Educational Computing Technology Workshop materials, TMIS Training Program Modules, Medical Computer Programming for Patients and other items such as a Chi-Square, Data Red, Deeds, MLS, Paired T-Test, Plot 12A, Rankcorr, Dersim Notebook, Orcon/S2632, POMR, Pharmacokinetics, Drug-Receptor Interactions and Regresso, Serdis, T-Test, Variance.</p>
+    </scopecontent>
+    <arrangement id="aspace_39367fb64c7588104fc06a3dfca6d5fd">
+      <head>Collection Organization</head>
+      <p>Organized in two series.</p>
+    </arrangement>
+    <odd id="aspace_5022a0f901d3dd28b9e1c201c2e5ab05">
+      <head>bib #</head>
+      <p>3045859</p>
+    </odd>
+    <controlaccess>
+      <subject source="lcsh">Physiology</subject>
+      <subject source="lcsh">Computers</subject>
+      <subject source="lcsh">Computer programming</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <corpname rules="aacr" source="naf">George Washington University. School of Education and Human Development</corpname>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+      <corpname rules="aacr" source="naf">University of Chicago</corpname>
+      <corpname source="naf">Washington Academy of Sciences (Washington, D.C.)</corpname>
+      <persname rules="aacr" source="naf">Tidball, Charles S.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_ggz" level="series">
+        <did>
+          <unittitle>Personal papers</unittitle>
+          <unitid>MS0207 Series 1</unitid>
+          <unitdate datechar="creation">1949-1999</unitdate>
+          <physdesc id="aspace_d48ad4eba010bda61c6fbd08c08ab0ea" label="General Physical Description note">2 Linear feet</physdesc>
+          <container id="aspace_65a0a0721123b7b33f608f1663aa7629" label="Mixed Materials [Series 1 GW: 32882020270206]" type="Box">2</container>
+          <container id="aspace_35e3b8d3c608860915fe789452cf4ee9" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_cd1457e0d76168abd38279d13cd5a8c9">
+          <head>Scope and Contents note</head>
+          <p>Materials in this collection include computer programming materials developed at GW between 1966 and 1980. It also contains Educational Computing Technology Workshop materials, TMIS Training Program Modules, Medical Computer Programming for Patients and other items such as a Chi-Square, Data Red, Deeds, MLS, Paired T-Test, Plot 12A, Rankcorr, Dersim Notebook, Orcon/S2632, POMR, Pharmacokinetics, Drug-Receptor Interactions and Regresso, Serdis, T-Test, Variance.</p>
+        </scopecontent>
+        <c id="aspace_ref12_wp0" level="file">
+          <did>
+            <unittitle>Hood College --- Convocation</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_60558131479757337425564c929b8f33" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_fd1a2899519f0288ebe184f843c29aa3" parent="aspace_60558131479757337425564c929b8f33" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_sxz" level="file">
+          <did>
+            <unittitle>Delta Sigma Rha --- Membership Certificate</unittitle>
+            <unitdate datechar="creation">1949</unitdate>
+            <container id="aspace_d4c4ec1f32c5a44df31be5f1dc8156b1" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_c9072b3aecebe598e710b4db6a79e3d0" parent="aspace_d4c4ec1f32c5a44df31be5f1dc8156b1" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_zsj" level="file">
+          <did>
+            <unittitle>American Chemical Society --- Bachelor Degree Certificate</unittitle>
+            <unitdate datechar="creation">1950</unitdate>
+            <container id="aspace_a4022b2c5763845d04cef31ad300d15d" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_f216d7011d0b5f4887988f93a5d972ff" parent="aspace_a4022b2c5763845d04cef31ad300d15d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_x02" level="file">
+          <did>
+            <unittitle>The Graduate School Of Arts And Sciences of The George Washington University announces the final examination of Patricia Wakefield for the degree of Ph.D</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_7e8abe84a5d453502321e7cd1e5fcfc7" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_cf01c5b3686180a957bc87d617fe64b1" parent="aspace_7e8abe84a5d453502321e7cd1e5fcfc7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_9ld" level="file">
+          <did>
+            <unittitle>The Graduate Council of The George Washington University announces the final examination of Andrew Michael Goldner for the degree of Ph.D</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_59fc3084f59c9e6f697aedcc052e42df" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_ebbfecc1422c5a2a895d5237732251be" parent="aspace_59fc3084f59c9e6f697aedcc052e42df" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_zei" level="file">
+          <did>
+            <unittitle>GW Medicine Anniversary Issue --- Decade of Accomplishment</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6d9de9365a3c75e8f86060feab4805fe" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_e1641c514e73289111e6860412371cf3" parent="aspace_6d9de9365a3c75e8f86060feab4805fe" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_tb3" level="file">
+          <did>
+            <unittitle>Wesleyan University --- Commencement</unittitle>
+            <unitdate datechar="creation">06/11/1950</unitdate>
+            <container id="aspace_787b2671adef2269fc026fed10d081d7" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_17567098e41b280fc551073e9b86a1e8" parent="aspace_787b2671adef2269fc026fed10d081d7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_352" level="file">
+          <did>
+            <unittitle>The Tidball Learning Library</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0080350b6f80f28dbc5e2c7d2a4cb06f" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_43cc1cb4efd31adacd0101de78db1435" parent="aspace_0080350b6f80f28dbc5e2c7d2a4cb06f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_jpj" level="file">
+          <did>
+            <unittitle>The ST. Albans News</unittitle>
+            <unitdate datechar="creation">10/26/1968</unitdate>
+            <container id="aspace_7d87c81443e05cc803f4e0f2590723e7" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_c2cac684bee16be6443de66d85639527" parent="aspace_7d87c81443e05cc803f4e0f2590723e7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_71p" level="file">
+          <did>
+            <unittitle>Dr. Tidball Awarded Grant For Science Study</unittitle>
+            <unitdate datechar="creation">05/1966</unitdate>
+            <container id="aspace_a71bcb41a5d49a7d4c3d9bbe83c52ed0" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_71a353c518c708d397370fbd3e436470" parent="aspace_a71bcb41a5d49a7d4c3d9bbe83c52ed0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_usw" level="file">
+          <did>
+            <unittitle>Washington Academy of Sciences --- Annual Awards Dinner Meeting</unittitle>
+            <unitdate datechar="creation">01/25/1968</unitdate>
+            <container id="aspace_3743415a94cdff7e9404c763929dab7d" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_5208a244e8311a94b6b926b75e836def" parent="aspace_3743415a94cdff7e9404c763929dab7d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_qih" level="file">
+          <did>
+            <unittitle>Bulletin of the Alumni Association, School of Medicine, University of Chicago</unittitle>
+            <unitdate datechar="creation">1958</unitdate>
+            <container id="aspace_71a749930e858d28b0785184093752a4" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_deb1cb386b65e6266f9c0af9a13cdd6b" parent="aspace_71a749930e858d28b0785184093752a4" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_ryl" level="file">
+          <did>
+            <unittitle>The George Washington University --- One Hundred and Forty-fifth Year Winter Convocation and the Inauguration of Lloyd Hartman Elliott, Fourteenth President of the University</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_3e3226643a9048e4a76afc367bb2de3c" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_ab42e2dd915364791efc1204187e1286" parent="aspace_3e3226643a9048e4a76afc367bb2de3c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_uwj" level="file">
+          <did>
+            <unittitle>The George Washington University Inauguration of Thomas Henry Carroll as the Thirteenth President</unittitle>
+            <unitdate datechar="creation">1961</unitdate>
+            <container id="aspace_63d2042034d0a820a411c13b6c35c068" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_c54873f191097fde6726ba2e3cae2fd2" parent="aspace_63d2042034d0a820a411c13b6c35c068" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_o4b" level="file">
+          <did>
+            <unittitle>The One Hundred &amp; Twenty-Fourth Annual Commencement, Wilson College 1869-1994</unittitle>
+            <unitdate datechar="creation">05/22/1994</unitdate>
+            <container id="aspace_276241276924c09b6333a9bdc7db89a3" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_ab29a6e55f0ac86ee845adce8d3da37c" parent="aspace_276241276924c09b6333a9bdc7db89a3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_20j" level="file">
+          <did>
+            <unittitle>The University of Chicago --- Two Hundred Seventy-Seventh Convocation</unittitle>
+            <unitdate datechar="creation">03/21/1958</unitdate>
+            <container id="aspace_ec7cfc6cbbcc78a2fb5e750ec3923ac9" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_f24447fcdedd72990110f7dda2837836" parent="aspace_ec7cfc6cbbcc78a2fb5e750ec3923ac9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_4wl" level="file">
+          <did>
+            <unittitle>MiniMEDLINE Tutorial</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3b6e53386e16fa1649e69fb947971e34" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_9b6c579be29dbae5f3762448334a904c" parent="aspace_3b6e53386e16fa1649e69fb947971e34" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_fla" level="file">
+          <did>
+            <unittitle>BASICLRN</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f7b6a6e2a1298ecbf8f8862054ff8184" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_0d82f59e55701aa23f2903a695fd5644" parent="aspace_f7b6a6e2a1298ecbf8f8862054ff8184" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_99r" level="file">
+          <did>
+            <unittitle>Computer Literacy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_34df879fe7389811e87ca3bff8bf454a" label="Mixed Materials [Series 1 GW: 32882020270198]" type="Box">1</container>
+            <container id="aspace_4b6066dd76cec7fd0b60668a858f3b41" parent="aspace_34df879fe7389811e87ca3bff8bf454a" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_rie" level="file">
+          <did>
+            <unittitle>The BASIC Handbook --- Encyclopedia of the BASIC Computer Language, by David A. Lien</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_5467bdf717498fc529f1e8b3f09e7591" label="Mixed Materials [Series 1 GW: 32882020270206]" type="Box">2</container>
+            <container id="aspace_65c661541568ca2c83e79283f4c1de38" parent="aspace_5467bdf717498fc529f1e8b3f09e7591" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_co4" level="file">
+          <did>
+            <unittitle>Basic And The Personal Computer, by Thomas Dwyer &amp; Margot Critchfield</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_7ccc5ba1628141e8874bd3ef6b726aa3" label="Mixed Materials [Series 1 GW: 32882020270206]" type="Box">2</container>
+            <container id="aspace_a997effba710a3477ce667a4a342ed1e" parent="aspace_7ccc5ba1628141e8874bd3ef6b726aa3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_rh3" level="file">
+          <did>
+            <unittitle>Introduction to BASIC</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_574f3071e26888d7ae33d1152c26ae44" label="Mixed Materials [Series 1 GW: 32882020270206]" type="Box">2</container>
+            <container id="aspace_a65cbf148927e56721d6cce59bdb3b34" parent="aspace_574f3071e26888d7ae33d1152c26ae44" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_mga" level="file">
+          <did>
+            <unittitle>BASIC by Microsoft Corp.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_af75f2c48366d92feaedfb62ea3da9d8" label="Mixed Materials [Series 1 GW: 32882020270206]" type="Box">2</container>
+            <container id="aspace_372360db30e01eb0587632ba2855e4b6" parent="aspace_af75f2c48366d92feaedfb62ea3da9d8" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref59_tcz" level="series">
+        <did>
+          <unittitle>Personal papers</unittitle>
+          <unitid>MS0207 Series 2</unitid>
+          <unitdate datechar="creation">undated</unitdate>
+          <physdesc id="aspace_7225a1de3fbbd771fbd859c72f6050fe" label="General Physical Description note">2 Linear feet</physdesc>
+          <container id="aspace_429018c9289fbaea0a49ee93b4711881" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+          <container id="aspace_d60482667d3e9d2e0c32403853e8c91b" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+          <container id="aspace_0d2213ac8d5601832fb2b7b935b050ab" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+          <container id="aspace_76969776dfa7101035e392f059e6b1aa" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+        </did>
+        <scopecontent id="aspace_430eeb1c612404a105c75d874fbc700d">
+          <head>Scope and Contents note</head>
+          <p>Materials in this collection include computer programming materials developed at GW between 1966 and 1980. It also contains Educational Computing Technology Workshop materials, TMIS Training Program Modules, Medical Computer Programming for Patients and other items such as a Chi-Square, Data Red, Deeds, MLS, Paired T-Test, Plot 12A, Rankcorr, Dersim Notebook, Orcon/S2632, POMR, Pharmacokinetics, Drug-Receptor Interactions and Regresso, Serdis, T-Test, Variance.</p>
+        </scopecontent>
+        <c id="aspace_ref61_zbz" level="file">
+          <did>
+            <unittitle>Chi-Square, Data Red, Deed, MLS, Paired T-Test, Plot 12A, Rankcorr</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6c249d03f366aaec7aa706cbb6f11f62" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_e6f6d6dc21dedcfd676aec447c8a00f7" parent="aspace_6c249d03f366aaec7aa706cbb6f11f62" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_g8s" level="file">
+          <did>
+            <unittitle>Dersim Notebook</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b0a358e40172ec6d53d696b13f752417" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_29f18d3165449342df1888da4d4216fa" parent="aspace_b0a358e40172ec6d53d696b13f752417" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_7wd" level="file">
+          <did>
+            <unittitle>Orcon/S2632</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_871d99dd7c8def1f4a8365f3191d60ea" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_7af5d54cf1aa58015721fc188098eb8b" parent="aspace_871d99dd7c8def1f4a8365f3191d60ea" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_yeq" level="file">
+          <did>
+            <unittitle>Orcon/S2632</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_83a39f58b6c629872db1074207094880" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_7ed91da960b8856d1b3675c93aa47b6a" parent="aspace_83a39f58b6c629872db1074207094880" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_3id" level="file">
+          <did>
+            <unittitle>POMR</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0bb6d4d674bf0fe7ed70708b98702238" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_1dad05d7e530c9ade4ddac202f5865e5" parent="aspace_0bb6d4d674bf0fe7ed70708b98702238" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_u6u" level="file">
+          <did>
+            <unittitle>POMR</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1197ba64cbc3ea95b69e7ac7afa841ac" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_960708b524044347aadef89cd86708fa" parent="aspace_1197ba64cbc3ea95b69e7ac7afa841ac" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_epr" level="file">
+          <did>
+            <unittitle>Pharmacokinetics</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7283a396ff7c1d5248fa410a56db113f" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_41be02567072d3b55687ae4c219be441" parent="aspace_7283a396ff7c1d5248fa410a56db113f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_e96" level="file">
+          <did>
+            <unittitle>Drug-Receptor Interactions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7f4072f19728760552c982d48797b4c8" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_193bbbccc51847d031482a562b1e8b5a" parent="aspace_7f4072f19728760552c982d48797b4c8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_ba0" level="file">
+          <did>
+            <unittitle>Regresso, Serdis, T-Test, Variance</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7b78058bcff62b1d55a7f8613cb6b0c9" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_1e999ce189aea5996b493fbe4cbea2bd" parent="aspace_7b78058bcff62b1d55a7f8613cb6b0c9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_43c" level="file">
+          <did>
+            <unittitle>PILOT</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_92d9360efad078ff82bb9e8ddb16234c" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_0df12a9c07f003f000dd02adcb006bd3" parent="aspace_92d9360efad078ff82bb9e8ddb16234c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_rp4" level="file">
+          <did>
+            <unittitle>PILOT</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_629949cd8d63e37ec44f3fd2a0f315c6" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_8a6119229f847401f92c202ac82d3c41" parent="aspace_629949cd8d63e37ec44f3fd2a0f315c6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_123" level="file">
+          <did>
+            <unittitle>FOCAL - 12 Programming Manual</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3b1093486590a29e2c1dd544f2c070df" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_03bb13234bc4159e986e2e7aabd91875" parent="aspace_3b1093486590a29e2c1dd544f2c070df" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_2bq" level="file">
+          <did>
+            <unittitle>FOCAL - 12 Listing</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3ad5024809a70f208a07fba68ffc93c9" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_bfaf3f64d3df9426ab5329392ee1031f" parent="aspace_3ad5024809a70f208a07fba68ffc93c9" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_xwz" level="file">
+          <did>
+            <unittitle>FOCAL 8 Manuals</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_404387924026b358538ae1a38786e2c8" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_261381b04623223c7803840cb13d50f0" parent="aspace_404387924026b358538ae1a38786e2c8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_qpv" level="file">
+          <did>
+            <unittitle>8K Basic</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_78577d914bedd9ae7d4c612f9d79bfa4" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_041b8644f3d979b6eda6ad544293d93b" parent="aspace_78577d914bedd9ae7d4c612f9d79bfa4" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_0md" level="file">
+          <did>
+            <unittitle>CBASIC User's Guide</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b9b96945c277dcbc6dd2b9e2c54cb2fb" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_f2c392ed6c2e1fe9ac43ca2dff412cfa" parent="aspace_b9b96945c277dcbc6dd2b9e2c54cb2fb" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_hkj" level="file">
+          <did>
+            <unittitle>Omsi - Software Dev. Group Intro &amp; Com.sum</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2b85c2520b4c0c559a3ef26010abe844" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_b0fb827def45d255dba2debecb46fff8" parent="aspace_2b85c2520b4c0c559a3ef26010abe844" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_s2e" level="file">
+          <did>
+            <unittitle>Omsi Basic</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6a9059f33a40e8fb0a1f44f3d55066cc" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_d950580dde0c63d2618bf2ca889a166f" parent="aspace_6a9059f33a40e8fb0a1f44f3d55066cc" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_azm" level="file">
+          <did>
+            <unittitle>OSU General Intro, Using the OSU System, Monitors Guide, Trial User Courses</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f2f1d6544aad6ca1280b360617ea417b" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_8e2ed4b5096f8d8078343877784011b5" parent="aspace_f2f1d6544aad6ca1280b360617ea417b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_20u" level="file">
+          <did>
+            <unittitle>OSU - ACIBA</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_28507b039b60e1b1d1460efed71985d8" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_8efd7363af3372704277f55628080284" parent="aspace_28507b039b60e1b1d1460efed71985d8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_heg" level="file">
+          <did>
+            <unittitle>OSU - SERAB</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_62afe6c79255d89cbcfd28dbe773c25d" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_8f4cbcc14d0d110e583542604487e8a0" parent="aspace_62afe6c79255d89cbcfd28dbe773c25d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_mu1" level="file">
+          <did>
+            <unittitle>Informational Retrieval</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8b9cdb3c9f06381455a62cf19db19b35" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_4fb32431020990fa9c5f34f258518fef" parent="aspace_8b9cdb3c9f06381455a62cf19db19b35" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_3on" level="file">
+          <did>
+            <unittitle>Informational Retrieval</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_20f9f804517ccb516ffc86d681d4f0b5" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_3a6e1c2708ac9e7b70cd4ec56f0bae57" parent="aspace_20f9f804517ccb516ffc86d681d4f0b5" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_y08" level="file">
+          <did>
+            <unittitle>FOCAL</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_268b1a60e9816f382e7e4ba57f1d528c" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_3631ea3833d61ef1fe776eddb93405fa" parent="aspace_268b1a60e9816f382e7e4ba57f1d528c" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_r3r" level="file">
+          <did>
+            <unittitle>BASIC</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_44a6107e9dcc1fc2985bc116032a7ea0" label="Mixed Materials [Series 2 GW: 32882013261626]" type="Box">1</container>
+            <container id="aspace_6624070ecc00b8eb4191aedfad424e42" parent="aspace_44a6107e9dcc1fc2985bc116032a7ea0" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_brb" level="file">
+          <did>
+            <unittitle>MIS Video</unittitle>
+            <unitdate datechar="creation">06/13/1978</unitdate>
+            <container id="aspace_fd2a8efd049d3e55453de8cceff21bde" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_9a94c0b2bc21efae1c4531fafc4b1dc3" parent="aspace_fd2a8efd049d3e55453de8cceff21bde" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_o28" level="file">
+          <did>
+            <unittitle>TidBall Collection</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5b73f32498aa2d0d9301245427803ba3" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_cd8b99c47dc63396ed8362d3c2219b6a" parent="aspace_5b73f32498aa2d0d9301245427803ba3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_nxg" level="file">
+          <did>
+            <unittitle>HumRRD</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fc889e3a067bf8a17ac3e4be65e88b47" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_d03b24c529aad610957fa7f468676feb" parent="aspace_fc889e3a067bf8a17ac3e4be65e88b47" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_uh6" level="file">
+          <did>
+            <unittitle>National Health Education Network</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0a93a4f83b75bbbf1a7d67f7827e99f6" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_806e9ebebbe02eb426bf97377d8a8a64" parent="aspace_0a93a4f83b75bbbf1a7d67f7827e99f6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_gtb" level="file">
+          <did>
+            <unittitle>National Health Education Network</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_23a87743a00465432e5ee5d92e452db1" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_43a5d44080d2338ad02fc9fbb7f47649" parent="aspace_23a87743a00465432e5ee5d92e452db1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_m5c" level="file">
+          <did>
+            <unittitle>National Health Education Network</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_50ab4fd1e533dcf4546c21c5b4f3ef3c" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_24e659bf3d7494ffcadc1ff0a2c0fa1f" parent="aspace_50ab4fd1e533dcf4546c21c5b4f3ef3c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_o73" level="file">
+          <did>
+            <unittitle>USAGE</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_98c7ec91d57506831336770fa31c330d" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_9613d6664f821c3952e539b2ec209dac" parent="aspace_98c7ec91d57506831336770fa31c330d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_uob" level="file">
+          <did>
+            <unittitle>Cornell University Medical Collection</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4b284b56ec5235ebcbf6ba5396414838" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_dd670dee232188051102a3576f3bf8e1" parent="aspace_4b284b56ec5235ebcbf6ba5396414838" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_wmi" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f07fc85ed9fdda3c6c61a67097f08571" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_60ef517651f6d04278b15e0ee52528f9" parent="aspace_f07fc85ed9fdda3c6c61a67097f08571" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_1zg" level="file">
+          <did>
+            <unittitle>Current Bylaws and Article of Incorporation</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_373a7a19259de49809cdf1b704c05c7f" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_3d2ee900f90327b4c448f18603f00817" parent="aspace_373a7a19259de49809cdf1b704c05c7f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref131_yzg" level="file">
+          <did>
+            <unittitle>HEN Receipts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c23b6f1041e8e1d2abfed14fabe584d8" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_0a10180f38c6cecb32d7f7ae72de3361" parent="aspace_c23b6f1041e8e1d2abfed14fabe584d8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref133_zle" level="file">
+          <did>
+            <unittitle>Progress Report A</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_999b56c521f84c8e370f03ff70f00dca" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_2301276c2c8f1c5311c5afc2a9637152" parent="aspace_999b56c521f84c8e370f03ff70f00dca" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_4a2" level="file">
+          <did>
+            <unittitle>Progress Report B</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_39ef058fa5b418bcea832207fdba6598" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_9700cc1f39f4f5a3bc34d43c600b9e49" parent="aspace_39ef058fa5b418bcea832207fdba6598" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_ol1" level="file">
+          <did>
+            <unittitle>Tax Exempt Application</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bff9c35f72e401a1ce3f141cc0f5715c" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_14412045368b1591200963c332cd00e5" parent="aspace_bff9c35f72e401a1ce3f141cc0f5715c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref139_7bf" level="file">
+          <did>
+            <unittitle>Williams, Myers, and Quiggle</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e5fd17e6569990240f220783eb52d7f7" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_e93685a0114b96e96c7384f60bfe1779" parent="aspace_e5fd17e6569990240f220783eb52d7f7" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_pp6" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_04c8f016163be363541b5c1094c978ff" label="Mixed Materials [Series 2 GW: 32882013261634]" type="Box">2</container>
+            <container id="aspace_81e6f760f90603644269a06d4688aa59" parent="aspace_04c8f016163be363541b5c1094c978ff" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_u0l" level="file">
+          <did>
+            <unittitle>G. David Anderson Archives Gelman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_46a99a4bce6bed80dafed03a7d024bb1" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_fa742ab7e77e3ba1dc254c7c057af6ea" parent="aspace_46a99a4bce6bed80dafed03a7d024bb1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_t0k" level="file">
+          <did>
+            <unittitle>Patient 1 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a46a16090517e9e3c2a09550dd3bf93" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ffdac647659a9fbc7f979a9b2bf3dadf" parent="aspace_9a46a16090517e9e3c2a09550dd3bf93" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref147_lm6" level="file">
+          <did>
+            <unittitle>Patient 2 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8fd134be1569298e6850a04a2bfb372e" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_45be8a6e6437e08cbd28904cb6e577e7" parent="aspace_8fd134be1569298e6850a04a2bfb372e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_8mm" level="file">
+          <did>
+            <unittitle>Patient 3 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a8c58da271d620346f9f6ad7ebef9aea" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_a0b2538d58470f225d38d0983f714051" parent="aspace_a8c58da271d620346f9f6ad7ebef9aea" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_jw4" level="file">
+          <did>
+            <unittitle>Patient 4 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_68338a169cb9c081841339decfc1951c" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_2d63403a53d946183669d513dfea3e87" parent="aspace_68338a169cb9c081841339decfc1951c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref153_gd5" level="file">
+          <did>
+            <unittitle>Patient 5 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4ed068c14c64a204abfddc76c2af74ed" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_07db055594adf930d092fb9ddc0e69b8" parent="aspace_4ed068c14c64a204abfddc76c2af74ed" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_rst" level="file">
+          <did>
+            <unittitle>Patient 6 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_003b6fc9dbde8b0cbe58015bc9b031c0" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_92da48dd25884f50d5824584626d8077" parent="aspace_003b6fc9dbde8b0cbe58015bc9b031c0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref157_8tx" level="file">
+          <did>
+            <unittitle>Patient 7 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9bc83361f97c53cdf527300350518972" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_6c206aaae6cc1d7135b8216ebf67e3c0" parent="aspace_9bc83361f97c53cdf527300350518972" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_lxn" level="file">
+          <did>
+            <unittitle>Patient 8 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_09badc1e4f3e6e507708c288a7d99321" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_71490e66b9b620c0811f67620414bcb6" parent="aspace_09badc1e4f3e6e507708c288a7d99321" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref161_1pe" level="file">
+          <did>
+            <unittitle>Patient 9 Medical Computer Programming</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ace0b1bc174e2a907cd76153efc84d28" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ad8a1367bd64fbf26d3dc327fd4c2494" parent="aspace_ace0b1bc174e2a907cd76153efc84d28" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_5k0" level="file">
+          <did>
+            <unittitle>FDA Scientific Associates Training Program</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_14ad4c8175ac5ec2e68904967543b0f1" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_4cc0c4ee9e3e3267db07831335d3ffea" parent="aspace_14ad4c8175ac5ec2e68904967543b0f1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref165_iqh" level="file">
+          <did>
+            <unittitle>Patient 1 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a2b0f22472a85eb58154a39a561f47da" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ded79d6e4b265601c9dfa8d8f9b2df0e" parent="aspace_a2b0f22472a85eb58154a39a561f47da" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_1sb" level="file">
+          <did>
+            <unittitle>Patient 2 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_84cc08f846572f38dc93fdb148742371" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_270d52a6b18eef43a63d422082873900" parent="aspace_84cc08f846572f38dc93fdb148742371" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_gmr" level="file">
+          <did>
+            <unittitle>Patient 3 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6684a1e4cfa9b49b9507e5c1c965949b" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_2ad14247ec983a5224f74cae5e39e454" parent="aspace_6684a1e4cfa9b49b9507e5c1c965949b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_4n8" level="file">
+          <did>
+            <unittitle>Patient 4 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4e27f797497960106ef60c4286223a23" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_3614f5704b0c985bacad37062f9dbe2e" parent="aspace_4e27f797497960106ef60c4286223a23" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_nhk" level="file">
+          <did>
+            <unittitle>Patient 5 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3801c32a5b67aa233c4dd3731a402927" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_35da86aad51f54b2a34806bd15b07b22" parent="aspace_3801c32a5b67aa233c4dd3731a402927" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_hj4" level="file">
+          <did>
+            <unittitle>Patient 6 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_80c0a2cedcd75a3e7fbeecc51ae8fd0c" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_efe3ff0ac1c319a3bfa18a529fd88346" parent="aspace_80c0a2cedcd75a3e7fbeecc51ae8fd0c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_k0e" level="file">
+          <did>
+            <unittitle>Patient 7 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fdc6a1f3679843503427627b12a56897" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_9ff6d81dd6b985d138edcb2dd59a429c" parent="aspace_fdc6a1f3679843503427627b12a56897" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_1ub" level="file">
+          <did>
+            <unittitle>Patient 8 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3aa44f775ffec1bd08c62765edccee4e" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ff95b0330e70216b631bb447fafc753a" parent="aspace_3aa44f775ffec1bd08c62765edccee4e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_uid" level="file">
+          <did>
+            <unittitle>Patient 9 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5c568ccb99e85831e81171db910f3d16" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_3dc9c735199ce531d69ab70cd308cfae" parent="aspace_5c568ccb99e85831e81171db910f3d16" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref183_281" level="file">
+          <did>
+            <unittitle>Patient 10 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2078d61538354c9926191d11f192ba9f" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_a72a1af721a32dc6bfe4488c223afa88" parent="aspace_2078d61538354c9926191d11f192ba9f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref185_c7p" level="file">
+          <did>
+            <unittitle>Patient 11 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4001ce4953089d3d8269922b41780673" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_1d1a59424a978a2a4dac6b011f012904" parent="aspace_4001ce4953089d3d8269922b41780673" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_zcu" level="file">
+          <did>
+            <unittitle>Patient 12 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7abed51adab5ef8da4d2b70c27aae5cf" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_a1dab89d8108acdc58bec089d2cc21e5" parent="aspace_7abed51adab5ef8da4d2b70c27aae5cf" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_h4q" level="file">
+          <did>
+            <unittitle>Patient 13 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9c252779d0a3388fc35a14f4037c4a5f" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_d84fffff3ebd3c7496275acd6e8c5635" parent="aspace_9c252779d0a3388fc35a14f4037c4a5f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_lph" level="file">
+          <did>
+            <unittitle>Patient 14 Medical Computer Programming II</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3988e35ed82c3e8b818ea3eddda71d80" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_6a7a1be78bf07c5b67341180b43ed4b7" parent="aspace_3988e35ed82c3e8b818ea3eddda71d80" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_few" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d4fd57787f263c0c9e871712892adc49" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_d307b3c20930bd4dc5e15363440fec48" parent="aspace_d4fd57787f263c0c9e871712892adc49" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref195_yph" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_338f6ef17d57ba79b0114e417fe387a0" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_c878bc70428741a16faa8f659e4fb31f" parent="aspace_338f6ef17d57ba79b0114e417fe387a0" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref197_4ez" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ce60261678b14c1f8222aacbc0d64d14" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_2e8c4ef2c9077f8bff4465613122dc61" parent="aspace_ce60261678b14c1f8222aacbc0d64d14" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref199_8sc" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4ab20d124bca632bcef84fae836fc243" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ae01abc760355c6760e5c0984f1c46f5" parent="aspace_4ab20d124bca632bcef84fae836fc243" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref201_sgy" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bf90f560635125afbbbdea11f3a7fc76" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_5182abc37d2a6fae802befcc911ac51a" parent="aspace_bf90f560635125afbbbdea11f3a7fc76" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref203_8qu" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 6</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7c49b697830383f2e82a7f51d7bf9d22" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_21da6ff8c53963c0cef0e7d402a4837f" parent="aspace_7c49b697830383f2e82a7f51d7bf9d22" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref205_yb3" level="file">
+          <did>
+            <unittitle>Educational Computing Technology 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b1f736b48eb52fcb3f37523bcdb15080" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_e0af28ce99e2b92075bb6c8c088310a9" parent="aspace_b1f736b48eb52fcb3f37523bcdb15080" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref207_kps" level="file">
+          <did>
+            <unittitle>Workshop I</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_990881c156686d944160f49a6663eee8" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_c040e233ae60a3edef7352cc8855a2c6" parent="aspace_990881c156686d944160f49a6663eee8" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref209_ync" level="file">
+          <did>
+            <unittitle>Workshop II</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_6eb498a9519d54eaec7c52720568431a" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_a2a10f35aedf2dec4ec8a41547fe432c" parent="aspace_6eb498a9519d54eaec7c52720568431a" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref211_rai" level="file">
+          <did>
+            <unittitle>Workshop III</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_2674c393330e110075fbd3e9d0f4159e" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_6f1cbc9393e4884f2de56b9abc33b2be" parent="aspace_2674c393330e110075fbd3e9d0f4159e" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref213_a4f" level="file">
+          <did>
+            <unittitle>Workshop IV</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_2a75dfc8e36149e01d71054aa91333a3" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_5e362c0c01f5469057c3da6e21c65b12" parent="aspace_2a75dfc8e36149e01d71054aa91333a3" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref215_dde" level="file">
+          <did>
+            <unittitle>Workshop V</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_bdccce3e60ad55764cab369f9260eb55" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_4f4251c83a0ee7860ee2686902ba767b" parent="aspace_bdccce3e60ad55764cab369f9260eb55" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref217_2g5" level="file">
+          <did>
+            <unittitle>Workshop VI</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_461c3bc69293197bfdab9de50465807e" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_8384d55da5ee9d1abf520cfce36ff83a" parent="aspace_461c3bc69293197bfdab9de50465807e" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref219_mji" level="file">
+          <did>
+            <unittitle>Workshop VII</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_839b0fcbdc0bb73de7dd4ee3c2760b88" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_5e57dd208c668b1bc96c0a46900676e9" parent="aspace_839b0fcbdc0bb73de7dd4ee3c2760b88" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref221_2ww" level="file">
+          <did>
+            <unittitle>Workshop VIII</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_5df2ef459a5f962379f65365853083d4" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_569a2e1ad8cbe4293e558bd219f2c9c3" parent="aspace_5df2ef459a5f962379f65365853083d4" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref223_ubo" level="file">
+          <did>
+            <unittitle>Workshop IX</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_134e168351455a81a2d3b85fe3ae0750" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_ae6f3b47a827e2575b42c9f3609faf1b" parent="aspace_134e168351455a81a2d3b85fe3ae0750" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref225_d9d" level="file">
+          <did>
+            <unittitle>Elementary Medical Statistics</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_3ff1b004f3bb090dee437b119ef223eb" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_33336d86ccceddcbdbe66348fe72c2af" parent="aspace_3ff1b004f3bb090dee437b119ef223eb" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref227_yby" level="file">
+          <did>
+            <unittitle>Workshop I</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_553c4d67b3993513d689f1e9b99bc020" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_6938d70994f9a56b689121f48052200a" parent="aspace_553c4d67b3993513d689f1e9b99bc020" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref229_rga" level="file">
+          <did>
+            <unittitle>Workshop I</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_5de633081f7c5610b5a785182ce523b2" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_f212d50549566528c22f850f0f8a03ef" parent="aspace_5de633081f7c5610b5a785182ce523b2" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref231_4px" level="file">
+          <did>
+            <unittitle>Workshop I</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_898fc5332fcd8a15d68b16863dc68b0b" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_1baf6ae61c3d9b12ae29c34167e3b3f3" parent="aspace_898fc5332fcd8a15d68b16863dc68b0b" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref233_9e0" level="file">
+          <did>
+            <unittitle>Workshop I</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_36b1b4027c2e7c426296ec2191b172aa" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_55dbce8aa0b734f99aa4b37f2113328f" parent="aspace_36b1b4027c2e7c426296ec2191b172aa" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref235_3et" level="file">
+          <did>
+            <unittitle>Workshop II</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_821e4c010af7b65e2639af2cc365ef4a" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_2bc3cd77144714533ca89e8b3e88789c" parent="aspace_821e4c010af7b65e2639af2cc365ef4a" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref237_4tu" level="file">
+          <did>
+            <unittitle>Workshop III</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_696fb019e201a13bf0f90a38b77ae4c8" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_c4fdd1b1fa5360facaba64feb84c4b18" parent="aspace_696fb019e201a13bf0f90a38b77ae4c8" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref239_y1j" level="file">
+          <did>
+            <unittitle>Workshop IV</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_492c3a3b5933697356db86f24c4d0cef" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_b0480c080f03feab144d4fbb443edf79" parent="aspace_492c3a3b5933697356db86f24c4d0cef" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref241_w2z" level="file">
+          <did>
+            <unittitle>Workshop V</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_7beaf0485a186ce090717902b8fef571" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_49f8483ca0795f218b8c284024922c15" parent="aspace_7beaf0485a186ce090717902b8fef571" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref243_4g4" level="file">
+          <did>
+            <unittitle>Workshop VI</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_99c58e6818fda6f166e48094b47ef3de" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_abafd71c13a678af4ef4068231c66b7f" parent="aspace_99c58e6818fda6f166e48094b47ef3de" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref245_0fa" level="file">
+          <did>
+            <unittitle>Workshop VII</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_6df6a8a2f451d5602810563ad88a614f" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_66f4d418279b26aa702aca11bb3be168" parent="aspace_6df6a8a2f451d5602810563ad88a614f" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref247_nl2" level="file">
+          <did>
+            <unittitle>Workshop VIII</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_937ecac9af9b3092f23475ddcecb7d0b" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_6dbed35416e77c23ce655272c82e7cc9" parent="aspace_937ecac9af9b3092f23475ddcecb7d0b" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref249_hyu" level="file">
+          <did>
+            <unittitle>Workshop IX</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_30efbeeb435956a1eb6e45cb22ba074d" label="Mixed Materials [Series 2 GW:32882013261642]" type="Box">3</container>
+            <container id="aspace_c3cddf24c39cf8af1cea35a09a825238" parent="aspace_30efbeeb435956a1eb6e45cb22ba074d" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref251_3ot" level="file">
+          <did>
+            <unittitle>TMIS Training Program Module 1-3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_021d9df81adf947510f065e37adfb8d9" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_00351caf2ad637b4bd40fe8fe3eb82d3" parent="aspace_021d9df81adf947510f065e37adfb8d9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref253_csk" level="file">
+          <did>
+            <unittitle>TMIS Training Program Module 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6115a8ebd5984a93a4ffb8296d10cf6a" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_9d265a35db2d9db54c0aa493a189c1a4" parent="aspace_6115a8ebd5984a93a4ffb8296d10cf6a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref255_khr" level="file">
+          <did>
+            <unittitle>TMIS Training Program Module 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5b512c164a796a538c4141b431d06bbe" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_8561a040b21999dd66b7e07bc40459ef" parent="aspace_5b512c164a796a538c4141b431d06bbe" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref257_tqm" level="file">
+          <did>
+            <unittitle>TMIS Training Program Module 6</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8a9acbedc6a19f690bf04c4dc5d667e6" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_abe151aeedd57ea3097ac504b179c456" parent="aspace_8a9acbedc6a19f690bf04c4dc5d667e6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref259_fz8" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 12 System Reference Manual</unittitle>
+            <unitdate datechar="creation">1971-1972</unitdate>
+            <container id="aspace_cd28ae01636ed7f7abc537dfb442f9a7" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_9503ab0be679bf9a98885653f4de2f7c" parent="aspace_cd28ae01636ed7f7abc537dfb442f9a7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref261_06y" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 12 System Reference Manual</unittitle>
+            <unitdate datechar="creation">1971-1972</unitdate>
+            <container id="aspace_6bb4bfad3762ff774d324df259e4aeca" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_22e2728cb8c3e548b4f5c1b07fa9fe2d" parent="aspace_6bb4bfad3762ff774d324df259e4aeca" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref263_dpg" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 ETOS Time Shared Operation System Acid-Base Chemistry</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_6ecca774abc0913dc34b9b3fd92548ae" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_ba40bd39c1d65f67d1204c1444a39619" parent="aspace_6ecca774abc0913dc34b9b3fd92548ae" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref265_p3i" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 ETOS Time Shared Operation System Acid-Base Chemistry</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_f07a042b06137789ad1bce24cd17b00c" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_e5625c858a121074a389a62d07f1852c" parent="aspace_f07a042b06137789ad1bce24cd17b00c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref267_xck" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 Implementation of PILOT Part 1 Technical</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <container id="aspace_dce2b296b2d6e8b78342135cc332df9f" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_3f3d5173670c3f987afbcb540a63e038" parent="aspace_dce2b296b2d6e8b78342135cc332df9f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref269_6jh" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 Implementation of PILOT Part 1 Business</unittitle>
+            <unitdate datechar="creation">1975-1976</unitdate>
+            <container id="aspace_2184e73cbf81ab19a1adc60316453f06" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_c805e1b2eaccc6bc9f312a91a5988607" parent="aspace_2184e73cbf81ab19a1adc60316453f06" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref271_biz" level="file">
+          <did>
+            <unittitle>SWTP S/09 1980-1981 UNIFEX TLLBasic</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e8728097487fb5f52255c1e8a062dee7" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_5890a78891ed0023173f23ba80b91a4d" parent="aspace_e8728097487fb5f52255c1e8a062dee7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref273_ttx" level="file">
+          <did>
+            <unittitle>SWTP S/09 1980-1981 UNIFEX TLLBasic</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_69f12b1ddc148cd22d263c8a052dc507" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_dc8a90c2d63167029087605777304333" parent="aspace_69f12b1ddc148cd22d263c8a052dc507" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref275_19s" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 12 Time Sharing System</unittitle>
+            <unitdate datechar="creation">1971-1972</unitdate>
+            <container id="aspace_f7ab6cb79cad49ba0636e0791b0272c3" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_1ea8efd3b782995dd394fdf0ae0ae2ee" parent="aspace_f7ab6cb79cad49ba0636e0791b0272c3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref277_cnz" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 Time Sharing System</unittitle>
+            <unitdate datechar="creation">1971-1972</unitdate>
+            <container id="aspace_df4d165aa21037d998b0c5e23a9eb185" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_eb31238848b2dccae99ffaee0a36a93d" parent="aspace_df4d165aa21037d998b0c5e23a9eb185" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref279_kyo" level="file">
+          <did>
+            <unittitle>IBM Mainframe Acid Base Chemistry APL</unittitle>
+            <unitdate datechar="creation">1969-1970</unitdate>
+            <container id="aspace_c2b34111d6130f0a7c4e62d761df292d" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_d378c30062040d418a6a247ab44ee3e9" parent="aspace_c2b34111d6130f0a7c4e62d761df292d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref281_0pu" level="file">
+          <did>
+            <unittitle>IBM Mainframe Acid Base Chemistry APL</unittitle>
+            <unitdate datechar="creation">1969-1970</unitdate>
+            <container id="aspace_2fa2b8d4ccde3d03a1e54c0b12b37ea5" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_b3f6f11e8c746b62a4d6056d8acc7364" parent="aspace_2fa2b8d4ccde3d03a1e54c0b12b37ea5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref283_zbx" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 STARLN</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_0678f79f9a9ac4c90ecf7bf5d08c1fab" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_7a37a39923766aaec867aa89af571c1f" parent="aspace_0678f79f9a9ac4c90ecf7bf5d08c1fab" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref285_q8o" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : STARLN</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_d8762741fcc10a85ecedf968e02fad3b" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_af0937d25014f7297da37fe492aff7f0" parent="aspace_d8762741fcc10a85ecedf968e02fad3b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref287_a8l" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 FOCLEARN</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_96de6eaaa9007fdbe271ec7b0bc3756d" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_2cefa03fd0bc02aa41bb0ddfa7ad6986" parent="aspace_96de6eaaa9007fdbe271ec7b0bc3756d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref289_0ov" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 FOCLEARN</unittitle>
+            <unitdate datechar="creation">1974-1975</unitdate>
+            <container id="aspace_43adecc7930d624816f33946af51dd98" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_78b369011426232939fb8c2844297ad7" parent="aspace_43adecc7930d624816f33946af51dd98" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref291_58p" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 CALILEARN</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_58ece1d522d8b2a9f80fc3a3cb0ba728" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_ff1f176699497afebb444725ddc720f5" parent="aspace_58ece1d522d8b2a9f80fc3a3cb0ba728" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref293_7ed" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 LIBLEARN</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_a3d5d3f42891e1685977f8667252e0aa" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_a4d4c60eb4d702011da914cd12937102" parent="aspace_a3d5d3f42891e1685977f8667252e0aa" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref295_ir9" level="file">
+          <did>
+            <unittitle>Digital Equipt. Corporation : PDP - 8 TERMLEARN</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_df00b366f5c95e403d925cbb61f7be7f" label="Mixed Materials [Series 2 GW: 32882013261659]" type="Box">4</container>
+            <container id="aspace_1117d3489d3e46fcd0d38b6b178a4712" parent="aspace_df00b366f5c95e403d925cbb61f7be7f" type="Folder">23</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

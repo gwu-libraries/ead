@@ -1,0 +1,1963 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="folder_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/mvc0028.xml">mvc0028.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Mount Vernon Seminary and College Office of Development records, <date calendar="gregorian" era="ce">1953-2005</date> 
+ <num>MVC0028.RG</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:44:56 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Mount Vernon Seminary and College Office of Development records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">Mount Vernon College</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">Mount Vernon Seminary</corpname>
+      </origination>
+      <unitid>MVC0028.RG</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+        <extent altrender="carrier">6 record cartons</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1953/2005" type="inclusive">1953-2005</unitdate>
+      <unitdate datechar="creation" normal="1997/2001" type="bulk">1997-2001</unitdate>
+      <abstract id="aspace_4b045d9a9cf36ecf6d737e273947ec3d">Mount Vernon Seminary and College was an all-women's high school and junior college founded in 1875 by Elizabeth J. Somers.  The George Washington University initially affiliated with Mount Vernon College, and ultimately acquired the college's property and legacy in 1999.  This collection contains the records of the Mount Vernon College Office of Development. Records date from 1953 to 2005, with the bulk of the material dating between 1997 and 2001.</abstract>
+      <physloc id="aspace_06a0b797068cf0558a44619e5f2bd53c">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <scopecontent id="aspace_68d8e0c1f1d00078a9a52039d5f0da9b">
+      <head>Scope and Contents</head>
+      <p>This collection contains the records of the Mount Vernon College Office of Development. Records date from 1953 to 2005, with the bulk of the material dating between 1997 and 2001 during which Mount Vernon College transitioned from an independent educational institution to a satellite campus of the George Washington University. Subjects include Mount Vernon Today newsletter, budgets and operating plans, campaign planning and capital projects, prospective donors and alumnae, Women in Politics and Journalism Residential Program, endowment funds and foundations, Dear Daughters, Mount Vernon Council, honorary degree recipients, building dedications, and special events. This collection is minimally processed and may contain restricted material that is not currently available for research. Please contact Special Collections for more information.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_056d7b346d9d8938b64ffa089c3f69d9">
+      <head>Conditions Governing Access</head>
+      <p>This entire collection is closed for 30 years from date of record creation. All inquries need to go to the University Archivist.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_00c7eb1af99ed51c6781d9b59ecd024e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by GW Division of Development and Alumni Relations, 10/14/2009 (2009.063)</p>
+    </acqinfo>
+    <prefercite id="aspace_acb8ed9e72d26ec0db34f733b5e6e4f5">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <userestrict id="aspace_b0df606f1df9a98f990d0f117b57e50f">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_af69e971ac86e38f190b05e4113e096a">
+      <head>Biographical / Historical</head>
+      <p>Mount Vernon Seminary and College was an all-women's high school and junior college founded in 1875 by Elizabeth J. Somers.  The George Washington University initially affiliated with Mount Vernon College, and ultimately acquired the college's property and legacy in 1999.  The Office of Development at Mount Vernon College was originally named the Office of Advancement.  Development activities for the George Washington University's Mount Vernon Campus currently fall under the GW Division of Development and Alumni Relations under the Vice President for Advancement.</p>
+    </bioghist>
+    <arrangement id="aspace_3e00be78850dbc91a5f9c52c499fda24">
+      <head>Arrangement</head>
+      <p>This collection is unprocessed and files are in the order as received.</p>
+    </arrangement>
+    <accessrestrict id="aspace_42a1fc9f4fee45b8015701d726d5c7ae">
+      <head>Conditions Governing Access</head>
+      <p>This collection is unprocessed and contains confidential material relating to prospective donors to Mount Vernon College.  Files containing potentially confidential material have been stamped "Restricted" and are marked "Restricted" at the file level.  Before formal processing can occur, staff should screen material before serving in the reading room and remove any files deemed potentially confidential.</p>
+    </accessrestrict>
+    <odd id="aspace_46f4131518953a87bccc1df3c99c7af2">
+      <head>Bib#</head>
+      <p>7779607</p>
+    </odd>
+    <controlaccess>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref8_v0c" level="file">
+        <did>
+          <unittitle>MVC Today Winter</unittitle>
+          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+          <container id="aspace_2ccb662afb34d7706e0513f0a6b2f7c7" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_24ad712c2933de7df2665dac86a3d934" parent="aspace_2ccb662afb34d7706e0513f0a6b2f7c7" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref9_328" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Spring 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_e981f5403684bbf760e93e46a11f2b13" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_b380f77ec46fd6b2e9ebec1e8b68c1bc" parent="aspace_e981f5403684bbf760e93e46a11f2b13" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_05z" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Fall 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_9425ec2aae2a1eea0e4685cd2d430e8e" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_fc3bfe68a3340d3aadfe6b3b47b8a8d8" parent="aspace_9425ec2aae2a1eea0e4685cd2d430e8e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref11_bzw" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Fall 2001 Expenses</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_00370ba55c1ccb2a8d3e67c908b3c021" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_8331cdff5486f4d9be13ca4201b8b5da" parent="aspace_00370ba55c1ccb2a8d3e67c908b3c021" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_dbf" level="file">
+        <did>
+          <unittitle>History Book [Dear Daughters]</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">08/2001-10/2001</unitdate>
+          <container id="aspace_3987477b0a45c96d4390ab026413c8f0" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_559358216ad0bf92a411fd185f18b376" parent="aspace_3987477b0a45c96d4390ab026413c8f0" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref13_u9y" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Printed Issues </unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_560209805ccf6f97bced806bebf54b47" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_3e859ceed95034060dd1f69a420d16c4" parent="aspace_560209805ccf6f97bced806bebf54b47" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_4qh" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Summer 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_8928d58efabad76ec1ed3a28c2f322ff" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_563848543528f5675258771b9bce1abf" parent="aspace_8928d58efabad76ec1ed3a28c2f322ff" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_vmv" level="file">
+        <did>
+          <unittitle>SARC Community Service</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">04/28/2003-05/02/2003</unitdate>
+          <container id="aspace_4c48bd8ca69c63d1aaec7e0a052a2698" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_0d54c48f377eeb0d7b8e2c79404d5ccc" parent="aspace_4c48bd8ca69c63d1aaec7e0a052a2698" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_oor" level="file">
+        <did>
+          <unittitle>June 19 Frawley Trip</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">05/21/2003-06/17/2003</unitdate>
+          <container id="aspace_a5d52961ccedc19efcf8319cc661097e" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_8ae5ddc5578aed11bfb61ab3da3c3556" parent="aspace_a5d52961ccedc19efcf8319cc661097e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_f6p" level="file">
+        <did>
+          <unittitle>MV Suspects</unittitle>
+          <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996-2002</unitdate>
+          <container id="aspace_3b22d88c4ca9bc1be98877cebe1b7168" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_9db2fdcc586883a1636a1b4825c68938" parent="aspace_3b22d88c4ca9bc1be98877cebe1b7168" type="Folder">10</container>
+        </did>
+        <accessrestrict id="aspace_59152d49f20b6ee8fc056c15b0591b9a">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_4de3a134f184564c330bae21a26b9ad7">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref21_xj6" level="file">
+        <did>
+          <unittitle>MVC Major Gift Prospects</unittitle>
+          <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+          <container id="aspace_1513a36663905ba2fb3ea3d4adec33e9" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_1d6222a7711ce7416dc8b13a028e3a06" parent="aspace_1513a36663905ba2fb3ea3d4adec33e9" type="Folder">11</container>
+        </did>
+        <accessrestrict id="aspace_5d5ac36c8c9324e9d182fd516ebbc482">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_b4c28b08d955c81a669ec42d6cb91481">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref25_zjk" level="file">
+        <did>
+          <unittitle>Major Prospects</unittitle>
+          <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+          <container id="aspace_a0c7701a8f242c3bcca0c8dd3c1f30de" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_51298dc02efeb87122f6376b6521ce88" parent="aspace_a0c7701a8f242c3bcca0c8dd3c1f30de" type="Folder">12</container>
+        </did>
+        <accessrestrict id="aspace_f13f51f6653a0c253c17d08b4dee0f79">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_ee736b0816dd62209fbddd054278ebb5">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref28_anv" level="file">
+        <did>
+          <unittitle>Women in Politics 09/03/1997</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">09/03/1997</unitdate>
+          <container id="aspace_a9ad0ed00085ee1c9ba67be336fa7c43" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_0b441458dfd04ffc2b27f2b652efa332" parent="aspace_a9ad0ed00085ee1c9ba67be336fa7c43" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_g3j" level="file">
+        <did>
+          <unittitle>Women in Politics and Journalism</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">09/03/1997</unitdate>
+          <container id="aspace_32f3328e62f80ab171cdc722ae89e212" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_8000c7b2fe84a0ce112977edfef93324" parent="aspace_32f3328e62f80ab171cdc722ae89e212" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_hvf" level="file">
+        <did>
+          <unittitle>Women in Politics and Journalism 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">10/07/1999</unitdate>
+          <container id="aspace_29d531b9fa195498730238f3c5ad2173" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_ba0ce3d621f77cb193aa01d46d269ec7" parent="aspace_29d531b9fa195498730238f3c5ad2173" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_zip" level="file">
+        <did>
+          <unittitle>Women in Politics and Journalism 1998</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">09/29/1998</unitdate>
+          <container id="aspace_669af0b5752c6045d813be192aea93da" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_8e0ac69dfbaea532fa85dd577849f48d" parent="aspace_669af0b5752c6045d813be192aea93da" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_f6r" level="file">
+        <did>
+          <unittitle>Women in Politics and Journalism 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">10/10/2000</unitdate>
+          <container id="aspace_31e5bc9a433011c26126484309abacf8" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_a2b09cff35dc725575746e6581630ebe" parent="aspace_31e5bc9a433011c26126484309abacf8" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref33_1no" level="file">
+        <did>
+          <unittitle>Budget 1998-1999</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_285924587cd67e1d01311e2b73964a19" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_0f80a6c494033e4c3ace89d686bec866" parent="aspace_285924587cd67e1d01311e2b73964a19" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_h99" level="file">
+        <did>
+          <unittitle>FY 01-02 Budget</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_7320994d9874bc0cbbfa384ade038d61" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_4a8f2a54fc5637a996424757ec169c15" parent="aspace_7320994d9874bc0cbbfa384ade038d61" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_gip" level="file">
+        <did>
+          <unittitle>School of Business and Public Management's Women's Entrepreneurial Leadership Program 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_1f7f0be47a1b23a26627cb1a07a9b416" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_1e9bc0ca6a529af3ebc993dd5c945b92" parent="aspace_1f7f0be47a1b23a26627cb1a07a9b416" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_s7r" level="file">
+        <did>
+          <unittitle>Capital Projects</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_fbb97dacbe44a1afbd47eb975fe5c7ec" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_0208cf71f53c8a6079200625edd3fcbc" parent="aspace_fbb97dacbe44a1afbd47eb975fe5c7ec" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref37_27n" level="file">
+        <did>
+          <unittitle>Prospects</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_8a2a61ead5e60b900d01e6455bad9f2f" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_23d2fbf821145d599b9feb5e00f47af0" parent="aspace_8a2a61ead5e60b900d01e6455bad9f2f" type="Folder">22</container>
+        </did>
+        <accessrestrict id="aspace_0da286c32651723d534c076ce7c7ab33">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_27fa80694160ba5537ff57572fac2661">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref40_qny" level="file">
+        <did>
+          <unittitle>Campaign Planning</unittitle>
+          <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+          <container id="aspace_3aefa61e60e8e4673bc65a3d85b30f58" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_aab8f13a03e8217e72530ad5d9c752ea" parent="aspace_3aefa61e60e8e4673bc65a3d85b30f58" type="Folder">23</container>
+        </did>
+        <accessrestrict id="aspace_264c08009a550d46ee3c3c021e29529d">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_1f7496ed6f259fee9be058f8c0ef5ff9">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref43_bz2" level="file">
+        <did>
+          <unittitle>Case Information</unittitle>
+          <unitdate datechar="creation" normal="1993/1997" type="inclusive">1991-1997</unitdate>
+          <container id="aspace_300ef055b987bb275946a28badcde74d" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_3abf58eba24c894900409956d4998570" parent="aspace_300ef055b987bb275946a28badcde74d" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_esn" level="file">
+        <did>
+          <unittitle>Mount Vernon and GW brochures and bulletins (loose)</unittitle>
+          <unitdate datechar="creation" normal="1988/1997" type="inclusive">1988-1997</unitdate>
+          <container id="aspace_6f25b6b7d3608454fb260fbeae6aa2cd" label="Mixed Materials [GW: 32882019245615]" type="Box">UP0001</container>
+          <container id="aspace_ddf912f347a2929683d490fbfba5c0db" parent="aspace_6f25b6b7d3608454fb260fbeae6aa2cd" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref45_pyt" level="file">
+        <did>
+          <unittitle>Photography</unittitle>
+          <unitdate datechar="creation" normal="1998/2001" type="inclusive">1998-2001</unitdate>
+          <container id="aspace_95e6aad6713eb7064d5c2efe779f80ec" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_0e30334dbd2084405d90817770144a5b" parent="aspace_95e6aad6713eb7064d5c2efe779f80ec" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_gxh" level="file">
+        <did>
+          <unittitle>MVC Merchandise</unittitle>
+          <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+          <container id="aspace_1845b5894822a406653c084caad5c107" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_b9821d3023dd49757132261869f3377d" parent="aspace_1845b5894822a406653c084caad5c107" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref47_ccl" level="file">
+        <did>
+          <unittitle>Centuries Campaign</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_b5fe615c6b41ceae80aacdafad021de8" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_eb0c82d17f0cdad26ae114e064800030" parent="aspace_b5fe615c6b41ceae80aacdafad021de8" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref48_agv" level="file">
+        <did>
+          <unittitle>Case for Support</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_9418ebe00b059eae2d10c95c823dd2b4" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_344ed70a7fc5384568f2fc85ee8026a0" parent="aspace_9418ebe00b059eae2d10c95c823dd2b4" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref49_ceg" level="file">
+        <did>
+          <unittitle>Stewardship</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_5c1bf1bbe7e1642e6f5855f6129e8f41" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_14ab65feca9d0cfc107d20c572c781bf" parent="aspace_5c1bf1bbe7e1642e6f5855f6129e8f41" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref50_o8d" level="file">
+        <did>
+          <unittitle>History Project [Dear Daughters]</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_4c6a109fbad5fe1a45b17de01b259a6e" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_866a85d77097778209ff692659159788" parent="aspace_4c6a109fbad5fe1a45b17de01b259a6e" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref51_u23" level="file">
+        <did>
+          <unittitle>Oral History Project</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_530a97a3024933ba469649953de0f254" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_4a28fa892931266db35b31072ebf83c7" parent="aspace_530a97a3024933ba469649953de0f254" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref52_m15" level="file">
+        <did>
+          <unittitle>Council Meeting, Nov. 2, 2001</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">11/02/2001</unitdate>
+          <container id="aspace_e6144653020f55a3a5e7183adbb650d9" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_8cfa5d7ae2c0dd7f1ba9e070978ff0cb" parent="aspace_e6144653020f55a3a5e7183adbb650d9" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref53_cd1" level="file">
+        <did>
+          <unittitle>Alumnae Association</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_d38778888134fa2205583011f085b6ee" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_992276996fc26f85123dcc13a97471d5" parent="aspace_d38778888134fa2205583011f085b6ee" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref54_ds3" level="file">
+        <did>
+          <unittitle>Council for MVC</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_5f123f5bc7bb31fde040b3e5ef7fc83f" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_dede43952c99ddb1c6583ab87d982e4f" parent="aspace_5f123f5bc7bb31fde040b3e5ef7fc83f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref55_0x7" level="file">
+        <did>
+          <unittitle>Council for MV, June 8 Meeting</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">06/08/2001</unitdate>
+          <container id="aspace_c0b03abe8d8c9b7cc6acf1ae2871cd42" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_581a0638c45ee72ff52016a50c0ffceb" parent="aspace_c0b03abe8d8c9b7cc6acf1ae2871cd42" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref56_t21" level="file">
+        <did>
+          <unittitle>Daunton Transfer FY '02</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_e737388ff74ae98c52b107a51e0753f1" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_6afef161bd4d4c9a4339cf3c09039f35" parent="aspace_e737388ff74ae98c52b107a51e0753f1" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref57_166" level="file">
+        <did>
+          <unittitle>Clock Tower Dedication Expenses</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_48e57fbf43823689ee3171e6e8175e5c" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_a0d4d5902739a9879470a4eca3f10921" parent="aspace_48e57fbf43823689ee3171e6e8175e5c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref58_el7" level="file">
+        <did>
+          <unittitle>Somers Center R-Fund FY '03 Audit</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">02/2003-04/2003</unitdate>
+          <container id="aspace_c46ae103da01addc309a266898b44aa4" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_5e62a9e48cc95dbc6e00a68cc9746671" parent="aspace_c46ae103da01addc309a266898b44aa4" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref80_xk6" level="file">
+        <did>
+          <unittitle>Barbara Ingalls Shook Foundation</unittitle>
+          <unitdate datechar="creation" normal="1972/2004" type="inclusive">1972-2004</unitdate>
+          <container id="aspace_1a891b794d6404bf38f7d295bd94d5bb" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_1a7a3d5c689e7104d1c111b60e1834d8" parent="aspace_1a891b794d6404bf38f7d295bd94d5bb" type="Folder">22</container>
+        </did>
+        <accessrestrict id="aspace_18c2e8f24a9f02acadd88a4e91601649">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information about prospective donors to Mount Vernon College.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_d650a59433fe18e17489635e72ddb880">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref100_gf1" level="file">
+        <did>
+          <unittitle>Board Member List</unittitle>
+          <unitdate datechar="creation" normal="1953/1991" type="inclusive">1953-1991</unitdate>
+          <container id="aspace_8412c0972aafb88e798c04863ad0ee87" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_39b9053035038b1ede7168eb97ec2cb2" parent="aspace_8412c0972aafb88e798c04863ad0ee87" type="Folder">29</container>
+        </did>
+        <accessrestrict id="aspace_dbd1d9ddfd11e57ae5a7fbf0f7688a6e">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_67223fbc74f49a54c77c13d08305c9f9">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref103_eno" level="file">
+        <did>
+          <unittitle>MVC Trustees</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">06/11/1990</unitdate>
+          <container id="aspace_20da11a1cce63546b434635fa25e044f" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_29f97b23bb2714da5c7007fb95d4f35e" parent="aspace_20da11a1cce63546b434635fa25e044f" type="Folder">30</container>
+        </did>
+        <accessrestrict id="aspace_7f67abd29b6b126a5cc45fc2ed8d8b06">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_bf7a45dad0671cc742beba79cf817e97">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref106_mgk" level="file">
+        <did>
+          <unittitle>Elizabeth J. Somers, Founder and Headmistress</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_989f3eabc6f92cbe3ee51a3bb2f73fd7" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_56a9bf472c6ea6493ded6c2d2b057ce4" parent="aspace_989f3eabc6f92cbe3ee51a3bb2f73fd7" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref107_07t" level="file">
+        <did>
+          <unittitle>Mount Vernon Today [loose]</unittitle>
+          <unitdate datechar="creation" normal="2000/2004" type="inclusive">2000-2004</unitdate>
+          <container id="aspace_2f50030b08f9076607a174fa2082adac" label="Mixed Materials [GW: 32882019245540]" type="Box">UP0002</container>
+          <container id="aspace_f610834eb161e618dcf41919347ebd83" parent="aspace_2f50030b08f9076607a174fa2082adac" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref111_o1h" level="file">
+        <did>
+          <unittitle>Sunshine Lady Foundation</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">11/14/2001</unitdate>
+          <container id="aspace_f2900780a2f857b42df00d58d1e832cf" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_77733338e0670408ad56f6b27a33450b" parent="aspace_f2900780a2f857b42df00d58d1e832cf" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref112_s3f" level="file">
+        <did>
+          <unittitle>Valeria Symington</unittitle>
+          <unitdate datechar="creation" normal="1974/1991" type="inclusive">1974-1991</unitdate>
+          <container id="aspace_62f8e915a9bc31b7228c645d9d20e108" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_889e21a359bc8e1fdc02794c840c55d5" parent="aspace_62f8e915a9bc31b7228c645d9d20e108" type="Folder">3</container>
+        </did>
+        <accessrestrict id="aspace_59873fc40806a4ec6b388c740d5b27da">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_101114de153ebd60a8a6dff6f7bf0527">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref122_q01" level="file">
+        <did>
+          <unittitle>MVC Newsletters FY '98-'99</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_65e41793fcdc694df04e0fc6e0d2a948" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_9146bc737f81e9dbf4fb8366acf0bde9" parent="aspace_65e41793fcdc694df04e0fc6e0d2a948" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref123_j2v" level="file">
+        <did>
+          <unittitle>Mount Vernon Today '99-'00</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_f960cfea09fec9a334a892d7f854791f" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_269bf81df40f0a55d1a821e3c00fdf2b" parent="aspace_f960cfea09fec9a334a892d7f854791f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref127_0st" level="file">
+        <did>
+          <unittitle>Sprague, R. Lee Thorndike, C'60</unittitle>
+          <unitdate datechar="creation" normal="1964/1979" type="inclusive">1964-1979</unitdate>
+          <container id="aspace_8f2e83cdab73ee98eb549901d934a8fc" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_fd30e7378bda33cbc9626ed61db4f077" parent="aspace_8f2e83cdab73ee98eb549901d934a8fc" type="Folder">9</container>
+        </did>
+        <accessrestrict id="aspace_3e781fba395fb1827e9f58b4b32c57a7">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_99444c6d83c17175ce4b2215645fe677">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref133_hy5" level="file">
+        <did>
+          <unittitle>IRS Audit </unittitle>
+          <unitdate datechar="creation" normal="1996/2001" type="inclusive">1996-2001</unitdate>
+          <container id="aspace_4e3ab86d00fedb52e7da92f9d23d2792" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_081e9fc4abdea7a7687025bd2cc8de86" parent="aspace_4e3ab86d00fedb52e7da92f9d23d2792" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref134_ihv" level="file">
+        <did>
+          <unittitle>Women in Power Residential Program</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_0db8098fa08d35aae59f439347746840" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_6ed584e1123eee0f0e96f00cb80dbce9" parent="aspace_0db8098fa08d35aae59f439347746840" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref135_o8c" level="file">
+        <did>
+          <unittitle>Academic Program Leadership Advisory</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container id="aspace_46fc1f6b09ca995f05af65cf7b90336e" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_0566504b35f00665bde965ea799f7bb7" parent="aspace_46fc1f6b09ca995f05af65cf7b90336e" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref136_mte" level="file">
+        <did>
+          <unittitle>North Carolina and South Carolina [Alumnae]</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_1d388af442377ebe9ef449ac054504fa" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_041e9527749a8df2adfa8f7a0a22d293" parent="aspace_1d388af442377ebe9ef449ac054504fa" type="Folder">14</container>
+        </did>
+        <accessrestrict id="aspace_1e234f0b41d943619c8fa6174d5a11fc">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_cdf8602a4df8f56a441e5d3bab462d24">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref139_kcs" level="file">
+        <did>
+          <unittitle>Erica Heden Scholarship</unittitle>
+          <unitdate datechar="creation" normal="1984/2002" type="inclusive">1984-2002</unitdate>
+          <container id="aspace_20c472a5c0b356928f8d5635f22f37d9" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_a70e443a67b3c29aaca33935dcff6239" parent="aspace_20c472a5c0b356928f8d5635f22f37d9" type="Folder">15</container>
+        </did>
+        <accessrestrict id="aspace_14753559144686a0335dc625c5ec0f26">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_51af3efc9a3c0032e33530e62bb9448c">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref144_4cn" level="file">
+        <did>
+          <unittitle>Pending Resolution Banner Projects</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_387ef8e6788dae108b638e27978cf047" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_4197b09be5004a70c7035ecf5bb6b68e" parent="aspace_387ef8e6788dae108b638e27978cf047" type="Folder">16</container>
+        </did>
+        <accessrestrict id="aspace_70de838a2adba807e692b5ff9e838c3d">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_69fce4cd2e5c7f2729e45fc4936585f2">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref145_qu6" level="file">
+        <did>
+          <unittitle>Chart of Accounts</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_d51370dc0ca937118322dc759a9048b0" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_a348b94ba024c7c24dfae30b3be2b9c8" parent="aspace_d51370dc0ca937118322dc759a9048b0" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref146_d56" level="file">
+        <did>
+          <unittitle>Misc. Office Expenses</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_958db4140a5114535f01d51103e7e404" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_743309115ad6913849cc7abd2f366be6" parent="aspace_958db4140a5114535f01d51103e7e404" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref147_i9w" level="file">
+        <did>
+          <unittitle>Ground Breaking 04/26/2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">04/26/2000</unitdate>
+          <container id="aspace_eea9854104a47f227ac62dba4ea519bf" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_e997e5ba4f43539019c19c8ac5ccf989" parent="aspace_eea9854104a47f227ac62dba4ea519bf" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref148_z2o" level="file">
+        <did>
+          <unittitle>Campaign Celebration, April 26, 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">04/26/2000</unitdate>
+          <container id="aspace_69014ef068bffa7ead5d5119f34b8ece" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_940614abbeb92c87a671bbe9da4f46e2" parent="aspace_69014ef068bffa7ead5d5119f34b8ece" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref149_7ba" level="file">
+        <did>
+          <unittitle>Major Gifts Conference for Deans 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_38926062c9b28cc411582b44e6d88905" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_ab9c11aaed6e25e933c5cc299bc491a5" parent="aspace_38926062c9b28cc411582b44e6d88905" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref150_bpq" level="file">
+        <did>
+          <unittitle>Tennis Classic</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">05/30/1998</unitdate>
+          <container id="aspace_a529ca6cfc22dfb41b4ad2182f046194" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_43e74a16bc59ae336883417f08381220" parent="aspace_a529ca6cfc22dfb41b4ad2182f046194" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref151_p8k" level="file">
+        <did>
+          <unittitle>2000 Tennis Classic</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">05/12/2000</unitdate>
+          <container id="aspace_2074082793976bb07092e1ec8533399b" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_469605488dc706a441bee0f734e06bcf" parent="aspace_2074082793976bb07092e1ec8533399b" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref153_br3" level="file">
+        <did>
+          <unittitle>England [Alumnae]</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_bc486f0ac338d208ca01f38b1544da3d" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_24ff9ef6bd380f0e86b00b3f6393b1c5" parent="aspace_bc486f0ac338d208ca01f38b1544da3d" type="Folder">32</container>
+        </did>
+        <accessrestrict id="aspace_1860304ca5701c96e58ee33b547e84eb">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_d4882ed0dd8a1831f305d818cbd38373">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref155_0uf" level="file">
+        <did>
+          <unittitle>New England [Alumnae] </unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">Fall 1999</unitdate>
+          <container id="aspace_95b8d01dd7c4c509b6cb1f72e2f2752a" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_939f57952ad8857e89171a42a5efffb7" parent="aspace_95b8d01dd7c4c509b6cb1f72e2f2752a" type="Folder">33</container>
+        </did>
+        <accessrestrict id="aspace_e79632ab02757da10bda6b84c551d654">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_9a8beeef29ea2c20dba7e58387f819f8">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref157_8xj" level="file">
+        <did>
+          <unittitle>South America [Alumnae]</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_bd16e1e912324f1a65c01e4cba307419" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_33eabb306e31398381a87e3df60a34aa" parent="aspace_bd16e1e912324f1a65c01e4cba307419" type="Folder">34</container>
+        </did>
+        <accessrestrict id="aspace_5b17488f1be7ab3d2a746b190d3aea62">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_3f2ffa85a98c56a6419aab045a499a56">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref159_lm9" level="file">
+        <did>
+          <unittitle>California [Alumnae]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">04/1999</unitdate>
+          <container id="aspace_f1e06d9aa29298fe691f530193afba0e" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_e2a6480dcb6a2c84e0c4d5c6b4e104df" parent="aspace_f1e06d9aa29298fe691f530193afba0e" type="Folder">35</container>
+        </did>
+        <accessrestrict id="aspace_1728b05f264686d937746a940cf0133c">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_d90c2dfbf829d4a033a90a46ac7ebc3e">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref161_tsi" level="file">
+        <did>
+          <unittitle>Pennsylvania [Alumane]</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">02/2001</unitdate>
+          <container id="aspace_09de7294e5595457e33ec2b2b585d85d" label="Mixed Materials [GW: 32882019245557]" type="Box">UP0003</container>
+          <container id="aspace_4c5b1d7ac12d16621c28604870c0febd" parent="aspace_09de7294e5595457e33ec2b2b585d85d" type="Folder">36</container>
+        </did>
+        <accessrestrict id="aspace_3e55b88180fed4648de3d2e7dff4c574">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_17e17612de9ac672ffd5c4da06e73b46">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref168_csi" level="file">
+        <did>
+          <unittitle>Legacy Weekend 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">11/05/1999-11/07/1999</unitdate>
+          <container id="aspace_22ab311a3cf1572a88b2c7bef584663c" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_89c88ba96114b0c0d9722d93c023e389" parent="aspace_22ab311a3cf1572a88b2c7bef584663c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref169_iey" level="file">
+        <did>
+          <unittitle>Legacy Weekend 2001</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">04/04/2001</unitdate>
+          <container id="aspace_ece655c62a7ed6afb27d857454d9beb1" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_c24b150764eaad8821f970a1b563dd08" parent="aspace_ece655c62a7ed6afb27d857454d9beb1" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref170_c5s" level="file">
+        <did>
+          <unittitle>Legacy Weekend, Homecoming 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_21d1040d0df59a798ea820363d1bc767" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_15f540f89c90c193e2d7da297fac28c2" parent="aspace_21d1040d0df59a798ea820363d1bc767" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref171_tx1" level="file">
+        <did>
+          <unittitle>FY '99-'00 Budget</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_37d4c7ff033e9794d1dcbee83c77b8f0" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_9ac14ea4428bd5194fbbebaeac044dfe" parent="aspace_37d4c7ff033e9794d1dcbee83c77b8f0" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref172_liw" level="file">
+        <did>
+          <unittitle>FY '00-'01 Budget</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_5f54d9b7f482effb6e58c0a198d98079" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_527af281c2bf45b9ad55a34f8cd5a5eb" parent="aspace_5f54d9b7f482effb6e58c0a198d98079" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref173_1oh" level="file">
+        <did>
+          <unittitle>Pub File</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_449bfb46dad6ba7a1380b01950cdd514" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_0839f010ab9dc5ae8393609bf1621f48" parent="aspace_449bfb46dad6ba7a1380b01950cdd514" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref174_upz" level="file">
+        <did>
+          <unittitle>April 2002 Alumnae Events</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">04/2002</unitdate>
+          <container id="aspace_5e771b804859b4c74b3769c77f7ce507" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_c01f17136b7d8d42c8642f5213c1f04e" parent="aspace_5e771b804859b4c74b3769c77f7ce507" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref175_1qw" level="file">
+        <did>
+          <unittitle>Mount Vernon Today 1997-2000</unittitle>
+          <unitdate datechar="creation" normal="1997/2000" type="inclusive">1997-2000</unitdate>
+          <container id="aspace_27e0e3d665b9465e6ba927b7c366091e" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_9d958f045a3352350477f87f6f0ae77e" parent="aspace_27e0e3d665b9465e6ba927b7c366091e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref176_qzj" level="file">
+        <did>
+          <unittitle>Historic Photos (Copies)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e006e426314cfd3de875d6e56200865a" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_bafde7a01fc63d468038475e8b81ee28" parent="aspace_e006e426314cfd3de875d6e56200865a" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref177_4mb" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Summer 2002/Legacy Fund</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_0dbcd038953a4cfb2a33d7a4eb0345b5" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_26208d28eff45fd673995334ab63b8b4" parent="aspace_0dbcd038953a4cfb2a33d7a4eb0345b5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref178_8cl" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Winter 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_2a370c659f96d2f63ccfca09c27e7a28" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_49b4a19cdc8932775d408ddf72592530" parent="aspace_2a370c659f96d2f63ccfca09c27e7a28" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref179_rrz" level="file">
+        <did>
+          <unittitle>Lost MV alums 2000, 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_48c5e5bb09ba75cfeaf1c95e072b4b9a" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_3e596af517434809e3b5a77f902788ef" parent="aspace_48c5e5bb09ba75cfeaf1c95e072b4b9a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref180_e51" level="file">
+        <did>
+          <unittitle>Hillwood - November 3, 2001</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">11/03/2001</unitdate>
+          <container id="aspace_e9eb1f98259e18fbf02418a28a1816ed" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_46080035acc5225b096faf5943183cf6" parent="aspace_e9eb1f98259e18fbf02418a28a1816ed" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref181_pkg" level="file">
+        <did>
+          <unittitle>Former Trustees</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_3f38709d10fcdd2448b7bfdeca3aaefc" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_3e9740f7051eac8ebfab1d34217481b3" parent="aspace_3f38709d10fcdd2448b7bfdeca3aaefc" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref182_nw0" level="file">
+        <did>
+          <unittitle>2001 Honor Roll Documents</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_c27cab9f9deadd5c4c610eeed39b91a9" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_c1f1634c818b67179dea1410373c4c95" parent="aspace_c27cab9f9deadd5c4c610eeed39b91a9" type="Folder">15</container>
+        </did>
+        <accessrestrict id="aspace_3ae6edc12244fd99d6c253228f49a9bb">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_bbfeb14863976d0d7e0f80f82d74bc09">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref185_3th" level="file">
+        <did>
+          <unittitle>Centuries Campaign Report FY 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_89cb2de21a3558432df98e7a1e2476d0" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_cd9ed18cf19dcfbcaa31346cb4b16d62" parent="aspace_89cb2de21a3558432df98e7a1e2476d0" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref186_oaf" level="file">
+        <did>
+          <unittitle>Annual Fund Report FY 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_078a8eef494113853ca83e642fa39b45" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_433121642e7829ea28775ea50e0e275e" parent="aspace_078a8eef494113853ca83e642fa39b45" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref187_166" level="file">
+        <did>
+          <unittitle>MVC Promotional Text</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_513a17fdfac65c925af314e9e6ea1dfa" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_06dba29647eecac56828d7d6f6adfca2" parent="aspace_513a17fdfac65c925af314e9e6ea1dfa" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref188_1w9" level="file">
+        <did>
+          <unittitle>Williamson/Hurlbut Clock Tower</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_8d07f6952f81f3f067205abf2be1bc43" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_92b2670dff99477ac008a8e354d6caf3" parent="aspace_8d07f6952f81f3f067205abf2be1bc43" type="Folder">19</container>
+        </did>
+        <accessrestrict id="aspace_1e9eaa56d1772d028c3cc908f1fb8ff6">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_9dd085bbfd449b87c06d8295a0c06eb5">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref191_3hl" level="file">
+        <did>
+          <unittitle>SARC Winter Soiree</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">02/21/2003</unitdate>
+          <container id="aspace_d9a205481d7c8a1a1802f0b87c78ee24" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_e674998ad603764a65bfc5efd9a87ca6" parent="aspace_d9a205481d7c8a1a1802f0b87c78ee24" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref192_o8p" level="file">
+        <did>
+          <unittitle>MVAA Governing Board Meeting</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">03/22/2003</unitdate>
+          <container id="aspace_541388ebbbd0a613a3c90272dfdb4c47" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_68da09aed0c93517ba736e65933a8f82" parent="aspace_541388ebbbd0a613a3c90272dfdb4c47" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref193_fto" level="file">
+        <did>
+          <unittitle>Women's History Month Lecture</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">03/26/2003</unitdate>
+          <container id="aspace_716e1898018b12de3eed8f5233d63d95" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_985a9cbc632a97e86cb411cca2b22b89" parent="aspace_716e1898018b12de3eed8f5233d63d95" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref194_mrm" level="file">
+        <did>
+          <unittitle>Barbara Goodbody Exhibition</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">04/10/2003</unitdate>
+          <container id="aspace_d72119fc52ef014be256de2f4d72958e" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_806e3ddd80715c85179aac6ba5ab2a13" parent="aspace_d72119fc52ef014be256de2f4d72958e" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref195_kby" level="file">
+        <did>
+          <unittitle>Cocktail Reception Event</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">04/04/2003</unitdate>
+          <container id="aspace_fed2c0b2d817f3ef894e5d94f60bff58" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_a64e033d39a2d97afc46b3ca4d2bb5eb" parent="aspace_fed2c0b2d817f3ef894e5d94f60bff58" type="Folder">24</container>
+        </did>
+        <accessrestrict id="aspace_4f1ab52b9a9388e06ba206d73ea777a1">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_496e999a5b22d0f65ee0bee8ccaa567f">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref198_qav" level="file">
+        <did>
+          <unittitle>Colonials Weekend</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">10/11/2002-10/12/2002</unitdate>
+          <container id="aspace_1db1a4145857dfd9162adf5af0fa4a5e" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_0376806ec8afabbc7b6e2eef64fa380e" parent="aspace_1db1a4145857dfd9162adf5af0fa4a5e" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref199_4m1" level="file">
+        <did>
+          <unittitle>Shannon Mouton - Payment Requests FY '03</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_b18df376ea20451bfae60d3bab6b90bb" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_3a96cadd566ed97f36d92e4db60cd2eb" parent="aspace_b18df376ea20451bfae60d3bab6b90bb" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref200_y00" level="file">
+        <did>
+          <unittitle>Non-Cash Gifts 2001</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_608c6d156805ff7fc38bc80a2ac796a6" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_747f5810a4251d00576e1aa33411ce63" parent="aspace_608c6d156805ff7fc38bc80a2ac796a6" type="Folder">27</container>
+        </did>
+        <accessrestrict id="aspace_e098e5e1cc353f415857177061a04f87">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_a670cde0eabc02e0a3195c241b9f1de3">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref203_bs3" level="file">
+        <did>
+          <unittitle>Shannon Mouton - Payment Requests FY '03</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_fd1f90724f365e1a7da5ab66fee721d1" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_323fa3f95045bf931b2f6a900b4b91f5" parent="aspace_fd1f90724f365e1a7da5ab66fee721d1" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref204_agw" level="file">
+        <did>
+          <unittitle>FY '02 End of Year Expenses</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_f69091b9e94225efbbb675822d9be1fb" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_33a6c5a9f0f9f44b416d8e037ca67fd4" parent="aspace_f69091b9e94225efbbb675822d9be1fb" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref205_4c0" level="file">
+        <did>
+          <unittitle>Acheson P-Fund Creation</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_6d0631a7f03fc17798c7b874cd97e33a" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_f96e0659394c3ea90d01a80df8a1f265" parent="aspace_6d0631a7f03fc17798c7b874cd97e33a" type="Folder">30</container>
+        </did>
+        <accessrestrict id="aspace_10e0ac38ce98432acdacf93de2807be2">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_bd3bd510c5a6e9d581b5ca1443238a9f">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref211_8yb" level="file">
+        <did>
+          <unittitle>Dickerson, Mary T.</unittitle>
+          <unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate>
+          <container id="aspace_105186ee8e9270cc87d133a0103e6da8" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_6a30f223cbba43cc6f036c7c1a0df4bd" parent="aspace_105186ee8e9270cc87d133a0103e6da8" type="Folder">32</container>
+        </did>
+        <accessrestrict id="aspace_5880d7eb976558958c615c85c74463ee">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_53f6606e93151957f47228ea8751023d">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref215_mdm" level="file">
+        <did>
+          <unittitle>Fernau, Anna</unittitle>
+          <unitdate datechar="creation" normal="1998/2004" type="inclusive">1998-2004</unitdate>
+          <container id="aspace_d360c7f3277814d980aa4651efdadfdc" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_ce0e76bbc1f52a35ee26c87dabc2a7c2" parent="aspace_d360c7f3277814d980aa4651efdadfdc" type="Folder">33</container>
+        </did>
+        <accessrestrict id="aspace_1247f9fd7d2db7552d3566c3d327021a">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_fa68d24ed8076682d48ea8c78175f5c0">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref220_zis" level="file">
+        <did>
+          <unittitle>Foggy Bottom Move</unittitle>
+          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+          <container id="aspace_9fb6948bdc869296d7833d83bfcef78c" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_68a1bc6fa351808f47178ca30b7fee3d" parent="aspace_9fb6948bdc869296d7833d83bfcef78c" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref221_idg" level="file">
+        <did>
+          <unittitle>Strategic Planning Meeting</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">07/21/2001</unitdate>
+          <container id="aspace_7846fcbcff1f3b41af2123e63e4ae813" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_bd33a61d179a45542a916b94106dd60b" parent="aspace_7846fcbcff1f3b41af2123e63e4ae813" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref225_9en" level="file">
+        <did>
+          <unittitle>Ruth Harris Ottman Trust</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_eea417119af2153ab3b7cf7a560767f7" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_a7835d36df11635e9bbebd8017054778" parent="aspace_eea417119af2153ab3b7cf7a560767f7" type="Folder">39</container>
+        </did>
+        <accessrestrict id="aspace_4629fef830153d4ae03cd6bab3d19956">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_38784ee70308abcbf332fa99be00d429">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref227_g2o" level="file">
+        <did>
+          <unittitle>Elizabeth Somers Center</unittitle>
+          <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+          <container id="aspace_251def45b68d4d750079c12d4e383a3c" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_7e835c46299017634b512bbbd72397a9" parent="aspace_251def45b68d4d750079c12d4e383a3c" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref228_9xa" level="file">
+        <did>
+          <unittitle>Elizabeth Somers Womens Leadership Programs</unittitle>
+          <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+          <container id="aspace_e721c9e6e79300e10d1c1ba8b24d69c9" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_ac327b22bd567b910a14e006c2958bd5" parent="aspace_e721c9e6e79300e10d1c1ba8b24d69c9" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref229_itr" level="file">
+        <did>
+          <unittitle>Elizabeth Somers Portrait</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">08/08/2000</unitdate>
+          <container id="aspace_42e1766a561edbde2125026f4a0cdb87" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_7a31251ee7c030db0622afd120e770fe" parent="aspace_42e1766a561edbde2125026f4a0cdb87" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref230_spq" level="file">
+        <did>
+          <unittitle>Internet</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">08/05/1995</unitdate>
+          <container id="aspace_b12e17943b1a13bfe866ce9c395f4cd5" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_da35519462acc5676fc6ae8e90d5a073" parent="aspace_b12e17943b1a13bfe866ce9c395f4cd5" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref231_94v" level="file">
+        <did>
+          <unittitle>MVC Faculty Lawsuit</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">03/02/2001</unitdate>
+          <container id="aspace_ce346af92b576d077902525bff254f74" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_44d5a5b1eef4c8eca8a07a762ff578a6" parent="aspace_ce346af92b576d077902525bff254f74" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref232_8a5" level="file">
+        <did>
+          <unittitle>Iconic</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">02/12/2002</unitdate>
+          <container id="aspace_b7cf934cf7af879c013d08e9ce60b72a" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_3daca628444816553e4be422e2933729" parent="aspace_b7cf934cf7af879c013d08e9ce60b72a" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref233_ksp" level="file">
+        <did>
+          <unittitle>Pledge Forms</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9086588886ebc4c40f66b10e9caf6871" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_d28d7e8705125a78acc3c6b856dba5a7" parent="aspace_9086588886ebc4c40f66b10e9caf6871" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref234_tgm" level="file">
+        <did>
+          <unittitle>Marjorie Merriweather Post Foundation</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_ce42587033966f79e4c8de4f5897dccd" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_ec4ba425ec39a104d78bd1b9b70f9132" parent="aspace_ce42587033966f79e4c8de4f5897dccd" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref235_4bw" level="file">
+        <did>
+          <unittitle>Marjorie Merriweather Post Hillwood Museum</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_78647ce2be048fb969fe99f2e06c3c18" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_a8d2d24a9adc78f1e6b8d5eeb0200c0c" parent="aspace_78647ce2be048fb969fe99f2e06c3c18" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref236_cyw" level="file">
+        <did>
+          <unittitle>Webb Basement/File Room Mold Remediation</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">06/07/2002</unitdate>
+          <container id="aspace_411a5d891afb5d046d038db9b3ecb674" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_961de34717301df52b4d03c8df6df403" parent="aspace_411a5d891afb5d046d038db9b3ecb674" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref238_fk3" level="file">
+        <did>
+          <unittitle>IN-Series 1998-1999</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_dd9c0ff5381a4f928188a02f74294a30" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_341c1853b718094649feafd79f473f4f" parent="aspace_dd9c0ff5381a4f928188a02f74294a30" type="Folder">50</container>
+        </did>
+        <accessrestrict id="aspace_0b3ead93ac9dc57b9ed4b244a37cfd05">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_b17285dceeda90af1328015866bad293">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref240_04j" level="file">
+        <did>
+          <unittitle>Newsletter Samples</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">01/1998</unitdate>
+          <container id="aspace_f510c8e6d0d9e2a6b3f62d8fad130fc1" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_8afa64219783dbeae3090ad0cdb7ae74" parent="aspace_f510c8e6d0d9e2a6b3f62d8fad130fc1" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref241_ux2" level="file">
+        <did>
+          <unittitle>Mount Vernon Today 2000-2001</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_7963520c118b92a27ece9b17350d75a1" label="Mixed Materials [GW: 32882019245565]" type="Box">UP0004</container>
+          <container id="aspace_a1197cf42f44ca0d03b81fbfdd110460" parent="aspace_7963520c118b92a27ece9b17350d75a1" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref242_8tf" level="file">
+        <did>
+          <unittitle>MVC Development Audits</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">11/03/1999</unitdate>
+          <container id="aspace_be18b7e488d5b9b10fc86754a337bc24" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_e4f9e0d86ee34c0cd78743869679d5e8" parent="aspace_be18b7e488d5b9b10fc86754a337bc24" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref243_v3t" level="file">
+        <did>
+          <unittitle>Development Audit</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_5c12b887ff947b0a688b2b68ebf89c36" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_467e637ed74f995691a20b51b349c0e8" parent="aspace_5c12b887ff947b0a688b2b68ebf89c36" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref244_ry7" level="file">
+        <did>
+          <unittitle>Development Audit</unittitle>
+          <unitdate datechar="creation" normal="1993/1997" type="inclusive">1993-1997</unitdate>
+          <container id="aspace_5abe6c24314a0d9b3b155952966e5794" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_5a3a04e452083ad7648c03e00ce72eea" parent="aspace_5abe6c24314a0d9b3b155952966e5794" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref245_l9s" level="file">
+        <did>
+          <unittitle>Current Restricted Fund</unittitle>
+          <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container id="aspace_96358db38da87df5ddf9ecc82c0acb7f" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_62403b3be27e85940c5b1f761764eb73" parent="aspace_96358db38da87df5ddf9ecc82c0acb7f" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref246_4e4" level="file">
+        <did>
+          <unittitle>Recap of Endowment Funds</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container id="aspace_73a662edf5b21446e92950a9c3ccf528" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_76bbf8bb3589436bf1bdf6bc127107b0" parent="aspace_73a662edf5b21446e92950a9c3ccf528" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref247_qn5" level="file">
+        <did>
+          <unittitle>Lillie F. Webb/Library Authorization</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container id="aspace_9ffadf4969fcd2cea5f3294397631811" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_b4834ced32673af313033e161c209612" parent="aspace_9ffadf4969fcd2cea5f3294397631811" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref248_814" level="file">
+        <did>
+          <unittitle>Mount Vernon Building and Dedications</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_dcd0e8030b3b206c402b014e8fc168c0" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_5a89310a5e5a8499b928f82cfea9f988" parent="aspace_dcd0e8030b3b206c402b014e8fc168c0" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref258_5hg" level="file">
+        <did>
+          <unittitle>FY '99-'00 Annual Fund</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_75c4be1009a2f7f059cc0a074dffa586" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_a15c499cab1aac5da74c0a806c044f0f" parent="aspace_75c4be1009a2f7f059cc0a074dffa586" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref259_ee7" level="file">
+        <did>
+          <unittitle>FY '99 MVC Annual Fund</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_3c3af5b9f76c18a69893f9ddf4f02900" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_e7fa1bcc12ae69f51e00ca60a9e2c63d" parent="aspace_3c3af5b9f76c18a69893f9ddf4f02900" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref260_3rj" level="file">
+        <did>
+          <unittitle>FY '00-'01 Legacy Fund</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_abf2ae7ef4e5b77e8cc90b03bf655c81" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_b03119e2b6d84383db847e3a2caefdc1" parent="aspace_abf2ae7ef4e5b77e8cc90b03bf655c81" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref261_twn" level="file">
+        <did>
+          <unittitle>FY '98 MVC Annual Fund</unittitle>
+          <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <container id="aspace_7563663874f61f77a1ebb39edf863254" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_45dcbe187e14888d5c0aeb90147ca50d" parent="aspace_7563663874f61f77a1ebb39edf863254" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref262_6qj" level="file">
+        <did>
+          <unittitle>Jan 21, 2003 Reception at Dean Baxter's</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">01/21/2003</unitdate>
+          <container id="aspace_177aafa6c97954df5a9d8dd157497c65" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_4d710a5bae937b0589144e2b8a27354b" parent="aspace_177aafa6c97954df5a9d8dd157497c65" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref266_kb3" level="file">
+        <did>
+          <unittitle>Oracle</unittitle>
+          <unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate>
+          <container id="aspace_f066e5a325c78ab5c5fb2f955ee43c48" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_8bd80e4498f50bb72182b3c0f385117e" parent="aspace_f066e5a325c78ab5c5fb2f955ee43c48" type="Folder">17</container>
+        </did>
+        <accessrestrict id="aspace_442e567a79bc95ad0019f32d0cd9d263">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_b0ed77859b05d6e55e8594733656df0a">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref272_pyz" level="file">
+        <did>
+          <unittitle>Mount Vernon Today Fall 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_599c30da8f56458a88edb9d927cd1357" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_35ddf461ee38aba9db142941afec16e5" parent="aspace_599c30da8f56458a88edb9d927cd1357" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref273_lw9" level="file">
+        <did>
+          <unittitle>Mount Vernon Today 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_bc4d666c98663298b4c02ed900344205" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_99629576a37122dcd30f8c610575fdd7" parent="aspace_bc4d666c98663298b4c02ed900344205" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref274_9e0" level="file">
+        <did>
+          <unittitle>Nov 15 Luncheon</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">11/15/2003</unitdate>
+          <container id="aspace_c155943d1686f55ce3fbe10a668fc1ab" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_1cf6cabe89a224dc6613dc0b010f9896" parent="aspace_c155943d1686f55ce3fbe10a668fc1ab" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref275_j22" level="file">
+        <did>
+          <unittitle>NCAS Nov 14 Dinner</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">11/14/2003</unitdate>
+          <container id="aspace_a0235832cffc260fbb3fa26c3f9d5389" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_617eeb19487aceb2debea0f3103eb033" parent="aspace_a0235832cffc260fbb3fa26c3f9d5389" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref276_foh" level="file">
+        <did>
+          <unittitle>Colonials Weekend 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_4f0ba6bd56de66153fa585376af6265e" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_4db40e1051ae1756788e83b1e0bcb423" parent="aspace_4f0ba6bd56de66153fa585376af6265e" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref277_n40" level="file">
+        <did>
+          <unittitle>NCAS Nov 15</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">11/15/2003</unitdate>
+          <container id="aspace_56d03611ddeb26bea329536c5f432c19" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_3094eb85dad0698aff6e3686ed3e63a4" parent="aspace_56d03611ddeb26bea329536c5f432c19" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref278_k29" level="file">
+        <did>
+          <unittitle>NCAS Meetings Aug. 25-26</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">08/25/2003-08/26/2003</unitdate>
+          <container id="aspace_05f03cb65c41624cceb266f7865a111b" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_b1e3c36276d8aab0e16ac8758c35578a" parent="aspace_05f03cb65c41624cceb266f7865a111b" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref279_a1g" level="file">
+        <did>
+          <unittitle>Boston Trip 2003</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container id="aspace_be35f228ac06aed5280d942bff00a871" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_cf826c8635fc15068aa31fe8a070375e" parent="aspace_be35f228ac06aed5280d942bff00a871" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref280_w6g" level="file">
+        <did>
+          <unittitle>April 27 2003 Senior Tea</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">04/27/2003</unitdate>
+          <container id="aspace_76fa6c460bfc708cba3fea8fb148cd84" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_0c3bae2a38579e660fbacd5cf238b1e0" parent="aspace_76fa6c460bfc708cba3fea8fb148cd84" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref281_5xc" level="file">
+        <did>
+          <unittitle>Council for MV Oct 11</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">10/11/2002</unitdate>
+          <container id="aspace_d9b51e8cc03e93bfe0a46e9c56c4abe4" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_5e722be6c949e2736a3f9068cf14eea1" parent="aspace_d9b51e8cc03e93bfe0a46e9c56c4abe4" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref282_4ln" level="file">
+        <did>
+          <unittitle>Mold FY '02</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_570e107a419ba350078d1d419f8d07c6" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_195dc0074313932cce3b2d974e862065" parent="aspace_570e107a419ba350078d1d419f8d07c6" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref284_yui" level="file">
+        <did>
+          <unittitle>Council for MV - Oct 11, 2002</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">10/11/2002</unitdate>
+          <container id="aspace_f4c715cd1d931fec9c4313872d1484a9" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_52477769b6ee0af9604e23b9ea69bc4c" parent="aspace_f4c715cd1d931fec9c4313872d1484a9" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref285_lgk" level="file">
+        <did>
+          <unittitle>June 2002 Council Meeting</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">06/2002</unitdate>
+          <container id="aspace_12962296ce985c11e27ac5675fb65b16" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_c1f7edb86dbeb9d713537867508352e5" parent="aspace_12962296ce985c11e27ac5675fb65b16" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref286_1k0" level="file">
+        <did>
+          <unittitle>March 2001 Council Meeting</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">03/2001</unitdate>
+          <container id="aspace_d84fa84e2831c4958f897b5b1b02ad1d" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_695cff9e851b98588de89ccbff554c2f" parent="aspace_d84fa84e2831c4958f897b5b1b02ad1d" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref287_qc0" level="file">
+        <did>
+          <unittitle>June 2001 Council Meeting</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">06/2001</unitdate>
+          <container id="aspace_36a1ddaed2407e1c442c9343284f625f" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_4f47757865a0c237f0aaf50726cfc567" parent="aspace_36a1ddaed2407e1c442c9343284f625f" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref288_ia6" level="file">
+        <did>
+          <unittitle>Council Meeting, January 30, 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">01/30/1999</unitdate>
+          <container id="aspace_2d2e87c37b02ff54ce614f75a9ce8949" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_2153fd52eb72a3e11cfef3f154c447e8" parent="aspace_2d2e87c37b02ff54ce614f75a9ce8949" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref289_oe4" level="file">
+        <did>
+          <unittitle>Council Meeting, May 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">05/1999</unitdate>
+          <container id="aspace_4519325da8ffe471c38ea79621b4e943" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_4ce9f3bbd82508e82b2a858a479036ac" parent="aspace_4519325da8ffe471c38ea79621b4e943" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref290_901" level="file">
+        <did>
+          <unittitle>Fall 1999 Council Meeting</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_f118efb6170884b90844f2a7983e9603" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_f13db703459f16a88cd7d28539bba72d" parent="aspace_f118efb6170884b90844f2a7983e9603" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref291_yvh" level="file">
+        <did>
+          <unittitle>September 1999, Council Peer Screening</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">09/1999</unitdate>
+          <container id="aspace_28e1833658c44a8ef894ea69d59315b3" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_de136476a56e34e4e277f7f3ebac930c" parent="aspace_28e1833658c44a8ef894ea69d59315b3" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref292_m65" level="file">
+        <did>
+          <unittitle>Commencement 1999</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_270460ed49803fe3c810f2fbf84ac81e" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_9cc9556bb50451af3a04349e49a3fb75" parent="aspace_270460ed49803fe3c810f2fbf84ac81e" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref293_2bo" level="file">
+        <did>
+          <unittitle>History Project Response Cards</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_6e457e91c5e10c19fab063c4a74c56f5" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_0ed69397ff9d999d1113a0960f26f1bc" parent="aspace_6e457e91c5e10c19fab063c4a74c56f5" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref294_p3z" level="file">
+        <did>
+          <unittitle>MVC Honorary Degree Recipients</unittitle>
+          <unitdate datechar="creation" normal="1975/1999" type="inclusive">1975-1999</unitdate>
+          <container id="aspace_cb8a547eb486411ac92f6c5cf4802d9e" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_bcfbd38d04074f56eda124de57256771" parent="aspace_cb8a547eb486411ac92f6c5cf4802d9e" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref295_bkc" level="file">
+        <did>
+          <unittitle>Honors Program</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_a10bfc0383b606dcde70b85a1dff133b" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_4deb4c2c3d977b8a3d65efe660f0c0f6" parent="aspace_a10bfc0383b606dcde70b85a1dff133b" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref296_on2" level="file">
+        <did>
+          <unittitle>2001 Honor Roll</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container id="aspace_2bf04ab927849359b70cb9027f8d9518" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_c65ed184ccb743a7c0edeb0e054c8aad" parent="aspace_2bf04ab927849359b70cb9027f8d9518" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref297_6eh" level="file">
+        <did>
+          <unittitle>MV Honor Roll FY 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container id="aspace_c6c69a745dde6f7aa91dd42e275af9a1" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_5a6d44aba6b199f7c685bd4ba6ba36fe" parent="aspace_c6c69a745dde6f7aa91dd42e275af9a1" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref298_iii" level="file">
+        <did>
+          <unittitle>Council Meeting</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">03/01/2002</unitdate>
+          <container id="aspace_704a53e941ab11ebd2720ac1c3c85dae" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_1b580fe06c9b2c5067023906784261e3" parent="aspace_704a53e941ab11ebd2720ac1c3c85dae" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref299_4rf" level="file">
+        <did>
+          <unittitle>Lost Alums</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container id="aspace_f8d615fb9edcc01e7d25a207c18ba470" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_9765b44b75f9b1d4113f1c46d3d59cbf" parent="aspace_f8d615fb9edcc01e7d25a207c18ba470" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref300_hdx" level="file">
+        <did>
+          <unittitle>Mount Vernon Today [loose]</unittitle>
+          <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+          <container id="aspace_bcd3590a42f94c9eccb50e1044ff6544" label="Mixed Materials [GW: 32882019245573]" type="Box">UP0005</container>
+          <container id="aspace_ed4f17fec8c9873a15f3a86b33c4ce62" parent="aspace_bcd3590a42f94c9eccb50e1044ff6544" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref301_vhe" level="file">
+        <did>
+          <unittitle>Planning FY '98-'99</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_eaa3e8b07e1f4ef86d347cf385ef67dc" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_79520d77639ca8f594848ca12331cc47" parent="aspace_eaa3e8b07e1f4ef86d347cf385ef67dc" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref302_f1a" level="file">
+        <did>
+          <unittitle>2001-2002 Operating Plan</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_836c9848fd4e8e080dd6bec00630b438" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_6c8fdfffff9504a13ffbdedfe9a8897e" parent="aspace_836c9848fd4e8e080dd6bec00630b438" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref303_jdy" level="file">
+        <did>
+          <unittitle>2002-2003 Operating Plan </unittitle>
+          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+          <container id="aspace_3af74b01e53796e870bbcf16f07cdbe3" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_e9e814971800d340c8f3d5d4f4667a4d" parent="aspace_3af74b01e53796e870bbcf16f07cdbe3" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref304_vph" level="file">
+        <did>
+          <unittitle>FY '99-'00 Operating Plan</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_f4d73c2b946d55a590cf7f34ed3c40c2" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_e75c6e838e3fad8e7a157c9c5c626ad0" parent="aspace_f4d73c2b946d55a590cf7f34ed3c40c2" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref305_b4k" level="file">
+        <did>
+          <unittitle>FY '00-'01 Operating Plan</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_14f5b621b85cbbe7676bb7a6bfbf8d79" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_cd3b4c7bd714d4fefbcddae7ee8c7c71" parent="aspace_14f5b621b85cbbe7676bb7a6bfbf8d79" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref306_2vt" level="file">
+        <did>
+          <unittitle>FY '99-'00 In-Series </unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container id="aspace_81cace3c862087919b4d6fe97fecdbae" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_42c4335b1b725641935918e563f7a634" parent="aspace_81cace3c862087919b4d6fe97fecdbae" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref307_xdi" level="file">
+        <did>
+          <unittitle>Chicago [Alumnae]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container id="aspace_fade20332a8c51e354560d849721faf2" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_45dbb26872d1c3d82ddeff7c36e9aa64" parent="aspace_fade20332a8c51e354560d849721faf2" type="Folder">7</container>
+        </did>
+        <accessrestrict id="aspace_d3bf6975f97f6231bcf6a24e118ec67f">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_b03d2548b7bdd958e8039d74cdaaa2e0">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref310_w1e" level="file">
+        <did>
+          <unittitle>Richmond, Tidewater, etc. Trip July/August 2007</unittitle>
+          <unitdate datechar="creation" normal="2007/2007" type="inclusive">07/2007-08/2007</unitdate>
+          <container id="aspace_02c839f359f597e349d6f4ed68282062" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_e48ee28f573fc7e0b164366cdaea084e" parent="aspace_02c839f359f597e349d6f4ed68282062" type="Folder">8</container>
+        </did>
+        <accessrestrict id="aspace_19e1e20600396b0a3ebd4af97197b1de">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_dbe61d96150e285371e924db007541c8">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref313_mz6" level="file">
+        <did>
+          <unittitle>New York Event October 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">10/2000</unitdate>
+          <container id="aspace_1fdec9172a1d2cc48a6c063f8868d112" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_06b65ee75cab3434ba2ca920ad2a1e11" parent="aspace_1fdec9172a1d2cc48a6c063f8868d112" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref314_b16" level="file">
+        <did>
+          <unittitle>New York/CT/NJ January 2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">01/2000</unitdate>
+          <container id="aspace_9ec4ceba55b5a8029f09b0eeb66463e4" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_b8a5095e77e787ebfbdcaaa14146da4d" parent="aspace_9ec4ceba55b5a8029f09b0eeb66463e4" type="Folder">10</container>
+        </did>
+        <accessrestrict id="aspace_6714ea58efeac535c0ca0fc5582a1d18">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_294682be803825d9c1dfddc59b70fc3a">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref317_kg8" level="file">
+        <did>
+          <unittitle>Texas Receptions 06/2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">06/2000</unitdate>
+          <container id="aspace_15f58e4e0e5a8e23fbea962d03859a72" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_bda2e87852adae1e2daf6541fd7386bd" parent="aspace_15f58e4e0e5a8e23fbea962d03859a72" type="Folder">11</container>
+        </did>
+        <accessrestrict id="aspace_9367e25863e5255f4e271fccd1bb7df9">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_5c111da042cf3766f0870cd9cde2990b">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref320_r69" level="file">
+        <did>
+          <unittitle>South Florida </unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">04/1999</unitdate>
+          <container id="aspace_aeea281fe869581c89286c082e4a79bc" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_77e63a695afe085fc539239dbd72511c" parent="aspace_aeea281fe869581c89286c082e4a79bc" type="Folder">12</container>
+        </did>
+        <accessrestrict id="aspace_0f62f6ae2d49a1f9d0dfe73a1a83576a">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_4b590857d5af48b29e7b496ea68b373b">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref323_v9n" level="file">
+        <did>
+          <unittitle>Florida 3/99-4/99</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">03/1999-04/1999</unitdate>
+          <container id="aspace_8a819cdf4df5e2791da2ef80b49d4f9d" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_bdf7882be2afc82a6352d4d214c9a54e" parent="aspace_8a819cdf4df5e2791da2ef80b49d4f9d" type="Folder">13</container>
+        </did>
+        <accessrestrict id="aspace_eecbc911065c13969fe9f521bb9b3916">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_6a1e7c4765b19477329c75de9c421aec">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref326_5uu" level="file">
+        <did>
+          <unittitle>Florida 3/2000</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">03/2000</unitdate>
+          <container id="aspace_1122b68c9aadcb99b8eca8b66c960067" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_89d59ad2959873ca4992af18e1023a7c" parent="aspace_1122b68c9aadcb99b8eca8b66c960067" type="Folder">14</container>
+        </did>
+        <accessrestrict id="aspace_f85e6aa4e3001f9e4e7523e6cfa179a0">
+          <head>Conditions Governing Access</head>
+          <p>This folder contains potentially confidential information.  Staff should review folder contents prior to serving in reading room.</p>
+        </accessrestrict>
+        <accessrestrict id="aspace_64e04ed9807ba1784faed4349193eaa4">
+          <head>Conditions Governing Access</head>
+          <p>This folder may contain restricted information.  Please see Special Collections staff for assistance.</p>
+        </accessrestrict>
+      </c>
+      <c id="aspace_ref329_chc" level="file">
+        <did>
+          <unittitle>Mount Vernon Campus Photos (March 2004)</unittitle>
+          <unitdate datechar="creation" normal="2004/2004" type="inclusive">03/2004</unitdate>
+          <container id="aspace_b6b111ad16aa638ad9ff2042684d06f3" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_6c80e2730cdba9cec66eab9b080aaf2d" parent="aspace_b6b111ad16aa638ad9ff2042684d06f3" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref330_l6a" level="file">
+        <did>
+          <unittitle>Seals and Logos</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_f14c41e8e5301dd4077cf5017203bdf8" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_eb4a1fdbe49e9176c6d2f9fafd05a46e" parent="aspace_f14c41e8e5301dd4077cf5017203bdf8" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref331_nth" level="file">
+        <did>
+          <unittitle>Council for MVC 1998-1999</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_b2050b0e8573c562eda468314df66f7c" label="Mixed Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_2603b30879e37ed5e4d6bb06f855d188" parent="aspace_b2050b0e8573c562eda468314df66f7c" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref332_5mc" level="file">
+        <did>
+          <unittitle>Centuries Campaign [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b2810eceff3d9bf428da8ac087b7d274" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_bc58e1534a0b798cb3798216fe3da665" parent="aspace_b2810eceff3d9bf428da8ac087b7d274" type="floppy_disk">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref333_j7f" level="file">
+        <did>
+          <unittitle>Proposals 1998-2002 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1998/2002" type="inclusive">1998-2002</unitdate>
+          <container id="aspace_2f96842c2d43ff70b9206907b35f41e4" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_a9c25802fefa2c45f85406bbf910900e" parent="aspace_2f96842c2d43ff70b9206907b35f41e4" type="floppy_disk">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref334_6nd" level="file">
+        <did>
+          <unittitle>Old Sarah Files from Colleague Computer [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_56faffcbf0de3b530f4797ac490a77cc" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_8459d3de6e2325ed000f569401bc7d63" parent="aspace_56faffcbf0de3b530f4797ac490a77cc" type="floppy_disk">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref335_b45" level="file">
+        <did>
+          <unittitle>Mount Vernon College Administration May 1998-Jan 1999 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">05/1998-01/1999</unitdate>
+          <container id="aspace_7cf79f58500c6c7bbb6b9ccdcfba12ca" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_1ac628fb909c40d09cbb2c61d592699d" parent="aspace_7cf79f58500c6c7bbb6b9ccdcfba12ca" type="floppy_disk">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref336_6vn" level="file">
+        <did>
+          <unittitle>Mount Vernon Administration July 1999, WIP [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">07/1999</unitdate>
+          <container id="aspace_72fa3931e2829af2c5b82d25fe56474b" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_ccacd9210d158cc386763c129339f861" parent="aspace_72fa3931e2829af2c5b82d25fe56474b" type="floppy_disk">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref337_0s1" level="file">
+        <did>
+          <unittitle>The Council for Mount Vernon [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a36e981906438fb118c4872ff7994b13" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_79f9378d5a224e2777f204d59c277e03" parent="aspace_a36e981906438fb118c4872ff7994b13" type="floppy_disk">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref338_irt" level="file">
+        <did>
+          <unittitle>Administration Jan 1999-July 1999 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">01/1999-07/1999</unitdate>
+          <container id="aspace_388c2750eb519433dfe229d031261970" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_67cf66076b506e08bed52bacbf5a696d" parent="aspace_388c2750eb519433dfe229d031261970" type="floppy_disk">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref339_ux9" level="file">
+        <did>
+          <unittitle>Campus Plan-new, E. Somers Center Blurg, Mount Vernon Case Study [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_6d15bf6900986047272eefa316e70849" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_a34fdb6283f56cbc327842de6fa68dff" parent="aspace_6d15bf6900986047272eefa316e70849" type="floppy_disk">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref340_ec6" level="file">
+        <did>
+          <unittitle>History Project, Dear Daughters, MVS and MVC Archives [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a3e1a53784e44fe782157b7facd1e1a9" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_1490d7a090ced512af67540e0a871fd4" parent="aspace_a3e1a53784e44fe782157b7facd1e1a9" type="floppy_disk">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref341_rf3" level="file">
+        <did>
+          <unittitle>Mount Vernon Campaign Case Statement [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_611ae7de29a1dd1b6559ba6303503c19" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_109ed5c5b90124547e62fca6f66f2abf" parent="aspace_611ae7de29a1dd1b6559ba6303503c19" type="floppy_disk">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref342_2cy" level="file">
+        <did>
+          <unittitle>Files for Clock Tower Event [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_cee665499c2f6538214aa551a03b1324" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_2f1fed09831be3c1ce0b5eef792d398b" parent="aspace_cee665499c2f6538214aa551a03b1324" type="floppy_disk">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref343_osi" level="file">
+        <did>
+          <unittitle>Administration 2001-2002 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_35cf69baac223ae4087d6722d6cde314" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_3d7b7950bf11d1e5d55471d10cb4e257" parent="aspace_35cf69baac223ae4087d6722d6cde314" type="floppy_disk">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref344_rtl" level="file">
+        <did>
+          <unittitle>Mount Vernon Correspondence July 1999 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">07/1999</unitdate>
+          <container id="aspace_326c7638661f90eaa274cbe6000af3b9" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_e069d140b44808de11aa5f99d2c8b29e" parent="aspace_326c7638661f90eaa274cbe6000af3b9" type="floppy_disk">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref345_0xt" level="file">
+        <did>
+          <unittitle>Mount Vernon College Correspondence 1998-1999 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_84eb0f22293f2b0b7aa5254ab4461b9f" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_96fe8fe374249c4d65a766936fda8950" parent="aspace_84eb0f22293f2b0b7aa5254ab4461b9f" type="floppy_disk">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref346_o0z" level="file">
+        <did>
+          <unittitle>2000-2001 Administration [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_d102f49bd1f6ef8a4c0887cd1ff18fea" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_6e5f50fc8d9b93a9737cced4d824b954" parent="aspace_d102f49bd1f6ef8a4c0887cd1ff18fea" type="floppy_disk">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref347_5aq" level="file">
+        <did>
+          <unittitle>MVC CCAS [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d5c6142f39e3bd052c446c1981263e99" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_8fc2feb4c6d0e529bad025d1df386d88" parent="aspace_d5c6142f39e3bd052c446c1981263e99" type="floppy_disk">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref348_6ka" level="file">
+        <did>
+          <unittitle>2001-2002 Correspondence [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="2000/2002" type="inclusive">2001-2002</unitdate>
+          <container id="aspace_ca1b576e3ff2f1e8333409998a69c465" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_2dec1685ca474c7f601f570f1dce7794" parent="aspace_ca1b576e3ff2f1e8333409998a69c465" type="floppy_disk">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref349_aeg" level="file">
+        <did>
+          <unittitle>2000-2001 Correspondence [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_d1e3c60e37a6b66888c91f6b4ac5294f" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_b6950f0a7b1cac8157ee6cf2cd1b7d08" parent="aspace_d1e3c60e37a6b66888c91f6b4ac5294f" type="floppy_disk">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref350_fb3" level="file">
+        <did>
+          <unittitle>Proposals August 2002 [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">08/2002</unitdate>
+          <container id="aspace_1e4de73eb610a08a622deb87f3688250" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_aa645a6e298a7b4b5995c71167115e55" parent="aspace_1e4de73eb610a08a622deb87f3688250" type="floppy_disk">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref351_iqt" level="file">
+        <did>
+          <unittitle>Mount Vernon Centuries Campaign [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_eb6ff4693b277de90bb29ec46b25fbed" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_2aa1106955804c7c3a615d06c08434ed" parent="aspace_eb6ff4693b277de90bb29ec46b25fbed" type="floppy_disk">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref352_hw7" level="file">
+        <did>
+          <unittitle>Unidentified [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5087224f158743c166913aec4ba2075f" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_3015a62ba1551e420e1317ed0f8e7041" parent="aspace_5087224f158743c166913aec4ba2075f" type="floppy_disk">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref353_mp5" level="file">
+        <did>
+          <unittitle>Jan 1999-July 1999, Correspondence [3.5" diskette]</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">01/1999-07/1999</unitdate>
+          <container id="aspace_45c66e25bd1418bf6c3d1b5c40b1805b" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_a6693c0426dc704e21106a6f051d1e83" parent="aspace_45c66e25bd1418bf6c3d1b5c40b1805b" type="floppy_disk">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref354_xx9" level="file">
+        <did>
+          <unittitle>Harris Directory - Text [3.5" diskette]</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a350a83951ceeca16a25884f9a90ffda" label="Computer Disks [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_62576bd1e6f697d1c2fa3d90447f5f2a" parent="aspace_a350a83951ceeca16a25884f9a90ffda" type="floppy_disk">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref355_x20" level="item">
+        <did>
+          <unittitle>Panoramic photo, Class of 1969</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">06/09/1969</unitdate>
+          <container id="aspace_34a70fc06be6ebc550fda1250f627f3f" label="Graphic Materials [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_efe5a28c9725a5ac63b3706efd416833" parent="aspace_34a70fc06be6ebc550fda1250f627f3f" type="loose-material">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref356_kj2" level="file">
+        <did>
+          <unittitle>Mount Vernon College Alumnae Directory</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container id="aspace_779a3e765384f7a0c5ae026f9089d839" label="Books [GW: 32882019245581]" type="Box">UP0006</container>
+          <container id="aspace_233c4e003fdb893f5f656e1c822471e1" parent="aspace_779a3e765384f7a0c5ae026f9089d839" type="loose-material">2</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0149.xml">rgs0149.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Medical Service records, <date calendar="gregorian" era="ce">1980-2003</date> <num>RG0149</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:53:28 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Medical Services records</unittitle>
+      <unitid>RG0149</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1980/2003" type="bulk">1980-2003</unitdate>
+      <physloc id="aspace_60244857bbf056bd3281bfa79e494568">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_34df6e322e06440e1c50751947e9ccdc">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_5437c704576609781ae803efd44e2eea">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_d38625e7e7f50bf38fc679a23477277a">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <arrangement id="aspace_b53d92ca27ff3d1be8d1cbf172dd4ec1">
+      <head>Arrangement</head>
+      <p>Organized into one series: Counseling Center photograph albums.</p>
+    </arrangement>
+    <acqinfo id="aspace_c082943f434c07d17babd9913ca7f853">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by Medical Services Center, 2016 [2016.104]</p>
+    </acqinfo>
+    <bioghist id="aspace_c0ce57459bc703243449f06f53151a7b">
+      <head>Biographical / Historical</head>
+      <p>The Medical Services Center, a division within the Colonial Health Center, provides medical advice to GW students with an after hours nurse hotline. They provide students with services such as immunization and care for urgent medical issues.</p>
+    </bioghist>
+    <dsc/>
+  </archdesc>
+</ead>

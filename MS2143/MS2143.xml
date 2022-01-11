@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2143.xml">ms2143.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Dianne Hunt papers, <date calendar="gregorian" era="ce">1976-1995</date>
+ <num>MS2143</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:40:05 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Dianne Hunt papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Hunt, Dianne Patricia</persname>
+      </origination>
+      <unitid>MS2143</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1976-1995</unitdate>
+      <abstract id="aspace_5318cb25ec0eeae80e087daa7bfffbf7">Collection includes flyers, posters, postcards, press releases, programs, two photographs, and a bit of correspondence. The material relates to the productions undertaken by members of the dance community in Washington D.C. from 1976-1990.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_8b7c70a6664414b6c60107910c442945">
+      <head>Preferred citation</head>
+      <p>Dianne Hunt papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_2630136b0ab437f1114728bd5d016df2">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_6dbca154c5d287d9ace4984f539d70d7">
+      <head>Acquisition Information</head>
+      <p>Dianne Hunt donated this material to Gelman library in 2003 and 2005.</p>
+    </acqinfo>
+    <userestrict id="aspace_a387ad3956bbba78c4c655c2775bf552">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_653937cf80e41c025d31dbf7c3310a6c">
+      <head>Historical or Biographical Note</head>
+      <p>Dianne Hunt, a dancer and choreographer has worked in the Washington D.C. area for more than 20 years. Along with Ron Paul, she founded the modern dance company, Upright Vertebrates in 1984. At around this same time, she also led the company Dianne Hunt and Dancers. Dianne began her dance training in Minneapolis while studying fine arts at the University of Minnesota. Her training includes classical ballet and pointe. She completed her MA in dance at GW with an oral history memoir of Erika Thimey. Since 1981, she produced her own choreography regularly in Washington and Baltimore and on tour in Minnesota, Virginia, and Massachusetts. During her career, Dianne taught at numerous institutions in the Washington area including GW and from 1981-83, Dianne was on the faculty at Shenandoah College and Conservatory teaching dance composition, history, technique, repertory and improvisation. In 2000, noted dancer, teacher and choreographer Erika Thimey, who lives in Virginia and celebrated her 90th birthday in March 2000, published A Life of Dance, A Dance of Life, an autobiography/biography written with Dianne Hunt.</p>
+    </bioghist>
+    <scopecontent id="aspace_153946600e775848b54e3de0e4c284b2">
+      <head>Collection Scope and Content</head>
+      <p>This collection includes flyers, posters, postcards, press releases, programs, two photographs, and a bit of correspondence. The material relates to the productions undertaken by members of the dance community in Washington D.C. from 1976-90. This material includes programs and flyers for productions from noted dancers, dance companies, and choreographers in the Washington D.C. area including Lucinda Weaver Hall, Lonna Wilkinson, Jack Guidone, Dianne Hunt, Jan Taylor, Wendy Woodson, Susan Le Mieux, and Ron Paul, Upright Vertebrates, Maida Withers and the Dance Construction Company, the Paul Taylor Dance Company, Diane Floyd and Saturday Company, The Dance Place, The Dance Co-op, and Merce Cunningham Dance Company.</p>
+    </scopecontent>
+    <arrangement id="aspace_875fe3116e3f4596abca2782014042dd">
+      <head>Collection Organization</head>
+      <p>Organized into four series: Metropolitan Dance Association, Dance Coalition, Dance Directions, and Dance performances materials.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Dance</subject>
+      <subject source="lcsh">Dancers</subject>
+      <subject source="lcsh">Modern dance</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <genreform source="aat">Photographs</genreform>
+      <persname rules="aacr" source="naf">Hunt, Dianne Patricia</persname>
+      <corpname rules="aacr" source="local">Metropolitan Dance Association</corpname>
+      <persname source="naf">Woodson, Wendy</persname>
+      <persname source="naf">Withers, Maida</persname>
+      <persname rules="dacs" source="local">Paul, Ron (choreographer)</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_jeb" level="series">
+        <did>
+          <unittitle>Metropolitan Dance Association</unittitle>
+          <unitid>MS2143 Series 1</unitid>
+          <unitdate datechar="creation">1966-1995</unitdate>
+          <physdesc id="aspace_381044c0fd451e3ed61df63352f9b74a" label="General Physical Description note">0.25 Linear feet</physdesc>
+          <container id="aspace_f76b6a6a0a39cd69dcba70b8f2afc045" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_b8f1a0b0c62d79d254b862e99bf112af">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence, financial records, a directory, membership material, fundraising and loan documentation. The material is dated from 1966-95.</p>
+          <p>The Metropolitan Dance Association (MDA) began in 1953 as the Modern Dance Council of Washington, D.C. The organization name change adopted in September 1979 reflected a shift to document local and regional dance heritage. Annual meetings of the Association featured performances and presentations by and about the regional dance community.</p>
+          <p>Among the activities undertaken by the Association was the Choreographers Showcase begun in 1958 to provide artistic opportunities to less experienced choreographers. The showcase was renamed Dance Showcase in 1978. The Association also sponsored a loan fund to provide financial assistance to dancers, choreographers, teachers and others in support of project relating to the advancement of contemporary dance in the Washington metropolitan area. Responding to the needs of its members, the Association contracted the services of a health and insurance organization to provide much needed insurance to those who might not have otherwise been able to afford it. The Associations' commitments to dancers, dance performance and dance heritage was recognized in its receipt of several grants.</p>
+        </scopecontent>
+        <c id="aspace_ref13_ua6" level="file">
+          <did>
+            <unittitle>MDA Loan Fund [Modern Dance Council]</unittitle>
+            <unitdate datechar="creation">1966-1972</unitdate>
+            <container id="aspace_994933cdc9279017974c1a4d9e108da4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cb352e72f95f197c22375d3c6f3a5040" parent="aspace_994933cdc9279017974c1a4d9e108da4" type="Folder">1</container>
+          </did>
+          <odd id="aspace_08736c92e77c42679c442453cc3b3d7f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref15_82g" level="file">
+          <did>
+            <unittitle>MDA Modern Dance Council Grants History</unittitle>
+            <unitdate datechar="creation">1966-1977</unitdate>
+            <container id="aspace_6b245536453cdf985cb091071b4208dc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e79e5a4faba22952378786a415b889d4" parent="aspace_6b245536453cdf985cb091071b4208dc" type="Folder">2</container>
+          </did>
+          <odd id="aspace_64f2829a9426c6cd43e93908400a48fa">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref17_p20" level="file">
+          <did>
+            <unittitle>MDA Certificate of exemption</unittitle>
+            <unitdate datechar="creation">09/15/1977</unitdate>
+            <container id="aspace_46d5d4e0943eaf401a7ae89a93df94a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bc583e88b7d683cc0066a197cce73efe" parent="aspace_46d5d4e0943eaf401a7ae89a93df94a0" type="Folder">3</container>
+          </did>
+          <odd id="aspace_1e0661b9d53ee754661ea286ccc2e5d9">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref19_ymp" level="file">
+          <did>
+            <unittitle>MDA [Modern Dance Council] Cafritz grant</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_81cf4100a5514ae4605b8f149ef8abc3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dcbaf86e05f1e5b46059b02816c71a52" parent="aspace_81cf4100a5514ae4605b8f149ef8abc3" type="Folder">4</container>
+          </did>
+          <odd id="aspace_41aef8bb36f6793f7778c5e016aa4f24">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref21_0u3" level="file">
+          <did>
+            <unittitle>MDA ICC Concert, flyers, programs, WPA, Marvin, T.J. Dance Place</unittitle>
+            <unitdate datechar="creation">1979-1981</unitdate>
+            <container id="aspace_cc79982335c55f798ca8fd4d3da08946" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_07a0d9d5343c200c91d0c672f75a0501" parent="aspace_cc79982335c55f798ca8fd4d3da08946" type="Folder">5</container>
+          </did>
+          <odd id="aspace_e552733e09332d419e65a054af7f8b73">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref23_psr" level="file">
+          <did>
+            <unittitle>MDA ICC Concert, T.J. Theatre</unittitle>
+            <unitdate datechar="creation">01/1980</unitdate>
+            <container id="aspace_cb58bdb7da4a9b725bab9ea8e0b8e1f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f842544b68bfd9740b0b19abb1c6f6db" parent="aspace_cb58bdb7da4a9b725bab9ea8e0b8e1f2" type="Folder">6</container>
+          </did>
+          <odd id="aspace_27782475d04d9366ba64f86c5c3b5d3e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref25_gq2" level="file">
+          <did>
+            <unittitle>MDA 1980 1st Awards ceremony St. Mark's Church</unittitle>
+            <unitdate datechar="creation">04/13/1980</unitdate>
+            <container id="aspace_6240f0eb393121a494c768de356bf088" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e8e925d4193caeefc70399dc9d8b1860" parent="aspace_6240f0eb393121a494c768de356bf088" type="Folder">7</container>
+          </did>
+          <odd id="aspace_042c34c22662267499e71dac99e6b176">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref27_abe" level="file">
+          <did>
+            <unittitle>MDA 1981 Awards ceremony</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_4f10334a04089223a78574ba3a215c2a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60a60457496fa9a0329f1e52520d221f" parent="aspace_4f10334a04089223a78574ba3a215c2a" type="Folder">8</container>
+          </did>
+          <odd id="aspace_6235fd5506823e9655935ec97c076707">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref29_1z1" level="file">
+          <did>
+            <unittitle>MDA records</unittitle>
+            <unitdate datechar="creation">10/1981-11/1981</unitdate>
+            <container id="aspace_06b29ae641181cddb64b05a843f052dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_353f0247a48bc4f414657b59c4828eed" parent="aspace_06b29ae641181cddb64b05a843f052dd" type="Folder">9</container>
+          </did>
+          <odd id="aspace_c694957b63de3e63bd67ab71465e092d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref31_reu" level="file">
+          <did>
+            <unittitle>MDA Awards ceremony</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_1cfad628a24b86767bfb6fad7f74ca18" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b5355a29f5b04109a241254c0d34a7fc" parent="aspace_1cfad628a24b86767bfb6fad7f74ca18" type="Folder">10</container>
+          </did>
+          <odd id="aspace_acc80eb3e289c7eb133092c8400111f7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref33_xom" level="file">
+          <did>
+            <unittitle>The Support Center: Accounting presentation documents</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_641da52591d25094e9d6671dad578ad6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b1547745ffaca70ebc82afc1472e353" parent="aspace_641da52591d25094e9d6671dad578ad6" type="Folder">11</container>
+          </did>
+          <odd id="aspace_6fcf85fbc6d51553c896a98889494847">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref35_kix" level="file">
+          <did>
+            <unittitle>MDA Dance directory</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_db7ab6f63d865e1c0b6c912c9a0bd228" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6c8bea9eeb4fd8a6c89d62d0981ecb90" parent="aspace_db7ab6f63d865e1c0b6c912c9a0bd228" type="Folder">12</container>
+          </did>
+          <odd id="aspace_5d1383cf6e8ed4c38dc81abfc70d39ed">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref37_ulc" level="file">
+          <did>
+            <unittitle>MDA Accomplishments; Board of Directors</unittitle>
+            <unitdate datechar="creation">1984-1985</unitdate>
+            <container id="aspace_75d6353e538eb98814183bf541059681" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7932a1018437addbf03d3e5773004de1" parent="aspace_75d6353e538eb98814183bf541059681" type="Folder">13</container>
+          </did>
+          <odd id="aspace_34ec90bde9b57f1983aba76e2f810ab8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref39_vf0" level="file">
+          <did>
+            <unittitle>Washington D.C. Dance Alliance [MDA]</unittitle>
+            <unitdate datechar="creation">1984-1989</unitdate>
+            <container id="aspace_78dafd3fb5f8906a54515476c17fca35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_401597affc2afb7b8957b6b1c83abfb9" parent="aspace_78dafd3fb5f8906a54515476c17fca35" type="Folder">14</container>
+          </did>
+          <odd id="aspace_8c39c1b89c742e62552a2cc6b04de932">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref41_vh1" level="file">
+          <did>
+            <unittitle>The Support Center: Fundamentals in Management presenters John Boruff and Rene Johnson</unittitle>
+            <unitdate datechar="creation">10/02/1985</unitdate>
+            <container id="aspace_9062a49bce4f47597622b0cc06aafdc9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e9211b295b23eb562337ceb11722508a" parent="aspace_9062a49bce4f47597622b0cc06aafdc9" type="Folder">15</container>
+          </did>
+          <odd id="aspace_d1ccd049da3072c20638b13c3139a990">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref43_8eu" level="file">
+          <did>
+            <unittitle>The Support Center: Bookkeeping and Financial Management II presenter Lynn Bock</unittitle>
+            <unitdate datechar="creation">10/16/1985</unitdate>
+            <container id="aspace_67012b656f4483161ca05f19f9a85299" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a8a47056c40d78ad5035cfa54a31d9b9" parent="aspace_67012b656f4483161ca05f19f9a85299" type="Folder">16</container>
+          </did>
+          <odd id="aspace_c4cbdfb83b8398350e839bb41bfe6264">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref45_0nj" level="file">
+          <did>
+            <unittitle>MDA Committee for the Survival of Dance in Washington</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_af7c8e2366fb2647e9b439c1e25e9c7f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_143d49cb266a4f621af45d5fc3667d48" parent="aspace_af7c8e2366fb2647e9b439c1e25e9c7f" type="Folder">17</container>
+          </did>
+          <odd id="aspace_14c30aa53ef9895bd3ff29b3b89a83a9">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref47_wtc" level="file">
+          <did>
+            <unittitle>Membership --welcome letter-new [MDA]</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_8b65069cc9e8b5c9280fd128dcc11ac8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_93c68ed53e51c438f520c37481c46883" parent="aspace_8b65069cc9e8b5c9280fd128dcc11ac8" type="Folder">18</container>
+          </did>
+          <odd id="aspace_804e6ff405122d1ba454be45a5a5f695">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref49_szo" level="file">
+          <did>
+            <unittitle>MDA Letter to Community</unittitle>
+            <unitdate datechar="creation">02/22/1989</unitdate>
+            <container id="aspace_d1d248c40301aa0fabc3a908ebb9e8c1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f434c61e23bd693ac58f22fff2b6d718" parent="aspace_d1d248c40301aa0fabc3a908ebb9e8c1" type="Folder">19</container>
+          </did>
+          <odd id="aspace_3c27ef2d1b842b8b16dba8d4fe4d1be4">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref51_ij3" level="file">
+          <did>
+            <unittitle>Loan--MDA Deborah Riley</unittitle>
+            <unitdate datechar="creation">1994-1995</unitdate>
+            <container id="aspace_073e0e109e12e5df439f2ac2a324888e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_099f9f60c67c3c97acdb179030033dcb" parent="aspace_073e0e109e12e5df439f2ac2a324888e" type="Folder">20</container>
+          </did>
+          <odd id="aspace_bea0fc12e28548a8df718bb208554898">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref53_bnn" level="file">
+          <did>
+            <unittitle>MDA Fundraising</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6b2a06791fbc4a8bcc65760f6ba0a590" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_23767583488bff8a6447e8bf06447a69" parent="aspace_6b2a06791fbc4a8bcc65760f6ba0a590" type="Folder">21</container>
+          </did>
+          <odd id="aspace_904db17a61c2a1c99e898dab79677ed7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref55_uz7" level="file">
+          <did>
+            <unittitle>The Support Center: Four-Step Public Relations Process [course materials]</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_017b6c80d6918baa82bd7ecf560e7236" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d7a6428549a297a5cac84f03975e0d63" parent="aspace_017b6c80d6918baa82bd7ecf560e7236" type="Folder">22</container>
+          </did>
+          <odd id="aspace_63d92ee210527d09f57b876260fa121a">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref58_mua" level="series">
+        <did>
+          <unittitle>Dance Coalition</unittitle>
+          <unitid>MS2143 Series 2</unitid>
+          <unitdate datechar="creation">1980-1994</unitdate>
+          <physdesc id="aspace_19877f2ed8f40f757a70e0749580dfa7" label="General Physical Description note">0.25 Linear feet</physdesc>
+          <container id="aspace_1fb7a7fb8700d6cc4f275be68afacb79" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_a63094fecc39fec790737a6fc74179a8">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence, membership lists, contracts, and financial records. The material dates from 1980-94. The Dance Coalition was a non-profit corporation governed by a Board of Directors. It was conceived of as an umbrella organization for dancers and performers and functioned as a "home base" for several different artists. Membership was structured in two categories. Regular and associate memberships were available to choreographers, actors, dancers and people interested in movement arts. The Coalition offered rehearsal rates and opportunities to participate in group concerts and to produce events in its studio theater. The group rented space at St. James Parish on Capitol Hill.</p>
+        </scopecontent>
+        <c id="aspace_ref60_voc" level="file">
+          <did>
+            <unittitle>Dance Coalition</unittitle>
+            <unitdate datechar="creation">1985-1987</unitdate>
+            <container id="aspace_8403618899ea23f89d279edb21d0a7cd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fd010624a808d726d9d6fdd4086d8af3" parent="aspace_8403618899ea23f89d279edb21d0a7cd" type="Folder">23</container>
+          </did>
+          <odd id="aspace_4ed5cdbf37cb44d8a5b5f6f4d467cfea">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref62_0t5" level="file">
+          <did>
+            <unittitle>Dance Coalition Member contracts (current)</unittitle>
+            <unitdate datechar="creation">1991-1994</unitdate>
+            <container id="aspace_b81035da220ec528cc9fc46a6732b133" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_17e937c6f7954f85166d6b60082541b3" parent="aspace_b81035da220ec528cc9fc46a6732b133" type="Folder">24</container>
+          </did>
+          <odd id="aspace_601f882afc716ac495700fe587773cdd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref64_6bb" level="file">
+          <did>
+            <unittitle>Dance Coalition Membership and Financial records</unittitle>
+            <unitdate datechar="creation">1981-1994</unitdate>
+            <container id="aspace_2ca027b49a5c64a6ba6af4331fa29e41" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3c4088f4449cbf802f9c15285f95f284" parent="aspace_2ca027b49a5c64a6ba6af4331fa29e41" type="Folder">25</container>
+          </did>
+          <odd id="aspace_01f15ca27363dcdc256c1677cd0cf767">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref66_0jn" level="file">
+          <did>
+            <unittitle>Dance Coalition St. James contracts 1980-</unittitle>
+            <unitdate datechar="creation">1980-1992</unitdate>
+            <container id="aspace_cccdc0dd59804a60b11e31ecf5d1443c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fe53ea8aff357e4f17a095ef4f52c5df" parent="aspace_cccdc0dd59804a60b11e31ecf5d1443c" type="Folder">26</container>
+          </did>
+          <odd id="aspace_889086b2e608d008a4da5e08cf1b6e8c">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref69_v0t" level="series">
+        <did>
+          <unittitle>Dance Directions</unittitle>
+          <unitid>MS2143 Series 3</unitid>
+          <unitdate datechar="creation">1985-1986</unitdate>
+          <physdesc id="aspace_faf8896ac6a95a72d574bced60c42bd1" label="General Physical Description note">0.25 Linear feet</physdesc>
+          <container id="aspace_040a883c1f0d9ce505efca810b18331e" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_c6df648c81a2ce9afa14939c3418abac">
+          <head>Scope and Contents note</head>
+          <p>This series contains programs, correspondence, flyers, reports, financial records, meeting minutes, and press releases. This material relates to the dance festival Washington Dance Directions. The series covers the festival for 1985 and 1986. Dance Directions was the opportunity for audiences in Washington D.C. to view a variety of modern dance performances as a sample of the type of work produced and performed in Washington, D.C. The performances featured a collaboration of local choreographers and dance companies to promote their work in the District of Columbia.</p>
+        </scopecontent>
+        <c id="aspace_ref71_0er" level="file">
+          <did>
+            <unittitle>Dance Direction 85 report</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_cf850ac9922ec7152c7912deedb6716a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7218a861cd90e0a705465f34c658f967" parent="aspace_cf850ac9922ec7152c7912deedb6716a" type="Folder">27</container>
+          </did>
+          <odd id="aspace_2c8663a83ce2c95f7fbb397ff729b200">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref73_gr6" level="file">
+          <did>
+            <unittitle>Dance Directions</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_75b3adb3ef39ffc862e8a1e50018890f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f7a2b4b41e25ffad3f27d90eff0c5557" parent="aspace_75b3adb3ef39ffc862e8a1e50018890f" type="Folder">28</container>
+          </did>
+          <odd id="aspace_2b9af3c97b9184e2865559f5e1d75844">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref75_3uk" level="file">
+          <did>
+            <unittitle>DD 86 Financial</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_30ab84418c4c6cf78ca2b0d0561719e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0641f49b83e578c9d5c0f1ec0ed75a46" parent="aspace_30ab84418c4c6cf78ca2b0d0561719e9" type="Folder">29</container>
+          </did>
+          <odd id="aspace_a1e4270eda1ce3b96c5672c7a7f84b51">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref77_o43" level="file">
+          <did>
+            <unittitle>DD 86 Fundraising</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_6c9d9f8624980bf237517f8492dfd3fa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_793797367df43e67f21e2c5339ce3bef" parent="aspace_6c9d9f8624980bf237517f8492dfd3fa" type="Folder">30</container>
+          </did>
+          <odd id="aspace_583b517890cdfffd45423c6d9a6cb1cd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref79_141" level="file">
+          <did>
+            <unittitle>Dance Directions '86 meeting minutes</unittitle>
+            <unitdate datechar="creation">03/16/1986-06/08/1986</unitdate>
+            <container id="aspace_ee8d06a0cd77254f7a09cef08cb19efd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_536321fca28c19de4a4d2028abe875dd" parent="aspace_ee8d06a0cd77254f7a09cef08cb19efd" type="Folder">31</container>
+          </did>
+          <odd id="aspace_61bb4b788d8c22059c6dcc7ba15ef5e0">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref81_70d" level="file">
+          <did>
+            <unittitle>DD 86 Participants Jobs</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_f2cac9103b26418274d3131e2dcfbb37" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2f22b1c40c3551fd83c152889f86ddd8" parent="aspace_f2cac9103b26418274d3131e2dcfbb37" type="Folder">32</container>
+          </did>
+          <odd id="aspace_f9a4856cd2d0fb2efeadc0d3fce05eb3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref83_f2y" level="file">
+          <did>
+            <unittitle>DD 86 photocopies P.R.</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_c382bf69123036537c1b1cca3503ea86" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_949985c685945f6e554d9cb2ad26f1e9" parent="aspace_c382bf69123036537c1b1cca3503ea86" type="Folder">33</container>
+          </did>
+          <odd id="aspace_9436f497f53eab77bee29094d3bc3c8c">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref86_9k9" level="series">
+        <did>
+          <unittitle>Dance performances materials</unittitle>
+          <unitid>MS2143 Series 4</unitid>
+          <unitdate datechar="creation">1980-1990</unitdate>
+          <physdesc id="aspace_b72275eedc7da5fff865526cc693bb0a" label="General Physical Description note">1.25 Linear feet</physdesc>
+          <container id="aspace_1225b1a769dca9a01aebb2972c867a5c" label="Mixed Materials" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_12ea3564df5c03fe7c279b0d6c77df4d">
+          <head>Scope and Contents note</head>
+          <p>This series contains photographs, flyers, programs, posters, newspaper articles, and resumes. The material relates to the productions and work of the dance community in Washington, D.C. from 1980-90. The choreographers and dancers include Lucinda Weaver Hall, Lonna Wilkinson, Jack Guidone, Dianne Hunt, Jan Taylor, Susan Le Mieux, and Ron Paul and the companies include Upright Vertebrates, Maida Withers and the Dance Construction Company, the Paul Taylor Dance Company, Diane Floyd and Saturday Company, The Dance Place, The Dance Co-op, and Merce Cunningham Dance Company.</p>
+        </scopecontent>
+        <c id="aspace_ref88_cb2" level="file">
+          <did>
+            <unittitle>Axolotl/Jack Guidone Metamorphasis</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_f3e350f55ee8697fc81eaaa3b5132d43" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8abfe092fbb19568ae13ccae4ee98818" parent="aspace_f3e350f55ee8697fc81eaaa3b5132d43" type="Folder">34</container>
+          </did>
+          <odd id="aspace_5cccc5e107942b30ef32e62c165e5e10">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref90_cga" level="file">
+          <did>
+            <unittitle>Dance performance materials Dianne Hunt and Dancers and Upright Vertebrates</unittitle>
+            <unitdate datechar="creation">1983-1987</unitdate>
+            <container id="aspace_a675d0dde40d13f5f39d99c77e971ad2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d766d337b51d7cd4c155973e5ccc303d" parent="aspace_a675d0dde40d13f5f39d99c77e971ad2" type="Folder">35</container>
+          </did>
+          <odd id="aspace_9d35a2d9008dfdc20623cd42cb61cee9">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref92_fwe" level="file">
+          <did>
+            <unittitle>Dance performance materials photograph Jan Taylor</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8eaa2ec086b9fb4823d286b6e9dfc3c1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b233a3cb1c551c5ae2348ea027e229aa" parent="aspace_8eaa2ec086b9fb4823d286b6e9dfc3c1" type="Folder">36</container>
+          </did>
+          <odd id="aspace_15959671fc25a8e6c639338734cd1dbb">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref94_6oi" level="file">
+          <did>
+            <unittitle>Dance performances Lucinda Weaver Hall</unittitle>
+            <unitdate datechar="creation">1982-1985</unitdate>
+            <container id="aspace_997732213981eb95a027dba8e52146b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a9e5a12d215246284cb06afbc197f9c1" parent="aspace_997732213981eb95a027dba8e52146b5" type="Folder">37</container>
+          </did>
+          <odd id="aspace_3554227043a7a4493384f9a3d61c8d6e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref96_6vu" level="file">
+          <did>
+            <unittitle>Dance performance materials photograph Wendy Woodson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1e0f02d34bc3ad498afafe89df8a7645" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_81151dec288896d589f21e350c62e77d" parent="aspace_1e0f02d34bc3ad498afafe89df8a7645" type="Folder">38</container>
+          </did>
+          <odd id="aspace_235018ab457fb1322b9c71276eec3bb4">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref98_pxp" level="file">
+          <did>
+            <unittitle>Dance performances</unittitle>
+            <unitdate datechar="creation">1980-1990</unitdate>
+            <container id="aspace_64191ad9a65cf24450ce8ee3fa3d2879" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_78bc4e4bf832c276e4e5ac2505ba48bf" parent="aspace_64191ad9a65cf24450ce8ee3fa3d2879" type="Folder">39</container>
+          </did>
+          <odd id="aspace_aebd240adbd8fe84f5d557cd50dda54c">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref100_1tr" level="file">
+          <did>
+            <unittitle>Dance performances</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9b8f19fb6e6a29860f60a11699604b3f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6fbaa2182073443950f9cdcc15906d1e" parent="aspace_9b8f19fb6e6a29860f60a11699604b3f" type="Folder">40</container>
+          </did>
+          <odd id="aspace_5f049377b9e8dfccb598bc21320a3c17">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref102_8x5" level="file">
+          <did>
+            <unittitle>Posters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a69328ea033d7fd38fb68bbd06722c00" label="Mixed Materials" type="Box">2</container>
+          </did>
+          <odd id="aspace_9299292d339f1f18dfbdc7ea7256d327">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref104_e7r" level="file">
+          <did>
+            <unittitle>Dance performances posters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2ff79cc55dbbf04c774fa0614bb62a24" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c4497f4557766bbd16c5276b8b8b7df7" parent="aspace_2ff79cc55dbbf04c774fa0614bb62a24" type="Folder">1</container>
+          </did>
+          <odd id="aspace_f8e06a7f7c48155fc3261f4af4af1ad7">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

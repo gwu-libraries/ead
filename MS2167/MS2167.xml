@@ -1,0 +1,1371 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2167.xml">ms2167.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Jerome Zeifman papers, <date calendar="gregorian" era="ce">1960-1977</date>
+ <num>MS2167</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:40:28 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Jerome Zeifman papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Zeifman, Jerome M.</persname>
+      </origination>
+      <unitid>MS2167</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1960-1977</unitdate>
+      <abstract id="aspace_06ab76d43c598ebbad83a8204c38c133">This collection contains reports, memoranda, correspondence, notes, legal documents, publications, clippings, and audio recordings collected by Jerome Zeifman in the course of his work as chief counsel to the Committee on the Judiciary of the United States House of Representatives. The material dates from 1960-77.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+      <container id="aspace_b893ef2971d8716578c253b3205a1c2f" label="Mixed Materials [GW: 32882019441248]" type="Box">UP0013</container>
+      <container id="aspace_bf2b9d4195ff9380b19fba2c8b9dd1fb" label="Mixed Materials [GW: 32882019441230]" type="Box">UP0012</container>
+      <container id="aspace_94bd9c597ca3935c787f99a27179a2eb" label="Mixed Materials [GW: 32882019441222]" type="Box">UP0011</container>
+      <container id="aspace_8018f42df5078a48ca4da347cff48d3e" label="Mixed Materials [GW: 32882019441214]" type="Box">UP0010</container>
+      <container id="aspace_3ceecdd224ac8b5a9d11a5e5c0d30dc3" label="Mixed Materials [GW: 32882019441206]" type="Box">UP0009</container>
+      <container id="aspace_886981f875ab4e4385143727dcd39b40" label="Mixed Materials [GW: 32882019441198]" type="Box">UP0008</container>
+      <container id="aspace_969c160b95e76d5b70abf4a34ae9b8c9" label="Mixed Materials [GW: 32882019441180]" type="Box">UP0007</container>
+      <container id="aspace_92aabd69e4a763c57ac44b3d3084c7a4" label="Mixed Materials [GW: 32882019441149]" type="Box">UP0003</container>
+      <container id="aspace_f28b75cf8b2e191e151c8f04e51786f5" label="Mixed Materials [GW: 32882019441156]" type="Box">UP0004</container>
+      <container id="aspace_0f77669ab2ae218df8989574bcdf3b85" label="Mixed Materials [GW: 32882019441164]" type="Box">UP0005</container>
+      <container id="aspace_fb79e719d654881f39c7b3078efec1d2" label="Mixed Materials [GW: 32882019441172]" type="Box">UP0006</container>
+      <container id="aspace_8be7423cb6e06833ad35d429b1c13920" label="Mixed Materials [GW: 32882019441115]" type="Box">UP0014</container>
+      <container id="aspace_653f878e00d8a5e490f42758e2e95e75" label="Mixed Materials [GW: 32882019441123]" type="Box">UP0001</container>
+      <container id="aspace_644c13250a780667180ff0423cd47b28" label="Mixed Materials [GW: 32882019441131]" type="Box">UP0002</container>
+    </did>
+    <prefercite id="aspace_be49a7d06ae921271f3277ef8ae3c44d">
+      <head>Preferred citation</head>
+      <p>Jerome Zeifman papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_fa1e56ff0e16164e50a82b3f5845593c">
+      <head>Restrictions on Access</head>
+      <p>Regarding Series 1, researchers must sign in advance a written agreement not to publish any portion of diaries and tape recordings or quotations there from without the written permission of the donor or his heirs and assigns. After signing this agreement researchers may use, but not make copies of, the diaries and recordings.</p>
+      <p>Staff: The agreement is found here. J:\Special Collections\Forms\Reference Forms\Zeifman+restriction_agreement</p>
+    </accessrestrict>
+    <acqinfo id="aspace_09f285d036336f7905bebd84ecd7650d">
+      <head>Acquisition Information</head>
+      <p>The collection was donated by Jerome Zeifman in 1999 and 2000.</p>
+    </acqinfo>
+    <userestrict id="aspace_00b297ec4e569b4bd04c768df1d71413">
+      <head>Restrictions on Use</head>
+      <p>Regarding Series 1, researchers must sign in advance a written agreement not to publish any portion of diaries and tape recordings or quotations therefrom without the written permission of the donor or his heirs and assigns. After signing this agreement researchers may use, but not make copies of, the diaries and recordings.</p>
+      <p>Staff: The agreement is found here. J:\Special Collections\Forms\Reference Forms\Zeifman+restriction_agreement</p>
+    </userestrict>
+    <bioghist id="aspace_b68770d0b96acd55ced8a17e9f9716b8">
+      <head>Historical or Biographical Note</head>
+      <p>Jerome M. Zeifman was born in 1925 in Mineola, New York. He attended Harvard University, and received a law degree from New York University. He served as a naval communications officer during World War II.</p>
+      <p>Zeifman opened a private law practice in Nyack, New York prior to working for the Committee on the Judiciary of the United States House of Representatives. Zeifman served as counsel (1961-73) and general counsel (1973-74) to the Judiciary Committee. He was general counsel during the Watergate scandal, the threatened impeachment of Richard Nixon, and the confirmations of Gerald Ford and Nelson Rockefeller. Zeifman retired from the committee staff in 1974 to teach law at the University of Santa Clara.</p>
+      <p>Zeifman is married to Donna Lerew, a concert violist. </p>
+    </bioghist>
+    <scopecontent id="aspace_fe7a3f491c55e1500da27bcbf53a454c">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains reports, memoranda, correspondence, notes, legal documents, publications, clippings, and audio recordings. The material dates from 1960-77. The material was collected by Jerome Zeifman in the course of his work as chief counsel to the Committee on the Judiciary of the United States House of Representatives. The collection contains Zeifman's personal diary and correspondence, as well as his business-related papers. The collection deals primarily with issues related the Watergate scandal, the resignation of Spiro Agnew, the impeachment of President Nixon, the confirmation of Gerald Ford to be President, the confirmation of Nelson Rockefeller to be Vice President, the efforts of Gerald Ford (as majority leader) to impeach Supreme Court Justice William O. Douglass, and prior efforts to impeach seven other federal judges. The materials also contain information about the employment on the Judiciary Committee of a number of people who later rose to national prominence, including Hillary Rodham Clinton, Bernard Nussbaum, John Doar, and William Weld.</p>
+    </scopecontent>
+    <arrangement id="aspace_242265c20897ea936db6670604fd4e0e">
+      <head>Collection Organization</head>
+      <p>Organized into three series: Personal papers, Historical file, and Stenographic minutes.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Watergate affair</subject>
+      <subject source="lcsh">Confirmation hearings</subject>
+      <subject source="lcsh">Impeachments</subject>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Audiotapes</genreform>
+      <persname rules="aacr" source="naf">Zeifman, Jerry</persname>
+      <persname rules="aacr" source="naf">Ford, Gerald R.</persname>
+      <persname source="naf">Rodino, Peter W.</persname>
+      <corpname rules="aacr" source="naf">United States. Congress. House. Committee on the Judiciary</corpname>
+      <persname rules="aacr" source="naf">Nixon, Richard M. (Richard Milhous)</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_bnc" level="series">
+        <did>
+          <unittitle>Personal papers</unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation">1960-1974</unitdate>
+          <physdesc id="aspace_057b3b1c72a8bd708c64731d766345ab" label="General Physical Description note">2 Linear feet</physdesc>
+          <container id="aspace_8866f74e8dd3e006e52019cf43382794" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_b90c0d34f92f1d38db7f54d22d2bfb03" label="Mixed Materials" type="Box">14</container>
+          <container id="aspace_3b061f80ee21c4db68b9a6efd3f9dbd4" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <scopecontent id="aspace_96c33cb45bb7718d9e3f115f3d5b4817">
+          <head>Scope and Contents note</head>
+          <p>This series contains personal correspondence, diaries, audiorecordings and other papers of Jerome Zeifman. The material dates from 1960-1975. The series includes tape recordings of Zeifman's diaries and typed transcripts. Note that researchers wishing to view the materials in this series must first be approved by the donor and sign a written agreement to not quote or publish from these materials without first gaining the permission of the donor.</p>
+        </scopecontent>
+        <c id="aspace_ref12_4yt" level="file">
+          <did>
+            <unittitle>Personal file 1970--Zeifman</unittitle>
+            <unitdate datechar="creation">1960-1970</unitdate>
+            <container id="aspace_7fa6fd7ccfd77a0d98dd75c127c1e8b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_39e1162987661b290455b9cc300f5fbb" parent="aspace_7fa6fd7ccfd77a0d98dd75c127c1e8b0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_fds" level="file">
+          <did>
+            <unittitle>Personal file 1971--Zeifman</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_28ce8b794047a4f95b4cf59e159a6365" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cae0ef3b064fb52ec30d02f885f85fae" parent="aspace_28ce8b794047a4f95b4cf59e159a6365" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_pnf" level="file">
+          <did>
+            <unittitle>Personal file 1972--Zeifman</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_d8c9d01cce10e9d8fb9293e3bc2ef9c2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0abd0459efbc007796dc431b2d9b92bb" parent="aspace_d8c9d01cce10e9d8fb9293e3bc2ef9c2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_498" level="file">
+          <did>
+            <unittitle>Personal file 1973--Zeifman</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_ec68b3fa6776ba64201cff8c8722da3a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7162f874bce63280475ae7ee69365014" parent="aspace_ec68b3fa6776ba64201cff8c8722da3a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_q0j" level="file">
+          <did>
+            <unittitle>Personal file--Zeifman (Releases)</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_94bb8af37c379eca4cb76180ee538d35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b798d3613320c89a1c1ddd1f3842aa70" parent="aspace_94bb8af37c379eca4cb76180ee538d35" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_hjn" level="file">
+          <did>
+            <unittitle>Personal file 1974--Zeifman</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_9cc5fc2e44bef15da457ffe39605b241" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0e3ce23626f5792ce8c021c5eef44452" parent="aspace_9cc5fc2e44bef15da457ffe39605b241" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_30l" level="file">
+          <did>
+            <unittitle>Book draft, proposal, notes</unittitle>
+            <container id="aspace_0df2e8b9e4bae6701444c003ef8aafd2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_570fe747480abdb131b7e71fa2d8eb87" parent="aspace_0df2e8b9e4bae6701444c003ef8aafd2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_8d5" level="file">
+          <did>
+            <unittitle>Clipping, note</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_fa8d46e3136244904d229686d4c2b023" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aaf469df161cd3b99c6cce49766bdd33" parent="aspace_fa8d46e3136244904d229686d4c2b023" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_t44" level="file">
+          <did>
+            <unittitle>Photograph: Jerome Zeifman and Tom Railsback</unittitle>
+            <container id="aspace_71bcbfae68a831b7a736678b564f2fc5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_23e764e9ed367033f6ec2a6a6c4ee383" parent="aspace_71bcbfae68a831b7a736678b564f2fc5" type="Folder">9</container>
+          </did>
+          <odd id="aspace_1588b544e1f979aa9bbcad76d6b64aab">
+            <head>General note</head>
+            <p>Text on photograph: "L-R Rep. Tom Railsback (R-Ill) General Counsel Jerry Zeifman"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref30_7dc" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [1/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_533a6a46fab2754b71059387a0284b99" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_624e5ba48129a89ba2c69c710f4679f6" parent="aspace_533a6a46fab2754b71059387a0284b99" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_47z" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [2/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_6c3f7d50fbd7cff15542306fd533e332" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_374b8157ffbab76b60d4c334f171d585" parent="aspace_6c3f7d50fbd7cff15542306fd533e332" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_iz2" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [3/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_ae65db83ce3a3e6ef12695bf5bfa1937" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1cf0a0e73fbb8f5e01c1b782443d2e84" parent="aspace_ae65db83ce3a3e6ef12695bf5bfa1937" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_5ig" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [4/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_c83498cd5148933dd499723c2bf220ef" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d13ca79e9321cb0e64e07a1c0ab7de70" parent="aspace_c83498cd5148933dd499723c2bf220ef" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_pos" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [5/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_eee3c4956a3f55968b0d83d2634a4d80" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5a7335ccd83db93389e254b20ec69a02" parent="aspace_eee3c4956a3f55968b0d83d2634a4d80" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_wb9" level="file">
+          <did>
+            <unittitle>An Impeachment Diary by Jerome M. Zeifman [6/6]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_0c2ed3125ab32a9f13b6ef1bb0567e99" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_675043aaa136f9683bd8631b34c34122" parent="aspace_0c2ed3125ab32a9f13b6ef1bb0567e99" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_d1k" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #1</unittitle>
+            <unitdate datechar="creation">11/27/1973</unitdate>
+            <container id="aspace_3a9ae1b3eadaf041d22c634375ce8947" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_9a8a51a5cc3e701524b69ebffa74593a" parent="aspace_3a9ae1b3eadaf041d22c634375ce8947" type="Folder">1</container>
+          </did>
+          <odd id="aspace_83d7f9cfb77888c63d5336d6d9e6c2ee">
+            <head>General note</head>
+            <p>"1 / Diary #1 Ends on Nov. 27"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44_soh" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #2</unittitle>
+            <unitdate datechar="creation">07/1974 --08/1974</unitdate>
+            <container id="aspace_265e6e19b4818b6997088c35f39d9f13" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_77a2bd53834e79490b3b2d45b0fbab4d" parent="aspace_265e6e19b4818b6997088c35f39d9f13" type="Folder">2</container>
+          </did>
+          <odd id="aspace_20a102a0674a23c616426afe6a1aa852">
+            <head>General note</head>
+            <p>"2 / July 31- Aug 1 etc. The true story of Watergate"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46_ah4" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #3</unittitle>
+            <unitdate datechar="creation">12/06/1973</unitdate>
+            <container id="aspace_ad2b410b7964399c5388020a2722ff4a" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_e6d36bd6ae48f5f8285b19f26d3bac33" parent="aspace_ad2b410b7964399c5388020a2722ff4a" type="Folder">3</container>
+          </did>
+          <odd id="aspace_06c54b9ddbe16d54f3fbda3b125805ab">
+            <head>General note</head>
+            <p>"2 [sic] / Diary #2 ends Dec 6, 1973"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48_pie" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #4</unittitle>
+            <unitdate datechar="creation">12/06/1973</unitdate>
+            <container id="aspace_87b9d0a043e945b06d3bd288c4427342" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_26f4e0443d87cfe3e782d3a5ea775548" parent="aspace_87b9d0a043e945b06d3bd288c4427342" type="Folder">4</container>
+          </did>
+          <odd id="aspace_8f0c22d71b9fa192338c861398c886f2">
+            <head>General note</head>
+            <p>"3 / Diary #3 Dec. 6, 1973"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50_g9o" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #5</unittitle>
+            <unitdate datechar="creation">02/03/1974</unitdate>
+            <container id="aspace_5e680c873758e17d88a2f5fd2aea0c91" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_fce1423cc0d125188c5361afbce7ddcf" parent="aspace_5e680c873758e17d88a2f5fd2aea0c91" type="Folder">5</container>
+          </did>
+          <odd id="aspace_c2704b1da7d61d60177bbed165016091">
+            <head>General note</head>
+            <p>"4 / Ends February 3, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52_p23" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #6</unittitle>
+            <unitdate datechar="creation">02/15/1974</unitdate>
+            <container id="aspace_5c7d692d16bd82d3041405a30818112e" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_554013a7f0864bc39dca81e07f2a8a9b" parent="aspace_5c7d692d16bd82d3041405a30818112e" type="Folder">6</container>
+          </did>
+          <odd id="aspace_1272d2382d84d754d35fa62afca8a793">
+            <head>General note</head>
+            <p>"5 / Ends February 15, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref54_frw" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #7</unittitle>
+            <unitdate datechar="creation">01/21/1974</unitdate>
+            <container id="aspace_60804d30e6814a6dc3b3ff614bddf112" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_f857b2731effc18a0388bca350e04b89" parent="aspace_60804d30e6814a6dc3b3ff614bddf112" type="Folder">7</container>
+          </did>
+          <odd id="aspace_ee0745615fbed66e8761d8a190fc760d">
+            <head>General note</head>
+            <p>"6 / Diary Ends Jan 21, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56_rcm" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #8</unittitle>
+            <unitdate datechar="creation">01/21/1974 --01/24/1974</unitdate>
+            <container id="aspace_8f1494187191686ea5ddc23e259eb3a8" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_1e2dfd496a3683be0814ed5861b11666" parent="aspace_8f1494187191686ea5ddc23e259eb3a8" type="Folder">8</container>
+          </did>
+          <odd id="aspace_23fef040a7d6d7ff8e2c0197965c2fd4">
+            <head>General note</head>
+            <p>"6A / Jan 21, 1974-Begins (cont) Ends Jan 24, 1974 Diary"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58_1xe" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #9</unittitle>
+            <unitdate datechar="creation">01/24/1974 --01/29/1974</unitdate>
+            <container id="aspace_8d00f0646d788586fd7bd9390565f899" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_17d75546a0adeffc68dda1ff73769f11" parent="aspace_8d00f0646d788586fd7bd9390565f899" type="Folder">9</container>
+          </did>
+          <odd id="aspace_ea539d61bb0454861fc38242ca88dfd9">
+            <head>General note</head>
+            <p>"7 / Begins Jan 24 (cont) Diary, Ends Jan 29, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref60_hpn" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #10</unittitle>
+            <unitdate datechar="creation">01/29/1974 --02/06/1974</unitdate>
+            <container id="aspace_6fa9341692f858c05f44eab003b81ca1" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_ed611f2eefa96835d6bb4142fd5ae98b" parent="aspace_6fa9341692f858c05f44eab003b81ca1" type="Folder">10</container>
+          </did>
+          <odd id="aspace_2c7d12d11b69d727b386b06cadf604df">
+            <head>General note</head>
+            <p>"8 / Diary Begins Jan 29 (Cont) Ends Feb 6"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref62_cjp" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #11</unittitle>
+            <unitdate datechar="creation">02/09/1974 --02/15/1974</unitdate>
+            <container id="aspace_a68cfa548b7b5f863d9e34219a39e72d" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_b058e1a63245a0806e6c604c4b6f3331" parent="aspace_a68cfa548b7b5f863d9e34219a39e72d" type="Folder">11</container>
+          </did>
+          <odd id="aspace_e7d66c159210a7aab81fc25195a685c0">
+            <head>General note</head>
+            <p>"9 / Diary Feb 9 Ends Feb 15"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref64_ya0" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #12</unittitle>
+            <unitdate datechar="creation">02/15/1974 --02/20/1974</unitdate>
+            <container id="aspace_d920ef6aed4921d3283b066641a792f6" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_58ba0e0c14ac3769c1d519af1d11cf98" parent="aspace_d920ef6aed4921d3283b066641a792f6" type="Folder">12</container>
+          </did>
+          <odd id="aspace_366449526a6e1d58348d903d13db4b75">
+            <head>General note</head>
+            <p>"10 / Diary Begins Feb 15 (cont) Ends Feb 20"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref66_2wi" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #13</unittitle>
+            <unitdate datechar="creation">02/20/1974 --03/03/1974</unitdate>
+            <container id="aspace_4ec1956041dd012d2015b38ebdf2e448" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_22076d2093c52899e2d9f8e80b1f55cd" parent="aspace_4ec1956041dd012d2015b38ebdf2e448" type="Folder">13</container>
+          </did>
+          <odd id="aspace_2a449f13495ab5c7d055232280226647">
+            <head>General note</head>
+            <p>"11 / Diary Begins Feb 20 (cont) Ends March 3"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref68_scx" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #14</unittitle>
+            <unitdate datechar="creation">03/04/1974 --03/12/1974</unitdate>
+            <container id="aspace_69b4ab92e81a96073e0a485216879ccc" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_e57956c86b13bc63d2832ca30e27adf3" parent="aspace_69b4ab92e81a96073e0a485216879ccc" type="Folder">14</container>
+          </did>
+          <odd id="aspace_38347210943c5778cdaa4fbbeaa9430b">
+            <head>General note</head>
+            <p>"12 / Diary Begins Mar 4, 1974 Ends March 12, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref70_nqq" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #15</unittitle>
+            <unitdate datechar="creation">03/11/1974</unitdate>
+            <container id="aspace_128dc4d848fc1b912e89b809dbb3d287" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_6d0abfbcf2c6c95d24260e247a5a5d53" parent="aspace_128dc4d848fc1b912e89b809dbb3d287" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f82d81eda848f06bf45881aa4a5de05e">
+            <head>General note</head>
+            <p>"13 / Diary Begins March 11, 1974 (cont)"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref72_nhz" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #16</unittitle>
+            <unitdate datechar="creation">03/20/1974 --04/02/1974</unitdate>
+            <container id="aspace_8d4e5691aa3d9b00d5183486a25f1e0b" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_b786d95faa05d4afaa372e0a6ce03a0e" parent="aspace_8d4e5691aa3d9b00d5183486a25f1e0b" type="Folder">16</container>
+          </did>
+          <odd id="aspace_9666f749c7f97567bd345fdb2aea22f6">
+            <head>General note</head>
+            <p>"14 / Begins March 20 (cont) End April 2"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref74_t8s" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #17</unittitle>
+            <unitdate datechar="creation">04/02/1974</unitdate>
+            <container id="aspace_18589c7d924d865fe6a23a1a90202cb4" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_3c23bd7034345737ebfb73c01db6e03d" parent="aspace_18589c7d924d865fe6a23a1a90202cb4" type="Folder">17</container>
+          </did>
+          <odd id="aspace_3f711b8a9bee456b36da3e30dc4aa6c8">
+            <head>General note</head>
+            <p>"15 / Begins April 2 1974 (cont)"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref76_kb6" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #18</unittitle>
+            <unitdate datechar="creation">04/30/1974</unitdate>
+            <container id="aspace_545b673505cb1ef4228d5e224285aa26" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_6ddc722381d2e55e90e8f228e4155bd0" parent="aspace_545b673505cb1ef4228d5e224285aa26" type="Folder">18</container>
+          </did>
+          <odd id="aspace_e4fc149d18f6a66d68218a127af304f5">
+            <head>General note</head>
+            <p>"16 / Diary Begins April 20, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref78_2p3" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #19</unittitle>
+            <unitdate datechar="creation">05/07/1974</unitdate>
+            <container id="aspace_1bd5950a0e193b61ccd7a19fc2624bbb" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_32694101136d60523b7e509bebeb5588" parent="aspace_1bd5950a0e193b61ccd7a19fc2624bbb" type="Folder">19</container>
+          </did>
+          <odd id="aspace_6ef1cbf93d15666fe8f7068d8d7bea9a">
+            <head>General note</head>
+            <p>"17 / Diary May 7, 1974 continued"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref80_95v" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #20</unittitle>
+            <unitdate datechar="creation">05/09/1974 --05/27/1974</unitdate>
+            <container id="aspace_c756f2d57d98dae1a6cca8f0e24ec4c8" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_9a783208cddab9701a122b2ff3863522" parent="aspace_c756f2d57d98dae1a6cca8f0e24ec4c8" type="Folder">20</container>
+          </did>
+          <odd id="aspace_d32a80155fd6aec5af312fb44ac4d91b">
+            <head>General note</head>
+            <p>"18 / Diary May 9, 1974 (continued) Ends May 27"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref82_zht" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #21</unittitle>
+            <unitdate datechar="creation">06/04/1974</unitdate>
+            <container id="aspace_ee1a58c03c1b150eb3f1578c56b935b1" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_24329d4d0f5a383edea30088fcfcf0a5" parent="aspace_ee1a58c03c1b150eb3f1578c56b935b1" type="Folder">21</container>
+          </did>
+          <odd id="aspace_191234e7d14b32c104968f4f2512560a">
+            <head>General note</head>
+            <p>"19 / Diary Begins June 4, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref84_go4" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #22</unittitle>
+            <unitdate datechar="creation">06/04/1974</unitdate>
+            <container id="aspace_96839a3dbfbd15821de0a809e6d8ccae" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_46331b86c2e9480fedf7127d225a5c49" parent="aspace_96839a3dbfbd15821de0a809e6d8ccae" type="Folder">22</container>
+          </did>
+          <odd id="aspace_e62c5e8c222059b379ef055e3e49ec91">
+            <head>General note</head>
+            <p>"20 / Diary Ends June 4, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref86_oke" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #23</unittitle>
+            <unitdate datechar="creation">06/04/1974</unitdate>
+            <container id="aspace_bb316b57f05cdb0c65644b845960c83d" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_4293d5c382f136e938ed876195b6c06c" parent="aspace_bb316b57f05cdb0c65644b845960c83d" type="Folder">23</container>
+          </did>
+          <odd id="aspace_4476543652ed629d2ac41af2f871d280">
+            <head>General note</head>
+            <p>"20A / Side #2 of Tape #20 (unintelligible on original tape) Ends June 4, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref88_wbc" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #24</unittitle>
+            <unitdate datechar="creation">06/1974 --06/22/1974</unitdate>
+            <container id="aspace_c69827bf519d4e7c73bffd83e73152c7" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_4fab6cb5777f466efa1ae855899690e4" parent="aspace_c69827bf519d4e7c73bffd83e73152c7" type="Folder">24</container>
+          </did>
+          <odd id="aspace_3e85f22049e8957104d81956574d3415">
+            <head>General note</head>
+            <p>"21 / Diary Begins June ? Ends June 22"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref90_0q1" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #25</unittitle>
+            <unitdate datechar="creation">06/22/1974</unitdate>
+            <container id="aspace_3e5b0fe151ab044c6a9cbf35407e48cc" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_6d4ec53caefccedef3c47fa036be5527" parent="aspace_3e5b0fe151ab044c6a9cbf35407e48cc" type="Folder">25</container>
+          </did>
+          <odd id="aspace_d4a7b510f9cdd939969dcdfba571eae7">
+            <head>General note</head>
+            <p>"22 / Begins June 22, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref92_rgq" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #26</unittitle>
+            <unitdate datechar="creation">06/29/1974</unitdate>
+            <container id="aspace_6242f7c45050ef19712126bdeb706948" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_3413797972b3521ed4f8ec91d70d0a43" parent="aspace_6242f7c45050ef19712126bdeb706948" type="Folder">26</container>
+          </did>
+          <odd id="aspace_1201bdeaae49647b32d216fdfafed0fd">
+            <head>General note</head>
+            <p>"23 / Diary Begins June 29, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref94_sk1" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #27</unittitle>
+            <container id="aspace_93102b4d801ed88abfce364b4ea33dac" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_c1424fac3cffae0068eee178e3ab388b" parent="aspace_93102b4d801ed88abfce364b4ea33dac" type="Folder">27</container>
+          </did>
+          <odd id="aspace_8ad540c36f121b6545ba10bd80e190b5">
+            <head>General note</head>
+            <p>"Side #1 of Tape 24"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref96_fff" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #28</unittitle>
+            <unitdate datechar="creation">06/30/1974</unitdate>
+            <container id="aspace_5fd77ced19c60ca2bac0ace8fe896a89" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_05bc88f470e3bf8811d0cb519cde47bb" parent="aspace_5fd77ced19c60ca2bac0ace8fe896a89" type="Folder">28</container>
+          </did>
+          <odd id="aspace_5ac2dececb11c603d7b9e5ed54002dfc">
+            <head>General note</head>
+            <p>"24 / Diary Begins June 30, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref98_1jk" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #29</unittitle>
+            <unitdate datechar="creation">07/08/1974</unitdate>
+            <container id="aspace_85d895265482441768fed8b3bf47b108" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_fcda7958c87f64c6bd56651bff10a76c" parent="aspace_85d895265482441768fed8b3bf47b108" type="Folder">29</container>
+          </did>
+          <odd id="aspace_82c7d16fbbd00399cc1a9050ed7175a0">
+            <head>General note</head>
+            <p>"25 / Begins July 8, 1974"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref100_xe8" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #30</unittitle>
+            <unitdate datechar="creation">07/16/1974</unitdate>
+            <container id="aspace_3bbe653a57fb9233f9132b0f173386e9" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_f17317fecc77fa448714a8717238b132" parent="aspace_3bbe653a57fb9233f9132b0f173386e9" type="Folder">30</container>
+          </did>
+          <odd id="aspace_52493b7d1e64306d776cb6a6a4cf21c6">
+            <head>General note</head>
+            <p>"26 / Diary Begins July 16, 1974 (note the beginning of the next tape got erased. For explanation see #2 side of [illegible]."</p>
+          </odd>
+        </c>
+        <c id="aspace_ref102_q0x" level="file">
+          <did>
+            <unittitle>Diary: Audiocassette #31</unittitle>
+            <unitdate datechar="creation">08/05/1974</unitdate>
+            <container id="aspace_14e37bcb69fd99843b518a9062c2a8ff" label="Mixed Materials [GW: 32882018206485]" type="Box">13</container>
+            <container id="aspace_9836973a3226c9244cca23e1c4a53bb7" parent="aspace_14e37bcb69fd99843b518a9062c2a8ff" type="Folder">31</container>
+          </did>
+          <odd id="aspace_61e7b48e5b8a873e2c39e0b44500507b">
+            <head>General note</head>
+            <p>"27 / Diary August 4, 1974 [illegible]"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref104_zjo" level="file">
+          <did>
+            <unittitle>Stenorette tape magazine</unittitle>
+            <container id="aspace_c6f88cedf0f5eaa08b28bf7153dab1c6" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_41051ca4d35527edab9881ab78a6a330" parent="aspace_c6f88cedf0f5eaa08b28bf7153dab1c6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_7h9" level="file">
+          <did>
+            <unittitle>Stenorette tape magazine</unittitle>
+            <container id="aspace_f8458844e86e86ea5901d793f3bdde12" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_1b0e749cb2f920d908a29ad22612bc96" parent="aspace_f8458844e86e86ea5901d793f3bdde12" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_j78" level="file">
+          <did>
+            <unittitle>Stenorette tape magazine</unittitle>
+            <container id="aspace_92dfbcb89272ade5df7384521bdad761" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_55468ea882fac6b1d9ac49ad69889b48" parent="aspace_92dfbcb89272ade5df7384521bdad761" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_rrs" level="file">
+          <did>
+            <unittitle>Audiotape</unittitle>
+            <container id="aspace_53a45ed4a36dd70a13b4e1a10b5dae18" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_02b4283ef7ee75fb4a2d9adfc35eb5ee" parent="aspace_53a45ed4a36dd70a13b4e1a10b5dae18" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref113_8jt" level="series">
+        <did>
+          <unittitle>Historical file</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation">1961-1977</unitdate>
+          <physdesc id="aspace_f24ef85a4086ecf796581d08133838c9" label="General Physical Description note">4 Linear feet</physdesc>
+          <container id="aspace_47b19e156a6457fe33887dac098ba2e6" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_5b608469cab0a70460e9d8fa1047beba" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_e10633901c4ef645e3d64ddd59031a42" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_d0191a241f7e02f717dd1dfc47e7ac32" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_4e22e25432e546fb4df57b7c6cc6d6c3" label="Mixed Materials" type="Box">7</container>
+          <container id="aspace_a62c5e367d41de94d96e811cc6e1332a" label="Mixed Materials" type="Box">8</container>
+          <container id="aspace_c44eee6f86e4bea296350cbefbcc7c0b" label="Mixed Materials" type="Box">9</container>
+          <container id="aspace_c3a9f37fced8fd34d1585fb761644ccc" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_233db2c0e1a01e59a20ce0bae7d1ddea" label="Mixed Materials" type="Box">2</container>
+        </did>
+        <scopecontent id="aspace_138b9f20457c9f07203ce5060a689735">
+          <head>Scope and Contents note</head>
+          <p>This series contains reports, memoranda, correspondence, notes, legal documents, publications, clippings and other documents. The material dates from 1970-77, and deals primarily with issues related the Watergate scandal, the resignation of Spiro Agnew, the impeachment of President Nixon, the confirmation of Gerald Ford to be President, the confirmation of Nelson Rockefeller to be Vice President, the efforts of Gerald Ford (as majority leader) to impeach Supreme Court Justice William O. Douglass, and prior efforts to impeach seven other federal judges. Whenever possible, original folder titles have been maintained.</p>
+        </scopecontent>
+        <c id="aspace_ref115_wv6" level="file">
+          <did>
+            <unittitle>Peter W. Rodino, Jr. Historical file (Ford)</unittitle>
+            <unitdate datechar="creation">1961-1973</unitdate>
+            <container id="aspace_0abf655596b8e6bbfa5e689629556064" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2b6c7b0f99902ee1479988d43584a758" parent="aspace_0abf655596b8e6bbfa5e689629556064" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_rj0" level="file">
+          <did>
+            <unittitle>Impeachment--Legal materials</unittitle>
+            <unitdate datechar="creation">1966-1973</unitdate>
+            <container id="aspace_76744cf262ffcdd1f37b10d70359d60d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ee8f06b1f7fdc0363ba9bdf34b753a4f" parent="aspace_76744cf262ffcdd1f37b10d70359d60d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_w3n" level="file">
+          <did>
+            <unittitle>"The September 15th White House Conversation: Cause for the Impeachment of Richard Nixon and an Investigation of the Department of Justice"</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_07c9a5576074641d8ab5b2c5bc58a845" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eec7718ccc0a997967100401b0b81689" parent="aspace_07c9a5576074641d8ab5b2c5bc58a845" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_z6s" level="file">
+          <did>
+            <unittitle>Gerald Ford confirmation--Background [1/2]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_9a378839bed736d73509a2d993b1aa73" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_0d595c990bf51e27c3682613315254e6" parent="aspace_9a378839bed736d73509a2d993b1aa73" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_0fm" level="file">
+          <did>
+            <unittitle>Gerald Ford confirmation--Background [2/2]</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_df37aab60d99c12e26615d5910ceb0d6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d0b2b5fb4db37872dacffbc56e27fefe" parent="aspace_df37aab60d99c12e26615d5910ceb0d6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_304" level="file">
+          <did>
+            <unittitle>Watergate misc.</unittitle>
+            <unitdate datechar="creation">05/1973 --06/1973</unitdate>
+            <container id="aspace_bb3be7f2df15de4f59cd59c29dc895d1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_cecde55fc4ca3bc53aeb41a5d6aa1415" parent="aspace_bb3be7f2df15de4f59cd59c29dc895d1" type="Folder">4</container>
+          </did>
+          <c id="aspace_ref125_6uc" level="file">
+            <did>
+              <unittitle>Historical file</unittitle>
+              <unitdate datechar="creation">04/1973</unitdate>
+              <container id="aspace_3172445f5ac40f1439fb19a37a34f349" label="Mixed Materials" type="Box">3</container>
+              <container id="aspace_4715590227c949e03eff7dadb07fffb6" parent="aspace_3172445f5ac40f1439fb19a37a34f349" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref129_ryp" level="file">
+          <did>
+            <unittitle>"A Report to the Special Prosecutor on Certain Aspects of the Watergate Affair" ACLU</unittitle>
+            <unitdate datechar="creation">06/18/1973</unitdate>
+            <container id="aspace_c48337cca63373dcf447511da977b78b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_df5904d79c7b8e57be937b278e334c09" parent="aspace_c48337cca63373dcf447511da977b78b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref131_e10" level="file">
+          <did>
+            <unittitle>Jerome Zeifman clippings historical file</unittitle>
+            <unitdate datechar="creation">08/1973 --04/1974</unitdate>
+            <container id="aspace_66c025e94b2f09d0804345db54257e98" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_294303295377be8529e3d3705c351666" parent="aspace_66c025e94b2f09d0804345db54257e98" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_i18" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">10/1973</unitdate>
+            <container id="aspace_8201e6f6cb870ce34ac6885b48eeed34" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_a3a91ff56ed01e9e1170134b9961b82d" parent="aspace_8201e6f6cb870ce34ac6885b48eeed34" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_1uy" level="file">
+          <did>
+            <unittitle>Ford confirmation historical file</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_39499e06c2c0b74e7b92682a13972b9a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_87e5dd05cc4a472799ea5b7e0409e9a6" parent="aspace_39499e06c2c0b74e7b92682a13972b9a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref139_xnm" level="file">
+          <did>
+            <unittitle>Gerald Ford--Resolutions, bills, and press releases by PWR, Jr.</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_509b2eeebdb688fc1c46a4d0e8a35337" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ae7b4e570f7354f938b819e9039585f4" parent="aspace_509b2eeebdb688fc1c46a4d0e8a35337" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref133_2z1" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">09/1973</unitdate>
+            <container id="aspace_340c21dacb1496d3d7bebd4e4415c7f1" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_68ae609c0fbbbca9470324def8989474" parent="aspace_340c21dacb1496d3d7bebd4e4415c7f1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_5c2" level="file">
+          <did>
+            <unittitle>Jerome Zeifman historical record (Ford) [1/2]</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_fe113238024409a3a0e2c42889dc9420" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4ad6cbf1911c07718c2194dc824dbfc1" parent="aspace_fe113238024409a3a0e2c42889dc9420" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_s0g" level="file">
+          <did>
+            <unittitle>Jerome Zeifman historical record (Ford) [2/2]</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_723db6bf0c83df1069c3835da44e628f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_cd61ce651a393f5440a11416a3c0ccfd" parent="aspace_723db6bf0c83df1069c3835da44e628f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref145_4g4" level="file">
+          <did>
+            <unittitle>Peter W. Rodino historical file (Ford) [1/2]</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_875912d217a83c839165fe3d93962639" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_11ed4c5be26af1a5ed6b678c82100906" parent="aspace_875912d217a83c839165fe3d93962639" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref147_7wu" level="file">
+          <did>
+            <unittitle>Peter W. Rodino historical file (Ford) [2/2]</unittitle>
+            <unitdate datechar="creation">10/1973 --12/1973</unitdate>
+            <container id="aspace_df9b4a2e82dec5fbde6cc9e4f3c9efaf" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_85a06a7371d9f58398249696b4eaf31e" parent="aspace_df9b4a2e82dec5fbde6cc9e4f3c9efaf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_g5t" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--January 1970 and before</unittitle>
+            <unitdate datechar="creation">10/1973 --01/1974</unitdate>
+            <container id="aspace_525aa0d8ba3c35d7fa13b0fc4753f9c1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_74c5166b64e332935e05af61cf55b960" parent="aspace_525aa0d8ba3c35d7fa13b0fc4753f9c1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_6mv" level="file">
+          <did>
+            <unittitle>Press releases 1974</unittitle>
+            <unitdate datechar="creation">10/1973 --07/1974</unitdate>
+            <container id="aspace_9e9367a2f938e92314150d2c1c89ffa8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_99d7d6c0e19c192204f971c78e91cffa" parent="aspace_9e9367a2f938e92314150d2c1c89ffa8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref153_a3k" level="file">
+          <did>
+            <unittitle>Congressional research service report: "Analysis of the Philosophy and Voting Record of Gerald R. Ford, Nominee for Vice President of the United States"</unittitle>
+            <unitdate datechar="creation">10/25/1973</unitdate>
+            <container id="aspace_a2238469ed62596d9aaabdfc9b659f13" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4f734f1ff0795e3801cf67a44709d939" parent="aspace_a2238469ed62596d9aaabdfc9b659f13" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_dsg" level="file">
+          <did>
+            <unittitle>Inquiry count</unittitle>
+            <unitdate datechar="creation">10/30/1973 --08/20/1974</unitdate>
+            <container id="aspace_fe112a610d63acbf054364550adf958c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f38a5a77d397d820c496bc15dc858f90" parent="aspace_fe112a610d63acbf054364550adf958c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref157_4k9" level="file">
+          <did>
+            <unittitle>"The Offenses of Richard M. Nixon: A Lawyer's Guide for the People of the United States of America"</unittitle>
+            <unitdate datechar="creation">11/1973</unitdate>
+            <container id="aspace_37fcb8d5475c52d392c97caa341da631" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3e0eded8a0c70698b0eb6b2018ff928a" parent="aspace_37fcb8d5475c52d392c97caa341da631" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_f7h" level="file">
+          <did>
+            <unittitle>Materials for Ford confirmation hearing</unittitle>
+            <unitdate datechar="creation">11/1973</unitdate>
+            <container id="aspace_2797643d7d485e756ac3535e30ed29e4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_39582e96b77298640de323af70056609" parent="aspace_2797643d7d485e756ac3535e30ed29e4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref161_w1r" level="file">
+          <did>
+            <unittitle>Peter W. Rodino, Jr. historical file</unittitle>
+            <unitdate datechar="creation">11/1973 --12/1973</unitdate>
+            <container id="aspace_95311029164f476efa124a77c8267c4c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1825b6e9e3bc21163d80e0e0df4c665d" parent="aspace_95311029164f476efa124a77c8267c4c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_6r6" level="file">
+          <did>
+            <unittitle>Chairman Peter W. Rodino, Jr.</unittitle>
+            <unitdate datechar="creation">11/1973 --12/1973</unitdate>
+            <container id="aspace_af572da2b7dcdd3859e24b1643fbfff3" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_feaa8e5f830cdeabc6739a8e674bbe53" parent="aspace_af572da2b7dcdd3859e24b1643fbfff3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref165_unc" level="file">
+          <did>
+            <unittitle>Pardon</unittitle>
+            <unitdate datechar="creation">11/1973 --09/1974</unitdate>
+            <container id="aspace_91d5050fbf8ebed3672432a93d30dccd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2f6425ca3abe7d90feeafdf5b69a9f11" parent="aspace_91d5050fbf8ebed3672432a93d30dccd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_t8f" level="file">
+          <did>
+            <unittitle>Congressional research service report: "Views Held by Gerald R. Ford with Regard to Congressional-Executive Relations"</unittitle>
+            <unitdate datechar="creation">11/06/1973</unitdate>
+            <container id="aspace_2358eb116d333e0094261a4a60cff1d2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_273688cd4aee7eb0760138d2c8738b69" parent="aspace_2358eb116d333e0094261a4a60cff1d2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_dz8" level="file">
+          <did>
+            <unittitle>Jerome Zeifman historical record</unittitle>
+            <unitdate datechar="creation">03/1974</unitdate>
+            <container id="aspace_4f9532e1f0e559414a279b607c6196cf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e4c268b65141174cdadb2ea004427d32" parent="aspace_4f9532e1f0e559414a279b607c6196cf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_9rd" level="file">
+          <did>
+            <unittitle>Impeachment inquiry--Peter W. Rodino, Jr.</unittitle>
+            <unitdate datechar="creation">12/1973 --03/1974</unitdate>
+            <container id="aspace_b482b41d13ba2e6c88fd3b2be8ba455d" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_abd865efdad5be8fa1725fbb9a663e01" parent="aspace_b482b41d13ba2e6c88fd3b2be8ba455d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_3qg" level="file">
+          <did>
+            <unittitle>Gerald Ford's pardon of Richard Nixon</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_5b519090aaddaeacf8ec7fc158d5edc0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_55306d7da4d2c7db0ed933b92bce4a27" parent="aspace_5b519090aaddaeacf8ec7fc158d5edc0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_dbi" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">01/1974</unitdate>
+            <container id="aspace_0b86c196320ba4000038c6e798701984" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_cb03c5a581e35dea0bedb86b4c3d9e1d" parent="aspace_0b86c196320ba4000038c6e798701984" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_1wa" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--February 1974 [1/2]</unittitle>
+            <unitdate datechar="creation">02/1974</unitdate>
+            <container id="aspace_979c2519de83f315ceb718b0c1d0735e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e3a086cdf4352c2847d8755680c18a1f" parent="aspace_979c2519de83f315ceb718b0c1d0735e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_wjq" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--February 1974 [2/2]</unittitle>
+            <unitdate datechar="creation">02/1974</unitdate>
+            <container id="aspace_a3b738c9bc65d851fad58d9541c90fb9" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_6847d29de50c403e2f9320b2cfb06c8f" parent="aspace_a3b738c9bc65d851fad58d9541c90fb9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_wa8" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">02/1974</unitdate>
+            <container id="aspace_19bc4d5e5eab0684d4dbb9ba0571fb20" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ac167159b793d03fffe7991d1b37ef44" parent="aspace_19bc4d5e5eab0684d4dbb9ba0571fb20" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref183_dni" level="file">
+          <did>
+            <unittitle>Hearings Before the Committee on the Judiciary House of Representatives Ninety-third Congress</unittitle>
+            <unitdate datechar="creation">02/1974 --07/1974</unitdate>
+            <container id="aspace_1e34808ce0733cee62850fb7361245a1" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_995077055f636c38a365e61d0ce98e77" parent="aspace_1e34808ce0733cee62850fb7361245a1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref185_6zu" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--March 1974 [1/2]</unittitle>
+            <unitdate datechar="creation">03/1974</unitdate>
+            <container id="aspace_4cc434bc877f6b8993a611de986b9e78" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9f9177dbabb53089b1b347adcbf5b54b" parent="aspace_4cc434bc877f6b8993a611de986b9e78" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_fkk" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--March 1974 [2/2]</unittitle>
+            <unitdate datechar="creation">03/1974</unitdate>
+            <container id="aspace_c6e15e67b2d24c677db94490a18e60ca" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_73bd2d1e359ea54f8b353939475df8bb" parent="aspace_c6e15e67b2d24c677db94490a18e60ca" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_pol" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--April 1974</unittitle>
+            <unitdate datechar="creation">04/1974</unitdate>
+            <container id="aspace_07a785d3fa568ed50757249f702c9fff" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_6d4b427369aa5b41509dbc1312be518a" parent="aspace_07a785d3fa568ed50757249f702c9fff" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref191_lf8" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">04/1974</unitdate>
+            <container id="aspace_c2eb659bcdc0e582042ed032418606e4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_cdccc5f2794b20c16b33a3c6b7aca759" parent="aspace_c2eb659bcdc0e582042ed032418606e4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref193_8oz" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">04/1974</unitdate>
+            <container id="aspace_c776beec5c692ac443160ebc90a0ebf2" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_47b30d229d813ca0d68083dc2bf0c869" parent="aspace_c776beec5c692ac443160ebc90a0ebf2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref195_ye0" level="file">
+          <did>
+            <unittitle>"Examination of President Nixon's Tax Returns for 1969 through 1972 Prepared for the Joint Committee on Internal Revenue Taxation..."</unittitle>
+            <unitdate datechar="creation">04/03/1974</unitdate>
+            <container id="aspace_988ba20dc396da06605c0c40c95e8f67" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_fbec15ebfc6b95c2237132dc2cf80440" parent="aspace_988ba20dc396da06605c0c40c95e8f67" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref197_hrc" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--May 1974</unittitle>
+            <unitdate datechar="creation">05/1974</unitdate>
+            <container id="aspace_600f261282016ca1d496f5ac1aec7a47" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8e7a9f244ea738c3ac49b7721641ae9c" parent="aspace_600f261282016ca1d496f5ac1aec7a47" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref199_ztm" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">05/1974</unitdate>
+            <container id="aspace_207f0b0e8f8f2b95c3ab6460a77c415f" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_9eff37bdfc7ffeeaa1a801ee8bcec336" parent="aspace_207f0b0e8f8f2b95c3ab6460a77c415f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref201_u75" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">05/1974</unitdate>
+            <container id="aspace_4b8f3298bf9412b20559869f364a8fcd" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_d7e428c304cbf6760a91be2e3760913d" parent="aspace_4b8f3298bf9412b20559869f364a8fcd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref203_cxz" level="file">
+          <did>
+            <unittitle>Impeachment inquiry file--june 1974</unittitle>
+            <unitdate datechar="creation">06/1974</unitdate>
+            <container id="aspace_f03cbc68debc930249f9a1dedec229dc" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_744681de2ab58e6683d241c27ac8d2ce" parent="aspace_f03cbc68debc930249f9a1dedec229dc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref205_8j8" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">06/1974</unitdate>
+            <container id="aspace_fcb24173192509fe9ad45894ffa973c7" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_8b7133a12e2ca0341fec8a3c53d402c1" parent="aspace_fcb24173192509fe9ad45894ffa973c7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref207_1cy" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">06/1974</unitdate>
+            <container id="aspace_d62fae2c82a44a984815f784f6fe1fe0" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_d9b70a9b60ae103328a921024e0a03cd" parent="aspace_d62fae2c82a44a984815f784f6fe1fe0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref209_mph" level="file">
+          <did>
+            <unittitle>F.B.I. Counter intelligence programs</unittitle>
+            <unitdate datechar="creation">06/1974 --11/1974</unitdate>
+            <container id="aspace_a158624318803275db90bc410ab72871" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_3dcb5a9752de9015a02b85542cd3bc5c" parent="aspace_a158624318803275db90bc410ab72871" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref211_i0c" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file--Memorandum: Report on impoundment of funds</unittitle>
+            <unitdate datechar="creation">06/12/1974</unitdate>
+            <container id="aspace_4e065a26332a13e0feaaebd9ba0c0c33" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_70fc9b9b94ea012db98fc4b9380df866" parent="aspace_4e065a26332a13e0feaaebd9ba0c0c33" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref213_0ii" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">07/1974</unitdate>
+            <container id="aspace_a3fd8daa0b70cabcd9d25b72cd87c391" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1e221b1243a2e32cf3561c0dc59e79a8" parent="aspace_a3fd8daa0b70cabcd9d25b72cd87c391" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref215_aj0" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">07/1974</unitdate>
+            <container id="aspace_ace40e5e953cbac47870fdb37c3b1749" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_82e696f99e81d501bf04c1cc99781949" parent="aspace_ace40e5e953cbac47870fdb37c3b1749" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref217_1db" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">07/1974</unitdate>
+            <container id="aspace_8fd51a4122724dc6c1398f69cdabe854" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_6fe757349dcf1edc85bfd37ce45f1d4d" parent="aspace_8fd51a4122724dc6c1398f69cdabe854" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref219_o7g" level="file">
+          <did>
+            <unittitle>Comparison of passages from "Transcripts of Eight Recorded Presidential Conversations" by the Committee on the Judiciary House of Representatives</unittitle>
+            <unitdate datechar="creation">07/09/1974</unitdate>
+            <container id="aspace_b889b03911c7aeebe41ad97272e69610" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_cd35f5448d8d3aa6876d4c92304197b2" parent="aspace_b889b03911c7aeebe41ad97272e69610" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref221_0cb" level="file">
+          <did>
+            <unittitle>Brief on Behalf of the President of the United States Richard Nixon to the Committee on the Judiciary Ninety-third Congress U.S. House of Represenatatives</unittitle>
+            <unitdate datechar="creation">07/19/1974</unitdate>
+            <container id="aspace_118c7e145cf222b1251e76b3fbaa8e0d" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_9424814ea1954baa3841b1cd3feaf8c6" parent="aspace_118c7e145cf222b1251e76b3fbaa8e0d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref223_004" level="file">
+          <did>
+            <unittitle>Full committee notice of meeting</unittitle>
+            <unitdate datechar="creation">07/23/1974</unitdate>
+            <container id="aspace_60c27399158bacb78e444c94823bf5a2" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_50483751bb0c0d64fa4ea902ec680bff" parent="aspace_60c27399158bacb78e444c94823bf5a2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref225_s73" level="file">
+          <did>
+            <unittitle>Special historical file</unittitle>
+            <unitdate datechar="creation">07/24/1974</unitdate>
+            <container id="aspace_5f88743c58ff59736c5284e15a50c5d1" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_d34ddfca805f5c11261a3fc399b5a402" parent="aspace_5f88743c58ff59736c5284e15a50c5d1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref227_bde" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">08/1974</unitdate>
+            <container id="aspace_6502c63b0d0b33ce93865f161a66ea28" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_4cf49df3072e27be3094506fb7c58507" parent="aspace_6502c63b0d0b33ce93865f161a66ea28" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref229_jir" level="file">
+          <did>
+            <unittitle>Nelson D. Rockefeller</unittitle>
+            <unitdate datechar="creation">08/1974 --10/1974</unitdate>
+            <container id="aspace_7ed4bb16a4c3fed6bc7875f26b2981bd" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_9ea5550c85af53c10112591ea15c7ad2" parent="aspace_7ed4bb16a4c3fed6bc7875f26b2981bd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref231_to4" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <unitdate datechar="creation">09/1974 --11/1974</unitdate>
+            <container id="aspace_c4c4f65f0cfa9ba65f78602747eb8051" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_33262a7b967e81a3d0cdea2ddc1e5bf6" parent="aspace_c4c4f65f0cfa9ba65f78602747eb8051" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref233_rb9" level="file">
+          <did>
+            <unittitle>"Big Brother and the Holding Company: The World Behind Watergate" page proofs</unittitle>
+            <unitdate datechar="creation">10/28/1974</unitdate>
+            <container id="aspace_eeda5105c1e0ccc654d77ccb7524b8f9" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_888e8625a3e594cb0658ce7091396985" parent="aspace_eeda5105c1e0ccc654d77ccb7524b8f9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref235_cgc" level="file">
+          <did>
+            <unittitle>Historical file</unittitle>
+            <unitdate datechar="creation">1975-1977</unitdate>
+            <container id="aspace_bdb9040b87368e647328f8228f27a90c" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_33491122fe889ac78fe5a2fa8187ac65" parent="aspace_bdb9040b87368e647328f8228f27a90c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref237_9fs" level="file">
+          <did>
+            <unittitle>An Analysis of the Constitutional Standard for Presidential Impeachment</unittitle>
+            <container id="aspace_112481ba9f9f650631cc5f99672d15ab" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_29a424ec9c824f803128c799e392d1c8" parent="aspace_112481ba9f9f650631cc5f99672d15ab" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref239_wxu" level="file">
+          <did>
+            <unittitle>Impeachment inquiry historical file</unittitle>
+            <container id="aspace_dc7274680264672c553032d63c28643b" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_22ef0fb55adb03e0d5970d06356acb2e" parent="aspace_dc7274680264672c553032d63c28643b" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref242_78r" level="series">
+        <did>
+          <unittitle>Stenographic Minutes</unittitle>
+          <unitid>Series 3</unitid>
+          <unitdate datechar="creation">1974</unitdate>
+          <physdesc id="aspace_8469ade6d975e72e29ef809f180f11dc" label="General Physical Description note">1.5 Linear feet</physdesc>
+          <container id="aspace_e9b5d86f4d68bca113b0cee14afab651" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_d8cb417b090ec42e3b54f3c5366a11c2" label="Mixed Materials" type="Box">11</container>
+          <container id="aspace_985cb70a7de4b8824645e9eabc850f19" label="Mixed Materials" type="Box">12</container>
+        </did>
+        <scopecontent id="aspace_00eba48b8eb256b9241204808309f9f8">
+          <head>Scope and Contents note</head>
+          <p>This series contains stenographic minutes of the proceedings of the Committee on Judiciary of the United States House of Representatives. The material dates from January through July 1974. The minutes are unedited and unrevised.</p>
+        </scopecontent>
+        <odd id="aspace_04c9ab778efd6615b7ad689e2bd5ca3b">
+          <head>Bib #</head>
+          <p>6810792</p>
+        </odd>
+        <c id="aspace_ref244_kdz" level="file">
+          <did>
+            <unittitle>Briefing by Staff Vol. 1</unittitle>
+            <unitdate datechar="creation">02/05/1974</unitdate>
+            <container id="aspace_049fdc9e671c1e96c7748ec204bfb196" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_b6c197e49c3f0d829cada0a70b7e930a" parent="aspace_049fdc9e671c1e96c7748ec204bfb196" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref246_bgu" level="file">
+          <did>
+            <unittitle>Briefing by Staff Vol. 1</unittitle>
+            <unitdate datechar="creation">02/14/1974</unitdate>
+            <container id="aspace_189803315d44f14aec6a2abffa6f4849" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_73b0dcc5a4dc498ae14151ac0b462554" parent="aspace_189803315d44f14aec6a2abffa6f4849" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref248_bev" level="file">
+          <did>
+            <unittitle>Briefing by Staff Vol. 1</unittitle>
+            <unitdate datechar="creation">02/22/1974</unitdate>
+            <container id="aspace_724eb7022cb4417db6411bcfa54439bd" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_e243fac1506193e11194fd12bbf134b2" parent="aspace_724eb7022cb4417db6411bcfa54439bd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref250_oco" level="file">
+          <did>
+            <unittitle>Briefing by Staff Vol. 1</unittitle>
+            <unitdate datechar="creation">03/05/1974</unitdate>
+            <container id="aspace_829de6f6fc965592f5f41d3ea439455b" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_db607d53174b63974dc51251ef9f425b" parent="aspace_829de6f6fc965592f5f41d3ea439455b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref252_1wj" level="file">
+          <did>
+            <unittitle>Committee Business--Executive Session Vol. 1</unittitle>
+            <unitdate datechar="creation">03/12/1974</unitdate>
+            <container id="aspace_fac417739fd39e19d48eabd064a80b08" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_f14ebd347dfdfa4b007322f77cae6a39" parent="aspace_fac417739fd39e19d48eabd064a80b08" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref254_gap" level="file">
+          <did>
+            <unittitle>Impeachment Briefing Vol. 1</unittitle>
+            <unitdate datechar="creation">03/20/1974</unitdate>
+            <container id="aspace_2087a6b5e35e18c8451673048b0698d9" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_e3884392dee246290adda27f15de9338" parent="aspace_2087a6b5e35e18c8451673048b0698d9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref256_0c4" level="file">
+          <did>
+            <unittitle>Impeachment Briefing Vol. 2</unittitle>
+            <unitdate datechar="creation">03/21/1974</unitdate>
+            <container id="aspace_89bbb91d43af1bd1c0dc45ffd8cda37e" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_156fa86bfda3bfd8ca1a9c5e748fc57b" parent="aspace_89bbb91d43af1bd1c0dc45ffd8cda37e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref258_29n" level="file">
+          <did>
+            <unittitle>Committee Business Vol. 1</unittitle>
+            <unitdate datechar="creation">03/26/1974</unitdate>
+            <container id="aspace_7a7342fc789e64a203eea21a5380e201" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_9f1a191b600348fb40aef5258abddfa2" parent="aspace_7a7342fc789e64a203eea21a5380e201" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref260_8ct" level="file">
+          <did>
+            <unittitle>Impeachment Briefing Vol. 1</unittitle>
+            <unitdate datechar="creation">04/04/1974</unitdate>
+            <container id="aspace_0af5b483e648cc8555469dfb90f41fb3" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_0f9b74e31027a8202ced647f3c925e57" parent="aspace_0af5b483e648cc8555469dfb90f41fb3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref262_635" level="file">
+          <did>
+            <unittitle>Impeachment Briefing Vol. 1</unittitle>
+            <unitdate datechar="creation">04/08/1974</unitdate>
+            <container id="aspace_b8a5038653d4142293609141f2523328" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_5f98000f4ff11418ef735d8cb432e0cd" parent="aspace_b8a5038653d4142293609141f2523328" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref264_92m" level="file">
+          <did>
+            <unittitle>Impeachment Briefing Vol. 1</unittitle>
+            <unitdate datechar="creation">04/11/1974</unitdate>
+            <container id="aspace_dd8b26cf30c394fc4e1054951a4ac62c" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_c55d1fe3cd697a3159ffaf00ac04500c" parent="aspace_dd8b26cf30c394fc4e1054951a4ac62c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref266_kib" level="file">
+          <did>
+            <unittitle>Impeachment Meeting Vol. 1</unittitle>
+            <unitdate datechar="creation">04/25/1974</unitdate>
+            <container id="aspace_6e7639c757b36ef9bb21a08f6e7202bc" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_f84c9f26626968f76bb80f7692daebec" parent="aspace_6e7639c757b36ef9bb21a08f6e7202bc" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref268_id6" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Procedures Vol. 1</unittitle>
+            <unitdate datechar="creation">05/01/1974</unitdate>
+            <container id="aspace_3b67acabf93ef817e8f083e48aaae43f" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_eab9baa2b2c5be76bf6fa23a11c5a470" parent="aspace_3b67acabf93ef817e8f083e48aaae43f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref270_b2i" level="file">
+          <did>
+            <unittitle>Impeachment Meeting Vol. 1</unittitle>
+            <unitdate datechar="creation">05/01/1974</unitdate>
+            <container id="aspace_7740cee68ec1091e1ea31d7a7457a1f3" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_8ec4511900b8a9efb4b0674fe84223b3" parent="aspace_7740cee68ec1091e1ea31d7a7457a1f3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref272_93u" level="file">
+          <did>
+            <unittitle>Impeachment Meeting Vol. 1</unittitle>
+            <unitdate datechar="creation">05/02/1974</unitdate>
+            <container id="aspace_f281c7d50c33384a6ebd58bc016f6f03" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_3144b52747399d22ba56604342228adb" parent="aspace_f281c7d50c33384a6ebd58bc016f6f03" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref274_fc3" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry--Executive Session Vol. 1</unittitle>
+            <unitdate datechar="creation">05/09/1974</unitdate>
+            <container id="aspace_cc699fe12c2a6c0533291cbf35a86d9c" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_463e55212fd3babfba1e43e3c1ac276e" parent="aspace_cc699fe12c2a6c0533291cbf35a86d9c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref276_if1" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 1</unittitle>
+            <unitdate datechar="creation">05/09/1974</unitdate>
+            <container id="aspace_c6bef87b03e7bb7d72b24b4d67ca1605" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_5688c64deeb717006a27f719f95693d3" parent="aspace_c6bef87b03e7bb7d72b24b4d67ca1605" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref278_yo8" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 2</unittitle>
+            <unitdate datechar="creation">05/14/1974</unitdate>
+            <container id="aspace_88fd804dfa33a0205c32038d53a56a40" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_e2a2ad06c76aa7459fb606feab871fe4" parent="aspace_88fd804dfa33a0205c32038d53a56a40" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref280_54z" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 1</unittitle>
+            <unitdate datechar="creation">07/24/1974</unitdate>
+            <container id="aspace_c3ea1ccb71edc857a2ee74a75bc52de7" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_d3253b3a77f3243437748415923dd2f6" parent="aspace_c3ea1ccb71edc857a2ee74a75bc52de7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref282_trw" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 2</unittitle>
+            <unitdate datechar="creation">07/25/1974</unitdate>
+            <container id="aspace_2e78883139cc0c2fbc867bec519ba8c5" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_c1ac9c5d4baec14ae79b59d2b64d6025" parent="aspace_2e78883139cc0c2fbc867bec519ba8c5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref284_hf7" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 3</unittitle>
+            <unitdate datechar="creation">07/26/1974</unitdate>
+            <container id="aspace_525a1667ad85028f4558fbb826cf421a" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_33a9017c4a459858dbcc44365b5500c3" parent="aspace_525a1667ad85028f4558fbb826cf421a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref286_141" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 5</unittitle>
+            <unitdate datechar="creation">07/29/1974</unitdate>
+            <container id="aspace_a34a252b2bb8928bb53605b03c016faf" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_affeefa459998b703216aac68eb57697" parent="aspace_a34a252b2bb8928bb53605b03c016faf" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref288_vst" level="file">
+          <did>
+            <unittitle>Impeachment Inquiry Vol. 6</unittitle>
+            <unitdate datechar="creation">07/30/1974</unitdate>
+            <container id="aspace_4bf752e023d6ca825fd1e3a59b103eff" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_aab591800a3cd0292a362ca59e77e768" parent="aspace_4bf752e023d6ca825fd1e3a59b103eff" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

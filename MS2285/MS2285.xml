@@ -1,0 +1,1387 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2285.xml">ms2285.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Ben's Chili Bowl records, <date calendar="gregorian" era="ce">1943-2018</date> 
+ <num>MS2285</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:43:08 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Ben's Chili Bowl records</unittitle>
+      <unitid>MS2285</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1943/2018" type="inclusive">1943-2018</unitdate>
+      <physloc id="aspace_1686b1158d658f1abe2607b134808a80">Materials are stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_1090d9df36f5b80aaa1484c0bfb7eb06">This collection consists of records relating to the Washington, D.C. restaurant Ben's Chili Bowl dating from 1943-2018.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <bioghist id="aspace_fc7900b4557fb8f4c66521507d8a16ad">
+      <head>Biographical / Historical</head>
+      <p>Ben's Chili Bowl was founded on August 22, 1958, by Ben Ali, a Trinidadian-born immigrant and his fiancee, Virginia Rollins. The building they chose was that of Washington's first silent movie house, the Minnehaha.  The building is a contributing property to the Greater U Street Historic District.  At the time, Washington was officially segregated, and U Street was known as "Black Broadway".</p>
+      <p>The U Street corridor was devastated by the 1968 civil unrest that followed the assassination of Martin Luther King, Jr. During the civil unrest, black activist Stokely Carmichael, leader of the Student Nonviolent Coordinating Committee, asked Ben to keep his restaurant open and the Alis obtained permission to stay open past curfew. The restaurant fed both the police officers and firemen working to impose order on the neighborhood, as well as the black activists. </p>
+      <p>The destruction of so many businesses led to the flight of residents towards the suburbs and the economic decline of the neighborhood through the mid-1970s to mid-1980s. The vast construction of the U Street/Cardozo Metro Station across the street from the restaurant, completed in 1991, forced still more U Street businesses to close, but Ben's Chili Bowl stayed open to feed the construction workers.</p>
+      <p>In 2008, Ben's Chili Bowl opened a second location in the newly built Nationals Park. On October 7, 2009, Ben died at the age of 82. He and his wife, Virginia, had retired from the restaurant business, having passed daily operations of Ben's Chili Bowl to their sons, Kamal and Nizam. </p>
+    </bioghist>
+    <prefercite id="aspace_ac72c1c460ec846bdab24965625e0177">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <acqinfo id="aspace_fb870dea7b9f80ed045295cd7ff1c9ca">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of the Ali family, 2010, 2014  (2010.033, 2010.043, 2014.030)</p>
+    </acqinfo>
+    <scopecontent id="aspace_7942a637dd0f5ac804091f4e7e2443d9">
+      <head>Scope and Contents</head>
+      <p>This collection contains business records, correspondence, historical documents, financial records, photographs, and clippings. The material dates from 1943-2018. These are the records of the Ali family chronicling the establishment and maintaining of the Ben's Chili Bowl restaurant.</p>
+    </scopecontent>
+    <arrangement id="aspace_47bfc921943ec8a765e0d77062ffabc5">
+      <head>Arrangement</head>
+      <p>Organized into 5 series: Historical records, Business records, Community outreach, Photographs, Publicity/Press</p>
+    </arrangement>
+    <userestrict id="aspace_4b6629e2d72b4f156853c005ad057861">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <accessrestrict id="aspace_d68c92a348448f0d902ca2a1c873f375">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <relatedmaterial id="aspace_ec2338e1d4ef20fa20c4bc91f93a8730">
+      <head>Related</head>
+      <p>In 2020 Sonali Mirpuri donated a digital copy of her Georgetown Honors Thesis titled <extref xlink:href="https://searcharchives.library.gwu.edu/repositories/2/archival_objects/560339" xlink:show="new" xlink:actuate="onrequest"> Mahaboob Ben Ali and His Chili Bowl: A Story of Family and Identity in the U Street Corridor</extref></p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Business</subject>
+      <geogname source="lcsh">Shaw (Washington, D.C.)</geogname>
+      <subject source="lcsh">African Americans</subject>
+      <subject source="lcsh">Washington (D.C.) -- History</subject>
+      <corpname source="naf">Ben's Chili Bowl</corpname>
+      <persname source="local">Williams, Anthony</persname>
+      <persname rules="aacr" source="naf">Barry, Marion</persname>
+      <persname rules="aacr" source="naf">Cosby, Bill</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref49_iqm" level="series">
+        <did>
+          <unittitle>Historical records</unittitle>
+          <unitid>Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1943/2018" type="inclusive">1943-2018</unitdate>
+        </did>
+        <arrangement id="aspace_697fb79192f39dd3a6ecd2cf126fa1f8">
+          <head>Arrangement</head>
+          <p>Arranged chronologically</p>
+        </arrangement>
+        <scopecontent id="aspace_7e1831531eed119413b768a526214133">
+          <head>Scope and Contents</head>
+          <p>This series contains historical material that document the history of Ben Ali and Ben's Chili Bowl. Materials included are Ben Ali's personal documents, interviews and material from the 40th,45th and 50th Anniversaries of Ben's Chili Bowl's opening. Material dates from 1943-2018.</p>
+        </scopecontent>
+        <c id="aspace_ref33_qo0" level="file">
+          <did>
+            <unittitle>Ben's Chili Bowl history </unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_40a656d3833f604b91137bfd4d4ceff1" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_309c0754d9f6ea72d33b21d80e8c2e8b" parent="aspace_40a656d3833f604b91137bfd4d4ceff1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_nmk" level="file">
+          <did>
+            <unittitle>Ben Ali's personal documents</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1943-1973</unitdate>
+            <container id="aspace_5df7422168560188e8c047634679a579" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_b9b0ec5ea8c6f734aabaf1bc43757edd" parent="aspace_5df7422168560188e8c047634679a579" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_wve" level="file">
+          <did>
+            <unittitle>Menus</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1960-2003</unitdate>
+            <container id="aspace_6d38119196f91321ce767e9eac09111e" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_17015ab6a5f2357066fda9cc463c25cc" parent="aspace_6d38119196f91321ce767e9eac09111e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_bae" level="file">
+          <did>
+            <unittitle>Menus</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a1693b0b546bc3d29608bf5bf1853854" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_db01da28383e69f19c17c4f9e139c9dd" parent="aspace_a1693b0b546bc3d29608bf5bf1853854" type="Folder">4</container>
+          </did>
+          <odd id="aspace_9af84d00fbe52a5baa7f96601a049bb1">
+            <head>General</head>
+            <p>One menu for Ben's Chili Bowl and one menu for Next Door restaurant + bar</p>
+          </odd>
+        </c>
+        <c id="aspace_ref96_0m2" level="file">
+          <did>
+            <unittitle>Awards, proclamations, certificates</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1986-2007</unitdate>
+            <container id="aspace_57864bab6210de60be965e543e8e58cd" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_b9264f250f7f512f6080fd0853fbf582" parent="aspace_57864bab6210de60be965e543e8e58cd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163_ude" level="file">
+          <did>
+            <unittitle>Construction sign</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_6e45038ac7778cb1a2b0146265143439" label="Mixed Materials [32882020557396]" type="Box">10</container>
+            <container id="aspace_bb080a4ea4aa636ca587fb2879d6921f" parent="aspace_6e45038ac7778cb1a2b0146265143439" type="object">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_1a8" level="file">
+          <did>
+            <unittitle>40th anniversary material</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_38dee0817f63b4a71d279e7c3566eec1" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_c6cd6176ad89846e7352e566726433e0" parent="aspace_38dee0817f63b4a71d279e7c3566eec1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_p3h" level="file">
+          <did>
+            <unittitle>45th Anniversary material</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_ba458fc8499fa260c7248157d2cf5835" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_b489dc7fdfbbf5f61cf7a079bd0d28cc" parent="aspace_ba458fc8499fa260c7248157d2cf5835" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_o2j" level="file">
+          <did>
+            <unittitle>50th  and 60th Anniversary material</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2008/2018" type="inclusive">2008, 2018</unitdate>
+            <container id="aspace_2d186fd04e698c772f8329ddaecfa30d" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_b4ebb24dac04e292eab79670d2e8078f" parent="aspace_2d186fd04e698c772f8329ddaecfa30d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_wcn" level="file">
+          <did>
+            <unittitle>50 Years of a Washington Landmark book materials </unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">2008</unitdate>
+            <container id="aspace_af74d0d74e589a38ea365ff8878fa1d4" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_4d61b0a696b1df767d480c5188388f62" parent="aspace_af74d0d74e589a38ea365ff8878fa1d4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_slg" level="file">
+          <did>
+            <unittitle>Virginia Ali interview</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">2004 February 9</unitdate>
+            <container id="aspace_0b985b759f9bbb709e64e5888ce802b5" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_9161bf5970397dac966b097569b716e3" parent="aspace_0b985b759f9bbb709e64e5888ce802b5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_zx1" level="file">
+          <did>
+            <unittitle>Resumes - Ali family</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f9d7a8d7bfe80f95600bba640e83a83a" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_818df9a031bd5848f6df4e9d48e1619e" parent="aspace_f9d7a8d7bfe80f95600bba640e83a83a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref151_dm1" level="file">
+          <did>
+            <unittitle>Radio commercial transcripts</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9aed9638130e19034499577bd541b965" label="Mixed Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_2b11f71c0842ccf87719271519bfbff4" parent="aspace_9aed9638130e19034499577bd541b965" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref159_zy5" level="file">
+          <did>
+            <unittitle>Documentary - Welcome to Ben's</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">2009</unitdate>
+            <container id="aspace_829d8d6fc1788e4430418ac8e96e1d58" label="Graphic Materials [32882020111384]" type="Box">1</container>
+            <container id="aspace_34883d262b58013e915238c116486e13" parent="aspace_829d8d6fc1788e4430418ac8e96e1d58" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref166_5b4" level="file">
+          <did>
+            <unittitle>Historical documents</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container id="aspace_0af2ba1be63901882d405403fa38f1bc" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_87839d39e6dd2542ed8c9eb0b9e35436" parent="aspace_0af2ba1be63901882d405403fa38f1bc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref165_mnd" level="file">
+          <did>
+            <unittitle>Gala events</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2010/2013" type="inclusive">2010-2013</unitdate>
+            <container id="aspace_213d1727f2c436f23245be1989dc9e36" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_ed720511d587cc0797d324e3087e3078" parent="aspace_213d1727f2c436f23245be1989dc9e36" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref174_6hf" level="file">
+          <did>
+            <unittitle>Virginia Ali's 80th Birthday party</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013 December 7</unitdate>
+            <container id="aspace_9e09ecd61d546c18ce34b54ab2c1d601" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_ccd052370648092ed6550c2075a4d790" parent="aspace_9e09ecd61d546c18ce34b54ab2c1d601" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_tyf" level="file">
+          <did>
+            <unittitle>Banner</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b8bdb80eca736c8fcd89a94027fd521d" label="Realia [32882021175578]" type="Box">12</container>
+            <container id="aspace_b55cd7cc8ccfd3b5364bd1cbffd069f4" parent="aspace_b8bdb80eca736c8fcd89a94027fd521d" type="banner">1</container>
+          </did>
+          <odd id="aspace_c579621dadfeb33b9a8dd9467e6ca55a">
+            <head>General</head>
+            <p>Banner reads "Ben's Chili Bowl Welcomes Ancestors of the Black Civil War Soldiers"</p>
+          </odd>
+        </c>
+        <c id="aspace_ref182_944" level="file">
+          <did>
+            <unittitle>Banners</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+            <physdesc id="aspace_ffa9ebabf80e2e0d71959b68993ff7ca">These banners have a sticky residue on them and will require conservation work.</physdesc>
+            <container id="aspace_7ec624f621854e57a1e91751f31f20f4" label="Realia [32882021175578]" type="Box">12</container>
+            <container id="aspace_d0e95b5828824346348ed9623d47c34f" parent="aspace_7ec624f621854e57a1e91751f31f20f4" type="banner">3</container>
+            <container id="aspace_97d01ae41b26ba03b024f98401a4a3c9" label="Realia [32882021175578]" type="Box">12</container>
+            <container id="aspace_cf6c79cee7a94c83a8a5990fa00123dc" parent="aspace_97d01ae41b26ba03b024f98401a4a3c9" type="banner">2</container>
+          </did>
+          <odd id="aspace_dc4d564b88232a742a2c64a6d60824c2">
+            <head>General</head>
+            <p>March on Washington 50th anniversary banners</p>
+          </odd>
+        </c>
+        <c id="aspace_ref178_o23" level="file">
+          <did>
+            <unittitle>Ribbon and pin</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_72eaed0944a28344014068d02e9d635f" label="Realia [32882021175578]" type="Box">12</container>
+            <container id="aspace_65148aa839d3fd044df9e5e9a7069cfd" parent="aspace_72eaed0944a28344014068d02e9d635f" type="object">2</container>
+          </did>
+          <odd id="aspace_d4c872cc4beee8f5037ffe2c433a50b3">
+            <head>General</head>
+            <p>Small rolled ribbon. Advertisement stamp that reads: Reagan DCA Food and Shops. The lapel pin has scissors cutting a ribbon</p>
+          </odd>
+        </c>
+        <c id="aspace_ref177_58c" level="file">
+          <did>
+            <unittitle>T-shirt</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
+            <container id="aspace_890aadcc397b4b663344efd15028a876" label="Realia [32882021175578]" type="Box">12</container>
+            <container id="aspace_aa7287bde61968fa9c4eba757fa2a359" parent="aspace_890aadcc397b4b663344efd15028a876" type="object">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref180_pju" level="file">
+          <did>
+            <unittitle>Poster</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+            <container id="aspace_9c6e176190ebc314fd6dc5663c5f0b77" label="Graphic Materials [32882021175578]" type="Box">12</container>
+            <container id="aspace_62b79bf25c6fbda7ab4b9c4c31f26b48" parent="aspace_9c6e176190ebc314fd6dc5663c5f0b77" type="poster">1</container>
+          </did>
+          <odd id="aspace_ad3f734383d49d9cd4f515362b7a17da">
+            <head>General</head>
+            <p>Poster reads half smoke eating contest" H St. NE festival Ben's Chili Bowl.</p>
+          </odd>
+        </c>
+        <c id="aspace_21ec219f45eb1916c93b90e0f2551167" level="file">
+          <did>
+            <unittitle>Promotional Material</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2008/2011" type="bulk">2008-2011</unitdate>
+            <container id="aspace_fb9844bd8ddd251e44211b864e8060af" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
+            <container id="aspace_fa81be6dcaf830bc6aaaabd9aa96702f" parent="aspace_fb9844bd8ddd251e44211b864e8060af" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref47_y3a" level="series">
+        <did>
+          <unittitle>Business records</unittitle>
+          <unitid>Series 2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1959/2013" type="inclusive">1959-2014</unitdate>
+        </did>
+        <arrangement id="aspace_4d4510360b662b2ce6d8261caf3090b9">
+          <head>Arrangement</head>
+          <p>Arranged chronologically</p>
+        </arrangement>
+        <scopecontent id="aspace_7c8e5280eb2540df0c45cb679f08731e">
+          <head>Scope and Contents</head>
+          <p>This series contains material that pertain to the business operation of Ben's Chili Bowl dating from 1959-2014. Included are payroll books, correspondence, promotional designs, employee manuals, invoices and grant requests.</p>
+        </scopecontent>
+        <c id="aspace_ref105_t9v" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1958-2007</unitdate>
+            <container id="aspace_c9364cfcefb818a16815c720b44a27f9" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_539fee49dcefe9889f2c6ab916d5592b" parent="aspace_c9364cfcefb818a16815c720b44a27f9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref164_bch" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2011/2013" type="inclusive">2011-2013</unitdate>
+            <container id="aspace_3507a364703c0f1df43a7a8059976f95" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_46544a01319241ebf683e5bf1a5ea9bc" parent="aspace_3507a364703c0f1df43a7a8059976f95" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref1_hst" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1959</unitdate>
+            <container id="aspace_7843c2dd8b7139bda5e5c7cf632ca08c" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_4c774cd0e1de576d214f49f1d01856cf" parent="aspace_7843c2dd8b7139bda5e5c7cf632ca08c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref2_nds" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1960</unitdate>
+            <container id="aspace_8ed02fcefdf2a34a0213dc37bd25937a" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_814cadc8838f22280f88c8c046e643bf" parent="aspace_8ed02fcefdf2a34a0213dc37bd25937a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref3_ro7" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1961</unitdate>
+            <container id="aspace_2189c80d134cba011ec8a0b8066a8b70" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_7bca4c428cf63773f4ddc5e47e692c85" parent="aspace_2189c80d134cba011ec8a0b8066a8b70" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref4_k4v" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1962</unitdate>
+            <container id="aspace_d34b3c332f54b27bce23cf82b42bbb5d" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_5c905414b30b94c5ff261e1851563c56" parent="aspace_d34b3c332f54b27bce23cf82b42bbb5d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref5_u42" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1963</unitdate>
+            <container id="aspace_a4397194d5fbf90fd1fb82f0f69ef70d" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_ac703e4dcdcd3529d3e35a3606d0e575" parent="aspace_a4397194d5fbf90fd1fb82f0f69ef70d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref6_9lp" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1964</unitdate>
+            <container id="aspace_6fbc981ea382fa5f907d0cf6f2007d51" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_b42cf3cbc6d8becb8deb2a9f98030910" parent="aspace_6fbc981ea382fa5f907d0cf6f2007d51" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref7_iy8" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_bf60addfcd239faa1596ee3e8432d859" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_1bdc55ed6e0ad0636ac1feab289267e8" parent="aspace_bf60addfcd239faa1596ee3e8432d859" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref8_j33" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_a87a541b8fdd9aa477fc304378d33d73" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_fec7050c2a244183e54d3d6045110b52" parent="aspace_a87a541b8fdd9aa477fc304378d33d73" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref9_yid" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_98b57bb4aa722fe60e94dea471920647" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_58d28091a8c0a3f32a20c967c8d83ace" parent="aspace_98b57bb4aa722fe60e94dea471920647" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref10_vv9" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1969</unitdate>
+            <container id="aspace_c75d964aa0da066c887434dc1258c536" label="Mixed Materials [32882019758013]" type="Box">2</container>
+            <container id="aspace_46ee9f0bdba019324450a8eda4d82b8d" parent="aspace_c75d964aa0da066c887434dc1258c536" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_6r4" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_93fb94cf5b88c5c2f3e41cc5ac158e0a" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_91586c5f17388d892f3c4ac3e8030113" parent="aspace_93fb94cf5b88c5c2f3e41cc5ac158e0a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_w3v" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_c0670199ec18bc31cb3f447eafb8393e" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_dc110ecca0b06fbb5c83ac31abe3ffb5" parent="aspace_c0670199ec18bc31cb3f447eafb8393e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_0l8" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_0a235ded1fe01a5810233b1baf2003f4" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_67581a5213b7f8c23b02a2a5c6b07d6b" parent="aspace_0a235ded1fe01a5810233b1baf2003f4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_jrm" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_e81120f16195abbdd6c5962cb2f77017" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_d4805055b66615fc1726533b7cf02feb" parent="aspace_e81120f16195abbdd6c5962cb2f77017" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_5b3" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_42614a37d691e129dcdebef09ca5f8ca" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_6a0eeb1ef1e96c636e0510aa3823064a" parent="aspace_42614a37d691e129dcdebef09ca5f8ca" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_ekv" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_68153d01aae57adee9886a7fce43e72c" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_d4c25cab58f37109bd8a2baab4aeac26" parent="aspace_68153d01aae57adee9886a7fce43e72c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_me8" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_daf4dff8f2a2f2dd2ef3d94b31f4bd8f" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_77266bdee087f4a481356eb8ca652be9" parent="aspace_daf4dff8f2a2f2dd2ef3d94b31f4bd8f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_67a" level="file">
+          <did>
+            <unittitle>Payroll book</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1977</unitdate>
+            <container id="aspace_51ad3e8579092232f637041948dba88f" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_6350f6b85fb67b7e61c1c194ad8f371c" parent="aspace_51ad3e8579092232f637041948dba88f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_1pc" level="file">
+          <did>
+            <unittitle>Ben's Bakery and Ice Cream material</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_4b2a0cf41c8a5302e47bbe64ed895c4e" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_594e720e1fab7b44118049344c8f99cb" parent="aspace_4b2a0cf41c8a5302e47bbe64ed895c4e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_o3c" level="file">
+          <did>
+            <unittitle>Metro loan grant regquest</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_5f0a0c6b92904dae38583bf07a2fb0bf" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_a48d28e032774242f87f5ddc01c90132" parent="aspace_5f0a0c6b92904dae38583bf07a2fb0bf" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref150_ldi" level="file">
+          <did>
+            <unittitle>Filming for The Pelican Brief records</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_54249adfb715de408a6653873ba67dc9" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_8d75e41643d8ec4111a8d5ffe1c04b97" parent="aspace_54249adfb715de408a6653873ba67dc9" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_yor" level="file">
+          <did>
+            <unittitle>Public officials - testimonies, remarks, proclimations and flyers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">1998-2008</unitdate>
+            <container id="aspace_89482c57ac4aa266f930966653a4bc61" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_d7ae488ad58dbdb5c6bfc7ec8e889c03" parent="aspace_89482c57ac4aa266f930966653a4bc61" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_30s" level="file">
+          <did>
+            <unittitle>Surveillance system</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_9c32e7e5861f9e400ce77309bb25454b" label="Mixed Materials [32882020111376]" type="Box">3</container>
+            <container id="aspace_0dcbd0a0c6b0a9a84bc4d822e8f407f8" parent="aspace_9c32e7e5861f9e400ce77309bb25454b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_o04" level="file">
+          <did>
+            <unittitle>Invoices</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2002-2008</unitdate>
+            <container id="aspace_0a4161d656a77bd0586547e163aece31" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_480df529ccb09c9ccfab1f4b8e10f322" parent="aspace_0a4161d656a77bd0586547e163aece31" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_myl" level="file">
+          <did>
+            <unittitle>Nationals Park materials</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2008</unitdate>
+            <container id="aspace_5fdb56210faac11c2b633522560749ba" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_cf5c0693dd6868d98166c645074ce99e" parent="aspace_5fdb56210faac11c2b633522560749ba" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_n2j" level="file">
+          <did>
+            <unittitle>Spring Glen Fresh Foods agreement</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">2008</unitdate>
+            <container id="aspace_4eb27af52048b592fac501661ea1b989" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_2e44dd2b644639029814d509eb24090d" parent="aspace_4eb27af52048b592fac501661ea1b989" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_303" level="file">
+          <did>
+            <unittitle>Promotional designs, material</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_014f92595640cfe6a94f7aea763656dd" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_a59468e1a3264d1cd2b1d2f3206cb629" parent="aspace_014f92595640cfe6a94f7aea763656dd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_o7z" level="file">
+          <did>
+            <unittitle>Employee manuals, applications</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fc51ecb6c1fcd3a24f3f36a65a2fb333" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_7023540ae77166f6674df2c917efe22f" parent="aspace_fc51ecb6c1fcd3a24f3f36a65a2fb333" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref172_598" level="file">
+          <did>
+            <unittitle>Planning retreat</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2014/2014" type="inclusive">2014 September 7</unitdate>
+            <container id="aspace_ca5a7541b2b86e96194194ffc234ada2" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_1cc6b000158c61e03b0c33415c369a14" parent="aspace_ca5a7541b2b86e96194194ffc234ada2" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref48_b3l" level="series">
+        <did>
+          <unittitle>Community outreach
+
+</unittitle>
+          <unitid>Series 3</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1993/2011" type="inclusive">1993-2011</unitdate>
+        </did>
+        <arrangement id="aspace_068ade213e51220252d0913310d46b02">
+          <head>Arrangement</head>
+          <p>alphabetically by project or organization, then chronologically</p>
+        </arrangement>
+        <scopecontent id="aspace_efa0db34fe8b5e03f10c375a325e596f">
+          <head>Scope and Contents</head>
+          <p>This series contains material pertaining to nonprofrit work by Virginia and Nizam Ali.  Included are handbooks, meeting minutes, correspondence, agendas and budgets dating from 1993-2011.</p>
+        </scopecontent>
+        <c id="aspace_ref19_zhb" level="file">
+          <did>
+            <unittitle>D.C. Civil Rights Veterans History project</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003 March</unitdate>
+            <container id="aspace_ceeffaf4c6564024f9c0963e75c2af83" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_26bb38c6d24277d6033d72b81df18681" parent="aspace_ceeffaf4c6564024f9c0963e75c2af83" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_1nv" level="file">
+          <did>
+            <unittitle>Remembering U Street Festival </unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_4e10728494ef4c07fb2cf5bbd9c84a8e" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_46e726c1731be51925aa0913d63ea64d" parent="aspace_4e10728494ef4c07fb2cf5bbd9c84a8e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_iep" level="file">
+          <did>
+            <unittitle>Restoration and Tourism project proposal</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_3779d97c645c792810a304080d4c7d1d" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_30ecc878ad18acc570213b3b0653e6c5" parent="aspace_3779d97c645c792810a304080d4c7d1d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_wi5" level="file">
+          <did>
+            <unittitle>No Murders D.C. </unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_1b98d0a8dd32ae9dbb859084190e062f" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_4a9a5178c8bef48949c6eacb9714c8b6" parent="aspace_1b98d0a8dd32ae9dbb859084190e062f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_v8e" level="file">
+          <did>
+            <unittitle>No Murders D.C.
+</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_f337f48a55085cbe15e3780af30f4d26" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_07585df7f2c8672a8058be17317f9785" parent="aspace_f337f48a55085cbe15e3780af30f4d26" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_mxw" level="file">
+          <did>
+            <unittitle>No Murders D.C.</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003-2004</unitdate>
+            <container id="aspace_cdc1cde579a9b7f20af6566f1642b117" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_16630f011207c6136b4cb248414ee3ba" parent="aspace_cdc1cde579a9b7f20af6566f1642b117" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_cot" level="file">
+          <did>
+            <unittitle>U Street Theatre Foundation</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1988-2007</unitdate>
+            <container id="aspace_b14a1790ef8ccdf5cf3d7eb714c5ed47" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_e84fc19b388b715c568e0749591ee4b9" parent="aspace_b14a1790ef8ccdf5cf3d7eb714c5ed47" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_5eg" level="file">
+          <did>
+            <unittitle>U Street Theatre Foundation</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1993-1995</unitdate>
+            <container id="aspace_6761928b10c34d1a08771106008f622d" label="Mixed Materials [32882020111400]" type="Box">4</container>
+            <container id="aspace_92d2a7d07bd50bdbd92a3cddc0af15c5" parent="aspace_6761928b10c34d1a08771106008f622d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_qf4" level="file">
+          <did>
+            <unittitle>U Street Theatre Foundation</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1994-1995</unitdate>
+            <container id="aspace_40118e38b13591b8984c166c060f2580" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_f7b18d8a3b1f2abd35651f4c4d24e5c8" parent="aspace_40118e38b13591b8984c166c060f2580" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_d8i" level="file">
+          <did>
+            <unittitle>U Street Theatre Foundation </unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1994-1995</unitdate>
+            <container id="aspace_85f22da8fe9cd1e0274bf6403affd34a" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_81ffaf329b1e47412f10cf0b12adbb3b" parent="aspace_85f22da8fe9cd1e0274bf6403affd34a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_v5o" level="file">
+          <did>
+            <unittitle>U Street Theatre Foundation</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_3d19e00483a3d4d0783e57eda1c3af3c" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_4a2086594aee5dc5e7b6b89b1ee5c31d" parent="aspace_3d19e00483a3d4d0783e57eda1c3af3c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_g6j" level="file">
+          <did>
+            <unittitle>U Street historic preservation guidebooks</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003-2008</unitdate>
+            <container id="aspace_a62bfe07845844778c4ab568804a1769" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_6dab83ff7063a1c2ef5dd1e7ae4a77c3" parent="aspace_a62bfe07845844778c4ab568804a1769" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref152_zdl" level="file">
+          <did>
+            <unittitle>School papers written about Ben's Chili Bowl</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1996-1997</unitdate>
+            <container id="aspace_958b3bd3aa7b3b3c0c99b5aa8008470d" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_a8d6c875fb28e652eb8d7b86fdc62140" parent="aspace_958b3bd3aa7b3b3c0c99b5aa8008470d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref153_tiw" level="file">
+          <did>
+            <unittitle>Documentary proposal: The Story of the Nations Capital </unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_78e86603b0985050c49353b5f477d39d" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_fdd15fe1495be2049f56e5eff96e67c9" parent="aspace_78e86603b0985050c49353b5f477d39d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref154_qgo" level="file">
+          <did>
+            <unittitle>Screenplay: Breakfast at Ben's</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_a45c6c8f23e90ca1d0cf7c27845635fb" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_38b243868ae8d81f6fa9199ee0e52066" parent="aspace_a45c6c8f23e90ca1d0cf7c27845635fb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref155_v1i" level="file">
+          <did>
+            <unittitle>Short film: U Street Blue</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_98f06d31eeab5daa55ddd32aac2ed60a" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_9e3e251ebc6d724a0e5d403866bb902c" parent="aspace_98f06d31eeab5daa55ddd32aac2ed60a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_gi5" level="file">
+          <did>
+            <unittitle>St. Albans Lacrosse annual tournament</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container id="aspace_ada2ebcfa1ef8ad91a48d359a71a949a" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_f4eab7ba894de08bb9cb45c10210cccb" parent="aspace_ada2ebcfa1ef8ad91a48d359a71a949a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref156_wr5" level="item">
+          <did>
+            <unittitle>A View from Street Level </unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_5e51fc333669c030f44f8c57fa9cb8a1" label="Mixed Materials [32882020111392]" type="Box">5</container>
+            <container id="aspace_944a1f8bc30844523032f63d04a7a338" parent="aspace_5e51fc333669c030f44f8c57fa9cb8a1" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref90_tai" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <unitid>Series 4</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1950/2010" type="inclusive">1950-2010</unitdate>
+        </did>
+        <arrangement id="aspace_1c63cfe4a1c2af5f57c989a8c6b0b3d7">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically by subject</p>
+        </arrangement>
+        <scopecontent id="aspace_6ecfc1dafa948eba0a93e34c39091158">
+          <head>Scope and Contents</head>
+          <p>This series contains the Ali family's presonal collection of photographs.  Subjects covered include, the Ali family, visits by celebrities, politicians, metro construction and coverage of the 40, 45 and 50 Anniversaries.</p>
+        </scopecontent>
+        <c id="aspace_ref92_0ed" level="file">
+          <did>
+            <unittitle>Ali family</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_e6face2957dc088861a04c102e52b0bd" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_a7b62bcd216ffd7dbf9cf70ebb0971a5" parent="aspace_e6face2957dc088861a04c102e52b0bd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_lxm" level="file">
+          <did>
+            <unittitle>Authographed portraits</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_33502d2ca324abf4c1822d5fca455926" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_9dda6a172d548f374f2b49e61314863f" parent="aspace_33502d2ca324abf4c1822d5fca455926" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_wzq" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c42c81878a88f932980107f0cf2593e9" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_5774c336cbffe7ad1ee2778715445dc8" parent="aspace_c42c81878a88f932980107f0cf2593e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_qqd" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1f41a5f816702a7fa3f8dd0d68ef98f3" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_f3283e23dbb7ce27e5697bdb18e1f57f" parent="aspace_1f41a5f816702a7fa3f8dd0d68ef98f3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_85n" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_de52ee81debba205e7f9a5d4cdb682c9" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_d5109725f47c6f651b02c39d44ffbbe7" parent="aspace_de52ee81debba205e7f9a5d4cdb682c9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_mo0" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bba395d50749a73f15a3bade42c40517" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_f99ed7a1ac00a06d7e7488f262f051d6" parent="aspace_bba395d50749a73f15a3bade42c40517" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_plg" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c7a5015a090875408db88c2d4289ea57" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_2100da4a86a490d542b1e44fa79a434d" parent="aspace_c7a5015a090875408db88c2d4289ea57" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_es7" level="file">
+          <did>
+            <unittitle>Celebrities and politicians</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a93f4118b37b771e077f51741c62c9c8" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_70b67bbb987cf485630d55fc3dea0720" parent="aspace_a93f4118b37b771e077f51741c62c9c8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_hhv" level="file">
+          <did>
+            <unittitle>Employees</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7b151d38f1076fe07437f3b4f50e96a4" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_06524d9bb746f528485672b25020565c" parent="aspace_7b151d38f1076fe07437f3b4f50e96a4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref116_ass" level="file">
+          <did>
+            <unittitle>Employees</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2acdb938384c7b640259b42447f93253" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_1bcb28d7c71a6c06c41c33f3c0fe3517" parent="aspace_2acdb938384c7b640259b42447f93253" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref117_izk" level="file">
+          <did>
+            <unittitle>Events- American Cancer Society press conference </unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_762103d8684b303c9cc8c8ba24eb0745" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_1353c2df9ff21f6abe54f4e2b9bb0d6a" parent="aspace_762103d8684b303c9cc8c8ba24eb0745" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref118_4l3" level="file">
+          <did>
+            <unittitle>Events- Awards</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_b0e89b8dd771f7e0382795fc52ebc626" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_67600aa1338a0191990c3cca4b164d80" parent="aspace_b0e89b8dd771f7e0382795fc52ebc626" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_5mx" level="file">
+          <did>
+            <unittitle>Events- Bill Cosby press conference</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_c3a58f2ad9777253a8caab18487cad6d" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_dd619cb1fbfdd900c75086528362921c" parent="aspace_c3a58f2ad9777253a8caab18487cad6d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_rbz" level="file">
+          <did>
+            <unittitle>Events - Bohemian Caverns</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_167a174d163cae9ed2077665a57c84ec" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_ccd9139e6b30a37033b84e56971d6c48" parent="aspace_167a174d163cae9ed2077665a57c84ec" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_q5t" level="file">
+          <did>
+            <unittitle>Events- Cordoza Highschool mural painting</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">2007 January 15</unitdate>
+            <container id="aspace_928d51fbfee787d9233c73f374a94fd2" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_983485a88950bca1cc4dac5ea373eea5" parent="aspace_928d51fbfee787d9233c73f374a94fd2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref122_3h0" level="file">
+          <did>
+            <unittitle>Events - Cultural Tourism D.C.</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_9c68ba0b57288c3af74c2f42ec1cc117" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_b5a2e0b9e373dc93ca09f34ba520cd9e" parent="aspace_9c68ba0b57288c3af74c2f42ec1cc117" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_j7d" level="file">
+          <did>
+            <unittitle>Events- Dedication of Ben Ali Way</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_03a5df8af8b97beb8f48ae8568ee6b6e" label="Graphic Materials [32882020111426]" type="Box">6</container>
+            <container id="aspace_b9dae80ab99fafb3b4a04cc4024f332a" parent="aspace_03a5df8af8b97beb8f48ae8568ee6b6e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_hfq" level="file">
+          <did>
+            <unittitle>Events- 40th anniversary </unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_9aeaf019fbad125ffc9ebe45a851dc85" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_db355dd35265fa2b20e8d920470cd78e" parent="aspace_9aeaf019fbad125ffc9ebe45a851dc85" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_u69" level="file">
+          <did>
+            <unittitle>Events- 45th anniversary [1 of 3]</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_c01285f421039abe9a13a134d12a4999" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_f06cd1caacae7d21ca0b2de5bf3b08f4" parent="aspace_c01285f421039abe9a13a134d12a4999" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref126_7hs" level="file">
+          <did>
+            <unittitle>Events- 45th anniversary [2 of 3]</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_b504eef03d193bbcdc13e26bf9281794" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_92e2c60bb662489b552380bf184f526e" parent="aspace_b504eef03d193bbcdc13e26bf9281794" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_7t3" level="file">
+          <did>
+            <unittitle>Events- 45th anniversary [3 of 3]</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_d70578cae3782b7667d1b8cc28c7619c" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_6ec8d51b92a8b1670d443ccce653bfa3" parent="aspace_d70578cae3782b7667d1b8cc28c7619c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref128_0ta" level="file">
+          <did>
+            <unittitle>Events- WPGC</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">2007 August 24</unitdate>
+            <container id="aspace_3b85ffd48ff92023fe9867d5cbfcbee5" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_65c97d5a3fe1a16fd9d57de9d9abdb17" parent="aspace_3b85ffd48ff92023fe9867d5cbfcbee5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_xqt" level="file">
+          <did>
+            <unittitle>Exterior</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_b0e3efa9b201d75fbdae4670a5e20710" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_25757d030f4092ead7854bdd93d2f08b" parent="aspace_b0e3efa9b201d75fbdae4670a5e20710" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref130_udw" level="file">
+          <did>
+            <unittitle>Exterior</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_5dc3dde7793e8477792878847ac7e600" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_f56b3a5fefa366141dd32d970e0d3ccd" parent="aspace_5dc3dde7793e8477792878847ac7e600" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref131_6sf" level="file">
+          <did>
+            <unittitle>Filming</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_9bd515b32050652f50d4ab006afd2b32" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_816d30fe317f42c7562f324c8f8fa8f6" parent="aspace_9bd515b32050652f50d4ab006afd2b32" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref132_37p" level="file">
+          <did>
+            <unittitle>Interior</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_3cf3b728cee33b64152048f40c941c30" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_6ec3387a1f0b79e295cb4a0a0c6de6a4" parent="aspace_3cf3b728cee33b64152048f40c941c30" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref133_r5f" level="file">
+          <did>
+            <unittitle>Interior</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_4b9f087945689eba3d64e4fefb828776" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_6769da76297a09ab2ff7162f9815b036" parent="aspace_4b9f087945689eba3d64e4fefb828776" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref134_dz8" level="file">
+          <did>
+            <unittitle>Interior</unittitle>
+            <unitid>Series 4</unitid>
+            <container id="aspace_b945a0b07a9c00b119d8e00ac4cc36ed" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_781c0ff10a7429dbce6763789cba62fc" parent="aspace_b945a0b07a9c00b119d8e00ac4cc36ed" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_grw" level="file">
+          <did>
+            <unittitle>Metro construction  polariods</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1987-1991</unitdate>
+            <container id="aspace_1e0e92b648c83eccc2303421897232c1" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_f8e3e48d1daaa958c3a97c8d3bd0c0f0" parent="aspace_1e0e92b648c83eccc2303421897232c1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref136_c6t" level="file">
+          <did>
+            <unittitle>Metro construction</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1987-1991</unitdate>
+            <container id="aspace_52796e30226279b683a054c815b5648c" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_957a42386fa266a77fbd40949317301a" parent="aspace_52796e30226279b683a054c815b5648c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref137_bya" level="file">
+          <did>
+            <unittitle>Metro construction</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1987-1991</unitdate>
+            <container id="aspace_e6d448936480a28e248858c6182b110f" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_983ea4d1882bd2ef3d452e3ba7fde4a0" parent="aspace_e6d448936480a28e248858c6182b110f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref138_iql" level="file">
+          <did>
+            <unittitle>Metro construction</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1987-1991</unitdate>
+            <container id="aspace_3417bd507cb9bc06aadbfe6a2f19bc11" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_5684b7ade71b1a2f4b43dd7ff8478928" parent="aspace_3417bd507cb9bc06aadbfe6a2f19bc11" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref140_8cp" level="file">
+          <did>
+            <unittitle>Nationals stadium</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6e2a1b5fbc91ab6f31f67bc7ca648cd8" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_9ee0f7dd5113338de717f1f445d338ab" parent="aspace_6e2a1b5fbc91ab6f31f67bc7ca648cd8" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_upe" level="file">
+          <did>
+            <unittitle>Negatives</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c4f0a17478b4d897bc05c620ea75bc2d" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_afb4c6a30633703217f100b5c97262b7" parent="aspace_c4f0a17478b4d897bc05c620ea75bc2d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref142_vst" level="file">
+          <did>
+            <unittitle>Reconstruction work</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_c853c61ac15b507ef67017ea84ae1961" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_9d986a490aa6cb240180ef0507781dfa" parent="aspace_c853c61ac15b507ef67017ea84ae1961" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_aqb" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0d55050cf6a54f8d3ec12149480ef01d" label="Graphic Materials [32882020111418]" type="Box">7</container>
+            <container id="aspace_df5b0f17d89007a06a8b3a8af6b5f726" parent="aspace_0d55050cf6a54f8d3ec12149480ef01d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref170_uds" level="file">
+          <did>
+            <unittitle>photographs</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d40c083de6338397485fb306f7a0b712" label="Graphic Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_4a6038ab543cc64d4a3d4b598d73f0bf" parent="aspace_d40c083de6338397485fb306f7a0b712" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref55_ovg" level="series">
+        <did>
+          <unittitle>Publicity/Press
+</unittitle>
+          <unitid>Series 5</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1940/2013" type="inclusive">1940-2013</unitdate>
+        </did>
+        <arrangement id="aspace_a678949dd5e44b75fb2f0f2b256cab3a">
+          <head>Arrangement</head>
+          <p>Arranged chronologically</p>
+        </arrangement>
+        <scopecontent id="aspace_0e855affb7a87e0c96a1d760b2a34ebb">
+          <head>Scope and Contents</head>
+          <p>This series contains material relating to press coverage of Ben's Chili Bowl.  Included are an extensive collection of press clippings from 1958-2013.</p>
+        </scopecontent>
+        <c id="aspace_ref56_an4" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1940-1950</unitdate>
+            <container id="aspace_dc57927d3061c0036aade22315b53f6e" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_745f9497dbbb8ac9aed68f0b610d2d2e" parent="aspace_dc57927d3061c0036aade22315b53f6e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_rbl" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1979-1995</unitdate>
+            <container id="aspace_bde4fbbf2cbede9ac3eff05ce92c06d4" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_80a4df8b48bba241074e1b06e77c6d67" parent="aspace_bde4fbbf2cbede9ac3eff05ce92c06d4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_nhf" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_914cb071cc246f038323e7c988ee2ec4" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_36bdfe6f7e9ff7cb8b3fbca20705df0d" parent="aspace_914cb071cc246f038323e7c988ee2ec4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_xbr" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_3f2c3743f56a865f9538b985408bfe70" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_a28db173ceae9c29879573241f20ae10" parent="aspace_3f2c3743f56a865f9538b985408bfe70" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_7bh" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_00ece556b9f6741d9c1d7cf7dfd245ad" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_f56c8409d873cccd3c72bdf77c9e3688" parent="aspace_00ece556b9f6741d9c1d7cf7dfd245ad" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_5hn" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_93fd6d4a0fc82f946ecc93ad5f0a9a96" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_ac76b31db7df60fdce619085b3f64fb7" parent="aspace_93fd6d4a0fc82f946ecc93ad5f0a9a96" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_mf4" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_f2babcd5c9e30dd5ef37a46b36c19b73" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_f98c27701506f54e127558772c23f2f9" parent="aspace_f2babcd5c9e30dd5ef37a46b36c19b73" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_w3t" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_91185d32002a3f85d16e331160eb434e" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_343cabcef1dea3f1758e5872eb165357" parent="aspace_91185d32002a3f85d16e331160eb434e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_1tr" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_99b34f78eb3f27973d95e43a320de7a1" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_736977082f05dfa40e49ebc70bbe1b16" parent="aspace_99b34f78eb3f27973d95e43a320de7a1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_bl2" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2004</unitdate>
+            <container id="aspace_458d735de5f16635a2e51720c231a4b6" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_07189f9fbdedae77c7d9c7e4c4b38ee0" parent="aspace_458d735de5f16635a2e51720c231a4b6" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_6gk" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2005</unitdate>
+            <container id="aspace_d5d3652d3628e687aec40439aa686d87" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_b5e7d2fc58be8210bd970f363712a25d" parent="aspace_d5d3652d3628e687aec40439aa686d87" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_0v6" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2006</unitdate>
+            <container id="aspace_bc156509f30a99915eb7add7a71aefb6" label="Mixed Materials [32882020111434]" type="Box">8</container>
+            <container id="aspace_6b9003e019d0eaebac9f9fa37017bdae" parent="aspace_bc156509f30a99915eb7add7a71aefb6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_vay" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2007</unitdate>
+            <container id="aspace_8a43ddd7febf4d7f7377c03b46b0d2a6" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_46c97f59bfbe6896ae87760fddee9809" parent="aspace_8a43ddd7febf4d7f7377c03b46b0d2a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_svj" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2008</unitdate>
+            <container id="aspace_05ef846bca80dde051627a345a0463cf" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_6b338ca402920182b0c55a7819d8079d" parent="aspace_05ef846bca80dde051627a345a0463cf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_s6h" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2009</unitdate>
+            <container id="aspace_dfe2e84052335ae29c0a5d9f4ddfc780" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_228e45ab779ca268cc9a08e197bd6f2b" parent="aspace_dfe2e84052335ae29c0a5d9f4ddfc780" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_lcy" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2009</unitdate>
+            <container id="aspace_ba8d3c6b44eb63faf26856b04b91e1c8" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_c2c0723e225ae7a5d93561c17bb210ce" parent="aspace_ba8d3c6b44eb63faf26856b04b91e1c8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_upj" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2010</unitdate>
+            <container id="aspace_5f76d69e2dee3663809bdd5b8aabe9e4" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_cbde6c58d1d45318a02e1a1290925930" parent="aspace_5f76d69e2dee3663809bdd5b8aabe9e4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_swb" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a893128faaa9a5abed3d9098b82cf741" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_10ab7c631d191d3f8062e841d2ee168b" parent="aspace_a893128faaa9a5abed3d9098b82cf741" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_b1i" level="file">
+          <did>
+            <unittitle>Clippings - Bill Cosby</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_854f457cd287875f198fb4e7bc9eb9c4" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_c8f18f2da11fb77e1df0172edd577173" parent="aspace_854f457cd287875f198fb4e7bc9eb9c4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_d6h" level="file">
+          <did>
+            <unittitle>Clippings - Bill Cosby</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_93c1c1d48ca05ed158e47d2812e5bf93" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_769d2dd1477c9f96973f6ba710ab1f59" parent="aspace_93c1c1d48ca05ed158e47d2812e5bf93" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_xmy" level="file">
+          <did>
+            <unittitle>Clippings - web articles</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">2001-2009</unitdate>
+            <container id="aspace_c01ccc93730104cfdbfda2d31b9ebd4e" label="Mixed Materials [32882020111442]" type="Box">9</container>
+            <container id="aspace_b48942fcaf3aaa91d3393ee3599fe2c7" parent="aspace_c01ccc93730104cfdbfda2d31b9ebd4e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_fxc" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="2007/2013" type="inclusive">2007-2013</unitdate>
+            <container id="aspace_5908e19880ad93ee065f8892ebeaf280" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_1525ff70c3c21899d7f446da18a6a2e9" parent="aspace_5908e19880ad93ee065f8892ebeaf280" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_8yk" level="file">
+          <did>
+            <unittitle>Publicity</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="2011/2013" type="inclusive">2011-2013, undated</unitdate>
+            <container id="aspace_2779956c12e9d277007f4259995019bf" label="Mixed Materials [32882021175586]" type="Box">11</container>
+            <container id="aspace_ef766eefa938faf5af5fa21a9ea6fee7" parent="aspace_2779956c12e9d277007f4259995019bf" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

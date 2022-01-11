@@ -1,0 +1,933 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/50">ibt0033.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the International Brotherhood of Teamsters Arden d'Amico collection<date calendar="gregorian" era="ce">1963-2003</date>
+ <num>IBT0033</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:30:29 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>IBT Arden D'Amico collection</unittitle>
+      <unitid>IBT0033</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1967/2003" type="inclusive">1967-2003</unitdate>
+      <physloc id="aspace_0c9444209bee0020d1732434b21c266d">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_2313b8bd8c3ff8b58203b530863e74ba">This collections consists of material amassed by International Brotherhood of Teamsters teamster Arden "Art" D'Amico, dating from 163-2007.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_cff694178cf5d8066c04d88b44a0fadc">
+      <head>Arrangement</head>
+      <p>Organized into 5 series: Contract and Agreements, General and Miscellaneous, IBT General President Elections, IBT Local 639, United Parcel Service.</p>
+    </arrangement>
+    <accessrestrict id="aspace_e92450cacff1718798a76b1be708ccdf">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_1a1cdbb5895c28d203a72a7902803b6b">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_29d2c7b07e9509cbf865770e5f077545">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <acqinfo id="aspace_9bf89e94dd39809d7a80ce6915b1eb9f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Transferred by Arden D'Amico, 2012 [2012.065].</p>
+    </acqinfo>
+    <scopecontent id="aspace_3f0fc9c864b90df7954410d926ef3a15">
+      <head>Scope and Contents</head>
+      <p>This collection consists of material amassed by International Brotherhood of Teamsters teamster Arden "Art" D'Amico, dating from 1963-2007. The records include contracts and agreements with various companies, primarily the United Parcel Service</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Contracts</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 20th century</subject>
+      <subject source="lcsh">Labor unions</subject>
+      <subject source="lcsh">Labor</subject>
+      <subject source="lcsh">Labor Unions -- Washington Metropolitan Area -- History -- 20th Century</subject>
+      <corpname rules="aacr" source="naf">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America</corpname>
+      <corpname rules="aacr" source="naf">United Parcel Service</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1_srv" level="series">
+        <did>
+          <unittitle>Contracts and Agreements</unittitle>
+          <unitid>Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1967/2003" type="inclusive">1967-2003</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_581dfeb8496ed1947515adf4222ee4f4">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_e8007ca5cf31db543c20ef95d6ab54da">
+          <head>Scope and Contents</head>
+          <p>This series contains contracts and agreements for AFL-CIO and Teamsters unions dating from 1967-2003. The majority are National Master Freight and National Master United Parcel Service agreements and their supplements.</p>
+        </scopecontent>
+        <c id="aspace_ref6_kkw" level="file">
+          <did>
+            <unittitle>AFL-CIO Local 2093</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_fb4563018b6c1a9311e2c7fa4b9ac814" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_83d3c980d9e0b6a04f978aa52ecd6bca" parent="aspace_fb4563018b6c1a9311e2c7fa4b9ac814" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref7_hph" level="file">
+          <did>
+            <unittitle>IBT Local 639</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_9dc8442346a0eec7c995da5e7f4d0415" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_a2d07d7b18fd5a5efc96e8318ce5edaa" parent="aspace_9dc8442346a0eec7c995da5e7f4d0415" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref8_ksh" level="file">
+          <did>
+            <unittitle>IBT Local 804</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_04e404de1a2e3be1626e4fdcbd044731" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_c25d15f02d56ce14247ff58f5d05e7df" parent="aspace_04e404de1a2e3be1626e4fdcbd044731" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref9_o2g" level="file">
+          <did>
+            <unittitle>National Master Freight Agreement and MD/DC Supplement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <container id="aspace_9a922ae9e0a0d3ee3da7ce657c392eb1" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_67dedbd8317fe197f1f372a48eba8b58" parent="aspace_9a922ae9e0a0d3ee3da7ce657c392eb1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref10_2lv" level="file">
+          <did>
+            <unittitle>National Master Freight Agreement and MD/DC Supplement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+            <container id="aspace_5a9b3b0c5e0fbfd7de0e3a165c4da2fc" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_7349523eaede1773f5c9ebe6b30a843a" parent="aspace_5a9b3b0c5e0fbfd7de0e3a165c4da2fc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref11_3na" level="file">
+          <did>
+            <unittitle>National Master Freight Agreement and Supplements</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_3ea6cf8e2b28245ec31715c17950ee92" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_c612761cb145e5fbc72ffbcc2e5f9700" parent="aspace_3ea6cf8e2b28245ec31715c17950ee92" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref12_ha6" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container id="aspace_5d3108434d9c042df396df84d0972ad9" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_6c850680fe9a3fc69be044065f523269" parent="aspace_5d3108434d9c042df396df84d0972ad9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref13_1jr" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1987/1990" type="inclusive">1987-1990</unitdate>
+            <container id="aspace_a8e16551e8a17fe65de630a5c98e3f71" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_c041a96e9d90e38a1ce3742c8086717e" parent="aspace_a8e16551e8a17fe65de630a5c98e3f71" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_7cu" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_51057114e2784de106ee00f15c727523" label="Mixed Materials [32882020666841]" type="Box">1</container>
+            <container id="aspace_9954d7226925fa987921bddc82b41954" parent="aspace_51057114e2784de106ee00f15c727523" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_c5c" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_1fb65363c0a0cd137ef0e0b20bf7d85e" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_bd3ef171df8b5e06e079e3d4137a261e" parent="aspace_1fb65363c0a0cd137ef0e0b20bf7d85e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_oij" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_5a67011e2a42839c6eb291523abc1597" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_c2bdb5f155b3b46562c3d66617043086" parent="aspace_5a67011e2a42839c6eb291523abc1597" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_uiw" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_0fb6dc50cae435b34a0aaa2ee830e4de" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_fb6fb57b191fe85c95ca36f9bf8566c4" parent="aspace_0fb6dc50cae435b34a0aaa2ee830e4de" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_9r6" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_e70a7db64490def7d3daa71d629aa120" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_61c49be6fb15874639a063d819562a3c" parent="aspace_e70a7db64490def7d3daa71d629aa120" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_e6e" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_f63a2c3f4657c0eaee92d51e4b9fc98c" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_5ef323269435ea910df072b2ececbf81" parent="aspace_f63a2c3f4657c0eaee92d51e4b9fc98c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_iia" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_1a897dde323b835e08abf9fa7772fa35" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_e77b4ea5f4bc87def0d9956ab9f29f17" parent="aspace_1a897dde323b835e08abf9fa7772fa35" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_43i" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_f15b84a2db8d5838df0fece53b05f35a" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_d350df582f82b78d29504f04f9156e11" parent="aspace_f15b84a2db8d5838df0fece53b05f35a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_h76" level="file">
+          <did>
+            <unittitle>National Master United Parcel Service Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_7007501c1c58decc082d049771c8b2fd" label="Mixed Materials [32882020666858]" type="Box">2</container>
+            <container id="aspace_610f3627be9c6ba7ebcfe46460cc2c84" parent="aspace_7007501c1c58decc082d049771c8b2fd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_gzo" level="file">
+          <did>
+            <unittitle>United Parcel Service Atlantic Area Agreement</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1967/1974" type="inclusive">1967-1974</unitdate>
+            <container id="aspace_e5d6c020696651d16aa20da4908d59ab" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_36d1b9f2bfb7355e521a52d51982e251" parent="aspace_e5d6c020696651d16aa20da4908d59ab" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2_9c7" level="series">
+        <did>
+          <unittitle>General and Miscellaneous</unittitle>
+          <unitid>Series 2</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1986/2002" type="inclusive">1986-2002</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_0a10eb4290c51ef84e0e10a5fc3dd246">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_959e699c7a433e7df365f3fa5a2e2411">
+          <head>Scope and Contents</head>
+          <p>This series contains general and miscellaneous materials related to the Teamsters union dating from 1986-2003. Included are IBT convention materials, constitutions, and rosters, as well as news clippings, newsletters, pamphlets and miscellaneous materials.</p>
+        </scopecontent>
+        <c id="aspace_ref26_wnk" level="file">
+          <did>
+            <unittitle>FedEx Teamsters</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_e998d5d7eabd2b7ce8008b729c880681" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_6ff8a28b12ce542e20eebd2c8c55b962" parent="aspace_e998d5d7eabd2b7ce8008b729c880681" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_fu1" level="file">
+          <did>
+            <unittitle>IBT 25th Convention Proceedings</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_07dcffdf0d3623cada40dd5dfd92c2e6" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_b68a20702a5ee8485f278603229d3a38" parent="aspace_07dcffdf0d3623cada40dd5dfd92c2e6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_auj" level="file">
+          <did>
+            <unittitle>IBT 26th Convention</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_393c87d1fa9306972f0c4bc64ef63e05" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_064e602216fa0486b0a0d242c18f407a" parent="aspace_393c87d1fa9306972f0c4bc64ef63e05" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_suc" level="file">
+          <did>
+            <unittitle>IBT 26th Convention Committee Reports</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_f28091864ade4572efd54930f3c89daf" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_3c76d1e7ad0fbd4a236d99718224242d" parent="aspace_f28091864ade4572efd54930f3c89daf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_zwj" level="file">
+          <did>
+            <unittitle>IBT 26th Convention Official Delegate and Committee Member Lists</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_805ca9d67c0444fc462b22aec3b812f0" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_18456c4bafbafd8974de21eef0f0718c" parent="aspace_805ca9d67c0444fc462b22aec3b812f0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_n04" level="file">
+          <did>
+            <unittitle>IBT 26th Convention Proceedings [1/2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_cae830fc7267fc4a7f6bd90fb9d37cad" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_a2ab4e7b7c9bf8a8fd2bbca7a999fb90" parent="aspace_cae830fc7267fc4a7f6bd90fb9d37cad" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_l79" level="file">
+          <did>
+            <unittitle>IBT 26th Convention Proceedings [2/2]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_966c2cdce5e33cd5f02ce7480ca6497c" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_31ee1e76e5fcbdbcd7e761fcf175e06f" parent="aspace_966c2cdce5e33cd5f02ce7480ca6497c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_x99" level="file">
+          <did>
+            <unittitle>IBT 26th Convention Proposed Consitution</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_b2ba5926bf0bab3591e1c5108fa532dc" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_fc1a7c2203919f193c13c78d9ab6d89d" parent="aspace_b2ba5926bf0bab3591e1c5108fa532dc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_leo" level="file">
+          <did>
+            <unittitle>IBT Blue Ribbon Commission on Teamster Finances</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_de17db7b082b2e4f67bfb766c4224e53" label="Mixed Materials [32882020666866]" type="Box">3</container>
+            <container id="aspace_2cba7fb71ba5cb85b56432a05d948107" parent="aspace_de17db7b082b2e4f67bfb766c4224e53" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_5i8" level="file">
+          <did>
+            <unittitle>IBT Constitutions</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate>
+            <container id="aspace_1c7b3e23b54b1fb2aa20fb7c9f1a4af9" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_9af294599ffc4f154b735bd488d836d1" parent="aspace_1c7b3e23b54b1fb2aa20fb7c9f1a4af9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_5dd" level="file">
+          <did>
+            <unittitle>IBT Constitutions</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1991/2001" type="inclusive">1991-2001</unitdate>
+            <container id="aspace_6fe07772a20275f2cea8abd414738675" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_b616b58cb9f37b6ad4fa7bbf570bb84b" parent="aspace_6fe07772a20275f2cea8abd414738675" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_q7j" level="file">
+          <did>
+            <unittitle>IBT Rosters</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+            <container id="aspace_714d5ace4f89d65a90d4fd009bc3e1f9" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_bff52606c27139a6e8c7d487acec2684" parent="aspace_714d5ace4f89d65a90d4fd009bc3e1f9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_wtz" level="file">
+          <did>
+            <unittitle>IBT Special Convention</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_8d450ae2ebeba9a97bd7b022e0ad1ea7" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_259b13febc542d5b54be264c022d83ce" parent="aspace_8d450ae2ebeba9a97bd7b022e0ad1ea7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_b8i" level="file">
+          <did>
+            <unittitle>News Clippings</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_90f283f14c1173a62b598d12dcf707a3" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_04714a1be2a5d97dc0e01bc457f623a5" parent="aspace_90f283f14c1173a62b598d12dcf707a3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_cek" level="file">
+          <did>
+            <unittitle>"News from the New Teamsters" Newsletter</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_daf17795ff990e888a3310b5bbaae139" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_24395797257421c842f0e8f8e960a30b" parent="aspace_daf17795ff990e888a3310b5bbaae139" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_mt3" level="file">
+          <did>
+            <unittitle>Rules for the IBT International Union Delegate and Officer Election</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_7db32c436e56ff74f78c95134f61719d" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_2c09b0e287e297558be1cdcc3532d528" parent="aspace_7db32c436e56ff74f78c95134f61719d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_afw" level="file">
+          <did>
+            <unittitle>A Steward's Guide to Enforcing the National Agreement</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_b4eebfb40d6a5b18b34676a9160d56fd" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_ffaad6681285fdef7d92cd7c0c29cbab" parent="aspace_b4eebfb40d6a5b18b34676a9160d56fd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_j58" level="file">
+          <did>
+            <unittitle>"The Teamster Leader" Newsletter</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_958e8a1cd881378b6bb3cad855f40333" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_d5cc39b015570b5d8eb75f241a004991" parent="aspace_958e8a1cd881378b6bb3cad855f40333" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_15p" level="file">
+          <did>
+            <unittitle>"The Teamster" Magazine</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1996/2003" type="inclusive">1996-2003</unitdate>
+            <container id="aspace_6b9c6bb0ce5e0f9f03adefac6ffa8a57" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_b87dd40de3bc6a427ddab8471a0b4a3b" parent="aspace_6b9c6bb0ce5e0f9f03adefac6ffa8a57" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_vy4" level="file">
+          <did>
+            <unittitle>Teamsters 100th Anniversary Celebration</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_61fa8fe09fc494afe5b2b8254b11d1e4" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_f715f7634fcd41097006b77b574261f8" parent="aspace_61fa8fe09fc494afe5b2b8254b11d1e4" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_w3u" level="file">
+          <did>
+            <unittitle>Teamsters for a Democratic Union</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1998</unitdate>
+            <container id="aspace_bd5d756d5df883ff6a835a335a1227f6" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_506fa9de0e3ccdfa327dfaa8546b57c7" parent="aspace_bd5d756d5df883ff6a835a335a1227f6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_x1p" level="file">
+          <did>
+            <unittitle>Teamsters Human Rights Conference</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_3bac655b586e1bde4c46e791b9c02975" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_893bc28921a450c3e78d2a4e5dea7366" parent="aspace_3bac655b586e1bde4c46e791b9c02975" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_jxj" level="file">
+          <did>
+            <unittitle>Teamsters Pamphlets</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_fd246849e6fbdbb4879bc93490d9ef18" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_82f69b945d109f7f0c9f0b8be37c8bb4" parent="aspace_fd246849e6fbdbb4879bc93490d9ef18" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_4dj" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/2000" type="inclusive">1997-2000</unitdate>
+            <container id="aspace_f0e508edabb3a34c24d88822cf219d7c" label="Mixed Materials [32882020666874]" type="Box">4</container>
+            <container id="aspace_ccefce19470e0d01f152dfe017c2a7fb" parent="aspace_f0e508edabb3a34c24d88822cf219d7c" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref3_jkm" level="series">
+        <did>
+          <unittitle>IBT General President Elections</unittitle>
+          <unitid>Series 3</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1996/2001" type="inclusive">1996-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_c978efeb130cb675f7d6e3f5c8b6939b">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_2571f7a1fb237f041f4910a0c4b83d15">
+          <head>Scope and Contents</head>
+          <p>This series contains IBT General President Election materials dating from 1996-2001. Included are campaign materials from both James P. Hoffa and Ron Carey, election results, and photographs. Also of note are materials detailing former IBT General President Ron Carey's election disqualification by Federal election monitors in 1997.</p>
+        </scopecontent>
+        <c id="aspace_ref52_wru" level="file">
+          <did>
+            <unittitle>2001 Election Results</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_091659923007ff30efac40a241790b6a" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_2992684047209ad25858c5889eb70050" parent="aspace_091659923007ff30efac40a241790b6a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_x0x" level="file">
+          <did>
+            <unittitle>James P. Hoffa 1996 Campaign</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_bbc799a2347fccd02adf2b8d722ff820" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_427bf45c34b50fb71f66569575e0783d" parent="aspace_bbc799a2347fccd02adf2b8d722ff820" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_yj8" level="file">
+          <did>
+            <unittitle>James P. Hoffa 2001 Campaign</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_0f6194e8bf50ac480f19ba0d7ef538bb" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_6b66bf7d84287f1dd71e2a4bb90596b8" parent="aspace_0f6194e8bf50ac480f19ba0d7ef538bb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_gh5" level="file">
+          <did>
+            <unittitle>James P. Hoffa Inaugural Celebration</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_1727d1d8633aa0fc663aa75ddd9f90e4" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_c11e40f51aa00e24575c99f5ac969c44" parent="aspace_1727d1d8633aa0fc663aa75ddd9f90e4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_91j" level="file">
+          <did>
+            <unittitle>Hoffa Unity Slate IBT Convention News</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_20d82733083f9b51350c40b3a9d208fd" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_e186050c31a89080e788cbd09ff06e2e" parent="aspace_20d82733083f9b51350c40b3a9d208fd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_ghl" level="file">
+          <did>
+            <unittitle>Miscellaneous Notes</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_92a3e770d3907ddba81a14ce3046b51f" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_3b016aa58e2409dbbe61c44c72451adb" parent="aspace_92a3e770d3907ddba81a14ce3046b51f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_47f" level="file">
+          <did>
+            <unittitle>National Press Club</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_159bbce8920bb4392ef90665a38dccd3" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_f47339203f6fae1a008cde54e3320981" parent="aspace_159bbce8920bb4392ef90665a38dccd3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_frf" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_95a9990f2c8d82bdb093bcb672c2c802" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_0e4fd4f52722dd14b91c39e850940ffc" parent="aspace_95a9990f2c8d82bdb093bcb672c2c802" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_u6f" level="file">
+          <did>
+            <unittitle>Ron Carey</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a7475dda246f7d77ee6667f5bc83c241" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_716a2232cfdbad0d6f14e1ce42ea632b" parent="aspace_a7475dda246f7d77ee6667f5bc83c241" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_st2" level="file">
+          <did>
+            <unittitle>Ron Carey 1996 Campaign</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_d0e36d96c316f98d0545d25278ba5f1b" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_c146db07d099b70c2fb212acf14fed9a" parent="aspace_d0e36d96c316f98d0545d25278ba5f1b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_efd" level="file">
+          <did>
+            <unittitle>Ron Carey Federal Disqualification</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_97432492f549be0c50188be86c7d242f" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_c912b68f58d131a59cb9861b69a7af2b" parent="aspace_97432492f549be0c50188be86c7d242f" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref4_g5c" level="series">
+        <did>
+          <unittitle>IBT Local 639</unittitle>
+          <unitid>Series 4</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_2dc7afad0c634680c4c5c2522dc2d531">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_e2844c0acfbfe0a09c4dfb8914c53d99">
+          <head>Scope and Contents</head>
+          <p>This series contains materials produced by and about IBT Local 639 of Washington, DC, dating from 1982-1991. Included are correspondence, executive board minutes, newsletters, and local union election campaign materials from both The New Generation of Teamsters and the Concerned Members' slates.</p>
+        </scopecontent>
+        <c id="aspace_ref63_0j3" level="file">
+          <did>
+            <unittitle>Concerned Members' Slate</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_ecadb0885e29cecd8af53e137dfd3038" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_aaf7089c0c29e59c11be44203cd8d6e9" parent="aspace_ecadb0885e29cecd8af53e137dfd3038" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_f6h" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001</unitdate>
+            <container id="aspace_2aca667311c9ab33f83cb6408600e12f" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_3b514b2176bc3f8bf093a818f8ae0e94" parent="aspace_2aca667311c9ab33f83cb6408600e12f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_34z" level="file">
+          <did>
+            <unittitle>Executive Board Minutes / Special Concerns</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1983/1990" type="inclusive">1983-1990</unitdate>
+            <container id="aspace_87bc62fdde2e2c264d8e6b0d807cf488" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_1fac523c846ac4f7b382f5babd852ab6" parent="aspace_87bc62fdde2e2c264d8e6b0d807cf488" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_jo4" level="file">
+          <did>
+            <unittitle>Local 693 vs. United Parcel Service Legal Proceedings</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_6d350a0b62ad572f5dad799b0e875981" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_d694290128dadc1212933c2b8123b411" parent="aspace_6d350a0b62ad572f5dad799b0e875981" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_vmr" level="file">
+          <did>
+            <unittitle>The New Generation of Teamsters Slate</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container id="aspace_2169fd33d4c6b464c02e8b69aa044a09" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_38bdfc4060ae120bd193e5a3be14978d" parent="aspace_2169fd33d4c6b464c02e8b69aa044a09" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_nm7" level="file">
+          <did>
+            <unittitle>Newsletters</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_59e6491bede298adebd65ad6519a5b0e" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_168a166950cbc210621c7858564d732d" parent="aspace_59e6491bede298adebd65ad6519a5b0e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_705" level="file">
+          <did>
+            <unittitle>Rules for the 2000-2001 IBT International Union Delegate and Officer Elections</unittitle>
+            <unitid>Series 4</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_51cdbdc28daafb88ffa8f518d93d4c6e" label="Mixed Materials [32882020666882]" type="Box">5</container>
+            <container id="aspace_71d4724d31d0eaed826bc28e78d23ee9" parent="aspace_51cdbdc28daafb88ffa8f518d93d4c6e" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_aec329383e6e48ead198c9b05e5040dd" level="item">
+          <did>
+            <unittitle>Local 639 Flag with various pins attached</unittitle>
+            <unitid>IBT0033 Series 4</unitid>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_8daa4efd9d9a4eec9926fb8b879556e4" label="Mixed Materials [32882022386463]" type="Box">8</container>
+            <container id="aspace_c1576aaa191c0f180232c704f57f0b9a" parent="aspace_8daa4efd9d9a4eec9926fb8b879556e4" type="item">1</container>
+          </did>
+        </c>
+        <c id="aspace_5d5beb7ac808020dccddb17dcf468e67" level="item">
+          <did>
+            <unittitle>Local 639 Pin Collection (2 bags) </unittitle>
+            <unitid>IBT0033 Series 4</unitid>
+            <unitdate datechar="creation" normal="1979/2005" type="inclusive">1979-2005</unitdate>
+            <container id="aspace_86136d44e79a4205002f0481122e5af1" label="Mixed Materials [32882022386463]" type="Box">8</container>
+            <container id="aspace_dcc7277c276241cc154b007198bd0a47" parent="aspace_86136d44e79a4205002f0481122e5af1" type="item">2</container>
+          </did>
+        </c>
+        <c id="aspace_4c1f55e50ad0832f7195f37c7dc782ad" level="item">
+          <did>
+            <unittitle>Local 639 Pouch with various pins inside</unittitle>
+            <unitid>IBT 0033 Series 4</unitid>
+            <unitdate datechar="creation">ND</unitdate>
+            <container id="aspace_789ca66c722e3b2cb4d51ce2494f02fb" label="Mixed Materials [32882022386463]" type="Box">8</container>
+            <container id="aspace_a086c6c5a5b9ef50749a22c5df18c54c" parent="aspace_789ca66c722e3b2cb4d51ce2494f02fb" type="item">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref5_ey0" level="series">
+        <did>
+          <unittitle>United Parcel Service</unittitle>
+          <unitid>Series 5</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1982/2001" type="inclusive">1982-2001</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_da4639d0bf345f4f98881276f78be95e">
+          <head>Arrangement</head>
+          <p>This series is arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_9b6e14260ca325685e1b26d2bf3223d1">
+          <head>Scope and Contents</head>
+          <p>This series contains material related to the United Parcel Service dating from 1982-2001. Most of the series details the 1997 UPS Teamsters strike through various correspondence, meeting notes, newsletters, magazines, news clippings, and contract campaign materials. The rest of the series is comprised of various other materials, including grievance and disciplinary forms, health/welfare/pension information, training information, and contracts and agreements.</p>
+        </scopecontent>
+        <c id="aspace_ref76_vos" level="file">
+          <did>
+            <unittitle>Contracts and Agreements</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1983/1996" type="inclusive">1983-1996</unitdate>
+            <container id="aspace_b2c4b447cdfceb8a488a1d405e38a8f2" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_427d2a706c37fbdf4a87285422451144" parent="aspace_b2c4b447cdfceb8a488a1d405e38a8f2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_3xi" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1984/1998" type="inclusive">1984-1998</unitdate>
+            <container id="aspace_93d51890ee365a040fea1bdcd2abbb17" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_6ccfe2438cfa6e0c8ac5b86be6b7ec57" parent="aspace_93d51890ee365a040fea1bdcd2abbb17" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_p8b" level="file">
+          <did>
+            <unittitle>Grievances and Disciplinary Action [1/2]</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container id="aspace_a9844cb619489c5e9dbc5d3b2e9b12fc" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_abedb3f353b9f8c3ed8706e0524bcffa" parent="aspace_a9844cb619489c5e9dbc5d3b2e9b12fc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_qtv" level="file">
+          <did>
+            <unittitle>Grievances and Disciplinary Action [2/2]</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1984/1997" type="inclusive">1984-1997</unitdate>
+            <container id="aspace_c50be684cdf99c5e000b56bfa9ebdb34" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_7fff6bb5e4c998cf5f775de2bc22e02d" parent="aspace_c50be684cdf99c5e000b56bfa9ebdb34" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_79f" level="file">
+          <did>
+            <unittitle>Health, Welfare and Pension Information</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1986/2001" type="inclusive">1986-2001</unitdate>
+            <container id="aspace_fdc64690772764dcb655b7cf1c2c4a04" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_7f13d5a3b4e096cb64ad4c7681a647a1" parent="aspace_fdc64690772764dcb655b7cf1c2c4a04" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_qpi" level="file">
+          <did>
+            <unittitle>IBT Local 639 "Local Vocal" Newsletter</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+            <container id="aspace_d3d58e43b5f3a0ac2c91416dd7f511f9" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_9ac33c4aaed74670a2f08caf4fb3f044" parent="aspace_d3d58e43b5f3a0ac2c91416dd7f511f9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_siu" level="file">
+          <did>
+            <unittitle>Meeting Notes</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1982/1997" type="inclusive">1982-1997</unitdate>
+            <container id="aspace_e761a63b796f5a41a6c7000defa1c898" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_894af1a55868e770412baab066c913bc" parent="aspace_e761a63b796f5a41a6c7000defa1c898" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_bhk" level="file">
+          <did>
+            <unittitle>Miscellaneous Newsletters</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_e3c822edabb7b3d8515d01699111262e" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_1f87870e4ea1369f3675f7db1f0c66e3" parent="aspace_e3c822edabb7b3d8515d01699111262e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_wqr" level="file">
+          <did>
+            <unittitle>National Labor Relations Board Affidavit</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990 August 9</unitdate>
+            <container id="aspace_c519b011cdb66ff59e8a3bc0b4461b1d" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_cbda10b690a6dd06822ca36fa8e8a84f" parent="aspace_c519b011cdb66ff59e8a3bc0b4461b1d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_8ur" level="file">
+          <did>
+            <unittitle>News Clippings [1/2]</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+            <container id="aspace_89fc71ea4061959b56dfbe959db1db14" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_7fc21574c6da61f579a6ab23fa4cb32c" parent="aspace_89fc71ea4061959b56dfbe959db1db14" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_w1b" level="file">
+          <did>
+            <unittitle>News Clippings [2/2]</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+            <container id="aspace_6d6a1289b9a00ffee4cc9234390ab44c" label="Mixed Materials [32882020666890]" type="Box">6</container>
+            <container id="aspace_b45a83e4c91268bc085f48ff1f10e1e1" parent="aspace_6d6a1289b9a00ffee4cc9234390ab44c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_5bv" level="file">
+          <did>
+            <unittitle>"The Teamster Leader" Newsletter</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_3df1ba0f3546a53d4ebb59c56e42d29c" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_532f15ba5f1b389145dff74bd531a771" parent="aspace_3df1ba0f3546a53d4ebb59c56e42d29c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_c2m" level="file">
+          <did>
+            <unittitle>"The Teamster" Magazine</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1990/1998" type="inclusive">1990-1998</unitdate>
+            <container id="aspace_dd6117c23823968127e7eab98dd3e3b0" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_6227c7b60fdc13654bc9ecdb94d816b7" parent="aspace_dd6117c23823968127e7eab98dd3e3b0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_mf1" level="file">
+          <did>
+            <unittitle>Teamsters Contract Campaign</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_c3d0dd772919067196388415a3d82e53" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_0ca033864068d0bba09fb5b274507678" parent="aspace_c3d0dd772919067196388415a3d82e53" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_bgx" level="file">
+          <did>
+            <unittitle>"Teamsters Convoy Dispatch" Newsletter</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_d3797b7ffe63ce30894c40e2c3499931" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_a7a51d693ab6d73d2174af2f17598ab9" parent="aspace_d3797b7ffe63ce30894c40e2c3499931" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_rhe" level="file">
+          <did>
+            <unittitle>"Teamsters UPS Contract Update" Newsletter</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1993/1998" type="inclusive">1993-1998</unitdate>
+            <container id="aspace_ec5201a8bb64db3386436d5e4312828d" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_06a2159def70d55e5718b3908dbff81e" parent="aspace_ec5201a8bb64db3386436d5e4312828d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_gm1" level="file">
+          <did>
+            <unittitle>UPS "Big Idea" Magazine</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1990/1996" type="inclusive">1990-1996</unitdate>
+            <container id="aspace_b777dbf6e0551a980fb0fee30082a654" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_d29ec4c2daf2d1c5774f76f48017195e" parent="aspace_b777dbf6e0551a980fb0fee30082a654" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_hrr" level="file">
+          <did>
+            <unittitle>UPS Teamsters Strike</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_a30c69f173bc32acf25040482fc73c0b" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_39f808636e74123de930ad7de482b78c" parent="aspace_a30c69f173bc32acf25040482fc73c0b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_dsu" level="file">
+          <did>
+            <unittitle>"UPS Teamsters for a Strong Contract" Newsletter</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_72c051d5c8e13414f6d46f4b7e4e2e65" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_9c61a28fd27bb1fcd4f793d9f429b980" parent="aspace_72c051d5c8e13414f6d46f4b7e4e2e65" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_eqm" level="file">
+          <did>
+            <unittitle>UPS Training</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5aa2e62d80aeffb6434e90449d7ce79e" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_36caa4e90b56a8874ef3cb4ffe0107a4" parent="aspace_5aa2e62d80aeffb6434e90449d7ce79e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_18q" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitid>Series 5</unitid>
+            <unitdate datechar="creation" normal="1989/1999" type="inclusive">1989-1999</unitdate>
+            <container id="aspace_ff9b8d32b7fc99d57036cc66b17964ae" label="Mixed Materials [32882020666908]" type="Box">7</container>
+            <container id="aspace_696be4dfc8c21efce1dfb8f380c0c30f" parent="aspace_ff9b8d32b7fc99d57036cc66b17964ae" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

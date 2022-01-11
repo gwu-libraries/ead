@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ibt0079.xml">ibt0079.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Annie Whelen Jensen scrapbook, <date calendar="gregorian" era="ce">1938-1954</date> <num>IBT0079</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2017</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:31:05 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Annie Whelen Jensen scrapbook</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Jensen, Annie Whelen</persname>
+      </origination>
+      <unitid>IBT0079</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 item(s)</extent>
+        <extent altrender="carrier">A scrapbook compiled by Annie Whelen Jensen (Tailgate Annie)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1938/1954" type="inclusive">1938-1954</unitdate>
+      <abstract id="aspace_cbf4f407930476e3b5886d5f0b4ab0e1">This collections consists of one scrapbook created by Annie Whelen Jensen who owned a truck stop cafe in Chicago the 1930s and 1940s.</abstract>
+      <physloc id="aspace_46c59385c271ba5f4dba50761d14d262">Materials may be stored off-site and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_7e6d6280a17726e23d2b64ba9d3e0ff4">
+      <head>Arrangement</head>
+      <p>The material is arranged as it was originally compiled by Mrs. Jensen.  Individual pages have been placed in mylar sleeves.</p>
+    </arrangement>
+    <scopecontent id="aspace_718f9d516303ba92047ee1104e9360ef">
+      <head>Scope and Contents</head>
+      <p>This scrapbook contains correspondence, clippings, photographs, and greeting cards, compiled by Annie Laurie Whelen Jensen.  The scrapbook relates to Mrs. Jensen's time as proprieter of the Tailgate cafe in Chicago.</p>
+    </scopecontent>
+    <bioghist id="aspace_402a768afb85cd21a1bd977fb68e4e1c">
+      <head>Biographical / Historical</head>
+      <p>Annie Laurie Whelen Jensen was born August 21, 1910, in Farmington, Missouri.  She worked as a waitress and a comedy wrestler before opening the Tailgate cafe in Chicago.  After selling the cafe she and her husband moved to San Francisco.  She died on October 14, 1954.</p>
+    </bioghist>
+    <accessrestrict id="aspace_1a95a7046298cc862099802f06382746">
+      <head>Conditions Governing Access</head>
+      <p>This item is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_6306dfea2e11c845c90aec6d946fa82a">
+      <head>Conditions Governing Use</head>
+      <p>Some materials may be copyrighted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_7c8db6bb7a9b019ea1520af16f94eee8">
+      <head>Immediate Source of Acquisition</head>
+      <p>This item was transferred from the International Brotherhood of Teamsters.  It was originally donated to the Teamsters by Barbara L. Vondruska, Annie Jensens's niece.</p>
+    </acqinfo>
+    <prefercite id="aspace_259de59d2251c79c72c25332e6039ce0">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:
+Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository.</p>
+    </prefercite>
+    <controlaccess>
+      <occupation source="lcsh">Annie Laurie Whelen Jensen</occupation>
+      <occupation source="lcsh">driving, trucks</occupation>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_29d18efca3fc376476a48b4df2eb999d" level="file">
+        <did>
+          <unittitle>Annie Whelen Jensen Scrapbook</unittitle>
+          <unitdate datechar="creation" normal="1938/1954" type="inclusive">1938-1954</unitdate>
+          <container id="aspace_8967f66d1abe80b9e9a7fae8fb43de09" label="Mixed Materials [32882021597201]" type="Box">1</container>
+          <container id="aspace_d137f84e8a83e856b17183a9273b60fe" parent="aspace_8967f66d1abe80b9e9a7fae8fb43de09" type="Folder">1</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

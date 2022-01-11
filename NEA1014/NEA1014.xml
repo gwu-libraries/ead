@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/NEA1014">NEA1014.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the National Education Association Web Archives Collection, <date calendar="gregorian" era="ce">2015-2018</date> <num>NEA1014.RG</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:55:09 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>National Education Association Web Archives Collection (Version 3)</unittitle>
+      <unitid>NEA1014.RG</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20 item(s)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="2015-07-06/2018-11-29" type="inclusive">Harvested multiple times between 6 July 2015 and 28 November 2018</unitdate>
+      <physloc id="aspace_ff68199b1bd5d25278b59e281cba6515">Materials are stored on a web-accessible server.</physloc>
+      <langmaterial><language langcode="mul">Multiple languages</language>
+.    </langmaterial>
+    </did>
+    <userestrict id="aspace_19a4c7a4f9df51cf5e607e577c7ab611">
+      <head>Conditions Governing Use</head>
+      <p>To the extent that they own copyright, the National Education Association as donor has licensed their materials to be used for non-commercial research, scholarly, or other educational uses. Copyright in other items in this collection may be held by their respective creators. For activities that the researcher determines fall under fair use as defined under U. S. Copyright Law, no permission to cite or publish is required. For re-use of materials in the collection not created by the donor, researchers are responsible for determining who may hold materials' copyrights, determining if the intended re-use falls under fair use, and obtaining approval from the copyright holder if the intended use does not fall under fair use. Researchers do not need anything further from The George Washington University Special Collections Research Center. Please contact Special Collections if the copyright status of the materials you wish to reuse is unclear. Staff will provide additional information.</p>
+    </userestrict>
+    <prefercite id="aspace_92725cd037cdaaf07dbaf520057300bb">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <acqinfo id="aspace_af4dc409de7eaf2f43b403c380e0c775">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection was harvested and archived through Archive-It</p>
+    </acqinfo>
+    <scopecontent id="aspace_1bfdb72691512fd13eec06c21d22c73f">
+      <head>Scope and Contents</head>
+      <p>The following URLs were harvested as part of this collection: edadvocacy.nea.org/archives, neamb.com, neablackcaucus.org, neahispaniccaucus.org, nea-apic.com, teacherleadershipinstitute.org, neawomenscaucus.com, nea-glbtc.org, priorityschools.org, myschoolmyvoice.nea.org, healthyfutures.nea.org, edadvocacy.nea.org, nea.org, neaacademy.org, lilysblackboard.org, educationvotes.nea.org, teacherleadershipinitiative.org, neahealthyfutures.org, neatoday.org, and neamb.com</p>
+    </scopecontent>
+    <accessrestrict id="aspace_3a0f832fcefc8811af0e6c036b993aa0">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <odd id="aspace_021c01578257d12d14c3bbca64462a14">
+      <head>Note on Accessibility</head>
+      <p>Patrons should be aware that these websites were archived in their original state and may not meet expectations for accessibility.</p>
+    </odd>
+    <controlaccess>
+      <subject source="lcsh">Women's rights</subject>
+      <subject source="lcsh">Civil rights</subject>
+      <subject source="lcsh">Gay rights</subject>
+      <subject source="lcsh">Employee rights</subject>
+      <subject source="lcsh">Education, Bilingual -- United States</subject>
+      <subject source="lcsh">Education policy</subject>
+      <subject source="lcsh">Educational law and legislation</subject>
+      <subject source="lcsh">Education -- Finance</subject>
+      <subject source="lcsh">Education</subject>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>

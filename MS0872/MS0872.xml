@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms0872.xml">ms0872.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Preliminary Guide to the Harold Lester Hirsh papers , <date calendar="gregorian" era="ce">1939-1994</date>
+ <num>MS0872.UA</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:58 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Harold Lester Hirsh papers </unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Hirsh, Harold L.</persname>
+      </origination>
+      <unitid>MS0872.UA</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">28.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1939-1994</unitdate>
+      <abstract id="aspace_77e093b9782c70d1638d5e5064926190">Dr. Harold Hirsh holds both the M.D. and J.D. degrees, and was formerly a member of the GW faculty. Materials in this collection include Dr. Harold Hirsh's law and medical publications, papers, awards, certificates, plaques, books, videos and audio tapes. The collection covers the years 1939 to 1994.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_6e25644cb9f06c0bfec6c158735e6201">
+      <head>Preferred citation</head>
+      <p>Harold Lester Hirsh papers , Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_1af6211300d24bce3b920053b6709294">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_7f9eff8aa78738490bd7b0464261c1ee">
+      <head>Acquisition Information</head>
+      <p>Acquisition information for this collection is unknown.</p>
+    </acqinfo>
+    <userestrict id="aspace_581cf77eca2fdd97623d10137e3c5d69">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_ed599c4f452b28409a458178ca36c068">
+      <head>Historical or Biographical Note</head>
+      <p>Dr. Harold Hirsh holds both M.D. and J.D. degrees, and was formerly a member of the GW faculty. Through the generosity of he and his wife Jane, GW created the Hirsh Health Law and Policy Program. The Hirsh Program, operating within the Department of Health Policy, is the portal through which law degree candidates and lawyers enter the health law and policy pursuits of the School of Public Health and Health Services. </p>
+      <p>These pursuits focus on topics such as health policy, the health care system and industry, environmental and occupational health, international health, and prevention and community health. The program's emphasis is on individualized course planning and career guidance with students is a hallmark of the program. </p>
+      <p> This note was written in 2005</p>
+    </bioghist>
+    <scopecontent id="aspace_3da3d80668dcbd41ba5e8969235319ed">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include Dr. Harold Hirsh's law and medical publications, papers, awards, certificates, plaques, books, videos and audio tapes. The collection covers the years 1939 to 1994.</p>
+      <p>Formerly ACC#872</p>
+      <p>This collection has a container list in electronic form, please ask staff for assistance. </p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Medicine</subject>
+      <subject source="lcsh">Law</subject>
+      <subject source="lcsh">Awards</subject>
+      <genreform source="aat">Audiotapes</genreform>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <genreform source="aat">Videotapes</genreform>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+      <persname rules="aacr" source="naf">Hirsh, Harold L.</persname>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>

@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/mvc0063.xml">mvc0063.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Mary Vareen scrapbook, <date calendar="gregorian" era="ce">Circa 1928-1930</date> 
+ <num>MVC0063.MS</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2012</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:45:13 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Mary Vareen scrapbook</unittitle>
+      <unitid>MVC0063.MS</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">2 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+      <abstract id="aspace_9dc5cfe584fbd5da580bb4cd07ec69d7">This collection contains the personal scrapbook of Mary Vareen, student at Mount Vernon Seminary circa 1928-1930. The contents include personal correspondence with family and friends (including telegrams and letters), photographs, programs from social events, newpaper clippings, and school-related materials.</abstract>
+      <physloc id="aspace_4378e4e1d4360bd186bee5f25535b840">Materials may be stored off-site, and may require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_5772b8aba406dce38641f8643bc5a31a">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <userestrict id="aspace_b961ff4fb884b0ff7aa14123cfe538ee">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <accessrestrict id="aspace_23d30215a12194378ad475515bbb5253">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <arrangement id="aspace_09d3f2486d8f24b5a61722128e799042">
+      <head>Arrangement</head>
+      <p>Arranged in the scrapbook's original order with any loose items placed at the end.</p>
+    </arrangement>
+    <acqinfo id="aspace_6269bdf1ab57cf787f04d07e31e240ba">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Mrs. Richard E. Coen, September 7, 2011 (2011.062)</p>
+    </acqinfo>
+    <scopecontent id="aspace_d66cda9e058c229f6695260c3e075abe">
+      <head>Scope and Contents</head>
+      <p>This collection contains the scrapbook of Mary Vareen, which includes photographs, personal correspondence, programs from concerts and other social events, postcards, small crafts, school-related papers, newspaper clippings, and other ephemera. The materials range in date from circa 1928-1930.</p>
+    </scopecontent>
+    <bioghist id="aspace_aaa34152e8831eec8f57befcc1e1560c">
+      <head>Biographical / Historical</head>
+      <p>Mary Vareen was a student at Mount Vernon Seminary circa 1928-1930. The Mount Vernon Seminary began in 1875 as a private high school and junior college for women, founded by Elizabeth J. Somers. The George Washington University initially affiliated with Mount Vernon College, and ultimately acquired the college's property and legacy in 1999. </p>
+      <p>Mary Vareen attended Mount Vernon Seminary while it was located at the Nebraska Avenue campus.</p>
+    </bioghist>
+    <controlaccess>
+      <subject source="lcsh">Women -- Education</subject>
+      <genreform source="aat">Scrapbooks</genreform>
+      <subject source="lcsh">Women's colleges</subject>
+      <corpname rules="aacr" source="naf">Mount Vernon Seminary</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2_ezs" level="file">
+        <did>
+          <unittitle>Front cover</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_6becf1e52ed7ac7a50664a048bb23ebc" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_c7019d4bbfc5d876db0a1f7656d8e682" parent="aspace_6becf1e52ed7ac7a50664a048bb23ebc" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref3_fz7" level="file">
+        <did>
+          <unittitle>Pages 1-6</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_c2a3e022ea2c5cfc5606986c5d051ab8" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_65b9a660f361d6bc1b1538b3440b5912" parent="aspace_c2a3e022ea2c5cfc5606986c5d051ab8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref4_qmy" level="file">
+        <did>
+          <unittitle>Pages 7-12</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_8237ebdbae71ab15ca7135dbb68e772f" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_bdd1d79ec9427b720be01119e2ef59b7" parent="aspace_8237ebdbae71ab15ca7135dbb68e772f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref5_b5o" level="file">
+        <did>
+          <unittitle>Pages 13-14</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_3250e7551ac95942f39f91a6d3cdad5c" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_6b95c0a6fdd8b2773b3539e93dfaa2f0" parent="aspace_3250e7551ac95942f39f91a6d3cdad5c" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref7_cim" level="file">
+        <did>
+          <unittitle>Page 15</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_4fd9380a0ac99fe448a58019dfc599d3" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_cbc90176b92b1b898b4d3460525b23d2" parent="aspace_4fd9380a0ac99fe448a58019dfc599d3" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref8_e15" level="file">
+        <did>
+          <unittitle>Page 16</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_2792006103fc186d2366bfc81c59fd5e" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_1cf233e898ff0a711785accaa41b2471" parent="aspace_2792006103fc186d2366bfc81c59fd5e" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref9_96o" level="file">
+        <did>
+          <unittitle>Page 17</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b07aa2c61ef67d5afb42203627408c9b" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_b84d69c23a7a62483d16825824110992" parent="aspace_b07aa2c61ef67d5afb42203627408c9b" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref10_ldd" level="file">
+        <did>
+          <unittitle>Page 18</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b82b54dcf1d4a42de335c220adb3fea8" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_8c57641a175967819bf89eed17d5bfc8" parent="aspace_b82b54dcf1d4a42de335c220adb3fea8" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref11_u6g" level="file">
+        <did>
+          <unittitle>Page 19</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_36b2b09e0527dc89b2a86436579c8646" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_a52b0066ba8ae147e3eb5d65ab0284cb" parent="aspace_36b2b09e0527dc89b2a86436579c8646" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref12_ffu" level="file">
+        <did>
+          <unittitle>Pages 20-21</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_941feaf0975e75dbce5ab9628ebda740" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_cd3d2775d0157b712a2d43f564fc0745" parent="aspace_941feaf0975e75dbce5ab9628ebda740" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref13_um9" level="file">
+        <did>
+          <unittitle>Pages 22-23</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_3bda9df49d445c1582331c74fbfee02e" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_c5c2b7a6362bbb3524bda82ff642fd0e" parent="aspace_3bda9df49d445c1582331c74fbfee02e" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_8jy" level="file">
+        <did>
+          <unittitle>Page 24</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_9516fedff7365b02c481bdb089841c9c" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_4a64bab6a7dd7f711c87ea310e962aa5" parent="aspace_9516fedff7365b02c481bdb089841c9c" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref15_5u2" level="file">
+        <did>
+          <unittitle>Page 25</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_2ac7d5dbd6de8b5e1a4c0d3c129a2d10" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_0b6efb609723d2ae660c7d3913e2afdc" parent="aspace_2ac7d5dbd6de8b5e1a4c0d3c129a2d10" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_s0y" level="file">
+        <did>
+          <unittitle>Page 26</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b1495eafdb830d8857ad33a8d46ed0a4" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_14afd234d22d49545770161a54afc934" parent="aspace_b1495eafdb830d8857ad33a8d46ed0a4" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref17_bob" level="file">
+        <did>
+          <unittitle>Page 27</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b470ed6e22efcedfbdcd923c31bca234" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_3e5ce0299e31e907687f5fd0f0dcde27" parent="aspace_b470ed6e22efcedfbdcd923c31bca234" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_41i" level="file">
+        <did>
+          <unittitle>Page 28</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_8e56c48bf95bcc643e421f1aadce9dc4" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_31d292f49c0d74136346934fe9ef6318" parent="aspace_8e56c48bf95bcc643e421f1aadce9dc4" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref19_n37" level="file">
+        <did>
+          <unittitle>Page 29</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_05a7c70e6426027bdcebbfeca1972309" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_0008cdb8a8596f5a6b8c67f4ac50a66b" parent="aspace_05a7c70e6426027bdcebbfeca1972309" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_pwr" level="file">
+        <did>
+          <unittitle>Page 30</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b7b5029302321e9963fed6633e2d375f" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_e88abe6012eabab1371fa3373915251d" parent="aspace_b7b5029302321e9963fed6633e2d375f" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref21_uph" level="file">
+        <did>
+          <unittitle>Page 31</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_ce5e57dc7f99b34b32e4f5a21cb4c4f9" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_32758047ca746d46200174ba6778a723" parent="aspace_ce5e57dc7f99b34b32e4f5a21cb4c4f9" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_ulm" level="file">
+        <did>
+          <unittitle>Page 32</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_14c52fbe6eb941b49078e6a9535c666b" label="Mixed Materials [32882020302785]" type="Box">1</container>
+          <container id="aspace_23dc5741ed76ed7ff0dcfe0bead5acab" parent="aspace_14c52fbe6eb941b49078e6a9535c666b" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref23_yb8" level="file">
+        <did>
+          <unittitle>Page 33</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_007e20d969292397a45d4c8cc10b24cd" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_9f4366a28c168539ae7c1a76305ee7fb" parent="aspace_007e20d969292397a45d4c8cc10b24cd" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_ym2" level="file">
+        <did>
+          <unittitle>Page 34</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_e56fee7ab2fd89f0ecdc35750e473261" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_4d2a014d7f5a4e5753bb0d1c1b19532e" parent="aspace_e56fee7ab2fd89f0ecdc35750e473261" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref25_1p0" level="file">
+        <did>
+          <unittitle>Pages 35-39</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_daef31fd50cbb3af974e09338f2ee7e7" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_0eed795b8e342881578d4f999d9d16fb" parent="aspace_daef31fd50cbb3af974e09338f2ee7e7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_vo1" level="file">
+        <did>
+          <unittitle>Page 40</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_f83f25a140b5883dd6b2c0fb9fac5a1e" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_a0f6c418219a411538527ab44dce0532" parent="aspace_f83f25a140b5883dd6b2c0fb9fac5a1e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref27_s7b" level="file">
+        <did>
+          <unittitle>Page 41</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_46524752caf5834c4365c53287bbf892" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_969484e9f9f983fb4eac2afd76e7ed00" parent="aspace_46524752caf5834c4365c53287bbf892" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_8il" level="file">
+        <did>
+          <unittitle>Pages 42-43</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_cd67a44606eb5b7e0d53bbe4bab537f8" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_cc0859488d2d8efc4969f866af9ee78b" parent="aspace_cd67a44606eb5b7e0d53bbe4bab537f8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref29_jao" level="file">
+        <did>
+          <unittitle>Page 44</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_47e51c20b31b7587fe759585a438968e" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_a0a7e22d27728a8e0f53cd202649c225" parent="aspace_47e51c20b31b7587fe759585a438968e" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_rbo" level="file">
+        <did>
+          <unittitle>Page 45</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_dba8c251b362bb2f59ab69d6ceaa87a2" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_b67a919cae99ced86653fd140deb3d70" parent="aspace_dba8c251b362bb2f59ab69d6ceaa87a2" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref31_2wv" level="file">
+        <did>
+          <unittitle>Page 46</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_f1403231b285f345e6e228bed0808d45" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_3a57046424a81bc66837c7b8fc5974c6" parent="aspace_f1403231b285f345e6e228bed0808d45" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_zsq" level="file">
+        <did>
+          <unittitle>Page 47</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_157a8ed2e1b281f169cd124664dd4d1d" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_3dd30a1be5a0d68e3012320c05811277" parent="aspace_157a8ed2e1b281f169cd124664dd4d1d" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref33_wn3" level="file">
+        <did>
+          <unittitle>Page 48</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_b2f115ad2c6a4968a5d0c2ec53c187b7" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_b0019fab6bcfa824a7645e1868ce6bb1" parent="aspace_b2f115ad2c6a4968a5d0c2ec53c187b7" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_hjw" level="file">
+        <did>
+          <unittitle>Page 49</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_ec67ec9f5031ba6e4747970c8659a7eb" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_c9558c0661f4265a82c6ab657ba7de25" parent="aspace_ec67ec9f5031ba6e4747970c8659a7eb" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref35_c2f" level="file">
+        <did>
+          <unittitle>Page 50</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_fa5c808241369b391a45003c8056192f" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_f81f6fed46ebcb4f7615b1eace33caf1" parent="aspace_fa5c808241369b391a45003c8056192f" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref37_yqm" level="file">
+        <did>
+          <unittitle>Page 51</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_9dbba01091b693d14b7bcee117c5e96c" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_c46514b0f5ec40c8e73f909e5096b95e" parent="aspace_9dbba01091b693d14b7bcee117c5e96c" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_5xj" level="file">
+        <did>
+          <unittitle>Loose items</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_38dbc4a15b72a8c880ae9b4cc7308025" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_86505bd74ae8713248d55ac5cdcada81" parent="aspace_38dbc4a15b72a8c880ae9b4cc7308025" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref39_vzb" level="file">
+        <did>
+          <unittitle>Loose photos</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_51abcf060fca7563c0aa3ea70eba61da" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_c08cc4943e0d653c435935845508501d" parent="aspace_51abcf060fca7563c0aa3ea70eba61da" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref40_v11" level="file">
+        <did>
+          <unittitle>Loose items</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_e52746b6801cd212b7090b4db79e3d93" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_0a12c903a2c2aeafd069a81e3ba10d0e" parent="aspace_e52746b6801cd212b7090b4db79e3d93" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref41_ulr" level="file">
+        <did>
+          <unittitle>Loose post cards</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_f52f86b532fd90e2f7bbadfca7f49a96" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_587b189b4806ffa4d55fe05bf1d62153" parent="aspace_f52f86b532fd90e2f7bbadfca7f49a96" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_4om" level="file">
+        <did>
+          <unittitle>Loose items</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_c0d01e2f767bcf2f8de60b10a0f97e0a" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_fa5d2e9cdbd1adc4b08b7aca9d30e63f" parent="aspace_c0d01e2f767bcf2f8de60b10a0f97e0a" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref43_dc2" level="file">
+        <did>
+          <unittitle>Loose items</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_7cd12d323dad3226e43a4e93d0a4569a" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_5b53d07bd5f3a3a3f8dd75f6443d1883" parent="aspace_7cd12d323dad3226e43a4e93d0a4569a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_4ze" level="file">
+        <did>
+          <unittitle>Loose items</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_e36714d255c59de5e484d1bf572fd11f" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_69cde94e9126e9fb287b44158a28a4ff" parent="aspace_e36714d255c59de5e484d1bf572fd11f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref45_dgf" level="file">
+        <did>
+          <unittitle>Back cover</unittitle>
+          <unitdate datechar="creation" normal="1928/1930" type="inclusive">circa 1928-1930</unitdate>
+          <container id="aspace_34a8e31607569069fa83d53dad3a2c68" label="Mixed Materials [32882020302793]" type="Box">2</container>
+          <container id="aspace_a0da6ae8377999257d8dce79481248e2" parent="aspace_34a8e31607569069fa83d53dad3a2c68" type="Folder">23</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

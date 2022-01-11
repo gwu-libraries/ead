@@ -1,0 +1,1829 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2075.xml">ms2075.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the W. Lloyd Wright papers, <date calendar="gregorian" era="ce">1786-1945</date>
+ <num>MS2075</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:37:34 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>W. Lloyd Wright papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Wright, W. Lloyd (William Lloyd)</persname>
+      </origination>
+      <unitid>MS2075</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1786/1945" type="inclusive">1786-1945</unitdate>
+      <abstract id="aspace_a55225baa2a04233ff99f6d22e03cfd9">Collection includes correspondence, bills, receipts, lottery tickets, proclamations, testimonials, auction catalogue, newspapers, bonds, stock certificates, and checks. The material dates from 1786-1945. All of the material in this collection relates to prominent people and activities in Washington, D.C.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_576f4b5ab7d77027d25c00628d95c662">
+      <head>Preferred citation</head>
+      <p>W. Lloyd Wright papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_40ddc302e69883304baa4e7af55f77de">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_9e8c662743984cd5e98a56b4117a3ee8">
+      <head>Acquisition Information</head>
+      <p>The W. (William) Lloyd Wright Collection was donated to the University by Wright's sister Mathilda Wright following his death in 1950.</p>
+    </acqinfo>
+    <userestrict id="aspace_333a057b80f5fa1e524ab028517199c5">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_d4cf6094405222ef7d0b8cbd8557c28f">
+      <head>Historical or Biographical Note</head>
+      <p>W. (William) Lloyd Wright (1876-1950) was a draftsman and engineer for the U.S. Navy, and a collector of manuscripts, photographs, and pamphlets.</p>
+    </bioghist>
+    <scopecontent id="aspace_0d671144c6b5c148b7a06cfb8e929ccd">
+      <head>Collection Scope and Content</head>
+      <p>This collection includes correspondence, bills, receipts, lottery tickets, proclamations, testimonials, auction catalogue, newspapers, bonds, stock certificates, and checks. The material dates from 1786-1945. All of the material in this collection relates to prominent people and activities in Washington, D.C.</p>
+    </scopecontent>
+    <arrangement id="aspace_71234552c522692d5ed29d1bf42ea5e4">
+      <head>Collection Organization</head>
+      <p>Organized into three series: Correspondence, Financial papers, and Miscellaneous.</p>
+    </arrangement>
+    <processinfo id="aspace_e6d4a58a1415b9603b0feeda5ec6b51b">
+      <head>Processing Information</head>
+      <p>Folders in Series 1 Box 4 were re-numbered in Aspace to reflect the numbering of the physical folders in the box. Previously, Box 4 had been numbered with Folders 24-48 in Aspace. Now, they are numbered 1-25 in Aspace and in the physical box. 3/12/2020</p>
+    </processinfo>
+    <controlaccess>
+      <subject source="lcsh">Washington (D.C.) -- History</subject>
+      <genreform source="aat">Photographs</genreform>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Social life and customs</subject>
+      <subject source="lcsh">Finance</subject>
+      <subject source="lcsh">Economic conditions</subject>
+      <subject source="lcsh">United States -- History -- War of 1812. </subject>
+      <persname rules="aacr" source="naf">Seaton, William Winston</persname>
+      <persname source="naf">Royall, Anne Newport</persname>
+      <persname rules="aacr" source="naf">Staughton, William</persname>
+      <persname rules="dacs" source="naf">Payne, John Howard</persname>
+      <persname source="naf">Wright, W. Lloyd (William Lloyd)</persname>
+      <persname rules="aacr" source="naf">Corcoran, W. W. (William Wilson)</persname>
+      <persname source="naf">William, Thornton</persname>
+      <corpname rules="aacr" source="naf">Georgetown University</corpname>
+      <persname rules="aacr" source="naf">Latrobe, Benj. H. (Benjamin Henry)</persname>
+      <persname rules="aacr" source="naf">Green, Duff</persname>
+      <persname rules="aacr" source="naf">Greenough, Horatio</persname>
+      <persname rules="aacr" source="naf">Jefferson, Thomas</persname>
+      <persname source="naf">Key, Philip Barton</persname>
+      <persname rules="aacr" source="naf">Mills, Robert</persname>
+      <persname rules="dacs" source="naf">Page, Thomas Nelson</persname>
+      <persname rules="aacr" source="naf">Blodget, Samuel</persname>
+      <persname rules="aacr" source="naf">Gales, Joseph</persname>
+      <persname rules="aacr" source="naf">Bryan, W.B. (Wilhelmus Bogart)</persname>
+      <persname rules="aacr" source="naf">Riggs, George Washington</persname>
+      <persname rules="aacr" source="naf">Douglass, Frederick</persname>
+      <persname rules="aacr" source="naf">Ellicott, Andrew</persname>
+      <persname rules="aacr" source="naf">Force, Peter</persname>
+      <persname rules="aacr" source="naf">Custis, George Washington Parke</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_aed" level="series">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitid>MS2075 Series 1</unitid>
+          <unitdate datechar="creation">1795-1906</unitdate>
+          <physdesc id="aspace_8729312545506a4b42c62637ef7bf848" label="General Physical Description note">2.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_e8bd66db31657e0f9986f20ebe16d3d9">
+          <head>Scope and Contents note</head>
+          <p>This series consists of correspondence that dates from 1795-1906. The 117 letters in this series are from prominent Washingtonians, such as W.W. Corcoran, banker and philanthropist, Peter Force, historian, printer, and member of the Washington, D.C. city council, and Horatio Greenough, an American sculptor known for his controversial statue of George Washington. Also included are letters from Joseph Gales and William Seaton (both journalists and mayors of Washington, D.C.), George Washington Riggs, banker and one of the founders of the Corcoran and Riggs banking firm, and Robert Mills, architect of the Washington Monument.</p>
+        </scopecontent>
+        <c id="aspace_ref13_euo" level="file">
+          <did>
+            <unittitle>Adlum, John (1759-1836). Letter: Philadelphia, to Aaron Ogden</unittitle>
+            <unitdate datechar="creation">06/17/1799</unitdate>
+            <container id="aspace_074d7d8ebbc3cb7144b39c43af95b777" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aedd3cf7376e2d192fdf5c8d18b4b47a" parent="aspace_074d7d8ebbc3cb7144b39c43af95b777" type="Folder">1</container>
+          </did>
+          <odd id="aspace_206be992fb13182c7cb4c4e9dc984941">
+            <head>General note</head>
+            <p>Summary: Requests permission from Col. Ogden to take three weeks from duty to see to his farm duties. (Adlum was a vintner, and wrote a memoir on the "cultivation of the vine in America," which is in Special Collections, call number SB 389 .A28).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref15_nlo" level="file">
+          <did>
+            <unittitle>Baird, Spencer Fullerton (1823-1887). Letter: Washington, DC, to E.S. Morse</unittitle>
+            <unitdate datechar="creation">02/18/1878</unitdate>
+            <container id="aspace_5b9796ac3aa26f462081067d82bba80e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2c0bf0d38462f072a23c5541f7c8cc84" parent="aspace_5b9796ac3aa26f462081067d82bba80e" type="Folder">2</container>
+          </did>
+          <odd id="aspace_d847f35671eb5c49547ebdf2af0dc2ce">
+            <head>General note</head>
+            <p>Summary: Asks for an illustration from a book by Morse, to be used in a Smithsonian Institution publication. (Baird was Secretary of the Smithsonian Institution from 1879-1882).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref17_n38" level="file">
+          <did>
+            <unittitle>Barber, Virgil (1782-1847). Letter: Georgetown College, to Silas Wood</unittitle>
+            <unitdate datechar="creation">09/25/1820</unitdate>
+            <container id="aspace_cc52ade06dab45a1c8568245471a4f79" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5036a58e62815582b5f1e2d0102b4b57" parent="aspace_cc52ade06dab45a1c8568245471a4f79" type="Folder">3</container>
+          </did>
+          <odd id="aspace_a8ad3b98ba0e66b59422848173097ece">
+            <head>General note</head>
+            <p>Summary: Sends information on a former Georgetown student; mentions planned move to Jusuits' house in Washington. (Barber was an Episcopal, then Catholic clergyman, who taught at Georgetown University).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref19_aak" level="file">
+          <did>
+            <unittitle>Barlow, Ruth (1755-1818). Letter: to Pamela Jacob, Windsor, Vt.</unittitle>
+            <unitdate datechar="creation">1815</unitdate>
+            <container id="aspace_4d4aafc58c923bf1babbda92867c0ca7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ec7b63fbe35b9853e984b5e7f85f451a" parent="aspace_4d4aafc58c923bf1babbda92867c0ca7" type="Folder">4</container>
+          </did>
+          <odd id="aspace_e717695493d494d25e08b3bacc596879">
+            <head>General note</head>
+            <p>Summary: Mentions arrival at Mason's Island (now Theodore Roosevelt's Island) on Oct. 22. Expresses pessimism about the ability of the U.S. to win the War of 1812. (Ruth Baldwin Barlow married poet and diplomat John Barlow in 1781).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref21_6fp" level="file">
+          <did>
+            <unittitle>Barlow, Ruth (1755-1818). Letter: Kalorama, to Pamela Jacob, Windsor, Vt</unittitle>
+            <unitdate datechar="creation">05/26/1816</unitdate>
+            <container id="aspace_b7792443029cfa7636e7cb090a95a4a2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_51016548fed14ff7cc6cdc017f19eaa7" parent="aspace_b7792443029cfa7636e7cb090a95a4a2" type="Folder">6</container>
+          </did>
+          <odd id="aspace_87aa682b7f43166e3befbf50beb9eb19">
+            <head>General note</head>
+            <p>Summary: Mentions long hours of business correspondence, her granddaughter, and her affection for Mrs. Jacobs.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref23_q5y" level="file">
+          <did>
+            <unittitle>Blake, George B. Letter: City of Washington, to Col. John S. Cunningham</unittitle>
+            <unitdate datechar="creation">11/09/1874</unitdate>
+            <container id="aspace_fed917de1feade7ccd326983a557bdb6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d0a7d19e2c47a983fca2533217ea3872" parent="aspace_fed917de1feade7ccd326983a557bdb6" type="Folder">7</container>
+          </did>
+          <odd id="aspace_7391439a554505d2958369f3f63fbbc2">
+            <head>General note</head>
+            <p>Summary: Argues that the true name of the capital of the United States is City of Washington, not Washington. (Blake was a member of the Association of the Oldest Inhabitants of the District of Columbia).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref25_tjs" level="file">
+          <did>
+            <unittitle>Blodget, Samuel (1757-1814). Letter: to Daniel Gilman</unittitle>
+            <unitdate datechar="creation">12/24/1795</unitdate>
+            <container id="aspace_571a0b43854c5180be53e63fa13266ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1d037a993146777776f60ae991c7f4bf" parent="aspace_571a0b43854c5180be53e63fa13266ed" type="Folder">8</container>
+          </did>
+          <odd id="aspace_e6d479bc6a0f5357a6168b786ea2bb92">
+            <head>General note</head>
+            <p>Summary: Concerns financial dealings. (Blodget was a merchant, land speculator, and architect, especially in the early District of Columbia. He died bankrupt).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref27_pps" level="file">
+          <did>
+            <unittitle>Bomford, George (1792-1848). Letter: Washington, to Gen. J. Manton</unittitle>
+            <unitdate datechar="creation">03/25/1825</unitdate>
+            <container id="aspace_b8de0966b050c2dd70ac0d723beb8875" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4fd17a503c26b66bc5c058e031d68ff6" parent="aspace_b8de0966b050c2dd70ac0d723beb8875" type="Folder">9</container>
+          </did>
+          <odd id="aspace_28dfa49c5fc37a2eea39032b0bfc69aa">
+            <head>General note</head>
+            <p>Summary: Concerns transfer of artillery from New York state. (Bomford was a soldier, ordnance expert, and a resident of Washington, D.C.).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref29_p7n" level="file">
+          <did>
+            <unittitle>Burnett, Frances Hodgson. Letter: 1770 Mass. Ave., to Ms. Scott</unittitle>
+            <unitdate datechar="creation">09/11/1894</unitdate>
+            <container id="aspace_8991da132ca1269ec521776e918d3ac1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_005d99953c60aa80b22edaf09daa571a" parent="aspace_8991da132ca1269ec521776e918d3ac1" type="Folder">10</container>
+          </did>
+          <odd id="aspace_e0ea8ce522dc5b16feb45ca604f9bb30">
+            <head>General note</head>
+            <p>Summary: Apologizes for not writing before, says has been in England and has just returned because of son's illness. (Burnett was an author, especially of children's books, and was a resident of Washington, D.C., 1876-1898).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref31_6s4" level="file">
+          <did>
+            <unittitle>Causten, Anna Payne. Letter: Washington, to unidentified recipient, between 1809 and 1817.</unittitle>
+            <unitdate datechar="creation">1809-1817</unitdate>
+            <container id="aspace_22ec28d8717012dbffbd4db89951c111" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b3e8fcecd00cde8e779876c5c8a94ef0" parent="aspace_22ec28d8717012dbffbd4db89951c111" type="Folder">11</container>
+          </did>
+          <odd id="aspace_c82f0d84590172f52cfecef3cb914b77">
+            <head>General note</head>
+            <p>Summary: Mentions her Aunt Dolley Madison's severe cold and the visitors she received. Also mentions President James Madison. (Causten was the niece of Dolley Madison and lived with her in the White House).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref33_858" level="file">
+          <did>
+            <unittitle>Cooke, Henry David (1825-1881). Letter: Washington, to Richard Cruikshank</unittitle>
+            <unitdate datechar="creation">09/19/1871</unitdate>
+            <container id="aspace_e2309851e6f1ba7235da329efd81adcf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bade1c817568d0557589508b39c757bc" parent="aspace_e2309851e6f1ba7235da329efd81adcf" type="Folder">12</container>
+          </did>
+          <odd id="aspace_9419b39fd737b34b37c1ee7c8abad924">
+            <head>General note</head>
+            <p>Summary: Approves the use of a District of Columbia government building for the use of a public library. (Cooke was the brother of banker Jay Cooke and the first governor of Washington, D.C., 1871-1873).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref35_90h" level="file">
+          <did>
+            <unittitle>Cooke, Henry David (1825-1881). Letter: Washington, to Gardner Rand, Troy, N.Y.</unittitle>
+            <unitdate datechar="creation">10/02/1873</unitdate>
+            <container id="aspace_31a067e2353870305c2e3fb2c6c0bac8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_26bb4660c9b8f3a5dba3e3bc48b613f2" parent="aspace_31a067e2353870305c2e3fb2c6c0bac8" type="Folder">13</container>
+          </did>
+          <odd id="aspace_c08fdd89d8bff1faa1add387cd11f46c">
+            <head>General note</head>
+            <p>Summary: Sends his autograph and says he has resigned as governor of Washington, D.C.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref37_7nu" level="file">
+          <did>
+            <unittitle>Cooke, Henry David (1825-1881). Letter: Washington, DC, to Andrew J Rogers, Wash.</unittitle>
+            <unitdate datechar="creation">03/07/1873</unitdate>
+            <container id="aspace_043ccd29eb36611c673c669f1538c33e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_58f04ebaf5550dcc8e0b607df0fe5348" parent="aspace_043ccd29eb36611c673c669f1538c33e" type="Folder">14</container>
+          </did>
+          <odd id="aspace_bc5609a3925a72b0bc29b48a386873dc">
+            <head>General note</head>
+            <p>Summary: Tells Rogers he is unable to make an appointment, although he is in favor of developing the water power of Great Falls of the Potomac.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref39_nzw" level="file">
+          <did>
+            <unittitle>Corcoran, W.W. (1798-1888). Letter: Washington, DC, to Dr. James Laurie, Wash.</unittitle>
+            <unitdate datechar="creation">01/04/1843</unitdate>
+            <container id="aspace_53b1fe03b9f467121bf5fbbda801c684" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ca81b881e4d379121861c6013256e827" parent="aspace_53b1fe03b9f467121bf5fbbda801c684" type="Folder">15</container>
+          </did>
+          <odd id="aspace_7f0c440945092fe2e64293c62d3f490e">
+            <head>General note</head>
+            <p>Summary: Mentions willingness to pay any balance outstanding on his account. (Corcoran was a Washington, D.C. banker and philanthropist).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref41_xg8" level="file">
+          <did>
+            <unittitle>Corcoran, W.W. (1798-1888). Note: to "Dear Madam"</unittitle>
+            <unitdate datechar="creation">01/13/1881</unitdate>
+            <container id="aspace_c1d6f11bcee28edb9a0f0e38dd66db99" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bfa852d9412acf4862e6e0e3ce0b1eda" parent="aspace_c1d6f11bcee28edb9a0f0e38dd66db99" type="Folder">16</container>
+          </did>
+          <odd id="aspace_d67206dcc634d0456322f28f41a2fb20">
+            <head>General note</head>
+            <p>Summary: Thanks recipient for sending account of the death of a friend.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref43_hfl" level="file">
+          <did>
+            <unittitle>Coxe, Richard Smith. (1792-1865). Letter: Georgetown, to Garret Wall, Trenton, NJ</unittitle>
+            <unitdate datechar="creation">01/13/1822</unitdate>
+            <container id="aspace_b38621872e5758330ab86cb820aac090" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f27b7e859a0121cfcee45b6bbee487a7" parent="aspace_b38621872e5758330ab86cb820aac090" type="Folder">18</container>
+          </did>
+          <odd id="aspace_df5162d156d17c5a1733293bdac9dfcf">
+            <head>General note</head>
+            <p>Summary: Describes his lack of political influence in Washington. Comments on the personalities of President James Monroe and John C. Calhoun. Describes the general atmosphere of the U.S. Congress. (Coxe was a New Jersey lawyer who moved to Washington, D.C. in 1822 and developed a large legal practice).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref45_13i" level="file">
+          <did>
+            <unittitle>Cranch, William (1769-1855). Letter: Washington, DC., to Robert G. Harper, Baltimore</unittitle>
+            <unitdate datechar="creation">11/04/1810</unitdate>
+            <container id="aspace_3ff6083d4a88d472d0385b39e2fdb825" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c2e1acdad2d48bf0642a98b39722e75c" parent="aspace_3ff6083d4a88d472d0385b39e2fdb825" type="Folder">19</container>
+          </did>
+          <odd id="aspace_327124b6e0c9a0e8d032fc4650639e20">
+            <head>General note</head>
+            <p>Summary: Explains the judge's verdict in a legal case involving the Marine Insurance Company of Alexandria, to Harper, a Baltimore lawyer and former representative from South Carolina. (Cranch was the Chief Justice of the U.S. District Court for the District of Columbia, 1805-1855).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref47_svd" level="file">
+          <did>
+            <unittitle>Cranch, William (1769-1855). Letter: Washington, DC, to the New North Society, Boston</unittitle>
+            <unitdate datechar="creation">09/03/1830</unitdate>
+            <container id="aspace_f1e8041e2b6891dac321d99eedbe1ba0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_36d7d29de7defb913651ad9ce788e7a5" parent="aspace_f1e8041e2b6891dac321d99eedbe1ba0" type="Folder">20</container>
+          </did>
+          <odd id="aspace_711802c12186655aa813934f7d1a16c2">
+            <head>General note</head>
+            <p>Summary: Ms signed by Cranch and two others, as Committee of Management of the First Unitarian Church in the city of Washington. Invites representatives to the ordination of their new pastor, Cazneau Palfrey.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref49_dro" level="file">
+          <did>
+            <unittitle>Cunningham, William. The Washingtonian: holograph</unittitle>
+            <unitdate datechar="creation">1836</unitdate>
+            <container id="aspace_ac842f5483c455c7775828fc3215635a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_93bf7ceac8299e79809a3378f2388bdd" parent="aspace_ac842f5483c455c7775828fc3215635a" type="Folder">22</container>
+          </did>
+          <odd id="aspace_04a9c99385a382b9c13c38f6fa306df9">
+            <head>General note</head>
+            <p>Summary: Prospectus for a semi-weekly newspaper of political thought.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref51_4da" level="file">
+          <did>
+            <unittitle>Custis, George Washington Parke (1781-1857). Letter: Alexandria, DC, to R.B. Taney</unittitle>
+            <unitdate datechar="creation">04/17/1834</unitdate>
+            <container id="aspace_83a1a5335749e3ee9220e21294853b39" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_57e3b98d4fdaee437f794c27c56f8df6" parent="aspace_83a1a5335749e3ee9220e21294853b39" type="Folder">23</container>
+          </did>
+          <odd id="aspace_6ff917f698c16ce937e170c3cc91d9ae">
+            <head>General note</head>
+            <p>Summary: Asks Taney's help in receiving compensation for fisheries destroyed on his property, caused by dredging the Potomac River to improve Georgetown navigation. (Custis was a playwright and the step-grandson of George Washington).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref301_56b" level="file">
+          <did>
+            <unittitle>Cutler, Manasseh (1742-1823). Letter: Washington, to [Jedidiah] Morse, Charlestown, Mass.</unittitle>
+            <unitdate datechar="creation" normal="1802/1802" type="inclusive">1802 December 15</unitdate>
+            <container id="aspace_472823737d9c9c3516ee363fe911c8d7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2b1674593702cd590608d511ac273d8e" parent="aspace_472823737d9c9c3516ee363fe911c8d7" type="Folder">24</container>
+          </did>
+          <odd id="aspace_c933b5b50bdf04bfd91dee0dbaa36a42">
+            <head>General</head>
+            <p>Holograph signed. Mentions the opening of Congress. Asks Morse to forward a religious pamphlet. Speaks disparagingly of writings of Thomas Paine.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref53_7re" level="file">
+          <did>
+            <unittitle>Dahlgren, Madeleine Vinton (1825-1898). Letter: to Mr. Harvey</unittitle>
+            <unitdate datechar="creation">02/05/1871</unitdate>
+            <container id="aspace_0fac699b229a812be78ab194cceb4844" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3022debb4b427dd8bfc8b54f18d5fcc3" parent="aspace_0fac699b229a812be78ab194cceb4844" type="Folder">25</container>
+          </did>
+          <odd id="aspace_2c9f1643846939a7e76dad5b22b756db">
+            <head>General note</head>
+            <p>Summary: Concerns her article on the social status of women. (Dahlgren was a Washington author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56_jyc" level="file">
+          <did>
+            <unittitle>Davenport, Braxton. Letter of Republicans rest, to Jeremy Robinson, Wash. City</unittitle>
+            <unitdate datechar="creation">10/26/1822</unitdate>
+            <container id="aspace_2d536d4b04b1625ccc557308d6cf8165" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a60dd2b03fb81374c19416d08cfb6c62" parent="aspace_2d536d4b04b1625ccc557308d6cf8165" type="Folder">1</container>
+          </did>
+          <odd id="aspace_16c28ae9a532bfa4589b2a0579dbf968">
+            <head>General note</head>
+            <p>Summary: Welcomes his friend back to Washington; praises Robinson's selection of an attractive widow as a friend.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58_odr" level="file">
+          <did>
+            <unittitle>De Cow, Rachel. Letter: Washington, to unidentified recipient</unittitle>
+            <unitdate datechar="creation">09/05/1813</unitdate>
+            <container id="aspace_a52816503eab55908b3a3c4ada2b830c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fcd42602242e3fed724bff859f4cf459" parent="aspace_a52816503eab55908b3a3c4ada2b830c" type="Folder">2</container>
+          </did>
+          <odd id="aspace_e595b7c9e7f175d4cc4a6e5773d2a03b">
+            <head>General note</head>
+            <p>Summary: Thanks recipient for sending a check; requests he sell a property for her; mentions her brother's financial difficulties in raising a large family.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref60_yxv" level="file">
+          <did>
+            <unittitle>Dickins, Asbury (1780-1861). Letter: Washington, to Hyde de Neuville</unittitle>
+            <unitdate datechar="creation">05/10/1819</unitdate>
+            <container id="aspace_1556691e3180eae05384b852d13d52c5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_25121833b921119c299271321018c456" parent="aspace_1556691e3180eae05384b852d13d52c5" type="Folder">3</container>
+          </did>
+          <odd id="aspace_2e381a653a6eea92a8d847d583535aaf">
+            <head>General note</head>
+            <p>Summary: Informs the recipient he has been elected a resident member of the Columbian Institute in Washington, D.C. (Dickins was a secretary of the U.S. Senate in Washington, D.C. and a secretary of the Columbian Institute).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref62_855" level="file">
+          <did>
+            <unittitle>Douglass, Frederick (1817-1895). Letter: Washington, DC, to B.F. Underwood</unittitle>
+            <unitdate datechar="creation">05/09/1884</unitdate>
+            <container id="aspace_6d53fe6c92d383216a3475ea73c692a8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_99c698d31491547344fd9a3aaa9bf14f" parent="aspace_6d53fe6c92d383216a3475ea73c692a8" type="Folder">4</container>
+          </did>
+          <odd id="aspace_f8fa7aef6387a769225118b1fd74a13e">
+            <head>General note</head>
+            <p>Summary: Is arranging to send a copy of his autobiography; is an interested reader of the Index, of which Underwood is editor. (Douglass was born a slave and later became an American diplomat and journalist).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref64_usr" level="file">
+          <did>
+            <unittitle>Ellicott, Andrew (1754-1820). Letter: to the President and Directors of the Office of Discount and Deposit</unittitle>
+            <unitdate datechar="creation">1820 May 22</unitdate>
+            <container id="aspace_1871770ac0f73147ffeb2e19c9b1269e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7e39accaf2fcaaabe85d18bc2fa74ea2" parent="aspace_1871770ac0f73147ffeb2e19c9b1269e" type="Folder">5</container>
+          </did>
+          <odd id="aspace_315cebef44ee09a791eb356f8b51edce">
+            <head>General note</head>
+            <p>Summary: Asks to postpone for six months the payment of a note. (Ellicott was a surveyor and mathematician, who drew up early maps of the District of Columbia).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref66_dza" level="file">
+          <did>
+            <unittitle>Fendall, Phillip Ricard (1794-1868). Letter: Washington, to Daniel Webster</unittitle>
+            <unitdate datechar="creation">07/06/1841</unitdate>
+            <container id="aspace_6dcf518da0abd0819b8a00bc05fa816f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1c097e680419488d18564d961d6292f8" parent="aspace_6dcf518da0abd0819b8a00bc05fa816f" type="Folder">6</container>
+          </did>
+          <odd id="aspace_972f8aa97794549d30b3d0c2d48a1214">
+            <head>General note</head>
+            <p>Summary: Accepts from Webster, Secretary of State, the appointment as U.S. Attorney for the District of Columbia. (Fendall was a Washington lawyer and U.S. Attorney for the District of Columbia).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref68_ilp" level="file">
+          <did>
+            <unittitle>Fendall, Phillip Ricard (1794-1868). Letter: Washington, to Henry Clay</unittitle>
+            <unitdate datechar="creation">03/15/1849</unitdate>
+            <container id="aspace_502c149df84384b45f6d98ee9ae3e51d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_284454341c7fefc7888b8f73f0efb342" parent="aspace_502c149df84384b45f6d98ee9ae3e51d" type="Folder">7</container>
+          </did>
+          <odd id="aspace_357101e5ac9b55b99e5ac5811d2603be">
+            <head>General note</head>
+            <p>Summary: Forwards the proceeds of a claim from Col. Morrison's estate on Columbian College (now George Washington University); hopes Clay is recovered from recent illness and accident.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref70_ox6" level="file">
+          <did>
+            <unittitle>Force, Peter (1790-1868). Letter: Washington, to P.R. Fendall, Baltimore</unittitle>
+            <unitdate datechar="creation">05/06/1824</unitdate>
+            <container id="aspace_9ee6beffc347155994bac5aace15be7b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8851799a9fab944811a9b4b92c8c7dcd" parent="aspace_9ee6beffc347155994bac5aace15be7b" type="Folder">8</container>
+          </did>
+          <odd id="aspace_a41064e4045fbcb37362b9a8c4fe0b78">
+            <head>General note</head>
+            <p>Summary: Has attended to requests Fendall made. (Force was an historian, a public printer and mayor of Washington).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref72_0r7" level="file">
+          <did>
+            <unittitle>Force, Peter (1790-1868). Letter: to P.R. Fendall, Alexandria</unittitle>
+            <unitdate datechar="creation">05/17/1829</unitdate>
+            <container id="aspace_47ed130aa67efc9894b1b4d4e40b1983" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5d09da4e3cc3b2fd78c706b02978043d" parent="aspace_47ed130aa67efc9894b1b4d4e40b1983" type="Folder">9</container>
+          </did>
+          <odd id="aspace_c283daaab544152eb8bf763b5841c4e3">
+            <head>General note</head>
+            <p>Summary: Mentions that a delegation from Baltimore will be arriving to see Fendall.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref74_ups" level="file">
+          <did>
+            <unittitle>Force, Peter (1790-1868). Letter: Washington, to Charles W. Goldsborough</unittitle>
+            <unitdate datechar="creation">01/13/1840</unitdate>
+            <container id="aspace_410c7c1f6b880caa5feb90f1a6a18a16" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2dcf1bc06cb5790faab10e9ea6b24a5a" parent="aspace_410c7c1f6b880caa5feb90f1a6a18a16" type="Folder">10</container>
+          </did>
+          <odd id="aspace_83569e3e79e5fcb320ba60e3db3fdac8">
+            <head>General note</head>
+            <p>Summary: Force, as mayor of Washington, sends to Goldsborough, as president of the Board of Aldermen, a list of the bills he has signed.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref76_9or" level="file">
+          <did>
+            <unittitle>Force, Peter (1790-1868). Letter: Washington, to Rev. Joseph B. Felt, Boston</unittitle>
+            <unitdate datechar="creation">02/07/1843</unitdate>
+            <container id="aspace_3c332c3840bd4db2cd2a5122e9bd8385" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b4a33bf47114389ee4216e9b045245a7" parent="aspace_3c332c3840bd4db2cd2a5122e9bd8385" type="Folder">11</container>
+          </did>
+          <odd id="aspace_dd4adff8369a3e94b462b0d7218814f1">
+            <head>General note</head>
+            <p>Summary: Requests Felt to have copies made of various historical documents for sending to Force.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref78_pr0" level="file">
+          <did>
+            <unittitle>Force, Peter (1790-1868). Letter: Washington, to Manning F. Force, Mass.</unittitle>
+            <unitdate datechar="creation">05/29/1847</unitdate>
+            <container id="aspace_6c36bfe3dab7fb84f3c5a56d6b53d18c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_15c7250ea6211b40e706bdceb7cecd76" parent="aspace_6c36bfe3dab7fb84f3c5a56d6b53d18c" type="Folder">12</container>
+          </did>
+          <odd id="aspace_602a5e56640f1dea5564f28ba36744d0">
+            <head>General note</head>
+            <p>Summary: Encloses a draft of money for his son at Harvard Law School; mentions an interruption in his publishing projects.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref80_t6z" level="file">
+          <did>
+            <unittitle>Forrest, Richard. Letter: Georgetown, to George Sibbald, Philadelphia</unittitle>
+            <unitdate datechar="creation">10/13/1795</unitdate>
+            <container id="aspace_792ca1173df9f847e15abcb834dba7ea" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e8c2d970ca553fd98bedbb699dd8dbee" parent="aspace_792ca1173df9f847e15abcb834dba7ea" type="Folder">13</container>
+          </did>
+          <odd id="aspace_b9d30c3b2abc882f7c4a95bd382a91b7">
+            <head>General note</head>
+            <p>Summary: Requests selling prices for wheat and other commodities; can fill Sibbald's sloop with them. He also comments on the health of mutual acquaintances.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref82_pw8" level="file">
+          <did>
+            <unittitle>Forrest, Uriah (1757-1805). Letter: Georgetown, to Robert Morris</unittitle>
+            <unitdate datechar="creation">05/17/1798</unitdate>
+            <container id="aspace_d13b27034e9b36bab2e210b45272fc78" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1afb7f48aef9c06c2b49453754eee9ff" parent="aspace_d13b27034e9b36bab2e210b45272fc78" type="Folder">14</container>
+          </did>
+          <odd id="aspace_153cf49a14fd6d44d19c6455f1e96409">
+            <head>General note</head>
+            <p>Summary: Is greatly disappointed that Morris has not yet sent some money. (Forrest was a jurist and a Congressman from Maryland, 1793-1794).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref84_xxw" level="file">
+          <did>
+            <unittitle>French, Benjamin B. (1800-1870). Letter: U.S., House of Representatives, to Dear Sir</unittitle>
+            <unitdate datechar="creation">05/09/1845</unitdate>
+            <container id="aspace_321f1c0e30b8137a7bdcd08c7f17342c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d0d50253113cc6e8e32c3786c50768f5" parent="aspace_321f1c0e30b8137a7bdcd08c7f17342c" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f48db8b6e7eb42bb8c925ab29d41510a">
+            <head>General note</head>
+            <p>Summary: Encloses a printed copy of his poem "The Changes of Earth", with holograph corrections. (French was an author and the U.S. Commissioner of Public Buildings).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref86_cfe" level="file">
+          <did>
+            <unittitle>Gales, Joseph (1786-1860). Letter: to Peter Force</unittitle>
+            <unitdate datechar="creation">03/13/1830</unitdate>
+            <container id="aspace_af3f97a23262296c0da98902848820a7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4888c3a0fc2c8b3632d829f6f70267ff" parent="aspace_af3f97a23262296c0da98902848820a7" type="Folder">16</container>
+          </did>
+          <odd id="aspace_3daa2205321319b4b990bcb8adeb5c6a">
+            <head>General note</head>
+            <p>Summary: Requests Force to give some copies of a report to Mr. Rush. (Gales was a journalist and mayor of Washington, 1827-1830).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref88_w1p" level="file">
+          <did>
+            <unittitle>Gales, Joseph (1786-1860). Letter: to Peter Force, Mayor's Office</unittitle>
+            <unitdate datechar="creation">01/01/1837</unitdate>
+            <container id="aspace_5d027fa1ad1bdd97824d2c7337d43dce" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2a4a932fead34510a668e1fafac75a88" parent="aspace_5d027fa1ad1bdd97824d2c7337d43dce" type="Folder">17</container>
+          </did>
+          <odd id="aspace_20c33f757301bdb3bb7fd7102336e671">
+            <head>General note</head>
+            <p>Summary: Asks for a meeting room for a convention of tobacco planters.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref90_qmv" level="file">
+          <did>
+            <unittitle>Gales Joseph (1786-1860). Letter: Washington, to B.D. Taylor</unittitle>
+            <unitdate datechar="creation">02/10/1840</unitdate>
+            <container id="aspace_3d6b140b9f0b4e4200c036a70d61029d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2d2ea3f07bdcf14ab86f6efd463bf0f8" parent="aspace_3d6b140b9f0b4e4200c036a70d61029d" type="Folder">18</container>
+          </did>
+          <odd id="aspace_abd70372260a00527cbfdca4c60f1d12">
+            <head>General note</head>
+            <p>Summary: Conveys regret to Taylor that he and his family are not be able to make a visit because of the state of the roads.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref92_uxg" level="file">
+          <did>
+            <unittitle>Gales, Joseph (1786-1860). Letter: to Thomas Ewing</unittitle>
+            <unitdate datechar="creation">04/13/1849</unitdate>
+            <container id="aspace_a0a46427769242a4103441e18d27f37f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_78f991cad3de82d96977c30c14120cf2" parent="aspace_a0a46427769242a4103441e18d27f37f" type="Folder">19</container>
+          </did>
+          <odd id="aspace_43817893dd7495b22a5777b263db8149">
+            <head>General note</head>
+            <p>Summary: Concerns contracts for public printing.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref94_fyn" level="file">
+          <did>
+            <unittitle>Gibbons, James (1834-1921). Letter: Baltimore, to A.P. Gorman</unittitle>
+            <unitdate datechar="creation">03/18/1892</unitdate>
+            <container id="aspace_9f7c8afca365418a574dd0edca467df6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_59e7eda9f7fa9d781031a987b767e2d1" parent="aspace_9f7c8afca365418a574dd0edca467df6" type="Folder">20</container>
+          </did>
+          <odd id="aspace_55a2dc55474ea4fe5712be2cea302f84">
+            <head>General note</head>
+            <p>Summary: Writes Senator Gorman of Maryland to ask him to use his influence to increase the appropriation 09. Joseph's Asylum in Washington. (Gibbons was the Roman Catholic Archbishop of Baltimore and the second American Cardinal).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref96_eof" level="file">
+          <did>
+            <unittitle>Gleyer, Jane. Letter: Washington City, to Maria Cox, Baltimore</unittitle>
+            <unitdate datechar="creation">12/10/1811</unitdate>
+            <container id="aspace_f6fcbd74d4d2685eca4ee6f4f438593a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eb78c4a6fd3da96cc9756bc48924abfb" parent="aspace_f6fcbd74d4d2685eca4ee6f4f438593a" type="Folder">21</container>
+          </did>
+          <odd id="aspace_a86d5b39e28409ec7bfcc51859d07819">
+            <head>General note</head>
+            <p>Summary: Regrets having to leave Baltimore for Washington; comments on large number of Congressmen living near her family. (Gleyer was a Washington resident).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref98_xig" level="file">
+          <did>
+            <unittitle>Goldsborough, Charles W. (1779-1843). Letter: Georgetown, to W. Hunter, Newport, RI</unittitle>
+            <unitdate datechar="creation">04/23/1814</unitdate>
+            <container id="aspace_b77062e15f60fc3d4eaa96ec233f5e81" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_720692bf4d6b0c5730698778199e7a62" parent="aspace_b77062e15f60fc3d4eaa96ec233f5e81" type="Folder">22</container>
+          </did>
+          <odd id="aspace_0e83242fb0bcffe2a1048525796e1c5f">
+            <head>General note</head>
+            <p>Summary: Makes application for the post of Secretary of the Senate of the U.S. to Hunter, senator from Rhode Island. (Goldsborough was a Washington politician and served as president of the Washington Board of Aldermen).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref100_ka6" level="file">
+          <did>
+            <unittitle>Green, Duff (1791-1875). Letter: Washington, to W.R. Smith</unittitle>
+            <unitdate datechar="creation">10/06/1834</unitdate>
+            <container id="aspace_fb279de2e78361f1c5653c930e1671a5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8dcb3e7896c9315cd22c0a77265677f0" parent="aspace_fb279de2e78361f1c5653c930e1671a5" type="Folder">23</container>
+          </did>
+          <odd id="aspace_64e67283490bd0bddd38c78bd3459841">
+            <head>General note</head>
+            <p>Summary: Asks the banker Smith to discount a note signed by his brother. (Green was a businessman, a printer and a publisher for U.S. Congress, 1827-1833).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref102_h8z" level="file">
+          <did>
+            <unittitle>Green, Duff (1791-1875). Letter: Dalton, GA, to H. Maynard</unittitle>
+            <unitdate datechar="creation">01/13/1874</unitdate>
+            <container id="aspace_fdb8e3ade32c68a8ad622a79e6eae7bd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7e17de3aca6942bc81eda4706b75ced3" parent="aspace_fdb8e3ade32c68a8ad622a79e6eae7bd" type="Folder">24</container>
+          </did>
+          <odd id="aspace_7d2bb01578029bdfc648376e483d6b4c">
+            <head>General note</head>
+            <p>Summary: Encloses a statement in reply to a newspaper article about his bill.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref104_8wt" level="file">
+          <did>
+            <unittitle>Greenleaf, James (1765-1843). Letter: City of Washington, to Robert Watkins, GA</unittitle>
+            <unitdate datechar="creation">01/02/1805</unitdate>
+            <container id="aspace_45a42228a7815d2642cfce5e6fe35763" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_12c050207dc3ebed704477798d82c02a" parent="aspace_45a42228a7815d2642cfce5e6fe35763" type="Folder">25</container>
+          </did>
+          <odd id="aspace_f709f97d37c0046ebd440bba8f22b14d">
+            <head>General note</head>
+            <p>Summary: Concerns a Georgia estate, the ownership of which is in doubt. Requests Watkins, a lawyer, to perform some legal work. (Greenleaf was a Washington land speculator).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref107_grg" level="file">
+          <did>
+            <unittitle>Greenough, Horatio (1805-1852). Letter: Florence, to George Washington, Greene, Rome</unittitle>
+            <unitdate datechar="creation">01/28/1839</unitdate>
+            <container id="aspace_ea66d8850bd88ed8a50bfea1c1164d7a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5032e7d57b00ad58efa6a33d8d2f01db" parent="aspace_ea66d8850bd88ed8a50bfea1c1164d7a" type="Folder">1</container>
+          </did>
+          <odd id="aspace_2f32d713ea5b8560c6d7abcf0d1a0cdb">
+            <head>General note</head>
+            <p>Summary: Briefly mentions Washington statue; mentions quarrel with female acquaintance. (Greenough was an American sculptor who studied art in Rome. His most famous statue is of George Washington).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref109_t7u" level="file">
+          <did>
+            <unittitle>Greenough, Horatio (1805-1852). Letter: Washington, DC, to William C. Preston, Columbia, SC</unittitle>
+            <unitdate datechar="creation">12/16/1842</unitdate>
+            <container id="aspace_f0d44e785d30432ba729b9166c04e6c8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f9372ddaaa38c4f858dc6f27cd69f5f6" parent="aspace_f0d44e785d30432ba729b9166c04e6c8" type="Folder">2</container>
+          </did>
+          <odd id="aspace_e1b01b51af6436d6f5d705fcf2737810">
+            <head>General note</head>
+            <p>Summary: Writes to former South Carolina Senator about proposed location of Washington statue.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref111_95y" level="file">
+          <did>
+            <unittitle>Hagner, Peter (1772-1850). Letter: Dept. of War, to Robert Brent, Washington</unittitle>
+            <unitdate datechar="creation">06/19/1815</unitdate>
+            <container id="aspace_15fd659fe427d7b94c24a84bf88b7f1d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1354cc963620dbb331ce58db6ee82449" parent="aspace_15fd659fe427d7b94c24a84bf88b7f1d" type="Folder">3</container>
+          </did>
+          <odd id="aspace_242439a19c144ea2423b42d5c3a5cb39">
+            <head>General note</head>
+            <p>Summary: Concerns payment of an account. (Hagner was an official in the War Department accounting office and the third auditor of the U.S. Treasury, 1817-1849).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref113_frl" level="file">
+          <did>
+            <unittitle>Hagner, Peter Valentine (1815-1893). Letter: New York, to Governor Morgan</unittitle>
+            <unitdate datechar="creation">09/09/1861</unitdate>
+            <container id="aspace_6d9f8a371333c50c76439b2502d5069a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8ddc2f5e443f52d358abc057d1b7caad" parent="aspace_6d9f8a371333c50c76439b2502d5069a" type="Folder">4</container>
+          </did>
+          <odd id="aspace_4cd8b0d5b1c2926c0898bb035c4921fa">
+            <head>General note</head>
+            <p>Summary: Relates that the Chief of Ordnance wants the use of New York state's ordnance. (Hagner was an ordnance officer in the U.S. Union Army).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref115_4ut" level="file">
+          <did>
+            <unittitle>Hagner, Peter Valentine (1815-1893). Letter: West Troy, NY, to the District Attorney, Saratoga County</unittitle>
+            <unitdate datechar="creation">09/05/1878</unitdate>
+            <container id="aspace_4c9c047e8d6b2201a9a79b28f2a3daeb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_514c06e0c5c241d2f9ecec51119553fb" parent="aspace_4c9c047e8d6b2201a9a79b28f2a3daeb" type="Folder">5</container>
+          </did>
+          <odd id="aspace_92ad767c3d45145e96f010c3acf54af6">
+            <head>General note</head>
+            <p>Summary: Mentions an inspection tour.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref117_o20" level="file">
+          <did>
+            <unittitle>Harry, Richard. Letter: Washington, to Miss Wells</unittitle>
+            <unitdate datechar="creation">02/16/1899</unitdate>
+            <container id="aspace_6c343ef5353cb97d2c519a928e687bfa" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3e51bc9b7aac138c1460c8c7e8ddc610" parent="aspace_6c343ef5353cb97d2c519a928e687bfa" type="Folder">6</container>
+          </did>
+          <odd id="aspace_1064ebfd6c8c6a8299b941b6a3724735">
+            <head>General note</head>
+            <p>Summary: Is glad she likes his writings; soon returns to New York.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref119_6ar" level="file">
+          <did>
+            <unittitle>Henry, Joseph (1797-1878). Letter: Smithsonian Institution, to unidentified recipient</unittitle>
+            <unitdate datechar="creation">04/27/1857</unitdate>
+            <container id="aspace_3bd4abfd8986cc2a984f6470d0f2d322" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_80ea5465d39ccb14096a5d5455620db2" parent="aspace_3bd4abfd8986cc2a984f6470d0f2d322" type="Folder">7</container>
+          </did>
+          <odd id="aspace_8016825d3d34bbb5ffee06b82e0f4853">
+            <head>General note</head>
+            <p>Summary: Sends his autograph. (Henry was a scientific researcher on electricity and the first secretary and director of the Smithsonian institution in Washington, D.C.).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref121_baz" level="file">
+          <did>
+            <unittitle>Huntt, Henry (1792-1838). Document: Washington, DC, to Juan Guillaume Hyde de Neuville, 01/1819.</unittitle>
+            <unitdate datechar="creation">01/1819</unitdate>
+            <container id="aspace_72b12271d94332d277d7827fa4cf0ef8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e366230fa6b63a8a8895b5872dc44869" parent="aspace_72b12271d94332d277d7827fa4cf0ef8" type="Folder">8</container>
+          </did>
+          <odd id="aspace_8ef0bb1333f7a8a6254eec87473305ec">
+            <head>General note</head>
+            <p>Summary: Printed document from Henry Huntt, George Bomford and Thomas Henderson, the Corresponding Committee of the Columbian Institute, requests submissions on subjects such as agriculture. (Huntt was a Washington, D.C. doctor).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref123_uzf" level="file">
+          <did>
+            <unittitle>Jeffers, Madison. Letter: to Judges of the Circuit Court of the District of Columbia</unittitle>
+            <unitdate datechar="creation">05/31/1836</unitdate>
+            <container id="aspace_46bdf18972f02f6d20affe1e1ffaa8f7" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_eb20885bccb1aa1190867d7c1bfaa08a" parent="aspace_46bdf18972f02f6d20affe1e1ffaa8f7" type="Folder">9</container>
+          </did>
+          <odd id="aspace_fc78b43c6f11288dbb571a8ecd2e3773">
+            <head>General note</head>
+            <p>Summary: Defends self from accusations of improper behavior in removing a suspected runaway slave from the home of the Secretary to the British legation to the United States in Washington, D.C. (Jeffers was a constable removed from his post because of the incident described above).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref125_mpk" level="file">
+          <did>
+            <unittitle>Joyce, John Alexander. (1842-1915). Love and Laughter: holograph, Louisville KY, 01/1863</unittitle>
+            <unitdate datechar="creation">01/1863</unitdate>
+            <container id="aspace_9e58ae293900fa04b28baab31f6cce3c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8af53b00d84cd5280d584a94d0c7bda3" parent="aspace_9e58ae293900fa04b28baab31f6cce3c" type="Folder">10</container>
+          </did>
+          <odd id="aspace_9f998a0b7da4ede6e0e8b2fc244fd90f">
+            <head>General note</head>
+            <p>Summary: (Joyce was an American lawyer and author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref127_54r" level="file">
+          <did>
+            <unittitle>King, Horatio (1811-1897). Letter: Washington, to Lewis J. Cist, 09. Louis, MO</unittitle>
+            <unitdate datechar="creation">01/19/1869</unitdate>
+            <container id="aspace_199e8da8214f3e15d7b3c42322017a18" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_73c5d028062edc5b5ce6644614dcc622" parent="aspace_199e8da8214f3e15d7b3c42322017a18" type="Folder">11</container>
+          </did>
+          <odd id="aspace_71934fa8fd96947bc3e259f754ac266b">
+            <head>General note</head>
+            <p>Summary: Offers for sale to Cist, an autograph collector, a letter, dated 10 Dec. 1799, written by George Washington to James Anderson, concerning management of his farms. (King was an American editor, lawyer and U.S. postmaster).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref129_v1o" level="file">
+          <did>
+            <unittitle>Lancaster, Joseph (1778-1838). Letter: Borough Road, to David Hall</unittitle>
+            <unitdate datechar="creation">09/15/1811</unitdate>
+            <container id="aspace_6497faa421981b849b2831867186092b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_7ad8e0145f27568c45ab05f6433e28db" parent="aspace_6497faa421981b849b2831867186092b" type="Folder">12</container>
+          </did>
+          <odd id="aspace_2e2476babd1fa3e5741f5d54e0a14141">
+            <head>General note</head>
+            <p>Summary: Mentions the poor condition of his aged father; expresses confidence in his ability to inspire his students. (Lancaster was an English educator, who established some schools in the U.S.).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref131_jrp" level="file">
+          <did>
+            <unittitle>Lancaster, Joseph (1778-1838). Letter: Washington, to Elizabeth Lancaster, Philadelphia, 1818.</unittitle>
+            <unitdate datechar="creation">1818</unitdate>
+            <container id="aspace_adb90b9eb8c55b0e400198a236ac83b8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_1fe1bc8e0b05054ed43978eff86d730d" parent="aspace_adb90b9eb8c55b0e400198a236ac83b8" type="Folder">13</container>
+          </did>
+          <odd id="aspace_80d83281e510a55255606908f066a645">
+            <head>General note</head>
+            <p>Summary: Describes his lectures in Baltimore and his intention to lecture in Congress in Washington, D.C.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref133_5bi" level="file">
+          <did>
+            <unittitle>Lancaster, Joseph (1778-1838). Letter: Washington, to William Darlington</unittitle>
+            <unitdate datechar="creation">02/26/1821</unitdate>
+            <container id="aspace_8c2ea85ad2256b92a5806e2d2b9ed759" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fbe9f71081ef2bf8332d409c9558fadd" parent="aspace_8c2ea85ad2256b92a5806e2d2b9ed759" type="Folder">14</container>
+          </did>
+          <odd id="aspace_b460f0dfc42d3029ee633c538e0daa1b">
+            <head>General note</head>
+            <p>Summary: Sends copies of his books.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref135_4v5" level="file">
+          <did>
+            <unittitle>Latrobe, Benjamin Henry (1764-1820). Letter: Baltimore, to Langdon Cheves, Philadelphia</unittitle>
+            <unitdate datechar="creation">01/12/1820</unitdate>
+            <container id="aspace_a7f373605dfd2f085e83af1ccf7e4952" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_82d0f78456ccb8bc0c70bc0888faf89c" parent="aspace_a7f373605dfd2f085e83af1ccf7e4952" type="Folder">15</container>
+          </did>
+          <odd id="aspace_8b5200616edd3879f4f830609d3947c4">
+            <head>General note</head>
+            <p>Summary: Encloses for Cheves, president of the Bank of the United States, a bill from the British consul for some cement, of a type in use in England, for possible use on new Bank of the United States. (Latrobe was an American engineer and architect and designer of the restored U.S. Capitol after the War of 1812).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref137_lka" level="file">
+          <did>
+            <unittitle>Lee, Richard Bland (1761-1827). Letter: Washington, to the President and Directors of the Branch Bank of the US at Washington</unittitle>
+            <unitdate datechar="creation">12/01/1818</unitdate>
+            <container id="aspace_fd10fcecd018ba1dd2235914fe79c9bb" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b8dee7dae37b3a0c84c53a867329266c" parent="aspace_fd10fcecd018ba1dd2235914fe79c9bb" type="Folder">16</container>
+          </did>
+          <odd id="aspace_7c44f9f86dc4f1facf4e2ccc1a3b1cea">
+            <head>General note</head>
+            <p>Summary: Lists notes of his held by the bank; requests that the names of endorsers be changed. (Lee was an American statesman and served as Congressman from Virginia, 1789-1795 and 1825-1827).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref139_pge" level="file">
+          <did>
+            <unittitle>Mackall, Louis (1867-1930). Letter: Georgetown, DC., to Hon. Judge J. Vinson</unittitle>
+            <unitdate datechar="creation">01/15/1895</unitdate>
+            <container id="aspace_28306e56175c8d4ce090c420e5665853" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4dff392807e94056543cf81052a56989" parent="aspace_28306e56175c8d4ce090c420e5665853" type="Folder">17</container>
+          </did>
+          <odd id="aspace_58cbb65bee77532e06e78804f470fd75">
+            <head>General note</head>
+            <p>Summary: Writes that they must assert property rights to the use of a road to their property. (Mackall was a Washington physician).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref141_c7q" level="file">
+          <did>
+            <unittitle>Mason, John (fl., 1840-1850). Letter: Washington, to Gen. H. Dearborn, Boston</unittitle>
+            <unitdate datechar="creation">07/28/1843</unitdate>
+            <container id="aspace_63e60889da6c269082a73155f63cd54e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_810cf9fb6b60fa3ccc1ece2b145aa56c" parent="aspace_63e60889da6c269082a73155f63cd54e" type="Folder">18</container>
+          </did>
+          <odd id="aspace_bbcd7c22c4ba18d9a8742ff725407802">
+            <head>General note</head>
+            <p>Summary: Inquires about rumors that Boston builders plan to construct houses in Washington at a cheaper rate than the Washington builders; offers help to them as he approves this project; mentions his parents' continuing good health. (John Mason was possibly the son of John Mason (1766-1843).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref143_31d" level="file">
+          <did>
+            <unittitle>Mayo, Robert (1784-1864). Letter: Washington City, to Dr. Huntt, Board of Health</unittitle>
+            <unitdate datechar="creation">08/22/1832</unitdate>
+            <container id="aspace_de563a781215f4482bfc316d79327304" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d2bc4683cdf882937d2c4a6110b2555d" parent="aspace_de563a781215f4482bfc316d79327304" type="Folder">19</container>
+          </did>
+          <odd id="aspace_201ab3bab7c889c08717ca7e7dea3b5e">
+            <head>General note</head>
+            <p>Summary: Mayo encloses a resolution from citizens of Washington, protesting Washington Board of Health's action in excluding almost all vegetable production of the season from the Washington markets, in response to the cholera epidemic. (Mayo was an American physician and author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref145_9d6" level="file">
+          <did>
+            <unittitle>McKean, W.S. Letter: Washington, to the Theatrical Managers of America</unittitle>
+            <unitdate datechar="creation">03/07/1903</unitdate>
+            <container id="aspace_a6bb94e9eeef18db1d3604d95eb1ef70" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d83e7a237f64ce3e45307a091717116d" parent="aspace_a6bb94e9eeef18db1d3604d95eb1ef70" type="Folder">20</container>
+          </did>
+          <odd id="aspace_d96998d2f7cbe415222fc1aab1d1a311">
+            <head>General note</head>
+            <p>Summary: Asks theater managers to donate one percent of gross receipts for April 13, 1903 to the Memorial fund; p. 2 is facsimile of letter from actor Joseph Jefferson. (McKean was the Secretary of the Thomas Jefferson Memorial Association of the United States).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref147_tbx" level="file">
+          <did>
+            <unittitle>McLane, Allan (1746-1829). Letter: High 09. Coffey House, to James Mead, Philadelphia</unittitle>
+            <unitdate datechar="creation">12/03/1814</unitdate>
+            <container id="aspace_ac833d581a5a6d607e4afd74b694a9f9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_83921f2a4d766a645ad8ea010d13efaf" parent="aspace_ac833d581a5a6d607e4afd74b694a9f9" type="Folder">21</container>
+          </did>
+          <odd id="aspace_35e861d915e1c9b442e1ecc6f42f9324">
+            <head>General note</head>
+            <p>Summary: States his opinion that after the Battle of Bladensburg (Aug. 24, 1814), the British forces very nearly captured the U.S. President. (McLane was an American Revolutionary War soldier and Delaware official. He was also a soldier in the War of 1812).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref149_3xi" level="file">
+          <did>
+            <unittitle>McLean, John (1785-1861). Signature, not after 04/04/1861</unittitle>
+            <unitdate datechar="creation">1861 ca.</unitdate>
+            <container id="aspace_751305ee7ff2f5d8c99086954d8c067b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_984d7ffcd1627975023be249411036a0" parent="aspace_751305ee7ff2f5d8c99086954d8c067b" type="Folder">22</container>
+          </did>
+          <odd id="aspace_e6dbb4ab2e6e2a3c615cb04bcac9ecc3">
+            <head>General note</head>
+            <p>Summary: (McLean was a U.S. Supreme Court Justice).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref151_u6k" level="file">
+          <did>
+            <unittitle>Mills, Robert (1781-1855). Letter: Philadelphia, to Thomas Jefferson, Monticello</unittitle>
+            <unitdate datechar="creation">01/28/1814</unitdate>
+            <container id="aspace_1c6ce83be95d4257062622cc2110ae8b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_eb6cdfc57baf643b782e438837ece3d1" parent="aspace_1c6ce83be95d4257062622cc2110ae8b" type="Folder">23</container>
+          </did>
+          <odd id="aspace_1b3a981cf4bf5f62779775e797e7de17">
+            <head>General note</head>
+            <p>Summary: Requests that Jefferson write him a letter of recommendation to President Madison so that he may become Surveyor of Public Buildings. (Mills was an engineer and architect of the Washington Monument in Washington, D.C.).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref154_d3i" level="file">
+          <did>
+            <unittitle>Mills, Robert (1781-1855). Letter: to George Bancroft</unittitle>
+            <unitdate datechar="creation">09/16/1845</unitdate>
+            <container id="aspace_5a3ff066fb2deb16bd5a6d938d866bc2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_21d5be3a4133fa44cebb6278d8d58308" parent="aspace_5a3ff066fb2deb16bd5a6d938d866bc2" type="Folder">1</container>
+          </did>
+          <odd id="aspace_959a6a1d1fc7d8bc12b03f6edf27f28d">
+            <head>General note</head>
+            <p>Summary: Writes to Bancroft, then Secretary of the Navy. Encloses sketches of facades for the War and Navy Department buildings. Describes area that will contain the Navy Department.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref156_0o3" level="file">
+          <did>
+            <unittitle>Mills, Robert (1781-1855). Letter: to Jefferson Davis, Washington, 08/1854</unittitle>
+            <unitdate datechar="creation">08/1854</unitdate>
+            <container id="aspace_0cce005102bc8044fd2b292e82a1e45a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ffad699cfd093df43f9c35546321d577" parent="aspace_0cce005102bc8044fd2b292e82a1e45a" type="Folder">2</container>
+          </did>
+          <odd id="aspace_37ad091280b67da59a74fdc171cff781">
+            <head>General note</head>
+            <p>Summary: Writes to Davis, U.S. Secretary of War, about plans for buildings for the executive branch to be built in Washington, D.C., including spaces for the Treasury Department, State Department, Navy Department, Interior Department, and others.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref158_k20" level="file">
+          <did>
+            <unittitle>Mulledy, Thomas F. Letter: Georgetown College, to Hon. T. Burges, Washington</unittitle>
+            <unitdate datechar="creation">05/28/1830</unitdate>
+            <container id="aspace_5df94e27a2d91223fd9835116862bc90" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0fdfc05763640af9173f5207c40b1759" parent="aspace_5df94e27a2d91223fd9835116862bc90" type="Folder">3</container>
+          </did>
+          <odd id="aspace_5df343efa01fd2f10e80ee6e13ebc4fe">
+            <head>General note</head>
+            <p>Summary: Encloses statement of Burges's son's account. (Mulledy was the president of Georgetown College (now University), 1829-1837.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref160_muu" level="file">
+          <did>
+            <unittitle>Norton, Charles A. Long Bridge: holograph</unittitle>
+            <unitdate datechar="creation">1865 ca.</unitdate>
+            <container id="aspace_5c5d6cc510221260f6c37ba98309a263" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_fa1ff0310257361765b5936484241a0f" parent="aspace_5c5d6cc510221260f6c37ba98309a263" type="Folder">4</container>
+          </did>
+          <odd id="aspace_324c011c3b662ddcbd108997387d03e0">
+            <head>General note</head>
+            <p>Summary: Poem memorializing Union soldiers killed in the Civil War. (Norton was a Union army soldier).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref162_hxy" level="file">
+          <did>
+            <unittitle>Ould, Robert (1820-1882). Letter: Georgetown, DC, to the Secretary of the Navy, Washington</unittitle>
+            <unitdate datechar="creation">06/25/1855</unitdate>
+            <container id="aspace_86afe0aea49ea75f9fbc0d018a896cee" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a52f42d59e9a8f888535e22afb72cd1e" parent="aspace_86afe0aea49ea75f9fbc0d018a896cee" type="Folder">5</container>
+          </did>
+          <odd id="aspace_b0403c5ff111f029eb7ffc164843a9c5">
+            <head>General note</head>
+            <p>Summary: Writes recommending someone for position of watchman. (Ould was a Washington lawyer and was later Assistant Secretary of War in the Confederacy).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref164_5jj" level="file">
+          <did>
+            <unittitle>Page, Thomas Nelson (1853-1922). Letter: Hartford, Conn., to M.E. Waring, Chautauqua, N.Y.</unittitle>
+            <unitdate datechar="creation">07/28/1892</unitdate>
+            <container id="aspace_6ac272466cfb9f6c1b7c653bbd5d0179" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_576791c1912d48b680305d37c47fa41e" parent="aspace_6ac272466cfb9f6c1b7c653bbd5d0179" type="Folder">6</container>
+          </did>
+          <odd id="aspace_eda2d3776b40f4d1d8a0edae728403a7">
+            <head>General note</head>
+            <p>Summary: Aurees to a speaking engagement. (Page was an American author and an ambassador to Italy, 1913-1919).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref166_m64" level="file">
+          <did>
+            <unittitle>Page, Thomas Nelson (1853-1922). Letter: London, to William Carey, N.Y.</unittitle>
+            <unitdate datechar="creation">07/10/1894</unitdate>
+            <container id="aspace_e0400ec4ca3bebe29a71deafc99e2b67" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_988a0840510bf7d8d3d6a6dbe743f18b" parent="aspace_e0400ec4ca3bebe29a71deafc99e2b67" type="Folder">7</container>
+          </did>
+          <odd id="aspace_6bb43a7807a4c3133ca454740bccc1b6">
+            <head>General note</head>
+            <p>Summary: Sends a revised article about his work Marse Chan; is greatly enjoying his tour of England.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref168_be4" level="file">
+          <did>
+            <unittitle>Page, Thomas Nelson (1853-1922). Letter: 1759 R 09. Washington, DC, to Robert Howard Russell, New York</unittitle>
+            <unitdate datechar="creation">03/28/1898</unitdate>
+            <container id="aspace_5467cf094f623a2eec28059b0439ce8a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_678eb3bc943eec0c8c4a8849517988b5" parent="aspace_5467cf094f623a2eec28059b0439ce8a" type="Folder">8</container>
+          </did>
+          <odd id="aspace_f12f94bc6556282385dde2dafec761ce">
+            <head>General note</head>
+            <p>Summary: Suggests using a manuscript journal he has seen as a basis for a book by Russell.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref170_shx" level="file">
+          <did>
+            <unittitle>Page, Thomas Nelson (1853-1922). Letter: York Harbor, ME, to Robert H. Russell, NY</unittitle>
+            <unitdate datechar="creation">08/21/1903</unitdate>
+            <container id="aspace_14c9a367247ffe3ef6c2f300d698e8a9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_59f9ffc59c127b6765e36aad2aa7a92f" parent="aspace_14c9a367247ffe3ef6c2f300d698e8a9" type="Folder">9</container>
+          </did>
+          <odd id="aspace_f94aeee767b88859c762350d160dd517">
+            <head>General note</head>
+            <p>Summary: Offers to the North American Review his article on lynching of Negros.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref172_i5c" level="file">
+          <did>
+            <unittitle>Page, Thomas Nelson (1853-1922). Letter: 1759 R 09., to Frank W. Hoyt, Montclair, NJ</unittitle>
+            <unitdate datechar="creation">12/04/1906</unitdate>
+            <container id="aspace_9b253187538cdd925a096f3b9fccaba0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c6323945d0af9562c615db561218d7b2" parent="aspace_9b253187538cdd925a096f3b9fccaba0" type="Folder">10</container>
+          </did>
+          <odd id="aspace_b375d9ec627e2a6294263037ec4ecdbf">
+            <head>General note</head>
+            <p>Summary: Thanks Hoyt for a sympathetic review for his book of poems, probably The Coast of Bohemia. Defends the use of some of his rhymes.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref174_xon" level="file">
+          <did>
+            <unittitle>Payne, John Howard (1791-1852). Letter: Washington, to Elizabeth Payne</unittitle>
+            <unitdate datechar="creation">08/19/1850</unitdate>
+            <container id="aspace_0a35605e490555617cb2a438dcca24c1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e9cb8531f0bd6ed5e672aba75879fabb" parent="aspace_0a35605e490555617cb2a438dcca24c1" type="Folder">11</container>
+          </did>
+          <odd id="aspace_7d3f83ef877dd2c5b21227fcf057facf">
+            <head>General note</head>
+            <p>Summary: Mentions recent violent arguments in the Senate, efforts to see governor Marcy, and visits with his friend Jonathan Meredith. (Payne was an American actor and playwright).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref176_evq" level="file">
+          <did>
+            <unittitle>Ream, Vinnie (1847-1914). Letter: to unidentified recipient, 18--.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_26107d55986471e99230986bd50ea385" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_274c29e6b03aa8c1ab254acca9b42fe1" parent="aspace_26107d55986471e99230986bd50ea385" type="Folder">12</container>
+          </did>
+          <odd id="aspace_db87fbb9d562d02c0444727f71d7ec14">
+            <head>General note</head>
+            <p>Summary: Returns some items to the recipient. (Ream was an American sculptor and composer).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref178_g0k" level="file">
+          <did>
+            <unittitle>Riggs, George Washington (1813-1881). Letter: Washington, DC, to W. Stone, Jr.</unittitle>
+            <unitdate datechar="creation">03/18/1861</unitdate>
+            <container id="aspace_51fb4e81da18a100f2d3300c5c93d178" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f9eec1bce7538a6870a7ba5d70d7e0bf" parent="aspace_51fb4e81da18a100f2d3300c5c93d178" type="Folder">13</container>
+          </did>
+          <odd id="aspace_33b761c367766b976ae93c2f84ef4ba4">
+            <head>General note</head>
+            <p>Summary: Encloses a note to which he has earlier referred. (Riggs was a Washington banker and one of the founders of Corcoran and Riggs banking firm).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref180_gt2" level="file">
+          <did>
+            <unittitle>Riggs, George Washington (1813-1881). Letter: Washington, DC, to Joel Munsell, Albany</unittitle>
+            <unitdate datechar="creation">10/28/1869</unitdate>
+            <container id="aspace_0a438ad30f6bd714a4f003ba169c9f1a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_89697f276a99505a026fc85b38b56665" parent="aspace_0a438ad30f6bd714a4f003ba169c9f1a" type="Folder">14</container>
+          </did>
+          <odd id="aspace_accd0180d133b61e4f5b6c9edddeb571">
+            <head>General note</head>
+            <p>Summary: Asks to be sent a copy of a Spanish work translated by Buckingham Smith.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref182_34p" level="file">
+          <did>
+            <unittitle>Roberdeau, Isaac (1763-1829). Letter: Washington, to Thomas Aspinwall</unittitle>
+            <unitdate datechar="creation">08/20/1823</unitdate>
+            <container id="aspace_0b139292c474733268907aecd3469177" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_85d7303e7f1540966e512a2c3a6153a8" parent="aspace_0b139292c474733268907aecd3469177" type="Folder">15</container>
+          </did>
+          <odd id="aspace_4e259f64f2bb15b83b541a3e7ecbaa40">
+            <head>General note</head>
+            <p>Summary: Sends a letter to Mr. Perkins, who has made improvements in the use of steam power. (Roberdeau was a civil and military engineer and was chief of the Topographical Bureau in Washington).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref184_zct" level="file">
+          <did>
+            <unittitle>Rogé, Charlotte Fiske Bates, (1838-1916). Letter: Washington, DC, to Mrs. Edward Russell Jones</unittitle>
+            <unitdate datechar="creation">03/18/1902</unitdate>
+            <container id="aspace_4fabf3491e58290c8b2b31f0fe98d39a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_371f62753cfd6466faf21fb804b0af4b" parent="aspace_4fabf3491e58290c8b2b31f0fe98d39a" type="Folder">16</container>
+          </did>
+          <odd id="aspace_f6c71d9aee9237d1cec990a23a6618be">
+            <head>General note</head>
+            <p>Summary: Encloses her autograph and some others. (Rogé was an American author and compiler).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref186_yuc" level="file">
+          <did>
+            <unittitle>Royall, Anne Newport (1769-1854). Letter: Washington, to Messrs. Green &amp; Jarvis</unittitle>
+            <unitdate datechar="creation">06/07/1828</unitdate>
+            <container id="aspace_0172d7cfd8bf3107f8df2076d27a42d7" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_808f0006cfba4a0d8d60f6a828794834" parent="aspace_0172d7cfd8bf3107f8df2076d27a42d7" type="Folder">17</container>
+          </did>
+          <odd id="aspace_429074bb35be5a798bcbbb1bd459e370">
+            <head>General note</head>
+            <p>Summary: Thanks Green and Jarvis for advertising her book in their newspaper the United States Telegraph; deplores federal government corruption. (Royall was an American author and publisher).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref188_9zz" level="file">
+          <did>
+            <unittitle>Seaton, William Winston (1785-1866). Letter: to an unidentified recipient</unittitle>
+            <unitdate datechar="creation">1849 February 26</unitdate>
+            <container id="aspace_1339181c00d3addf96a825143362b28d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_dee9262fb27ccb85ff0408db6f5d4a46" parent="aspace_1339181c00d3addf96a825143362b28d" type="Folder">18</container>
+          </did>
+          <odd id="aspace_215b1d89db29bba0d241afff182a9d75">
+            <head>General note</head>
+            <p>Summary: Will send a carriage to take his friend to the U.S. Senate. (Seaton was a journalist, editor and mayor of Washington, D.C., 1840-1850).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref190_jih" level="file">
+          <did>
+            <unittitle>Seaton, William Winston (1785-1866). Letter: to "05 good friend", not after 1866</unittitle>
+            <unitdate datechar="creation">1865 ca.</unitdate>
+            <container id="aspace_f040bf05a5b130aea76f062b0bbb7a61" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6842a3540f57ebf5f3753beef9f13ace" parent="aspace_f040bf05a5b130aea76f062b0bbb7a61" type="Folder">19</container>
+          </did>
+          <odd id="aspace_43a15024d23000028e01b0118b3af6bf">
+            <head>General note</head>
+            <p>Summary: Letter of introduction for an acquaintance.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref192_tfa" level="file">
+          <did>
+            <unittitle>Seawell, Molly Elliot (1860-1916). Letter: Washington, DC, to "Dear Sir"</unittitle>
+            <unitdate datechar="creation">05/03/1907</unitdate>
+            <container id="aspace_82046e45ee6e1ed40a45826319dc5419" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0a0aecd4e77e3fee6dcb2b824a3c1019" parent="aspace_82046e45ee6e1ed40a45826319dc5419" type="Folder">20</container>
+          </did>
+          <odd id="aspace_c3b11d85a54f1d1bb0d699cfd91a4ec8">
+            <head>General note</head>
+            <p>Summary: Mentions her recent short fiction. (Seawell was an American author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref194_nmr" level="file">
+          <did>
+            <unittitle>Singleton, Otho Robards (1814-1889). Letter: Washington, DC, to Mrs. Linn Boyd</unittitle>
+            <unitdate datechar="creation">12/15/1875</unitdate>
+            <container id="aspace_53d7d72daf1f8c89bd9fe53044eeadbd" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9f7e0b7bfa4b77723f32632bab2fe826" parent="aspace_53d7d72daf1f8c89bd9fe53044eeadbd" type="Folder">21</container>
+          </did>
+          <odd id="aspace_14131b57625c1148a7d00bab1446c532">
+            <head>General note</head>
+            <p>Summary: Describes the current state of social life in Washington and political events in Congress. (Singleton was a U.S. Congressman from Mississippi, 1853-1855, 1857-1861, 1875-1887).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref196_ghm" level="file">
+          <did>
+            <unittitle>Southworth, Emma Dorothy Eliza Nevitte (1819-1899). Letter: Prospect Cottage</unittitle>
+            <unitdate datechar="creation">01/08/1854</unitdate>
+            <container id="aspace_24a4761438f6ccb8d405a431d6e8e8db" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_80e483e468d5c6939246cf0dec8c6b1f" parent="aspace_24a4761438f6ccb8d405a431d6e8e8db" type="Folder">22</container>
+          </did>
+          <odd id="aspace_9589b21377ca3494fca05b25c40bc320">
+            <head>General note</head>
+            <p>Summary: Mentions her own sickness and that of Miss Gordon. (Southworth was an American author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref198_kwj" level="file">
+          <did>
+            <unittitle>Southworth, Emma Dorothy Eliza Nevitte (1819-1899). Letter: Yonkers, NY, to A.M. Irving</unittitle>
+            <unitdate datechar="creation">07/02/1878</unitdate>
+            <container id="aspace_affcece5250b660c007275040ba5f45f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f68cf31df8dce021f2d5d29e689e3dc4" parent="aspace_affcece5250b660c007275040ba5f45f" type="Folder">23</container>
+          </did>
+          <odd id="aspace_3646b5f97ff8a125a62c5f3ba7451115">
+            <head>General note</head>
+            <p>Summary: Sends Irving an autograph.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref200_ivi" level="file">
+          <did>
+            <unittitle>Southworth, Emma Dorothy Eliza Nevitte (1819-1899). Letter: Yonkers, NY, to Harry Watkins</unittitle>
+            <unitdate datechar="creation">03/21/1889</unitdate>
+            <container id="aspace_36d9ba60ca0492480604dfead33d768a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e089f8b9a4bc43f344208f1105c66642" parent="aspace_36d9ba60ca0492480604dfead33d768a" type="Folder">24</container>
+          </did>
+          <odd id="aspace_4ae9bc4c4ba3f91a0ba4faca96f7d999">
+            <head>General note</head>
+            <p>Summary: Praises his book His Worst Enemy. Mentions death of her nephew in a railroad accident and death of her sister Edith.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref202_rcy" level="file">
+          <did>
+            <unittitle>Spofford, Harriet Elizabeth Prescott (1835-1921). Letter: to Mrs. E.R. Jones</unittitle>
+            <unitdate datechar="creation">02/07/1902</unitdate>
+            <container id="aspace_a76ae56d5d86938c6fc12090cc773ef6" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_98c50e347dfb1c86ead1426b7377ba98" parent="aspace_a76ae56d5d86938c6fc12090cc773ef6" type="Folder">25</container>
+          </did>
+          <odd id="aspace_815f022850e9e1ed366cd19e983fb4c4">
+            <head>General note</head>
+            <p>Summary: Sends autograph. (Spofford was an American author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref205_o1f" level="file">
+          <did>
+            <unittitle>Staughton, William (1770-1829). Letter: Georgetown SC, to Dr. Rogers, Philadelphia</unittitle>
+            <unitdate datechar="creation">04/25/1795</unitdate>
+            <container id="aspace_738b1d765cb41f6ffbcf95f375046c01" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e199d013c34c7453e9d0dc9b8f50ff3d" parent="aspace_738b1d765cb41f6ffbcf95f375046c01" type="Folder">1</container>
+          </did>
+          <odd id="aspace_d1543479280cbecc912d2bfbef7153e1">
+            <head>General note</head>
+            <p>Summary: Dislikes Georgetown because of slavery and lack of success in religious endeavors; expects to leave in June. (Staughton was a Baptist clergyman and the first president of Columbian College (now George Washington University), 1822-1829).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref207_9qo" level="file">
+          <did>
+            <unittitle>Stelle, Pontius Delare (b. 1763). Letter: City of Washington, to Jonathan Rhea, Trenton NJ</unittitle>
+            <unitdate datechar="creation">10/18/1813</unitdate>
+            <container id="aspace_f52d9ec582a7e89d9c83971d28c44578" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7795b281e0f23d977c557f9eedb62077" parent="aspace_f52d9ec582a7e89d9c83971d28c44578" type="Folder">2</container>
+          </did>
+          <odd id="aspace_eee95a5c69d6521d49b709f636ef3695">
+            <head>General note</head>
+            <p>Summary: Asks Rhea to help him raise money by the first of the next month. Stelle was a Washington hotel keeper and the brother of Rachel De Cow).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref209_wy7" level="file">
+          <did>
+            <unittitle>Stelle, Pontius Delare (b. 1763). Letter: City of Washington, to Jonathan Rhea, Trenton, NJ</unittitle>
+            <unitdate datechar="creation">07/22/1814</unitdate>
+            <container id="aspace_9c9e4800bd963299098b190af5a744cf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8ab9280bc113e8ea592e7d59e026f4a3" parent="aspace_9c9e4800bd963299098b190af5a744cf" type="Folder">3</container>
+          </did>
+          <odd id="aspace_b837d5e3f0d2de7a809ec2dc1aed9707">
+            <head>General note</head>
+            <p>Summary: Describes his family's dire financial situation; mentions the approaching British army and preparations in Washington for the city's defense.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref211_bg4" level="file">
+          <did>
+            <unittitle>Stoddert, Benjamin (1751-1813). Letter: Georgetown, to Messrs. Samuel &amp; J. Smith, Baltimore</unittitle>
+            <unitdate datechar="creation">03/08/1786</unitdate>
+            <container id="aspace_5fcf2f600253d2e52bdaf71cb0fc8431" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_37858d21fa12f0fc89f94cab1cc7dfa1" parent="aspace_5fcf2f600253d2e52bdaf71cb0fc8431" type="Folder">4</container>
+          </did>
+          <odd id="aspace_11c37584660cb2243485836a69a6e29f">
+            <head>General note</head>
+            <p>Summary: Concerns payment drawn on their establishment. (Stoddert was the first Secretary of the Navy, 1798-1801).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref213_yq6" level="file">
+          <did>
+            <unittitle>Stoddert, Benjamin (1751-1813). Letter: Georgetown, to John Templeman, Philadelphia</unittitle>
+            <unitdate datechar="creation">10/31/1792</unitdate>
+            <container id="aspace_2304341d4007aca9b93ad387bffa1cc4" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5dd1aafa6fc7cb08f368a2609892f07c" parent="aspace_2304341d4007aca9b93ad387bffa1cc4" type="Folder">5</container>
+          </did>
+          <odd id="aspace_622d705e0ae3d1de24869375a47a6f61">
+            <head>General note</head>
+            <p>Summary: Describes a contract he has signed to buy a house in Georgetown,Washington, D.C. The letter indicates at time of sending he had enclosed a copy of the contract. That enclosure is not with this letter.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref215_8iu" level="file">
+          <did>
+            <unittitle>Sykes, George (1802-1880). Letter: Washington, to "Dear Friend"</unittitle>
+            <unitdate datechar="creation">02/17/1846</unitdate>
+            <container id="aspace_d2ce1580a6f7e23afa894964eb693d71" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e7ab87ef43b908fcff4c37c31a8a6b86" parent="aspace_d2ce1580a6f7e23afa894964eb693d71" type="Folder">6</container>
+          </did>
+          <odd id="aspace_baa44250649a52d9d24745b000adfe5a">
+            <head>General note</head>
+            <p>Summary: Mentions possibility that James Buchanan will accept a Supreme Court appointment, praises his actions in the controversy over the northwest border of the United States. (Sykes was a U.S. Representative from New Jersey).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref217_xq8" level="file">
+          <did>
+            <unittitle>Thornton, William (1759-1828). Letter: Patent Office, to Caesar A. Rodney, Wilmington, DE</unittitle>
+            <unitdate datechar="creation">06/28/1810</unitdate>
+            <container id="aspace_42b3e86c9e5b0be3d3990fb9ead46004" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5cfc10cda1ea769de2acb815609b926c" parent="aspace_42b3e86c9e5b0be3d3990fb9ead46004" type="Folder">7</container>
+          </did>
+          <odd id="aspace_3eacdda30ace7d6a995068129bc33300">
+            <head>General note</head>
+            <p>Summary: Petitions Rodney as Attorney-General, in a humorous poem, to allow more funds for building the Capitol in Washington, D.C. (Thornton was the architect of the U.S. Capitol until 1802 and the Superintendent of Patents, 1802-1828).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref219_vnq" level="file">
+          <did>
+            <unittitle>Thornton, William (1759-1828). Letter: City of Washington, to William Young</unittitle>
+            <unitdate datechar="creation">10/30/1817</unitdate>
+            <container id="aspace_16a52d7f872141cb7670e720ad02fd0e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d4919b8605da96cad5886c0bd81c3ebe" parent="aspace_16a52d7f872141cb7670e720ad02fd0e" type="Folder">8</container>
+          </did>
+          <odd id="aspace_ef6d5faff395a95d8f7f310d3ffa52a2">
+            <head>General note</head>
+            <p>Summary: Concerns payment for a shipment of goods.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref221_qdm" level="file">
+          <did>
+            <unittitle>Thornton, William (1759-1828). Letter: to Mr. Leeton</unittitle>
+            <unitdate datechar="creation">07/15/1818</unitdate>
+            <container id="aspace_58710bac19e31bec4437d4121cb03442" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_56e6d8dd5cf2d40fc85f8af08090f754" parent="aspace_58710bac19e31bec4437d4121cb03442" type="Folder">9</container>
+          </did>
+          <odd id="aspace_609a6aa1b9bd73ffece1d3229cd0ea6e">
+            <head>General note</head>
+            <p>Summary: Concerns a notice that must appear in the paper three times a week for three weeks.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref223_xmr" level="file">
+          <did>
+            <unittitle>Thornton, William (1759-1828). Letter: City of Washington, to Hyde de Neuville, NY</unittitle>
+            <unitdate datechar="creation">09/25/1819</unitdate>
+            <container id="aspace_210ab6b04bb95db5363652e3be0ecc6f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a0d4dd3ac20af83c3f934b31d0c5c2d6" parent="aspace_210ab6b04bb95db5363652e3be0ecc6f" type="Folder">10</container>
+          </did>
+          <odd id="aspace_0ffe246d525d08f1f2d9fe2b51ea7956">
+            <head>General note</head>
+            <p>Summary: Concerns some models of brick machines made by Adam Stewart of Philadelphia.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref225_wmh" level="file">
+          <did>
+            <unittitle>United States Commissioners of the City of Washington. Letter: Washington, to George Washington, Mt. Vernon</unittitle>
+            <unitdate datechar="creation">10/18/1798</unitdate>
+            <container id="aspace_51ffcd8a569230cc54dd1153d8ec3c12" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b20b83e3cbf5fbabd60ecfd53190953b" parent="aspace_51ffcd8a569230cc54dd1153d8ec3c12" type="Folder">11</container>
+          </did>
+          <odd id="aspace_a8bb9cbd03c2bd4b4299d10ab142d7c9">
+            <head>General note</head>
+            <p>Summary: Enclosed is an estimate of the cost of houses Washington proposed to build in Washington; Washington later agreed to the terms for building two houses. (Commissioners appointed to lay out the city of Washington were Gustavus Scott, William Thornton and Alexander White).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref227_lyn" level="file">
+          <did>
+            <unittitle>Van Ness, John P. (1770-1846). Letter: Washington, to Y. Eddy, Philadelphia</unittitle>
+            <unitdate datechar="creation">10/06/1809</unitdate>
+            <container id="aspace_6d261e21918fdf2a7d466589e3c006c7" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f52947655fbfab3e27be97700bb3bf6f" parent="aspace_6d261e21918fdf2a7d466589e3c006c7" type="Folder">12</container>
+          </did>
+          <odd id="aspace_088f6a5740e257354ff3fc0860601cfe">
+            <head>General note</head>
+            <p>Summary: Concerns a debt owed to the late W.M. Biddle of Philadelphia. (Van Ness was a U.S. Congressman from New York, 1801-1803, and the mayor of Washington, 1830-1834).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref229_qcp" level="file">
+          <did>
+            <unittitle>Weightman, Roger Chew (1787-1876). Letter: Washington, to M.D. Phillips, Rochester, NY</unittitle>
+            <unitdate datechar="creation">05/31/1853</unitdate>
+            <container id="aspace_41b738a31bbcd61c20aea050bd78d890" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_70ab1d0679608dda64501d8076f5a8c9" parent="aspace_41b738a31bbcd61c20aea050bd78d890" type="Folder">13</container>
+          </did>
+          <odd id="aspace_515f5256ddcde6258763c5b8772806d7">
+            <head>General note</head>
+            <p>Summary: States his correct address. (Weightman was Chief clerk of the U.S. patent office, June 1851-May 1853).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref231_tas" level="file">
+          <did>
+            <unittitle>Weightman, Roger Chew (1787-1876). Letter: Washington, to R.A. Shirer, Georgetown, DC</unittitle>
+            <unitdate datechar="creation">02/10/1866</unitdate>
+            <container id="aspace_11b7ad52417c89ab6d8bde7eaf3bd318" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ec91eb62a3712e684945f3a0f151ad10" parent="aspace_11b7ad52417c89ab6d8bde7eaf3bd318" type="Folder">14</container>
+          </did>
+          <odd id="aspace_43144ad5a4c471f6604c548329dc1271">
+            <head>General note</head>
+            <p>Summary: Orders some ale.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref233_sbd" level="file">
+          <did>
+            <unittitle>Wirt, William (1772-1834). Letter: Washington, to "Dear Sir"</unittitle>
+            <unitdate datechar="creation">10/20/1821</unitdate>
+            <container id="aspace_93ba5930a68ef243aa15c49b301623a9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d0c06942344e8ad42767586946ff5abd" parent="aspace_93ba5930a68ef243aa15c49b301623a9" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f19c8fde8f506a52666ab8dd4bcd49fe">
+            <head>General note</head>
+            <p>Summary: Note of introduction. (Wirt was the United States Attorney-General, 1817-1829).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref235_pu0" level="file">
+          <did>
+            <unittitle>Wolf, Simon (1836-1923). Letter: Washington, to Adam Badeau</unittitle>
+            <unitdate datechar="creation">01/12/1869</unitdate>
+            <container id="aspace_5949e7237b5eba2b1d97d86df74cfede" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b40544424c06ad01aa5d98250fe7b7fd" parent="aspace_5949e7237b5eba2b1d97d86df74cfede" type="Folder">16</container>
+          </did>
+          <odd id="aspace_0a30329a73a406e2f20286e30e052fd6">
+            <head>General note</head>
+            <p>Summary: Invites him to attend the circumcision of his son. (Wolf was a Washington lawyer and author).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref237_pnt" level="file">
+          <did>
+            <unittitle>Wylie, Andrew (1814-1905). Letter: Washington, to John Sherman</unittitle>
+            <unitdate datechar="creation">06/06/1877</unitdate>
+            <container id="aspace_6e0476fa4acad8d045057c29028e66bd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5043baf96854b52683827a4ff4aea2e8" parent="aspace_6e0476fa4acad8d045057c29028e66bd" type="Folder">17</container>
+          </did>
+          <odd id="aspace_76dddb494a1aee6321e95ce98ab7add0">
+            <head>General note</head>
+            <p>Summary: Recommends an appointment to Sherman, Secretary of the Treasury. (Wylie was a judge of the Supreme Court of the District of Columbia, 1863-1885).%32882013824589</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref240_v4x" level="series">
+        <did>
+          <unittitle>Financial papers</unittitle>
+          <unitid>MS2075 Series 2</unitid>
+          <unitdate datechar="creation">1796-1869</unitdate>
+          <physdesc id="aspace_be863f18ea32cdd36dc3c5a9696d0851" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_f86a45fe1115d619da14da0967ea0537">
+          <head>Scope and Contents note</head>
+          <p>This series includes financial papers such as bills, receipts, stock certificates, and checks dealing with banking, business, and transportation. The material covers the years 1796-1943. These papers include bank records from the Bank of Alexandria, Bank of Columbia, and the First National Bank of Washington. These records are from prominent citizens such as Joseph Henry from Corcoran &amp; Riggs, John Mason, and the Metropolitan Police Department.</p>
+        </scopecontent>
+        <c id="aspace_ref243_5p8" level="file">
+          <did>
+            <unittitle>Financial Records--Bank 11 documents</unittitle>
+            <unitdate datechar="creation">07/05/1796-02/12/1801</unitdate>
+            <container id="aspace_a3f2460cbfd9fe9d58448e6b3e987938" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5d5d435d1c346cf40bed2df7d722efab" parent="aspace_a3f2460cbfd9fe9d58448e6b3e987938" type="Folder">1</container>
+          </did>
+          <odd id="aspace_1387781f73d735fba4afc7502050783e">
+            <head>General note</head>
+            <p>including one share of stock in the Bank of Alexandria, dated July 5, 1796 and an exchange for $1000, dated February 12, 1801, to John Mason, the second president of the Bank of Columbia. Also of note is a letter from General Walter Stewart, dated May 25, 1795, to John Templeman, an incorporator and director of the Bank of Columbia, concerning real estate in George Town and Washington.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref245_eze" level="file">
+          <did>
+            <unittitle>Financial Records--Bonds, Bounties, Certificates and Check 7 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_95641155d4418c90ee61e0553606b553" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_62a45286b79453225b7c60380122c962" parent="aspace_95641155d4418c90ee61e0553606b553" type="Folder">2</container>
+          </did>
+          <odd id="aspace_ccebea954df0216bf58c4160c5b16b2e">
+            <head>General note</head>
+            <p>including an exchange for 115 pounds for Joseph Henry from Corcoran &amp; Riggs to George Peabody &amp; Co. and 4 certificates of land grants, each for 160 acres from the Department of the Interior.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref247_ajq" level="file">
+          <did>
+            <unittitle>Financial Records--Bills and Receipt 24 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0327811d5ee764f9afe0b0c2d737bfa8" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8ff654c3e680cbff80bc6ef5b25384a1" parent="aspace_0327811d5ee764f9afe0b0c2d737bfa8" type="Folder">3</container>
+          </did>
+          <odd id="aspace_32bf9ee0b8bfbbfa846a21c50c2a1083">
+            <head>General note</head>
+            <p>including a receipt of $40 to William Wilson Corcoran, philanthropist, art patron and benefactor to the George Washington University, from John Mason for house rent and a bill for 2500 lbs. of hay sold to the United States Quartermaster General by Richard Bland Lee, statesman and member of the first Congress under the Constitution.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref249_obw" level="file">
+          <did>
+            <unittitle>Financial Records--Hotel bill 5 documents</unittitle>
+            <unitdate datechar="creation">05/07/1838-04/03/1864</unitdate>
+            <container id="aspace_7f6a7dd5bddfc525397c4406ae8128c6" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8d50c4929d1a6553ba0164c6b45e30ee" parent="aspace_7f6a7dd5bddfc525397c4406ae8128c6" type="Folder">4</container>
+          </did>
+          <odd id="aspace_6dada6ee69d09a1b621c566235e3f6e1">
+            <head>General note</head>
+            <p>including a bill from Brown's Indian Queen Hotel, for May 7, 1838, a bill from the National Hotel, for February 11-22, 1835, and a bill from Willards' Hotel, for March 3, 1864.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref251_3p7" level="file">
+          <did>
+            <unittitle>Financial Records--Metropolitan Police Check</unittitle>
+            <unitdate datechar="creation">11/14/1867-11/20/1869</unitdate>
+            <container id="aspace_206a6375bebc489bb3459266544108ab" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8480f0dd993bd62951d42e1ceee566b0" parent="aspace_206a6375bebc489bb3459266544108ab" type="Folder">5</container>
+          </did>
+          <odd id="aspace_96050ecfa654908054955004e1be74d4">
+            <head>General note</head>
+            <p>16 checks from the First National Bank of Washington to the Department of Metropolitan Police, from November 14, 1867, to November 20, 1869.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref253_hpv" level="file">
+          <did>
+            <unittitle>Financial Records--Shipping transportation 9 documents</unittitle>
+            <unitdate datechar="creation">12/03/1800-11/23/1818</unitdate>
+            <container id="aspace_33af4d815f4cdcf31fa3e3b6188f2045" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_fbc35d998d3c9cff501cfbf0996736e5" parent="aspace_33af4d815f4cdcf31fa3e3b6188f2045" type="Folder">6</container>
+          </did>
+          <odd id="aspace_2c841ae05c89819e563d13a319253a45">
+            <head>General note</head>
+            <p>including transportation costs approved December 3, 1800, for taking Capt. Blackburn's company from Norfolk to Dumfries and a notice for a Furs &amp; Peltries Auction on the 23rd of November, 1818, at the warehouses of the Superintendent of Indian Trade, George Town and the District of Columbia. Also includes a letter to the Judges of the Circuit Court of the United States, dated June 10, 1819, from Richard Wallach and John Graeff, appointed commissioners, for making certain turnpike roads in the District of Columbia.</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref256_gpz" level="series">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <unitid>MS2075 Series 3</unitid>
+          <unitdate datechar="creation" normal="1794/1945" type="inclusive">1794-1945</unitdate>
+          <physdesc id="aspace_5ad58846850057ff4f4521a5247c7e0a" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_32f4736de21d6d3d490ee3e9e3000eec">
+          <head>Scope and Contents note</head>
+          <p>This series is composed of invitations, letters, wills, lottery tickets, proclamations, testimonies, DC Social Registers, and auction catalogues. These items range in date from 1794-1945 and concern the Washington lottery, indenture and slavery, newspapers, and Washington real estate. Materials of note include lottery tickets for Federal City lotteries of the late 19th century, and a collection of letters by Mary Clemmer (1839-1884), author and insightful chronicler of Washington life.</p>
+        </scopecontent>
+        <c id="aspace_ref259_jvn" level="file">
+          <did>
+            <unittitle>Miscellaneous--Churche Membership card of Elizabeth Ford to the Methodist Episcopal Church</unittitle>
+            <unitdate datechar="creation">09/1853</unitdate>
+            <container id="aspace_f14d0fbce4ee865acbf2c639601ba4b3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_03dcd3d7ccc3d7979121cf317d58351a" parent="aspace_f14d0fbce4ee865acbf2c639601ba4b3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref260_b4v" level="file">
+          <did>
+            <unittitle>Miscellaneous--Invitation 5 documents</unittitle>
+            <unitdate datechar="creation">1852-1861</unitdate>
+            <container id="aspace_259f7bfb5ffdaf0acd48ffcfa9dba25a" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_23a8f28f2a781aa4493be1f82d6edf93" parent="aspace_259f7bfb5ffdaf0acd48ffcfa9dba25a" type="Folder">8</container>
+          </did>
+          <odd id="aspace_e8d2b510fcd54e63fc9a06f36bfc6814">
+            <head>General note</head>
+            <p>including an invitation from W.H. Winder for dinner at Willard's Hotel at 5 o'clock on 11 July 1852 and an invitation to Gideon Welles to be present at the Post Office Department on the occasion of raising a flag over the building, dated May 18, 1861.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref262_69e" level="file">
+          <did>
+            <unittitle>Miscellaneous--Legal Records--Wills, appeal 6 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bfdad3c1eba98a9b232d76818f3a5b34" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8f39b3243f9fdce98e320b1c4fddd9a7" parent="aspace_bfdad3c1eba98a9b232d76818f3a5b34" type="Folder">9</container>
+          </did>
+          <odd id="aspace_f75050d4d3784baa36df3b6c75332be3">
+            <head>General note</head>
+            <p>including several wills and military discharge papers.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref264_bv0" level="file">
+          <did>
+            <unittitle>Miscellaneous--Letters from Civil War 8 documents, including general orders, requests for rations, ammunition and troops.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0d428096729af8c437d2d0c5dbafc07b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_cc8cb249c539d5b3dd2483e687da098c" parent="aspace_0d428096729af8c437d2d0c5dbafc07b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref265_vz1" level="file">
+          <did>
+            <unittitle>Miscellaneous--Letters of Phillip Barton Key and possible duel 4 documents</unittitle>
+            <unitdate datechar="creation">1843</unitdate>
+            <container id="aspace_afbb5bc757fe7d047ee5bee0c7df6d1f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_732648f79179a84d9a5e103a3d63f8aa" parent="aspace_afbb5bc757fe7d047ee5bee0c7df6d1f" type="Folder">11</container>
+          </did>
+          <odd id="aspace_d2e572aa3fe37459af2a7f89911a14ff">
+            <head>General note</head>
+            <p>including letters from Philip Barton Key and Captain C.A. May, as well as letters from mutual friends, J.M. Carlisle and John P. McLoughlin, who through their diplomacy prevented a duel between Barton and May. All dated in 1843.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref267_u9v" level="file">
+          <did>
+            <unittitle>Miscellaneous--Letters of Mary Clemmer Collection of 56 autograph letters signed</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9d5376496a211674455e8ed4fe13d1d4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_958a16b920f8a88e0850cde5726ca0d8" parent="aspace_9d5376496a211674455e8ed4fe13d1d4" type="Folder">12</container>
+          </did>
+          <odd id="aspace_499b25e57aa4970ce101f99be8601fe2">
+            <head>General note</head>
+            <p>An exceedingly interesting correspondence--refreshingly eloquent in praise of friends and in blame of foes. Miss Clemmer (Mary Clemmer Ames in the earlier letters) was widely known for her Washington correspondence, in which men and measures were discussed without fear or favor, in leading journals of the period.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref269_def" level="file">
+          <did>
+            <unittitle>Miscellaneous--Letters to W. Lloyd Wright 23 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f1fa1dea7484dc876a261e82c30bd6a5" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_86f949b1745865fc20d9f7e569d10d3a" parent="aspace_f1fa1dea7484dc876a261e82c30bd6a5" type="Folder">13</container>
+          </did>
+          <odd id="aspace_f6c039ab10bc407ea98c510855d7a68c">
+            <head>General note</head>
+            <p>including invitations, letters of thanks for donations and certificates of membership and correspondence from the various societies to which Mr. Wright belonged, such as the Washington Society of Engineers, the Columbia Historical Society and the Society of Natives of the District of Columbia.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref272_yfr" level="file">
+          <did>
+            <unittitle>Miscellaneous--Lotterie 7 documents</unittitle>
+            <unitdate datechar="creation">01/15/1794</unitdate>
+            <container id="aspace_3d22ba7b52eb3c4c56a00eb0ef7e14e3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a1b77a30d648b9bc02a3597bef4fac4f" parent="aspace_3d22ba7b52eb3c4c56a00eb0ef7e14e3" type="Folder">1</container>
+          </did>
+          <odd id="aspace_3d5adf4ded1e9d3913ce4d21161e39eb">
+            <head>General note</head>
+            <p>including several tickets for Federal City Lotteries, a right to three shares in the hotel lottery, 15 January 1794, and records of meetings of the Managers of the Federal City Lottery.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref274_yxd" level="file">
+          <did>
+            <unittitle>Miscellaneous--Newspaper 4 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3fd48cba08b7c0f3f8e85512a7db5a9d" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_db495477b963b5a444e818c8b69fa1bf" parent="aspace_3fd48cba08b7c0f3f8e85512a7db5a9d" type="Folder">2</container>
+          </did>
+          <odd id="aspace_32a2f18f8c9151598fcfaf5be31483e6">
+            <head>General note</head>
+            <p>including a receipt and a supplement for the United States Telegraph.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref276_cw9" level="file">
+          <did>
+            <unittitle>Miscellaneous--Proclamation Proclamation of peace issued by Mayor James A. Blake</unittitle>
+            <unitdate datechar="creation">02/18/1815</unitdate>
+            <container id="aspace_6fd36cd65d2933ede53e272394ce2e47" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_81158078e4df491f191266f8db6a0fa4" parent="aspace_6fd36cd65d2933ede53e272394ce2e47" type="Folder">3</container>
+          </did>
+          <odd id="aspace_32de5a3caa9c946eb732bd951c6256ad">
+            <head>General note</head>
+            <p>announcing the end of the War of 1812.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref278_3m4" level="file">
+          <did>
+            <unittitle>Miscellaneous--Real Estate 17 documents</unittitle>
+            <unitdate datechar="creation">09/20/1830-04/30/1855</unitdate>
+            <container id="aspace_2ddc65eb086d8c70eec60bd97631fe63" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_11d6ff81d0a741d1bf070f3c46d7b5a9" parent="aspace_2ddc65eb086d8c70eec60bd97631fe63" type="Folder">4</container>
+          </did>
+          <odd id="aspace_c4a5473c59796049e11ebb4be9756f74">
+            <head>General note</head>
+            <p>including an indenture signed by John P. Van Ness, Mayor of Washington, on September 20, 1830 and a letter from W.H. Winder offering to sell the National Theatre for $55,000, dated March 30, 1855.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref280_0tv" level="file">
+          <did>
+            <unittitle>Miscellaneous--Slavery 2 documents</unittitle>
+            <unitdate datechar="creation">04/29/1859</unitdate>
+            <container id="aspace_c91704aa0b58a102d17933a28e966ead" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_66d58649d704342c598d42d0902aaa8d" parent="aspace_c91704aa0b58a102d17933a28e966ead" type="Folder">5</container>
+          </did>
+          <odd id="aspace_abce91b3bf0944bcdb7c1fc95b603222">
+            <head>General note</head>
+            <p>including a notice of emancipation for Jacob Pendall, dated April 29, 1859.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref282_n82" level="file">
+          <did>
+            <unittitle>Miscellaneous--Testimonial 4 documents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_944950d42f82accdafe84f9cf398084e" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_2b99c8ca8714c749c8d2834c0d6a46c0" parent="aspace_944950d42f82accdafe84f9cf398084e" type="Folder">6</container>
+          </did>
+          <odd id="aspace_69f78e4d0ac63a1584a35f816b610dc3">
+            <head>General note</head>
+            <p>including a petition to the President of the United States for the appointment of Benjamin B. French to the post of Marshal of the District of Columbia and a testimonial for the acceptance of an application for a clerkship in one of the executive departments.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref284_13q" level="file">
+          <did>
+            <unittitle>Miscellaneous--Auction catalogue</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b2cc2c55e637d07a2c2f01fd0f6e7c52" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_b4b0a120bc76cba51f411f9cd6b35e14" parent="aspace_b2cc2c55e637d07a2c2f01fd0f6e7c52" type="Folder">7</container>
+          </did>
+          <odd id="aspace_a3b861071dfc3e0c8a9acd3f742b0abf">
+            <head>General note</head>
+            <p>Auction catalogue for an exhibition and sale of items from the libraries of W. Lloyd Wright after his death, by order of his sister, as well as Florence H. Crane and others.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref286_ati" level="file">
+          <did>
+            <unittitle>Miscellaneous Bookplate</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c2808ef1821e46b70ab9cec25c7804e7" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_17a55535169ae1c5739c0ecf0dc9bea8" parent="aspace_c2808ef1821e46b70ab9cec25c7804e7" type="Folder">8</container>
+          </did>
+          <odd id="aspace_e1efae714b1a0a9b404f8310c62ec5a4">
+            <head>General note</head>
+            <p>2 bookplate stamps and several bookplates of W. Lloyd Wright.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref291_6ay" level="file">
+          <did>
+            <unittitle>Americana and Early Documents of Congress Catalogue No. 18</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8ae73156fc2b2094a87f76e8b4983d13" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_c43628c35113ea73a5e838e33c88dbf0" parent="aspace_8ae73156fc2b2094a87f76e8b4983d13" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref292_s0b" level="file">
+          <did>
+            <unittitle>Select Americana with an Addendum of U.S. and Mexican Constitutions Catalogue No. 21</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5f17fcee4448cc2ef489cb8a5b3ef800" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_04153f19b31440562bbb5c9d095f5af9" parent="aspace_5f17fcee4448cc2ef489cb8a5b3ef800" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref293_8jb" level="file">
+          <did>
+            <unittitle>Directory: complete listing of 18869 appointive positions in the District of Columbia</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation">After 1933</unitdate>
+            <container id="aspace_bd0013ee896bfeced55f15e082318402" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_2adec1f42f42e0fd80ca88f833646319" parent="aspace_bd0013ee896bfeced55f15e082318402" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref294_5ps" level="file">
+          <did>
+            <unittitle>Social Register  Summer 1934 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container id="aspace_d86e20ea53315a2f9b02d66a6a742c18" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_445dfa74d0fc43ec119b683c2fae68fa" parent="aspace_d86e20ea53315a2f9b02d66a6a742c18" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref295_2vm" level="file">
+          <did>
+            <unittitle>Social Register Summer 1935 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_ce914c82c8885f74ab993c9fa29726be" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_d9439b5d9f2822de60de9c29d7633667" parent="aspace_ce914c82c8885f74ab993c9fa29726be" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref296_i7q" level="file">
+          <did>
+            <unittitle>Social Register Summer 1939 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_2c0f1b8a6eef76bd91e814aada62bb32" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_b62330c91a4bbee2e01be14ad5783f10" parent="aspace_2c0f1b8a6eef76bd91e814aada62bb32" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref297_hxg" level="file">
+          <did>
+            <unittitle>Social Register Summer 1940 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_ec1699ea8199a0c40085b8945ccca17c" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_32019634678a67ce91b08a859cb6491a" parent="aspace_ec1699ea8199a0c40085b8945ccca17c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref298_ygl" level="file">
+          <did>
+            <unittitle>Social Register Summer 1944 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container id="aspace_e7c4585129d608439fb6ab738636ecc4" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_1ff28ec3b50ada4d83ab45d3c622ff14" parent="aspace_e7c4585129d608439fb6ab738636ecc4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref299_xoi" level="file">
+          <did>
+            <unittitle>Social Register Summer 1945 Washington DC portion</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_2aa3706542c5674a622f1695e92f2951" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_4e81763e4b8a2e34f19de6795ba029d3" parent="aspace_2aa3706542c5674a622f1695e92f2951" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref300_25l" level="file">
+          <did>
+            <unittitle>Folger Shakespeare Library</unittitle>
+            <unitid>Series 3</unitid>
+            <unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container id="aspace_075d0b74550f1c8b70ebf3a2b7d4b085" label="Text [GW: 32882018317696]" type="Box">8</container>
+            <container id="aspace_194aef056185fed035fe4df35e0a5046" parent="aspace_075d0b74550f1c8b70ebf3a2b7d4b085" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

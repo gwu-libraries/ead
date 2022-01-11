@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="box_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2049.xml">ms2049.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the James E. Nathanson papers, <date calendar="gregorian" era="ce">1981-1994</date>
+ <num>MS2049</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:37:03 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>James E. Nathanson papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="local">Nathanson, James E.</persname>
+      </origination>
+      <unitid>MS2049</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">95 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1981-1994</unitdate>
+      <abstract id="aspace_9844be861257c5a5a9f60d202d54b7ec">Collection contains reports, articles, and correspondence dating from 1981-1994. The files were created by Nathanson and his staff during his two consecutive terms as a member of the Council of the District of Columbia.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_c40f4099627397b3e3f51e36148348cc">
+      <head>Preferred citation</head>
+      <p>James E. Nathanson papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_24a7ea9b31b5823369418f7a5865db47">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_2eecde810ca37760adcf48befe630000">
+      <head>Acquisition Information</head>
+      <p>James E. Nathanson donated these records in 1995.</p>
+    </acqinfo>
+    <userestrict id="aspace_abe4736f75232b1e1bae23f7b6c09bf8">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_7120fd1f91e92cf607bee9d319800a58">
+      <head>Historical or Biographical Note</head>
+      <p>James E. Nathanson was member of the Council of the District of Columbia from 1987-94. He served Ward Three.</p>
+    </bioghist>
+    <scopecontent id="aspace_3153492bdcd93102dc951b12cd72285b">
+      <head>Collection Scope and Content</head>
+      <p>This collection contains reports, articles, and correspondence. The material dates from 1981-94. The files were created by Nathanson and his staff during his two consecutive terms as a member of the Council of the District of Columbia.</p>
+    </scopecontent>
+    <arrangement id="aspace_43166ddcba6c9f867e455ef24b146497">
+      <head>Collection Organization</head>
+      <p>Organized into three series: General office files, Committee files, and In-active files.</p>
+    </arrangement>
+    <odd id="aspace_67460d02960efb1e78e2709d6f52d65d">
+      <head>Collection note</head>
+      <p>Please note: this collection is not fully processed.  The paper container list available in the reading room is an initial inventory created at the time of transfer. The order does not reflect the original order of the materials as they existed in Nathanson's office.</p>
+    </odd>
+    <controlaccess>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">City council members -- Washington (D.C.)</subject>
+      <persname rules="aacr" source="local">Nathanson, James E.</persname>
+      <corpname authfilenumber="http://id.loc.gov/authorities/names/n79110365" rules="aacr" source="naf">District of Columbia. City Council</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_fvo" level="series">
+        <did>
+          <unittitle>General office files</unittitle>
+          <unitid>MS2049 Series 1</unitid>
+          <unitdate datechar="creation" normal="1987/1994" type="inclusive">1987-1994</unitdate>
+          <physdesc id="aspace_bbb08f8272c461a8ca6573f1ab06cb49" label="General Physical Description note">28 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_06e5ec76531c678835f4b529ce37a3a6">
+          <head>Scope and Contents note</head>
+          <p>This series contains reports, correspondence, and research files. The years cover 1987-94. This material was created by James E. Nathanson and his staff during his time as a member of the Council of the District of Columbia. The subjects covered by this material include: housing, mental health, zoning, ABC regulations, Cleveland Park, traffic, real property tax, and sports.</p>
+        </scopecontent>
+        <c id="aspace_ref12_k87" level="file">
+          <did>
+            <unittitle>Housing-Medicaid</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_dfe85d3e7a8b29bed40f032060b3e273" label="Mixed Materials [GW: 32882008631742]" type="Box">1</container>
+          </did>
+          <odd id="aspace_9de1834a40b103b648334a2d750f5613">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref14_1tb" level="file">
+          <did>
+            <unittitle>Mental Health-Public Space Commission</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_8314c80ca4ac633486926965082e3c66" label="Mixed Materials [GW: 32882011787002]" type="Box">2</container>
+          </did>
+          <odd id="aspace_229add423350f36918540886963f6037">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref16_4xx" level="file">
+          <did>
+            <unittitle>Public Space-Solid Waste</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_c13813e8a61b786e254172df7d172c2a" label="Mixed Materials [GW: 32882011787010]" type="Box">3</container>
+          </did>
+          <odd id="aspace_834744c92b833450b4f6d6b26abe7612">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref18_swi" level="file">
+          <did>
+            <unittitle>Sports-Tort Reform</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_cc17b7fff104cfb20706f0dee58815ea" label="Mixed Materials [GW: 32882011787028]" type="Box">4</container>
+          </did>
+          <odd id="aspace_af9cb07efdf3dba1aad1aafe75189a5a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref20_n73" level="file">
+          <did>
+            <unittitle>Tourism-Transportation</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_e6c9349ffa5eb0f0c3a19db7f51129c9" label="Mixed Materials [GW: 32882011787036]" type="Box">5</container>
+          </did>
+          <odd id="aspace_0832d0a62edb72f19c887e8c22b90175">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref22_5rq" level="file">
+          <did>
+            <unittitle>Trees-Zoning</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <container id="aspace_aa9f4859b12828c6eb537b950907ab57" label="Mixed Materials [GW: 32882011787044]" type="Box">6</container>
+          </did>
+          <odd id="aspace_e8b72df7ea85b66c68f404838f38de60">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref24_4ap" level="file">
+          <did>
+            <unittitle>Zoning-Reading Files A-Z</unittitle>
+            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container id="aspace_5f123f4f6d5f8cce0a964bcae85cb06c" label="Mixed Materials [GW: 32882011787051]" type="Box">7</container>
+          </did>
+          <odd id="aspace_80c9cbb9b5119da818c5c7534ddbf494">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref26_d9k" level="file">
+          <did>
+            <unittitle>ABC Regulations-Children and Youth</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_aa55f4e443d114fd7da4159d8bc7d04e" label="Mixed Materials [GW: 32882011787069]" type="Box">8</container>
+          </did>
+          <odd id="aspace_46c018f7505c31eab90d7fe51afeda2f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref28_jnp" level="file">
+          <did>
+            <unittitle>Cleveland Park Historical Society-Housing</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_2b4dba66719db235f2ed262ffa98037c" label="Mixed Materials [GW: 32882011787077]" type="Box">9</container>
+          </did>
+          <odd id="aspace_e36fbf9fc2fdddf792b53c6481b0c757">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref30_jhf" level="file">
+          <did>
+            <unittitle>Housing Assistance-Public Space</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_ac0ae253be34af435256cc9dcaca0fe8" label="Mixed Materials [GW: 32882011787085]" type="Box">10</container>
+          </did>
+          <odd id="aspace_e2be9e3ad61bedd43e4ba991c8afe775">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref32_nt8" level="file">
+          <did>
+            <unittitle>Real Property Taxes-Traffic Adjudication</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_e05ff390a50e39b465de926b8afbe3e7" label="Mixed Materials [GW: 32882011787093]" type="Box">11</container>
+          </did>
+          <odd id="aspace_198c4330f7f7a086ea4e1405b6dcc851">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref34_il8" level="file">
+          <did>
+            <unittitle>Traffic Adjudication-Reading Files A-Z</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_6e1902490579b171816bc720cf5343fd" label="Mixed Materials [GW: 32882011787101]" type="Box">12</container>
+          </did>
+          <odd id="aspace_1e9ce4444c2dee1d80834bdf6e746a84">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref36_bp7" level="file">
+          <did>
+            <unittitle>Abandoned Cars-Community Based Residential Facilities (CBRF)</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_4b03229e01d49111da747087442c363a" label="Mixed Materials [GW: 32882011787119]" type="Box">13</container>
+          </did>
+          <odd id="aspace_4d0c3da4e30e2fffe21e5e50cc61f4ae">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref38_avf" level="file">
+          <did>
+            <unittitle>CBRF-Economic Development</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_eca3c94bab1e633d5546001fc3fed45b" label="Mixed Materials [GW: 32882011787127]" type="Box">14</container>
+          </did>
+          <odd id="aspace_d0c3736030067dcd30f089f2a9d2e6b0">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref40_abu" level="file">
+          <did>
+            <unittitle>Education-Nathanson Clippings</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_8e298ceddd3eea7489b6908f67d154e7" label="Mixed Materials [GW: 32882011787135]" type="Box">15</container>
+          </did>
+          <odd id="aspace_28c3b2722742fcff3a7840c961ff164d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref42_424" level="file">
+          <did>
+            <unittitle>Nathanson Files-University of the District of Columbia (UDC)</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_3ea834acbd07ec71cb305dfd3219931c" label="Mixed Materials [GW: 32882011787143]" type="Box">16</container>
+          </did>
+          <odd id="aspace_ab88f5bee02a95e3c1e75868061f868f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref44_rt0" level="file">
+          <did>
+            <unittitle>Traffic Adjudication-Zoning</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_440851ba33d5b7f5c8e23ddb64d81bf3" label="Mixed Materials [GW: 32882011787150]" type="Box">17</container>
+          </did>
+          <odd id="aspace_0781e9a43cb6af70d4c7169c7e413ef8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref46_pwn" level="file">
+          <did>
+            <unittitle>Appointment Books; 1992 Constituent Request Forms</unittitle>
+            <unitdate datechar="creation" normal="1987/1994" type="inclusive">1987-1994</unitdate>
+            <container id="aspace_2038916b5b8fee3da48f65d052ed4a86" label="Mixed Materials [GW: 32882011787168]" type="Box">18</container>
+          </did>
+          <odd id="aspace_2ad0ffb4fd44f79f20116c22d9f3567b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref48_0kg" level="file">
+          <did>
+            <unittitle>Constituent Request Books</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_68c33abfd5a3b9bc5943ac5e0de9ba64" label="Mixed Materials [GW: 32882011787176]" type="Box">19</container>
+          </did>
+          <odd id="aspace_f80bb4cb8375988f5ff33a92ce0e27da">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref51_tzq" level="series">
+        <did>
+          <unittitle>Committee files</unittitle>
+          <unitid>MS2049 Series 2</unitid>
+          <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+          <physdesc id="aspace_fd1833fea0fe892e4679d256ab463792" label="General Physical Description note">9 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_0b8497321b5e2e59e6a0d9f74d40bf07">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence and committee records for the Committee on the Judiciary. The material dates from 1990-94. These materials were created by James E. Nathanson and his staff during his time as a Council member of the Council of the District of Columbia.</p>
+        </scopecontent>
+        <c id="aspace_ref53_v69" level="file">
+          <did>
+            <unittitle>Committee's on the Judiciary, Public Works, Finance and Revenue, and Georgetown Operation Facility</unittitle>
+            <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+            <container id="aspace_0076fce1743e052737364a5dfec75247" label="Mixed Materials [GW: 32882011787184]" type="Box">20</container>
+          </did>
+          <odd id="aspace_0a4c222552d816ff683e8599334b5ed3">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref55_v9w" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary: Council for Court Excellence and Panhandling Subject File</unittitle>
+            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_453afa85a7fbbc011ab39b73703a8cf6" label="Mixed Materials [GW: 32882011787192]" type="Box">21</container>
+          </did>
+          <odd id="aspace_033d32a3b0f424efff15cdbf648e8896">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref57_wic" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary: Corrections Subject Files and Oversight Hearing</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_d6a7a028664d073e5416d00092176e89" label="Mixed Materials [GW: 32882011787200]" type="Box">22</container>
+          </did>
+          <odd id="aspace_cf87cca8b85942287a525ca8f994c864">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref59_qob" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary: Corrections Correspondence Files and General Legislative Files</unittitle>
+            <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+            <container id="aspace_5f386b27e435e8b5919e26239890420c" label="Mixed Materials [GW: 32882011787218]" type="Box">23</container>
+          </did>
+          <odd id="aspace_4fa21e0d7d7df2d84863e0f0d7a918b6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref61_ofi" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary: Corrections Subject Files and Potomac Rehab Services, Inc.</unittitle>
+            <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <container id="aspace_a6e6a9af9ec0f0f204b62606272e8527" label="Mixed Materials [GW: 32882011787226]" type="Box">24</container>
+          </did>
+          <odd id="aspace_39b3d20e35e80f6f531a35685d38ed98">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref63_cpi" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary: Corrections and Criminal Justice Reform Subject Files</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_0dbcee32fd0f1709667a1576922f3788" label="Mixed Materials [GW: 32882011787234]" type="Box">25</container>
+          </did>
+          <odd id="aspace_8f7446da6508f137725e62f85253bdbf">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref66_4v2" level="series">
+        <did>
+          <unittitle>In-active files</unittitle>
+          <unitid>MS2049 Series 3</unitid>
+          <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+          <physdesc id="aspace_ba14f3c355e6f2fd69417ab0a33aa2e0" label="General Physical Description note">58 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_fbb133124192854d9334f06917df7cd4">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence, financial records, and research files that cover the years 1981-89. These files were created by James E. Nathanson and his staff during his time as a council member of the Council of the District of Columbia. Subjects in this series include: human rights, health care, housing, taxes, transporation, civic associations, traffic, statehood, and development.</p>
+        </scopecontent>
+        <c id="aspace_ref68_2zm" level="file">
+          <did>
+            <unittitle>Postal Service-Public Activities Thank You's</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_b4dc42492ddc5b22a2a87d575c54ba70" label="Mixed Materials [GW: 32882011787242]" type="Box">26</container>
+          </did>
+          <odd id="aspace_0e93c886d1ae3481ff48e8f0e9527e6a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref70_cc1" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments, June-July 1988; Development, Connecticut Ave. and Historic Preservation</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_113abb286f60a39afe3e27d9c49354e7" label="Mixed Materials [GW: 32882011787259]" type="Box">27</container>
+          </did>
+          <odd id="aspace_7fe47de3d4a109a7a675ea9281d3009b">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref72_a1g" level="file">
+          <did>
+            <unittitle>Recycling-Thank You's</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_c7a88f781538812bbf88e4f39f515c08" label="Mixed Materials [GW: 32882011787267]" type="Box">28</container>
+          </did>
+          <odd id="aspace_bc0472c3d2afae62f3c6de97666906e8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref74_emk" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 September-December</unitdate>
+            <container id="aspace_199953d024289930076d8aeea3cb83e7" label="Mixed Materials [GW: 32882011787275]" type="Box">29</container>
+          </did>
+          <odd id="aspace_fb67e4a22c732d4e568db752060e1878">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref76_k2k" level="file">
+          <did>
+            <unittitle>Development Zoning, Home Occupations-Education</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_7df55bfa58ebfab44ba870b8a9b9051b" label="Mixed Materials [GW: 32882011787283]" type="Box">30</container>
+          </did>
+          <odd id="aspace_e3359d5bdcb94701e24e548c2e2f087e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref78_fdg" level="file">
+          <did>
+            <unittitle>Reading Files A-Z, 1988; Abandoned Vehicles-Business</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_d1e478f833ece760029bdbbb880969df" label="Mixed Materials [GW: 32882011787291]" type="Box">31</container>
+          </did>
+          <odd id="aspace_e0c9a5368c851c784b412801d40b0923">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref80_upf" level="file">
+          <did>
+            <unittitle>Human Rights, New York Law-Memorials</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_01ed5d84ca0939f2d23b07951497e7fd" label="Mixed Materials [GW: 32882011787309]" type="Box">32</container>
+          </did>
+          <odd id="aspace_9df946016906c953035ef1396bf02e04">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref82_6fm" level="file">
+          <did>
+            <unittitle>Utilities, 1987 Files; National Airport</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_860f7975626dc1cde4621d4da3a21e75" label="Mixed Materials [GW: 32882011787317]" type="Box">33</container>
+          </did>
+          <odd id="aspace_4194eac2ef953fc43fe77996e2234686">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref84_op9" level="file">
+          <did>
+            <unittitle>Health Care Decisions-Mental Health</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_6dd0e74814f2eaa7fbc374b55c3b7158" label="Mixed Materials [GW: 32882011787325]" type="Box">34</container>
+          </did>
+          <odd id="aspace_bbaeb61743d54a80f2cb388ddd886925">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref86_khc" level="file">
+          <did>
+            <unittitle>Health Nursing-Housing</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_8c6db1c69cc448ec5c410a4438871824" label="Mixed Materials [GW: 32882011787333]" type="Box">35</container>
+          </did>
+          <odd id="aspace_de9c6c316744a6c7f7eebd4875c101ab">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref88_ifs" level="file">
+          <did>
+            <unittitle>Budget Hearings for Special Committees</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_5a92efa5498675ea14b3afdd3a60b7e8" label="Mixed Materials [GW: 32882011787341]" type="Box">36</container>
+          </did>
+          <odd id="aspace_cff8bf1283e40c8f9e2f50ca23d19c5d">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref90_9bl" level="file">
+          <did>
+            <unittitle>Housing, Berkshire-Housing, Rental</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_7ab8739c5935356dd099fd7bb1b36b49" label="Mixed Materials [GW: 32882011787358]" type="Box">37</container>
+          </did>
+          <odd id="aspace_50d9694358bab2aeaf8cd14fbbd30a05">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref92_f8l" level="file">
+          <did>
+            <unittitle>Reading File A-Z</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_3fc407146024528a929880c4ae5937b3" label="Mixed Materials [GW: 32882011787366]" type="Box">38</container>
+          </did>
+          <odd id="aspace_6ee401efa819ee6b27ed44d526f7b5f1">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref94_d2d" level="file">
+          <did>
+            <unittitle>Housing, Rent Control-Human Rights, JEN Amendment to Human Rights Law</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_9dbbc0b2e147703e832c11ebc2f9cb4c" label="Mixed Materials [GW: 32882011787374]" type="Box">39</container>
+          </did>
+          <odd id="aspace_fe7bd4f300e27cd51c57cda86af5c6ce">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref96_wf5" level="file">
+          <did>
+            <unittitle>Citizens-Civic Associations</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_914e66206d4fc968ee88b1ac0ef93543" label="Mixed Materials [GW: 32882011787382]" type="Box">40</container>
+          </did>
+          <odd id="aspace_4024140c1c34463746e737034fa07767">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref98_x3d" level="file">
+          <did>
+            <unittitle>FY 89 Budget and FY 88 Supplemental Budget for Committees</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_3c9741517a9d0fb94f728d3aa8cd5e31" label="Mixed Materials [GW: 32882011787390]" type="Box">41</container>
+          </did>
+          <odd id="aspace_a0ed48bbaa30481777404c6fffa3e9ad">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref100_hgl" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 January-May</unitdate>
+            <container id="aspace_8b22c4a23e9aa66482c089cb27ee593b" label="Mixed Materials [GW: 32882011787408]" type="Box">42</container>
+          </did>
+          <odd id="aspace_75ad16788834f54e3d231f8a55724649">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref102_ktq" level="file">
+          <did>
+            <unittitle>Taxes-Transportation, Air</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_5f3b9ce542e2772844dcb6780c12c903" label="Mixed Materials [GW: 32882011787416]" type="Box">43</container>
+          </did>
+          <odd id="aspace_1d0f73b55e5255af1079b0b04e9a01c8">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref104_i1l" level="file">
+          <did>
+            <unittitle>City Services, Streets and Sidewalks-Consumer Affairs, No-Fault Insurance</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_6799dd63353eb8206f1008a7a4ac81cb" label="Mixed Materials [GW: 32882011787424]" type="Box">44</container>
+          </did>
+          <odd id="aspace_eef5dbac8d970855dea4251433d67516">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref106_1p7" level="file">
+          <did>
+            <unittitle>ANC's-Committee of the Whole (COW)</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_f2897a06be0c4be94e67995c0f67475e" label="Mixed Materials [GW: 32882011787432]" type="Box">45</container>
+          </did>
+          <odd id="aspace_ad66f49aef4743e4c7760ea043baf4ae">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref108_9j2" level="file">
+          <did>
+            <unittitle>FY 89 Budget and FY 88 Supplemental Budget for Committees</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_48626811cae21d2982eb94a6130cc994" label="Mixed Materials [GW: 32882011787440]" type="Box">46</container>
+          </did>
+          <odd id="aspace_81fde78c1f85c93a42aec7d29dd24d67">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref110_nox" level="file">
+          <did>
+            <unittitle>Traffic Adjudication-Utilities, Electric; Administrative Council Auditor</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_ff73c74fb339081b6025149477776d10" label="Mixed Materials [GW: 32882011787457]" type="Box">47</container>
+          </did>
+          <odd id="aspace_1d746f6cc03adba3b0ae63e439706eb6">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref112_9o0" level="file">
+          <did>
+            <unittitle>Unemployment-Workmen's Compensation; Council Auditor-Mayor's Office</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_94a99cfa571e143d7430636a9d3ec27b" label="Mixed Materials [GW: 32882011787465]" type="Box">48</container>
+          </did>
+          <odd id="aspace_58d9171ce7873c278da09e4b1d1c51bd">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref114_01p" level="file">
+          <did>
+            <unittitle>Crime, Firearms-Development, Building Permits</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_ffbf446abddad758a704ec48c5e1da34" label="Mixed Materials [GW: 32882011787473]" type="Box">49</container>
+          </did>
+          <odd id="aspace_2cb761e9a92051c708584d042e55d727">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref116_3rk" level="file">
+          <did>
+            <unittitle>Development, Wisconsin Ave.-Development, Zoning</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_ae7288b1d161da1c47c68de98a38df1a" label="Mixed Materials [GW: 32882011787481]" type="Box">50</container>
+          </did>
+          <odd id="aspace_4a79e83b18319dcf778bed9a92e1e6e1">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref118_4pi" level="file">
+          <did>
+            <unittitle>FY 88 Supplemental Budget for Special Committees and FY 89 Budget Hearings</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_5f555dea956811f39d85c59b53086b2d" label="Mixed Materials [GW: 32882011787499]" type="Box">51</container>
+          </did>
+          <odd id="aspace_caa753a91a8e9004aaf00e00c254268f">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref120_g81" level="file">
+          <did>
+            <unittitle>Recreation-Statehood</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_694d0d827215fbad2904add3e0191267" label="Mixed Materials [GW: 32882011787507]" type="Box">52</container>
+          </did>
+          <odd id="aspace_8dadee4f0c439a3b5c46e55380eb0deb">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref122_ebv" level="file">
+          <did>
+            <unittitle>Telephone Message Pads and File on Constituent Funds</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_8edd51fee041a17a310df1d0c99ad3be" label="Mixed Materials [GW: 32882011787515]" type="Box">53</container>
+          </did>
+          <odd id="aspace_429ec3a6c0d32ef54aa47bb91dd72035">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref124_i70" level="file">
+          <did>
+            <unittitle>1983 Comprehensive Plan</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <container id="aspace_824f6ff1c52d2ca5b6932a2249e818b6" label="Mixed Materials [GW: 32882011787523]" type="Box">54</container>
+          </did>
+          <odd id="aspace_9ad0f1ac6ce28e9dda7e2c807c8e5926">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref126_aqf" level="file">
+          <did>
+            <unittitle>Statehood-Taxes</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_a41c546e8b0eb66ee846bfd5f044dbac" label="Mixed Materials [GW: 32882011787531]" type="Box">55</container>
+          </did>
+          <odd id="aspace_0f88ae4b24b6e21ae0c4a8de614bf7aa">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref128_9z6" level="file">
+          <did>
+            <unittitle>1983 Comprehensive Plan</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <container id="aspace_39df8e1d74a5c6250db257da832f3240" label="Mixed Materials [GW: 32882011787549]" type="Box">56</container>
+          </did>
+          <odd id="aspace_8090f928fe9c61fd91472a2c5bb045c1">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref130_ge2" level="file">
+          <did>
+            <unittitle>Administrative Auditor-Mayor's Office</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_5372c910a959416a540ec332017f17d9" label="Mixed Materials [GW: 32882011787556]" type="Box">57</container>
+          </did>
+          <odd id="aspace_c69f6e65d610f5f11da99fadb807c7a7">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref132_dd8" level="file">
+          <did>
+            <unittitle>Animals-City Services, Stop Signs and Lights</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_6ce0f160c078e9fa1efd17b48eeee171" label="Mixed Materials [GW: 32882011787564]" type="Box">58</container>
+          </did>
+          <odd id="aspace_5857880ad01cf555f43a88b7af983289">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref134_c7t" level="file">
+          <did>
+            <unittitle>Labeled, Empty File Folders</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e8384783df43a9c1d5b088c9edfe67a9" label="Mixed Materials [GW: 32882011787572]" type="Box">59</container>
+          </did>
+          <odd id="aspace_a455aa27f049995601664bd46bda938e">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref136_7ov" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 January-May</unitdate>
+            <container id="aspace_07d44565ab6f6780fb2b92177a36a49e" label="Mixed Materials [GW: 32882011787580]" type="Box">60</container>
+          </did>
+          <odd id="aspace_7535dc5a2b5a4405cb93efa9b8dab872">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref138_qxz" level="file">
+          <did>
+            <unittitle>Condolences-Gas Company</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_8e9d143bc5b7f82b85456af02fefb3db" label="Mixed Materials [GW: 32882011787598]" type="Box">61</container>
+          </did>
+          <odd id="aspace_0d09ef2250a79fe80e32f7ebf0d7bcb9">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref140_k6c" level="file">
+          <did>
+            <unittitle>Boards and Commissions, Citizens-Civic Associations</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_84e1a0e5fa473c2cc6ea265a27a5251f" label="Mixed Materials [GW: 32882011787606]" type="Box">62</container>
+          </did>
+          <odd id="aspace_9ac658bc804a7b5e34611489646fab3a">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref142_4d4" level="file">
+          <did>
+            <unittitle>Gay Community-Requests</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_0fab8cdea4682e727e6f46bb5471f36b" label="Mixed Materials [GW: 32882011787614]" type="Box">63</container>
+          </did>
+          <odd id="aspace_6b6ba6dbd9257fa47da897569cd2e118">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref144_0ds" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989 January-July</unitdate>
+            <container id="aspace_788b52bf1124516e59336756cf2207d8" label="Mixed Materials [GW: 32882011787622]" type="Box">64</container>
+          </did>
+          <odd id="aspace_7d2c9c2ae807c5cd1caf2cfb9f9383ef">
+            <head>General note</head>
+          </odd>
+        </c>
+        <c id="aspace_ref146_qe9" level="file">
+          <did>
+            <unittitle>Invitations Accepted and Appointments</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 June-December</unitdate>
+            <container id="aspace_5db796c9feabaf3ca7d451f5f1a7d65b" label="Mixed Materials [GW: 32882011787630]" type="Box">65</container>
+          </did>
+          <odd id="aspace_ce18d032d180b5e5068bffbba0b67673">
+            <head>General note</head>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

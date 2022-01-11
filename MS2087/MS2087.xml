@@ -1,0 +1,961 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="folder_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2087.xml">ms2087.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Arthur L. Edson papers, <date calendar="gregorian" era="ce">1950-1968</date>
+ <num>MS2087</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2005</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:00 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Arthur L. Edson papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="local">Edson, Arthur L.</persname>
+      </origination>
+      <unitid>MS2087</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1950-1968</unitdate>
+      <abstract id="aspace_4e4326a05ab1278c8a86a523ed2cb44f">Collection consists of teletype printouts, correspondence, note pads, interview transcripts, rough notes, and more. They range in date from 1950 to 1968. They cover US politics, presidential campaign of 1968, the 1964 GOP convention and biographical information and interviews from delegates, candidates, and prominent figures.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_d91635a2e3fe0678c0387d65a34dc360">
+      <head>Preferred citation</head>
+      <p>Arthur L. Edson papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_2ce69c898b04e1682960233a0ae9291d">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_187a75119834e0351104dca3aaaf9ba4">
+      <head>Acquisition Information</head>
+      <p>Acquisition is unknown.</p>
+    </acqinfo>
+    <userestrict id="aspace_53751bcfb3d3678586019a5411106db4">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_6b6d3475d3cc9b552d85ae58e872a14e">
+      <head>Historical or Biographical Note</head>
+      <p>Arthur Edson (-1969) brought the Associated Press into the American Newspaper Guild and was a writer for "US News and World Report."</p>
+      <p>Arthur Edson graduated from the University of Missouri School of Journalism in 1935. His first job was as a sports writer for an Oklahoma paper. He joined the Associated Press (AP) Kansas City Bureau in 1942. He moved to Washington, D.C. in 1945 and was, along with other top AP writers, instrumental in bringing the AP into the American Newspaper Guild. By 1948, he was a top feature writer for AP. He covered presidential politics for twenty-four years and did may feature stories for the AP. He moved to "US News and World Report" in 1968 and was due to take a top position there when his career was cut short by the discovery of cancer.* Arthur Edson died in January 1969.</p>
+      <p>* Information above supplied by Warner Ragsdale, Jr., a close friend of Edson's. Correction to some dates supplied by Ron Pesch in 2020.</p>
+    </bioghist>
+    <scopecontent id="aspace_afa5dcee9931b7779c7e3e28f4ba61d0">
+      <head>Collection Scope and Content</head>
+      <p>This collection consists of teletype printouts, correspondence, note pads, interview transcripts, rough notes, and more. They range in date from 1950 to 1968. They cover US politics, presidential campaign of 1968, the 1964 GOP convention and biographical information and interviews from delegates, candidates, and prominent figures. Some of the prominent figures include John F. Kennedy, Robert Kennedy, Charles A. Lindbergh, Eugene McCarthy, John Pastore, Lyndon B. Johnson, Dwight D. Eisenhower, Felix Frankfurter, Barry Goldwater, Carl Hayden, Ezra Taft Benson, Adam Clayton Powell, and Harry S. Truman to name a few.</p>
+    </scopecontent>
+    <arrangement id="aspace_7bda3933fbc1a859650004ccf5d41157">
+      <head>Arrangement</head>
+      <p>Arranged alphabetically by folder title.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Political campaigns</subject>
+      <subject source="lcsh">Politics and government</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <corpname rules="aacr" source="naf">Associated Press</corpname>
+      <persname rules="aacr" source="local">Edson, Arthur L.</persname>
+      <corpname rules="aacr" source="naf">American Newspaper Guild</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12_tux" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation">1950-1968</unitdate>
+          <container id="aspace_0ae0944e197e53a542426a376b639f2b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_aabe73a20c3c259b91da6ffbfc379803" parent="aspace_0ae0944e197e53a542426a376b639f2b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref14_df9" level="file">
+        <did>
+          <unittitle>"D"</unittitle>
+          <unitdate datechar="creation">1960</unitdate>
+          <container id="aspace_82995969b3721a7ec5e0517b588e725d" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_df7fcb6b54cc9cf43d6d4f301c48e590" parent="aspace_82995969b3721a7ec5e0517b588e725d" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref16_m7w" level="file">
+        <did>
+          <unittitle>Acheson, Dean</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_00bf4d3b31b247647fb2083a68ece12f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_e148ee05beb70650a1eb531ef8990d9c" parent="aspace_00bf4d3b31b247647fb2083a68ece12f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref18_vom" level="file">
+        <did>
+          <unittitle>Appalachia</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_25e54f2b5e208090165400399c795a27" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_39834cf6ec63518de219c1117b26c59f" parent="aspace_25e54f2b5e208090165400399c795a27" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref20_cdv" level="file">
+        <did>
+          <unittitle>Arkansas</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3a85bfc8a14ddc2ab3b3c60cf05cd613" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_940126036573f525b39f5c2d6502ce94" parent="aspace_3a85bfc8a14ddc2ab3b3c60cf05cd613" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref22_byc" level="file">
+        <did>
+          <unittitle>Benson, Ezra Taft</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b003146db5b9f807c5aa812ba77ae69b" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_35d0bf101fb256fcb55835783fb7c3a9" parent="aspace_b003146db5b9f807c5aa812ba77ae69b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref24_xf7" level="file">
+        <did>
+          <unittitle>Brock, William</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_05a8e0bd9cb94ffc1a6926bbdcc86a2c" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_841a2fb4124c1bfafa5aa348300bfede" parent="aspace_05a8e0bd9cb94ffc1a6926bbdcc86a2c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref26_ivf" level="file">
+        <did>
+          <unittitle>Bureaucrats</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7680328a6ba497fd03bc318c4bb44b9e" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4e53335070c08f6abcc4c606a4bc3927" parent="aspace_7680328a6ba497fd03bc318c4bb44b9e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref28_fug" level="file">
+        <did>
+          <unittitle>Bureau of Budget</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_2d2651e8aedfe348b46354b95fa63437" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_1e9701c789f7897b85cdefc820a93a67" parent="aspace_2d2651e8aedfe348b46354b95fa63437" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref30_ig6" level="file">
+        <did>
+          <unittitle>Campaign Cost</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9a462800a1f316ba7a8c88dcda4ac441" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a37b1dfcbcb25c84327fce0c57511854" parent="aspace_9a462800a1f316ba7a8c88dcda4ac441" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref32_716" level="file">
+        <did>
+          <unittitle>Campaign Cost</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_dfc76532421c65aba92d312bb6616efd" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_3e364bea2ca381cd80ca487a579bb18c" parent="aspace_dfc76532421c65aba92d312bb6616efd" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref34_kh8" level="file">
+        <did>
+          <unittitle>Campaign Hoodlumism</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_8eb169c0ca0728006baf7907c8d90b17" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_e3f23c2ba24cb5027df432388d639099" parent="aspace_8eb169c0ca0728006baf7907c8d90b17" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref36_r3x" level="file">
+        <did>
+          <unittitle>Campaigns (Dangers of)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c35b9d85ca574b93252c7ecb85dff1c2" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_5b57451fbf3b81beb798f5725db506dd" parent="aspace_c35b9d85ca574b93252c7ecb85dff1c2" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref38_ocl" level="file">
+        <did>
+          <unittitle>College Students</unittitle>
+          <unitdate datechar="creation">1967</unitdate>
+          <container id="aspace_79056c95ae712b0d6ee3db90b8d57725" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_9864265b01508c4f7be0ecf2bbef662e" parent="aspace_79056c95ae712b0d6ee3db90b8d57725" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref40_45p" level="file">
+        <did>
+          <unittitle>Congress - Ain't What it Used to Be</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_310bd0bf715ef088dc6c9ce1a27352fb" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_5315b74917415ec248d24cb89953c457" parent="aspace_310bd0bf715ef088dc6c9ce1a27352fb" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref42_app" level="file">
+        <did>
+          <unittitle>Congress - Ethics</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_705f146b3f3cad6cfdf3fb6942f6488f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_602cfa1dcad7b124bfdd7b5cf9811758" parent="aspace_705f146b3f3cad6cfdf3fb6942f6488f" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref44_jf5" level="file">
+        <did>
+          <unittitle>Congress - Filibuster - Oratory</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9774a4253d94cc1c05caa5d662648aba" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_8318be235991f8958ac0ef3ddff2d071" parent="aspace_9774a4253d94cc1c05caa5d662648aba" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref46_q7w" level="file">
+        <did>
+          <unittitle>Congress - General</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_890a798315080df7d9a5d039610148f4" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_f2a2baa971f9132753a69260f4b558c5" parent="aspace_890a798315080df7d9a5d039610148f4" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref48_d1w" level="file">
+        <did>
+          <unittitle>Congress - Limiting Service Therein</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ef6752f9df516c2afa9dfdce9b830552" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_573fbe6189417dee997b7fb0fbcccf18" parent="aspace_ef6752f9df516c2afa9dfdce9b830552" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref50_7wo" level="file">
+        <did>
+          <unittitle>Congress on TV</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9167d9785a438852e0b575afc53530fb" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_be7103c3d4e702d7af1476446744d004" parent="aspace_9167d9785a438852e0b575afc53530fb" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref52_anp" level="file">
+        <did>
+          <unittitle>Congress - Senate vs House</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_10c943c680f31dd8c5eebab1d7691b91" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4bf6fc180d753e1590f81097e03db089" parent="aspace_10c943c680f31dd8c5eebab1d7691b91" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref54_j51" level="file">
+        <did>
+          <unittitle>Constitution</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e6fdc00053c24fce09513aba49b3ec98" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_beb244bd4e396118e48a39b6e1b63583" parent="aspace_e6fdc00053c24fce09513aba49b3ec98" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref58_nm8" level="file">
+        <did>
+          <unittitle>Democrats</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7d7fba2e7e3f778bd125bfb1f79262ba" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_20e95b2a91b93042b073e7a3048555d9" parent="aspace_7d7fba2e7e3f778bd125bfb1f79262ba" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref60_f76" level="file">
+        <did>
+          <unittitle>Diplomats</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b4c6958b7dced069888ba78cc31acf84" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_5dbbb81cc12dd935fb80fd00b0b2db7e" parent="aspace_b4c6958b7dced069888ba78cc31acf84" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref62_a5n" level="file">
+        <did>
+          <unittitle>Dirksen, Everett</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_eb47e9084dccbfb978f9820502799461" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_391aa311bb3582e7ef0d02b01bcd9e32" parent="aspace_eb47e9084dccbfb978f9820502799461" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref64_uz9" level="file">
+        <did>
+          <unittitle>Eisenhower, Dwight D. (See also Ike's Clothes)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_abc32d8a9f1cb77cd0adc812c33eeedc" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_bbb5ddd511ecc551874e01fdc9b7a60c" parent="aspace_abc32d8a9f1cb77cd0adc812c33eeedc" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref66_bo4" level="file">
+        <did>
+          <unittitle>Election Day Notes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b85b2c755c7e9a34dd966efd4c0aab58" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_61d20435a2e64faab224bcf763fc4be5" parent="aspace_b85b2c755c7e9a34dd966efd4c0aab58" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref68_faa" level="file">
+        <did>
+          <unittitle>Election Notes, Reforms</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_63d2c4dd523169a5f5933fcbc0918e3d" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_981e543975c89c321fb0844cab6c587f" parent="aspace_63d2c4dd523169a5f5933fcbc0918e3d" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref70_527" level="file">
+        <did>
+          <unittitle>Ex-Presidents</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9f82a21d73dfcfb0b526005fa48edda9" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_7bae89c35cd97f36acd738d6cb5b82a0" parent="aspace_9f82a21d73dfcfb0b526005fa48edda9" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref72_8at" level="file">
+        <did>
+          <unittitle>Ford, Gerald</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_96129aca4b510100b7bc041bbf7a07a9" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_ff89808e8fb6a50c572a1dc62e9b866d" parent="aspace_96129aca4b510100b7bc041bbf7a07a9" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref74_kys" level="file">
+        <did>
+          <unittitle>Foreign Students</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c0eb071dc3f653fa9d0c36dda0732fb3" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_2e002fa216ee76dca6049231c6481fe8" parent="aspace_c0eb071dc3f653fa9d0c36dda0732fb3" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref76_uds" level="file">
+        <did>
+          <unittitle>Frankfurter, Felix</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_242af05775780f966697be20d9085ab4" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_1a91594d84d6d733a8c96b8f25aefd2e" parent="aspace_242af05775780f966697be20d9085ab4" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref78_l48" level="file">
+        <did>
+          <unittitle>Goldwater, Barry</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d0964917905fb483ba601d6426341430" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_c56eae7d81e51e7d06368069810536ed" parent="aspace_d0964917905fb483ba601d6426341430" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref80_5lt" level="file">
+        <did>
+          <unittitle>Government (Big)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e7029a68b749cb4b84a8a14d3e9ce2ab" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_ac9fa5c7b1882f7c3dc27ed8b8155a9e" parent="aspace_e7029a68b749cb4b84a8a14d3e9ce2ab" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref82_5xu" level="file">
+        <did>
+          <unittitle>Government Information Men</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b00090b30c186022c6116881ea4ea2b4" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_b8622e5b2e8a494b0197ba33d20dae27" parent="aspace_b00090b30c186022c6116881ea4ea2b4" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref84_061" level="file">
+        <did>
+          <unittitle>Hayden, Carl</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9e330e73f746f6bae48bbab76d26c79c" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_2f75f22765bf27ec24ef4e79e0f1fbac" parent="aspace_9e330e73f746f6bae48bbab76d26c79c" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref86_bq4" level="file">
+        <did>
+          <unittitle>Ike's Clothes (Dwight D. Eisenhower)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3d959d3a66c3d50dccd16f18099943f5" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_8e8f96e183f1c4b8564876a6e218b968" parent="aspace_3d959d3a66c3d50dccd16f18099943f5" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref88_mts" level="file">
+        <did>
+          <unittitle>Inaugurations</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_14cfd5eef236c6b1e19e6b2da5b941b5" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_56e0a761be62cc13d0a59b26a209d6ef" parent="aspace_14cfd5eef236c6b1e19e6b2da5b941b5" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref90_k22" level="file">
+        <did>
+          <unittitle>Inaugurations</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9465114538b1c4cd74de8c244285a3ca" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_dcf1bf90bb775e3d7ff8756bbaeae712" parent="aspace_9465114538b1c4cd74de8c244285a3ca" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref94_4le" level="file">
+        <did>
+          <unittitle>Johnson, Lady Bird</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_29e5b51029f7ed15898c12bc854fd53a" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_bc49140419d995390bb7397f03020232" parent="aspace_29e5b51029f7ed15898c12bc854fd53a" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref96_oz4" level="file">
+        <did>
+          <unittitle>Johnson, Lyndon Baines</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1e2738fff3c2dbab56a3da77a2041448" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_9a32592a3ab34e3e1f356257b6f4cb09" parent="aspace_1e2738fff3c2dbab56a3da77a2041448" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref98_4uz" level="file">
+        <did>
+          <unittitle>Kennedy, John F.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7ad73ad623ec8e3090d7d3bf69080378" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_147a3b7903f42f54a07b4a55be1ce2cf" parent="aspace_7ad73ad623ec8e3090d7d3bf69080378" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref100_arg" level="file">
+        <did>
+          <unittitle>Kennedy, Robert</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3b4e3d024397ce72cabb2c51920a8b2d" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_d16643b7e609e0e1d4a7bc6931c3da6b" parent="aspace_3b4e3d024397ce72cabb2c51920a8b2d" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref102_chn" level="file">
+        <did>
+          <unittitle>Kennedy, Robert</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7de0f93ebf11d160b83e0f18cc84fd05" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_77842a24bd9db2334cedf04c52307da9" parent="aspace_7de0f93ebf11d160b83e0f18cc84fd05" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref104_jjq" level="file">
+        <did>
+          <unittitle>Knowland, William</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5841a975f048e824fc046f4d96a0913b" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_00e77aa55d45c39d44c56c1bdcc63cd3" parent="aspace_5841a975f048e824fc046f4d96a0913b" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref106_3bq" level="file">
+        <did>
+          <unittitle>Latimer, Dr. John F.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5cfe94d4b275228f782bfc9a1a42042c" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_660fcb671bc8657338cd83b87d80484a" parent="aspace_5cfe94d4b275228f782bfc9a1a42042c" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref108_m2m" level="file">
+        <did>
+          <unittitle>Lincoln - Funeral Train Memorial Evaluated</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_94290b436c60447c201cfa7b608eeef9" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_ab72e5db4796d773f56a561b3eaab4dd" parent="aspace_94290b436c60447c201cfa7b608eeef9" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref110_5st" level="file">
+        <did>
+          <unittitle>Lindbergh, Charles A.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_cebc39a45bb0bfe2c0ea485fce3a2129" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_5a215e2a7fdc1828cb44b6514d044aa0" parent="aspace_cebc39a45bb0bfe2c0ea485fce3a2129" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref112_yuf" level="file">
+        <did>
+          <unittitle>Lobbying</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1fdcddcb0d527df41fde0ccc590da003" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_f094be78457c81c5279fedb730f0279a" parent="aspace_1fdcddcb0d527df41fde0ccc590da003" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref114_boa" level="file">
+        <did>
+          <unittitle>McCarthy, Eugene</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a029f45457f621443a3b1523f7a6ca0b" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_0814008f13ee062e98003125563c963e" parent="aspace_a029f45457f621443a3b1523f7a6ca0b" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref116_qcq" level="file">
+        <did>
+          <unittitle>Mail</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7a972ded4d81831be71adcd0686ed076" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_c9c9a0a6a5f7609b77c79c4a1d903698" parent="aspace_7a972ded4d81831be71adcd0686ed076" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref118_wc2" level="file">
+        <did>
+          <unittitle>Massachusetts (includes material on Edward Brook)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bb64f96128c329e41b3217133fe2a004" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_7901fcca66dbb02b7347474008c1dd1d" parent="aspace_bb64f96128c329e41b3217133fe2a004" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref120_2qy" level="file">
+        <did>
+          <unittitle>Mitchell, Howard and Moyers, Bill (see also Presidents and Press)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_aa3add15b4d7f437f5d7b933e7ef2859" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_6c8bb8651510fcfa2553a3048092e5d1" parent="aspace_aa3add15b4d7f437f5d7b933e7ef2859" type="Folder">53</container>
+        </did>
+      </c>
+      <c id="aspace_ref122_n9w" level="file">
+        <did>
+          <unittitle>National Debt</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_784ea5e5bac677cd4029f4e0c20e0dd4" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_99d04b79f71b4ae99b1399c23187335b" parent="aspace_784ea5e5bac677cd4029f4e0c20e0dd4" type="Folder">54</container>
+        </did>
+      </c>
+      <c id="aspace_ref124_oc6" level="file">
+        <did>
+          <unittitle>Negros (Politics)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a741ca30a76e80bf5767fc5594da9eb7" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_dcf2a5ff10d28f5b2cc99c9ab2c7cdc5" parent="aspace_a741ca30a76e80bf5767fc5594da9eb7" type="Folder">55</container>
+        </did>
+      </c>
+      <c id="aspace_ref126_3nm" level="file">
+        <did>
+          <unittitle>Conventions, Politics</unittitle>
+          <unitdate datechar="creation">1964</unitdate>
+          <container id="aspace_5e7935aa09f9abc68ad4b4de29c9c61c" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_a076ba0dfdf9bb857034e11eb870c9cb" parent="aspace_5e7935aa09f9abc68ad4b4de29c9c61c" type="Folder">56</container>
+        </did>
+      </c>
+      <c id="aspace_ref130_t2s" level="file">
+        <did>
+          <unittitle>Politics</unittitle>
+          <unitdate datechar="creation">1966</unitdate>
+          <container id="aspace_cc3fa73b3e03cb5694389fc301b42306" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_3c478133e191e948a636347e7c80f811" parent="aspace_cc3fa73b3e03cb5694389fc301b42306" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref132_9ht" level="file">
+        <did>
+          <unittitle>Campaign - Spring Interviews</unittitle>
+          <unitdate datechar="creation">1968</unitdate>
+          <container id="aspace_fecc0f860abdfe57b7384dd35afee45d" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_cd3479d0c0f49909f3e67757f32d8eb4" parent="aspace_fecc0f860abdfe57b7384dd35afee45d" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref134_6z4" level="file">
+        <did>
+          <unittitle>Election</unittitle>
+          <unitdate datechar="creation">1968</unitdate>
+          <container id="aspace_a6c9d21a71d45c5d5acbadcfdaff5a6c" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_eaa9c7a879079e5281a25f173cf4b750" parent="aspace_a6c9d21a71d45c5d5acbadcfdaff5a6c" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref136_k4g" level="file">
+        <did>
+          <unittitle>Election</unittitle>
+          <unitdate datechar="creation">1968</unitdate>
+          <container id="aspace_8fa867159b043df40899c90069314a26" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_13eb590a8bf166e89b0eb385bd8c5da2" parent="aspace_8fa867159b043df40899c90069314a26" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref138_mwt" level="file">
+        <did>
+          <unittitle>Election - States</unittitle>
+          <unitdate datechar="creation">1968</unitdate>
+          <container id="aspace_0937a499a73179be6a3cf7d4788deafc" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_82a54c9d0a24f2666c1edea9537174ef" parent="aspace_0937a499a73179be6a3cf7d4788deafc" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref140_53e" level="file">
+        <did>
+          <unittitle>Nixon, Richard</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_95db992412e27fb3102ae29c924e464b" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_a3e3f687d63009e88c2b27255967aa6f" parent="aspace_95db992412e27fb3102ae29c924e464b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref142_2cl" level="file">
+        <did>
+          <unittitle>Ohio (includes material on John Glenn. Robert Taft, Jr.)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_fa40cc2aac469d5cea3e38aef2c37428" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_530eee0dcdc6144244a4c80f017614ee" parent="aspace_fa40cc2aac469d5cea3e38aef2c37428" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref144_37h" level="file">
+        <did>
+          <unittitle>Parliamentarian</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ec73d6cf41c2b0c3dc0eaafa7cfd1c8b" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_4933660865cd2b2570a55a505986ae13" parent="aspace_ec73d6cf41c2b0c3dc0eaafa7cfd1c8b" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref146_yn1" level="file">
+        <did>
+          <unittitle>Pastore, John</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_492437296215afa80202482b4023cbb5" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_9d58b86e9d96f88aef807fe387be8b63" parent="aspace_492437296215afa80202482b4023cbb5" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref148_vgt" level="file">
+        <did>
+          <unittitle>Political Name-Calling</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_57a6df3db351a2ae8ff89c974757b8b5" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_d1452ab1e5147a427be63b019729f705" parent="aspace_57a6df3db351a2ae8ff89c974757b8b5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref150_82k" level="file">
+        <did>
+          <unittitle>Political Presidential Campaigns, History, and Conventions</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_477477bcbfd0fc559dab728528e33c58" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_b5887dd179eed63690b43eceecad3888" parent="aspace_477477bcbfd0fc559dab728528e33c58" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref152_wj1" level="file">
+        <did>
+          <unittitle>Politicians</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_7a10d8a1dcc259750d910ce8a47974f4" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_71e642b4b75f9c1409caa3406160ce8b" parent="aspace_7a10d8a1dcc259750d910ce8a47974f4" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref154_1rx" level="file">
+        <did>
+          <unittitle>Politics</unittitle>
+          <unitdate datechar="creation">1962-1964</unitdate>
+          <container id="aspace_5a62e4e1065487d34071887682ae9aa3" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_f1037c992e43d7152793979ae1c99042" parent="aspace_5a62e4e1065487d34071887682ae9aa3" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref158_rv9" level="file">
+        <did>
+          <unittitle>Politics (Edson pieces)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_73f11c9cd38cf84fb8fbd9690ba88708" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_6b01e4e6c6c298f35e1489295429fadf" parent="aspace_73f11c9cd38cf84fb8fbd9690ba88708" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref160_7c8" level="file">
+        <did>
+          <unittitle>Politics - Elections</unittitle>
+          <unitdate datechar="creation">1967</unitdate>
+          <container id="aspace_be97e8da663d16895f20862c02e118ed" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_496a60b781d9dbd4b6656233cf2cf000" parent="aspace_be97e8da663d16895f20862c02e118ed" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref162_jfs" level="file">
+        <did>
+          <unittitle>Politics - Value of Name</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_09012779dd1243ff96228851a9eebeed" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_4858bdcbebabd2ff0e325551d57856b0" parent="aspace_09012779dd1243ff96228851a9eebeed" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref164_s46" level="file">
+        <did>
+          <unittitle>Polls</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_3b92a69236bc9f18afb98db3f644ba67" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_d4dfa241a57bcdb50dbe20b7291a3cb1" parent="aspace_3b92a69236bc9f18afb98db3f644ba67" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref166_qpv" level="file">
+        <did>
+          <unittitle>Poor</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_63d134b3456b25d40b0cb7cef882e10e" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_8cefd7a208d459588b8e2f38dde5cdf6" parent="aspace_63d134b3456b25d40b0cb7cef882e10e" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref168_yxa" level="file">
+        <did>
+          <unittitle>Powell, Adam Clayton</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1e33199b28f99cd65a1faeef21de473f" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_85726c1a204946bd51bd76fa18a507d3" parent="aspace_1e33199b28f99cd65a1faeef21de473f" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref170_ld2" level="file">
+        <did>
+          <unittitle>Presidential Campaigns (includes Whistle-Stopping)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_44338e6a658505997596532aea00d46b" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_6ad45989c881d69f0bc85e6568754f5e" parent="aspace_44338e6a658505997596532aea00d46b" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref172_lp0" level="file">
+        <did>
+          <unittitle>Presidential Grief</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_6c4df7cd3dc94b6850c7d5b1d27ff8a2" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_ba943c3c839b237efa6b94c3f8835be6" parent="aspace_6c4df7cd3dc94b6850c7d5b1d27ff8a2" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref174_c5w" level="file">
+        <did>
+          <unittitle>Presidential Nominations - Rejected</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bff13dc1d1323e68bf1db1cbda5f8f35" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_63b772fad7a55207b4bcd33809fa235e" parent="aspace_bff13dc1d1323e68bf1db1cbda5f8f35" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref176_99v" level="file">
+        <did>
+          <unittitle>President and Cabinet</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_e596524c618f106660b10438ebc1f81c" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_96698e250555ae3caa15918e9d0bdb50" parent="aspace_e596524c618f106660b10438ebc1f81c" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref178_ca9" level="file">
+        <did>
+          <unittitle>Presidents - Absence from Washington</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_56d0825222d2776f63de4f292691cc47" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_7ebdf7b0d5a5af94630f6346ac756742" parent="aspace_56d0825222d2776f63de4f292691cc47" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref180_jgu" level="file">
+        <did>
+          <unittitle>Presidents and Gifts</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5da6c68009bdaf3e091d71bb1f6a1dd6" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_64cda4c33c6e0b2fd129f6646c0ec86c" parent="aspace_5da6c68009bdaf3e091d71bb1f6a1dd6" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref182_q8h" level="file">
+        <did>
+          <unittitle>Presidents and Press</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5dbcf841d379ca00451d2760b7c15f2c" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_3927d8e39fb3561c6040a914ff71c6ec" parent="aspace_5dbcf841d379ca00451d2760b7c15f2c" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref184_pbq" level="file">
+        <did>
+          <unittitle>Presidents and Press</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a4c2c4381fe914d2058dcdb2444b10a9" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_cbf0ede0bd824e3e9d8184f991f50330" parent="aspace_a4c2c4381fe914d2058dcdb2444b10a9" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref186_4r1" level="file">
+        <did>
+          <unittitle>Presidents and Press (Mostly Moyers)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_306fe4ba617e0f95b46dc6e36e62adf8" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_e4bebf298564cbaf7e3ad3d17d94990e" parent="aspace_306fe4ba617e0f95b46dc6e36e62adf8" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref188_716" level="file">
+        <did>
+          <unittitle>President's Health</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b810927fa5375e3f75294f1a8aa8c895" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_e69f93cfc910542376b8cdd9ede37643" parent="aspace_b810927fa5375e3f75294f1a8aa8c895" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref192_vp7" level="file">
+        <did>
+          <unittitle>Presidents - Miscellaneous</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_b7522f80a7980193386a9f973a78e120" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_dc4aa3b6d1b5ea43f8116db282b669a7" parent="aspace_b7522f80a7980193386a9f973a78e120" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref194_m09" level="file">
+        <did>
+          <unittitle>Presidents - Personal</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_96e226d8e11e63334ed58ca59a6bce47" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_108f9f3b1bb98b9d17ba6c8c4b8a34a8" parent="aspace_96e226d8e11e63334ed58ca59a6bce47" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref196_2rl" level="file">
+        <did>
+          <unittitle>President's Succession and Running Again</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_1ecd2e4aff954972dc9eafd2b593dca6" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_6f1560f5413324bfb95e6a46f7f3c6d5" parent="aspace_1ecd2e4aff954972dc9eafd2b593dca6" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref198_jcv" level="file">
+        <did>
+          <unittitle>President's Vetoes</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_fc44304306289bb210ec89acd0100cae" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_17c77d4a987089a92d2b7df906c8af1e" parent="aspace_fc44304306289bb210ec89acd0100cae" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref200_dgg" level="file">
+        <did>
+          <unittitle>Republican Party</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_41a8543934164c04952832ead37b8f16" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_9c275375f8b4ac800d498031464691b6" parent="aspace_41a8543934164c04952832ead37b8f16" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref202_zx2" level="file">
+        <did>
+          <unittitle>Rhodes Scholars</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_59f1c79cdf444347676ceefc87dc0c17" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_9c707a0c94a6398e41efcdf5e2dc0f7f" parent="aspace_59f1c79cdf444347676ceefc87dc0c17" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref204_qjb" level="file">
+        <did>
+          <unittitle>Ribicoff, Abraham</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_97f855a96b4b195b5896069f08ead25a" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_32f3e4bb9d6a285d963958c811174806" parent="aspace_97f855a96b4b195b5896069f08ead25a" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref206_fme" level="file">
+        <did>
+          <unittitle>Scotus and Courts</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_a36c9e549bb59c7e531af02d1c701029" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_7915109818966da025dad0da16bcbbe0" parent="aspace_a36c9e549bb59c7e531af02d1c701029" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref208_x38" level="file">
+        <did>
+          <unittitle>Senate</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_17501bcd4bf9ca6757e6801423839489" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_03f761d84abc50923653d253c4f007d9" parent="aspace_17501bcd4bf9ca6757e6801423839489" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref210_qh3" level="file">
+        <did>
+          <unittitle>Star Spangled Banner</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_c418c1ebdd6a1179c1306f5cdab47c0c" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_63b2f419e943e43b82134644db3eac76" parent="aspace_c418c1ebdd6a1179c1306f5cdab47c0c" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref212_qpk" level="file">
+        <did>
+          <unittitle>Stassen, Harold</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5395cbe13c7e06aecdc8dcc02063db55" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_a3f0a86caee7dace350762a05b678117" parent="aspace_5395cbe13c7e06aecdc8dcc02063db55" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref214_wdd" level="file">
+        <did>
+          <unittitle>State Department Trip</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_37e5317ab6847b141f7f4877faaed4fd" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_31d07664be41d7268b2e8f402db5307f" parent="aspace_37e5317ab6847b141f7f4877faaed4fd" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref216_3xv" level="file">
+        <did>
+          <unittitle>Symington, Stuart</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_9bc443353a7e813c34be9fbd037f0a78" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_a809b0911a5e3ea9858686f22d579de2" parent="aspace_9bc443353a7e813c34be9fbd037f0a78" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref218_1an" level="file">
+        <did>
+          <unittitle>Taxation</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ea78813b6185c61015ec86e41066cb01" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_b8fee656465793f410dcc85d2d2e0aec" parent="aspace_ea78813b6185c61015ec86e41066cb01" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref220_ykc" level="file">
+        <did>
+          <unittitle>Truman, Harry S.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_db376c32ae0b135a4945e538bd93d6e9" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_72635f00377dd286da552ffde8c8709a" parent="aspace_db376c32ae0b135a4945e538bd93d6e9" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref222_zyb" level="file">
+        <did>
+          <unittitle>USIA</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ec5c46e668f5da1a22c1e4d812d04cc2" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_0d935bb0bc5a7da0d5f76dd5e742dc50" parent="aspace_ec5c46e668f5da1a22c1e4d812d04cc2" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref224_ptp" level="file">
+        <did>
+          <unittitle>Udall, Stuart</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_4fa6f8430ab30d28e3aa475c1c32d226" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_83de3b49ef3e1db0ec64619eebfc2cfd" parent="aspace_4fa6f8430ab30d28e3aa475c1c32d226" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref226_zzk" level="file">
+        <did>
+          <unittitle>Vice Presidency</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_5fa4466b2c7b53d654fea75a9b69d11f" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_d7a9a46604e43d02528b888d04807e8d" parent="aspace_5fa4466b2c7b53d654fea75a9b69d11f" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref228_894" level="file">
+        <did>
+          <unittitle>Washington D.C.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_bb016194b42a55a619e090b23a2f4e1d" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_8fae99bc800b6e4eb9a1dc9b5376847c" parent="aspace_bb016194b42a55a619e090b23a2f4e1d" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref230_hbv" level="file">
+        <did>
+          <unittitle>Washington D.C.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_40e76278304f684203b6ab0039035e38" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_dcdc95a866e0bd9689e979d670d06c83" parent="aspace_40e76278304f684203b6ab0039035e38" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref232_hxq" level="file">
+        <did>
+          <unittitle>Weaver, Robert C.</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_ebf6b0ea1ec6edefd3c6050c747bf501" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_f51ecbf1680453430481e9f2afe53a02" parent="aspace_ebf6b0ea1ec6edefd3c6050c747bf501" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref234_s3w" level="file">
+        <did>
+          <unittitle>Welfare State</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_d6ed4a8038f4020867b65ccc99d0efb3" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_2a5e5a10cc5004d125d391282d5bd76d" parent="aspace_d6ed4a8038f4020867b65ccc99d0efb3" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref236_jcs" level="file">
+        <did>
+          <unittitle>White House</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_43bfbbe8a4788eeb4f61c3f20837ede6" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_573ed7d41ab2ebb7c74c167d948f5aff" parent="aspace_43bfbbe8a4788eeb4f61c3f20837ede6" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref238_obe" level="file">
+        <did>
+          <unittitle>Writing--especially political</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_78b305695abc7fb3e7283b67d6faab3b" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_4f155af29aab0e7545a7626ab2f99fe6" parent="aspace_78b305695abc7fb3e7283b67d6faab3b" type="Folder">53</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

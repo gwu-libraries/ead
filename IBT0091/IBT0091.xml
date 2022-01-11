@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/854">ibt0091.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Teamsters Web Archives - International Websites, <date calendar="gregorian" era="ce">1996-2020</date> <num>IBT0091</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:55:13 -0500</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Teamsters Web Archives - International Websites</unittitle>
+      <origination label="Creator">
+        <corpname source="ingest">International Brotherhood of Teamsters, Chauffeurs, Warehousemen, and Helpers of America.</corpname>
+      </origination>
+      <unitid>IBT0091</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 digital object(s)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1996-12-27/2020-07-11" type="inclusive">Originally posted to the web between 1996 December 27 and 2020 July 11</unitdate>
+      <physloc id="aspace_c5a64fff6adb0486cf9914e545370251">Stored on a web-accessible server.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_510468eec47ee483181a9ff2fcf3cb64">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_498d8088217942278fa95731bbe3e412">
+      <head>Conditions Governing Use</head>
+      <p>To input the use restriction identified in the donation agreement please use the wiki instructions on the staff wiki page: Statement choices for condition governing use note.</p>
+    </userestrict>
+    <prefercite id="aspace_0e744eb46c7c76311cbebe93e103a71e">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <arrangement id="aspace_3f01b167880e451688c45b058a99ce3d">
+      <head>Arrangement</head>
+      <p>Chose the appropriate language that matches the level you are describing:</p>
+      <p>For Collection: 
+Organized into [number] series: [list series titles]</p>
+      <p>For Series or Subseries:
+If the series has subseries use the same format as the Collection note to state the titles of the subseries</p>
+      <p>Series:
+Arranged [alphabetically, chronologically, etc.]</p>
+    </arrangement>
+    <acqinfo id="aspace_a6ba9fb7725cde75373266f6ed4d72c5">
+      <head>Immediate Source of Acquisition</head>
+      <p>Harvested through Archive-It.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Labor unions</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 20th century</subject>
+      <subject source="lcsh">Labor unions -- United States -- History -- 21st century</subject>
+    </controlaccess>
+    <dsc/>
+  </archdesc>
+</ead>

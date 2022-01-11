@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2045.xml">ms2045.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Louis Justement papers, <date calendar="gregorian" era="ce">1946-1968</date>
+ <num>MS2045</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2006</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:36:59 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Louis Justement papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Justement, Louis</persname>
+      </origination>
+      <unitid>MS2045</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation">1946-1968</unitdate>
+      <abstract id="aspace_d31e3d1067bda7bea80770ae5aefb74f">Collection consists of correspondence, newspaper and periodical articles, patents, meeting minutes, reports, programs, and press releases. The material dates from 1946-68. The correspondence comes from the Committee on Urban Planning of the American Institute of Architects and the Interprofessional Urban Planning Committee, which Justement chaired from 1946-49.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_539689d320a8579d813481456a4b917d">
+      <head>Preferred citation</head>
+      <p>Louis Justement papers, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_a4cc8e713c591ec6cddd62aec2e469a6">
+      <head>Restrictions on Access</head>
+      <p>Some records may be restricted.</p>
+    </accessrestrict>
+    <userestrict id="aspace_41c65cc43b0cff2d0b094a4dda420287">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_51e8ebd86a5b1969bbc23325a0d75f83">
+      <head>Biographical Note</head>
+      <p>Louis Justement (1891-1968) practiced architecture in Washington D.C. from 1919 through 1968. He received his bachelor's degree in architecture from George Washington University in 1911 and opened his own architecture firm in 1924. </p>
+      <p>He served three terms as president of the Washington Chapter of the American Institute of Architects, Middle Atlantic District. He served as chairman of the A.I.A. Committee on Urban Planning from 1946 though 1949. He was considered an authority on private and public large-scale housing projects and some of his well-known projects located in Washington include Sibley Memorial Hospital, U.S. Courthouse, Howard University Medical School, and the Meridian Hill Hotel. He supported the development of rapid transit for the metropolitan area and worked on the drafting of the original plans for the redevelopment of Southwest Washington. </p>
+      <p>He was born in New York City and died at Sibley Memorial Hospital in 1968.</p>
+    </bioghist>
+    <scopecontent id="aspace_d67a1dbe2347d7129e60d52394ba9448">
+      <head>Collection Scope and Content</head>
+      <p>The collection consists of correspondence, newspaper and periodical articles, patents, meeting minutes, reports, programs, and press releases. The material dates from 1946-68. The correspondence comes from the Committee on Urban Planning of the American Institute of Architects and the Interprofessional Urban Planning Committee, which Justement chaired from 1946-49. The correspondence of both committees deals with the postwar housing situation, proposals for legislation, programs for urban redevelopment, and meeting minutes. The collection also includes correspondence relating to the Urban Renewal Council of Washington D.C. The Council was a group of citizens appointed to advise and assist the Commissioners of the District of Columbia. Justement was appointed in 1959 for a two-year term. The material for the Committee on Urban Planning has statements from Justement and other people about various topics such as housing issues, zoning, and building codes. These statements were presented to Congressional committees and professional architecture organizations.</p>
+    </scopecontent>
+    <arrangement id="aspace_5a3ddc0daef14424b6ea7dd9e422e357">
+      <head>Collection Organization</head>
+      <p>Organized into seven series: Biographical information, American Institute of Architects Committee on Urban Planning, Interprofessional Urban Planning Committee, Manuscript, Patents, Periodicals and newspaper articles, and Urban Renewal Council.</p>
+    </arrangement>
+    <controlaccess>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Architects</subject>
+      <subject source="lcsh">Urban renewal</subject>
+      <subject source="lcsh">Housing</subject>
+      <corpname rules="dacs" source="local">Urban Renewal Council of Washington, D.C.</corpname>
+      <persname source="naf">Justement, Louis</persname>
+      <corpname rules="dacs" source="local">Interprofessional Urban Planning Committee</corpname>
+      <corpname rules="aacr" source="naf">American Institute of Architects. Urban Planning and Design Committee </corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10_kei" level="series">
+        <did>
+          <unittitle>Biographical information</unittitle>
+          <unitid>MS2045 Series 1</unitid>
+          <unitdate datechar="creation">undated</unitdate>
+          <physdesc id="aspace_c8e388ba1b89531b1a10059c3e509b8c" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_f920bd6cf500e4bd9763cea22d39540a">
+          <head>Scope and Contents note</head>
+          <p>This series consists of biographical information for Louis Justement.</p>
+        </scopecontent>
+        <c id="aspace_ref12_op3" level="file">
+          <did>
+            <unittitle>Biographical Information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c09272ef78e741ddc29122b6fcd7d141" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_a99736e9c62f82baabc3d1ee848f44a3" parent="aspace_c09272ef78e741ddc29122b6fcd7d141" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref15_tch" level="series">
+        <did>
+          <unittitle>American Institute of Architects, Committee on Urban Planning</unittitle>
+          <unitid>MS2045 Series 2</unitid>
+          <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+          <physdesc id="aspace_4e674737b608b1ea892f94bce7fb50d7" label="General Physical Description note">0.75 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_374dc7c9e7320295924143236788ed06">
+          <head>Scope and Contents note</head>
+          <p>This series consists of correspondence, minutes, newsletters, programs, reports, statements, legislative bills, and news releases related to Justement's work with the Committee on Urban Planning for the American Institute of Architects. The material dates from 1946-49.</p>
+        </scopecontent>
+        <c id="aspace_ref17_7bo" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_f0f67584051b4f97fd55ef6f9e60cdb2" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_54ad1dfdf1783742aa75395ab6375504" parent="aspace_f0f67584051b4f97fd55ef6f9e60cdb2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_r11" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 January-May</unitdate>
+            <container id="aspace_62b07e0b76ee4a2fa49b7f6fa3c9323d" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_5d644caa26b3c6a7646aff72c0374f31" parent="aspace_62b07e0b76ee4a2fa49b7f6fa3c9323d" type="Folder">3</container>
+          </did>
+          <odd id="aspace_bf008d617e5c11954a11c691e2212eb3">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref21_eh3" level="item">
+            <did>
+              <unittitle>Correspondence: Louis Justement and Earl T. Heitschmidt</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 January 30</unitdate>
+            </did>
+          </c>
+          <c id="aspace_ref23_wd6" level="item">
+            <did>
+              <unittitle>Correspondence: Edmund B. Purves and Philip B. Fleming</unittitle>
+              <unitid>Item 2</unitid>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 February 07</unitdate>
+            </did>
+          </c>
+          <c id="aspace_ref25_bp5" level="item">
+            <did>
+              <unittitle>Correspondence: Louis Justement and Edmund B. Purves</unittitle>
+              <unitid>Item 3</unitid>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 March 20</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref27_r6o" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 June-September</unitdate>
+            <container id="aspace_41a20dae602bef957d5e45872ccd707c" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_7b6510bc01a3748860721fce9e0725e1" parent="aspace_41a20dae602bef957d5e45872ccd707c" type="Folder">4</container>
+          </did>
+          <odd id="aspace_bca9750103e9229a9c2dda39a5143993">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of material within this folder.</p>
+          </odd>
+          <c id="aspace_ref29_1vg" level="item">
+            <did>
+              <unittitle>Statement on Housing Policy for the A.I.A. -- Henry S. Churchill</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 June 14</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref31_ev7" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 October-December</unitdate>
+            <container id="aspace_1f09956d67063c39a17f99ed3e611f62" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_c60b4a268e73548328f35b548eebcef4" parent="aspace_1f09956d67063c39a17f99ed3e611f62" type="Folder">5</container>
+          </did>
+          <odd id="aspace_571e2c5aa0a46df8f6ab72c1773bc073">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref33_9we" level="item">
+            <did>
+              <unittitle>Correspondence: Albert J. Evers and Louis Justement</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 November 03</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref35_duu" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948 January-July</unitdate>
+            <container id="aspace_164693a7d92c65b8eda80f085b0297ea" label="Mixed Materials [GW: 32882011707091]" type="Box">1</container>
+            <container id="aspace_d8a745b03ff01dd2350fc9f4d399b894" parent="aspace_164693a7d92c65b8eda80f085b0297ea" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_ldj" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948 August-December</unitdate>
+            <container id="aspace_269c6096d85b58371cf0fa3a49e5351d" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_285cca491bb507f19570baa0e3cf1c22" parent="aspace_269c6096d85b58371cf0fa3a49e5351d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_e4t" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949 January-1950 September</unitdate>
+            <container id="aspace_836f375d8851de29367d7b9acd1e3e65" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_d53f32921e0198762fa514dd769d1ff0" parent="aspace_836f375d8851de29367d7b9acd1e3e65" type="Folder">2</container>
+          </did>
+          <odd id="aspace_03aea5ff457dcaf1c3121a345c82ca14">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref41_5hp" level="item">
+            <did>
+              <unittitle>Correspondence: Douglas William Orr and George Cannon Young</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949 January 19</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref43_mp4" level="file">
+          <did>
+            <unittitle>Bills (Legislation)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e91633bf8f74489888bc38773f4dc427" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_28fadddb21c330688d9b3e449d914417" parent="aspace_e91633bf8f74489888bc38773f4dc427" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_m9x" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+            <container id="aspace_787e92aec52c8f9d4d8bda55e0eee098" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_26934ac5b506c7228101c9495e58b4a0" parent="aspace_787e92aec52c8f9d4d8bda55e0eee098" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_de5" level="file">
+          <did>
+            <unittitle>Minutes and Memos Atomic Age Architecture Committee</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_27499f7c9859d8d93b789bc8c1f3ffc4" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_07bca62e3ca14e309280d0f11533ec76" parent="aspace_27499f7c9859d8d93b789bc8c1f3ffc4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_bi5" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d62f100e0e169920e2368b26963af437" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_b0405e918c94d06c84c5433951bee289" parent="aspace_d62f100e0e169920e2368b26963af437" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_4kq" level="file">
+          <did>
+            <unittitle>Newsletters (various organizations)</unittitle>
+            <unitdate datechar="creation" normal="1947/1949" type="inclusive">1947-1949</unitdate>
+            <container id="aspace_842c5202de6c4debcaa69772f4913a5c" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_3ea2e34c5918cfe9a39f9d9efe16c59b" parent="aspace_842c5202de6c4debcaa69772f4913a5c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_4sq" level="file">
+          <did>
+            <unittitle>News Releases</unittitle>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container id="aspace_3b9bb48a6b165cca5b887acfe7f22965" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_d181baa49af4b943eccbeed7c79d5bdd" parent="aspace_3b9bb48a6b165cca5b887acfe7f22965" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_7af" level="file">
+          <did>
+            <unittitle>Programs and Reports</unittitle>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container id="aspace_d700da06cd4d3fa05500e0aace69514c" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_45651c5e603a025662848aefbe9f2e30" parent="aspace_d700da06cd4d3fa05500e0aace69514c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_nfq" level="file">
+          <did>
+            <unittitle>Statements</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_bf3c0d4de51c49700efc6d4c1e643549" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_c51497ae41efc0d4d586d7f7a9f19579" parent="aspace_bf3c0d4de51c49700efc6d4c1e643549" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_2y7" level="file">
+          <did>
+            <unittitle>Subject: Housing</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_decd68dc7d3f8af680a6d5bbf2c530cf" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_c0f145b02d3fefc7c49d2c378812db14" parent="aspace_decd68dc7d3f8af680a6d5bbf2c530cf" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_qbs" level="file">
+          <did>
+            <unittitle>Subject: Urban Slum</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1eff942eabb8bed062e9146c6dfd057d" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_bc8a561a6533fbf062f67ee573341c6e" parent="aspace_1eff942eabb8bed062e9146c6dfd057d" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref64_flj" level="series">
+        <did>
+          <unittitle>Interprofessional Urban Planning Committee</unittitle>
+          <unitid>MS2045 Series 3</unitid>
+          <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+          <physdesc id="aspace_b0acd0b544df0f4c9ecf8e333f09a7e1" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_2919c8708d512ef89e6c29ea319e9f89">
+          <head>Scope and Contents note</head>
+          <p>This series consists of correspondence related to Justement's work with the Interprofessional Urban Planning Committee. The material dates from 1946-49.</p>
+        </scopecontent>
+        <c id="aspace_ref66_br1" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_1d50343549e6d4ebb43c998122b59057" label="Mixed Materials [GW: 32882011707109]" type="Box">2</container>
+            <container id="aspace_c9d86d5cfdf0ee599a0c05e17f3dc8dc" parent="aspace_1d50343549e6d4ebb43c998122b59057" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_rqw" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1949" type="inclusive">1947 January-1949 January</unitdate>
+            <container id="aspace_06f8f3ff1d93b0376e09eea650d3396f" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_131c1225f11408b44c9b3f79922e6283" parent="aspace_06f8f3ff1d93b0376e09eea650d3396f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_wca" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948 March-1949 January</unitdate>
+            <container id="aspace_f2c7b21a9eaecb3c17cc3860a3e2305e" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_10dc51d95eec8ffbe775598f2567a2a2" parent="aspace_f2c7b21a9eaecb3c17cc3860a3e2305e" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref73_3mm" level="series">
+        <did>
+          <unittitle>Manuscript</unittitle>
+          <unitid>MS2045 Series 4</unitid>
+          <unitdate datechar="creation">undated</unitdate>
+          <physdesc id="aspace_086f52fc03f58b7be8a33b8a14d3b62d" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_43884fbaa686bc11ed5243ac3eabc240">
+          <head>Scope and Contents note</head>
+          <p>This series has a manuscript for the book "The Challenge of the City."</p>
+        </scopecontent>
+        <c id="aspace_ref75_9jc" level="file">
+          <did>
+            <unittitle>"The Challenge of the City"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ff0898e0426d11ef60b6a48b423c3222" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_53c1ebb8647b441692427ff967d2cc43" parent="aspace_ff0898e0426d11ef60b6a48b423c3222" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref78_e7z" level="series">
+        <did>
+          <unittitle>Patents</unittitle>
+          <unitid>MS2045 Series 5</unitid>
+          <unitdate datechar="creation">undated</unitdate>
+          <physdesc id="aspace_f49e86f9621d224d62c899f41e3475b5" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_acac053ad73b591df3d4810e5a957742">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence and patents. The correspondence is dated 1926.</p>
+        </scopecontent>
+        <c id="aspace_ref80_fjh" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_60ffa865546d4acfffd5085c630c77ef" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_7a683eef49bb898ee6f6a2c8c47c2847" parent="aspace_60ffa865546d4acfffd5085c630c77ef" type="Folder">4</container>
+          </did>
+          <odd id="aspace_fac6585f255af033ae2100bc7a8165a4">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref82_12n" level="item">
+            <did>
+              <unittitle>Correspondence: Commissioner of Patents</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref84_me2" level="file">
+          <did>
+            <unittitle>Patents</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_15a2e41deec61dcb9ea3645932d7c559" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_fd3092a830d866834206f3ec02d399e4" parent="aspace_15a2e41deec61dcb9ea3645932d7c559" type="Folder">5</container>
+          </did>
+          <odd id="aspace_185f3b882cd55dcb62efa8bbd858bdb0">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref86_b4r" level="item">
+            <did>
+              <unittitle>Correspondence: Commissioner of Patents and Louis Justement</unittitle>
+              <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926 October 07</unitdate>
+              <container id="aspace_ff3c4d270d77e87354378657c9243e9e" label="Mixed Materials [32882021596583]" type="Box">3</container>
+              <container id="aspace_5967d8411e1e5c80a7a6a765b02ba0bf" parent="aspace_ff3c4d270d77e87354378657c9243e9e" type="Folder">5 item 1</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref89_qwz" level="series">
+        <did>
+          <unittitle>Periodical and newspaper articles</unittitle>
+          <unitid>MS2045 Series 6</unitid>
+          <unitdate datechar="creation" normal="1946/1968" type="inclusive">1946-1968</unitdate>
+          <physdesc id="aspace_ff8c03b62154861c189a159152b78a82" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_ecd4b3e209b074a86051396458d83a47">
+          <head>Scope and Contents note</head>
+          <p>This series contains newspaper and periodical articles and scrapbooks. The material is dated 1946-68.</p>
+        </scopecontent>
+        <c id="aspace_ref91_hge" level="file">
+          <did>
+            <unittitle>Newspaper Articles</unittitle>
+            <unitdate datechar="creation" normal="1946/1952" type="inclusive">1946-1952</unitdate>
+            <container id="aspace_80b5beb9d731ea8e931e19b0a73ac166" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_33700ba733aa8def419e102f3e79dc6e" parent="aspace_80b5beb9d731ea8e931e19b0a73ac166" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_jvk" level="file">
+          <did>
+            <unittitle>Periodical Articles</unittitle>
+            <unitdate datechar="creation" normal="1946/1968" type="inclusive">1946-1968</unitdate>
+            <container id="aspace_6dd14abb44a56f00ec03204932a1cf21" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_f2a58e6397b5e9774c3b591e932e690d" parent="aspace_6dd14abb44a56f00ec03204932a1cf21" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_zjk" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dd24faa5276449c051600cb12b4443b9" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_2f887048ee6c26cb5a5c13e9e7396be4" parent="aspace_dd24faa5276449c051600cb12b4443b9" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref98_ypf" level="series">
+        <did>
+          <unittitle>Urban Renewal Council</unittitle>
+          <unitid>MS2045 Series 7</unitid>
+          <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+          <physdesc id="aspace_2d8e65b2090c38a547c2cef08769b5c8" label="General Physical Description note">0.25 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_29d811e41c28b41aec1a3bb5f15c2124">
+          <head>Scope and Contents note</head>
+          <p>This series contains correspondence related to Justement's work with the Urban Renewal Council. The material is dated from 1958-60.</p>
+        </scopecontent>
+        <c id="aspace_ref100_s6a" level="file">
+          <did>
+            <unittitle>Urban Renewal Council</unittitle>
+            <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container id="aspace_d12196a0e511ceb36f38227cb14fb582" label="Mixed Materials [32882021596583]" type="Box">3</container>
+            <container id="aspace_fb7495a185cf6dd229ff0ac645f2c18a" parent="aspace_d12196a0e511ceb36f38227cb14fb582" type="Folder">9</container>
+          </did>
+          <odd id="aspace_705e5adc7f82801ab7b24b5b45c1413f">
+            <head>General note</head>
+            <p>Selected items from this folder are described below. Please note that this is not a comprehensive list of materials within this folder.</p>
+          </odd>
+          <c id="aspace_ref102_6zo" level="item">
+            <did>
+              <unittitle>Proposal for Service to Displaced Families</unittitle>
+              <unitid>Item 1</unitid>
+              <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959 December 30</unitdate>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

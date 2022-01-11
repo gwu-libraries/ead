@@ -1,0 +1,2111 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="partially_processed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0064.xml">rg0064.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Office of the Comptroller records, <date calendar="gregorian" era="ce">1874-2002</date>
+ <num>RG0064</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:13 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Office of the Comptroller records</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">George Washington University. Office of the Comptroller</corpname>
+      </origination>
+      <unitid>RG0064</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">40 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1874/2002" type="inclusive">1874-2002</unitdate>
+      <abstract id="aspace_9dafcb596c4d2eab77315b44876a1c29">Collection includes quarterly appraisals of the university's securities, trust fund ledgers and journals, grants and contracts,schedules of financial statements and annual financial reports.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_e443c4417bcbe08b43ba1ebc924025f7">
+      <head>Preferred citation</head>
+      <p>Office of the Comptroller records, University Archives, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_ed8fc749573f433ce633641ac60fe8bc">
+      <head>Restrictions on Access</head>
+      <p>Series 2, 4, and 5 are closed to research for 50 years from date of record creation.</p>
+      <p>Access to student records is governed by the federal Family Educational Rights and Privacy Act (FERPA), which protects the privacy of student education records. Student records in Series 6 are closed for 100 years from date of record creation.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_dcea387b3b4a937de63777847dbf58c3">
+      <head>Acquisition Information</head>
+      <p>Materials acquired through transfers from the Office of the Comptroller.</p>
+    </acqinfo>
+    <userestrict id="aspace_42c045faff4c1294bc7fcdd3dac0af81">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_9ceb0915eb13342fb8f20de5709514f1">
+      <head>Historical or Biographical Note</head>
+      <p>The Comptroller's Office is responsible for management of the University's administrative financial operations which include the accounting, payroll, student accounts, grants and contracts, and administrative financial systems.</p>
+    </bioghist>
+    <scopecontent id="aspace_92d0d96d67362623a0032d49a9bcf766">
+      <head>Collection Scope and Content</head>
+      <p>Materials in the collection include quarterly appraisals of the university's securities, trust fund ledgers and journals, policies and procedures, general ledger funds, grants and contracts, application, loan, registrar forms, commencement materials, schedules of financial statements and annual financial reports (including departmental funds, building funds by name, square and lot number, endowment funds and sponsored research). The collection covers the years 1874 to 2002. Note: Not all series are processed. Ask staff for assistance.</p>
+    </scopecontent>
+    <arrangement id="aspace_afd976875308aec56e2a5a55a502678f">
+      <head>Collection Organization</head>
+      <p>Organized into eight series: Financial statements and annual financial reports; Trust fund ledgers and journals; Handbooks and records; Policies and procedures, general ledger funds; Grants and contracts; Application, loan, registrar forms, commencement materials; Quarterly appraisal of the university's securities; and University budget.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Endowments</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Contracts</subject>
+      <subject source="lcsh">Research grants</subject>
+      <subject source="lcsh">Financial statements</subject>
+      <subject source="lcsh">Budget</subject>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_ifa" level="series">
+        <did>
+          <unittitle>Financial statements and annual financial reports</unittitle>
+          <unitid>RG0064 Series 1</unitid>
+          <unitdate datechar="creation">1874-2002</unitdate>
+          <physdesc id="aspace_bccf81cef6dc726955972d63297fd50e" label="General Physical Description note">8 Linear feet</physdesc>
+          <container id="aspace_ce4c6fe18c91167a0083d6b49f28c07a" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+          <container id="aspace_2818896d5b2f7832db5e63ede28c1bdf" label="Mixed Materials [Series 1 GW: 32882018356363]" type="Box">3</container>
+          <container id="aspace_ff5291a9e790798bae426a07559009f3" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+          <container id="aspace_edb9d794727c3931d91f56dfcf59a8b5" label="Mixed Materials [Series 1 GW: 32882018356371]" type="Box">4</container>
+          <container id="aspace_08d5b9a9e7717feaa22bb1584a09298b" label="Mixed Materials [Series 1 GW: 32882018356389]" type="Box">5</container>
+          <container id="aspace_b44fe31610510a0184d4058ca18a6f66" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+          <container id="aspace_1fb8f2dcc08ae14969bd3b6507141904" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+          <container id="aspace_59e1820b5def1c578c1b53cb1564f609" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+          <container id="aspace_7b7ab6f3644bf96c4aebb7a183552b1a" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+        </did>
+        <scopecontent id="aspace_4c4bde06a7d76b336038d7e0c24d4e14">
+          <head>Scope and Contents note</head>
+          <p>This series includes schedules of financial statements and annual financial reports (including departmental funds; building funds by name, square and lot number; endowment funds, and sponsored research). They date from 1874-2002.</p>
+          <p>Formerly ACC#44.</p>
+        </scopecontent>
+        <c id="aspace_ref13_gv0" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1876-1892</unitdate>
+            <container id="aspace_22b169346e99a2edb5f9d72b878b9ff0" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_db4a2823831a4732e3e9e6efd3aabd32" parent="aspace_22b169346e99a2edb5f9d72b878b9ff0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14_ezr" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1893-1902</unitdate>
+            <container id="aspace_74b474b0bfd0f26b04dc08d721b57c0b" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_4bcc4a2d19a20e7a8269a37c7c85b76e" parent="aspace_74b474b0bfd0f26b04dc08d721b57c0b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15_5zg" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1903-1912</unitdate>
+            <container id="aspace_3f2ad3a31f29373703def763158a3b65" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_24dae8e539813c25a85c83c751c7c194" parent="aspace_3f2ad3a31f29373703def763158a3b65" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_q22" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1913-1919</unitdate>
+            <container id="aspace_1e52025a06741dfed8b3fd643381a3f3" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_fe0d66c3e686ea18704372ee9b31ff15" parent="aspace_1e52025a06741dfed8b3fd643381a3f3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_1d6" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1920-1926</unitdate>
+            <container id="aspace_2c50dee87bc44056c8b5dac7af682d2f" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_a152f8cdf2247b02541473cfbd6731b4" parent="aspace_2c50dee87bc44056c8b5dac7af682d2f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_dw2" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1927-1935</unitdate>
+            <container id="aspace_f7446345bd7d345f87bb0294686c02b1" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_cb5dba14b7dc83b6f45693d9fa86913a" parent="aspace_f7446345bd7d345f87bb0294686c02b1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_vul" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1936-1942</unitdate>
+            <container id="aspace_3167000fa080db53549637d37b7c8540" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_f9df96a64611b7680e01ca94c6e53e7a" parent="aspace_3167000fa080db53549637d37b7c8540" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_75u" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1943-1947</unitdate>
+            <container id="aspace_6ebe9b30a9b6f52a725ed56121e2a6d6" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_7fc3d53dfcea1e22b7dffe40820ee683" parent="aspace_6ebe9b30a9b6f52a725ed56121e2a6d6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_yam" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1948-1952</unitdate>
+            <container id="aspace_d85d4d987aa1bd58c0f10778f7c09b41" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_81e5e9c160d2704203e92b32408d24d7" parent="aspace_d85d4d987aa1bd58c0f10778f7c09b41" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_f7z" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1953-1956</unitdate>
+            <container id="aspace_b22f759bb8288a0aa527837c760c719a" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_d76b16e2c1b48f026570051a2ff29d8d" parent="aspace_b22f759bb8288a0aa527837c760c719a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_7xl" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1957-1960</unitdate>
+            <container id="aspace_52183bb463ae86cf1b1daf95819622a6" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_8bf1b60819f5e7e18cf86db93445663f" parent="aspace_52183bb463ae86cf1b1daf95819622a6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_qym" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1961-1964</unitdate>
+            <container id="aspace_2417cf51e8f02c6a83d76990f9a2e0b0" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_e9412f0e80c6aeff16b3799cc386d7ff" parent="aspace_2417cf51e8f02c6a83d76990f9a2e0b0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_67f" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1965-1968</unitdate>
+            <container id="aspace_a899c261930d3faaa643d830e3f8ddcf" label="Mixed Materials [Series 1 GW: 32882018356090]" type="Box">1</container>
+            <container id="aspace_f810fecd61e22c048a0b201699e02097" parent="aspace_a899c261930d3faaa643d830e3f8ddcf" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_20o" level="file">
+          <did>
+            <unittitle>Report of the Treasurer - The George Washington University</unittitle>
+            <unitdate datechar="creation">1969-1971</unitdate>
+            <container id="aspace_5ca7ede4cd27ab97e3a60d29da046709" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_cd1740e010b7d8c9e521ab675ef77cde" parent="aspace_5ca7ede4cd27ab97e3a60d29da046709" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_5sj" level="file">
+          <did>
+            <unittitle>Annual Report - The George Washington University</unittitle>
+            <unitdate datechar="creation">1972-1974</unitdate>
+            <container id="aspace_c9fc32d14df4eae94c051767c729c569" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_1e6cded54ac91859163ddd17e6e76c1d" parent="aspace_c9fc32d14df4eae94c051767c729c569" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_a5b" level="file">
+          <did>
+            <unittitle>Annual Report - The George Washington University</unittitle>
+            <unitdate datechar="creation">1975-1977</unitdate>
+            <container id="aspace_29ef15a793f582b4274266da86404f0d" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_f3fdae007385358a4b23f94c300e0dd6" parent="aspace_29ef15a793f582b4274266da86404f0d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_dk3" level="file">
+          <did>
+            <unittitle>Annual Report - The George Washington University</unittitle>
+            <unitdate datechar="creation">1978-1980</unitdate>
+            <container id="aspace_a3c9bd23df97baf973c7cbe7d9e0b967" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_f9528e06d09d9cedea580ccf8bf88706" parent="aspace_a3c9bd23df97baf973c7cbe7d9e0b967" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_ff6" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_17a05b30d3bea987af7186444f502ddb" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_76836890f805f77b083c47c6b4067ccb" parent="aspace_17a05b30d3bea987af7186444f502ddb" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_i22" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_9b24e54559c8711a8fc031759351d494" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_67cbe9a289873e68a40b2ce7432f3d31" parent="aspace_9b24e54559c8711a8fc031759351d494" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref32_ynn" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_716ea62631f150168c561c00ecfefb80" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_3289f9985392d87ad74a86b2199cda75" parent="aspace_716ea62631f150168c561c00ecfefb80" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_h9i" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_effebf98de4adf41effd1621573974df" label="Mixed Materials [Series 1 GW: 32882018356355]" type="Box">2</container>
+            <container id="aspace_4eb23cb1bdcb7e2914bb822e86c24a1a" parent="aspace_effebf98de4adf41effd1621573974df" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_b70" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1984-1986</unitdate>
+            <container id="aspace_c467cb0605c86aafbf65c10b80e93768" label="Mixed Materials [Series 1 GW: 32882018356363]" type="Box">3</container>
+            <container id="aspace_552993d1155fede529168f1eafb7e609" parent="aspace_c467cb0605c86aafbf65c10b80e93768" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_3dt" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_a2523377ee6425c33200e5d4055d9fda" label="Mixed Materials [Series 1 GW: 32882018356363]" type="Box">3</container>
+            <container id="aspace_1f8ba20f60a5b55f03451cec331ef00c" parent="aspace_a2523377ee6425c33200e5d4055d9fda" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_ug5" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_9c9ae01810ae70edea92bee2e7f04442" label="Mixed Materials [Series 1 GW: 32882018356363]" type="Box">3</container>
+            <container id="aspace_f1425eb963f10c3b01d925d456e56ee2" parent="aspace_9c9ae01810ae70edea92bee2e7f04442" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_dec" level="file">
+          <did>
+            <unittitle>The George Washington University Annual Report</unittitle>
+            <unitdate datechar="creation">1987-1989</unitdate>
+            <container id="aspace_64479be166b90aaa28fe3680a45e2f94" label="Mixed Materials [Series 1 GW: 32882018356363]" type="Box">3</container>
+            <container id="aspace_36178d663f70ce30837e4c39811ce3e0" parent="aspace_64479be166b90aaa28fe3680a45e2f94" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_o2i" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1990</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_af8ff91004b050fb6e5021267036652f" label="Mixed Materials [Series 1 GW: 32882018356371]" type="Box">4</container>
+            <container id="aspace_59e8706ee64da321e789ce6b0112d46c" parent="aspace_af8ff91004b050fb6e5021267036652f" type="Folder">1</container>
+          </did>
+          <odd id="aspace_e1cdd8c035d62a346043c652125aeab0">
+            <head>General note</head>
+            <p>2 Copies</p>
+          </odd>
+        </c>
+        <c id="aspace_ref40_hms" level="file">
+          <did>
+            <unittitle>The George Washington University Financial Report</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_0ea61d9cd455b99a3bd2ef22ec57f1d6" label="Mixed Materials [Series 1 GW: 32882018356371]" type="Box">4</container>
+            <container id="aspace_d3cc2fb05b16187ecd90a2f31e5d411a" parent="aspace_0ea61d9cd455b99a3bd2ef22ec57f1d6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_srs" level="file">
+          <did>
+            <unittitle>The George Washington University Financial Report</unittitle>
+            <unitdate datechar="creation">1990-1991</unitdate>
+            <container id="aspace_e4845fb301dd221a1536b302f7ddc7af" label="Mixed Materials [Series 1 GW: 32882018356371]" type="Box">4</container>
+            <container id="aspace_72740e6e4be5d3894c592413962a62dd" parent="aspace_e4845fb301dd221a1536b302f7ddc7af" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_odo" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1991</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_9dae3407f21c6fe8c1daa957e3c9f786" label="Mixed Materials [Series 1 GW: 32882018356371]" type="Box">4</container>
+            <container id="aspace_b6ad1d40beda216c2875a565d187e5d5" parent="aspace_9dae3407f21c6fe8c1daa957e3c9f786" type="Folder">4</container>
+          </did>
+          <odd id="aspace_5a656fa7b2da8567b6256666797e0888">
+            <head>General note</head>
+            <p>2 Copies</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44_c90" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1992</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_fa43f2cb974dbeb5d1aa5be123eb36f7" label="Mixed Materials [Series 1 GW: 32882018356389]" type="Box">5</container>
+            <container id="aspace_465088833225a0cfc76cbe9ca4fc5b46" parent="aspace_fa43f2cb974dbeb5d1aa5be123eb36f7" type="Folder">1</container>
+          </did>
+          <odd id="aspace_b148f19ff5d1c4274fffb7ac3d5a35d0">
+            <head>General note</head>
+            <p>2 Copies; also Includes 1991-1992 Finacial Report</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46_l4u" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1993</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_86a609ef897c54939783cd5a4292c375" label="Mixed Materials [Series 1 GW: 32882018356389]" type="Box">5</container>
+            <container id="aspace_5197536e99dd355e846d2c170350f12c" parent="aspace_86a609ef897c54939783cd5a4292c375" type="Folder">2</container>
+          </did>
+          <odd id="aspace_5288e27f08104db933f98b296e5a3aab">
+            <head>General note</head>
+            <p>2 Copies; also Includes 1992-1993 Financial Report</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48_w3l" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1994</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_7bc84a01b0bac50062ae833de2a6955b" label="Mixed Materials [Series 1 GW: 32882018356389]" type="Box">5</container>
+            <container id="aspace_1bbaa8d590ce170ef56c856cf965ff8f" parent="aspace_7bc84a01b0bac50062ae833de2a6955b" type="Folder">3</container>
+          </did>
+          <odd id="aspace_933b6a210a363fad6fb21c230321f15d">
+            <head>General note</head>
+            <p>Also includes 1993-1994 Finacial Report</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50_guo" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1994</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_d61a9529a36cc8ab13f803deb14ab23a" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+            <container id="aspace_dac1efc7434a08d3d812ddcffaeb16be" parent="aspace_d61a9529a36cc8ab13f803deb14ab23a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_91y" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1995</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_fc307d94e6ab51eb33713a2d25f3ec0c" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+            <container id="aspace_01524e1394a089da96bddbcd781f1747" parent="aspace_fc307d94e6ab51eb33713a2d25f3ec0c" type="Folder">2</container>
+          </did>
+          <odd id="aspace_3e224965de9069cefa6bae3342d1e999">
+            <head>General note</head>
+            <p>2 copies; also includes University Financial Reports 1994-1995</p>
+          </odd>
+        </c>
+        <c id="aspace_ref53_k87" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Finacial Statements For the year ended June 30, 1996</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_aface50198591233a4c47c68e57180e8" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+            <container id="aspace_80f5fb1b5c43b5f4d50363467bd9b68a" parent="aspace_aface50198591233a4c47c68e57180e8" type="Folder">3</container>
+          </did>
+          <odd id="aspace_0c94fdba6d420e3e2bf7ceeeaec7ed13">
+            <head>General note</head>
+            <p>Also includes Financial Reports 1995-1996</p>
+          </odd>
+        </c>
+        <c id="aspace_ref55_t36" level="file">
+          <did>
+            <unittitle>Financial Report</unittitle>
+            <unitdate datechar="creation">1996-1997</unitdate>
+            <container id="aspace_f337fe4875ed20ae092a5f3b08fed7bb" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+            <container id="aspace_300a7a0b2e18bdc846e25ef0493b5214" parent="aspace_f337fe4875ed20ae092a5f3b08fed7bb" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_b1p" level="file">
+          <did>
+            <unittitle>Financial Report</unittitle>
+            <unitdate datechar="creation">1997-1998</unitdate>
+            <container id="aspace_024674d32f26c137f1c1461671faf055" label="Mixed Materials [Series 1 GW: 32882018356199]" type="Box">6</container>
+            <container id="aspace_c07a5fe41341a5873fd700bd3198e2d0" parent="aspace_024674d32f26c137f1c1461671faf055" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_e1t" level="file">
+          <did>
+            <unittitle>Financial Report</unittitle>
+            <unitdate datechar="creation">1998-1999</unitdate>
+            <container id="aspace_5089562ae111c48f27820abc0b4a1c59" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_3ec6c802355e15f961a9a53a9a3b0c72" parent="aspace_5089562ae111c48f27820abc0b4a1c59" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_hw0" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the year ended June 30, 1999</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_5378ed2f74643d218b89a089bbf89a80" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_3cfbcafa2bc240937b635338c1e670ac" parent="aspace_5378ed2f74643d218b89a089bbf89a80" type="Folder">2</container>
+          </did>
+          <odd id="aspace_635841ab668169b93522272a0970abe0">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref60_fpl" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the year ended June 30, 1999</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_3fc489118205378ee1e913d8dada84ba" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_48d195544dfee625a0102275a0ff165f" parent="aspace_3fc489118205378ee1e913d8dada84ba" type="Folder">3</container>
+          </did>
+          <odd id="aspace_22d1490c926a21f235201162c3fdb721">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref62_fhq" level="file">
+          <did>
+            <unittitle>Financial Report</unittitle>
+            <unitdate datechar="creation">1999-2000</unitdate>
+            <container id="aspace_c0c4a03a312e917fac535fe5533b1c80" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_358018f422ff73bbb8f56aa83918331c" parent="aspace_c0c4a03a312e917fac535fe5533b1c80" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_qjg" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statement For the year ended June 30, 2000</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_571b869e32946beb3ff1b376e87a63b6" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_c7618093b7b94cce1c90e33cd0c5c9aa" parent="aspace_571b869e32946beb3ff1b376e87a63b6" type="Folder">5</container>
+          </did>
+          <odd id="aspace_507a3570b6117c8f0aa34471c3ba3384">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref65_fd2" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statement For the year ended June 30, 2000</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_54cc885c330e5748cc9dcd5b25577fa8" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_a2c272335edeede638ef0485c92df3c9" parent="aspace_54cc885c330e5748cc9dcd5b25577fa8" type="Folder">6</container>
+          </did>
+          <odd id="aspace_ec8c5e0a67842098e7a6518001b3a712">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_136303d7e6add0a066b4853d10621ce1" level="file">
+          <did>
+            <unittitle>Financial Report</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+            <container id="aspace_ef4429638758efe6ea244064fbd6262c" label="Mixed Materials [Series 1 GW: 32882018356207]" type="Box">7</container>
+            <container id="aspace_d233eba2465a97d44778d5977aca3ff1" parent="aspace_ef4429638758efe6ea244064fbd6262c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_o0n" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1981</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_2052e8a1a6d3a037d35d61bf0a5254d0" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_b9ac9523f78ff6d9fc49f1a804fc7cbb" parent="aspace_2052e8a1a6d3a037d35d61bf0a5254d0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_ioh" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1982</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_b2b1b7aa2e705383ab3f64559c42c524" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_55cdb7196d48186c7f7259d04eea2893" parent="aspace_b2b1b7aa2e705383ab3f64559c42c524" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_76p" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1983</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_1fbc3584681f0f474b233b3ea3a35a04" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_44e55e30b144046784371ff06955c03e" parent="aspace_1fbc3584681f0f474b233b3ea3a35a04" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_qsx" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1984</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_ba0000d590a1b21cc7b8a83b14d7443f" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_b23e6e7107765b951c43aadc57501dc3" parent="aspace_ba0000d590a1b21cc7b8a83b14d7443f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_vuj" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1986</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_4fe4e99d91b2bbfc68c2b91811f914a4" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_c3ec6a3aa206699b8e810c03efa12c8f" parent="aspace_4fe4e99d91b2bbfc68c2b91811f914a4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_z48" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1994</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_d0d73c6da24afd78631f2578f0d65f8b" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_9c36f204ac9e23169fe973b7fe65f8a0" parent="aspace_d0d73c6da24afd78631f2578f0d65f8b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_g62" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1995</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_eb95d5db36854ea81d86f9b1f6a4ba7c" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_45e65d3b55f5f6efeafedd58d02f9560" parent="aspace_eb95d5db36854ea81d86f9b1f6a4ba7c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_vco" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1996</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_ae8714d22249507fdc53c3575ccd5ac0" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_0f04ffa610e0c4d965dcf9ec0e8ff1fe" parent="aspace_ae8714d22249507fdc53c3575ccd5ac0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_4d8" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1997</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_562a893ad6f0743decab89d46c0546c0" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_88107297d753d8409ff81d55beef1206" parent="aspace_562a893ad6f0743decab89d46c0546c0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_c9j" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1998</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_35e2972058a318b9341f972df46b1de7" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_1c62a64d13df1c776efb3c090bbfe0fd" parent="aspace_35e2972058a318b9341f972df46b1de7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_s7c" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1999</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_dacd2429f23aa250ffe25230c207d978" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_a5f28c6e4a08f52cdd3dd3287014d53e" parent="aspace_dacd2429f23aa250ffe25230c207d978" type="Folder">11</container>
+          </did>
+          <odd id="aspace_bbed05fec07f293387b98adf5de1b1ed">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref79_jjv" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 1999</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_d407fdecd89db22ab3c85b0d702418ce" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_b2a92938d5bfa26ca2f47e21028c0a21" parent="aspace_d407fdecd89db22ab3c85b0d702418ce" type="Folder">12</container>
+          </did>
+          <odd id="aspace_35762866a47595ba2aac66c43419d94d">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref81_clq" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2000</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_bef232b5d3d735969072c16f6f54a094" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_d46b98e2a2f8bf3928c6cc116f4cc4f9" parent="aspace_bef232b5d3d735969072c16f6f54a094" type="Folder">13</container>
+          </did>
+          <odd id="aspace_f65d92cc30e792665be95ccc4cf2d636">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref83_qgu" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2000</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_79f109686c92798bd5a9c073712ae7c6" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_ecaff3a1c9b0ee417c1996b23644d560" parent="aspace_79f109686c92798bd5a9c073712ae7c6" type="Folder">14</container>
+          </did>
+          <odd id="aspace_a7753cd5bc2b4e8b180f0a22fcf16085">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref85_clo" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2001</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_2c314d68fb1aef1b72eb65d01d874e9f" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_28b20964f7dd9a5b67663a97f370240e" parent="aspace_2c314d68fb1aef1b72eb65d01d874e9f" type="Folder">15</container>
+          </did>
+          <odd id="aspace_6d77d5bacf865a26afce7cd0b2a10c72">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref87_0qg" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2001</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_b1b6af68b2d25ebd53c39e6f8a1eea3e" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_4a6c1f7fdf2eef556ce6ac4d4b842408" parent="aspace_b1b6af68b2d25ebd53c39e6f8a1eea3e" type="Folder">16</container>
+          </did>
+          <odd id="aspace_cd27254de8b6fdfed526144807cd0ae6">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref89_s4g" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2002</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_3201700d65b2e4f2fbf9457cfe716d72" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_1e03b0f0b07ad83057f0cae6fd341e8e" parent="aspace_3201700d65b2e4f2fbf9457cfe716d72" type="Folder">17</container>
+          </did>
+          <odd id="aspace_8d07c8694f440ee8b32e837092840509">
+            <head>General note</head>
+            <p>Volume 1 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref91_zga" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules to the Financial Statements For the Year Ended June 30, 2002</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_1e036ecf2dc8e257a8e4aeeed7d97e83" label="Mixed Materials [Series 1 GW: 32882020269794]" type="Box">8</container>
+            <container id="aspace_6e35e3f96a3cef3c7754d71e065dee97" parent="aspace_1e036ecf2dc8e257a8e4aeeed7d97e83" type="Folder">18</container>
+          </did>
+          <odd id="aspace_8078db25ca57e1dbbea7ae21562b096d">
+            <head>General note</head>
+            <p>Volume 2 of 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref93_xsl" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1876-1892</unitdate>
+            <container id="aspace_1e413b21e937e83c5ba99d51c9470239" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_4de3156c97b966832aec1050b3690b52" parent="aspace_1e413b21e937e83c5ba99d51c9470239" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_erw" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1893-1902</unitdate>
+            <container id="aspace_0263d26f4760fdda69abb3fc9ce393c8" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_04a6ec57fb8e9b529e26d9e96a22e91c" parent="aspace_0263d26f4760fdda69abb3fc9ce393c8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_m8n" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1903-1912</unitdate>
+            <container id="aspace_0ed1dd08efa95f7617ffc1e2b8843d2d" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_cad529488d469402d741a4bd4c2cba86" parent="aspace_0ed1dd08efa95f7617ffc1e2b8843d2d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_4s5" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1913-1919</unitdate>
+            <container id="aspace_5e93f019c1297dbe068f23bbe2f4cba7" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_f07c1f13bde0b5d9301d4af30a2f3895" parent="aspace_5e93f019c1297dbe068f23bbe2f4cba7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_s0y" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1920-1926</unitdate>
+            <container id="aspace_369a02e041a6714c3622ed45ef6ea662" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_e05eb892edc403e1ded8a0a3018a3e07" parent="aspace_369a02e041a6714c3622ed45ef6ea662" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_iif" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer</unittitle>
+            <unitdate datechar="creation">1936-1942</unitdate>
+            <container id="aspace_e6c33c5329802594c3f59468d548ab32" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_3e4a4fca0b91ef314f21bc29d46ca9cb" parent="aspace_e6c33c5329802594c3f59468d548ab32" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_w6z" level="file">
+          <did>
+            <unittitle>The George Washington University Reports of the Treasurer for the months ended June 30, 1966</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container id="aspace_de2943913020136279d40956006fe7d0" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_6712b44b1256f3b58822252bbd942a93" parent="aspace_de2943913020136279d40956006fe7d0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_e3z" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Reports of the Treasurer for the months ended June 30, 1967</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_b5355d19058089d700e0c66df2c5ab0f" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_a2cb321e0b5029b074b351a05d2a89cb" parent="aspace_b5355d19058089d700e0c66df2c5ab0f" type="Folder">8</container>
+          </did>
+          <odd id="aspace_cd60adf638df282d775d00761fed295b">
+            <head>General note</head>
+            <p>Also includes 1967 Financial Report of the Treasurer</p>
+          </odd>
+        </c>
+        <c id="aspace_ref102_y79" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Reports of the Treasurer for the months ended June 30, 1968</unittitle>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_e1ffc3ffbefd523b5944c325008123e4" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_1699fc1aeaa909d27f67834d6ae24bec" parent="aspace_e1ffc3ffbefd523b5944c325008123e4" type="Folder">9</container>
+          </did>
+          <odd id="aspace_6e78aa10f1157b98c67d0e449b2b930d">
+            <head>General note</head>
+            <p>Also includes 1968 Financial Report of the Treasurer</p>
+          </odd>
+        </c>
+        <c id="aspace_ref104_moi" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1969</unittitle>
+            <unitdate datechar="creation">1969</unitdate>
+            <container id="aspace_8783fc777dd4434de10245f45bd40bcb" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_6ba18801624d16f83e81d3e0957fd005" parent="aspace_8783fc777dd4434de10245f45bd40bcb" type="Folder">10</container>
+          </did>
+          <odd id="aspace_f5388cc0dd1de78a3c65ff0562a8b689">
+            <head>General note</head>
+            <p>Also includes 1969 Financial Report of the Treasurer</p>
+          </odd>
+        </c>
+        <c id="aspace_ref106_bsk" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1970</unittitle>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_347d8bf803337129aa7d87269fe93549" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_a3acaee932e3ea623c8a5b1e991e8156" parent="aspace_347d8bf803337129aa7d87269fe93549" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_n12" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1971</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_74af37ae70c7e92bfd18b4e6261c3159" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_67157bc1495fc6a3b8ccadc05cc6fbb0" parent="aspace_74af37ae70c7e92bfd18b4e6261c3159" type="Folder">12</container>
+          </did>
+          <odd id="aspace_4e24f37b4ec1ed380272271f78de7dfd">
+            <head>General note</head>
+            <p>Also includes 1971 Financial Report of the Treasurer</p>
+          </odd>
+        </c>
+        <c id="aspace_ref109_67l" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1972</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_51d6b3b8b96c9554ac73553827aa01c3" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_69587d55919f37193d13f83d4a843905" parent="aspace_51d6b3b8b96c9554ac73553827aa01c3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_lde" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1973</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_9809d708fb1ff5196582aaf0cd091283" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_6621f3e0a9b3be2d02978338bb73c747" parent="aspace_9809d708fb1ff5196582aaf0cd091283" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_cf7" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1974</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_f48e151803c47b83d68ab5b5b493d237" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_e8618da27a8184c5e905c06a7c1560ba" parent="aspace_f48e151803c47b83d68ab5b5b493d237" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_6i6" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1975</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_fefc61b490b90ee47c42003632136e3e" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_f18b7e78c429384dccdf7484c56225c8" parent="aspace_fefc61b490b90ee47c42003632136e3e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_qxd" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1976</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_0bb6d13d32f7e71df434bad27ecbb6c7" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_7d9a7e56a683de982060939e644374ce" parent="aspace_0bb6d13d32f7e71df434bad27ecbb6c7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_mkp" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1978</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_88cc56e09058cfd3c1726daef61b03d7" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_95178c2981a16e5786649f4396613439" parent="aspace_88cc56e09058cfd3c1726daef61b03d7" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref115_q3f" level="file">
+          <did>
+            <unittitle>The George Washington University Schedules Report of the Treasurer for the months ended June 30, 1980</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_711ce59c7ee49ff898f2beacc7e89699" label="Mixed Materials [Series 1 GW: 32882015250841]" type="Box">9</container>
+            <container id="aspace_abf981067c05d8f0ce47ae9459e32ec5" parent="aspace_711ce59c7ee49ff898f2beacc7e89699" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_76127174b858ce05939878513eed70d6" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Procedures</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">April - October, 1973</unitdate>
+            <abstract id="aspace_c3b3b94e2f923b314cfebfff00e882cf">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted in April and October, 1973, respectively. Originally filed under Acc. #855. Documents have been rehoused from there original binder.</abstract>
+            <container id="aspace_f1188262956399c742485abd51d2003b" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_ca45cd56c7644aad8ddc7e94b4870c27" parent="aspace_f1188262956399c742485abd51d2003b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_128033363be368bfd714209091a32c3a" level="file">
+          <did>
+            <unittitle>Price Waterhouse  and Co. Audits</unittitle>
+            <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+            <abstract id="aspace_223231dfa963f002a6c228286ae9798f">Various files related to audits performed by Price Waterhouse and Co. on behalf of The George Washington Unviersity during the fiscal year of 1973. Includes various proposals and recommendations regarding the university's handlings of various government aid programs. Files rehoused from a binder originally titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_f3b7f4a10945da8dc093433327825a88" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_4d1763ff63d1188d401b08986a10e401" parent="aspace_f3b7f4a10945da8dc093433327825a88" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_22d047c132c79995ac23015198de048a" level="file">
+          <did>
+            <unittitle>Letter Regarding 1974 Financial Statements</unittitle>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <abstract id="aspace_7d26fe7a4097dbc43a1c674caf107218">Contains letter to Comptroller Frederick J. Narramore regarding financial statements for the 1973-74 fiscal year. Letter was rehoused from a binder originally titled "Management Letters." Originally catalogued under Acc. #855, #16.</abstract>
+            <container id="aspace_f57394129cd66c7c70fe9ec360d3b358" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_a9f2ef4268d706aac749c4efcb77e486" parent="aspace_f57394129cd66c7c70fe9ec360d3b358" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_a38c77a6a07729390eb9803411a166a6" level="file">
+          <did>
+            <unittitle>1975 Fiscal Year Letters</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-76</unitdate>
+            <abstract id="aspace_a1ccc74750a6d407e3c62ec089670b08">Series of letters regarding audits and reports created by Price Waterhouse and Co. prepared for The George Washington University. Most particularly address recommendations made for George Washington University's Medical Center. Files were rehoused from a binder originally titled "Management Letters" and cataloged under Acc.#855, #16.</abstract>
+            <container id="aspace_32e7b55a4659b1b33b2619ac0ce0cb52" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_9239d76344472e120948457b02e99cb4" parent="aspace_32e7b55a4659b1b33b2619ac0ce0cb52" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ed1a5a0db8a01ec4dbfb0d66f68a4e42" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Procedures</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">November, 1977</unitdate>
+            <abstract id="aspace_abf2e1797e9e3e5e324c121f5900de7c">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on November 1, 1977. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_837ba8c9582697b0205a3c1fe66a7ab5" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_ddf960adba791c10abe40460865bcc12" parent="aspace_837ba8c9582697b0205a3c1fe66a7ab5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ba17406f1f38c0e43de39570b5e4e926" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Procedures</unittitle>
+            <unitdate datechar="creation" normal="1978/1978">October, 1978</unitdate>
+            <abstract id="aspace_5bcfe13ab97e59c5f0897481a867e332">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on October 20, 1978. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_e4e9b9e77b15503ae9d069aac8d870b5" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_51a4da7e85caf1670c9a54d2e4f9aebd" parent="aspace_e4e9b9e77b15503ae9d069aac8d870b5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_6321a24e34c299c079da65c273f61bd8" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Procedures</unittitle>
+            <unitdate datechar="creation" normal="1979/1979">August, 1979</unitdate>
+            <abstract id="aspace_7e3c2ab4b9a516db4dbd25c5368ba689">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on August 2, 1979. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_a279961d7b249df424cabb2d79158c51" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_3a38688fd763720eb6694ba2445a7beb" parent="aspace_a279961d7b249df424cabb2d79158c51" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e0aa393f6b8d52eaa4b18bc7e7991ef3" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Administrative Efficiency</unittitle>
+            <unitdate datechar="creation" normal="1980/1980">September, 1980</unitdate>
+            <abstract id="aspace_ca71ebfa87e6457ff4bc35f0fd6e6c03">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on September 2, 1980. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_e15d1c797c8f46a078aff0696651e7fc" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_5bad0644462870a40dfa50383ca66e31" parent="aspace_e15d1c797c8f46a078aff0696651e7fc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e6f9a6862f03be545f01ece542a7fef1" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Administrative Efficiency</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">September, 1981</unitdate>
+            <abstract id="aspace_0a327f1dd48d4f079b336e0d97d4d190">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on September 11, 1981. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_982fba9b9ab22a202b8bd17cad8209be" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_1a402e8c28a3e210c9ce147ecf5a1022" parent="aspace_982fba9b9ab22a202b8bd17cad8209be" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_431c067f0e1b391d491f774dc46bc113" level="file">
+          <did>
+            <unittitle>Recommendations for Improvement in Internal Accounting Controls and Administrative Efficiency</unittitle>
+            <unitdate datechar="creation" normal="1982/1982">September, 1982</unitdate>
+            <abstract id="aspace_aebd36368fe9dfffbc6b223335b278df">These reports were prepared for and submitted to the GW University Office of the Comptroller by Price Waterhouse and Co. Includes two seperate reports submitted on September 13, 1982. Rehoused from original binder, titled "Management Letters" and cataloged under Acc. #855, #16.</abstract>
+            <container id="aspace_d308b153e9ed93675fe20976d42b1fa2" label="Mixed Materials [32882022366127]" type="Box">10</container>
+            <container id="aspace_50ccf2d40ce2abf8ec5987ebaa692194" parent="aspace_d308b153e9ed93675fe20976d42b1fa2" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref117_04p" level="series">
+        <did>
+          <unittitle>Trust fund ledgers and journals</unittitle>
+          <unitid>RG0064 Series 2</unitid>
+          <unitdate datechar="creation">ca. 1920-1986</unitdate>
+          <physdesc id="aspace_beeaaa01744ab4031f24aa6949ab7def" label="General Physical Description note">13.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_f432824ecbdf9d4df85a05bd9aea9864">
+          <head>Scope and Contents note</head>
+          <p>This series contains trust fund ledgers and journals from ca. 1920-86. Ledgers and journals prior to 1950 are not restricted.</p>
+        </scopecontent>
+        <c id="aspace_ref119_j0x" level="file">
+          <did>
+            <unittitle>Trust Funds: General Journal</unittitle>
+            <unitdate datechar="creation">07/01/1967-12/16/1976</unitdate>
+            <container id="aspace_082912d864126d3d372dfec0d83ad689" label="Mixed Materials [aspace.332387.Box.1]" type="Box">1</container>
+            <container id="aspace_6bfe1e654048d0d96ce8ef7a078e1b03" parent="aspace_082912d864126d3d372dfec0d83ad689" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_rhl" level="file">
+          <did>
+            <unittitle>Trust Funds: Assets</unittitle>
+            <unitdate datechar="creation">1980 ca.</unitdate>
+            <container id="aspace_2c3b6fcce5d0049a313670cc31ca6e3c" label="Mixed Materials [aspace.332387.Box.1]" type="Box">1</container>
+            <container id="aspace_40027cf9fcb5e78b8d2f0f19905df87c" parent="aspace_2c3b6fcce5d0049a313670cc31ca6e3c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref121_r4n" level="file">
+          <did>
+            <unittitle>Trust Funds: Assets</unittitle>
+            <unitdate datechar="creation">1970 ca.</unitdate>
+            <container id="aspace_a36d0c1d7738bbb00475981487f22ad7" label="Mixed Materials [aspace.332387.Box.1]" type="Box">1</container>
+            <container id="aspace_4f8100271d29fea0d6a8f3f4022c3d68" parent="aspace_a36d0c1d7738bbb00475981487f22ad7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref122_iok" level="file">
+          <did>
+            <unittitle>Endowment And Loan Funds Ledger</unittitle>
+            <unitdate datechar="creation">1960-1980</unitdate>
+            <container id="aspace_11fe5cd479bf170d498aa213685425b3" label="Mixed Materials [aspace.332387.Box.2]" type="Box">2</container>
+            <container id="aspace_82731c08e8f33f5119644d7ba9d582d9" parent="aspace_11fe5cd479bf170d498aa213685425b3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref123_67z" level="file">
+          <did>
+            <unittitle>Trust Funds General Journal</unittitle>
+            <unitdate datechar="creation">11/27/1979-09/24/1981</unitdate>
+            <container id="aspace_2361328e92dace311e19088ef7121ab2" label="Mixed Materials [aspace.332387.Box.2]" type="Box">2</container>
+            <container id="aspace_0f63555f25ae265ed5a68e4112056012" parent="aspace_2361328e92dace311e19088ef7121ab2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref124_kjx" level="file">
+          <did>
+            <unittitle>Trust Funds General Journal</unittitle>
+            <unitdate datechar="creation">09/24/1981-05/31/1983</unitdate>
+            <container id="aspace_cfbb922caee3bb634bd955a81c1ff209" label="Mixed Materials [aspace.332387.Box.2]" type="Box">2</container>
+            <container id="aspace_fa33ac3c2a0e73d330acd757a83753a8" parent="aspace_cfbb922caee3bb634bd955a81c1ff209" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref125_0tq" level="file">
+          <did>
+            <unittitle>Trust Funds General Journal</unittitle>
+            <unitdate datechar="creation">06/02/1983-06/30/1985</unitdate>
+            <container id="aspace_ccccb273dca57275e4b490d477add920" label="Mixed Materials [aspace.332387.Box.2]" type="Box">2</container>
+            <container id="aspace_7d4a27d33cfe1070d1dde8d08cf4f783" parent="aspace_ccccb273dca57275e4b490d477add920" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref126_s63" level="file">
+          <did>
+            <unittitle>Trust Funds General Journal</unittitle>
+            <unitdate datechar="creation">12/16/1976-11/27/1979</unitdate>
+            <container id="aspace_c9ada1f965a68f1e2942d6e4953173f8" label="Mixed Materials [aspace.332387.Box.3]" type="Box">3</container>
+            <container id="aspace_d3b994578031daab4dba5c4c6d01b44a" parent="aspace_c9ada1f965a68f1e2942d6e4953173f8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref127_8pn" level="file">
+          <did>
+            <unittitle>Trust Funds Receipts</unittitle>
+            <unitdate datechar="creation">07/05/1979-04/23/1986</unitdate>
+            <container id="aspace_2a1526b0c248e0e4dbce3314fb07084a" label="Mixed Materials [aspace.332387.Box.3]" type="Box">3</container>
+            <container id="aspace_4be99638be9dd7e75daa1b2560fd5742" parent="aspace_2a1526b0c248e0e4dbce3314fb07084a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref128_35g" level="file">
+          <did>
+            <unittitle>Trust Funds Disbursements</unittitle>
+            <unitdate datechar="creation">11/13/1975-09/29/1981</unitdate>
+            <container id="aspace_0bfd73c0a89fee764d0ed5b5e09e5f62" label="Mixed Materials [aspace.332387.Box.3]" type="Box">3</container>
+            <container id="aspace_f9216bad6a5bce016f28cd0328d6c7ca" parent="aspace_0bfd73c0a89fee764d0ed5b5e09e5f62" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref129_4pq" level="file">
+          <did>
+            <unittitle>Trust Funds Disbursements</unittitle>
+            <unitdate datechar="creation">10/07/1981-06/24/1986</unitdate>
+            <container id="aspace_bf1ef711cce4e4ea6e0c5f94322b9073" label="Mixed Materials [aspace.332387.Box.3]" type="Box">3</container>
+            <container id="aspace_9504f2d806437addea1fe4e9dd800091" parent="aspace_bf1ef711cce4e4ea6e0c5f94322b9073" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_67bc136cad9e41dbccb564deeffca5a2" level="file">
+          <did>
+            <unittitle>Trust Funds Vouchers, 1961-62</unittitle>
+            <unitdate datechar="creation" normal="1961/1962" type="inclusive">November, 1961 - August, 1961</unitdate>
+            <abstract id="aspace_efec28d1c9b981e65482a7e06e8dd5a3">Trust Fund Vouchers and Cashed Checks from GWU Trust Fund Accounts over 10 months of time. Vouchers are yellow and in individual bundles by month. Cashed checks are green and bundled in order by month. All checks and vouchers are in a reddish-brown records box.</abstract>
+            <container id="aspace_7a87a9483891cce84c13a7ec80dfedac" label="Mixed Materials [32882022386794]" type="carton">1</container>
+            <container id="aspace_eecdc9ae922107fe7ff526ed08415c2a" parent="aspace_7a87a9483891cce84c13a7ec80dfedac" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5b84a01f12081adb95ae0ad796026aa8" level="file">
+          <did>
+            <unittitle>Trust Funds Vouchers, 1970</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">January, 1970 - September, 1970</unitdate>
+            <abstract id="aspace_915241fc158a0f429f5c924c6a69ffa3">Trust Fund Vouchers and Cashed Checks from GWU Trust Fund Accounts over 10 months of time. Vouchers are yellow and in individual bundles by month. Cashed checks are green and bundled in order by month. All checks and vouchers are in a reddish-brown records box.</abstract>
+            <container id="aspace_bf3cb27b5bf47017bc7a9e7b5732394f" label="Mixed Materials [32882022386794]" type="carton">1</container>
+            <container id="aspace_8d78b491902bf0057401bf3e67c3e9fe" parent="aspace_bf3cb27b5bf47017bc7a9e7b5732394f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_25335635331c3a19f20aca73dd3dd46c" level="file">
+          <did>
+            <unittitle>General University Ledger (Salaries, Appropriations, etc)</unittitle>
+            <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939 - 1940</unitdate>
+            <abstract id="aspace_793da21f0893e78f735edf71dbde07a8">Ledger of the University's expenses including categories on: capital, administration, general funds, other funds, refund, junior college, botany, english, graduate programs, expendatures, research, law, education, government, summer programs, physical education, library, maintainance, services and rentals, hospital, opthalmology, duplicates and storage, athletics, and student accounts.
+
+Originally accessioned in June, 2000 and categorized under Acc. 855 #37.</abstract>
+            <physdesc id="aspace_8499fed45c25cd9007f54fd655a02da0">Fair condition, handle with care. Velvet cover with cracking red leather binding. Bolt bound. Measures 14" x 12" x 4.5".</physdesc>
+            <container id="aspace_751cf1f09c802972f778c36b8ccf8d81" label="Mixed Materials [32882022386935]" type="carton">2</container>
+          </did>
+        </c>
+        <c id="aspace_24f68f6e6be266d756ddd3d541122d22" level="file">
+          <did>
+            <unittitle>General Ledger - Closed Accounts</unittitle>
+            <unitdate datechar="creation" normal="1948/1968" type="inclusive">1948 - c. 1968</unitdate>
+            <abstract id="aspace_ac3d42102a81b5be14bc0eb1d7f69062">Contains information about closed accounts across various departments of the University. Ledger is based on accounts which were closed between 1948-1968. 
+
+Originally accessioned in June, 2000 and filed under Acc. #855.</abstract>
+            <physdesc id="aspace_28a95c55e96c818e0c8448d11b3e84f5">Large bolt-bound ledger book. Fabric covers with red leather corners. Good condition, however item gives off redrot residue from corners. Ledger is heavy, handle with care.</physdesc>
+            <container id="aspace_98b5fb46b8b9c2b269c23766d6ff322f" label="Mixed Materials [32882022386943]" type="carton">3</container>
+            <container id="aspace_0382c0f25c7078ac9f83ad45388f8780" parent="aspace_98b5fb46b8b9c2b269c23766d6ff322f" type="binder">1</container>
+          </did>
+        </c>
+        <c id="aspace_641f781d247801beffc3430c27011e53" level="item">
+          <did>
+            <unittitle>General Ledger</unittitle>
+            <unitdate datechar="creation" normal="1950/1980" type="inclusive">1950 - 1980</unitdate>
+            <abstract id="aspace_5888538f6c7e8033549d56eb0020c100">Ledger including sections on cash, accounts receivable, prepaid expense - hospital, student loans (cash/investments, loans receivable), 1963 bonds cash investments, real estate control, equipment, miscellaneous, deferred income and deposits, restricted funds, surplus net investment, student loan funds, 1963 bond surplus accrued interest pay, notes and bonds - payable, tuition fees, miscellaneous fees, investment income, gifts, research grants, miscellaneous income, student activities, medical center income, student aid, residence halls, expense control, medical center expense, capital expenditures, sorority halls, auxiliary expenditures, and miscellaneous assets. 
+
+Ledger is infrequently updated between the 1950s and 1980s.</abstract>
+            <container id="aspace_125953cd06137b7eecfe59b3cee11973" label="Mixed Materials [32882022386968]" type="carton">4</container>
+            <container id="aspace_7aa155c1f7dbf11e41d2cd31bafe63ab" parent="aspace_125953cd06137b7eecfe59b3cee11973" type="binder">1</container>
+          </did>
+        </c>
+        <c id="aspace_13fb7ae3715f05a9a78ca0abf71e5e05" level="file">
+          <did>
+            <unittitle>Real Estate Ledger (GWU)</unittitle>
+            <unitdate datechar="creation" normal="1880/1980" type="inclusive">1880 - 1980</unitdate>
+            <physdesc id="aspace_0684143247acbc3f80ae404b6c52509e">Black bolt bound binder (1920s era from Stationers Loose Leaf Company). Very Good Condition. Heavy, handle with care.</physdesc>
+            <container id="aspace_13ae8a910a63a4ce2c6183a8a62f5f59" label="Mixed Materials [32882022386976]" type="carton">5</container>
+            <container id="aspace_19939a70cda36e03f36c059404d0168e" parent="aspace_13ae8a910a63a4ce2c6183a8a62f5f59" type="binder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e210c0555fa803764788d5936b687448" level="file">
+          <did>
+            <unittitle>General Funds - Loan Funds</unittitle>
+            <unitdate datechar="creation" normal="1960/1979" type="inclusive">1960s - 1970s</unitdate>
+            <abstract id="aspace_16b1a37e3f8e25cd1c7a37a03e03d0f1">Ledger pages of scholarship funds from between the 1960s and 1970s. Updated to include information on gifts, awards, and interest, among other things. Organized as originally cataloged by the Office of the Comptroller. 
+
+Originally part of Acc. #855 as Item 3, "Loan Fund/Restricted Fund Ledger c. 1962- c. 1976". Rehoused from ledger binder into folders in November, 2019.</abstract>
+            <container id="aspace_39f84dff6117a3b80121b5a0ca6e0f40" label="Mixed Materials [32882022386992]" type="Box">6</container>
+            <container id="aspace_7f334e36d5d7e5a78b59fd62b5bd7d0f" parent="aspace_39f84dff6117a3b80121b5a0ca6e0f40" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_8fd9eef84a043724fe2359d4f1078fd9" level="file">
+          <did>
+            <unittitle>General Ledger - Restricted Funds (A-L)</unittitle>
+            <unitdate datechar="creation" normal="1962/1976" type="inclusive">1960s - 1970s</unitdate>
+            <abstract id="aspace_69ae6d0d0bc839c608360f035885de23">Ledger pages of general fund restricited funds from between the 1960s and 1970s. Updated to include information on gifts, awards, and interest, among other things. Organized alphabetically by name of scholarship as originally cataloged by the Office of the Comptroller. 
+
+Originally part of Acc. #855 as Item 3, "Loan Fund/Restricted Fund Ledger c. 1962- c. 1976". Rehoused from ledger binder into folders in November, 2019.</abstract>
+            <container id="aspace_78e6a4958d234ef9a23cb1e9baa46307" label="Mixed Materials [32882022386992]" type="Box">6</container>
+            <container id="aspace_9301ae0eed4dd499af9ca1b105acd19d" parent="aspace_78e6a4958d234ef9a23cb1e9baa46307" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_65de4987c043e1863bd6bbde1445a2ee" level="file">
+          <did>
+            <unittitle>General Ledger - Restricted Funds (M-Z)</unittitle>
+            <unitdate datechar="creation" normal="1962/1976" type="inclusive">1960s - 1970s</unitdate>
+            <abstract id="aspace_7bb1b42752aacb06593eccd0ec1b2937">Ledger pages of general fund restricited funds from between the 1960s and 1970s. Updated to include information on gifts, awards, and interest, among other things. Organized alphabetically by name of scholarship as originally cataloged by the Office of the Comptroller. 
+
+Originally part of Acc. #855 as Item 3, "Loan Fund/Restricted Fund Ledger c. 1962- c. 1976". Rehoused from ledger binder into folders in November, 2019.</abstract>
+            <container id="aspace_a72f7b23f78d74be5cb5c32beac96f54" label="Mixed Materials [32882022386992]" type="Box">6</container>
+            <container id="aspace_a24377a0bf84239ba6551e2cd6013515" parent="aspace_a72f7b23f78d74be5cb5c32beac96f54" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_f08821c3a652a4a88f01859e3022f49d" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1100</unittitle>
+            <unitdate datechar="creation" normal="1957/1970" type="inclusive">1957 - 1970</unitdate>
+            <abstract id="aspace_8c2507716cf236f0a581c1557d7b230d">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. 
+
+Includes infromation about accounts all labeled under Account 1100. Updates on these accounts range from between 1957 - 1970.</abstract>
+            <container id="aspace_7da3f84c066d6fc43d9b834a7afd4307" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_b40cf94e62fdb7d703a715b2c1857e7f" parent="aspace_7da3f84c066d6fc43d9b834a7afd4307" type="Folder">1</container>
+          </did>
+          <c id="aspace_3bee46370a9426b7a6d15994ff9f183b" level="file">
+            <did>
+              <unittitle>Restrictive Income - Accounts 10 - 80 </unittitle>
+              <unitdate datechar="creation" normal="1946/1972" type="inclusive">1946 - 1972</unitdate>
+              <abstract id="aspace_0dd02d0452fd39409dca5dcc636ff169">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered.
+
+Includes information about accounts all labeled under Accounts 10-80. Updates on these accounts range from between 1946 - 1972.</abstract>
+              <container id="aspace_cf5f02ceb75b76074fd6c8e1f73deb4d" label="Mixed Materials [32882022387008]" type="Box">7</container>
+              <container id="aspace_c1a5d33f6970b0c84c2346e0cd27e469" parent="aspace_cf5f02ceb75b76074fd6c8e1f73deb4d" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_2032ebfb97c91918467e56ebc01b46ee" level="file">
+          <did>
+            <unittitle>Restrictive Income - Accounts 10-80</unittitle>
+            <unitdate datechar="creation" normal="1946/1972" type="inclusive">1946 - 1972</unitdate>
+            <abstract id="aspace_04cfd9e5dc3e3e1caf5e48d066fad23d">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 10-80. Updates on these accounts range from between 1946 - 1972.</abstract>
+            <container id="aspace_a2bce2f488e476f1d0ba59de8d68006d" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_f2ef4a8b0497cfb7d1c709f547cc2103" parent="aspace_a2bce2f488e476f1d0ba59de8d68006d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8a42d1d5439494c12e585078e75c9a43" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (A)</unittitle>
+            <unitdate datechar="creation" normal="1946/1970" type="inclusive">1946 - 1970</unitdate>
+            <abstract id="aspace_008a27122e3b052b9f06b98c1538905b">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 10-80. Updates on these accounts range from between 1946 - 1970.</abstract>
+            <container id="aspace_20c43c8ea543eef021993c595240317e" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_3aa8b65b7ad39736b2252f807691643d" parent="aspace_20c43c8ea543eef021993c595240317e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_dc38d7b0e4b8abde81dc074ba851ec9f" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (B) </unittitle>
+            <unitdate datechar="creation" normal="1946/1970" type="inclusive">1946 - 1970</unitdate>
+            <abstract id="aspace_7e7cbc4bfc5db6b816911d868485868f">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letter B. Updates on these accounts range from between 1946 - 1970.</abstract>
+            <container id="aspace_461178ed8a6bfa3cdbb793206a7e801c" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_400c5167dd9350521e4bedf80d886eff" parent="aspace_461178ed8a6bfa3cdbb793206a7e801c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_7ace3b79e9f3cf8795891469ac466e11" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (C)</unittitle>
+            <unitdate datechar="creation" normal="1954/1971" type="inclusive">1954 - 1971</unitdate>
+            <abstract id="aspace_ab0850dcf0ba6d535643e24fd6953bf9">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letter C. Updates on these accounts range from between 1954 - 1971.</abstract>
+            <container id="aspace_61ad8aa4b00588b4ce915330c52c559c" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_4995791a7e16a9dafc34e7bb4b95e566" parent="aspace_61ad8aa4b00588b4ce915330c52c559c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_5bd366dd16764663665a644af5c6ddbc" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (D)</unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_798faf7ec49e6f4aefc2db7604c8534b">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letter D. Updates on these accounts range from between 1946 - 1971.</abstract>
+            <container id="aspace_3235bcaed554a25425a236ba0b3e6378" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_1757e21c3448ec3941ac325be43ba185" parent="aspace_3235bcaed554a25425a236ba0b3e6378" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ed17551331cfeb3d27a8ec90e60a8d92" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (E-F)</unittitle>
+            <unitdate datechar="creation" normal="1948/1971" type="inclusive">1948 - 1971</unitdate>
+            <abstract id="aspace_2305d37875cdc64e6fb36d3fd89b3864">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letter E and F. Updates on these accounts range from between 1946 - 1970.</abstract>
+            <container id="aspace_30c08f69a49890866e2e3020575cb1ef" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_971d2687c92f2f872854b47c09398017" parent="aspace_30c08f69a49890866e2e3020575cb1ef" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_0e45b8a5b821e410bf2b70a04784f2e2" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (G)</unittitle>
+            <unitdate datechar="creation" normal="1953/1969" type="inclusive">1953 - 1969</unitdate>
+            <abstract id="aspace_f787135964a19ecd0f8fd7582723ab50">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letter G. Updates on these accounts range from between 1953 - 1969.</abstract>
+            <container id="aspace_d59bc00b4ed9adb73d09400968d4c380" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_ec0a3c96f363be162a66cba3da090e65" parent="aspace_d59bc00b4ed9adb73d09400968d4c380" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ed800f10660c78eb15c9e11d0ea0ecf6" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (H-J)</unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_53a36d1316ea60f312fbeaf9d018dd8e">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letter H, I, and J. Updates on these accounts range from between 1946 - 1971.</abstract>
+            <container id="aspace_6475d6f50b5bd9ebce9286e705811540" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_1abe39e7277d0c6cbc48ef91b21d6521" parent="aspace_6475d6f50b5bd9ebce9286e705811540" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e1496a31ab7789e6f40a252439483e56" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (K-L)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_a947c7bbc5a7159ba0bb8a25c1f59b9a">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letters K and L. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_97986ea74103b56d6ae4b5f92433b84d" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_a45c95abf17b4cfdbc3087d688c600e4" parent="aspace_97986ea74103b56d6ae4b5f92433b84d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_0ca2f5bc49d2db6e1d2100cfbb18245c" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (M)</unittitle>
+            <unitdate datechar="creation" normal="1947/1971" type="inclusive">1947 - 1971</unitdate>
+            <abstract id="aspace_2b0e7d8e69ccd5d2f76c56eb41c227a9">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letters M. Updates on these accounts range from between 1947 - 1971.</abstract>
+            <container id="aspace_5143be6687076e0334015b176e43be15" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_a3c0a9046f487c16a4271856adc85955" parent="aspace_5143be6687076e0334015b176e43be15" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_d8e3a085d9ab568e0b644ee3f7973fdf" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (N-O)</unittitle>
+            <unitdate datechar="creation" normal="1947/1970" type="inclusive">1947 - 1970</unitdate>
+            <abstract id="aspace_fa9089a1a0f7dcf8b8722af3896ce261">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Accounts 1300, starting with the letters N and O. Updates on these accounts range from between 1947 - 1970.</abstract>
+            <container id="aspace_4bd6ebdc41edf20634c27f7ff2f07cb0" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_b59fe1f4071a3d74026cf2bb63ff8a3b" parent="aspace_4bd6ebdc41edf20634c27f7ff2f07cb0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_cb5802f67f97b51e87ad71315aac10a2" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (P-Q)</unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_0bfcf4a5909d7cf06b2268bfb2ec71c7">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letter P-Q. Updates on these accounts range from between 1946 - 1971.</abstract>
+            <container id="aspace_71977db0315704197847b4fca4a57e0a" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_33793c47a4ed64ef00ea4503ef3d1946" parent="aspace_71977db0315704197847b4fca4a57e0a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_59f83caa77b6499052c7b49f35720f1f" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (R-S)</unittitle>
+            <unitdate datechar="creation" normal="1946/1972" type="inclusive">1946 - 1972</unitdate>
+            <abstract id="aspace_0b3d70c2ae4140e8c6940703e6e6034b">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letter R-S. Updates on these accounts range from between 1946 - 1972.</abstract>
+            <container id="aspace_4d96a55daa9694555bfa6ddc534212b2" label="Mixed Materials [32882022387008]" type="Box">7</container>
+            <container id="aspace_9693c0c5b7e498ef174a040e2a8b2225" parent="aspace_4d96a55daa9694555bfa6ddc534212b2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_9c245003f18181f55fcb426f85f15534" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (Scottish Rite)</unittitle>
+            <unitdate datechar="creation" normal="1956/1972" type="inclusive">1956 - 1972</unitdate>
+            <abstract id="aspace_584814346941a66410ce43c49a55c945">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300 and referring to funds set up by the Scottish Rite. Updates on these accounts range from between 1956 and 1972.</abstract>
+            <container id="aspace_e7f687a8225e1d0df4a69a889e75bba5" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_afb5b8f65ec05692eedc9d208132cdbc" parent="aspace_e7f687a8225e1d0df4a69a889e75bba5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9dde77faf46a8b64032e2f117b76b797" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (T-V) </unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_bcee088e3176e613236349da0adb27de">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letter T-V. Updates on these accounts range from between 1946 - 1971.</abstract>
+            <container id="aspace_55bb73c5448af555d172402b8259b28d" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_b3bb6cf5e0b9489a5633d77a7aad3030" parent="aspace_55bb73c5448af555d172402b8259b28d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_13c36803399129f1aba9fb5d3264371f" level="file">
+          <did>
+            <unittitle>Restrictive Income - Account 1300 (W-Z)</unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_67986cc8db607c5ccfe7ad29d3734843">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1300, starting with the letter W-Z. Updates on these accounts range from between 1946 - 1971.</abstract>
+            <container id="aspace_8243db3c0aa4d8b49018075444cfe83c" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_b867dbf7551333e0f040f6a9d6a95fd4" parent="aspace_8243db3c0aa4d8b49018075444cfe83c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_50d330af1443f029871cbf5ee0e0232c" level="item">
+          <did>
+            <unittitle>Agency Fund - Account 1400</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 -1969</unitdate>
+            <abstract id="aspace_d6b8995d90848ac38e8e95ee634c5f54">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Account 1400. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_66642a8a723aec3b22d414833341107e" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_bf36db9d88afa1d8a9895b2d0e45dd29" parent="aspace_66642a8a723aec3b22d414833341107e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_6750d513ecdd7e8f654d9a87eb37095f" level="file">
+          <did>
+            <unittitle>Unrestricted Income (A-B)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946-1969</unitdate>
+            <abstract id="aspace_8306d77a8fc509a1709ef2405f5cbc03">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter A-B. Account numbers are unorganized, but generally fall between 1500 and 1599. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_96e2ff93d4e88292d763198fe6a1217e" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_5cfcf1c0c7cbe137dc17782dbd10e837" parent="aspace_96e2ff93d4e88292d763198fe6a1217e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_e908762a2f182f8554730d9c65b3ea23" level="file">
+          <did>
+            <unittitle>Unrestricted Income (C)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_8a6a0e20c0f011692ccd516c5af10080">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter C. Account numbers are unorganized, but generally fall between 1500 and 1800. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_e92490bdbd683f6776a0ba57b93be042" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_3c68af6e7a3d31c10d52cb6e792658ad" parent="aspace_e92490bdbd683f6776a0ba57b93be042" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_56fefbfd4436e394ac82fff9b5ce0652" level="file">
+          <did>
+            <unittitle>Unrestricted Income (D-E)</unittitle>
+            <unitdate datechar="creation" normal="1946/1971" type="inclusive">1946 - 1971</unitdate>
+            <abstract id="aspace_83c29b3db460d70a99158455fb47a4ee">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter D-E. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_7d2ec4b34a6e8b13ad8b5c5d248aca67" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_34be288df4e6b118621c18c4add34506" parent="aspace_7d2ec4b34a6e8b13ad8b5c5d248aca67" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b0fb11e58cf9e91b13d3da68e9071c42" level="file">
+          <did>
+            <unittitle>Unrestricted Income (F-G)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <container id="aspace_f157e9c79fc151d16552025fda95ef86" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_e14d88d76af727e15e7a4d9d0fce585f" parent="aspace_f157e9c79fc151d16552025fda95ef86" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_fe28eb5c93b58c63ebb86203494ed8bf" level="file">
+          <did>
+            <unittitle>Unrestricted Income (H-K) </unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_2eb418cb09a348ee3b403b25eb0740b3">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter H-K. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_a4abbdd21ac73fdd96347592e9029359" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_81bfc69907f59132c6b74dd2f9dad6e7" parent="aspace_a4abbdd21ac73fdd96347592e9029359" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e4acb6f12fb8f52c7ed90f9a71c293fc" level="file">
+          <did>
+            <unittitle>Unrestricted Income (L-O) </unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_3c8775b2c82786da03ff76324d37567b">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter L-O. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_590eeb0afac0900c841c9cae763e537c" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_105b3a2b649c234f151379a0d899866e" parent="aspace_590eeb0afac0900c841c9cae763e537c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d50be3d563a9650c807519f67d1bd80e" level="file">
+          <did>
+            <unittitle>Unrestricted Income (P-R) </unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_ecd32942f37ce96ebc64e299bdca19c5">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter L-O. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_9e5a7f81b94c5127016f5d44b18ba665" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_f2d84170aa468d1d7910ba34db3c8905" parent="aspace_9e5a7f81b94c5127016f5d44b18ba665" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_e1747734eeb59fb6bf6db86e392a557d" level="file">
+          <did>
+            <unittitle>Unrestricted Income (S)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_a06956bd00fac71973457eea154ba358">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter S. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_82994dc28f58d4af50c1ba33650b078b" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_7423c0b4846b1a4f87fb22ffd58f6a15" parent="aspace_82994dc28f58d4af50c1ba33650b078b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_50c7434d76f07a76dbe0a44af48289d1" level="file">
+          <did>
+            <unittitle>Unrestricted Income (T-Y)</unittitle>
+            <unitdate datechar="creation" normal="1946/1969" type="inclusive">1946 - 1969</unitdate>
+            <abstract id="aspace_57d3a57dc18053ca786424f292c912e8">Rehoused from a binder titled "Restrictive Income - Sep. 1, 1946 - June 30, 1969." Originally listed in Acc. 855 - Item 4. Records ordered alphabetically, reflecting how they were originally ordered. Includes information about accounts all labeled under Unresticted Income, starting with the letter T-Y. Updates on these accounts range from between 1946 - 1969.</abstract>
+            <container id="aspace_450908b3a93483ac8af3cd9757604b6e" label="Mixed Materials [32882022365871]" type="Box">8</container>
+            <container id="aspace_df924d2d9b0fbddd29f4f90f4f67befe" parent="aspace_450908b3a93483ac8af3cd9757604b6e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_9d2423a32b1090d156205d06fcfae3f1" level="file">
+          <did>
+            <unittitle>Funded Accounts - Administration</unittitle>
+            <unitdate datechar="creation" normal="1962/1969" type="inclusive">1962 - 1969</unitdate>
+            <abstract id="aspace_63495d7d23f3a95568c00bfaf3b896ad">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "administration" and refer to funded accounts with account numbers starting with 700. Accounts refer to a variety of different scholarships, program funds, and building funds from across The George Washington University.</abstract>
+            <container id="aspace_2c0f3e8921d3d708bd402cef48be778e" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_26d4436844e0f9692f304c23e842bdaa" parent="aspace_2c0f3e8921d3d708bd402cef48be778e" type="Folder">1</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_2e6c08024ff61d6b63fe48990d3d59e1" level="file">
+          <did>
+            <unittitle>Funded Accounts - Columbian College of Arts and Sciences</unittitle>
+            <unitdate datechar="creation" normal="1961/1969" type="inclusive">1961 - 1969</unitdate>
+            <abstract id="aspace_908c800e4f4624791c7ff09d3464841e">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Columbian" and refer to funded accounts with account numbers starting with "540 701." Accounts refer to a variety of different scholarships, grants, program funds, research and academic programs, concert series, and building funds and other funds that were overseen by the Columbian College of Arts and Sciences.</abstract>
+            <container id="aspace_9e64831348604c7c6b20c81e1d57e497" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_eae35adacbe9b0e421d9392f2d39f0a0" parent="aspace_9e64831348604c7c6b20c81e1d57e497" type="Folder">2</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_f1d45049ed22bbd12f23741f12276537" level="file">
+          <did>
+            <unittitle>Funded Accounts - Education</unittitle>
+            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965 - 1969</unitdate>
+            <abstract id="aspace_9b155e943e4006150647aabd0f1a4ca1">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Education" and refer to funded accounts with account numbers starting with "540 702-". Accounts refer to a variety of programs including internships, regionally-based fellowships, nationally-based fellowships, student teaching programs, foundations, workshops, and grants related to education at The George Washington University.</abstract>
+            <container id="aspace_88f87726eb62563060e7fc945d0c9643" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_262755058aec6a7e64fa739bff586e17" parent="aspace_88f87726eb62563060e7fc945d0c9643" type="Folder">3</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_9dea539424d1076bd66ce2a251b188d1" level="file">
+          <did>
+            <unittitle>Funded Accounts - Engineering</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960 - 1969</unitdate>
+            <abstract id="aspace_e7bb55dd578264bddfca3581df976d0f">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "administration" and refer to funded accounts with account numbers starting with "540 703-." Accounts refer to a variety of different scholarships, program funds, internship programs, and research funds regarding engineering from across The George Washington University.</abstract>
+            <container id="aspace_4a3a0ff04d1d3304d52d4dd7806be466" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_ee6db93193feda316592b2d5faab6b1f" parent="aspace_4a3a0ff04d1d3304d52d4dd7806be466" type="Folder">4</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Engineering</subject>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_37e5adc62d9452e3b8d4783a88cf359c" level="file">
+          <did>
+            <unittitle>Funded Accounts - General Studies</unittitle>
+            <unitdate datechar="creation" normal="1967/1969" type="inclusive">1967 - 1969</unitdate>
+            <abstract id="aspace_9a1f7254a66f4505146a994a918b4fa8">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Gen. Studies" and refer to funded accounts with account numbers starting with "540 704-." Accounts refer to a variety of different scholarships, administrative program, conference funds, course funds, research programs, institutues, internships, workshops, student teaching programs, academic programs hosted by NASA, the FBI, and the Pentagon, and programs related to nursing, the military, and other programs within The George Washington University.</abstract>
+            <container id="aspace_d2f022df1fc2dfd1213dfa2a5c83f837" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_e9f257c2af7b1745e5e7bd71b693d8a8" parent="aspace_d2f022df1fc2dfd1213dfa2a5c83f837" type="Folder">5</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_59e796a332642f7cb5165cfe4e109cb6" level="file">
+          <did>
+            <unittitle>Funded Accounts - Government</unittitle>
+            <unitdate datechar="creation" normal="1961/1969" type="inclusive">1961 - 1969</unitdate>
+            <abstract id="aspace_123e2d8ecbdb604b503271bbfff5eabe">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "administration" and refer to funded accounts with account numbers starting with "540 705-". Accounts refer to a variety of purposes including centers, institutes, and programs related to federal departments hosted at The George Washington University.</abstract>
+            <container id="aspace_2255ddfbbea87be348d6d12dc725ff84" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_50f12def617306b34271dbe0c49f202b" parent="aspace_2255ddfbbea87be348d6d12dc725ff84" type="Folder">6</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_210e43676e3015c7c84d23089c8eeeeb" level="file">
+          <did>
+            <unittitle>Funded Accounts - Graduate Council</unittitle>
+            <unitdate datechar="creation" normal="1961/1969" type="inclusive">1961 - 1969</unitdate>
+            <abstract id="aspace_de6239a69b86e6a70662a84d59a91b34">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Grad. Council" and refer to funded accounts with account numbers starting with "540 706-". Accounts refer to a variety of purposes including centers, fellowships, institutes, and partnership programs related to the Graduate Council at The George Washington University.</abstract>
+            <container id="aspace_5be3013d4573d7a9daa66b779a4d82a2" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_dd9af6e9e2dcb3408efea6a669a02cbd" parent="aspace_5be3013d4573d7a9daa66b779a4d82a2" type="Folder">7</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Universities and colleges -- Graduate work -- Administration</subject>
+            <subject source="lcsh">Endowments</subject>
+            <subject source="lcsh">Fund raising</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_b9a9d4fe19e0a2031250744ee884aef0" level="file">
+          <did>
+            <unittitle>Funded Accounts - Law School</unittitle>
+            <unitdate datechar="creation" normal="1955/1970" type="inclusive">1955 - 1970</unitdate>
+            <abstract id="aspace_dfa39c1a9184e767a405416b31500d38">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Law" and refers to funded accounts with account numbers starting with "540 707-". Accounts refer to a variety of internships, institutes, centers, material funds, endowments, foundations, workshops, conferences, and grants related to The George Washington University Law School. The law school was previously known as the "National University School of Law at The George Washington University" and the "National Law Center" at the time these records were being kept.</abstract>
+            <container id="aspace_80673ec779278b4e19d2a5236f0e3876" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_811f1e0df7cdc4b467c33c528473b6a6" parent="aspace_80673ec779278b4e19d2a5236f0e3876" type="Folder">8</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_aad935ba4983120211273b93e49089f5" level="file">
+          <did>
+            <unittitle>Funded Accounts - Medicine</unittitle>
+            <unitdate datechar="creation" normal="1959/1969" type="inclusive">1959 - 1969</unitdate>
+            <abstract id="aspace_db54e9ce744587345bbdcb88fcfe4ee4">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Medicine" and refers to funded accounts with account numbers starting with "540 708-". Accounts refer to a variety of purposes including funds, programs, research, workshops, courses, seminars, and chairships related to the School of Medicine at The George Washington University.</abstract>
+            <container id="aspace_cda9afbd3aba32606a3696cff0580f80" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_1492e0dbc98d85c559a324e8b2818a09" parent="aspace_cda9afbd3aba32606a3696cff0580f80" type="Folder">9</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_5cda9228cd763081234c1d3a8074cca9" level="file">
+          <did>
+            <unittitle>Funded Accounts - Public Affairs</unittitle>
+            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965 - 1969</unitdate>
+            <abstract id="aspace_1331410d27e9f9a48dc6bec962b1edcc">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Public Affairs" and refers to funded accounts with account numbers starting with "540 709-". Accounts refer to a variety of purposes including the Institute of Sino-Soviet Studies, Ford Grant Programs, and other grants under the Public Affairs program at The George Washington University.</abstract>
+            <container id="aspace_ea0fc237b6fce4d43b854e66631d9d54" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_9ecf95304e26d62138d0b78402ae3c21" parent="aspace_ea0fc237b6fce4d43b854e66631d9d54" type="Folder">10</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_87de95b1408f8a463b6f6147077c7177" level="file">
+          <did>
+            <unittitle>Funded Accounts - Summer Sessions</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1966 - 1969</unitdate>
+            <abstract id="aspace_85e9cb65f164e9a4d41e00d2f4e9e2e7">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Summer Sessions" and refers to funded accounts with account numbers starting with "540 710-". Accounts refer to a variety of purposes including NDEA Advanced Study in English and the Summer English Institute at The George Washington University.</abstract>
+            <container id="aspace_b3b20b7090cf959968a75b91556632a8" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_5bdabc23701c1b42911dbeaae866e680" parent="aspace_b3b20b7090cf959968a75b91556632a8" type="Folder">11</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_7bcd6e4a65bb990c5a85371b7ea530e2" level="file">
+          <did>
+            <unittitle>Funded Accounts - Airlie</unittitle>
+            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966 - 1969</unitdate>
+            <abstract id="aspace_433a0bf2faa9bc82c97ec0207a94643e">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Airlie" and refers to funded accounts with account numbers starting with "540 713-". Accounts refer to a variety of purposes including research for the U.S. Public Health Service (USPHS), programs for handicapped and deaf students filed under "Airlie" at The George Washington University.</abstract>
+            <container id="aspace_f70a01a013b0ad3e29a7507dbfe3ec67" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_37a3c1396d51c5fb6f7d32d48ad8e63d" parent="aspace_f70a01a013b0ad3e29a7507dbfe3ec67" type="Folder">12</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Fund raising</subject>
+            <subject source="lcsh">Endowments</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_55497f97e7070326037305fe29dddd32" level="file">
+          <did>
+            <unittitle>Funded Accounts - Peace Corps</unittitle>
+            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966 - 1969</unitdate>
+            <abstract id="aspace_ae92e92ddccbe4df48fa7b504e3d0c2a">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Peace Corps" and refers to funded accounts with account numbers starting with "540 714-". Accounts refer to the Peace Corps programs at The George Washington University.</abstract>
+            <container id="aspace_e60fa2c134e32385e384db4569b89fd9" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_f3479697df7b1ad6522e22ba5b33d44f" parent="aspace_e60fa2c134e32385e384db4569b89fd9" type="Folder">13</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Endowments</subject>
+            <subject source="lcsh">Fund raising</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_df81916091630ca621672fe65afc089f" level="file">
+          <did>
+            <unittitle>Funded Accounts - Hospital</unittitle>
+            <unitdate datechar="creation" normal="1958/1970" type="inclusive">1958 - 1970</unitdate>
+            <abstract id="aspace_b6a152e4e2f5eb504a5a01f242485630">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Law" and refers to funded accounts with account numbers starting with "540". Accounts refer to a variety of purposes, including programs, organizations, clincs, residencies, grants, funds, and estates related to The George Washington University Hospital.</abstract>
+            <container id="aspace_835de5f6d6a3b27918825dba13bda9a4" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_beb24738951961ed9717a6e9e6f28a1d" parent="aspace_835de5f6d6a3b27918825dba13bda9a4" type="Folder">14</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Endowments</subject>
+            <subject source="lcsh">Fund raising</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_84d53907003c51f9d18569e403965b17" level="file">
+          <did>
+            <unittitle>Funded Accounts - Library</unittitle>
+            <unitdate datechar="creation" normal="1963/1969" type="inclusive">1963 - 1969</unitdate>
+            <abstract id="aspace_5561c8e884590d0e678446b113124536">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Law" and refers to funded accounts with account numbers starting with "540 750-". Accounts refer to various book funds kept by Lisner Library at The George Washington University. Lisner Library was the forerunner to the current libraries at GWU.</abstract>
+            <container id="aspace_ed89f06857fb7582e7aa457c56cc4136" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_ff585b1552772cc1faf26dddda5a2127" parent="aspace_ed89f06857fb7582e7aa457c56cc4136" type="Folder">15</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Lisner Library</subject>
+            <subject source="lcsh">Endowments</subject>
+            <subject source="lcsh">Fund raising</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_ba8bb3a5090d8718877fa54037cbe8d7" level="file">
+          <did>
+            <unittitle>Funded Accounts - Miscellaneous </unittitle>
+            <unitdate datechar="creation" normal="1964/1970" type="inclusive">1964 - 1970</unitdate>
+            <abstract id="aspace_ac12729bc84a696a72e6f925fe28022e">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Misc." and refers to funded accounts with account numbers starting with "540". Accounts refer to a variety of purpopses including annual giving campaigns, trust funds, endowed funds, conferences, grants, federal work-study programs, and other accounts at The George Washington University.</abstract>
+            <container id="aspace_b655f64e00748a7588750627ad26e805" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_babcfedf5badf012d6c1776220e6293f" parent="aspace_b655f64e00748a7588750627ad26e805" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_b8f15e83407c6a3b816c3515935efbb2" level="file">
+          <did>
+            <unittitle>Funded Accounts - Agency</unittitle>
+            <unitdate datechar="creation" normal="1961/1970" type="inclusive">1961 - 1969</unitdate>
+            <abstract id="aspace_239b88f5259d471ba20944e4155e30fe">Files rehoused from a binder titled "Funded." Files in this folder all came under a tab titled "Agency" and refers to funded accounts with account numbers starting with "540". Accounts refer to a variety of purposes including the School of Education, Women's Board Gift Shop, Law Library, and GW Faculty Alumni Club at The George Washington University.</abstract>
+            <container id="aspace_0c7bd5131e53c20ad3800e8e3c67816c" label="Mixed Materials [32882022366101]" type="Box">9</container>
+            <container id="aspace_37340df2d425c87ec80da0d98215a7d1" parent="aspace_0c7bd5131e53c20ad3800e8e3c67816c" type="Folder">17</container>
+          </did>
+          <controlaccess>
+            <subject source="lcsh">Endowments</subject>
+            <subject source="lcsh">Fund raising</subject>
+          </controlaccess>
+        </c>
+        <c id="aspace_88e017fd43fd8cb922d6bfe113165d1c" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal </unittitle>
+            <unitdate datechar="creation" normal="1953-09/1953-12" type="inclusive">1953</unitdate>
+            <abstract id="aspace_ece3b8cd767349bcbc71fd3335a87a7f">Includes accounts receivable entries for the fiscal months of September to December, 1953. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_0f9c006a688d0d4dfc2dbdc26cea5b87" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_7d54d294b93c082b5f4cec95055237b8" parent="aspace_0f9c006a688d0d4dfc2dbdc26cea5b87" type="Folder">1</container>
+          </did>
+          <controlaccess>
+            <genreform source="aat">Journals (accounts)</genreform>
+          </controlaccess>
+        </c>
+        <c id="aspace_7cdc980e7eec5f0245693c78cf7688b6" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1954-01/1954-12" type="inclusive">1954</unitdate>
+            <abstract id="aspace_33c9c9f7c0080964fd76e80676aecd9e">Includes accounts receivable entries for the year of 1954. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_2c34bb1c2cf7c6491ab334db95f8f007" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_d2761c30eaf3badfe2473ea022e3f2a5" parent="aspace_2c34bb1c2cf7c6491ab334db95f8f007" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_7e0f9db3629ab97a35e2feafb730f824" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1955-01/1955-11" type="inclusive">1955</unitdate>
+            <abstract id="aspace_325177ae63a4cd39cce0a88c7e6961f9">Includes accounts receivable entries for the year of 1955. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_6a1d94042ad0f69a31713d337f995cbf" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_d888db697fe36ac9b8511cdbd698586d" parent="aspace_6a1d94042ad0f69a31713d337f995cbf" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_51817c46e14eb7872a4e3b5664fc7b0b" level="item">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1956-01/1956-12" type="inclusive">1956</unitdate>
+            <abstract id="aspace_1db86fa29263686fca61265cabaff70d">Includes accounts receivable entries for the year of 1956. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_c1bb9ca78e686bf024e30a9132817a4d" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_4c563bff9d36e627410c9f63b755f498" parent="aspace_c1bb9ca78e686bf024e30a9132817a4d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_c2bbdef64b842cd151b9c2977eeeed62" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1957-01/1957-11" type="inclusive">1957</unitdate>
+            <abstract id="aspace_f286d7fc15532a01c05aaf64250a0c16">Includes accounts receivable entries for the year of 1957. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, largely in the form of quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_a53e791d09cf34a217c5436104df56d8" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_bab9f892e3517a5d73980daef8bc6912" parent="aspace_a53e791d09cf34a217c5436104df56d8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_98cba781639c5b587be75fed8fd89dfe" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1958-02/1958-09" type="inclusive">1958</unitdate>
+            <abstract id="aspace_19a6fc3f5cbd803896be53c584a4b9ee">Includes accounts receivable entries for the year of 1958. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_e5c4b0bc118483953915a1b6721c9a48" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_9624c0366ec0f772b83abd0988341527" parent="aspace_e5c4b0bc118483953915a1b6721c9a48" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_39e4026b6236b18b5c6aec891bd82cc9" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1959-02/1959-09" type="inclusive">1959</unitdate>
+            <abstract id="aspace_e89b51e90da06be817fed88b83724f67">Includes accounts receivable entries for the year of 1959. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_70df3f931155ce3e52cdcf570299c6d7" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_e24a8206759e883a3bd733dbb0a6ab23" parent="aspace_70df3f931155ce3e52cdcf570299c6d7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_64ab922ce68653f5de7f3fd6383880b5" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1960-02/1960-09" type="inclusive">1960</unitdate>
+            <abstract id="aspace_89088c37a8777962a3444b8b89507f1a">Includes accounts receivable entries for the year of 1960. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_fc325a828e2611d1e80e359f016d6d03" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_858390abcd016eaebd3cf8dc3197ecc0" parent="aspace_fc325a828e2611d1e80e359f016d6d03" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_adbce70b6bf2fe11f58bf6eca3efde6b" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1961-02/1961-08" type="inclusive">1961</unitdate>
+            <abstract id="aspace_2edbf226f8644f6e968c42de0792619e">Includes accounts receivable entries for the year of 1961. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_1319f7209d81880fdae7e794ccd57717" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_cedcb46cf269328d2262636a9da48491" parent="aspace_1319f7209d81880fdae7e794ccd57717" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_cd067dccfc51d1b97633a8fc52dec3d9" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1961-09/1962-08" type="inclusive">1961 - 1962</unitdate>
+            <abstract id="aspace_74133764e446adefdec78aaba30cad23">Includes accounts receivable entries for the fiscal year of 1961-62. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_0d101982c80430e75bf30e4e1cdce111" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_3f98200db183cb97d7fa6a1e63724ffd" parent="aspace_0d101982c80430e75bf30e4e1cdce111" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_dc3c0cc482a2ff437eea047f7e371190" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1962-09/1963-08" type="inclusive">1962 - 1963</unitdate>
+            <abstract id="aspace_01ea7a1714f83716a30437f10387f20f">Includes accounts receivable entries for the fiscal year of 1962-63. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_98b5d28ff44b1e7f2f70db0bc7bbd8df" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_46b5719a73678511c75795f7541c8d3c" parent="aspace_98b5d28ff44b1e7f2f70db0bc7bbd8df" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_91e2290213c0b1697daa07fe459c4d02" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1963-09/1964-08" type="inclusive">1963 - 1964</unitdate>
+            <abstract id="aspace_d463925561c0361bfa6976b0cf4584a4">Includes accounts receivable entries for the fiscal year of 1963-64. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_5e3c3cf99798db9b46776a7333655374" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_2c676311412daefb311d3c6e222a2c98" parent="aspace_5e3c3cf99798db9b46776a7333655374" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_437ba38bfeaa9a723035511c19fa8803" level="file">
+          <did>
+            <unittitle>Accounts Receivable Journal</unittitle>
+            <unitdate datechar="creation" normal="1964-09/1965-08" type="inclusive">1964 - 1965</unitdate>
+            <abstract id="aspace_0609f8de73ee2518b10fb7397110bd94">Includes accounts receivable entries for the fiscal year of 1964-65. Includes updated account totals for schools, institutions, and miscellaneous purchases within the university, including tuitions, fees, housing, and college budgets. Journal was originally filed as Acc. #855 and rehoused from its original binder. Accounts are organized by month, mostly in quarterly account updates, and kept in their original order as kept by the Office of the Comptroller.</abstract>
+            <container id="aspace_36b73e118f0ceb0604bfeb542d0af54c" label="Mixed Materials [32882022366119]" type="Box">10</container>
+            <container id="aspace_66534b5033247f21f59d184e56e53535" parent="aspace_36b73e118f0ceb0604bfeb542d0af54c" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref131_4jg" level="series">
+        <did>
+          <unittitle>Handbooks and records</unittitle>
+          <unitid>RG0064 Series 3</unitid>
+          <unitdate datechar="creation">1975-1980</unitdate>
+          <physdesc id="aspace_60203b5968c154b868578f20e62adfc0" label="General Physical Description note">.25 Linear feet</physdesc>
+          <container id="aspace_3943f339871a7b784ebbe4aafb62e85f" label="Mixed Materials [Series 3 GW: 32882017680185]" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_1aacdf3a599bdf160472dcf3becfe2e7">
+          <head>Scope and Contents note</head>
+          <p>This series contains handbooks, revisions, and memoranda. They range in date from 1975 to 1980. The materials concern George Washington University Policies and Procedures, the Planning and Budgeting Office, wages, and campus funding.</p>
+        </scopecontent>
+        <c id="aspace_ref133_9j0" level="file">
+          <did>
+            <unittitle>Comptroller's Office</unittitle>
+            <unitdate datechar="creation">04/26/1966-09/26/1986</unitdate>
+            <container id="aspace_95d18488b8157ac852c671bf12d4bff8" label="Mixed Materials [Series 3 GW: 32882017680185]" type="Box">1</container>
+            <container id="aspace_06ddda3926d41c5d3aaf5be7625d2054" parent="aspace_95d18488b8157ac852c671bf12d4bff8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref134_kv1" level="file">
+          <did>
+            <unittitle>Planning &amp; Budgeting Office</unittitle>
+            <unitdate datechar="creation">06/30/1975-1980</unitdate>
+            <container id="aspace_033a9b0085f29eeeb03c07d87b29a122" label="Mixed Materials [Series 3 GW: 32882017680185]" type="Box">1</container>
+            <container id="aspace_54732fca57249da4699b44ebd638fa17" parent="aspace_033a9b0085f29eeeb03c07d87b29a122" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref135_g7i" level="file">
+          <did>
+            <unittitle>University Policies and Procedures</unittitle>
+            <unitdate datechar="creation">07/1976-07/10/1980</unitdate>
+            <container id="aspace_015b70008932559f8fbbe184f726fe5a" label="Mixed Materials [Series 3 GW: 32882017680185]" type="Box">1</container>
+            <container id="aspace_f6c0ceb7d94b04d274b62c5c6df794e6" parent="aspace_015b70008932559f8fbbe184f726fe5a" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref137_hdw" level="series">
+        <did>
+          <unittitle>Policies and procedures, general ledger funds</unittitle>
+          <unitid>RG0064 Series 4</unitid>
+          <unitdate datechar="creation">1990</unitdate>
+          <physdesc id="aspace_dbc25e69fac6efdbb02f7cdf1557caaa" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_48d7587f0bbc45ad1cce1a4dd6747b7e">
+          <head>Scope and Contents note</head>
+          <p>This series contains policies and procedures and general ledger funds from 1990.</p>
+        </scopecontent>
+        <c id="aspace_ref139_9cr" level="file">
+          <did>
+            <unittitle>Fiscal management</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_498614d30db132f91301b37fefa6fa17" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_4aabc1b2ce8229c4416499c02f088483" parent="aspace_498614d30db132f91301b37fefa6fa17" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref140_5qd" level="file">
+          <did>
+            <unittitle>Correction, policy, and procedure statement</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_dd810a85331123f1551c78201da5ac2b" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_21286bc63947c6645dfa7c93faa48a30" parent="aspace_dd810a85331123f1551c78201da5ac2b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref141_bn3" level="file">
+          <did>
+            <unittitle>Policy and procedure statement</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_c82f8f1ebe6f79e5739a808ab4779ca2" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_7dd9c2ccec7a43d9568509fdd654590a" parent="aspace_c82f8f1ebe6f79e5739a808ab4779ca2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref142_j38" level="file">
+          <did>
+            <unittitle>Policy and procedure for establishing R funds</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_802e084e059188bebc426ea3956f52fe" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_7c776b30a19b45dbb7f93f76913dd54d" parent="aspace_802e084e059188bebc426ea3956f52fe" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref143_4pi" level="file">
+          <did>
+            <unittitle>General ledger expenditures account definitions</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_f9955397603db13d2ba85c93b52f0605" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_15d5eaa3d5aacec4bc31d01df69eb778" parent="aspace_f9955397603db13d2ba85c93b52f0605" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref144_v4f" level="file">
+          <did>
+            <unittitle>General ledger expend, account definitions, purposes</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_84f476b841e3dac617c085786e80020b" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_3fc0a83889db11d6af22efef92c5ac56" parent="aspace_84f476b841e3dac617c085786e80020b" type="Folder">6</container>
+          </did>
+          <odd id="aspace_00776355f13d55768a082a827f8315bc">
+            <head>General note</head>
+            <p>Funds C and R</p>
+          </odd>
+        </c>
+        <c id="aspace_ref146_ujq" level="file">
+          <did>
+            <unittitle>General ledger expend, account definitions, purposes</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_53eb4a7eb1941ced3e6ba46cd58fc448" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_8127daad8e2c592c2898cd11b4673d41" parent="aspace_53eb4a7eb1941ced3e6ba46cd58fc448" type="Folder">7</container>
+          </did>
+          <odd id="aspace_5b4c05a4c4d95e8ae551622ea2cf232e">
+            <head>General note</head>
+            <p>Funds D and S</p>
+          </odd>
+        </c>
+        <c id="aspace_ref148_7f6" level="file">
+          <did>
+            <unittitle>Reissue of university procurement procedures</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_e85f631fe4ff0f28b2aef0a0e60b7402" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_196aa6ade69f51d59dfb9bc3c9a33b70" parent="aspace_e85f631fe4ff0f28b2aef0a0e60b7402" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref149_hry" level="file">
+          <did>
+            <unittitle>List of changes</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_94e2eb9815d07967bfe08161c9b558f2" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_f3531a463082dafb6f2f475e78e7b54d" parent="aspace_94e2eb9815d07967bfe08161c9b558f2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref150_0h3" level="file">
+          <did>
+            <unittitle>GWU procurement procedures</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_0fcbd8d1833ab0ad5a6c140d3d16b5cc" label="Mixed Materials [aspace.332403.Box.1]" type="Box">1</container>
+            <container id="aspace_88e2bbb6b8f0223e6aa1bec849414458" parent="aspace_0fcbd8d1833ab0ad5a6c140d3d16b5cc" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref152_z0h" level="series">
+        <did>
+          <unittitle>Grants and contracts</unittitle>
+          <unitid>RG0064 Series 5</unitid>
+          <unitdate datechar="creation">1971-1985</unitdate>
+          <physdesc id="aspace_3b745e52867385a0b2d14a5169e0f912" label="General Physical Description note">16.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_2c68b8f6229473bc71ca08e80d1312a0">
+          <head>Scope and Contents note</head>
+          <p>This series contains grants and contracts from 1971 through 1985.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref155_358" level="series">
+        <did>
+          <unittitle>Application, loan, registrar forms, commencement materials</unittitle>
+          <unitid>RG0064 Series 6</unitid>
+          <unitdate datechar="creation">1930-1939</unitdate>
+          <physdesc id="aspace_a563f14dcf674c748724bd63977e822d" label="General Physical Description note">0.5 Linear feet</physdesc>
+          <container id="aspace_52190ce836f48b383f046acaa75c1919" label="Mixed Materials [Series 6 GW: 32882020271154]" type="Box">1</container>
+        </did>
+        <accessrestrict id="aspace_865496479ded70f974f55452c8b59ce4">
+          <head>Conditions Governing Access</head>
+          <p>Access to student records is governed by the federal Family Educational Rights and Privacy Act (FERPA), which protects the privacy of student education records. Student records are closed for 100 years from date of record creation.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_ca1fe8f447065ba587cbbd56e0855d11">
+          <head>Scope and Contents note</head>
+          <p>This series contains application, loan, registrar forms, and commencement materials from the 1930s.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref158_ue5" level="series">
+        <did>
+          <unittitle>Quarterly appraisal of the university's securities</unittitle>
+          <unitid>RG0064 Series 7</unitid>
+          <unitdate datechar="creation">1961-1962</unitdate>
+          <physdesc id="aspace_4ef0e1ff1654d31bd66cad6bab6c1054" label="General Physical Description note">0.5 Linear feet</physdesc>
+          <container id="aspace_213b423a7e8268dea9fb872a89b3b3a9" label="Mixed Materials [Series 7 GW: 32882020270586]" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_d98906ae3224aa2aa146bc41ada66851">
+          <head>Scope and Contents note</head>
+          <p>This series contains quarterly appraisals of the university's securities from 1961 and 1962.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref161_okm" level="series">
+        <did>
+          <unittitle>University Budget</unittitle>
+          <unitid>RG0064 Series 8</unitid>
+          <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+          <physdesc id="aspace_b040f66e91599b17b9cfedec74fe13de" label="General Physical Description note">1 Linear foot</physdesc>
+          <container id="aspace_ee203ce445393157b2c2f9031ea00f13" label="Mixed Materials [Series 8 GW: 32882020297431]" type="Box">2</container>
+          <container id="aspace_43225a809c26d74665a0ddaa96c9b9e1" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_8ea43aa348a637689c59cb650ac60049">
+          <head>Scope and Contents note</head>
+          <p>This series contains financial schedules, and range in date from 1876-2002.</p>
+        </scopecontent>
+        <c id="aspace_ref163_qqk" level="file">
+          <did>
+            <unittitle>Computer Center--Advisory Council on Academic Computing, 1989-1990</unittitle>
+            <unitdate datechar="creation">01/04/1989-08/29/1990</unitdate>
+            <container id="aspace_c78bd20990c457d7d1bb829692923ea5" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_8f84f1cf896e7a09696459dbc3095280" parent="aspace_c78bd20990c457d7d1bb829692923ea5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref164_s0d" level="file">
+          <did>
+            <unittitle>Computer Center--Computer Information and Resource Center (CIRC)</unittitle>
+            <unitdate datechar="creation">02/1987-09/1999</unitdate>
+            <container id="aspace_69bb688f2a739e5f0baf8ae4f66988cc" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_9e51107259073828de8c3a1feb0f4c1b" parent="aspace_69bb688f2a739e5f0baf8ae4f66988cc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref165_vd4" level="file">
+          <did>
+            <unittitle>Computer Center--Policies and Procedures</unittitle>
+            <unitdate datechar="creation">07/15/1998-1999</unitdate>
+            <container id="aspace_0c498e5c327a4cc579df4f2a1a3b911d" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_217adc29fea28594c913c039ed54a0a7" parent="aspace_0c498e5c327a4cc579df4f2a1a3b911d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref166_kai" level="file">
+          <did>
+            <unittitle>Computer Center - Publications Review of Present Data Processing Operations, Applications, and Management, 1968</unittitle>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_6419e6bccc8c498557518ad721f9642b" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_4c12267f6f06d40082e3b033c987a60a" parent="aspace_6419e6bccc8c498557518ad721f9642b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref167_83f" level="file">
+          <did>
+            <unittitle>Information Systems And Services (ISS)</unittitle>
+            <unitdate datechar="creation">2000-2003</unitdate>
+            <container id="aspace_f02e43bcefc031c1b8292863bdb4dd68" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_3b417df1f7800d5d6580b39a875c34f6" parent="aspace_f02e43bcefc031c1b8292863bdb4dd68" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref168_54v" level="file">
+          <did>
+            <unittitle>Real Estate Transactions--College Hill (R.E. &amp; Col. Title Ins. Co. R. E. 124)</unittitle>
+            <unitdate datechar="creation">1820-11/07/1966</unitdate>
+            <container id="aspace_2476e16546334ceaab01652c91c35b8a" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_e5c4748b571daf90d5214e58a3855b02" parent="aspace_2476e16546334ceaab01652c91c35b8a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref169_ggs" level="file">
+          <did>
+            <unittitle>Real Estate Transactions--College Hill (R.E. &amp; Col. Title Ins. Co. R. E. 1,790)</unittitle>
+            <unitdate datechar="creation">04/27/1883-05/01/1883</unitdate>
+            <container id="aspace_83ebfc480814667b22e4028dafc148b3" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_43c2570da931c8a5e5215aee8e7662bb" parent="aspace_83ebfc480814667b22e4028dafc148b3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref170_v38" level="file">
+          <did>
+            <unittitle>Real Estate Transactions--College Hill (Transfer Of Title: Columbia Title Co. Records)</unittitle>
+            <unitdate datechar="creation">05/16/1821-03/15/1963</unitdate>
+            <container id="aspace_2f0b7241b16c31511560b9ef01590e18" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_331d0f9d93224d8fa5cf8465d3aebe23" parent="aspace_2f0b7241b16c31511560b9ef01590e18" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref171_cbq" level="file">
+          <did>
+            <unittitle>Treasurer's Office</unittitle>
+            <unitdate datechar="creation">10/31/1938-1982</unitdate>
+            <container id="aspace_644ff4f3d56497212ed05c6314b49474" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_2598c4f454bee250cb95289207223c9f" parent="aspace_644ff4f3d56497212ed05c6314b49474" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref172_gfy" level="file">
+          <did>
+            <unittitle>Treasurer's Office--Planning And Construction--Master Plan</unittitle>
+            <unitdate datechar="creation">01/1967-03/04/1977</unitdate>
+            <container id="aspace_5cb1556749f5b408b81b8b27ac25b569" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_def855c3012714e3cff0f2e10d16ca97" parent="aspace_5cb1556749f5b408b81b8b27ac25b569" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref173_ozd" level="file">
+          <did>
+            <unittitle>University Budget</unittitle>
+            <unitdate datechar="creation">10/09/1952-02/06/2002</unitdate>
+            <container id="aspace_d11d4e90148af0d30cd152a2e424bf37" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_ad7214f3846286b3a4af98533ac41911" parent="aspace_d11d4e90148af0d30cd152a2e424bf37" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref174_xq5" level="file">
+          <did>
+            <unittitle>University Budget Fiscal Planning and Budgeting Committee, 2000</unittitle>
+            <unitdate datechar="creation">08/25/2000-09/2000</unitdate>
+            <container id="aspace_d0d85ed6d186847ca19feb289852dda7" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_e8756419d2dd10d264864c7a49b0c1dd" parent="aspace_d0d85ed6d186847ca19feb289852dda7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref175_1ts" level="file">
+          <did>
+            <unittitle>University Budget Operating and Capital Budgets, 1993-1994</unittitle>
+            <unitdate datechar="creation">05/03/1993</unitdate>
+            <container id="aspace_5b65d9ea33be872faa75616965f18014" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_21bee6e0c5b38fe40efe4c12adb36daf" parent="aspace_5b65d9ea33be872faa75616965f18014" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref176_12e" level="file">
+          <did>
+            <unittitle>University Budget Operating and Capital Budgets, 2001-2002</unittitle>
+            <unitdate datechar="creation">05/26/2000</unitdate>
+            <container id="aspace_1100cd438212ff107ca31c7890a46467" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_1c0e357a72dda19e43a53086cf01372e" parent="aspace_1100cd438212ff107ca31c7890a46467" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref177_wkk" level="file">
+          <did>
+            <unittitle>University Budget Operating and Capital Budgets, 2002-2003</unittitle>
+            <unitdate datechar="creation">05/18/2001</unitdate>
+            <container id="aspace_cd9b35f7fa702d181ab357413725597b" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_407bcb491738df22f0f608deae875df3" parent="aspace_cd9b35f7fa702d181ab357413725597b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref178_qqm" level="file">
+          <did>
+            <unittitle>University Budget Operating and Capital Budgets, 2003-2004</unittitle>
+            <unitdate datechar="creation">05/06/2002</unitdate>
+            <container id="aspace_2344370f6bcba69ac739c8f9fd770e1e" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_f848582f3a5c2ed545481880e362435c" parent="aspace_2344370f6bcba69ac739c8f9fd770e1e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref179_jm1" level="file">
+          <did>
+            <unittitle>University Budget Operating and Capital Budgets, 2004-2005</unittitle>
+            <unitdate datechar="creation">05/15/2003</unitdate>
+            <container id="aspace_2acd0bd8431a33695e54346a91c9407d" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_076baca80c13605fa45103226d830c4c" parent="aspace_2acd0bd8431a33695e54346a91c9407d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref180_6px" level="file">
+          <did>
+            <unittitle>Vice-President and Treasurer, Office of the Herzog, Henry W.</unittitle>
+            <unitdate datechar="creation">07/01/1931-03/06/1978</unitdate>
+            <container id="aspace_b4abff70e2adcaec34a2aea878aac5f2" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_e19c4ea6dae9183d1e8bc1048525e91e" parent="aspace_b4abff70e2adcaec34a2aea878aac5f2" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref181_uwe" level="file">
+          <did>
+            <unittitle>Vice-President and Treasurer, Office of the Services Provided by the Office</unittitle>
+            <unitdate datechar="creation">1974-02/08/2002</unitdate>
+            <container id="aspace_114ad6095aa5ef7eb8c58117be1bf3d8" label="Mixed Materials [Series 8 GW: 32882017680193]" type="Box">1</container>
+            <container id="aspace_e4abdf7e92725d7a42d5d1a590ecb795" parent="aspace_114ad6095aa5ef7eb8c58117be1bf3d8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref186_2fz" level="file">
+          <did>
+            <unittitle>Real Estate current records [1/4]</unittitle>
+            <unitid>Series 8</unitid>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container id="aspace_895fd192d703cb07ac18b5e3ee945c4c" label="Mixed Materials [Series 2 GW: 32882020297431]" type="Box">2</container>
+            <container id="aspace_b100cf7bc113bf82d5299c8841e765c1" parent="aspace_895fd192d703cb07ac18b5e3ee945c4c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref187_evj" level="file">
+          <did>
+            <unittitle>Real Estate current records [2/4]</unittitle>
+            <unitid>Series 8</unitid>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container id="aspace_8fa0050ab9cfae3c13949957facf9c35" label="Mixed Materials [Series 2 GW: 32882020297431]" type="Box">2</container>
+            <container id="aspace_b3246b6fca5f73d4fefd38624dbe275e" parent="aspace_8fa0050ab9cfae3c13949957facf9c35" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref188_2mk" level="file">
+          <did>
+            <unittitle>Real Estate current records [3/4]</unittitle>
+            <unitid>Series 8</unitid>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container id="aspace_c077a30d28cf289ff2fc606c7f474bc1" label="Mixed Materials [Series 2 GW: 32882020297431]" type="Box">2</container>
+            <container id="aspace_beec5b6dbcebbf0c38d4e6b2dab1db17" parent="aspace_c077a30d28cf289ff2fc606c7f474bc1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref189_okj" level="file">
+          <did>
+            <unittitle>Real Estate current records [4/4]</unittitle>
+            <unitid>Series 8</unitid>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container id="aspace_06c17c5cb56a124c5fa3ae91367d8d48" label="Mixed Materials [Series 2 GW: 32882020297431]" type="Box">2</container>
+            <container id="aspace_a54e46a2b9a77d4a95546673cfe27409" parent="aspace_06c17c5cb56a124c5fa3ae91367d8d48" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

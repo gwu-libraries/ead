@@ -1,0 +1,934 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/826">ms2378.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to The Mary Fairfax family papers and Louis R. Stockstill papers, <date calendar="gregorian" era="ce">1823-2004</date> <num>MS2378</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2019</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:54:43 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>The Mary Fairfax family papers and Louis R. Stockstill papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Stockstill, Louis R.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Lee, Janet L.</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Fairfax, Mary Allen Cook</persname>
+      </origination>
+      <unitid>MS2378</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1823/2004" type="inclusive">1823-2004</unitdate>
+      <unitdate datechar="creation" normal="1861/1969" type="bulk">1861-1969</unitdate>
+      <abstract id="aspace_5ea6bb316439a0f4a4ebf7e11aaa191d">This collection contains biographical materials, correspondence, articles and photographs related to the life of Louis R. Stockstill especially concerning his work as a journalist. The majority of the collection is correspondence to and from Mary Allen Fairfax (nee Cook). Much of this Fairfax family correspondence has been transcribed. The majority of the correspondence reveal Mary Fairfax's activity and thoughts as a Southern sympthizer during the Civil War. The collection as whole covers the time period 1823-2004.</abstract>
+      <physloc id="aspace_d9510d4a8f06c64c7d9dc3579292d7d5">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_45108f16e47895168349bbc493fbe607">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_c9a851493c376791693a770c50a299a0">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Janet L. Lee, 2018 August 17 (Acc 2018.033)</p>
+    </acqinfo>
+    <bioghist id="aspace_1f9ca670eaab5864b76b36f20c3dd057">
+      <head>Biography of Louis R. Stockstill</head>
+      <p>Louis R. Stockstill (1920-2004) was born in Galena, Missouri, and raised in Bartlesville, Oklahoma. After graduating from high school he served with the 10th Armored Division in Europe during World War II. For this service Stockstill was awarded the Bronze Star. He attended The George Washington University serving as a part-time reporter for what was then known as the Army Navy Journal with an eventual title change to the Air Force Journal. Following graduation in 1951 he continued working for the publication eventually serving as editor in 1965. He left the Journal in 1968 to pursue a freelance career. From 1957-1960 he taught courses at GWU on topics such as national news reporting. He was very active during the Vietnam War with an organization he started with the wives of the POW/MIA's. He wrote numerous articles, spoke before committees in D.C. and traveled the country meeting with families. He retired in 1975 and moved to Florida. He remained politically active until his death in 2004 - writing letters to newspapers, working on campaigns.</p>
+    </bioghist>
+    <prefercite id="aspace_23cc0bfeae1a9378c6fcc3d618622a3f">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <scopecontent id="aspace_be3c4bd3f3bfab7f3af09c1ea6309685">
+      <head>Scope and Contents</head>
+      <p>This collection is divided into two distinct parts that could be considered independent collections. They were donated as one collection and for that reason were retained in one collection. The collection contains biographical materials, war medals, correspondence, scrapbooks, articles and photographs related to the life of Louis R. Stockstill especially concerning his work as a journalist. The Cook family papers are primarily composed of correspondence much of which has been transcribed. The correspondence is to and from Mary Allen Cook Fairfax. The majority of the correspondence reveal Cook's ardent activity as a Southern sympathizer during the Civil War. Mary Allen Cook grew up in a historic DC residence that was later razed by Congress on Independence Avenue across from the Library of Congress. The letters have portraits of her family and associates as well as information about Washington prior to and during the Civil War. Cook writes about the city of Washington political figures, and President Lincoln and detailed descriptions of Civil War battles especially information she has gleaned from newspaper coverage. Two of her brothers served in the Confederacy and were prisoners of war. There are letters to Belle Boyd, the Southern spy who Cook encountered while a prisoner herself at the Old Capitol Prison. While incarcerated as a suspected spy, Cook was in a cell next to Mary Surratt, the Lincoln assassination co-conspirator prior to her execution. Cook's letters are a record of other prisoners and the circumstances of their arrests in the panic and martial law which followed the Lincoln assassination. Cook provides a first-hand account of the excitement and revelry of Washington following the fall of Richmond. Long after the war had ended, upon the death of Jefferson Davis in 1889, Cook draped her house in black and won an ovation from the Southern press, Southern legislatures, and numerous associations of former Confederate soldiers. There is also a letter from a group of local citizens rebuking her and calling on her to remove the black from her house. The Cook family materials date from 1823-1905. The Louis Stockstill records date from 1920-2004.</p>
+    </scopecontent>
+    <userestrict id="aspace_941112bd39b7c245aa421fdc5d875251">
+      <head>Conditions Governing Use</head>
+      <p>To the extent that she owns copyright, the donor has assigned the copyright in her works to The George Washington University; however, copyright in other items in this collection may be held by their respective creators. For activities that the researcher determines fall under fair use as defined under U. S. Copyright Law, no permission to cite or publish is required. Please contact Special Collections if the copyright status of the materials you wish to reuse is unclear. Staff will provide additional information. </p>
+      <p>For re-use of materials in the collection not created by the donor, researchers are responsible for determining who may hold materials' copyrights, determining if the intended re-use falls under fair use, and obtaining approval from the copyright holder if the intended use does not fall under fair use. For such materials, researchers do not need anything further from The George Washington University's Special Collections Research Center.</p>
+    </userestrict>
+    <arrangement id="aspace_b0fbe95f35ca3de376e1c8c5f7ac0519">
+      <head>Arrangement</head>
+      <p>Organized into two series: Cook/Fairfax family letters and papers and Louis R. Stockstill papers</p>
+    </arrangement>
+    <bioghist id="aspace_364d833eef1815afaafdc6e588b27742">
+      <head>Biography of Mary Allen Cook Fairfax</head>
+      <p>Mary Allen Fairfax (nee Cook) (1831-1909) was the granddaughter of James Owner, chief boatbuilder at the Old Washington Navy Yard. Her father John Aquila Cook was a naval officer. Her mother was named Francis Faulkner Cook (nee Owner) and both her brothers, James Faulkner Cook and Stephen John Cook, fought for the Confederacy during the Civil War. She grew up in a house near the Navy Yard. She married Frederick Fairfax in 1868. They had three daughters, Lillian Vere Fairfax, Gwendolind Owner Fairfax Moncure, and Evelyn Leopoldine Fairfax.</p>
+      <p>Her home as an adult was on Capitol Hill on the site on Independence Avenue across from the Library of Congress. Mary Cook's letters to her Cousin Rachel in New Jersey before and during the Civil War reveal her support for the Confederacy and her deep animosity for the Union and Abraham Lincoln. She was a White Supremacist. She often wrote about battles and military engagements, the troops in Washington and other Civil War related topics. Following Abraham Linoln's assassination she was briefly incarcerated in the Old Capitol Prison and was only released after taking the loyalty oath. She died June 15, 1909 in Washington DC. </p>
+    </bioghist>
+    <custodhist id="aspace_77b335b47e2996b7955163368e187a8f"><head>Mary Fairfax family papers custodial history note</head><p>This note used Laura Millar's article "The Death of the Fonds and the Resurrection of Provenance: Archival Context in Time and Space."(Archivaria 53) for guidance and combines DACS 5.1 and 5.2 information.</p>
+ 
+Creator history: The primary creators and accumulators of the records are Mary Allen Fairfax (née Cook), other members of the Fairfax, Cook, and Owner families, and Louis R. Stockstill. The documents' functions include activities such as interacting with family, friends, government agents, and work associates, bill paying, writing for pleasure and work, researching family history, and accumulating and sharing knowledge.
+ 
+Records history: Presumably the Fairfax family maintained the records from 1823-1941 in Washington DC. The largest portion of the Fairfax papers, letters from Mary Fairfax to her cousin Rachel Davis in New Jersey, were returned to Fairfax following Davis's death in 1867. Most likely the records remained in DC until the early 1960s. In 1941, Mary Fineran purchased the home at 235 2nd Street SE from the Fairfax estate and found the records in the house. 
+
+In several newspaper articles, Fineran recounts her neighborly relationship with Mary Fairfax's daughters and describes the records as containing numerous writings related to the Civil War, mementos, letters, daguerreotypes, and a signed photograph of Robert E. Lee. (The Evening Star March 11, 1956, p. D-10 and June 25, 1960, p. 4) The current collection contains few writings by Mary Fairfax, no daguerreotypes, and no image of Lee. Circa 1961, in preparation for construction of the Library of Congress Madison building, the Federal government condemned several blocks of businesses and homes including 235 2nd Street SE. Mary Fineran moved to 415 First Street SE. In 1962, she gave the family papers to her Capitol Hill neighbor and friend Louis Stockstill. 
+
+In the mid-1960s, Stockstill researched Mary and her extended family at the National Archives and Library of Congress for a planned publication of Mary Fairfax's letters. Stockstill transcribed the letters Fairfax wrote to Davis and other family members. These research materials include transcriptions and copies of government documents. From 1963-2001, Stockstill occasionally wrote to staff of the Huntington Library detailing his ideas for a partnership to publish a monograph and to subsequently donate the Fairfax papers. Sometime in the 1970s, Louis and his wife Oneta moved to Indialantic, Florida. 
+
+In 2004, Louis Stockstill died and sometime before 2018 the records moved to Tulsa, Oklahoma perhaps with Oneta Stockstill who died in Tulsa in 2010. The final owner before donation to GW was Jan Lee, Louis Stockstill's niece. 
+
+Custodial history: A local Tulsa historian and Jan Lee's neighbor suggested she donate these records to a repository. On her behalf, the historian contacted staff at the New York Public Library for help locating an appropriate repository. Since the Fairfax records detailed a Washington DC family and Louis Stockstill was a GW graduate and instructor, the NYPL contacted GW Special Collections. Special Collections staff spoke with Lee and on September 4, 2018, she donated a collection containing the Fairfax family records, the research materials created by Louis Stockstill, and Louis Stockstill personal materials. These records, maintained as one united collection, were processed in 2019.
+  </custodhist>
+    <controlaccess>
+      <geogname source="lcsh">United States -- History -- Civil War, 1861-1865</geogname>
+      <subject source="lcsh">Correspondence</subject>
+      <subject source="lcsh">World War, 1939-1945</subject>
+      <subject source="lcsh">Journalism</subject>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <persname role="dnr" rules="dacs" source="local">Lee, Janet L.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_16b58428ef495265b181498c3a915b6e" level="series">
+        <did>
+          <unittitle>Cook/Fairfax family letters and papers</unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation" normal="1823/1975" type="inclusive">1823-1905</unitdate>
+          <unitdate datechar="creation" normal="1861/1905" type="bulk">1861-1905</unitdate>
+        </did>
+        <arrangement id="aspace_c642a947560bd033b4050b6dc6447c9a">
+          <head>Arrangement</head>
+          <p>The letters transcribed by Mr. Stockstill are arranged first and in his original order. The remainder of the letters in the series is arranged chronologically. The research content was kept in the folders maintained by Mr. Stockstill. Documents donated in folders were refoldered but retained with that separation from other documents. Loose documents were foldered and arranged chronologically. This results in some folders with only one letter and other folders with many letters and other documents.</p>
+        </arrangement>
+        <scopecontent id="aspace_f4c0069411ec70ba5b33008ee5017e9a">
+          <head>Scope and Contents</head>
+          <p>This series contains letters and other papers as well as a few artifacts related to the life of Mary Allen Cook Fairfax. There are several letters from before Mary's birth that are part of the Cook family history. These materials tell a history of Washington DC during the Civil War and years after from the perspective of a supporter of the Confederacy. The Cook Fairfax family records date from 1823-1905. The series also includes research materials created by Louis Stockstill for the writing of a, never completed, manuscript about Mary Allen Cook Fairfax and the stories revealed in these family papers.</p>
+        </scopecontent>
+        <c id="aspace_8dcabb19ae1b2c634fdc6520e40a0052" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate certainty="approximate" datechar="creation" normal="1821/1838" type="inclusive">Circa 1821-1838</unitdate>
+            <container id="aspace_4b8e17233225dd3a1e2bd1f7298e6369" label="Mixed Materials [32882022372349]" type="Box">4</container>
+            <container id="aspace_c5a46994c9a953f9c9ed0fecc40a190f" parent="aspace_4b8e17233225dd3a1e2bd1f7298e6369" type="Folder">1</container>
+          </did>
+          <scopecontent id="aspace_4ea3385fd0f551f1f1ed7229a8d3aad3">
+            <head>Scope and Contents</head>
+            <p>The letters in this folder appear to relate to the Navy Yard and include general instructions for ships being built. Including a document that estimates the amount of copper needed for the construction of the U.S Frigate Columbia.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_e983744af8e4aeb53a399456e617f8df" level="file">
+          <did>
+            <unittitle>Cook letters and papers: originals Vol. 1</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1847/1861" type="inclusive">1847 October 01 - 1861 December 20</unitdate>
+            <container id="aspace_f0d9e3a5bd53ba27b1c6b60a96767434" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_9f3ef9ff1399f49b8b687553593235fb" parent="aspace_f0d9e3a5bd53ba27b1c6b60a96767434" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_64ac9488d282e80a948ddb65d74f3dc0" level="file">
+          <did>
+            <unittitle>Cook letters and papers: originals Vol. II</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1862/1982" type="inclusive">1862 February 19 - 1862 December 28</unitdate>
+            <container id="aspace_15de21d532a324ffe7fc763e018a6f13" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_892aec7fc6ce02e490805657020ce0c6" parent="aspace_15de21d532a324ffe7fc763e018a6f13" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_a78ff999b34101ba80093fc351e41719" level="file">
+          <did>
+            <unittitle>Cook letters and papers: originals Vol. III</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1859/1880" type="inclusive">1859 February 15 - 1880 June 14</unitdate>
+            <unitdate datechar="creation" normal="1863/1867" type="bulk">1863 January 17 - 1867 April 02</unitdate>
+            <container id="aspace_445cf9311b3c900bd6ad3399bffd93b1" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_5983dc6bc242efa7875bc07cbe18c586" parent="aspace_445cf9311b3c900bd6ad3399bffd93b1" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_ba17406a2fdc47b244243e907f67086d">
+            <head>Scope and Contents</head>
+            <p>The undated note written by Louis Stockstill that follows the April 13 letter contains the image of John Wilkes Booth that Stocksill refers to in his note. This note preceeds a copy of the order to incarcerate Mary Cook. At the end of the third section of this volume is a letter from 1859 written by Annie Surratt to her mother. Also a letter written to Mary Cooke from C.V.[Catherine Virginia] Baxley. There is also some Stockstill notes and a letter written in 1880 by then U.S. Senator and former Governor of Georgia, Joseph E. Brown to Mary Cook.</p>
+          </scopecontent>
+          <controlaccess>
+            <persname authfilenumber="https://lccn.loc.gov/n81056575" rules="dacs" source="naf">Surratt, Mary E. (Mary Eugenia), 1820-1865</persname>
+          </controlaccess>
+        </c>
+        <c id="aspace_675923fbd0b117ba4353a54d5f52b682" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts Vol. 1</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1847/1861" type="inclusive">1847 October 01 - 1861 December 20</unitdate>
+            <container id="aspace_adfbdf6f36928abeba084a4f4c4b7d1f" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_2532d0fc149e2c4047fa60c957d48c5c" parent="aspace_adfbdf6f36928abeba084a4f4c4b7d1f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_5a80424d02b0f9455e5aac09bfe2f83d" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts Vol II</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1862/1862" type="inclusive">1862 February 19 - 1862 December 28</unitdate>
+            <container id="aspace_479cb6d241608ff87fb5060a9b4b77b3" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_eccee9b8122996f29b9f0aa9ef69c8bc" parent="aspace_479cb6d241608ff87fb5060a9b4b77b3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_b1ce804d26bfdd01e8e41c0857664b02" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts Vol. III</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1859/1880" type="inclusive">1859 February 15 - 1880 June 14</unitdate>
+            <unitdate datechar="creation" normal="1863/1867" type="bulk">1863 January 17 - 1867 April 02</unitdate>
+            <container id="aspace_1b37655ed4907981bd34dfd5a79a0589" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_d3391a604a05e8d276ff7d3727a9ecc8" parent="aspace_1b37655ed4907981bd34dfd5a79a0589" type="Folder">6</container>
+          </did>
+          <scopecontent id="aspace_1d126dc99cdf648f19bd48ee31e8d03f">
+            <head>Scope and Contents</head>
+            <p>In the folder of originals for this set the undated note written by Louis Stockstill that follows the April 13 letter contains the image of John Wilkes Booth that Stocksill refers to in his note. This note preceeds a copy of the order to incarcerate Mary Cook. At the end of the third section of this volume is a letter from 1859 written by Annie Surratt to her mother. Also a letter written to Mary Cooke from C.V.[Catherine Virginia] Baxley. There is also some Stockstill notes and a letter written in 1880 by then U.S. Senator and former Governor of Georgia, Joseph E. Brown to Mary Cook.</p>
+          </scopecontent>
+          <controlaccess>
+            <persname authfilenumber="https://lccn.loc.gov/n81056575" rules="dacs" source="naf">Surratt, Mary E. (Mary Eugenia), 1820-1865</persname>
+          </controlaccess>
+        </c>
+        <c id="aspace_f370c9dc8b32b76ac057910087bf06e4" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts Vol. III [duplicate]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1859/1880" type="inclusive">1859 February 15 - 1880 June 14</unitdate>
+            <unitdate datechar="creation" normal="1863/1867" type="bulk">1983 January 17 - 1967 April 02</unitdate>
+            <container id="aspace_54bcc5cfc72c3fddd357d932c7e4954a" label="Mixed Materials [32882022372125]" type="Box">1</container>
+            <container id="aspace_17cdd711e65dcba5273e079540c262ce" parent="aspace_54bcc5cfc72c3fddd357d932c7e4954a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_801a8130e05b23920207c3437f43d902" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts [duplicates]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1847/1862" type="inclusive">1847-1862</unitdate>
+            <container id="aspace_9e0d3a8a608f553cd27d6b126af6234c" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_73bfe42812cc88ef6cde7da55296bfda" parent="aspace_9e0d3a8a608f553cd27d6b126af6234c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_0652d916ab5abf598866cf90f6cfc395" level="file">
+          <did>
+            <unittitle>Cook letters and papers: transcripts</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1852/1961" type="inclusive">1852 September 23 - 1861 December 20</unitdate>
+            <container id="aspace_4074847c111377413055f1271ab11373" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_b81f21c0b0f6b153e62c9539eefbcfcb" parent="aspace_4074847c111377413055f1271ab11373" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c496a8c20e0b66e698ecf38c9b454ec0" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1863/1889" type="inclusive">1863-1889</unitdate>
+            <container id="aspace_bad41eaab638c9dab2bc3a69b7293a48" label="Mixed Materials [32882022372349]" type="Box">4</container>
+            <container id="aspace_bd5d8041e35510abea9150718408df01" parent="aspace_bad41eaab638c9dab2bc3a69b7293a48" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f4f1ef2add65c40420faefc8f9f67f6f" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1889/1898" type="inclusive">1889-1898, undated</unitdate>
+            <container id="aspace_88e8751a35829adaad09dc260de4c7f8" label="Mixed Materials [32882022372349]" type="Box">4</container>
+            <container id="aspace_69590702a7cc1df8ad2a67df670bc6ac" parent="aspace_88e8751a35829adaad09dc260de4c7f8" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_b9d89223ea50f493fe7601f9d8a0a847">
+            <head>Scope and Contents</head>
+            <p>Many of the letters in this folder relate to the story of Mary Fairfax draping her home in mourning to commemorate the death of Jefferson Davis and the support she received for this action by many in the South. This topic is also covered in box 2 folder 12. There is also a letter from Varina Davis thanking Mary Fairfax for sending a note of sympathy on the passing of her daughter Winnie.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_3484fdbb9353e201a56f77748f8a4eb7" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: receipts]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1840/1898" type="inclusive">Circa 1840-1898</unitdate>
+            <container id="aspace_a88a4a63ff4c592cf36943d88a1943d7" label="Mixed Materials [32882022372349]" type="Box">4</container>
+            <container id="aspace_cefe1764d3e5ed07c45b96c2c807595e" parent="aspace_a88a4a63ff4c592cf36943d88a1943d7" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_2b94aba5af4976706682a0f31dc1222e">
+            <head>Scope and Contents</head>
+            <p>This folder contains receipts and notes related to the Owner, Cook, and Fairfax families</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b103d752e4d5ac6648655842f56934eb" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1846/1999" type="inclusive">Circa 1846 - 1999</unitdate>
+            <container id="aspace_7b03ac9ca941bcbf9cf84a00d5c2db70" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_00574e0fe4949718085fa6a36ba1272b" parent="aspace_7b03ac9ca941bcbf9cf84a00d5c2db70" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0258756a024b30bb445d12944153d49f" level="file">
+          <did>
+            <unittitle>Rhodehamel correspondence [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1863/1999" type="inclusive">1863-1999</unitdate>
+            <container id="aspace_c63bac500840d90746f119d9a93e7c6e" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_23dd8e6d95e2c36da2ee2333d65cb40b" parent="aspace_c63bac500840d90746f119d9a93e7c6e" type="Folder">4</container>
+          </did>
+          <scopecontent id="aspace_e5f99c529c9b14e2011e56c4c8b13616">
+            <head>Scope and Contents</head>
+            <p>This file contains correspondence from and to Louis Stockstill concerning his plans to publish a book using the Cook-Fairfax records. STockstill provides background to Mr. Rhodehamel that may be useful for researchers.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_cf102650f09d0f02c525a0843ca32abf" level="file">
+          <did>
+            <unittitle>Correspondence James to Mary concerning silver [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1868/1868" type="inclusive">1868</unitdate>
+            <container id="aspace_7fbc4e2b7e27d054dac358c287d045b1" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_26578844762a4ef982fef5733c1a444d" parent="aspace_7fbc4e2b7e27d054dac358c287d045b1" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2cc7638bfabb2aed7c6d8d356217ef33" level="file">
+          <did>
+            <unittitle>Correspondence James Cook to mother [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1869/1869" type="inclusive">1869</unitdate>
+            <container id="aspace_e58986924962741ce99337602bd3ab8b" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_65dec5971f7c7fd857ac721f51bcb266" parent="aspace_e58986924962741ce99337602bd3ab8b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_488b1c5e6595daad6780d179061779c9" level="file">
+          <did>
+            <unittitle>Receipts [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1865/1896" type="inclusive">1865-1896</unitdate>
+            <container id="aspace_9526902b334134de51e8f9753130a634" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_0a4643d44579e806647cc83b0e3fb254" parent="aspace_9526902b334134de51e8f9753130a634" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_52f03109a61f8a459d9217e3875952b2" level="file">
+          <did>
+            <unittitle>Letter to Frederick Fairfax from Admiral [A.M?] Fairfax [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1875/1875" type="inclusive">1875</unitdate>
+            <container id="aspace_94547218a76bebbe2d92c165af8fe6e8" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_cca2306eb8b561e839d4e0494e94e723" parent="aspace_94547218a76bebbe2d92c165af8fe6e8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1cfc7084d80eaf29f0e9e82fe2c25ba1" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1883/1883" type="inclusive">1883</unitdate>
+            <container id="aspace_ee9fb140d7c0a02eb9cd3fc0ab6212a9" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_f90b5cbd1c0c0c697a749f5495048bf6" parent="aspace_ee9fb140d7c0a02eb9cd3fc0ab6212a9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_91e9e1efda41cd21faa8545ecb54d114" level="file">
+          <did>
+            <unittitle>[Envelopes with writing and annotations] [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1888/1905" type="inclusive">Circa 1888-1905</unitdate>
+            <container id="aspace_d028aefbb3e69c828d880c9e0c7ff8ec" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_b8719b21833bac5e71584bd63c2f6ca0" parent="aspace_d028aefbb3e69c828d880c9e0c7ff8ec" type="Folder">10</container>
+          </did>
+          <odd id="aspace_6cd0d09b21811a6966ee8708e4081241">
+            <head>General</head>
+            <p>The donor provided the title "stamps" for the contents of this folder. Many of these envelopes have writing as if they were part of letters or used as paper. Many contain stories, opinions, and grievances of Mary Fairfax about the war, slavery, Black people, and the Yankees. Many of these writings are extremely challenging to read.</p>
+          </odd>
+        </c>
+        <c id="aspace_21c089faaacbff3f9ecc41af97c3526d" level="file">
+          <did>
+            <unittitle>The Vestry of Washington Parish [Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1888/1901" type="inclusive">1888-1901</unitdate>
+            <container id="aspace_32ae30cf9b21c4a3eeb519842f6ed674" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_391b8961bfb984488881626c0e8d4eda" parent="aspace_32ae30cf9b21c4a3eeb519842f6ed674" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_63e5283efbf1b08821c7a39b6486b297" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1890/1890" type="inclusive">1890</unitdate>
+            <container id="aspace_111750ad45dc3efcd1bc0f3d0979e216" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_46078aa69ece1aeb86e00cdaa308a6f1" parent="aspace_111750ad45dc3efcd1bc0f3d0979e216" type="Folder">12</container>
+          </did>
+          <odd id="aspace_fb948816982ef00cd5cbb747a6e9717f">
+            <head>General</head>
+            <p>Many of the letters in this folder relate to the story of Mary Fairfax draping her home in mourning to commemorate the death of Jefferson Davis and the support she received for this action by many in the South. This topic is also covered in box 4 folder 3.</p>
+          </odd>
+        </c>
+        <c id="aspace_00b83bd53958d13d364bc6cf6fe98350" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1891/1896" type="inclusive">1891-1896</unitdate>
+            <container id="aspace_2eb5d7708ae5549b23993c9a58856df6" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_6c5e7131a38b78c65e1cd2a86a47c3f7" parent="aspace_2eb5d7708ae5549b23993c9a58856df6" type="Folder">13</container>
+          </did>
+          <scopecontent id="aspace_745dc28189ed5d391d9378c9565ac5d5">
+            <head>Scope and Contents</head>
+            <p>This folder contains the constitution of the Mary Custis-Lee Division of the National Daughters of the Confederacy founded February 14, 1895.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_6f092401add4fbf3b1f66a28d3eb8742" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1894/1894" type="inclusive">1894</unitdate>
+            <container id="aspace_19a60e9b7d488da44b75ee71473cbedf" label="Mixed Materials [32882022372133]" type="Box">2</container>
+            <container id="aspace_b1ed49231145cbfdfb97324ed312015c" parent="aspace_19a60e9b7d488da44b75ee71473cbedf" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_3e9a61b90d70f07bb9c1dea3c7f52808" level="file">
+          <did>
+            <unittitle>Correspondence concerning properties owned by the Cook - Fairfax family [Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1894/1930" type="inclusive">1894-1930</unitdate>
+            <container id="aspace_62e4d2ded21f244060555259d5a43b4f" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_344a7d7b4c702bc9fb43395c956fb7e5" parent="aspace_62e4d2ded21f244060555259d5a43b4f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_10495621f820d7bd77127404da17addc" level="file">
+          <did>
+            <unittitle>Correspondence between Frederick Fairfax and his sister Emily [Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate certainty="approximate" datechar="creation" normal="1873/1880" type="inclusive">1873-1880, undated</unitdate>
+            <container id="aspace_24538d64106418eb46c20254ce64a8f4" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_7afe7a65e8e7cb1fa9850d5be2030206" parent="aspace_24538d64106418eb46c20254ce64a8f4" type="Folder">2</container>
+          </did>
+          <scopecontent id="aspace_1a86d852ea9e8b9c6ff0671f30462f9a">
+            <head>Scope and Contents</head>
+            <p>The folder also includes a letter to Frederick from a counsin and a 1937 newspaper article about the Lord Fairfax and his family.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_821d2425d4b6aacf70479a57811eaa7b" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: research materials]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1852/1964" type="inclusive">1852-1964</unitdate>
+            <container id="aspace_16bed1c3ec75ecacde6d665c5afad3be" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_f77952803ec4425db588826af0e862fa" parent="aspace_16bed1c3ec75ecacde6d665c5afad3be" type="Folder">3</container>
+          </did>
+          <scopecontent id="aspace_d63759740824b273be9686994b962a78">
+            <head>Scope and Contents</head>
+            <p>This folder correspondence to Mr. Stockstill from libraries he asked for research assistance, and historic newspaper articles with background research.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_57fff3b294a3eed437f8b617f8290388" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: research materials]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1867/1889" type="inclusive">1867-1889, undated</unitdate>
+            <container id="aspace_0e493f348d5d8df292c8f7efc53d8324" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_f5371e3e3ac637cc26dc283f9586bd10" parent="aspace_0e493f348d5d8df292c8f7efc53d8324" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_695a5906e949119f35118e59fa9a8863" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: research materials]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="inclusive">Undated</unitdate>
+            <container id="aspace_e56d24922cb1900538ad642f8863f25c" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_25c64d90d9595183a8548d3a51f7215b" parent="aspace_e56d24922cb1900538ad642f8863f25c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_040b6925e03bbdabcb3a59a298c40821" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: research materials]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" type="inclusive">Undated</unitdate>
+            <container id="aspace_a591b69040b858a26de24412ac3c5503" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_1d4e4cdc5d32f4fade811cc6f273174b" parent="aspace_a591b69040b858a26de24412ac3c5503" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_f96d2c9e2b738da7160a63a9490f3b61" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers: research notes]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1969/1975" type="inclusive">1969-1975</unitdate>
+            <container id="aspace_6aaa98aa2675ba69f06b4aa538012db7" label="Mixed Materials [32882022372141]" type="Box">3</container>
+            <container id="aspace_4c2094c2724e198b92473be27bc092ea" parent="aspace_6aaa98aa2675ba69f06b4aa538012db7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_9574bfa2877b59604ed3e2463544b9bd" level="file">
+          <did>
+            <unittitle>[Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1880/1904" type="inclusive">Circa 1852,1880 - 1904</unitdate>
+            <container id="aspace_52ceaa330d6a0d48df28bb62b11a9c24" label="Mixed Materials [32882022372349]" type="Box">4</container>
+            <container id="aspace_cfe5f3a013f88dac4dfa3e771b90d054" parent="aspace_52ceaa330d6a0d48df28bb62b11a9c24" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_d00eca80676fe256b39a8308ad5289dd" level="file">
+          <did>
+            <unittitle>Montgomery Mounted Rifle [fabric certificate] and Encampment Camp Pelham [fabric pendant] [Cook family letters and papers]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1890/1890" type="inclusive">1890</unitdate>
+            <container altrender="Flat Storage Box" id="aspace_001c4688d16ee9d2492ace022696e47d" label="Realia [32882022371861]" type="Box">9</container>
+            <container id="aspace_0bb1d79d58ecbec736813593f2ac13b5" parent="aspace_001c4688d16ee9d2492ace022696e47d" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_9a0e3bc04def235c2c1491e5cdcb8098" level="series">
+        <did>
+          <unittitle>Louis R. Stockstill papers</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="1920/2004" type="inclusive">1920-2004</unitdate>
+        </did>
+        <arrangement id="aspace_a64ffa319063c4f019b2d62a2f488ba2">
+          <head>Arrangement</head>
+          <p>Organized into 6 subseries: Biographical materials, Correspondence, Scrapbooks, Articles and other work related materials, Photographs, and Artifacts.</p>
+        </arrangement>
+        <scopecontent id="aspace_cf58692270da4c79ffdfe2b3a11da44e">
+          <head>Scope and Contents</head>
+          <p>This series contains personal and work records for Louis R. Stocktill. Documents include correspondence, articles both written by him and newspaper clippings found in scrapbooks, World War II medals and ribbons, and photographs. These records date from 1920-2004 covering the life of Louis Stockstill. The photographs are primarily taken by the Navy and most likely retained by Mr. Stockstill as part of his work as a journalist.</p>
+        </scopecontent>
+        <c id="aspace_933636b4917e35bbc15dabe922684a57" level="subseries">
+          <did>
+            <unittitle>Biographical materials</unittitle>
+            <unitid>Series 2 Subseries 1</unitid>
+          </did>
+          <arrangement id="aspace_db1c7fb64a378c849ed3f29030367dcc">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c id="aspace_2030fb03eb1cc2fdc3d2f5be703b1ce9" level="file">
+            <did>
+              <unittitle>Personal documents</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1920/1954" type="inclusive">1920-1954</unitdate>
+              <container id="aspace_2bd62b70ac8f9c049957274bf37e5658" label="Mixed Materials [32882022372141]" type="Box">3</container>
+              <container id="aspace_30f248d8b86652f6044e972da1aa28b8" parent="aspace_2bd62b70ac8f9c049957274bf37e5658" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_334ff26086cc38f3831563f980875df6" level="file">
+            <did>
+              <unittitle>Bartlesville High School class of 1939</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1939/1989" type="inclusive">1939, 1989</unitdate>
+              <container id="aspace_60a01e20b1fcc5d9914bae1517b18036" label="Mixed Materials [32882022372141]" type="Box">3</container>
+              <container id="aspace_b9bd37186b3f22a334fc063ca93c16eb" parent="aspace_60a01e20b1fcc5d9914bae1517b18036" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_1a268bed4daa15c280208544f56f2436" level="file">
+            <did>
+              <unittitle>Biographical documents</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1946/1969" type="inclusive">Circa 1946-1969</unitdate>
+              <container id="aspace_9fa502a750ba2b8da6dc70f0670a8d01" label="Mixed Materials [32882022372141]" type="Box">3</container>
+              <container id="aspace_a59c158f40c1fa87e09a13bd0bdd70cf" parent="aspace_9fa502a750ba2b8da6dc70f0670a8d01" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_43b4ca1193db247d5e5e40b606529155" level="file">
+            <did>
+              <unittitle>Citation, diploma, portrait</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate certainty="approximate" datechar="creation" normal="1951/1970" type="inclusive">1951, 1970, undated</unitdate>
+              <container altrender="Flat Storage Box" id="aspace_d699121da6be9c28951fb5c480425e1e" label="Mixed Materials [32882022371861]" type="Box">9</container>
+              <container id="aspace_40403c273e8f641c9315a9e39a8a9570" parent="aspace_d699121da6be9c28951fb5c480425e1e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_99fabb126874c1cfdbec6f42a57e38c4" level="file">
+            <did>
+              <unittitle>[Invitations and event documents] [1/2]</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1953/1962" type="inclusive">Circa 1953-1962</unitdate>
+              <container id="aspace_f0dcdbad95d4933cceebc3fd15d00bf8" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_e0b8bd26a229f33e6021db838409bf15" parent="aspace_f0dcdbad95d4933cceebc3fd15d00bf8" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_0507d52ad148e65703f6edbcb2bb3ca5" level="file">
+            <did>
+              <unittitle>[Invitations and event documents] [2/2]</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1953/1962" type="inclusive">Circa 1953-1962</unitdate>
+              <container id="aspace_e4b2fd753d2baeaf1882f8dab07c60a4" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_0bb9ee3d0922ed14bc3a13636206dec9" parent="aspace_e4b2fd753d2baeaf1882f8dab07c60a4" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_7e34a531e349d7dd2554ae0ac0763210" level="file">
+            <did>
+              <unittitle>Christmas letters</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1957/2003" type="inclusive">1957-2003</unitdate>
+              <container id="aspace_ebe6be60608a1586adab3197da1d26c5" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_c0e56369007e8400b680cc02d10b15f8" parent="aspace_ebe6be60608a1586adab3197da1d26c5" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_d35427cde8d42026d41a4a40d0ce3c94" level="file">
+            <did>
+              <unittitle>Personal memorabilia</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1973/2001" type="inclusive">1973-2001</unitdate>
+              <container id="aspace_2f61b989bdc1c0ab6602a3cfc05e9818" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_7c92ca3ae24cf0c718b2f8406e7d8c2a" parent="aspace_2f61b989bdc1c0ab6602a3cfc05e9818" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_3ac08ad640c956309d761e3070570414" level="file">
+            <did>
+              <unittitle>Henegar Center</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate>
+              <container id="aspace_c8d88f729bf8fef244143048aab42b70" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_fecb19a1e257defde20a481412c91406" parent="aspace_c8d88f729bf8fef244143048aab42b70" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_b51729d69bc95836954a8af2b3ef5698" level="file">
+            <did>
+              <unittitle>Funeral of Louis R. Stockstill</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004 September 14</unitdate>
+              <container id="aspace_714462e1490e34cef3230e9d450b7339" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_a0be23d64edf50142b959ebabeb41ab7" parent="aspace_714462e1490e34cef3230e9d450b7339" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ce91c0a261889ccdd2a7ce087701e3ce" level="item">
+            <did>
+              <unittitle>Carl Vinson patriarch of the armed forces by James F. Cook</unittitle>
+              <unitid>Series 2 Subseries 1</unitid>
+              <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+              <container altrender="Flat box 13.25x3.25x11" id="aspace_c724d5e2f5d03a384aa233d7b2d1f382" label="Books [32882022371879]" type="Box">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_768c7c8158a9c9253cd67ce266165852" level="subseries">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 2 Subseries 2</unitid>
+          </did>
+          <arrangement id="aspace_1d92d05306a25b3c7d5a22c1df16e773">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c id="aspace_eb34bccf4cc08f8d1d473c70c1f86b84" level="file">
+            <did>
+              <unittitle>Correspondence [1/2]</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1952/1962" type="inclusive">1952-1962</unitdate>
+              <container id="aspace_ea96eaf39482d7acbfe0d350f3d188d4" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_7386b318f9fadcf9e6382969b18d74c3" parent="aspace_ea96eaf39482d7acbfe0d350f3d188d4" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_c77e0260b2c883ba0a791a716a8c565b" level="file">
+            <did>
+              <unittitle>Correspondence [2/2]</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1952/1962" type="inclusive">1952-1962</unitdate>
+              <container id="aspace_1262597e320d0f500b86b9d61e5defe6" label="Mixed Materials [32882022371671]" type="Box">5</container>
+              <container id="aspace_a93557fb4162745e00454ef9731a6e30" parent="aspace_1262597e320d0f500b86b9d61e5defe6" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_89f54241a809729cbab839fad66d98f6" level="file">
+            <did>
+              <unittitle>Correspondence and articles</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1956/1967" type="inclusive">1956-1967</unitdate>
+              <container id="aspace_6ebab2e0c9f0602e4e2e38e79ae0e0be" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_6c7c8971dcdf6f180e6e5a9f14ae2955" parent="aspace_6ebab2e0c9f0602e4e2e38e79ae0e0be" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_3425d38da73226f23969feadec921401" level="file">
+            <did>
+              <unittitle>Correspondence: appointment as Journal editor</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+              <container id="aspace_7e1cef54bf8b94f5d456a723d2950f03" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_c076422db47e51ce87c6445ca06bc1bf" parent="aspace_7e1cef54bf8b94f5d456a723d2950f03" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_c271f27c3b2166c7d9f95b692a047d2c" level="file">
+            <did>
+              <unittitle>Correspondence [1/2]</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
+              <container id="aspace_b048f70e77eefa1985d3b7a43ecb5633" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_a0ea9b92160a823020833055aa6e79d9" parent="aspace_b048f70e77eefa1985d3b7a43ecb5633" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_786c13aad42b73aa5e1bcb5fae0e9cd2" level="file">
+            <did>
+              <unittitle>Correspondence [2/2]</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
+              <container id="aspace_4047530461f68c4b6a3a8a68a7d47abc" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_139149f10dff491692cdd9cafb066c63" parent="aspace_4047530461f68c4b6a3a8a68a7d47abc" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_9cc4787300f76ad148b04d899a83936d" level="file">
+            <did>
+              <unittitle>Correspondene Schemmer letters</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+              <container id="aspace_45963cf279d634c60c2191978ec72c83" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_9556d6c5a086531d544321eac349fd19" parent="aspace_45963cf279d634c60c2191978ec72c83" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_4eccf586834fb14b7d940604bfd0795e" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitid>Series 2 Subseries 2</unitid>
+              <unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1977</unitdate>
+              <container id="aspace_ecc02c0801ccdcb159c3e5ff1b5e45c6" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_048acf4f8fc9fdc097f3e9198598b8ec" parent="aspace_ecc02c0801ccdcb159c3e5ff1b5e45c6" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ff3226791606868cb36b3bae49f4aecc" level="subseries">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitid>Series 2 Subseries 3</unitid>
+          </did>
+          <arrangement id="aspace_a2fa07ab7626abbc31870f19d6a6dfb3">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c id="aspace_c52938a57d709a63ca254a6f5fbd3b03" level="file">
+            <did>
+              <unittitle>Scrapbook</unittitle>
+              <unitid>Series 2 Subseries 3</unitid>
+              <unitdate datechar="creation" normal="1949/1984" type="inclusive">1949-1984</unitdate>
+              <container id="aspace_d0a9d527f9b81f3195fa3fc2bd825416" label="Mixed Materials [32882022372356]" type="Box">6</container>
+              <container id="aspace_5d6f8623ef272c8edd788c5df82d99e9" parent="aspace_d0a9d527f9b81f3195fa3fc2bd825416" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_d7e8dd94b21165cb9affd0e8bfe7015b" level="file">
+            <did>
+              <unittitle>Scrapbook</unittitle>
+              <unitid>Series 2 Subseries 3</unitid>
+              <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+              <container id="aspace_603989cef27c8b6e1a74f3787d17da73" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_88485c30b8881d6db8047154d566483a" parent="aspace_603989cef27c8b6e1a74f3787d17da73" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_7ad85862ad52a6ac2e7478062ecc118d" level="file">
+            <did>
+              <unittitle>Scrapbook</unittitle>
+              <unitid>Series 2 Subseries 3</unitid>
+              <unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate>
+              <container altrender="Flat Storage Box" id="aspace_2d6f39fec89d1563b6dcb9c45164ce4d" label="Mixed Materials [32882022371861]" type="Box">9</container>
+              <container id="aspace_a36fe4917df3a3d9d7c2433d6d0e3215" parent="aspace_2d6f39fec89d1563b6dcb9c45164ce4d" type="object">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_728a39aaf21ea2b610b94eabcc3f8212" level="subseries">
+          <did>
+            <unittitle>Articles and other work related materials</unittitle>
+            <unitid>Series 2 Subseries 4</unitid>
+          </did>
+          <arrangement id="aspace_a4c7481068ff6d2307ebe3e08b6a2cfb">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c id="aspace_b433201735305a5ee2e3be6e6452b5aa" level="file">
+            <did>
+              <unittitle>13th Annual National Strategy Seminar</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 June 06-09</unitdate>
+              <container id="aspace_d4747f48b18fabf3457c7358da9871ed" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_27f75f3f833dca08e8b8295e0c3277f4" parent="aspace_d4747f48b18fabf3457c7358da9871ed" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_d2250c69e0e1095bae08f5e19489acfe" level="file">
+            <did>
+              <unittitle>Articles retired officers industry</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+              <container id="aspace_3964333b7d6eaa38e82d8b229c0d8316" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_c8768c34e28702fbaca8385fac733759" parent="aspace_3964333b7d6eaa38e82d8b229c0d8316" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_a6f3585a07eac001b083b8456579b704" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+              <container altrender="Flat Storage Box" id="aspace_86f7b53d0c32fd22470b37fa05ed06b3" label="Mixed Materials [32882022371861]" type="Box">9</container>
+              <container id="aspace_6e906f930eb15028a4a822511c3921f1" parent="aspace_86f7b53d0c32fd22470b37fa05ed06b3" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_e633234e7eb257281ae4dec39df467d9" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1961/1973" type="inclusive">1961-1973</unitdate>
+              <container id="aspace_917b9ee4b1db2db34fc985990e42ccda" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_b6fc61d5a3157518f6952bea8f0497ea" parent="aspace_917b9ee4b1db2db34fc985990e42ccda" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_503775856e817174563cbd6d41cdea6d" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1962/1968" type="inclusive">1962-1968</unitdate>
+              <container id="aspace_6b48edb6475e01bb4317609b6e18da29" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_270279262e0570ddd2c6e7b32c890c71" parent="aspace_6b48edb6475e01bb4317609b6e18da29" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_0611320f15d0e3196ce3bb8e68934155" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container id="aspace_cfd0660c8b944016892b2fc3600704dc" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_c77ab9c05904d8dbfb3d4c8ad8bc882d" parent="aspace_cfd0660c8b944016892b2fc3600704dc" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_de98bafbe63c35ecb723cffd7620da75" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+              <container id="aspace_40dc5b6a7a57742ef9ff8f510a1e3205" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_19bc3ccf93fdb260752df04eb07fe160" parent="aspace_40dc5b6a7a57742ef9ff8f510a1e3205" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_a186e8cc3735d5021731800e8828a1de" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+              <container id="aspace_f85a371d11831b3d314849a6a411c1c2" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_886bf95e9730dd62951c9f5f7f5d913e" parent="aspace_f85a371d11831b3d314849a6a411c1c2" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_a2a1859b5a390abad95cbc535783de1d" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+              <container id="aspace_59ffe5956a28090ca5d4f24c0ddc1b0e" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_9b934edce4d7fdc9e3a4b747b6704c38" parent="aspace_59ffe5956a28090ca5d4f24c0ddc1b0e" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_4d6e6c21715dd45b9cfeb227dd69a337" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+              <container id="aspace_faf06355964c84065882a66987696045" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_ccff3608f6469291d40c859972ff1d10" parent="aspace_faf06355964c84065882a66987696045" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_a1bf3fa6274f27d17793b8ca25e536db" level="file">
+            <did>
+              <unittitle>Journal of the Armed Forces</unittitle>
+              <unitid>Series 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+              <container id="aspace_5a977b8334af86c9eebfb5789fe49906" label="Mixed Materials [32882022371853]" type="Box">7</container>
+              <container id="aspace_debb6395a85b8693bb0a9e87e3ce1b4a" parent="aspace_5a977b8334af86c9eebfb5789fe49906" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_314d0072b9188fdc1b218308fc52d128" level="file">
+            <did>
+              <unittitle>Articles</unittitle>
+              <unitid>Serie 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+              <container id="aspace_b3d2da1a622ac8524872738e763bdcee" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_a83a56d6a0b02162db0f67608d052d96" parent="aspace_b3d2da1a622ac8524872738e763bdcee" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_1629abfd48e48de395911457083d90a8" level="file">
+            <did>
+              <unittitle>Personnel symposium speech</unittitle>
+              <unitid>Serie 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969 March 20</unitdate>
+              <container id="aspace_d3ceb1ee2dc15f155558f794da2e91f3" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_9af4b5b9f99531803775802456aee1cd" parent="aspace_d3ceb1ee2dc15f155558f794da2e91f3" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_8db6b50b988e2fb26adce9f0e19f3b75" level="file">
+            <did>
+              <unittitle>Tenth Armored Division Veterans Association directory</unittitle>
+              <unitid>Serie 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1987/1990" type="inclusive">1987, 1990</unitdate>
+              <container id="aspace_a6de98f0ca03861e166ea4d2c1aac405" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_fc4170ce7e4250d68e75c3a6625cad6c" parent="aspace_a6de98f0ca03861e166ea4d2c1aac405" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_0cdd3fae4445a0fd4715c51231e26fca" level="file">
+            <did>
+              <unittitle>Testimonial dinner for Vice Admiral William F. Raborn</unittitle>
+              <unitid>Serie 2 Subseries 4</unitid>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961 April 14</unitdate>
+              <container id="aspace_f5bcb6830ecf2fcadb0e70a1583f96c8" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_8a63b711d44f0581bc3f38e8d1d82b25" parent="aspace_f5bcb6830ecf2fcadb0e70a1583f96c8" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ecfced2b46fd6cea7296ab7b3056a46f" level="subseries">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitid>Series 2 Subseries 5</unitid>
+          </did>
+          <arrangement id="aspace_762614b92bab488885d69c0232df6621">
+            <head>Arrangement</head>
+            <p>Arranged chronologically.</p>
+          </arrangement>
+          <c id="aspace_00dd11eb3167d70b77753f5722f75e34" level="file">
+            <did>
+              <unittitle>Photographs</unittitle>
+              <unitid>Serie 2 Subseries 5</unitid>
+              <unitdate datechar="creation" normal="1940/1953" type="inclusive">Circa 1940-1953</unitdate>
+              <container id="aspace_943b4dd9435ea92fc864b5285941573e" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_ebd13073bb1842c66e6c0a657b2171d2" parent="aspace_943b4dd9435ea92fc864b5285941573e" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_4d7d8a72091a73bbdb559730507a6082" level="file">
+            <did>
+              <unittitle>Photographs</unittitle>
+              <unitid>Serie 2 Subseries 5</unitid>
+              <unitdate datechar="creation" normal="1952/1967" type="inclusive">1952-1953, 1967</unitdate>
+              <container id="aspace_af14abae34d9033e26518108f43243fd" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_2b834da33d6d180928ae93b2b618ef74" parent="aspace_af14abae34d9033e26518108f43243fd" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_7f3edb4b887b287c6446397f309da34c" level="file">
+            <did>
+              <unittitle>Photographs</unittitle>
+              <unitid>Serie 2 Subseries 5</unitid>
+              <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
+              <container id="aspace_38778ebb360135e72e6ce4b586ecba7b" label="Mixed Materials [32882022372364]" type="Box">8</container>
+              <container id="aspace_c5a551c5ce2b3cf2d7781f1a089dab08" parent="aspace_38778ebb360135e72e6ce4b586ecba7b" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_cbb91d962d02188ed3cef05c1544d8b2" level="subseries">
+          <did>
+            <unittitle>Artifacts</unittitle>
+            <unitid>Series 2 Subseries 6</unitid>
+          </did>
+          <arrangement id="aspace_8489d8e39b3a7819ebb34621499bbbd5">
+            <head>Arrangement</head>
+            <p>Arranged in no particular order.</p>
+          </arrangement>
+          <c id="aspace_f77601ec4a36087a6918bc6796d16fcf" level="otherlevel" otherlevel="Box">
+            <did>
+              <unittitle>World War II medals and ribbons</unittitle>
+              <unitid>Series 2 Subseries 6</unitid>
+              <unitdate datechar="creation" normal="1940/1945" type="inclusive">1940-1945</unitdate>
+              <container altrender="Flat box 13.25x3.25x11" id="aspace_c291d6ae0ba2db225159f09ba320ef75" label="Realia [32882022371879]" type="Box">10</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

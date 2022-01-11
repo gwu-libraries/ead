@@ -1,0 +1,875 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2366.xml">ms2366.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tina Darragh literary papers collection, <date calendar="gregorian" era="ce">1974-2017</date> <num>MS2366</num></titleproper>
+        <author>Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2017</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:54:20 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Tina Darragh literary papers</unittitle>
+      <origination label="Creator">
+        <persname authfilenumber="https://lccn.loc.gov/n82038077" rules="aacr" source="naf">Darragh, Tina</persname>
+      </origination>
+      <unitid>MS2366</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1974/2016" type="inclusive">1974-2016</unitdate>
+      <physloc id="aspace_6d0c17555c0c2b167f9733b33e576070">Materials are stored off-site, and will require additional retrieval time.  Please contact the Special Collections Research Center for more information.</physloc>
+      <abstract id="aspace_f3485bed661004835bf9bbfa6b8762d9">This collection contains published poetical works collected by Tina Darragh.  The collected works include works by Tina Darragh and her conteporaries.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_4b8c5b918513cb52d0522672145061e2">
+      <head>Conditions Governing Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <userestrict id="aspace_a044e0f2521cc226ca17ea3ec57baeb6">
+      <head>Conditions Governing Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <prefercite id="aspace_c7c42cef74725f073ca6492269406c05">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3.  Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <arrangement id="aspace_763e3ceb121e5a838ca9f19a853208ce">
+      <head>Arrangement</head>
+      <p>Organized into two series: Tina Darragh writings and Non-Tina Darragh writings.</p>
+    </arrangement>
+    <acqinfo id="aspace_39e8dc57e81ea349faca6a1f60666f38">
+      <head>Immediate Source of Acquisition</head>
+      <p>Gift of Tina Darragh, March 30, 2017 (2017.014)</p>
+    </acqinfo>
+    <bioghist id="aspace_630671ece45a58695562a91e8f984d5b">
+      <head>Biographical / Historical</head>
+      <p>Tina Darragh, a local poet, has writing poetry since the late 1960s.  Born in Pittsburgh Pennsylvania, Darragh moved to Washington D.C. to attend Trinity University.  While at Trinity, Darragh became interested in writing poetry and met many other local writers.  Darragh would meet up with these writers at Mass Transit and later at Folio, local community bookshops.  Some of the poets she worked with include, Diane Ward, Joan Retallack, and P. Inman.  These poets came together to form the east coast branch of the Language group of poetry.  This style of poetry emphasizes the reader's role in the work.  
+ 
+Darragh currently lives in Greenbelt, MD with her husband P. Inman.</p>
+    </bioghist>
+    <scopecontent id="aspace_ff49ff7354823dbf1d45113f29fb1bb2">
+      <head>Scope and Contents</head>
+      <p>This collection contains published works by the poet Tina Darragh and other publications collected by her between 1974 and 2017.</p>
+    </scopecontent>
+    <odd id="aspace_0779e9f5a6b3be83cbb793a746fc5f5b">
+      <head>Bib#</head>
+      <p>17257788</p>
+    </odd>
+    <controlaccess>
+      <subject source="lcsh">Poetry -- 20th century</subject>
+      <subject source="lcsh">Poetry</subject>
+      <subject source="lcsh">Poetry -- 21st century</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_3f5248a9f9aa6a5ddc61a2ae49eab1fe" level="series">
+        <did>
+          <unittitle>Tina Darragh writings</unittitle>
+          <unitid>Series 1</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1974/2016" type="inclusive">1974-2016</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_66b8b0911c7abe674294712899885a26">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically by publication.</p>
+        </arrangement>
+        <scopecontent id="aspace_a1b314f65e58993d98f98efc74ac8efe">
+          <head>Scope and Contents</head>
+          <p>This series contains published works by Tina Darragh between 1974-2016.</p>
+        </scopecontent>
+        <c id="aspace_0ebe20ae7876f260e7ecbe66b332f6c6" level="file">
+          <did>
+            <unittitle>Aerial #4 and #5</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_3cd2acf4a216343034f78b11bedcf015" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_d0c759e27eb4fb3bc914cb8c3b46bfd3" parent="aspace_3cd2acf4a216343034f78b11bedcf015" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_48c97cbbd8e2be9092023e1be4504a83" level="file">
+          <did>
+            <unittitle>Art &amp; Con</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_57da2ebb8b32fba5c86f738bc658f6c8" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_115a3d149378e1c99ba70f0ae6350eca" parent="aspace_57da2ebb8b32fba5c86f738bc658f6c8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_6a075e22afd7d7c6353d8fcccbaad031" level="file">
+          <did>
+            <unittitle>Bad I.O.U. (Yockadot)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_5b88a108cbeee9fc563d447df2da7112" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_372c9ac85c7582f2d3c7586d7d1311b8" parent="aspace_5b88a108cbeee9fc563d447df2da7112" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2f0860bc117ff0a724a0c9709157325e" level="file">
+          <did>
+            <unittitle>Belladonna</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_033e6acbc1854f076157a69a737bfb38" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_5736bc921884218f1fe1692f7c45e0ad" parent="aspace_033e6acbc1854f076157a69a737bfb38" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_cb3abbf820c56e1ca004709d7bfb8094" level="file">
+          <did>
+            <unittitle>Belladonna Elderly #8</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_955d62c2347c0aff6a84b4d5a978a57d" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_0da9d5fcfd3f9932ad129d7bc916c3ba" parent="aspace_955d62c2347c0aff6a84b4d5a978a57d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_64fc73d38a725fc43036f15588f59c6e" level="file">
+          <did>
+            <unittitle>Big Allis #5</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_ee5fbbabf12025ba9cfd0c5dd6b83173" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_c0d541dcef1dfbb7d2ecd165624fc47d" parent="aspace_ee5fbbabf12025ba9cfd0c5dd6b83173" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_009a8c533a82cb39aa8d000f461e8966" level="file">
+          <did>
+            <unittitle>Boog Reader #4</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_1329b34f8786ad8b9e85d3dabc61b6ae" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_d7e1a576dab41884955ad85414e66437" parent="aspace_1329b34f8786ad8b9e85d3dabc61b6ae" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ff9a79253a1599f9ab16548218067df4" level="file">
+          <did>
+            <unittitle>Boundary 2</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <container id="aspace_e96b59d8cd46c40f159eb81638a76f12" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_11f8ca66c92e6d6fdf33b89de7be024a" parent="aspace_e96b59d8cd46c40f159eb81638a76f12" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_cf8f8f2480fccc1d84d6f8bc50bad07a" level="file">
+          <did>
+            <unittitle>Bridge Street Reading</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_9ac188c6cd06f1e2fe65b1b7e79e6cca" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_67308efacf590d9ddd334aa2a009714b" parent="aspace_9ac188c6cd06f1e2fe65b1b7e79e6cca" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_e72afedbdfcf944fa338624ed4e38e44" level="file">
+          <did>
+            <unittitle>Buffalo Readings</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_237e129fb189de8583ace3be19584426" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_ebfbdcf84dcad60063807562e42fac37" parent="aspace_237e129fb189de8583ace3be19584426" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_858793066ab641c716bd6cae5fe690d5" level="file">
+          <did>
+            <unittitle>Center for Book Arts</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_eff957eb49225dc2cb20efcd88374d97" label="Mixed Materials [32882021587194]" type="Box">1</container>
+            <container id="aspace_acd4db2edb94fd366acc59afe737701a" parent="aspace_eff957eb49225dc2cb20efcd88374d97" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_00cea8429df340e832b0d8d77ac9c603" level="file">
+          <did>
+            <unittitle>Chain Vol. 1</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_8d6bce6881fda293c40c427a45956dc2" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_c8c016490a0aeef26b15bf57fca1ffb3" parent="aspace_8d6bce6881fda293c40c427a45956dc2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_44f4146374ff84280747290ffa9efaa1" level="file">
+          <did>
+            <unittitle>Chain Vol. 4</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_5cd348b473f4d0a13122cc49ea3e4730" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_ac20edb189d007f0f3f2243efedcca07" parent="aspace_5cd348b473f4d0a13122cc49ea3e4730" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b136e4331e71a4cd65d0a50092bee76a" level="file">
+          <did>
+            <unittitle>Crayon Vol. 4</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_0c6e4c488413b3e930ce7a340a598120" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_790d3f253b1725d2f5c6ec6c96664355" parent="aspace_0c6e4c488413b3e930ce7a340a598120" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_674ffea59ce47a0c15376bfeec81de56" level="file">
+          <did>
+            <unittitle>DCAC Readings</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_09dd2ceacbd0762715088bf77cc61c6d" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_944eb99e31ca5df56aac5f8af1e79182" parent="aspace_09dd2ceacbd0762715088bf77cc61c6d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_36da6dff885d239443efed0524254a76" level="file">
+          <did>
+            <unittitle>DC Poetry Oral History</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_af4403dad3473911214616430664c9ab" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_cd971ff5199f0f76680bc6c3a2db1bbc" parent="aspace_af4403dad3473911214616430664c9ab" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ee4e1505f116f0e69d7b8aa766ba9271" level="file">
+          <did>
+            <unittitle>Deep Eco Pre</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container id="aspace_cdb25ec918eddebfcf0c49b09cdf95a6" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_d879469e01d847257c731ddd7676a3a7" parent="aspace_cdb25ec918eddebfcf0c49b09cdf95a6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_1d8a00cc0df68814efcae0a07ad9c08a" level="file">
+          <did>
+            <unittitle>Dog City 2</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_70dffe04920e09122acb1b00caa07e14" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_185d1ef64bc00a21f6fea4484befdb00" parent="aspace_70dffe04920e09122acb1b00caa07e14" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_dfa8ff27574534953ac99e17ca2e1b42" level="file">
+          <did>
+            <unittitle>Double Change</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2016/2016" type="inclusive">2016</unitdate>
+            <container id="aspace_8ad06ac14435836ec38d00595b3057bf" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_13449dd0ee9617386563fcebb76ec51e" parent="aspace_8ad06ac14435836ec38d00595b3057bf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_fa4fd07a1fff56d5b53d17756c5e3de8" level="file">
+          <did>
+            <unittitle>Drawing Center</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_ec6fdeb210835345de87f19312dbbf7b" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_ca4c143dccdda3fbb7312e3ce5fee1ae" parent="aspace_ec6fdeb210835345de87f19312dbbf7b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_8000005aa639d4cf3f454a85feaf3f10" level="file">
+          <did>
+            <unittitle>deep rim instructions</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_b875229dc15747a164a27a94ed902337" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_c74af7db22a7ca274268c538bd8a3ca9" parent="aspace_b875229dc15747a164a27a94ed902337" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_16397e1aa177d816f1756bb89175be30" level="file">
+          <did>
+            <unittitle>Ecopoetics No. 415</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container id="aspace_09a0de4f5d9145b028e14e335bebdc4b" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_d97545b9cd0a9776d6c86d6241cc2336" parent="aspace_09a0de4f5d9145b028e14e335bebdc4b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_45c4b4057281e1b77bdc08e35e1faa40" level="file">
+          <did>
+            <unittitle>Enough</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_759465c28d7d64c833287d3c62122528" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_5184efa8a4b6952286c607c578911848" parent="aspace_759465c28d7d64c833287d3c62122528" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_f021b24f2c8ac1c5b4be47f1d247d9bd" level="file">
+          <did>
+            <unittitle>Etruscan Jetty</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_631b1b0823e004196a014e4f4337251a" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_c752537993f4d6a3f34ac0e118aa9095" parent="aspace_631b1b0823e004196a014e4f4337251a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_898377b634bf1fe83d37eb870c85a7a8" level="file">
+          <did>
+            <unittitle>Exposed Faces</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_28ad26f01d056a40b9969edd0e21e84b" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_6bce155635171f150c86618f04d7d70d" parent="aspace_28ad26f01d056a40b9969edd0e21e84b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_627a394a6705aafec789fdf19931dd52" level="file">
+          <did>
+            <unittitle>i.e. reader (Baltimore)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container id="aspace_1d07cdd3ba9ea3eaf2436e0cd8a4820f" label="Mixed Materials [32882021587202]" type="Box">2</container>
+            <container id="aspace_ed0639bad8a72de48ed3b3c363a4ac9d" parent="aspace_1d07cdd3ba9ea3eaf2436e0cd8a4820f" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ffc5943449756d345fc24c550b0efb17" level="file">
+          <did>
+            <unittitle>I'll Drown My Book</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
+            <container id="aspace_e0d8649d875040f66b7abdcaf2bebe28" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_4ed32f3b7c5c197c848516be0966fadd" parent="aspace_e0d8649d875040f66b7abdcaf2bebe28" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_689def265a177ce301721ace3534dd39" level="file">
+          <did>
+            <unittitle>Ironwood 20</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_d64df08bb2ee4044ba662009314f40fc" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_b5a967a3e585e7053d28490d1da1d613" parent="aspace_d64df08bb2ee4044ba662009314f40fc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4fac457cbc0267163d5fa94ff57bb5a6" level="file">
+          <did>
+            <unittitle>La Bas</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_09060bcb0c9c952fe775a34650fa9528" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_9a4fb79d40f73d18468cc8c5e4e5227a" parent="aspace_09060bcb0c9c952fe775a34650fa9528" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_22c472e431d914f780e4d9288c99dcc8" level="file">
+          <did>
+            <unittitle>La Lengua Radical</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_53c6138276d092a6d62bf0191d18ba01" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_de2c9e7f7ec900ed0e234561693f2a71" parent="aspace_53c6138276d092a6d62bf0191d18ba01" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_b2685b149229e617c60729447b478ae0" level="file">
+          <did>
+            <unittitle>Lipstick Eleven No. 3</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_df8f3e4ff0edd4e4cca2501282e49a12" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_07d9a9502d92eec659e2ed8e6d65864f" parent="aspace_df8f3e4ff0edd4e4cca2501282e49a12" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_d9fb6a7fddf56f05a8465fcd7eb3a9d5" level="file">
+          <did>
+            <unittitle>Long News Issue 3</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_84ed48c1033125b7a9f1c3b82b273d67" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_337ad554ac07e25580931ddc8ebcf10f" parent="aspace_84ed48c1033125b7a9f1c3b82b273d67" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_eb216447c8caeda4b2cdb18d5658b9de" level="file">
+          <did>
+            <unittitle>Mass Transit</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1974/1987" type="inclusive">1974-1987</unitdate>
+            <container id="aspace_60b2bb77e58e3465e926547cf05225a4" label="Mixed Materials [32882021587210]" type="Box">3</container>
+            <container id="aspace_92a8989c1fd235aec1c43625b4a4c888" parent="aspace_60b2bb77e58e3465e926547cf05225a4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d2433b37281e367b9ed485de1e1174f6" level="file">
+          <did>
+            <unittitle>Moving Borders</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_28d1defe38654f8a1c605b69cc54833c" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_316a05804bc30c61b0d0507471affb68" parent="aspace_28d1defe38654f8a1c605b69cc54833c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_03dfbd10bd4e13fbf203963dea1096d4" level="file">
+          <did>
+            <unittitle>Non/Narrative (Poetics Journal Number 5)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_c2869aed429548d4549e71880cae10ff" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_54dac59027103c727aabe88c6ad2f9f5" parent="aspace_c2869aed429548d4549e71880cae10ff" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_9e254d36326b48063bda8e843bad143f" level="file">
+          <did>
+            <unittitle>O Anthology</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_3a36009740c38c3788095d4723731c5d" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_c6ed61d2e3114bfa99fd731c23b720b5" parent="aspace_3a36009740c38c3788095d4723731c5d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_c39c38e323e084c13de54170b3363091" level="file">
+          <did>
+            <unittitle>Opposable Dumbs</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container id="aspace_0eaee2e5c40e9a243f1c4ee210de34ce" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_8d1e80b6e33fcc7c3ff0e5ee38f2e6c9" parent="aspace_0eaee2e5c40e9a243f1c4ee210de34ce" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_04ced37243ed71d6e4a886abd67f96a7" level="file">
+          <did>
+            <unittitle>Paris Review 86</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_e569b1b12a878d486af219e268d05b58" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_56a19be1a62b235df2169fe1090b3dd4" parent="aspace_e569b1b12a878d486af219e268d05b58" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_be8272c3aee635bb7ec93b2f57a991b1" level="file">
+          <did>
+            <unittitle>Pessimistic Labor</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_d67a7091250b9b18106b333a25bf71b3" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_847b216de92359fb2d2cf6fcfe676f56" parent="aspace_d67a7091250b9b18106b333a25bf71b3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_53455ad07b0e00c45131cd729e1b9f5a" level="file">
+          <did>
+            <unittitle>Philly Talks</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_b311dc88f1ae032fb1d5d994cc64cae9" label="Mixed Materials [32882021587228]" type="Box">4</container>
+            <container id="aspace_50e5e0635ad4331c64e9ebaaa15cb999" parent="aspace_b311dc88f1ae032fb1d5d994cc64cae9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_4bc8faa4f2d0cee932f9b3c518b52a00" level="file">
+          <did>
+            <unittitle>Poetry Project</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1983/2009" type="inclusive">1983-2009</unitdate>
+            <container id="aspace_656811a4c80d0f6f16be19e2bf2a0b9d" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_9b8f22c1c63d792f5ee2a36ef33883ad" parent="aspace_656811a4c80d0f6f16be19e2bf2a0b9d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3b73314b7f2b50c95689e8988bc76d4f" level="file">
+          <did>
+            <unittitle>Primary Writing</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_34ff2e7bb81ea3291263e0b1308fcfe8" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_91eff7ece43e352b78be8908eee84e81" parent="aspace_34ff2e7bb81ea3291263e0b1308fcfe8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_465ff39e174566cec44a25e073e6df78" level="file">
+          <did>
+            <unittitle>Reading Flyers etc.</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_65101c4e8cc58c105cac018fdee0ae17" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_a36e3c7872ff68073d4bf9be2292c9e6" parent="aspace_65101c4e8cc58c105cac018fdee0ae17" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5c5cfb8787d183ea5ca32e79550544de" level="file">
+          <did>
+            <unittitle>Rett Kopi</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_f5619d6a3f86b6218da8d5423b449195" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_bba1655ef0dba37d1263e0cf8587f313" parent="aspace_f5619d6a3f86b6218da8d5423b449195" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_2f3c17e5940f76d2cf0cf494203a24d9" level="file">
+          <did>
+            <unittitle>Reviews</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_82b037e53f01f8d189140fa1e2a2ad87" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_c9612973fb8e10e80ad36025a7cd2255" parent="aspace_82b037e53f01f8d189140fa1e2a2ad87" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_85ed8887c3d2f12d9e5fb97659c59c94" level="file">
+          <did>
+            <unittitle>Sink 2</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_d97506491d0a40d57dd24f9d679b0328" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_6916f770baf2eb4b34a774b2e559ce9c" parent="aspace_d97506491d0a40d57dd24f9d679b0328" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_b1050f8296d36d474db9caccb9a0145f" level="file">
+          <did>
+            <unittitle>Talisman #8</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_b40d75b87a0ae631faa72c3576f2927a" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_33157667bc01843c35be3f7a5f6773cb" parent="aspace_b40d75b87a0ae631faa72c3576f2927a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_420c1be6befa7d411556630f5f3c1aa4" level="file">
+          <did>
+            <unittitle>War and Peace 2</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+            <container id="aspace_d38d98ae5c0a8bf479e633722e500837" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_f4c02d49270115a8d0b77564862d2b9c" parent="aspace_d38d98ae5c0a8bf479e633722e500837" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_f6538f2e5750cb6555b0597c06ec53a5" level="file">
+          <did>
+            <unittitle>Washington Review</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1982/1985" type="inclusive">1982-1985</unitdate>
+            <container id="aspace_bd055c94d3f0c52bd894339590714aa5" label="Mixed Materials [32882021587236]" type="Box">5</container>
+            <container id="aspace_ea00263dbf47701639b381a36b31f62f" parent="aspace_bd055c94d3f0c52bd894339590714aa5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_7b62ce6cd2a760e6da8ab5ddb4cd7964" level="file">
+          <did>
+            <unittitle>Xa (audiotape)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_0f215d1dbdb202a61480d99feb14ea99" label="Mixed Materials [32882021587244]" type="Box">6</container>
+            <container id="aspace_4410527e1c22b85ad0b522113770fe0f" parent="aspace_0f215d1dbdb202a61480d99feb14ea99" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_a1e8764a593e1c0a7eaddac3d5fa00aa" level="file">
+          <did>
+            <unittitle>Yellow Field</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2005/2016" type="inclusive">2005-2016</unitdate>
+            <container id="aspace_849bc7bbf40ade39fa8beff81e453e34" label="Mixed Materials [32882021587244]" type="Box">6</container>
+            <container id="aspace_52a3af70e0ba77345d2363735bb0d370" parent="aspace_849bc7bbf40ade39fa8beff81e453e34" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_7d812c1eb7640d4bd6602891b2bd2f79" level="series">
+        <did>
+          <unittitle>Non-Tina Darragh writings</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="1976/2017" type="inclusive">1976-2017</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_ecb42542ee3e3887fa429aa1b4e9645e">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically by poet surname.</p>
+        </arrangement>
+        <scopecontent id="aspace_aef26a245aa4a6cd5291b4ae8acbaf75">
+          <head>Scope and Contents</head>
+          <p>This series contains publications by poets, collected by Tina Darragh, between 1976-2017.</p>
+        </scopecontent>
+        <c id="aspace_25ca58d895e9d57c4c4fe1f1a34a7bec" level="file">
+          <did>
+            <unittitle>Al-Mutanabi (Corcoran)</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+            <container id="aspace_c4ff0d332d92ccce344ae00eb3c32570" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_6bb7a2746d34c636a7ec01c3ab8edabf" parent="aspace_c4ff0d332d92ccce344ae00eb3c32570" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e01a68cd124fcd44eb90b3a838df1ec1" level="file">
+          <did>
+            <unittitle>Time Dlugos</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_33d8b4da5ece5f2f3c869d8438c17134" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_2fafbb247ad4c154a25560ebba7efea0" parent="aspace_33d8b4da5ece5f2f3c869d8438c17134" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_8aa8ec82f1aac582b9ad634a385d7eef" level="file">
+          <did>
+            <unittitle>Buck Downs</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1999/2016" type="inclusive">1999-2016</unitdate>
+            <container id="aspace_4aa54687e8936ff3bf37799ae79bb515" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_6deac138cbea97dac3d817ba75212058" parent="aspace_4aa54687e8936ff3bf37799ae79bb515" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_411b0c16a1bd2970344700c2540a901c" level="file">
+          <did>
+            <unittitle>Lynne Dreyer</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2015/2015" type="inclusive">2015</unitdate>
+            <container id="aspace_7cca619a66cf073b0e48f5aeae29bf8b" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_236021834b5f1b9c9ebc5b2de2d83fed" parent="aspace_7cca619a66cf073b0e48f5aeae29bf8b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_1b391ffbad409d8167b33fbab23612e6" level="file">
+          <did>
+            <unittitle>Cathy Eisenhower</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2015/2015" type="inclusive">2015</unitdate>
+            <container id="aspace_c94125c4ab89753df9d596a4f09e55a4" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_7a18b1cd8c5e24acc609ba27c8844f33" parent="aspace_c94125c4ab89753df9d596a4f09e55a4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_b50d5b2f876c9ab16d68faed56eff902" level="file">
+          <did>
+            <unittitle>Jeremy Gardner</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <container id="aspace_9b12fc85c0cc9cfcb1902d4c288e682d" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_e84af9c813e0596140f626e6298ae049" parent="aspace_9b12fc85c0cc9cfcb1902d4c288e682d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7dc9e1135d047afd9511f735dfc3ce7b" level="file">
+          <did>
+            <unittitle>P. Inman</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1986/2007" type="inclusive">1986-2007</unitdate>
+            <container id="aspace_cf44e197e747f545003b26df4ff96635" label="Mixed Materials [32882021587251]" type="Box">7</container>
+            <container id="aspace_8c16627c0a4dc0c7dc52f953f3802284" parent="aspace_cf44e197e747f545003b26df4ff96635" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d8b33106a21b103d2b2fdad869040266" level="file">
+          <did>
+            <unittitle>P. Inman</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1976/2013" type="inclusive">1976-2013</unitdate>
+            <container id="aspace_c0cde3319bad98c555951d0c84e73aeb" label="Mixed Materials [32882021587269]" type="Box">8</container>
+            <container id="aspace_0794a4cc0f9a630253d15fafe614139d" parent="aspace_c0cde3319bad98c555951d0c84e73aeb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_1b3187c85e365ecbbe1def709ba83167" level="file">
+          <did>
+            <unittitle>Beth Joselow</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_be1b11f109ad3e125dddded990b2ee10" label="Mixed Materials [32882021587269]" type="Box">8</container>
+            <container id="aspace_663fe2789a89a196d973cf43c9cdfbb1" parent="aspace_be1b11f109ad3e125dddded990b2ee10" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_f16b596671c8412c3d9d6438f21b95e9" level="file">
+          <did>
+            <unittitle>Michael Lally</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_cc0d290f15484f2211cad989205dff6e" label="Mixed Materials [32882021587269]" type="Box">8</container>
+            <container id="aspace_e442c5caea41d2041f10b1a59d837c51" parent="aspace_cc0d290f15484f2211cad989205dff6e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2686048a7229bb5818b952b2eb43ef9d" level="file">
+          <did>
+            <unittitle>Doug Lang</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_ce98a041f86171d4d262d4539c58a46c" label="Mixed Materials [32882021587269]" type="Box">8</container>
+            <container id="aspace_7249f35f1b99fcb30b6eae9f22066469" parent="aspace_ce98a041f86171d4d262d4539c58a46c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4c0dfe31fd9e0829e2b231e20785766d" level="file">
+          <did>
+            <unittitle>Douglas Messerli</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_af0975d6db70de0b9a6b5b4a6993d788" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_3de066d3906fba16db57ab4667fd21f3" parent="aspace_af0975d6db70de0b9a6b5b4a6993d788" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_26e787cd45876099fc6137f28607fae9" level="file">
+          <did>
+            <unittitle>Tom Orange</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2002/2009" type="inclusive">2002-2009</unitdate>
+            <container id="aspace_eb638f91be8b4ce6fa0cb22cb00bf8f7" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_735e4173615faf73f1b5708f4af637bd" parent="aspace_eb638f91be8b4ce6fa0cb22cb00bf8f7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_af6febf52e263a0a973585533d136846" level="file">
+          <did>
+            <unittitle>Joan Retallack</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1985/1994" type="inclusive">1985-1994</unitdate>
+            <container id="aspace_196f81291c298e4ff08df1aaea233871" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_a29da778e36236c43414ce130ec21ed1" parent="aspace_196f81291c298e4ff08df1aaea233871" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0a2ae96ee83afa11acae140abc2058d9" level="file">
+          <did>
+            <unittitle>Phyllis Rosenzweig</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2014/2014" type="inclusive">2014</unitdate>
+            <container id="aspace_848d07bb7b41dc343d05fec28362c8d8" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_6f44b51a19b98c216b03498a78af84e3" parent="aspace_848d07bb7b41dc343d05fec28362c8d8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_99d1e324e5d6e66a3be42ea22e272a22" level="file">
+          <did>
+            <unittitle>Joe Ross</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_03b66121d741e1ea08286d3b2f64c5a8" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_3299c8ab02a843f93f33ef37bceb0f78" parent="aspace_03b66121d741e1ea08286d3b2f64c5a8" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_8b91c43e30d744bf4072d332ef9a0a5d" level="file">
+          <did>
+            <unittitle>Self-Portrait (Lally, Lang, etc.)</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_1a5a01ea3d58bab96504c2bb727bdd52" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_74454c5a209d8596796f2d8049663b32" parent="aspace_1a5a01ea3d58bab96504c2bb727bdd52" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_7265e8d2488adbd4a5a4e192439d32ec" level="file">
+          <did>
+            <unittitle>Rod Smith</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2003/2015" type="inclusive">2003-2015</unitdate>
+            <container id="aspace_a8015940792ff41cd5b8d04e73a0216f" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_4e5921984732be94811ee438266862f8" parent="aspace_a8015940792ff41cd5b8d04e73a0216f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_a329df41da1da25fd2a47c29fa7c94b9" level="file">
+          <did>
+            <unittitle>Ann Stoddard</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+            <container id="aspace_78de8fdfdc8144ef39d81dc1a56ad5db" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_758373379ad4a732a6111bec1916d755" parent="aspace_78de8fdfdc8144ef39d81dc1a56ad5db" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_e0acbd7db2dada9124f1751b522418f2" level="file">
+          <did>
+            <unittitle>Tangent</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+            <container id="aspace_5779f909278b726157a963efc1996e5b" label="Mixed Materials [32882021587277]" type="Box">9</container>
+            <container id="aspace_5709005aa13bdb5c0aff91140bbdcbda" parent="aspace_5779f909278b726157a963efc1996e5b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_adf09810cf0c0cec919a6eeca823edeb" level="file">
+          <did>
+            <unittitle>Tangent</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_ef421dc2e19557ac9d59642e1171a46a" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_c7b4a7749acf256b537f8f451a88596f" parent="aspace_ef421dc2e19557ac9d59642e1171a46a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5df7a5067be134e3745a625da81936ca" level="file">
+          <did>
+            <unittitle>The Tinklers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">Undated</unitdate>
+            <container id="aspace_3fa6f8f1e4617c3334280a2c18095292" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_ac4eae24be6459102f3bea759d4b58ab" parent="aspace_3fa6f8f1e4617c3334280a2c18095292" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_3ec08f83866e86b3a20b83c44bdef3d0" level="file">
+          <did>
+            <unittitle>Mark Wallace</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" type="inclusive">Undated</unitdate>
+            <container id="aspace_c47a7a0ecf3a8bc0039c6e68ba8125b7" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_8d69c7bd10a9531688eda5febe72b280" parent="aspace_c47a7a0ecf3a8bc0039c6e68ba8125b7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3aaed3460e38651b9b7ad840e765f84f" level="file">
+          <did>
+            <unittitle>Diane Ward</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1984/2000" type="inclusive">1984-2000</unitdate>
+            <container id="aspace_18e784054931ab4b8d0c7c9d157c4c75" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_20789b08ea6f40073efe28efec290a47" parent="aspace_18e784054931ab4b8d0c7c9d157c4c75" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_4dfa8fb82824f4e6079cdf3e5b50f895" level="file">
+          <did>
+            <unittitle>ZimZalla 002</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_4b4c061a36a1db2805b3d308e02d709b" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_cc4479b34a7655cc85b51cba80740610" parent="aspace_4b4c061a36a1db2805b3d308e02d709b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_2bde1899f98898ad02f311906729e9dc" level="file">
+          <did>
+            <unittitle>ZimZalla 003</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_d0cb61c65caff3f41b87c8313458eb8e" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_867168d8f9a201cc06e2142e61888778" parent="aspace_d0cb61c65caff3f41b87c8313458eb8e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_0d5dafad7aeb6a75891cb2016743b2c4" level="file">
+          <did>
+            <unittitle>ZimZalla 006</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_420412ac95cde1d87ae09036a8f0e27b" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_bbbecafb3d6cae746857c3b1ba9f64fa" parent="aspace_420412ac95cde1d87ae09036a8f0e27b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_d915087d41ea70bde3e90d7bd84c5e81" level="file">
+          <did>
+            <unittitle>ZimZalla 009</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_f8cd674882a60814e007cf0cf65b131a" label="Mixed Materials [32882021587285]" type="Box">10</container>
+            <container id="aspace_72efef3f95ab9e0648348ebd6488908d" parent="aspace_f8cd674882a60814e007cf0cf65b131a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_bba94acb2eed8c1ed135fc3fab64e9a7" level="file">
+          <did>
+            <unittitle>ZimZalla 011</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_07248096f43e877f1f27a6549313181d" label="Mixed Materials [32882021587293]" type="Box">11</container>
+            <container id="aspace_198b303b68c2b77b5b627502916aa8ff" parent="aspace_07248096f43e877f1f27a6549313181d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_e5d7abef8b3626d1445550d14b3de3a7" level="file">
+          <did>
+            <unittitle>ZimZalla 014</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_0583802f4264b40f8af820a0ed505f3c" label="Mixed Materials [32882021587293]" type="Box">11</container>
+            <container id="aspace_483133b550b2cdf631e3ca9c347eb247" parent="aspace_0583802f4264b40f8af820a0ed505f3c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_e8716f8c83a8496288c6bc58f82ce9d0" level="file">
+          <did>
+            <unittitle>ZimZalla 016</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_ab65106b0911c396450755589bf005c7" label="Mixed Materials [32882021587293]" type="Box">11</container>
+            <container id="aspace_922fde3def24e3292342aadf5102b5bc" parent="aspace_ab65106b0911c396450755589bf005c7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_e5465eba683c4f6519c0e962a051f613" level="file">
+          <did>
+            <unittitle>ZimZalla 017</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="2017/2017" type="inclusive">2017</unitdate>
+            <container id="aspace_94e8d296e653425f1816565b6b5bc00c" label="Mixed Materials [32882021587293]" type="Box">11</container>
+            <container id="aspace_318bd6099dd0a6dea1c21093b64350f6" parent="aspace_94e8d296e653425f1816565b6b5bc00c" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

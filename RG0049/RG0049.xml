@@ -1,0 +1,927 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/rg0049.xml">rg0049.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the University Counseling Center records, <date calendar="gregorian" era="ce">1963-1989</date>
+ <num>RG0049</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:51:42 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>University Counseling Center records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">George Washington University. University Counseling Center</corpname>
+      </origination>
+      <unitid>RG0049</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6.75 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1963/2003" type="inclusive">1963-2003</unitdate>
+      <abstract id="aspace_914012c565f5184e72fc62b228e6c8aa">Collection includes annual reports, research papers, video tapes, brochures, and slides.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_696ebff29bd466b9a2ee71dd27561cb2">
+      <head>Preferred citation</head>
+      <p>University Counseling Center records, University Archives, Special Collections Research Center, The George Washington University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_cf2f62e9b3de81f81f831228d3465c2e">
+      <head>Restrictions on Access</head>
+      <p>Series 1 and 2 are closed to research for 25 years from date of record creation.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_5e4b7a58607294cd0143365e775ad876">
+      <head>Acquisition Information</head>
+      <p>Materials acquired through transfers from University Counseling Center.</p>
+    </acqinfo>
+    <userestrict id="aspace_bc317d69a370fe236f93391a06b08177">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <bioghist id="aspace_8166e388391d05c204ac4f3fbf64c74d">
+      <head>Historical Note</head>
+      <p>Established in 1954, the University Counseling Center at The George Washington University (GW) services to help students resolve personal, social, career, and study problems that can interfere with their academic progress and success. Services include individual counseling, crisis intervention, group counseling, and workshops on topics such as time management, study skills, procrastination prevention, family and relationship issues, choosing a career, stress management, conflict management, and self-esteem/self-development. </p>
+      <p>The Center offers consultation and training programs for student, faculty, and staff groups. Career counseling and referral services are available to GW students, faculty, staff, alumni, and individuals from the greater Washington community. The Center provides pamphlets, books, and tapes through its self-help library. Students can apply for tutors through the Center's Peer Tutoring Service, which matches tutors with students requesting assistance for specific academic courses. </p>
+      <p>The Center began as the Testing and Counseling Center (1954-64), then became the Psychological Clinic (1965-1970), and the Counseling Center in 1971. Dr. E. Lakin Philips was its long-time director from 1963 to 1985. The Director of the Center reports to the Senior Vice President for Student and Academic Support Services. </p>
+      <p>N.B. This history note was written in 2005</p>
+    </bioghist>
+    <scopecontent id="aspace_0957d992d188e9bb710ab2a3eda20978">
+      <head>Collection Scope and Content</head>
+      <p>Materials in this collection include annual reports, research papers, video tapes of the annual "chalk-in," brochures, and slides shows (chalk-in, The George Washington University as an urban campus, art therapy). They range in date from 1963-89, and were transferred to the University Archives by the Director of the University Counseling Center.</p>
+    </scopecontent>
+    <arrangement id="aspace_b2674b71ec8a0e64e3fc9a305e82f4ba">
+      <head>Collection Organization</head>
+      <p>Organized into three series: Reports and papers; Papers, slides, and video tapes; and Office files.</p>
+    </arrangement>
+    <controlaccess>
+      <geogname source="lcsh">Washington (D.C.)</geogname>
+      <subject source="lcsh">Foggy Bottom (Washington, D.C.)</subject>
+      <subject source="lcsh">Counseling</subject>
+      <subject source="lcsh">Art therapy</subject>
+      <genreform source="aat">Color slides</genreform>
+      <corpname rules="aacr" source="naf">George Washington University</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11_alf" level="series">
+        <did>
+          <unittitle>Reports and papers</unittitle>
+          <unitid>RG0049 Series 1</unitid>
+          <unitdate datechar="creation">1983-1988</unitdate>
+          <physdesc id="aspace_47d1079f00977503ff2e460015f57c84" label="General Physical Description note">0.5 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_3c92f1f07c30acf94424a61d73bbdd41">
+          <head>Scope and Contents note</head>
+          <p>The series consists of annual reports and research papers. They range in date from 1983 to 1988.</p>
+        </scopecontent>
+        <c id="aspace_ref13_sa2" level="file">
+          <did>
+            <unittitle>The Development of an Instrument for Measuring Leadership in Behaviors in Therapy Groups</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_74ec5df5f70428dfaf5540df5f0789a1" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_04ea97285f31802c9865a07ec2d92e61" parent="aspace_74ec5df5f70428dfaf5540df5f0789a1" type="Folder">1</container>
+          </did>
+          <odd id="aspace_6a29f81e48d6aec41b9a1136c922bc4a">
+            <head>General note</head>
+            <p>Diane Depalma, Katheryn Gardner, Thomas Zastowny</p>
+          </odd>
+        </c>
+        <c id="aspace_ref15_i6c" level="file">
+          <did>
+            <unittitle>The Development of a Scale to Measure Defensive Externality in both Success and Failure Conditions</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f7c240bab7070bc80ac8a7e12f4653e0" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_fca552d663bb6bb497f5bffe01a31932" parent="aspace_f7c240bab7070bc80ac8a7e12f4653e0" type="Folder">2</container>
+          </did>
+          <odd id="aspace_70af741e21832cfa1cf7db8572a8524d">
+            <head>General note</head>
+            <p>Maureen Kearney</p>
+          </odd>
+        </c>
+        <c id="aspace_ref17_cox" level="file">
+          <did>
+            <unittitle>Construction and VAlidation of a Scale to Measure Defensive Externality in Success Situations</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d5f2da68e11b2c1a904c890b540b3c22" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_911f2418dc2ea4b312a0c8169840fea9" parent="aspace_d5f2da68e11b2c1a904c890b540b3c22" type="Folder">3</container>
+          </did>
+          <odd id="aspace_6781996507bca806de7c03b5c6cbf935">
+            <head>General note</head>
+            <p>Maureen Kearny</p>
+          </odd>
+        </c>
+        <c id="aspace_ref19_i4w" level="file">
+          <did>
+            <unittitle>Stress, Strain, and Burnout among Career Development Professionals</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_c69da01dac3874c9ad17983f34364578" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_eecede75e1173aa6748b1e364b44c8d7" parent="aspace_c69da01dac3874c9ad17983f34364578" type="Folder">4</container>
+          </did>
+          <odd id="aspace_d9f69934f391f5b8ed371f542d742062">
+            <head>General note</head>
+            <p>Dea Forney and T. Thorne Wiggers</p>
+          </odd>
+        </c>
+        <c id="aspace_ref21_p3r" level="file">
+          <did>
+            <unittitle>A Comparison of Motivation to Avoid Success in Males and Females</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_48f4122f1f99fea4b7e32aa7d7444011" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_dc085c0957c22ba2df792f8603e0cf8c" parent="aspace_48f4122f1f99fea4b7e32aa7d7444011" type="Folder">5</container>
+          </did>
+          <odd id="aspace_3248cc454bd9a2a206b33ba136cd03f7">
+            <head>General note</head>
+            <p>Maureen Kearny</p>
+          </odd>
+        </c>
+        <c id="aspace_ref23_23y" level="file">
+          <did>
+            <unittitle>Biblio/Poetry Therapy as Expressive Arts Therapy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a117e62f482b0fe89a1454b8050b8f05" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_4f0a35a365f1bd6b324279434ca28ae1" parent="aspace_a117e62f482b0fe89a1454b8050b8f05" type="Folder">6</container>
+          </did>
+          <odd id="aspace_ed1fce63db43f682608d3b5da4ed7dfa">
+            <head>General note</head>
+            <p>E. Lakin Phillips</p>
+          </odd>
+        </c>
+        <c id="aspace_ref25_1q6" level="file">
+          <did>
+            <unittitle>Prescriptions for Systematic Change: Attrition from Psychotherapy with several Research Proposals</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_55bdcc84d42e511ae36148355a9b0aed" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_f572278178522501a4ce85ce8fb1794d" parent="aspace_55bdcc84d42e511ae36148355a9b0aed" type="Folder">7</container>
+          </did>
+          <odd id="aspace_cc04f819434c8d71bd0fa48c630266fd">
+            <head>General note</head>
+            <p>E. Lakin Phillips</p>
+          </odd>
+        </c>
+        <c id="aspace_ref27_ie9" level="file">
+          <did>
+            <unittitle>How every Aspect of Psychotherapy is Affected by the Attrition Curve</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9ab6ab186cbdf746ad878d9f2244a8aa" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_af0708adbed401cb7206c5e433bd37fb" parent="aspace_9ab6ab186cbdf746ad878d9f2244a8aa" type="Folder">8</container>
+          </did>
+          <odd id="aspace_02adf9065df2e91efb0a7a6447fc55f3">
+            <head>General note</head>
+            <p>E. Lakin Phillips</p>
+          </odd>
+        </c>
+        <c id="aspace_ref29_ng0" level="file">
+          <did>
+            <unittitle>Help-Seeking Behavior: A New Context for Psychotherapy Evaluation</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_36c855669d7db6a4ee8a53db4adfd4e6" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_23023eebd386f4401f5132920b34fb39" parent="aspace_36c855669d7db6a4ee8a53db4adfd4e6" type="Folder">9</container>
+          </did>
+          <odd id="aspace_469243998e5ce374bcecb194f22495d0">
+            <head>General note</head>
+            <p>E. Lakin Phillips</p>
+          </odd>
+        </c>
+        <c id="aspace_ref31_o7k" level="file">
+          <did>
+            <unittitle>From Single Clinic Service Delivery Systems to Interagency Treatment: Generalizations Based on the Poisson Attrition Curve</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a5e89ba6f34771309e44c0b0793e93a8" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_e37abbb1d5b6bd1b4451bf135c1bca3c" parent="aspace_a5e89ba6f34771309e44c0b0793e93a8" type="Folder">10</container>
+          </did>
+          <odd id="aspace_db4ece488a469027c12eff0bbe30e31e">
+            <head>General note</head>
+            <p>E. Lakin Phillips</p>
+          </odd>
+        </c>
+        <c id="aspace_ref33_kar" level="file">
+          <did>
+            <unittitle>Research on the Use of Art Therapy in a University Setting</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_37e929022f7d90377ab234ec8c184172" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_7b181bb4faf726426158dfb78b261419" parent="aspace_37e929022f7d90377ab234ec8c184172" type="Folder">11</container>
+          </did>
+          <odd id="aspace_7ba159f2d6040a141eb8df9de7c18aef">
+            <head>General note</head>
+            <p>E. Lakin Phillips, Sondra Geller, Marty Ireland</p>
+          </odd>
+        </c>
+        <c id="aspace_ref35_7e3" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1984-1985</unitdate>
+            <container id="aspace_d99bd3ce05925e09addac9dde5f0d956" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_9b78ebf6d05f80440ac8a9670354ef34" parent="aspace_d99bd3ce05925e09addac9dde5f0d956" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_fc0" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1985-1986</unitdate>
+            <container id="aspace_7dab1b33a8db5c61cc07df568a7cf0d9" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_62236b08ed55e1d93280aa27c347a6d0" parent="aspace_7dab1b33a8db5c61cc07df568a7cf0d9" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_zoq" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1986-1987</unitdate>
+            <container id="aspace_6219c1f359512066b2116c33ae3c23fb" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_10b173e59376927f6527491d258816a8" parent="aspace_6219c1f359512066b2116c33ae3c23fb" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_oot" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1987-1988</unitdate>
+            <container id="aspace_91ca19544010bf662e0836647b94a590" label="Mixed Materials [aspace.324814.Box.1]" type="Box">1</container>
+            <container id="aspace_1b7def6b134256006582c3f37a5d65c5" parent="aspace_91ca19544010bf662e0836647b94a590" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref40_rp1" level="series">
+        <did>
+          <unittitle>Papers, slides, and video tapes</unittitle>
+          <unitid>RG0049 Series 2</unitid>
+          <unitdate datechar="creation">1963-1989</unitdate>
+          <physdesc id="aspace_0cf74d17c79e1ca9d8336bdb7c3e5ccf" label="General Physical Description note">3 Linear feet</physdesc>
+        </did>
+        <scopecontent id="aspace_5e3610676aea88e6f45916a1cc6c8f6f">
+          <head>Scope and Contents note</head>
+          <p>The series consists of annual reports and papers, video tapes (chalk-in), brochures, and slides shows (chalk-in, The George Washington University (GW) as urban campus, GW art therapy). They range in date from 1963 to 1989.</p>
+        </scopecontent>
+        <c id="aspace_ref42_tp8" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1963-1964</unitdate>
+            <container id="aspace_f2b380aaa1d5a90115f1032370c06b13" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_4566ae30ac3ddd6161ba0bf0f6458cfe" parent="aspace_f2b380aaa1d5a90115f1032370c06b13" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_jmm" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1964-1965</unitdate>
+            <container id="aspace_128c17b6fe540481e051d6dbd0075789" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_98e3aa064c3052aced3bc87d92c64a19" parent="aspace_128c17b6fe540481e051d6dbd0075789" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_3y5" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_449352f73891fb20bbe1b4929e5dcce3" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_09cf6af0b14ba1298e3aac07a7323b06" parent="aspace_449352f73891fb20bbe1b4929e5dcce3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_wzu" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1976-1977</unitdate>
+            <container id="aspace_36c1de6188640fb3a03f90cf4c4acd13" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_b06bd1c3d125fea445d79b2b5523a023" parent="aspace_36c1de6188640fb3a03f90cf4c4acd13" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_ijc" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1977-1978</unitdate>
+            <container id="aspace_6365feb09071d17a67ef490c1ffa3fdb" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_d576fe36bfec29d6c99088ad4c6c1925" parent="aspace_6365feb09071d17a67ef490c1ffa3fdb" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_dd3" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1978-1979</unitdate>
+            <container id="aspace_fb179024d2a7e82730906f7332c4dab5" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_d9ed8598ce4b4c6142eb0932fab0213b" parent="aspace_fb179024d2a7e82730906f7332c4dab5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_d2b" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1979-1980</unitdate>
+            <container id="aspace_facc540a2b8fd516dabc29a89a61291e" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_b4cef52357dee6283ffea20be94dd8bc" parent="aspace_facc540a2b8fd516dabc29a89a61291e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_37u" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1980-1981</unitdate>
+            <container id="aspace_3a4a0a8a3d69a2ed163129b299b450ac" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_37a3b7f622acd99cf1ee55028d902c69" parent="aspace_3a4a0a8a3d69a2ed163129b299b450ac" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref50_3ga" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1981-1982</unitdate>
+            <container id="aspace_00dc47ec78b5697856b78217f7267a99" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_184a58273b9dd6a6f79e3f022abd8256" parent="aspace_00dc47ec78b5697856b78217f7267a99" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_a42" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1982-1983</unitdate>
+            <container id="aspace_b45d65edfaee16c3b054091342b36611" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_b48c3489115d3fa4cde184b793867c83" parent="aspace_b45d65edfaee16c3b054091342b36611" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_jgv" level="file">
+          <did>
+            <unittitle>Annual Report</unittitle>
+            <unitdate datechar="creation">1988-1989</unitdate>
+            <container id="aspace_5e21e0ba13e9f223f746699278631070" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_8826a622c361db95af655d566c69871b" parent="aspace_5e21e0ba13e9f223f746699278631070" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_1up" level="file">
+          <did>
+            <unittitle>Academic Tapes</unittitle>
+            <unitdate datechar="creation">1973-1974</unitdate>
+            <container id="aspace_16b9854709b1311a3748614794d43e78" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_d539b47c7aaf2407b933bcc6ad02700c" parent="aspace_16b9854709b1311a3748614794d43e78" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_nw1" level="file">
+          <did>
+            <unittitle>Academic Tapes</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_fa8836388bc3a212333935175bca1138" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_2edc3420372945365566a1c5e21e46b2" parent="aspace_fa8836388bc3a212333935175bca1138" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_uh0" level="file">
+          <did>
+            <unittitle>Brochures (undated, but before 1978)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2d756540f191876e7602ab265d9207c3" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_9dc2affa5322e8d41ceadc593ddd227e" parent="aspace_2d756540f191876e7602ab265d9207c3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_e2z" level="file">
+          <did>
+            <unittitle>Brochures</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_b678bc40d9b9b66a6efe4c249208db80" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_fb5090147c799a41c6368965f07bfb8a" parent="aspace_b678bc40d9b9b66a6efe4c249208db80" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_rpr" level="file">
+          <did>
+            <unittitle>Brochures</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_849562d8ae3e22d95a5a79edbfb68fce" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_de3c65a66c269c5f9fc52f72c0f5a06f" parent="aspace_849562d8ae3e22d95a5a79edbfb68fce" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_1gl" level="file">
+          <did>
+            <unittitle>Bookmark</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e249f868a184c77635fd6b11cb3cb12d" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_f42c9b56211d6004228a3ce4e517643a" parent="aspace_e249f868a184c77635fd6b11cb3cb12d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_vmc" level="file">
+          <did>
+            <unittitle>Brochures for Community Vocational Counseling Services</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_0147450c723d112fcd04f92d8c7c51d6" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_c499f677d1adef89f8c15afbc1ba9099" parent="aspace_0147450c723d112fcd04f92d8c7c51d6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_cvp" level="file">
+          <did>
+            <unittitle>Brochures for Community Vocational Counseling Services</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_1737ccb35073047b6236ed579fd85f3f" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_0b707d1d3b250403c9f986db9fd0f4d3" parent="aspace_1737ccb35073047b6236ed579fd85f3f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_bnf" level="file">
+          <did>
+            <unittitle>Brochures for Community Vocational Counseling Services (undated, but between 1980 and 1987)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_64a0b2775bf2716295888914df23c460" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_5cd5e9e5cafc2f1dfbf471416b37e68c" parent="aspace_64a0b2775bf2716295888914df23c460" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_o11" level="file">
+          <did>
+            <unittitle>Brochures for Community Vocational Counseling Services</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_de0f52254efb23712008efb274648166" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_1bc73fb4216780f123215166aad610b6" parent="aspace_de0f52254efb23712008efb274648166" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_qin" level="file">
+          <did>
+            <unittitle>Brochures for Community Vocational Counseling Services</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_5765eb362fef20c385452263a41562a7" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_b79d3742e152c93fefb129b575fbb94a" parent="aspace_5765eb362fef20c385452263a41562a7" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_tu5" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_d91727c36e3c99ed72f8418f43c50bbf" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_4d89a7478b58389d3bd6daeff03d145a" parent="aspace_d91727c36e3c99ed72f8418f43c50bbf" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_t6c" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_aea5dee0912286b83d92ad43a73ff2c5" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_e45618c7e9ff429334133ef9276fb594" parent="aspace_aea5dee0912286b83d92ad43a73ff2c5" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_rje" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_21dfc54e43de6b488293c1836e740703" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_21fa18aeb5727ec7b04cfc7a0938e3c2" parent="aspace_21dfc54e43de6b488293c1836e740703" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_6e5" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_39d0d67c0817ddeb924335f262ea6754" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_af11b3bb5e7303b673666321dff9e45b" parent="aspace_39d0d67c0817ddeb924335f262ea6754" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_n1o" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_d5c627290491bdb42e70e916bc409800" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_2e107ca85a962d0a3132a2f321e253e7" parent="aspace_d5c627290491bdb42e70e916bc409800" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_sud" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_5434eba4b65b794d6749dbb7f308bfd4" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_909b80555bd2e4c1f93df69c9486687c" parent="aspace_5434eba4b65b794d6749dbb7f308bfd4" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref70_cfj" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_20ad3f7d8a1b15c824eb7a8bfdb4c652" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_e1687cdb776d39fa167f932258b0d4a4" parent="aspace_20ad3f7d8a1b15c824eb7a8bfdb4c652" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref71_fvr" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_7e8d7d75d309def20849c00e6380fa68" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_da59f81f83e0185f6ef5afffdac44b2b" parent="aspace_7e8d7d75d309def20849c00e6380fa68" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref72_rk7" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_4f7998a0a02596598f1305a8a7cd5e01" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_522ae87c4ef349a03ab84409292d9ff7" parent="aspace_4f7998a0a02596598f1305a8a7cd5e01" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref73_7ph" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_ad07e5401023f60de1e5f25f4cfcca67" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_e90a584366e6a7c6a671ffb8f50fc8e6" parent="aspace_ad07e5401023f60de1e5f25f4cfcca67" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref74_6zb" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_9906c0a43a66899ebe1e3631a62d03f8" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_d43ab1798941e6fa49c91c763d0d6f8d" parent="aspace_9906c0a43a66899ebe1e3631a62d03f8" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref75_04g" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_0c9e4374852b0a9c77e22baa1b6f16cc" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_0ba7c3736a3c2a60c176e8685e075b67" parent="aspace_0c9e4374852b0a9c77e22baa1b6f16cc" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref76_com" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_d25de976d5a518ee1e563fd4b9d7d55c" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_b0c8835f73277b5541f2249d5a0ace61" parent="aspace_d25de976d5a518ee1e563fd4b9d7d55c" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref77_ovs" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_87ccdc1fa3e36d8d59c934cb6be4750d" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_16b86ca3acc33b4afb870b154314b5e5" parent="aspace_87ccdc1fa3e36d8d59c934cb6be4750d" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref78_bdv" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered - cover only (Fall)</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_f3b9601e66f9eb87a9e8d53c351c686d" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_cb6107a713e7b4a6f25fde11a8c862f7" parent="aspace_f3b9601e66f9eb87a9e8d53c351c686d" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref79_i9t" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_9527b3c89108c9a75c8d31dfb9270ac4" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_55503292f604c4c746d3fe2794c8adbe" parent="aspace_9527b3c89108c9a75c8d31dfb9270ac4" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref80_ab5" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Spring)</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_5376765cef72824ae44c36df34d6888e" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_1b53f95872bbb5128e177ca937f30404" parent="aspace_5376765cef72824ae44c36df34d6888e" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref81_x5x" level="file">
+          <did>
+            <unittitle>Announcements/catalogs of groups offered (Fall)</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_2f4369f2db16369fc1426a8517702414" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_6d8c2bcc4732f42ec39f0faa69c0c652" parent="aspace_2f4369f2db16369fc1426a8517702414" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref82_932" level="file">
+          <did>
+            <unittitle>Counseling Center Fees for Service: One System and Its Implications</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c77e0147141f82194ead2a8e19ec8a42" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_58a52372c7aa2841ccf84ae5e4615d97" parent="aspace_c77e0147141f82194ead2a8e19ec8a42" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref83_ovd" level="file">
+          <did>
+            <unittitle>Publicity Materials (newspaper clippings, etc.)</unittitle>
+            <unitdate datechar="creation">1978-1985</unitdate>
+            <container id="aspace_49185f74a37fba0ceb040198d2e1b26f" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_99143d503e6edb00c05c77ae6bd36d59" parent="aspace_49185f74a37fba0ceb040198d2e1b26f" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref84_t2e" level="file">
+          <did>
+            <unittitle>George Washington University Volunteer Hotline, a Descriptive Study (Herman, Davis, Phillips)</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_a582a55cfc349cb27c1db69f51a1cb17" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_65fc58ec36c8715950c03cb26fdd0af3" parent="aspace_a582a55cfc349cb27c1db69f51a1cb17" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref85_p1l" level="file">
+          <did>
+            <unittitle>Developing an Art Therapy Program in a University Counseling Center (Geller, DePalma, Daw)</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_00635791726814d2fc1a2f323e2de393" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_3ab906ac81a2157352f052f0e9097a40" parent="aspace_00635791726814d2fc1a2f323e2de393" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref86_oeu" level="file">
+          <did>
+            <unittitle>Clinical and Personal Experiences with Loss Support Groups (Medvene, DePalma, and Houshi)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_1260a9b21cc2dbfa58eb50f773f4f159" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_724c413abf0724963fcf4c48c078bf66" parent="aspace_1260a9b21cc2dbfa58eb50f773f4f159" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref87_47h" level="file">
+          <did>
+            <unittitle>Construction and Validation of a Scale to Measure Defensive Externality in Success Situations (Kearney)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8d58cb75ba11ecbacedb926abb6d2a72" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_4fa2c8012c673f24c458e63265aa1451" parent="aspace_8d58cb75ba11ecbacedb926abb6d2a72" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref88_83a" level="file">
+          <did>
+            <unittitle>Characteristics of Bulimics Seeking Psychotherapy Treatment (Kearney)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d8c254c220a414038691e9491069fd7f" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_9e1d37de05fcdb3aecdfd5117e4db34e" parent="aspace_d8c254c220a414038691e9491069fd7f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref89_lsr" level="file">
+          <did>
+            <unittitle>Burnout: Targets for Prevention (Wiggers)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_7e16e38b4ead17fe7da791a58fc4a16e" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_9fb28d42d4df59575f8b163cdf5281d4" parent="aspace_7e16e38b4ead17fe7da791a58fc4a16e" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref90_ltj" level="file">
+          <did>
+            <unittitle>The Use of Self-help Books in Counseling and Psychotherapy (Stern, Marx, Gyorky, Royalty)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_04df0e82c2c0f36ac2e53161df921ec7" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_4fbb9635da9a8af93551d9d96598a5ec" parent="aspace_04df0e82c2c0f36ac2e53161df921ec7" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref91_q6p" level="file">
+          <did>
+            <unittitle>Use of Psychologist's Drawings in the Understanding of Supervisory Transference (Ireland, Weissman, and Wiggers)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_da2cd9c1b059b6c08a89e9540a724fbb" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_491f1124222a51b0d5868bd7f4180bec" parent="aspace_da2cd9c1b059b6c08a89e9540a724fbb" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref92_1nm" level="file">
+          <did>
+            <unittitle>Importance of the Masculinity Scale of the BEM Sex-Role Inventory in Predicting Locus of Control (Kearney)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d7a3920bad76684d07aa32631ca54c04" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_678b0838429b077e8acad6109fa8d720" parent="aspace_d7a3920bad76684d07aa32631ca54c04" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref93_1nf" level="file">
+          <did>
+            <unittitle>The Group Leader Behavior Instrument (DePalma, Gardner, and Zastowny)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_17afe5808c2eda28c1982f5a286c48b4" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_afa11f37745bd3741bf78d0d799634e2" parent="aspace_17afe5808c2eda28c1982f5a286c48b4" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref94_ym8" level="file">
+          <did>
+            <unittitle>Attrition: Focus on the Intake and First Therapy Interviews (Phillips and Fagan)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9797f637ba79c25e10f2700349f5d670" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_11cfb43e0f15efd3c2c60691f23ecb6a" parent="aspace_9797f637ba79c25e10f2700349f5d670" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref95_pr0" level="file">
+          <did>
+            <unittitle>There are Ways to Fight College Anxiety and Stress (Robbins and Tanck)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2495520c98784d750cbc5e622a62d369" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_edc97f5fe4b6989bdcd2799931b16246" parent="aspace_2495520c98784d750cbc5e622a62d369" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref96_ijq" level="file">
+          <did>
+            <unittitle>When Words are Not Enough: Art Therapy for College Students (DePalma and Wiggers)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_160062ceccf699f8363fea11e8b0afb0" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_3f48b1f34945ec2607b4facf5d0809de" parent="aspace_160062ceccf699f8363fea11e8b0afb0" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref97_hxq" level="file">
+          <did>
+            <unittitle>Burnout is not Necessary: Prevention and Recovery (Wiggers, Forney and Wallace-Schutman)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_e97a0091f213b98113d776dd3b7eb0cc" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_d01629967d260c1eb2ce2c62b280192d" parent="aspace_e97a0091f213b98113d776dd3b7eb0cc" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref98_ys7" level="file">
+          <did>
+            <unittitle>Toward a Comprehensive Assessment of Leadership Behaviors in Groups (Gardner, DePalma, Zastowny)</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_27c3030a55940700edb34f34ae96a6a4" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_003b894ab0f1b237bf6471e0586b26fc" parent="aspace_27c3030a55940700edb34f34ae96a6a4" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref99_j34" level="file">
+          <did>
+            <unittitle>The Environment and the Student in Counseling Psychology: Does the Research Training Environment Influence Graduate Students' Attitudes Toward Research? (Royalty, Gelso, Mallinckrodt, and Garrett)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_a7bc25aa8128d63f44d77db91107f0da" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_e21de0e40f07acb947d8f498fbba42af" parent="aspace_a7bc25aa8128d63f44d77db91107f0da" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref100_iwz" level="file">
+          <did>
+            <unittitle>"Artbreak": Innovation in Student Life Programming (Geller, Kwapien, Phillips, Wiggers, Jordan, and Marcellino)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_47ab5f28df43845626f2518b4cc99dc2" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_f698415070a5732becc7a2c2a88f6259" parent="aspace_47ab5f28df43845626f2518b4cc99dc2" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref101_5ib" level="file">
+          <did>
+            <unittitle>The Research Training of Counseling Psychologists: What the Professionals Say (Royalty, and Raising)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_cbe3df9c925267a36f49f7376b42ac22" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_56bd9832aebf747a1c3dab9a95816dd9" parent="aspace_cbe3df9c925267a36f49f7376b42ac22" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref102_h0f" level="file">
+          <did>
+            <unittitle>Linking University Departments to Promote Treatment of Bulimia (Kearney)</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_1da9eaca09db11f2fd1e3c06b2105f96" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_9fdff7c63efa45ce978b9e27e87ce4f4" parent="aspace_1da9eaca09db11f2fd1e3c06b2105f96" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref103_23r" level="file">
+          <did>
+            <unittitle>College Students' Attitudes Toward Wellness (Archer, Probert, and Gage)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d6cccccc283887c019c3819666d3490b" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_344a5cca3e380edf083d3a2aa305962c" parent="aspace_d6cccccc283887c019c3819666d3490b" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref104_31m" level="file">
+          <did>
+            <unittitle>Attributions of Defensive and Congruent Internals/Externals in Success and Failure Conditions (Kearney)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ca5116578b25e77f9342b4076c329e46" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_02b04b4bdf32cba3755e07b9ff1872ca" parent="aspace_ca5116578b25e77f9342b4076c329e46" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref105_2ul" level="file">
+          <did>
+            <unittitle>Correlates of Scholarly Productivity Among Counseling Psychologists (Royalty and Magoon)</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_4300cff55cbad5826adf8b84fde995e1" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_f8301232156555e835b8e587733d1be3" parent="aspace_4300cff55cbad5826adf8b84fde995e1" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref106_oy4" level="file">
+          <did>
+            <unittitle>Confidentiality in Group Psychotherapy (Kearney)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_667ee2e531050add8ecb4679073a3b76" label="Mixed Materials [aspace.324830.Box.1]" type="Box">1</container>
+            <container id="aspace_e162bf5f031c1dfe1d2860ad578a4b47" parent="aspace_667ee2e531050add8ecb4679073a3b76" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref107_58g" level="file">
+          <did>
+            <unittitle>SLIDE SHOW: GWU as urban campus</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1d5f6f358dc13d99c73643d28a512707" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_0fe9f501ce362cd5d870d6511a2fc9f1" parent="aspace_1d5f6f358dc13d99c73643d28a512707" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref108_wfl" level="file">
+          <did>
+            <unittitle>SLIDE SHOW: Chalk-In</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_004988f87e5746ac7342dbea40297e5b" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_78586a861cd31511265e498a8792cb93" parent="aspace_004988f87e5746ac7342dbea40297e5b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref109_bik" level="file">
+          <did>
+            <unittitle>SLIDE SHOW: Expressive Arts in Mental Health Festival</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_61c41e3be99fe245963117e67338ef10" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_3e8dd5c397bceaf227ac3998f57a1bbb" parent="aspace_61c41e3be99fe245963117e67338ef10" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref110_ajd" level="file">
+          <did>
+            <unittitle>SLIDE SHOW: Early GW Art Therapy Outreach. This was used for PR "in house" and "out"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e7be39f43a8290d8c463350c6fc12730" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_2f9fad16c7e8f6cbb1ae73836c8fda10" parent="aspace_e7be39f43a8290d8c463350c6fc12730" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref111_pkt" level="file">
+          <did>
+            <unittitle>VIDEOTAPE: Exam Treat</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_2e9d47372dc05e1f0fc611de91fc7601" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_e8910776de802ea8326cf6b9c60aa675" parent="aspace_2e9d47372dc05e1f0fc611de91fc7601" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref112_77z" level="file">
+          <did>
+            <unittitle>VIDEOTAPE: Chalk-In</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_1464ed572ed46bd4618afa7d8b340afd" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_bcb45338c19953713e4b44de85551956" parent="aspace_1464ed572ed46bd4618afa7d8b340afd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref113_dje" level="file">
+          <did>
+            <unittitle>VIDEOTAPE: Chalk-In (2 tapes)</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_2769bbd8347a17a33113986101bdc826" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_71a9c52c084e00a540fa121ce0af9670" parent="aspace_2769bbd8347a17a33113986101bdc826" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref114_zqi" level="file">
+          <did>
+            <unittitle>VIDEOTAPE: Chalk-In</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_569a0777d6a2c125b76f6a0d8446784b" label="Mixed Materials [aspace.324830.Box.2]" type="Box">2</container>
+            <container id="aspace_370878f627246c227460fae8500f75f5" parent="aspace_569a0777d6a2c125b76f6a0d8446784b" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref116_qhe" level="series">
+        <did>
+          <unittitle>Office files</unittitle>
+          <unitid>RG0049 Series 3</unitid>
+          <unitdate datechar="creation">1980-1986</unitdate>
+          <physdesc id="aspace_588660eb1a25872bc43909b27c2f050f" label="General Physical Description note">.25 Linear feet</physdesc>
+          <container id="aspace_9ec6c7f27833a15156e27aab3360c038" label="Mixed Materials [Series 3 GW: 32882017679229]" type="Box">1</container>
+        </did>
+        <scopecontent id="aspace_0bd8c3bd848a5a5ddcfee0e886024d39">
+          <head>Scope and Contents note</head>
+          <p>The series contains brocheres, annual reports, and flyers from the Counseling Center. They range in date from 1980-1986.</p>
+        </scopecontent>
+        <c id="aspace_ref118_wrt" level="file">
+          <did>
+            <unittitle>Counseling Center</unittitle>
+            <unitdate datechar="creation">1980-1986</unitdate>
+            <container id="aspace_5aade974128a3603c2e57906875727bb" label="Mixed Materials [Series 3 GW: 32882017679229]" type="Box">1</container>
+            <container id="aspace_a6f50802f1e449155ca53adf2c044a3e" parent="aspace_5aade974128a3603c2e57906875727bb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref119_q9f" level="file">
+          <did>
+            <unittitle>Counseling Center Annual Report</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_7ddc2636ecbda091d3c3f59c541a8f4c" label="Mixed Materials [Series 3 GW: 32882017679229]" type="Box">1</container>
+            <container id="aspace_4105026feaee9982f1a957942831f1ed" parent="aspace_7ddc2636ecbda091d3c3f59c541a8f4c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref120_3wr" level="file">
+          <did>
+            <unittitle>Counseling Center - Brochures</unittitle>
+            <unitdate datechar="creation">1980-1986</unitdate>
+            <container id="aspace_5b2ba644903e1bfbbdf05727e4f50de1" label="Mixed Materials [Series 3 GW: 32882017679229]" type="Box">1</container>
+            <container id="aspace_0118c385b8a663fa86a4cc480f343946" parent="aspace_5b2ba644903e1bfbbdf05727e4f50de1" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_02d52a68101754558f3a8193b23061d9" level="series">
+        <did>
+          <unittitle>Counseling Center photographs</unittitle>
+          <unitid>RG0049 Series 4</unitid>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+            <extent altrender="carrier">Two boxes </extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1980/2003" type="inclusive">1980-2003</unitdate>
+        </did>
+        <scopecontent id="aspace_9e06d78e6d6697e12ea8b74b0a8293f0">
+          <head>Scope and Contents</head>
+          <p>Contains photograph albums and organized loose photographs of GW University Counseling Center staff, student employees, and events such as the annual Chalk In.</p>
+        </scopecontent>
+        <c id="aspace_f706ff7c43451500d99a1b16de9d2a96" level="file">
+          <did>
+            <unittitle>Photographs </unittitle>
+            <unitdate datechar="creation" normal="1980/2003" type="bulk">1980-2003</unitdate>
+            <container id="aspace_19226879c1f0ced57e00d2ed3059ad1f" label="Mixed Materials [32882021360857]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_1267ad92f663cf910f594914a40ddea5" level="file">
+          <did>
+            <unittitle>Photographs </unittitle>
+            <unitdate datechar="creation" normal="1980/2003" type="bulk">1980-2003</unitdate>
+            <container id="aspace_cbf48faa4f98eb87b048e7690587fd65" label="Mixed Materials [32882021360840]" type="Box">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

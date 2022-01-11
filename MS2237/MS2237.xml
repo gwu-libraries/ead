@@ -1,0 +1,707 @@
+<?xml version='1.0' encoding='LATIN-1'?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://library.gwu.edu/ead/ms2237.xml">ms2237.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Josephine Campbell papers, <date calendar="gregorian" era="ce">1905-2006</date>
+ <num>MS2237</num></titleproper>
+        <author>University Archives, Special Collections Research Center, The George Washington University</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Special Collections Research Center, The George Washington University</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>2130 H Street NW</addressline>
+          <addressline>Washington 20052</addressline>
+          <addressline>speccoll@gelman.gwu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="https://library.gwu.edu/scrc/contact" xlink:show="new" xlink:title="https://library.gwu.edu/scrc/contact" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:42:36 -0500</date>.</creation>
+      <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Special Collections Research Center, The George Washington University</corpname>
+      </repository>
+      <unittitle>Josephine Campbell papers</unittitle>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Campbell, Josephine C.</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">United States Information Agency</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">Ecotopics International News Service</corpname>
+      </origination>
+      <origination label="source">
+        <persname rules="aacr" source="naf">Campbell, Carolyn M.</persname>
+      </origination>
+      <unitid>MS2237</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
+        <extent altrender="carrier">5 document boxes, 3 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1905/2006" type="inclusive">1905-2006</unitdate>
+      <unitdate datechar="creation" normal="1947/2006" type="bulk">1947-2006</unitdate>
+      <abstract id="aspace_4a37dcf2090a925fe0045976ff051a0b">This collection contains manuscripts, notebooks, correspondence, newspaper clippings, periodicals, pamphlets, maps, photographs, slides, negatives, microcassette tapes, floppy discs, and various digital records related to the life and work of Josephine "Jo" Campbell (1927-2006), journalist, civil rights worker, and environmentalist.</abstract>
+      <langmaterial id="aspace_cc4dcc22fa395010b86ca10ebc3886ed">The majority of materials are in English, with some materials in Russian and Arabic.</langmaterial>
+    </did>
+    <userestrict id="aspace_3e90161252a0fe492b001a7b8ca8b282">
+      <head>Restrictions on Use</head>
+      <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections.</p>
+    </userestrict>
+    <accessrestrict id="aspace_996ad882288636c1c6906f0225f3af01">
+      <head>Restrictions on Access</head>
+      <p>This collection is open for research.</p>
+    </accessrestrict>
+    <custodhist id="aspace_b61fb6033dbb0ca1334d45efdd7ed1e6">
+      <head>Custodial History</head>
+      <p>Josephine Campbell's papers were intially transferred into the custody of her daughter Carolyn Campbell, who donated the collection to the George Washington University Gelman Library.</p>
+    </custodhist>
+    <acqinfo id="aspace_11b841e73ccffa92f1ff187f48821605">
+      <head>Acquisition Source</head>
+      <p>Gift of Carolyn M. Campbell, 19 November 2007 (Accession 2008.038)</p>
+    </acqinfo>
+    <scopecontent id="aspace_e9ac476bfa7dece0c6baf16813ff50ae">
+      <head>Scope and Contents</head>
+      <p>This collection contains manuscripts, notebooks, correspondence, newspaper clippings, periodicals, pamphlets, photographs, slides, negatives, microcassette tapes, floppy discs, and various digital records. The materials range in date from 1947 to 2006 and represent the history of Josephine Campbell's career as journalist. Campbell was a writer and editor with the United State Information Agency from 1956-1986 and later founded Ecotopics International News Service. Her early work is represented, but the bulk of materials pertain to her research and writing for Ecotopics. Significant topics represented in the collection include international journalism; environmental issues; feminism; and human rights.</p>
+    </scopecontent>
+    <arrangement id="aspace_6f3d4d7d26c831c62ee2b337df04b2a7">
+      <head>Collection Arrangement</head>
+      <p>Organized into 3 series: Writings, Research, and Correspondence, Photographs, and Digital Materials.</p>
+    </arrangement>
+    <prefercite id="aspace_ee9cb2cefba1e075e506f9b765c7801d">
+      <head>Preferred Citation</head>
+      <p>Please cite unpublished materials in the following way:</p>
+      <p>Please provide the title and date of item, catalog number (if applicable it will be found written on the folder), name of the collection, name of the repository, and location of the repository. </p>
+      <p>Example:
+James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folder 3. Records of the Board of Trustees, Special Collections Research Center, Gelman Library, The George Washington University, Washington, D.C.</p>
+    </prefercite>
+    <bioghist id="aspace_d23dc982aa6453e8bcd6c4cb4d2158a7">
+      <head>Biographical Note</head>
+      <p>Josephine "Jo" Campbell (1927-2006) was journalist, civil rights worker, and environmental activist. She was born Josephine Anne Conrad in Evansville, Indiana on January 31, 1927, the daughter of Owen McIntyre Conrad and Josephine Anne Greene. She was raised by her mother in Daytona Beach, Florida. She attended Seabreeze High School while working as a "cub reporter" for the Daytona Beach News Journal, and after her graduation in 1945 she moved to Washington, D.C. to further her career in journalism as a copyboy for the Washington Post. </p>
+      <p>Josephine Conrad married Donald Herman Campbell on March 15, 1946. The couple had three daughters, Kathleen, Carolyn, and Deborah Campbell.</p>
+      <p>Campbell wrote fiction for magazines under her husband's name, worked in public relations, and headed the Washington bureau of a Pakistani newspaper before beginning her 30 year career with the International Press Service, part of the Department of State's U.S. Information Agency in 1956. As a writer and editor for IPS, she travelled in the United States and Africa and wrote for Voice of America and publications in Africa, Russia, and the Middle East until her retirement in 1986.</p>
+      <p>After her husband's death in 1988, Campbell founded Ecotopics International News Service, a news service for environmental and human rights issues. She and her partner, chemist Hyman Rudoff, wrote for Ecotopics as well as the local Willits News in California. She was also active the National Writers Union, the National Press Club, the Dog Writers Association of America, the National Association for the Advancement of Colored People, the American Civil Liberties Union, and the Ukiah Gun Club.</p>
+      <p>Josephine Campbell died March 1, 2006 in Petaluma, California.</p>
+    </bioghist>
+    <controlaccess>
+      <genreform source="aat">DVDs</genreform>
+      <genreform source="aat">Microcassettes</genreform>
+      <subject source="lcsh">Human rights advocacy</subject>
+      <subject source="lcsh">Environmentalism</subject>
+      <subject source="lcsh">Journalism</subject>
+      <genreform source="aat">Floppy disks</genreform>
+      <genreform source="aat">Negatives (photographic)</genreform>
+      <genreform source="aat">Color slides</genreform>
+      <genreform source="aat">Photographs</genreform>
+      <corpname rules="aacr" source="naf">United States. Dept. of State. International Press Service</corpname>
+      <persname role="fmo" rules="aacr" source="naf">Campbell, Carolyn M.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6_k9r" level="series">
+        <did>
+          <unittitle>Writings, Research, and Correspondence</unittitle>
+          <unitid>Series 1</unitid>
+          <unitdate datechar="creation" normal="1905/2006" type="inclusive">1905-2006</unitdate>
+          <unitdate datechar="creation" normal="1947/2006" type="bulk">1947-2006</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <arrangement id="aspace_edc0741696207da0cb6df7c566f02f21">
+          <head>Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_ec6d719c7fc84d201bc9941cd446fbbc">
+          <head>Scope and Contents</head>
+          <p>This series contains manuscripts, notebooks, correspondence, newspaper clippings, periodicals, pamphlets, maps. They range in dates from 1905 to 2006 and represent her work as a journalist for the United States Information Agency from 1956 to 1986 and Ecotopics International News Service, which she founded after her retirement from USIA. Also included is early fiction writing, submitted to magazines under her husband's name, and correspondence from publishers. Files contain published and unpublished samples of Campbell's work along with many of her notes and research materials. The series also contains some writing by Campbell's partner, Dr. Hyman Rudoff. Significant topics represented in this series include international journalism; environmental issues; feminism; and human rights.</p>
+        </scopecontent>
+        <c id="aspace_ref15_cek" level="file">
+          <did>
+            <unittitle>Black History/Justine Bonner</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1976/1998" type="inclusive">1976-1998</unitdate>
+            <unitdate datechar="creation" normal="1995/1998" type="bulk">1995-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_69079afbf12d6a54cbcde9682997f4bc" label="Mixed Materials [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_64e35bd1fb9e102074ca886721e23f5e" parent="aspace_69079afbf12d6a54cbcde9682997f4bc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16_8da" level="file">
+          <did>
+            <unittitle>Computer Mags, Re: Submissions</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ee7a73a015ee6aa0f1abb37d2456c507" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_aa064db9a60df1fd0269ae7f252a1ee1" parent="aspace_ee7a73a015ee6aa0f1abb37d2456c507" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17_x6c" level="file">
+          <did>
+            <unittitle>Cornell Breast Cancer Research</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">circa 1995-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4747d6ae9ebd05904f5498c50057d1b6" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_080966629002c8c328514ddac0c496c1" parent="aspace_4747d6ae9ebd05904f5498c50057d1b6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18_avh" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1983/2003" type="inclusive">1983-2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_fa315ce8ed54111ed4a3504f86e5dc71" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_3b8de3908ddc3af213473d468dddfdda" parent="aspace_fa315ce8ed54111ed4a3504f86e5dc71" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19_sit" level="file">
+          <did>
+            <unittitle>Early Writing [1/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_36db3deec361eab992f2786c7b20b359" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_6b256b4deeb7f30fa02bc579e6778ab9" parent="aspace_36db3deec361eab992f2786c7b20b359" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20_p9m" level="file">
+          <did>
+            <unittitle>Early Writing [2/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_62112774cd03db456514c3760cd172e9" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_1680d65c4850f2d15827c0a67ed003af" parent="aspace_62112774cd03db456514c3760cd172e9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21_sr5" level="file">
+          <did>
+            <unittitle>Early Writing [3/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4e09e54947d7eb3af448d1f95391e8a1" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_a3dbf056841b0355eae120d816550e07" parent="aspace_4e09e54947d7eb3af448d1f95391e8a1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22_gj0" level="file">
+          <did>
+            <unittitle>Early Writing [4/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_da326655f90f24d69b68a2809de95bd5" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_0e35cab6c359eb5c92a638097527ea63" parent="aspace_da326655f90f24d69b68a2809de95bd5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23_chn" level="file">
+          <did>
+            <unittitle>Early Writing [5/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6a282647812cc8072e9289b5d4e5261f" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_ffb2c8cf78e5dcb9a1b98e9671fe044c" parent="aspace_6a282647812cc8072e9289b5d4e5261f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24_x98" level="file">
+          <did>
+            <unittitle>Early Writing [6/6]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1947/1952" type="inclusive">1947-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_36ae629c2a7ceeda0901c34b2e29318a" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_ade69d70fd22d1ec7ca29158890afc8a" parent="aspace_36ae629c2a7ceeda0901c34b2e29318a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25_41i" level="file">
+          <did>
+            <unittitle>Eco Research</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1979/1998" type="inclusive">1979-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_396fccff4485aa036912e3a4a501dc40" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_d76d87471d03cb3f0db9a43b19369413" parent="aspace_396fccff4485aa036912e3a4a501dc40" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26_953" level="file">
+          <did>
+            <unittitle>Ecotopics #12</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container id="aspace_14989133a56e4f8fae1647ddfc51b7df" label="Text [GW: 32882019222119, IM: 560701032]" type="Box">1</container>
+            <container id="aspace_79c1c4f7ad294269970f87a0eb7bd945" parent="aspace_14989133a56e4f8fae1647ddfc51b7df" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27_n70" level="file">
+          <did>
+            <unittitle>Miscellaneous Research</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1957/2003" type="inclusive">1957, 1993-2003</unitdate>
+            <unitdate datechar="creation" normal="1993/2003" type="bulk">1993-2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_bea0686378bdb171573c65665bb972ed" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_933915791b1fdcd229ea394f20a86edc" parent="aspace_bea0686378bdb171573c65665bb972ed" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28_s4l" level="file">
+          <did>
+            <unittitle>Nathaniel Green (Ancestor)</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1927/2000" type="inclusive">1927-2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b39211a1768b2d44ce20e41f48f65431" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_3389bfed3e2c63210d79f74b5d9fc1b5" parent="aspace_b39211a1768b2d44ce20e41f48f65431" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref29_5hi" level="file">
+          <did>
+            <unittitle>Nelson Bond</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_058f3a791b3d6dd6fc8573f242967eaa" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_9e704642642b172e502ff1d720d29779" parent="aspace_058f3a791b3d6dd6fc8573f242967eaa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30_g16" level="file">
+          <did>
+            <unittitle>News Clippings</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1996/2003" type="inclusive">1996-2003</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4e9d6d8469532e1ef76cda811027e86e" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_9e852312e408b4134962d83f2b294703" parent="aspace_4e9d6d8469532e1ef76cda811027e86e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31_de2" level="file">
+          <did>
+            <unittitle>NOW International Feminist Planning Conference</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7427676a5f08e81b5b97447f95e8cdd9" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_feae850fa71ea47ffe43c4ac9e0c78d6" parent="aspace_7427676a5f08e81b5b97447f95e8cdd9" type="Folder">5</container>
+          </did>
+          <scopecontent id="aspace_55c99bf732b73d4a91d17bf907ee05b2">
+            <head>Scope and Contents</head>
+            <p>File contains two copies of conference proceedings from the National Organization for Women International Feminist Planning Conference, held June 1-4, 1973 in Cambridge, Massuchusetts.</p>
+          </scopecontent>
+          <odd id="aspace_6c299cce7d20a3d58b36dc91d9a681a9">
+            <head>General</head>
+            <p>Josephine Campbell attended the 1973 NOW International Feminist Planning Conference, where she interviewed Yoko Ono and shared a luncheon table with Ono and her husband John Lennon.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref32_drk" level="file">
+          <did>
+            <unittitle>Obituaries</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2ade7fcf8becb974930058c147235e2a" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_4c4b552d06f27e3594e07b2e2a7f8f57" parent="aspace_2ade7fcf8becb974930058c147235e2a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref33_u6v" level="file">
+          <did>
+            <unittitle>Personal Files</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7274292ea9c79a3cec852af78a5c89ff" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_01c5e2955f3ca675615f7240bfb46d80" parent="aspace_7274292ea9c79a3cec852af78a5c89ff" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref34_xuh" level="file">
+          <did>
+            <unittitle>Podiatry Study</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_cc7b7f8dd0513bb3fb21fc329b78ad7c" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_a0fedfb31cdd07f20014898f6b4df87d" parent="aspace_cc7b7f8dd0513bb3fb21fc329b78ad7c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref35_x2q" level="file">
+          <did>
+            <unittitle>Poetry</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1978/1995" type="inclusive">1978, circa 1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e328b39e258685d7f944aab9f57cde5d" label="Text [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_cfe9fd653ae7f184c0f0d25ff7e28904" parent="aspace_e328b39e258685d7f944aab9f57cde5d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref36_ezm" level="file">
+          <did>
+            <unittitle>The Poet's Domain</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_54f9d2240324ea7732a3ed875a5734c7" label="Books [GW: 32882019222127, IM: 560701033]" type="Box">2</container>
+            <container id="aspace_5f79e5085588873dbea401138cbb3df6" parent="aspace_54f9d2240324ea7732a3ed875a5734c7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref37_eum" level="file">
+          <did>
+            <unittitle>Poultry Industry Investigation [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_87457f5e52f7732f32eb02ef9745842a" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_9499c1e2c9596f668a86d0f3b0a9d620" parent="aspace_87457f5e52f7732f32eb02ef9745842a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref38_fn6" level="file">
+          <did>
+            <unittitle>Poultry Industry Investigation [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_72bbe388258143116e20b5b12c795772" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_394a41ecaa0811d3083cc23515682c6f" parent="aspace_72bbe388258143116e20b5b12c795772" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref39_k44" level="file">
+          <did>
+            <unittitle>Reporter's Notebooks [1/4]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <langmaterial id="aspace_13d9f631a60d0f15028da9f982988697">Notes are written in English using a modified version of Gregg shorthand.</langmaterial>
+            <container id="aspace_3b7d1fbc8984aec92be5e43d934875e0" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_25041fb707efa5ebfab035e76be2f6d8" parent="aspace_3b7d1fbc8984aec92be5e43d934875e0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref40_pdi" level="file">
+          <did>
+            <unittitle>Reporter's Notebooks [2/4]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <langmaterial id="aspace_87368691bc1e5d0eed7da264226021ec">Notes are written in English using a modified version of Gregg shorthand.</langmaterial>
+            <container id="aspace_9bc4acbba81e66217cac94736ccabc5e" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_79274db901e28e5fd2b6216a68c2416b" parent="aspace_9bc4acbba81e66217cac94736ccabc5e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref41_xo4" level="file">
+          <did>
+            <unittitle>Reporter's Notebooks [3/4]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2004/2006" type="inclusive">2004-2006</unitdate>
+            <langmaterial id="aspace_e6d781616ba2faa82522ba446c0cba49">Notes are written in English using a modified version of Gregg shorthand.</langmaterial>
+            <container id="aspace_11604fe81b5dae910738a1fcf2799053" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_8a29b3faf48fae7245f3221421f0d3e3" parent="aspace_11604fe81b5dae910738a1fcf2799053" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref42_27i" level="file">
+          <did>
+            <unittitle>Reporter's Notebooks [4/4]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial id="aspace_1aef996fcf1e2dff44c3f401f87bd442">Notes are written in English using a modified version of Gregg shorthand.</langmaterial>
+            <container id="aspace_8a69188c07b6b9acb88738a265de9c38" label="Text [GW: 32882019222135, IM: 560701034]" type="Box">3</container>
+            <container id="aspace_1c76cd6dd7a135f496bebd4892eb8e4d" parent="aspace_8a69188c07b6b9acb88738a265de9c38" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43_80m" level="file">
+          <did>
+            <unittitle>The Shore Journal</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a3e965dd79a386ac764126072fd7d765" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_e8e6020471cde36c1422879013d5a40b" parent="aspace_a3e965dd79a386ac764126072fd7d765" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref44_asa" level="file">
+          <did>
+            <unittitle>Wilhelm Weinberg Seminar [1/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1978/2005" type="inclusive">circa 1978-1981, 2005</unitdate>
+            <unitdate datechar="creation" normal="1978/1981" type="bulk">1978-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_489abb1f6b9948272f2425cd08a66f8f" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_21f2f0f0a7cd5e9c98747e3ba6770143" parent="aspace_489abb1f6b9948272f2425cd08a66f8f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref45_nfl" level="file">
+          <did>
+            <unittitle>Wilhelm Weinberg Seminar [2/2]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1978/1981" type="inclusive">circa 1978-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f3413347217c3216d687c91b944f2480" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_5672bac65e913f94363825a066c9784d" parent="aspace_f3413347217c3216d687c91b944f2480" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref46_ppu" level="file">
+          <did>
+            <unittitle>Writing Samples [1/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4375ee94f3cf9936f6c80e896fb98465" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_38048d54be8904a6b2afe23bc9d5a1ba" parent="aspace_4375ee94f3cf9936f6c80e896fb98465" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref47_y2c" level="file">
+          <did>
+            <unittitle>Writing Samples [2/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1981/1999" type="inclusive">1981, 1989-1999</unitdate>
+            <unitdate datechar="creation" normal="1989/1999" type="bulk">1989-1999</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_384c58a5323ee8a609bc9027a123a8c3" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_d46d9124c581721c1f3f98cb0acd8174" parent="aspace_384c58a5323ee8a609bc9027a123a8c3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref48_pmt" level="file">
+          <did>
+            <unittitle>Writing Samples [3/3]</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="2002/2006" type="inclusive">2002-2006</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_cac1483d842fda9a15a04aa1aac7128f" label="Text [GW: 32882019222143, IM: 560701035]" type="Box">4</container>
+            <container id="aspace_3ae75b58df176e5c56653603cf82818a" parent="aspace_cac1483d842fda9a15a04aa1aac7128f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref49_a5j" level="file">
+          <did>
+            <unittitle>Oversize Items</unittitle>
+            <unitid>Series 1</unitid>
+            <unitdate datechar="creation" normal="1905/1961" type="inclusive">1905-circa 1961</unitdate>
+            <langmaterial id="aspace_b3c4583200a8c057c65b0e5ff768ff25">Includes materials in Russian, in Cyrillic script, and Arabic, in Arabic script.</langmaterial>
+            <container id="aspace_4ca9dec76974ad0eae9a542f61344dc4" label="Mixed Materials [GW: 32882019222176]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref7_pla" level="series">
+        <did>
+          <unittitle>Photographs</unittitle>
+          <unitid>Series 2</unitid>
+          <unitdate datechar="creation" normal="1975/1998" type="inclusive">1975-1998</unitdate>
+        </did>
+        <arrangement id="aspace_68e1a26c251c95ab8a91934c9ee7c46f">
+          <head>Series Arrangement</head>
+          <p>Arranged alphabetically.</p>
+        </arrangement>
+        <scopecontent id="aspace_fb213247c7c3888440fbfd02769ae29c">
+          <head>Scope and Contents</head>
+          <p>The materials in this series include photographs, slides, and negatives. They range in dates from 1975 to 1998 and represent Josephine Campbell's career as a journalist during that period. Campbell retired from the United States Information Agency in 1986 and later founded Ecotopics International News Service. Many of the photographs depict Campbell at work, her colleagues, and the subjects she interviewed, including Congressman Steny Hoyer and journalist Dorothy Gilliam. Also included are slides of Campbell's travels in Africa from 1975 to 1977 for USIA, photographs of her coverage of the Nigerian Olympic team in 1984, and images related to her work in social and environmental activism.</p>
+        </scopecontent>
+        <c id="aspace_ref50_es5" level="file">
+          <did>
+            <unittitle>African Girl</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_370c2a81eb3c7661f9ae89f0ebfd5890" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_c0ce63588d3418d884f7db52e6ef5ec7" parent="aspace_370c2a81eb3c7661f9ae89f0ebfd5890" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref51_r0m" level="file">
+          <did>
+            <unittitle>African-American Heritage Festival/Jo at Work</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">circa 1994-1995</unitdate>
+            <container id="aspace_0b0306732e1fa48c7d55651d0a77614f" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_0ea14c06297944fe07b0ff9036459dcd" parent="aspace_0b0306732e1fa48c7d55651d0a77614f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref52_vf0" level="file">
+          <did>
+            <unittitle>Agriculture</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b0626e5c2ac02a2ea13aa0eaba310f11" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_7d1baa798c30fab20ab7194634d92710" parent="aspace_b0626e5c2ac02a2ea13aa0eaba310f11" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref53_qww" level="file">
+          <did>
+            <unittitle>Black History/Justine Bonner</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">circa 1998</unitdate>
+            <container id="aspace_bd2fa0df0587c44922c13bb63ffc07ac" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_4e9d1b035fc4a9cab3ded41568d490a8" parent="aspace_bd2fa0df0587c44922c13bb63ffc07ac" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref54_ax1" level="file">
+          <did>
+            <unittitle>Bob Latswaw</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">circa 1998</unitdate>
+            <container id="aspace_4128e702baebc2e9d460f9455adb09c4" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_51a0d46533f801a735199146cbbaa60c" parent="aspace_4128e702baebc2e9d460f9455adb09c4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref55_sk2" level="file">
+          <did>
+            <unittitle>Cornell Breast Cancer Research</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">circa 1997</unitdate>
+            <container id="aspace_2c497f6a68fb33d7d68c014bf1954f6c" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_c084e0ac09cc9c69fb8f23980601f9b3" parent="aspace_2c497f6a68fb33d7d68c014bf1954f6c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref56_n1o" level="file">
+          <did>
+            <unittitle>Crime Victims Ceremony</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">circa 1997</unitdate>
+            <container id="aspace_ea52a6ac1856718cbfc195bd3a32eb0d" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_362ead0f1d29520e4e37d80809d9d3f6" parent="aspace_ea52a6ac1856718cbfc195bd3a32eb0d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref57_j36" level="file">
+          <did>
+            <unittitle>Dorothy Gilliam</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_54d064c7edb0f5dcff6844a879eb0d91" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_ee68a96291b582a4752502be6955a1a7" parent="aspace_54d064c7edb0f5dcff6844a879eb0d91" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref58_zbr" level="file">
+          <did>
+            <unittitle>Friends Christmas 1997</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_35510c0f63d15e5d6f0b56bcca1c873a" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_dac5a5d328e9371b541c5916fc1accc0" parent="aspace_35510c0f63d15e5d6f0b56bcca1c873a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref59_bty" level="file">
+          <did>
+            <unittitle>Jimmy Carter with African Diplomats</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_36f0cbcdb003fb50a09a55d49117e660" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_3fa00eafdbd1a4fcd5dce2e99bbe98aa" parent="aspace_36f0cbcdb003fb50a09a55d49117e660" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref60_0sd" level="file">
+          <did>
+            <unittitle>Jo Campbell</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2d38d4abdf155dd4f01a6032a868b759" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_31878d3c3c924f25d4b909f8cb62d15c" parent="aspace_2d38d4abdf155dd4f01a6032a868b759" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref61_x53" level="file">
+          <did>
+            <unittitle>Jo Campbell -- Baltimore Times</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5115358d4e0571f0f3f968eed34f0ddd" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_e7cfaac8edb0f1ece3752e7b28bbdcc9" parent="aspace_5115358d4e0571f0f3f968eed34f0ddd" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref62_oex" level="file">
+          <did>
+            <unittitle>Jo Campbell interviews J.J. Hill, Steny Hoyer</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_b7bebd670063845c65a3dc990bc597b6" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_08b92128b889a43a80d035b16b2a12e2" parent="aspace_b7bebd670063845c65a3dc990bc597b6" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref63_ebk" level="file">
+          <did>
+            <unittitle>News Service Coworkers</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0fa2b44c6d916a227042a08b36ab8f2d" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_c710dd40044383d3d7ddd4f66ebfe75e" parent="aspace_0fa2b44c6d916a227042a08b36ab8f2d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref64_ywy" level="file">
+          <did>
+            <unittitle>1984 Olympics</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_3f186f10299fbd13aff2a3a97e8faeb5" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_9221b1d538e82399be0b3a656d71d2da" parent="aspace_3f186f10299fbd13aff2a3a97e8faeb5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref65_ha3" level="file">
+          <did>
+            <unittitle>1984 Olympics, Nigerian Athlete</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_6c6fa3c8f4135312408d569605748218" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_792476cda0439b3fface29540cb61f0c" parent="aspace_6c6fa3c8f4135312408d569605748218" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref66_85z" level="file">
+          <did>
+            <unittitle>Pow Wow</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">circa 1993-1994</unitdate>
+            <container id="aspace_af351739c1cf59719b49df2525cae8e4" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_bd7ea54e29cfd6fd12a341d60a30060e" parent="aspace_af351739c1cf59719b49df2525cae8e4" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref67_nwz" level="file">
+          <did>
+            <unittitle>Travels in Africa</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container id="aspace_d1c0f4ea745324949354ad63ff1a8796" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_cf16c4aa5e8ab8ad7dcf2cbf77c94039" parent="aspace_d1c0f4ea745324949354ad63ff1a8796" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref68_u09" level="file">
+          <did>
+            <unittitle>Women's ERA Conference</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_eda0957c85109ad28c1e09980b3508d8" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_b099fb4238966319e09948cffe5cd264" parent="aspace_eda0957c85109ad28c1e09980b3508d8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref69_7ri" level="file">
+          <did>
+            <unittitle>Women's "Green" Conference, Ocean City, MD</unittitle>
+            <unitid>Series 2</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_7f8a997467521e487d43a46a5738aff4" label="Graphic Materials [GW: 32882019222150, IM: 560701036]" type="Box">6</container>
+            <container id="aspace_024af9b9174fd26a6c1938c4541645b9" parent="aspace_7f8a997467521e487d43a46a5738aff4" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref8_zih" level="series">
+        <did>
+          <unittitle>Digital Materials</unittitle>
+          <unitid>Series 3</unitid>
+          <unitdate datechar="creation" normal="1994/2006" type="inclusive">circa 1994-2006</unitdate>
+          <container id="aspace_366ff6a53625fa66c5ae3e5a1264edeb" label="Computer Disks [GW: 32882019226805]" type="Box">8</container>
+          <container id="aspace_ef496e0075f77d30da62c84b3306a0c6" label="Mixed Materials [GW: 32882019222168]" type="Box">7</container>
+        </did>
+        <accessrestrict id="aspace_fc481607565adcaf763b76feda16c947">
+          <head>Restrictions on Access</head>
+          <p>Access to digital records on the external hard drive is restricted; use access DVDs in box 7.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_1ceb0002874b5936a2eb501931f19e7b">
+          <head>Scope and Contents</head>
+          <p>The materials in this series include microcassette tapes and various digital records on 3.5 inch floppy disks, DVD, and external hard drive. They range in dates from circa 1994-2006 and represent Josephine Campbell's activities as a journalist for Ecotopics International News Service during that period. The microcassettes are recorded interviews of unknown subjects by Campbell. Digital records on floppy disk include digital photographs and possibly word processing documents. The external hard drive contains a range of files related to Campbell's work and family life, including digital photographs, text files, word processing documents, and music.</p>
+        </scopecontent>
+        <arrangement id="aspace_99e5b4e7f10f5a09e2f199549a595d08">
+          <head>Series Arrangement</head>
+          <p>Series:
+Arranged by media type.</p>
+        </arrangement>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
