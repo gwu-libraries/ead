@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/mvc0062.xml">mcv0062.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:45:13 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:03:45 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -94,8 +93,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 1</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1902/1905" type="inclusive">1902-1905</unitdate>
-          <container id="aspace_f2d9ab549637fe21bff2a8e0de96f9b5" label="Text [32882020114883]" type="flat_box">1</container>
-          <container id="aspace_c9b14c5b1f922b5903dc82375f7dc0b2" parent="aspace_f2d9ab549637fe21bff2a8e0de96f9b5" type="volume">1</container>
+          <container id="aspace_863c0b8351599d32ee541feef4e16065" label="Text [32882020114883]" type="flat_box">1</container>
+          <container id="aspace_184025cc91bfb2fca78c3ac1999244d3" parent="aspace_863c0b8351599d32ee541feef4e16065" type="volume">1</container>
         </did>
       </c>
       <c id="aspace_ref4_zfo" level="item">
@@ -103,8 +102,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 2</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1905/1908" type="inclusive">1905-1908</unitdate>
-          <container id="aspace_6c14cba070cc9950e6cd8c2a50e63a19" label="Text [32882020114891]" type="flat_box">2</container>
-          <container id="aspace_70fb840dfb4576d3d0aa18701ddae5b7" parent="aspace_6c14cba070cc9950e6cd8c2a50e63a19" type="volume">2</container>
+          <container id="aspace_8fd7957a1fa4f99360b1123481d30718" label="Text [32882020114891]" type="flat_box">2</container>
+          <container id="aspace_e1c036b2c5b8068e20f4e1291959af40" parent="aspace_8fd7957a1fa4f99360b1123481d30718" type="volume">2</container>
         </did>
       </c>
       <c id="aspace_ref5_76x" level="item">
@@ -112,12 +111,12 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volumes 3-5</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1911/1917" type="inclusive">1911-1917</unitdate>
-          <container id="aspace_245be24a7bbdf58c6540b74f579dcf7b" label="Text [32882020114909]" type="flat_box">3</container>
-          <container id="aspace_312fa9159dbe9e0d04d5db334b561d5d" parent="aspace_245be24a7bbdf58c6540b74f579dcf7b" type="volume">5</container>
-          <container id="aspace_7bde70dbe0f3811101e4e7c89bef24b9" label="Text [32882020114909]" type="flat_box">3</container>
-          <container id="aspace_4f516c877fba204c90e3ac08cdcdfacd" parent="aspace_7bde70dbe0f3811101e4e7c89bef24b9" type="volume">4</container>
-          <container id="aspace_72f2a1f7eff2cdfb783adad103c73d4a" label="Text [32882020114909]" type="flat_box">3</container>
-          <container id="aspace_c72f38501605b65b823931a495d99928" parent="aspace_72f2a1f7eff2cdfb783adad103c73d4a" type="volume">3</container>
+          <container id="aspace_996e77ce900260bce950cd00b66de503" label="Text [32882020114909]" type="flat_box">3</container>
+          <container id="aspace_c4e9bb35f43d30dc2441b6ee2e8f763e" parent="aspace_996e77ce900260bce950cd00b66de503" type="volume">5</container>
+          <container id="aspace_375e3c0955ad5d2550480fe7f5828079" label="Text [32882020114909]" type="flat_box">3</container>
+          <container id="aspace_f2b70c147218dffad6f89a25cd56486f" parent="aspace_375e3c0955ad5d2550480fe7f5828079" type="volume">4</container>
+          <container id="aspace_b065d9e77e65834b863ff56342407c34" label="Text [32882020114909]" type="flat_box">3</container>
+          <container id="aspace_f651be566b086755e4f95bf8be454d70" parent="aspace_b065d9e77e65834b863ff56342407c34" type="volume">3</container>
         </did>
       </c>
       <c id="aspace_ref6_tc3" level="item">
@@ -125,8 +124,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 6</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1917/1919" type="inclusive">1917-1919</unitdate>
-          <container id="aspace_13e4739f48352bc9ffb58096f14d582f" label="Text [32882020114917]" type="flat_box">4</container>
-          <container id="aspace_3d715a9769871773822453847c7f35b6" parent="aspace_13e4739f48352bc9ffb58096f14d582f" type="volume">6</container>
+          <container id="aspace_fd69bda64334a49818b04b9341db4dfe" label="Text [32882020114917]" type="flat_box">4</container>
+          <container id="aspace_700e7311b09fa7fbbad19b5118126024" parent="aspace_fd69bda64334a49818b04b9341db4dfe" type="volume">6</container>
         </did>
       </c>
       <c id="aspace_ref7_510" level="item">
@@ -134,8 +133,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 7</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1919/1921" type="inclusive">1919-1921</unitdate>
-          <container id="aspace_e8d0aa6af849bce2947fa3ff1ac81d50" label="Text [32882020114925]" type="flat_box">5</container>
-          <container id="aspace_b80134ced13cfb776b5d5b8731726c58" parent="aspace_e8d0aa6af849bce2947fa3ff1ac81d50" type="volume">7</container>
+          <container id="aspace_d6a8f9d2111cb525971c9a5f35ceb560" label="Text [32882020114925]" type="flat_box">5</container>
+          <container id="aspace_e528bb8e974a07061f274958d72ffb06" parent="aspace_d6a8f9d2111cb525971c9a5f35ceb560" type="volume">7</container>
         </did>
       </c>
       <c id="aspace_ref8_2zg" level="item">
@@ -143,8 +142,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 8</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1921/1923" type="inclusive">1921-1923</unitdate>
-          <container id="aspace_cbdd34fa82e4ee408933b8a7d8115c4c" label="Text [32882020114933]" type="flat_box">6</container>
-          <container id="aspace_9ee90c173df580193f7a95c13c6bb8ed" parent="aspace_cbdd34fa82e4ee408933b8a7d8115c4c" type="volume">8</container>
+          <container id="aspace_1a37e76ad8dc4921e47a670fade250d7" label="Text [32882020114933]" type="flat_box">6</container>
+          <container id="aspace_46d6feb1db56b458acb9df3b8412d70c" parent="aspace_1a37e76ad8dc4921e47a670fade250d7" type="volume">8</container>
         </did>
       </c>
       <c id="aspace_ref9_myz" level="item">
@@ -152,8 +151,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 9</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1923/1925" type="inclusive">1923-1925</unitdate>
-          <container id="aspace_d57f55b887af588f4834dbd1b8f6b575" label="Text [32882020114941]" type="flat_box">7</container>
-          <container id="aspace_a3b6563f46b38e63b9b14039ec3e23f5" parent="aspace_d57f55b887af588f4834dbd1b8f6b575" type="volume">9</container>
+          <container id="aspace_ccc6aa0a3e8772432d4d36366e9faa52" label="Text [32882020114941]" type="flat_box">7</container>
+          <container id="aspace_8fe7f9bb13a6ad3e54b8d7dd84c37c9b" parent="aspace_ccc6aa0a3e8772432d4d36366e9faa52" type="volume">9</container>
         </did>
       </c>
       <c id="aspace_ref10_gy7" level="item">
@@ -161,8 +160,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 10</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1925/1927" type="inclusive">1925-1927</unitdate>
-          <container id="aspace_74c1ea8ec13794abc026eff25c9b8026" label="Text [32882020114958]" type="flat_box">8</container>
-          <container id="aspace_b6719573e02bf2586b4683ce586132d7" parent="aspace_74c1ea8ec13794abc026eff25c9b8026" type="volume">10</container>
+          <container id="aspace_0b41d57fd3bc03f2241725e1cfb83ec2" label="Text [32882020114958]" type="flat_box">8</container>
+          <container id="aspace_49603c1444f79896e5ffecf1edb05dee" parent="aspace_0b41d57fd3bc03f2241725e1cfb83ec2" type="volume">10</container>
         </did>
       </c>
       <c id="aspace_ref11_7qj" level="item">
@@ -170,8 +169,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 11</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1927/1929" type="inclusive">1927-1929</unitdate>
-          <container id="aspace_70570b0a4a0d6dd9e73962e5b445ca3f" label="Text [32882020114966]" type="flat_box">9</container>
-          <container id="aspace_578cab2c45dc060eccc601665e6b1653" parent="aspace_70570b0a4a0d6dd9e73962e5b445ca3f" type="volume">11</container>
+          <container id="aspace_f3f19495f89a7ac4dbea232bdb68044d" label="Text [32882020114966]" type="flat_box">9</container>
+          <container id="aspace_5da0238825831975dedb9de4a36fa1a1" parent="aspace_f3f19495f89a7ac4dbea232bdb68044d" type="volume">11</container>
         </did>
       </c>
       <c id="aspace_ref12_3hg" level="item">
@@ -179,8 +178,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 12</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1929/1932" type="inclusive">1929-1932</unitdate>
-          <container id="aspace_8d7ba82ae466e523e6f1569f73c0cc2c" label="Text [32882020114974]" type="flat_box">10</container>
-          <container id="aspace_ff05fa7efff4f6ddc7d18c6d7bac563e" parent="aspace_8d7ba82ae466e523e6f1569f73c0cc2c" type="volume">12</container>
+          <container id="aspace_66813e5e3e2de09850628e3ed70d318f" label="Text [32882020114974]" type="flat_box">10</container>
+          <container id="aspace_d0aac4deaecf11d15d18cc01bb69c2fc" parent="aspace_66813e5e3e2de09850628e3ed70d318f" type="volume">12</container>
         </did>
       </c>
       <c id="aspace_ref13_ejs" level="item">
@@ -188,8 +187,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 13</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1932/1936" type="inclusive">1932-1936</unitdate>
-          <container id="aspace_d734a9ddbc3a13ea54949b68e8287719" label="Text [32882020114982]" type="flat_box">11</container>
-          <container id="aspace_ae74aba950287d0e505917da393b065c" parent="aspace_d734a9ddbc3a13ea54949b68e8287719" type="volume">13</container>
+          <container id="aspace_6d67a74c01e63900af71dafbcc005fe5" label="Text [32882020114982]" type="flat_box">11</container>
+          <container id="aspace_677efccac73717710c048032c2560b73" parent="aspace_6d67a74c01e63900af71dafbcc005fe5" type="volume">13</container>
         </did>
       </c>
       <c id="aspace_ref14_dwv" level="item">
@@ -197,8 +196,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 14</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1936/1939" type="inclusive">1936-1939</unitdate>
-          <container id="aspace_d911b3d1e3a4122d5a32aab63b80be18" label="Text [32882020114990]" type="flat_box">12</container>
-          <container id="aspace_67fa6b2b558f3261484fe109af7e29dd" parent="aspace_d911b3d1e3a4122d5a32aab63b80be18" type="volume">14</container>
+          <container id="aspace_6922308026d7b1c76c7e107138e16e20" label="Text [32882020114990]" type="flat_box">12</container>
+          <container id="aspace_81e4d17ba0c5f5ce66dbe7155b28585f" parent="aspace_6922308026d7b1c76c7e107138e16e20" type="volume">14</container>
         </did>
       </c>
       <c id="aspace_ref15_6xj" level="item">
@@ -206,8 +205,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 15</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
-          <container id="aspace_9f59061d97557739bd521d95f406dedb" label="Text [32882020115005]" type="flat_box">13</container>
-          <container id="aspace_90e4e0c2ae8878cf120ea2fcf2a658cf" parent="aspace_9f59061d97557739bd521d95f406dedb" type="volume">15</container>
+          <container id="aspace_861229b3094de16c5c362f8b695ed690" label="Text [32882020115005]" type="flat_box">13</container>
+          <container id="aspace_8510455e5ebfe720d21875699fd36446" parent="aspace_861229b3094de16c5c362f8b695ed690" type="volume">15</container>
         </did>
       </c>
       <c id="aspace_ref16_p5p" level="item">
@@ -215,8 +214,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Syllabi and Class Rolls Volume 16</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
-          <container id="aspace_fddaf11ddfc1a69ce9b934b5364261d6" label="Text [32882020115013]" type="flat_box">14</container>
-          <container id="aspace_2a4de1cb03b7c9d11de1f228ba6c8ff5" parent="aspace_fddaf11ddfc1a69ce9b934b5364261d6" type="volume">16</container>
+          <container id="aspace_b5904c93ea70976fe7f905a6f7dd6bab" label="Text [32882020115013]" type="flat_box">14</container>
+          <container id="aspace_31d202e8911661661f17a23c7c6c55a7" parent="aspace_b5904c93ea70976fe7f905a6f7dd6bab" type="volume">16</container>
         </did>
       </c>
     </dsc>

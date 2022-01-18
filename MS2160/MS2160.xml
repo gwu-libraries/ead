@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2160.xml">ms2160.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:40:26 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:59:14 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -87,7 +86,7 @@
           <unitid>MS2160 Series 1</unitid>
           <unitdate datechar="creation">1988-1993</unitdate>
           <physdesc id="aspace_0ff167090731a0cbf96a67f5a592fa14" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_b2630c830101e1f9da1497800f3e35fa" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_638131c1a5649741415cb71f677dbe8a" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_23212fa886740d813187ec65214da7c7">
           <head>Scope and Contents note</head>
@@ -97,8 +96,8 @@
           <did>
             <unittitle>Programs</unittitle>
             <unitdate datechar="creation">1988</unitdate>
-            <container id="aspace_903bb6c43fe57e689eae3df391164083" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a6c9b03b3bc542be6231fd4bccb51144" parent="aspace_903bb6c43fe57e689eae3df391164083" type="Folder">1</container>
+            <container id="aspace_adbf56bfab4d776b7ea9ed22132e85ab" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6d777411cde510270405eb148421743f" parent="aspace_adbf56bfab4d776b7ea9ed22132e85ab" type="Folder">1</container>
           </did>
           <odd id="aspace_f6621e2fc968374e481b0697042371e5">
             <head>General note</head>
@@ -108,8 +107,8 @@
           <did>
             <unittitle>Programs, invitation, newsletter</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_b93c588480cb6419e98151e355cfa677" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_624e00fb6c86340b0f70ad1978a5e003" parent="aspace_b93c588480cb6419e98151e355cfa677" type="Folder">2</container>
+            <container id="aspace_0e0ce0d93718b170f2cc890dd61a2f1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bef382d80f0b751948d7f1f2e3798d75" parent="aspace_0e0ce0d93718b170f2cc890dd61a2f1f" type="Folder">2</container>
           </did>
           <odd id="aspace_810186838b00b5c516dea7474f093162">
             <head>General note</head>
@@ -119,8 +118,8 @@
           <did>
             <unittitle>Programs</unittitle>
             <unitdate datechar="creation">1990</unitdate>
-            <container id="aspace_eb218cb97724bb6baf19c1552de2442a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d0c57fd567b1e18adce0c8a91c322229" parent="aspace_eb218cb97724bb6baf19c1552de2442a" type="Folder">3</container>
+            <container id="aspace_1f09831855a9fbdfbb7c738359851fe4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_18f4868809685b4347a8c4394830c8ac" parent="aspace_1f09831855a9fbdfbb7c738359851fe4" type="Folder">3</container>
           </did>
           <odd id="aspace_fcb84b77cea6fdd59f5e60045b4f334d">
             <head>General note</head>
@@ -130,8 +129,8 @@
           <did>
             <unittitle>Programs</unittitle>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_32d8086cbc01cceff2d1aac6cc070dff" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0577793788568c002c1efd5db527edda" parent="aspace_32d8086cbc01cceff2d1aac6cc070dff" type="Folder">4</container>
+            <container id="aspace_b061ff464d492b6c7a735aaff18c96f5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f65032c954cd469efcae67178c9e4dba" parent="aspace_b061ff464d492b6c7a735aaff18c96f5" type="Folder">4</container>
           </did>
           <odd id="aspace_765ae2a68d1be6ef84d4d352b4bb6412">
             <head>General note</head>
@@ -141,8 +140,8 @@
           <did>
             <unittitle>Programs</unittitle>
             <unitdate datechar="creation">1993</unitdate>
-            <container id="aspace_28c55ee045d2c75078a95759a8750580" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5a1446b4a20fb81011042f17e5b31cc1" parent="aspace_28c55ee045d2c75078a95759a8750580" type="Folder">5</container>
+            <container id="aspace_14c34e02bfda6bc9311d141cf0231199" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_75a5bac4543cc565cd8b9f8b4db60d3d" parent="aspace_14c34e02bfda6bc9311d141cf0231199" type="Folder">5</container>
           </did>
           <odd id="aspace_4907a778a80f1c2cb6ddfaadaa9d32dd">
             <head>General note</head>
@@ -152,8 +151,8 @@
           <did>
             <unittitle>Clippings, flyers</unittitle>
             <unitdate datechar="creation">1988-1993</unitdate>
-            <container id="aspace_3cfd3b6dcb2b9cf483a04a6276d9d3e1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d76f8557121b2bd8e2012d0b80889a3d" parent="aspace_3cfd3b6dcb2b9cf483a04a6276d9d3e1" type="Folder">6</container>
+            <container id="aspace_2475ee061940ef91be8f43154ff21bce" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2047710fc9dde05b8314573e5f75fbcf" parent="aspace_2475ee061940ef91be8f43154ff21bce" type="Folder">6</container>
           </did>
           <odd id="aspace_f7b45abdf066d4da484eb4ceb340557a">
             <head>General note</head>
@@ -166,7 +165,7 @@
           <unitid>MS2160 Series 2</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_214c7387f536bf3754efc0d5a3004cf6" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_3733b4c7268e0b43ac9d9974388d31db" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4b198f025eee1f3e34745787065e7a03" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_5fb2d5543c6cceebe02b768eddbef955">
           <head>Scope and Contents note</head>
@@ -176,8 +175,8 @@
           <did>
             <unittitle>VHS: Current Amiv [?]</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0c03b82a5b5ba4a4223580a21122bd1f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_18f4196668fdfa3f09b7b00e9ed5e9b3" parent="aspace_0c03b82a5b5ba4a4223580a21122bd1f" type="Folder">7</container>
+            <container id="aspace_a68a37573cb7d15c1a4158dd4ad19205" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_82ba3dfc90363aa4ae2f913f09f22229" parent="aspace_a68a37573cb7d15c1a4158dd4ad19205" type="Folder">7</container>
           </did>
           <odd id="aspace_2065b1fdfbc30fd9f8c499dafac5597c">
             <head>General note</head>
@@ -190,8 +189,8 @@
           <unitid>MS2160 Series 3</unitid>
           <unitdate datechar="creation">1973-1992</unitdate>
           <physdesc id="aspace_2747716298d703f16217668fa355691d" label="General Physical Description note">1.5 Linear feet</physdesc>
-          <container id="aspace_598f0f4a8ea6c2e3256e0e692381a294" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_bf049a70f9f487390e19f219701a0b34" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_c67cc5d79ef23697739789a629faa32b" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_d3f9363dc0b386f75244641f5ee4600a" label="Mixed Materials" type="Box">4</container>
         </did>
         <scopecontent id="aspace_075ce0d6fa721ad7fdcd88270636aa2c">
           <head>Scope and Contents note</head>
@@ -201,8 +200,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: CORD Conference Martha Davis presentation</unittitle>
             <unitdate datechar="creation">06/13/1973</unitdate>
-            <container id="aspace_79ccb1895626715b9fb8b23ddfdcffe7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e21c0719c69622853fbdb5d7f044b0ae" parent="aspace_79ccb1895626715b9fb8b23ddfdcffe7" type="Folder">1</container>
+            <container id="aspace_27cb5226b8628a9ad1a07f8b96be4bc8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ebd99d18529c237a5827df849169ad06" parent="aspace_27cb5226b8628a9ad1a07f8b96be4bc8" type="Folder">1</container>
           </did>
           <odd id="aspace_01364b6f2e1da246e6103034bdc8cb9d">
             <head>General note</head>
@@ -212,8 +211,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 1 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_af42433437d34591bc091ab739e71e68" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_842355bb0dd1bd4ce61da499f59a43b3" parent="aspace_af42433437d34591bc091ab739e71e68" type="Folder">2</container>
+            <container id="aspace_ad5a04fef2f7c0997a7d2d58922f19a7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0ede5c3272f2cd5fad18e728a63c3b07" parent="aspace_ad5a04fef2f7c0997a7d2d58922f19a7" type="Folder">2</container>
           </did>
           <odd id="aspace_cc875709aa4cc179b65bfd40b803ef8e">
             <head>General note</head>
@@ -223,8 +222,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 2 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_06de01fd25c3732496652c1cd5ef0907" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5c6d8d5f603e2f220d093f945d800d22" parent="aspace_06de01fd25c3732496652c1cd5ef0907" type="Folder">3</container>
+            <container id="aspace_060202291af13c88c384f4955d8253a2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cf4ac73f6654387f865e0e1a9af1c2f1" parent="aspace_060202291af13c88c384f4955d8253a2" type="Folder">3</container>
           </did>
           <odd id="aspace_4fb691beeb67c5561ce8f630eb7a6911">
             <head>General note</head>
@@ -234,8 +233,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 3 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_d6f1357f0ccbdcc8997dbd2fab662123" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bddbd24086a0c013909d6e085085c8e7" parent="aspace_d6f1357f0ccbdcc8997dbd2fab662123" type="Folder">4</container>
+            <container id="aspace_0db32b25e2d24d0697f42d2d896440c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_dd4c07f311fe7a42e8886954af8ff12c" parent="aspace_0db32b25e2d24d0697f42d2d896440c7" type="Folder">4</container>
           </did>
           <odd id="aspace_7c22d6af22821bed994b24e4a4a239c2">
             <head>General note</head>
@@ -245,8 +244,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 4 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_f1d071e8e78a92a55add4530fd2ca7f4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_fdfb0eb78067c774163e46c8238957fd" parent="aspace_f1d071e8e78a92a55add4530fd2ca7f4" type="Folder">5</container>
+            <container id="aspace_0ba0d3c1adcecb7b25d655a25c1dbe95" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7b0c200c0bf8d2adad9fb534d305da20" parent="aspace_0ba0d3c1adcecb7b25d655a25c1dbe95" type="Folder">5</container>
           </did>
           <odd id="aspace_b2d1c6623ce19708f906b225dc727e79">
             <head>General note</head>
@@ -256,8 +255,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 5 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_e7b9ca50fc649ebe2188b280c090fc6c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7eeae1c3901f6430d46c18ab5446bad6" parent="aspace_e7b9ca50fc649ebe2188b280c090fc6c" type="Folder">6</container>
+            <container id="aspace_375d7139b24972e9bfc478c713466857" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a52745dd44854b5f2e9e1bc117138275" parent="aspace_375d7139b24972e9bfc478c713466857" type="Folder">6</container>
           </did>
           <odd id="aspace_9d9928d286eeb43916040ded334c7434">
             <head>General note</head>
@@ -267,8 +266,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 6 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_f8ab7331649f1cfcf2726fc6d183d584" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_8793cf0f3c9d93379af53096a356d532" parent="aspace_f8ab7331649f1cfcf2726fc6d183d584" type="Folder">1</container>
+            <container id="aspace_917eef985f1a2b1b853d8ad097568f7f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_305893cb2e36206817a80d326fe6f752" parent="aspace_917eef985f1a2b1b853d8ad097568f7f" type="Folder">1</container>
           </did>
           <odd id="aspace_df7bc3c6a5d746592b19d48a8f7216c2">
             <head>General note</head>
@@ -278,8 +277,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 7 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_62121590b7aeb0e34140b49fadee84f1" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_4e778f476d8493e9f6ce349c9e7fa584" parent="aspace_62121590b7aeb0e34140b49fadee84f1" type="Folder">2</container>
+            <container id="aspace_a9c7edf4b116973fd0587cf93170dc65" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e820846779b3490ed4420e4b319bea94" parent="aspace_a9c7edf4b116973fd0587cf93170dc65" type="Folder">2</container>
           </did>
           <odd id="aspace_0063da471a960e65ca07870cf5ea1bab">
             <head>General note</head>
@@ -289,8 +288,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel-to-reel: Tape number 8 of Research in Dance Workshop</unittitle>
             <unitdate datechar="creation">10/14/1978</unitdate>
-            <container id="aspace_4bdf8d5fddb0260270168d2ebf7e62e0" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_ade664e25c757c50cf9ec3c1e17a3c94" parent="aspace_4bdf8d5fddb0260270168d2ebf7e62e0" type="Folder">3</container>
+            <container id="aspace_013ed110bdd20ed4e8812d10b6a68e2a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_c9b3e5d5cabc9c38d39f1eb0bb3fc04f" parent="aspace_013ed110bdd20ed4e8812d10b6a68e2a" type="Folder">3</container>
           </did>
           <odd id="aspace_2ab411c5d76436b762365424e1e14822">
             <head>General note</head>
@@ -300,8 +299,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1ddcafad323e7e926eade50d53d5fd55" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_fa0b466c1d8d6b423eba3d4fbd753b67" parent="aspace_1ddcafad323e7e926eade50d53d5fd55" type="Folder">4</container>
+            <container id="aspace_b132e06ad57a8e06af7bb61da79c4185" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2f8b965f4242a64053b64dc887a371fc" parent="aspace_b132e06ad57a8e06af7bb61da79c4185" type="Folder">4</container>
           </did>
           <odd id="aspace_28cfdf03006c7b28dcc813fae48986b4">
             <head>General note</head>
@@ -311,8 +310,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d244d519d417d7de0a303ad9eeb92a32" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_50f8be7cfd4bf43fe493a157aad0cc29" parent="aspace_d244d519d417d7de0a303ad9eeb92a32" type="Folder">5</container>
+            <container id="aspace_63cba9c0c5631dbb5c918fa9f4246076" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5c6ab37d3f15554b6fc4d478a0ea10b9" parent="aspace_63cba9c0c5631dbb5c918fa9f4246076" type="Folder">5</container>
           </did>
           <odd id="aspace_c1c9a9798537e45abf8de9047f209caf">
             <head>General note</head>
@@ -322,8 +321,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_96b582964edc5519d08dbe2c53915a62" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_7b3de28fa484030179e8ddea6ccc03eb" parent="aspace_96b582964edc5519d08dbe2c53915a62" type="Folder">6</container>
+            <container id="aspace_b6db07e0db5f10a3e399baee2c2a4b70" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fb7a97cb1a661d687884460505795888" parent="aspace_b6db07e0db5f10a3e399baee2c2a4b70" type="Folder">6</container>
           </did>
           <odd id="aspace_56fc80e95454032ffc4574824baeb025">
             <head>General note</head>
@@ -333,8 +332,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d07dde8b857473b04d28ae3af354b503" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_227e47c11a3e2558444ae3e937a7561c" parent="aspace_d07dde8b857473b04d28ae3af354b503" type="Folder">7</container>
+            <container id="aspace_f767b58ba606ae9c032f3074ac867e81" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d33455e95ec7ee474e821d4bd2814970" parent="aspace_f767b58ba606ae9c032f3074ac867e81" type="Folder">7</container>
           </did>
           <odd id="aspace_5198c580ebecf156f6e334bddf283c9c">
             <head>General note</head>
@@ -344,8 +343,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5819266f1840c582e9dc8190167e42df" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_d93c6a0a5aff126728522a068672a755" parent="aspace_5819266f1840c582e9dc8190167e42df" type="Folder">8</container>
+            <container id="aspace_648035700b09ef65cf585be5ac9088c4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_5bb6fd73213438816f6146af50290713" parent="aspace_648035700b09ef65cf585be5ac9088c4" type="Folder">8</container>
           </did>
           <odd id="aspace_135cafdefbe43511bd9777ad5f02c870">
             <head>General note</head>
@@ -355,8 +354,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2402498780f2dec44468fe27899f9b9f" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_8324c02bc44a8587b5e0b8cb959be269" parent="aspace_2402498780f2dec44468fe27899f9b9f" type="Folder">9</container>
+            <container id="aspace_e731f80917de02472945a5b78fd7bf43" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8590a28f7b1a698f5037e8ea8f6450c7" parent="aspace_e731f80917de02472945a5b78fd7bf43" type="Folder">9</container>
           </did>
           <odd id="aspace_5821d82c75f5da69410b8467dd5af5db">
             <head>General note</head>
@@ -366,8 +365,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6fa51b9ea3963c0743a48e435000d67e" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_829573129598fb1557d2368ae2f58e46" parent="aspace_6fa51b9ea3963c0743a48e435000d67e" type="Folder">10</container>
+            <container id="aspace_24267bc42b53b5e06f252f142da8555b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_3899bca8a70dbb3cefe6e496bd701ebe" parent="aspace_24267bc42b53b5e06f252f142da8555b" type="Folder">10</container>
           </did>
           <odd id="aspace_8df46cbc205e814c48028643c896a54e">
             <head>General note</head>
@@ -377,8 +376,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_332e75e81cf3d261a01f03fdbd7d61a4" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_ff5405bd9ce251947255b872960df65d" parent="aspace_332e75e81cf3d261a01f03fdbd7d61a4" type="Folder">11</container>
+            <container id="aspace_59fa7efb12c00d6fa0bf4b41d3fda21f" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_e6f7126cb441bee24cb6e86de2e8d5a5" parent="aspace_59fa7efb12c00d6fa0bf4b41d3fda21f" type="Folder">11</container>
           </did>
           <odd id="aspace_afc1799c2dc362ce1256faa4bd56706f">
             <head>General note</head>
@@ -388,8 +387,8 @@
           <did>
             <unittitle>Audio-visual materials: Audiocassettes: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1b12ef2362b3c73abdb8f850390eab7c" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_77b95bea5967d043640e4bf889c6c51b" parent="aspace_1b12ef2362b3c73abdb8f850390eab7c" type="Folder">12</container>
+            <container id="aspace_d8f10c90a4f030002b8eb5b142726254" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_602d958a21e3790ac6ed5b6c9264bc9f" parent="aspace_d8f10c90a4f030002b8eb5b142726254" type="Folder">12</container>
           </did>
           <odd id="aspace_8bf8541e76b90d84c9d4e82de6ae7b54">
             <head>General note</head>
@@ -399,8 +398,8 @@
           <did>
             <unittitle>Audio-visual materials: Film: unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6cd5c78a3fd485d0776cebae132e0376" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_669cf439b4f0cd4ea8093a7dc780899a" parent="aspace_6cd5c78a3fd485d0776cebae132e0376" type="Folder">1</container>
+            <container id="aspace_ad7cfea648621c264b9e599c0e84e08d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_5ae64d692838c2c5ef7044950c21aa0e" parent="aspace_ad7cfea648621c264b9e599c0e84e08d" type="Folder">1</container>
           </did>
           <odd id="aspace_1da66a8da0cced7f47914bea5a0d4416">
             <head>General note</head>
@@ -410,8 +409,8 @@
           <did>
             <unittitle>Published materials: "The Spanish Dance" by Marina Keet</unittitle>
             <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_24fa3d7cbd5c8e2c9c58b969a9e2a6fa" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_cec02ce0ff539e2ffe56979d2b2281fb" parent="aspace_24fa3d7cbd5c8e2c9c58b969a9e2a6fa" type="Folder">2</container>
+            <container id="aspace_d9c3d1723b52e2ff290e3ed719c51ab2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2b76e81dfa6199e5b4298fd75f26aa8a" parent="aspace_d9c3d1723b52e2ff290e3ed719c51ab2" type="Folder">2</container>
           </did>
           <odd id="aspace_40d7379c5adcf21b595c7520900fda94">
             <head>General note</head>
@@ -421,8 +420,8 @@
           <did>
             <unittitle>Published materials: Escuela Bolera</unittitle>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_b7b074c7a464e3be9378954198807e72" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_cd1137f40aca129bb6ebf5d07a459661" parent="aspace_b7b074c7a464e3be9378954198807e72" type="Folder">3</container>
+            <container id="aspace_990f17b4c4098f13d1ab37d9b69395f2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6ebfee9d70ee8c50d39fbeb00c5046a0" parent="aspace_990f17b4c4098f13d1ab37d9b69395f2" type="Folder">3</container>
           </did>
           <odd id="aspace_ecc94ac4641a8fc0c977aaf25448a24a">
             <head>General note</head>
@@ -435,7 +434,7 @@
           <unitid>MS2160 Series 4</unitid>
           <unitdate datechar="creation">1985-1994</unitdate>
           <physdesc id="aspace_640681c0738a5f7a040fb69b1224e87b" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_2f4599baadc1720556b57e69c38cf9e2" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_00a7b3539f22d095dc36354ac3e881d6" label="Mixed Materials" type="Box">5</container>
         </did>
         <scopecontent id="aspace_d567470261106800925b576d46b0080c">
           <head>Scope and Contents note</head>
@@ -445,8 +444,8 @@
           <did>
             <unittitle>Committee to Save Dance in Washington</unittitle>
             <unitdate datechar="creation">1985 ca.</unitdate>
-            <container id="aspace_c3712706602580e371a0f5b76b264e2b" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_13478bc0c7654ec9baf039808be0fb94" parent="aspace_c3712706602580e371a0f5b76b264e2b" type="Folder">1</container>
+            <container id="aspace_9e8e93e1b1d1d1a6281a4d3700544cdd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2c0acf70c36c8e8893df817f205a6d89" parent="aspace_9e8e93e1b1d1d1a6281a4d3700544cdd" type="Folder">1</container>
           </did>
           <odd id="aspace_6d3534f78e8fe36f0adcb0e686aa82eb">
             <head>General note</head>
@@ -456,8 +455,8 @@
           <did>
             <unittitle>Open meeting of the dance community minutes</unittitle>
             <unitdate datechar="creation">03/1986-04/1986</unitdate>
-            <container id="aspace_9e48c00f49746af65bd54f658f451c41" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_6918e4ae8de77d65d91b836025e85a39" parent="aspace_9e48c00f49746af65bd54f658f451c41" type="Folder">2</container>
+            <container id="aspace_a1ead0f6596223025f1eaa7f3091fd2a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2ed4d63ddac28d6b10a67947a975a23c" parent="aspace_a1ead0f6596223025f1eaa7f3091fd2a" type="Folder">2</container>
           </did>
           <odd id="aspace_3ea51192c1897252a8a4c0c6f708a371">
             <head>General note</head>
@@ -467,8 +466,8 @@
           <did>
             <unittitle>Coalition of Washington Artists</unittitle>
             <unitdate datechar="creation">05/1986</unitdate>
-            <container id="aspace_942f267aadbc65ebe105abf647c143a7" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_552a20a66909f41a0202221b05e418c5" parent="aspace_942f267aadbc65ebe105abf647c143a7" type="Folder">3</container>
+            <container id="aspace_82bf88628acde0799decbbb820d9b873" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_759879b753ca2ca14a2c511df4a2eb45" parent="aspace_82bf88628acde0799decbbb820d9b873" type="Folder">3</container>
           </did>
           <odd id="aspace_15942f7231a3104e98badbf1ddfbafc4">
             <head>General note</head>
@@ -478,8 +477,8 @@
           <did>
             <unittitle>Metropolitan Dance Association</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_b71b10aaba0dc8d94baf9ce2fa851d89" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_aa6c7c1ce0d0717a9905418452e68595" parent="aspace_b71b10aaba0dc8d94baf9ce2fa851d89" type="Folder">4</container>
+            <container id="aspace_10eeeb3295b63988b024d356ffea9f91" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_369d4a8718a74c2d6f87a7dea6f0dc74" parent="aspace_10eeeb3295b63988b024d356ffea9f91" type="Folder">4</container>
           </did>
           <odd id="aspace_e7fdd096e24c9bed1161748d515f04b8">
             <head>General note</head>
@@ -489,8 +488,8 @@
           <did>
             <unittitle>New Dance Place</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_5e8bc3f5eda8b33f9313d39b46a979f6" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_26c2f44bc24d55fb57ce4710eb2c3819" parent="aspace_5e8bc3f5eda8b33f9313d39b46a979f6" type="Folder">5</container>
+            <container id="aspace_292256f7d37006c1602022f4ddec2eb5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_48227f36023c4ac1867244d4674e77b3" parent="aspace_292256f7d37006c1602022f4ddec2eb5" type="Folder">5</container>
           </did>
           <odd id="aspace_5c48b653ebfe9409e9834d2bea7d4b4f">
             <head>General note</head>
@@ -500,8 +499,8 @@
           <did>
             <unittitle>Performing Arts Archives--workshop materials</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_8b7cab33cdb2cc35870c931c69b9bb4c" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_bdea84ad19f806e7306121bc34f09902" parent="aspace_8b7cab33cdb2cc35870c931c69b9bb4c" type="Folder">6</container>
+            <container id="aspace_e42264d940912956149bdaf6b47282a0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_68df23ccdfb58f9aeee0cd629dc2fa26" parent="aspace_e42264d940912956149bdaf6b47282a0" type="Folder">6</container>
           </did>
           <odd id="aspace_bff4f1ab9d1cd0812d73d2bb9b9c4a8d">
             <head>General note</head>
@@ -511,8 +510,8 @@
           <did>
             <unittitle>Images of American Dance: Documenting and Preserving a Cultural Heritage</unittitle>
             <unitdate datechar="creation">1990 ca.</unitdate>
-            <container id="aspace_ec5f18d417e4784767f97041c72c723d" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_e4d067e4c069c5c0227c5ab84995a4fb" parent="aspace_ec5f18d417e4784767f97041c72c723d" type="Folder">7</container>
+            <container id="aspace_c99fc26c945a4b1bdd12f7d597049037" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3eb711af6dcd9f5cb38eb674bbf61fc9" parent="aspace_c99fc26c945a4b1bdd12f7d597049037" type="Folder">7</container>
           </did>
           <odd id="aspace_ec1c2fc212ca085900c3d9134663e564">
             <head>General note</head>
@@ -522,8 +521,8 @@
           <did>
             <unittitle>Dance Exchange</unittitle>
             <unitdate datechar="creation">1993 ca. --1994 ca.</unitdate>
-            <container id="aspace_2ee3322e9762928baae85a7e3f5d25b8" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_5f6dc702d432f12bf3d93ab8bbcb0593" parent="aspace_2ee3322e9762928baae85a7e3f5d25b8" type="Folder">8</container>
+            <container id="aspace_6fcecfb9823499430d7bfc14a2edee31" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5af84689252179e109002269b30165c6" parent="aspace_6fcecfb9823499430d7bfc14a2edee31" type="Folder">8</container>
           </did>
           <odd id="aspace_0ba489e3ed08c78f2f6246d61d31abd8">
             <head>General note</head>
@@ -533,8 +532,8 @@
           <did>
             <unittitle>Interview with Martha Graham</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_345ef47105d97bc33bdffcc211956300" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_1969caae45b0c9ef89fde763ea741b57" parent="aspace_345ef47105d97bc33bdffcc211956300" type="Folder">9</container>
+            <container id="aspace_8de55d6a1d0005d261bf80b4e48a27a1" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_38b3f1298a4722d0673f30974f942aab" parent="aspace_8de55d6a1d0005d261bf80b4e48a27a1" type="Folder">9</container>
           </did>
           <odd id="aspace_b3710a86cce6310f0597225a06bdcb89">
             <head>General note</head>

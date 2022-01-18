@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2257.xml">ms2257.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:42:52 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:01:34 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -119,8 +118,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">2001-2007</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_bf848d9d344e3f165660483fe0be2566" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_470177771239fa4ba8b543b5f76cac0e" parent="aspace_bf848d9d344e3f165660483fe0be2566" type="Folder">1</container>
+              <container id="aspace_3dea94f243104e18307a62659140185d" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_561789d938dc254ce59e2bc8998eb396" parent="aspace_3dea94f243104e18307a62659140185d" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref88_q8x" level="file">
@@ -128,8 +127,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles: A-G</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
-              <container id="aspace_942566aa07314732fe680d58e8599ee6" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_900424e92629cad367581ce7f3c6f9bd" parent="aspace_942566aa07314732fe680d58e8599ee6" type="Folder">1</container>
+              <container id="aspace_ade8c8d0edfa07e41ecd080ff937114d" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_c75c6b4be7608104e32a9f152f371b3d" parent="aspace_ade8c8d0edfa07e41ecd080ff937114d" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref89_gm2" level="file">
@@ -137,8 +136,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles: A-G</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
-              <container id="aspace_8c4ae8ac34ee17918b23fe740c200487" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_940a7a0b32b66dd250b0a8bfeb6885ce" parent="aspace_8c4ae8ac34ee17918b23fe740c200487" type="Folder">2</container>
+              <container id="aspace_0409e86b23b9b2c7cc56d1638e34816e" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_91a257222fb7343ba15e3e035c0c290d" parent="aspace_0409e86b23b9b2c7cc56d1638e34816e" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref13_ile" level="file">
@@ -147,8 +146,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">1998-2008</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_9b43432b3a5df982536a877dd5076fd1" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_94d8a42f42ac5ad775f6342baed49dc1" parent="aspace_9b43432b3a5df982536a877dd5076fd1" type="Folder">2</container>
+              <container id="aspace_59d7f1632684db218009f7e63260dff9" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_b74c24600d133b0175f8a83123398bb0" parent="aspace_59d7f1632684db218009f7e63260dff9" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref90_0ek" level="file">
@@ -156,8 +155,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles: H-O</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
-              <container id="aspace_ea5bd586d4fb9b48c8136e7929dbe356" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_294988d9e56ddeb2a19b44660f741fb1" parent="aspace_ea5bd586d4fb9b48c8136e7929dbe356" type="Folder">3</container>
+              <container id="aspace_148d08a5613040799b6396f30de4e764" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_8b8aea8286c35910fd9c702b2271e0d6" parent="aspace_148d08a5613040799b6396f30de4e764" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref14_kaw" level="file">
@@ -166,8 +165,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">1988-2007</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7f35d5dd109813b70474b47eb81a73fb" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_34f741186183d578d63c06a7a6dbe926" parent="aspace_7f35d5dd109813b70474b47eb81a73fb" type="Folder">3</container>
+              <container id="aspace_5d30c13260ddb2796a47d089d5cd5290" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_e2801772fa9fa90a4827ed7bfcae540a" parent="aspace_5d30c13260ddb2796a47d089d5cd5290" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref91_jgg" level="file">
@@ -175,8 +174,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles: P-Z</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
-              <container id="aspace_49a1b59147f6337e3e0d3842440d979c" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_ebe8e77c5e4539af1fb675d0a5a71b79" parent="aspace_49a1b59147f6337e3e0d3842440d979c" type="Folder">4</container>
+              <container id="aspace_f93662c345db0ddd20da5d06ce4b8559" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_aecf1b4dd1bd51a73c8839d70fe552aa" parent="aspace_f93662c345db0ddd20da5d06ce4b8559" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_ref92_hur" level="file">
@@ -184,8 +183,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles: P-Z</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
-              <container id="aspace_5dbea176194ac7fcddae3597d3692d42" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_6fda4d402a8dcb46b8581b7308d2b873" parent="aspace_5dbea176194ac7fcddae3597d3692d42" type="Folder">5</container>
+              <container id="aspace_c5d0eace081555cbd3a251000d7db1e5" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_8f95eacb7bed1292c8a22414f985d8cd" parent="aspace_c5d0eace081555cbd3a251000d7db1e5" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_ref124_z2j" level="file">
@@ -193,8 +192,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles [accession 2012]</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation" normal="2002/2012" type="inclusive">2002-2012</unitdate>
-              <container id="aspace_931ae86e53dba29b9a4e4a593c65b522" label="Mixed Materials [32882020667062]" type="Box">7</container>
-              <container id="aspace_35694e23e6e5f46fa32e26b2a6f3d3b6" parent="aspace_931ae86e53dba29b9a4e4a593c65b522" type="Folder">3</container>
+              <container id="aspace_b85076867dcda5d471ed2159368a511d" label="Mixed Materials [32882020667062]" type="Box">7</container>
+              <container id="aspace_b5ff6569d94525accd1f38e27de8025c" parent="aspace_b85076867dcda5d471ed2159368a511d" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref15_4go" level="file">
@@ -203,8 +202,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">1988-1996</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_3f1a039640bf874b3af66c62835b7a49" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_3ddfc21196a9aaa30c8d60356d382eea" parent="aspace_3f1a039640bf874b3af66c62835b7a49" type="Folder">4</container>
+              <container id="aspace_7383ad403e0329055afc5d2462f5dcae" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_bcfa696fb2893f52f762b3cc669ad6c5" parent="aspace_7383ad403e0329055afc5d2462f5dcae" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_ref20_kj0" level="file">
@@ -213,8 +212,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">1988-1996</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_e3005b91babcb99c0553767cccccde8b" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_d9ee952881f63cf38f4bcae89b94b0d1" parent="aspace_e3005b91babcb99c0553767cccccde8b" type="Folder">5</container>
+              <container id="aspace_11c74905d4b4ab2d9620ca5d43e1ca0e" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_04e4a6daef7167feb5f8779b9b4ea9f4" parent="aspace_11c74905d4b4ab2d9620ca5d43e1ca0e" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_ref93_4cp" level="file">
@@ -222,8 +221,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Essays: Untitled</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">Undated</unitdate>
-              <container id="aspace_92b90149c37c77cbb048ea8539536683" label="Mixed Materials [32882020270669]" type="Box">4</container>
-              <container id="aspace_c7940e41f32ae9932ab45f1162195d8d" parent="aspace_92b90149c37c77cbb048ea8539536683" type="Folder">6</container>
+              <container id="aspace_cdb64fdc29da1c3bdb10c793086cfd47" label="Mixed Materials [32882020270669]" type="Box">4</container>
+              <container id="aspace_a9141422256561ad0d82a3d727c06f0e" parent="aspace_cdb64fdc29da1c3bdb10c793086cfd47" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_ref22_v5c" level="file">
@@ -232,8 +231,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_fceec747155c0b7ebd29ccb357d0945f" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_d32899e7cfeca27532dd79094ad223f4" parent="aspace_fceec747155c0b7ebd29ccb357d0945f" type="Folder">6</container>
+              <container id="aspace_4c0c1c9ec0ff0ea4d8ba00fee27283af" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_eb6f9b7edaf5a2f53c741d720850e743" parent="aspace_4c0c1c9ec0ff0ea4d8ba00fee27283af" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_ref24_4gz" level="file">
@@ -242,8 +241,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_97220fd17ff63c07fd35a73b08ae4694" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_07a95a9f982334aceaf3e767eeddf874" parent="aspace_97220fd17ff63c07fd35a73b08ae4694" type="Folder">7</container>
+              <container id="aspace_0aabe4b35437710b347c0f3e9a66e0bf" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_3bdc64caaa39157075420cc0d5d7ed96" parent="aspace_0aabe4b35437710b347c0f3e9a66e0bf" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_ref25_zk5" level="file">
@@ -252,8 +251,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_5acb85be20527dbcf4b382186ed630e4" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_d4386657c4638f2c9d8a0b95bbbb38c3" parent="aspace_5acb85be20527dbcf4b382186ed630e4" type="Folder">8</container>
+              <container id="aspace_5e041fb2444607472fb6ac7aaebe43a9" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_18eb034f863e69eee1567b62ca58a2c4" parent="aspace_5e041fb2444607472fb6ac7aaebe43a9" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_ref28_msa" level="file">
@@ -262,8 +261,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d756a2e4bdcf54b4ffa61da3c12552dd" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_abd50a6d36c6e103e78ffd426f1bee69" parent="aspace_d756a2e4bdcf54b4ffa61da3c12552dd" type="Folder">9</container>
+              <container id="aspace_e8bdc73853afb460f8eafe4791f1bd64" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_6b65065e6dc1edfa0013ed2392647ab9" parent="aspace_e8bdc73853afb460f8eafe4791f1bd64" type="Folder">9</container>
             </did>
           </c>
           <c id="aspace_ref32_q80" level="file">
@@ -272,8 +271,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_69e403016fcf2f6a889bfee837dce0f5" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_63a11f219b936d0274694aa94b868003" parent="aspace_69e403016fcf2f6a889bfee837dce0f5" type="Folder">11</container>
+              <container id="aspace_35e43aef8eec8c1c2e8ddeee88098221" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_1c6fe1063d5d9bdb0f3d54cc2753c117" parent="aspace_35e43aef8eec8c1c2e8ddeee88098221" type="Folder">11</container>
             </did>
           </c>
           <c id="aspace_ref30_xno" level="file">
@@ -282,8 +281,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_831a3cdf37a176a2055f29d931c1752f" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_379d5537b0b8a86db5c211a08f7938e5" parent="aspace_831a3cdf37a176a2055f29d931c1752f" type="Folder">10</container>
+              <container id="aspace_bf5eef6483b3a21e204d9b4cde373350" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_b8e08b1f3bf5f6029badede2caabbb4e" parent="aspace_bf5eef6483b3a21e204d9b4cde373350" type="Folder">10</container>
             </did>
           </c>
           <c id="aspace_ref34_lm7" level="file">
@@ -292,8 +291,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_e64885a3cedf8752a50dec08fe4f59a8" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_8ea4f3431f9693019251650a055a06e0" parent="aspace_e64885a3cedf8752a50dec08fe4f59a8" type="Folder">12</container>
+              <container id="aspace_5364435db741ac58e7e740d84c6fc6c3" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_12badfde22f175f0b2d1769be292ee8a" parent="aspace_5364435db741ac58e7e740d84c6fc6c3" type="Folder">12</container>
             </did>
           </c>
           <c id="aspace_ref36_kcy" level="file">
@@ -302,8 +301,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_e70ec7fd2669029c1068a9c5d10d1a17" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
-              <container id="aspace_38b4025fa670d44376fba30becd24fd5" parent="aspace_e70ec7fd2669029c1068a9c5d10d1a17" type="Folder">13</container>
+              <container id="aspace_687d9a4a086c15de7df54048dc09c673" label="Mixed Materials [GW:32882019221905 IM:T560701027]" type="Box">1</container>
+              <container id="aspace_26191a0e90cfba7047702819319f5561" parent="aspace_687d9a4a086c15de7df54048dc09c673" type="Folder">13</container>
             </did>
             <odd id="aspace_b742a7de410e0a1031f5ea45350a33d1">
               <head>General</head>
@@ -316,8 +315,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_48f191b30437ddc20f78872ee181315e" label="Mixed Materials [GW:32882019221913  IM:T560701028]" type="Box">2</container>
-              <container id="aspace_13aecb86a4f25041ba0a8740cd57bedb" parent="aspace_48f191b30437ddc20f78872ee181315e" type="Folder">1</container>
+              <container id="aspace_96277b418b99de2ec7265e6b314acd79" label="Mixed Materials [GW:32882019221913  IM:T560701028]" type="Box">2</container>
+              <container id="aspace_9db2efc3046cc1502c74f1d9e5a1d68e" parent="aspace_96277b418b99de2ec7265e6b314acd79" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref39_l47" level="file">
@@ -326,8 +325,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0c8fdc27206c8e430cb201d0510b222b" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-              <container id="aspace_4295da69d174524a653a6011e0a7d0c7" parent="aspace_0c8fdc27206c8e430cb201d0510b222b" type="Folder">2</container>
+              <container id="aspace_bb549a47ed6c1cad89842c500fdd3708" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+              <container id="aspace_293a512d3f489079edc66fcf64cf2d41" parent="aspace_bb549a47ed6c1cad89842c500fdd3708" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref40_gps" level="file">
@@ -336,8 +335,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ab92ca37226aefa5e0e05b22cf5b907d" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-              <container id="aspace_6ffc6fd70905cbc2890efc9d5ccc7543" parent="aspace_ab92ca37226aefa5e0e05b22cf5b907d" type="Folder">3</container>
+              <container id="aspace_f27075a83e9def1be182b8b905a54082" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+              <container id="aspace_314d0161ba3bdee5b69d57f52660ebdf" parent="aspace_f27075a83e9def1be182b8b905a54082" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref47_cvi" level="file">
@@ -345,8 +344,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Poetry collections</unittitle>
               <unitid>Series 1 Subseries 1</unitid>
               <unitdate datechar="creation">1997-1999</unitdate>
-              <container id="aspace_b2399f5d0a75a96b9125a70628c7ed1f" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-              <container id="aspace_ccb7e4e827631c617903efc3c69513a4" parent="aspace_b2399f5d0a75a96b9125a70628c7ed1f" type="Folder">10</container>
+              <container id="aspace_ac877eeb24a6f47add68b85895382281" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+              <container id="aspace_84f3ab909a0858fdd47ba4586cf13d87" parent="aspace_ac877eeb24a6f47add68b85895382281" type="Folder">10</container>
             </did>
             <scopecontent id="aspace_42989989795aef2755455afb368f0212">
               <head>Scope and Contents</head>
@@ -373,8 +372,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles [originally foldered together]</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="1990/2004" type="inclusive">1990-2004</unitdate>
-              <container id="aspace_a42505c5c57b6ea3169abfd073438745" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_eaae3cea7a067428cfa5ed27393c0f82" parent="aspace_a42505c5c57b6ea3169abfd073438745" type="Folder">1</container>
+              <container id="aspace_5629b9302c552e4cdd177094b9ef902a" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_0613ced99e07a27b0227ee72531ed617" parent="aspace_5629b9302c552e4cdd177094b9ef902a" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref145_kx1" level="file">
@@ -382,8 +381,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2000/2010" type="inclusive">Circa 2000 - Circa 2010</unitdate>
-              <container id="aspace_f79e927ba2d9e8da2cf8521ddb9ec350" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_ae1d28cf2f20d1a089c1f4e1472f694a" parent="aspace_f79e927ba2d9e8da2cf8521ddb9ec350" type="Folder">2</container>
+              <container id="aspace_989ce29f82a32b8182a242c1d843f5fa" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_ea5b9cd2f788c52c80bad61dfaf2f64b" parent="aspace_989ce29f82a32b8182a242c1d843f5fa" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref147_vcx" level="file">
@@ -391,8 +390,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2001/2010" type="inclusive">Circa 2001 - Circa 2010</unitdate>
-              <container id="aspace_c8ddb555bb2f8722bd6b717166d09520" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_541522b71974bc7db08a003492eb85c0" parent="aspace_c8ddb555bb2f8722bd6b717166d09520" type="Folder">3</container>
+              <container id="aspace_9f04fb60a0e262629f6dc40d7c83775a" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_b9f901555234baf39f5f38b7278689af" parent="aspace_9f04fb60a0e262629f6dc40d7c83775a" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref149_m1c" level="file">
@@ -400,8 +399,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2000/2010" type="inclusive">Circa 2000 - Circa 2010</unitdate>
-              <container id="aspace_63cb645b843b272c592b9dcb4374e26a" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_a5679c07941dad6c71855d4c9ff6e58a" parent="aspace_63cb645b843b272c592b9dcb4374e26a" type="Folder">4</container>
+              <container id="aspace_7cb0a29ebb0cd2ec835bc454eac5ce4d" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_bf9e4f9f1140884a42b59b168f46c36c" parent="aspace_7cb0a29ebb0cd2ec835bc454eac5ce4d" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_ref151_cbe" level="file">
@@ -409,8 +408,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2000/2010" type="inclusive">Circa 2000 - Circa 2010</unitdate>
-              <container id="aspace_2a7af548f774ae44632424b23dd5d459" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_bbd4445b34776d46c2fe59b5fcf2d488" parent="aspace_2a7af548f774ae44632424b23dd5d459" type="Folder">5</container>
+              <container id="aspace_814941816d889acce561655eb52c5a91" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_12ebb04e1f9ff5c988470c0fa52f4dea" parent="aspace_814941816d889acce561655eb52c5a91" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_ref153_m51" level="file">
@@ -418,8 +417,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2001/2010" type="inclusive">Circa 2001 - Circa 2010</unitdate>
-              <container id="aspace_c1c6eb1c695603e76d2ee0ed1866de10" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_f9cb173ad1444238bc5960a3c9115d79" parent="aspace_c1c6eb1c695603e76d2ee0ed1866de10" type="Folder">6</container>
+              <container id="aspace_eef7a5bddfc517fd88db976e1c41c64d" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_9394b41405d41dc584036380c535f9ec" parent="aspace_eef7a5bddfc517fd88db976e1c41c64d" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_ref155_eh9" level="file">
@@ -427,8 +426,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles in magazines</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999-2003</unitdate>
-              <container id="aspace_fcf54937cd4aa9aa2b5f5ad3ac175340" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_be61c4b4a5b85fc877f597c392da1f00" parent="aspace_fcf54937cd4aa9aa2b5f5ad3ac175340" type="Folder">7</container>
+              <container id="aspace_5e4eb727b89e594f5ec848ed8caafce0" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_c16fa84c35d4dd3aae8d2bc486e74bd3" parent="aspace_5e4eb727b89e594f5ec848ed8caafce0" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_ref157_0ri" level="file">
@@ -436,8 +435,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Articles in magazines</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2003/2012" type="inclusive">2003-2012</unitdate>
-              <container id="aspace_dc64adfad8cbe5884f6db9de7545c88e" label="Mixed Materials [32882020906858]" type="Box">8</container>
-              <container id="aspace_a361773810be4dccff790aac137ae188" parent="aspace_dc64adfad8cbe5884f6db9de7545c88e" type="Folder">8</container>
+              <container id="aspace_30fada43e3ee836aab5df90c4020530b" label="Mixed Materials [32882020906858]" type="Box">8</container>
+              <container id="aspace_5d6f4956984a85e33e3f08445b5a53c2" parent="aspace_30fada43e3ee836aab5df90c4020530b" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_ref159_760" level="file">
@@ -445,8 +444,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Newspaper articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="1999/2004" type="inclusive">1999-2004</unitdate>
-              <container id="aspace_7d86066e6612ad8c60d485e86a9f10ad" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_fbd9a24faf51b866059797602c7e963d" parent="aspace_7d86066e6612ad8c60d485e86a9f10ad" type="Folder">1</container>
+              <container id="aspace_a8301e3fbdcd90b0b5d0e8767035841e" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_c911fdf4db2553edf5bed68cda193828" parent="aspace_a8301e3fbdcd90b0b5d0e8767035841e" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref161_onk" level="file">
@@ -454,8 +453,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Newspaper articles</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2004/2010" type="inclusive">2004-2010</unitdate>
-              <container id="aspace_6077f7cff241b58628940ab9177f8b58" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_95cfc4937d995307d7c9ed5f5efc1453" parent="aspace_6077f7cff241b58628940ab9177f8b58" type="Folder">2</container>
+              <container id="aspace_035e55731bcbc093fa97ddbf11feb81f" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_79d378449ec4944d54870cba5b7a9a79" parent="aspace_035e55731bcbc093fa97ddbf11feb81f" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref163_pkt" level="file">
@@ -463,8 +462,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Published poems</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="1997/2014" type="inclusive">1997-2014</unitdate>
-              <container id="aspace_31619419b7fb170e09c2095564412b5c" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_3c13e7b0b33429faa82a01bdb5bc32a4" parent="aspace_31619419b7fb170e09c2095564412b5c" type="Folder">3</container>
+              <container id="aspace_e62707501bf3202b78d15c1a8a4bcb5c" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_d8d3eb4cb0874c1cec29f6497c626a8b" parent="aspace_e62707501bf3202b78d15c1a8a4bcb5c" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref165_rw8" level="file">
@@ -472,8 +471,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Published poems and law journal article</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2007/2009" type="inclusive">2007-2009, undated</unitdate>
-              <container id="aspace_08d6bb16826b3689d64d1b32a6ef77aa" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_b86d30e6dd3e3a686d52cf2baea236d1" parent="aspace_08d6bb16826b3689d64d1b32a6ef77aa" type="Folder">4</container>
+              <container id="aspace_c6f1e390f0fe2d0c45fedf9a663cb674" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_e0be60ada158ff305902e908fed1502f" parent="aspace_c6f1e390f0fe2d0c45fedf9a663cb674" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_ref167_8fe" level="file">
@@ -481,8 +480,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Muckworks</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
-              <container id="aspace_631bd9cdaa42fe57d2ceab756d0e400e" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_33532791756e0afef4326f1042f7ba04" parent="aspace_631bd9cdaa42fe57d2ceab756d0e400e" type="Folder">5</container>
+              <container id="aspace_35ec6cb577708369d6a56873c0a12927" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_fe57ec9b27bb4f97c7e67239d3b66f17" parent="aspace_35ec6cb577708369d6a56873c0a12927" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_ref169_x95" level="file">
@@ -490,8 +489,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
               <unittitle>Drafts of poems</unittitle>
               <unitid>Series 1 Subseries 2</unitid>
               <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994, undated</unitdate>
-              <container id="aspace_45271c6b852b277565fe05b870cddd1f" label="Mixed Materials [32882020906841]" type="Box">9</container>
-              <container id="aspace_b21f30ef535348c062ba5284c516d258" parent="aspace_45271c6b852b277565fe05b870cddd1f" type="Folder">6</container>
+              <container id="aspace_cd5358417e0132c2af9b656d7942fb40" label="Mixed Materials [32882020906841]" type="Box">9</container>
+              <container id="aspace_e8d751c0b6eec72b72cd65d2af270026" parent="aspace_cd5358417e0132c2af9b656d7942fb40" type="Folder">6</container>
             </did>
           </c>
         </c>
@@ -516,8 +515,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_fc6a36bec3376418fe4f112511c12603" label="Mixed Materials [GW:32882019221913  IM:T560701028]" type="Box">2</container>
-            <container id="aspace_7aa19d3653f09b1c02b52adec413c5a4" parent="aspace_fc6a36bec3376418fe4f112511c12603" type="Folder">4</container>
+            <container id="aspace_f4343fdce45e74bcf2eda2ac309b442d" label="Mixed Materials [GW:32882019221913  IM:T560701028]" type="Box">2</container>
+            <container id="aspace_32073253c32cf48187d5c9416388f260" parent="aspace_f4343fdce45e74bcf2eda2ac309b442d" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref42_3bx" level="file">
@@ -526,8 +525,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_14752c699d7d2f5f5ff29469714b7df4" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_b77c5e399b0972f9957b1db37951f7b7" parent="aspace_14752c699d7d2f5f5ff29469714b7df4" type="Folder">5</container>
+            <container id="aspace_1cc57e94e8f186db89aa46b3c2c6e509" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_ae6a36390795e2ab92cccbc9ec4a43dc" parent="aspace_1cc57e94e8f186db89aa46b3c2c6e509" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref43_8tx" level="file">
@@ -536,8 +535,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_5a11ca2b3a683c28205922f382cccae5" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_212a9465b0ae57c84aee0403dfce694d" parent="aspace_5a11ca2b3a683c28205922f382cccae5" type="Folder">6</container>
+            <container id="aspace_13aa00a2e91c60b593e26108daca2e84" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_0e1f0307fb176513c5b08b01fd1cc5bb" parent="aspace_13aa00a2e91c60b593e26108daca2e84" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref45_l29" level="file">
@@ -546,8 +545,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">1992</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8f512bb6b2c4c21071b7f0f57ebe0070" label="Mixed Materials [GW: 32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_e4955819dc2a510c516eaa5a152a744e" parent="aspace_8f512bb6b2c4c21071b7f0f57ebe0070" type="Folder">7</container>
+            <container id="aspace_469e286a7cc206a50d45be0219f0ad28" label="Mixed Materials [GW: 32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_a1cf1c9831918b961379399a70d62c5e" parent="aspace_469e286a7cc206a50d45be0219f0ad28" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref51_urs" level="file">
@@ -556,8 +555,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">1996</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8adf4741d91788c50eae2bc729bd653c" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_0f05bbe30bb0f22dc3401612a835e777" parent="aspace_8adf4741d91788c50eae2bc729bd653c" type="Folder">8</container>
+            <container id="aspace_61ae7e20192550781715b31c1ea3e313" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_f578b8d163ef4257cc2eef00084b0566" parent="aspace_61ae7e20192550781715b31c1ea3e313" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref61_1vl" level="file">
@@ -566,8 +565,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">1999</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_6ae62774949c3a94ff2e9114f9644df8" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_23d4c746f442f79e88772a5d032db15d" parent="aspace_6ae62774949c3a94ff2e9114f9644df8" type="Folder">9</container>
+            <container id="aspace_75cbd2d5e916689bedfb98259bc807e0" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_35f123a710314bfa401fddeb13b1ba1e" parent="aspace_75cbd2d5e916689bedfb98259bc807e0" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref94_7ir" level="file">
@@ -575,8 +574,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Poetry by other authors</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1995/2004" type="inclusive">1995-2004</unitdate>
-            <container id="aspace_9b8eb89793af8d5bdceffee8b9e861c1" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_bd58ba9563674ddbdde1de4b00b0c360" parent="aspace_9b8eb89793af8d5bdceffee8b9e861c1" type="Folder">1</container>
+            <container id="aspace_402a680a8fddc4edf2158c6e05d34f02" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_284b9b93443cccbc90cde1e24622dc30" parent="aspace_402a680a8fddc4edf2158c6e05d34f02" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref95_ird" level="file">
@@ -584,8 +583,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Poetry by other authors</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="2005/2009" type="inclusive">2005-2009</unitdate>
-            <container id="aspace_0b7cff502a34d3027c6cc3ca543d0843" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_18934228382c7264475f798de8159a5a" parent="aspace_0b7cff502a34d3027c6cc3ca543d0843" type="Folder">2</container>
+            <container id="aspace_0747ab4a2b938e6c2ca46a7da6d445ae" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_298f44c0ede1033756847908ef7dbc6e" parent="aspace_0747ab4a2b938e6c2ca46a7da6d445ae" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref96_k71" level="file">
@@ -593,8 +592,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Poetry by other authors</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">Undated</unitdate>
-            <container id="aspace_2dd193c120aebac2e7dc9991e8c5712b" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_02cc293cdaa917afcbba73b66a22cacd" parent="aspace_2dd193c120aebac2e7dc9991e8c5712b" type="Folder">3</container>
+            <container id="aspace_89b9ad751d113234cfdcc0b748b93999" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_296e233c0c69d8ec09d1a25970b257b4" parent="aspace_89b9ad751d113234cfdcc0b748b93999" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref97_seo" level="file">
@@ -602,8 +601,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Articles and Essays by other authors</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="2007/2010" type="inclusive">2007-2010, Undated</unitdate>
-            <container id="aspace_0b04317fb7ccdfbb1175e9ac17db4857" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_bce4d65f2c69406deaeca236492d2b7e" parent="aspace_0b04317fb7ccdfbb1175e9ac17db4857" type="Folder">4</container>
+            <container id="aspace_8bf1d44f8c3e0da38fbff772fd79dbc7" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_9647912caf16a0a9ded239447edaea84" parent="aspace_8bf1d44f8c3e0da38fbff772fd79dbc7" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref98_l8x" level="file">
@@ -611,8 +610,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Articles and Essays by other authors</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">Undated</unitdate>
-            <container id="aspace_88d49d6ab9399634ce46a721aaf7f4a0" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_80da8eee35f5df6d248ce4b3ba998f2f" parent="aspace_88d49d6ab9399634ce46a721aaf7f4a0" type="Folder">5</container>
+            <container id="aspace_d04a393750c97c0782e288d1d794415e" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_4551083da045b80d3304e963a088f4d5" parent="aspace_d04a393750c97c0782e288d1d794415e" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref52_jpm" level="file">
@@ -620,8 +619,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Articles and essays by other artists</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">Undated</unitdate>
-            <container id="aspace_0b80a87f103a218a261a43df616fe95c" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_12ab393c39ea08709c04291f570a5667" parent="aspace_0b80a87f103a218a261a43df616fe95c" type="Folder">11</container>
+            <container id="aspace_e91d5e2bbbd3671a74cf8d94f542b5d5" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_81299df8e2c1181bfa0a33b320c478e9" parent="aspace_e91d5e2bbbd3671a74cf8d94f542b5d5" type="Folder">11</container>
           </did>
         </c>
       </c>
@@ -644,8 +643,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research materials: historical </unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cb7ec8d4752d9a53c6322d9ec26c8a92" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_2b032135a2b6938f5c555b0def3e88fc" parent="aspace_cb7ec8d4752d9a53c6322d9ec26c8a92" type="Folder">12</container>
+            <container id="aspace_fd89845f8f7a4e36835c420a0c1efa7e" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_00d80cc497c811465a83eacc3ae20d3c" parent="aspace_fd89845f8f7a4e36835c420a0c1efa7e" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref56_k66" level="file">
@@ -654,8 +653,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_777d53dd64ffce2fb0469531f520293d" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_c8d5b89cac29420ccf05ddf8a6683f07" parent="aspace_777d53dd64ffce2fb0469531f520293d" type="Folder">13</container>
+            <container id="aspace_ebd7a3f6ed11403e00a7f0b70249a9ba" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_ab9e174709e7228087d5bfb39820ffda" parent="aspace_ebd7a3f6ed11403e00a7f0b70249a9ba" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref135_tee" level="file">
@@ -663,8 +662,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research materials: jazz</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
-            <container id="aspace_0d5dd1f8354981b8460aa72e5ec7992b" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_7814e9c33f598259074858e1f8bbe4aa" parent="aspace_0d5dd1f8354981b8460aa72e5ec7992b" type="Folder">6</container>
+            <container id="aspace_a4b571f9f1c3db6a3eec6fcff5e46779" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_e145e115e8b623c345bcff61e9a0fa92" parent="aspace_a4b571f9f1c3db6a3eec6fcff5e46779" type="Folder">6</container>
           </did>
           <acqinfo id="aspace_249557dec6a513e3826390f700bf09c4">
             <head>Immediate Source of Acquisition</head>
@@ -677,8 +676,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1998</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_7124f86bbb052a3c96e2786b52d46c1c" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_9d5ad0c6ce70b600aaf211de62dae16d" parent="aspace_7124f86bbb052a3c96e2786b52d46c1c" type="Folder">14</container>
+            <container id="aspace_d92b09bf31151dd671075530c81f566e" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_dd8897bbe808ef16f7a1a1476f836cbb" parent="aspace_d92b09bf31151dd671075530c81f566e" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref137_0q0" level="file">
@@ -686,8 +685,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research materials: May Miller</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation" normal="1986/2002" type="inclusive">1986-2002</unitdate>
-            <container id="aspace_5fa7fcef7d1effb3d4dd1a8b6f372349" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_159c36cde7fb376246a9aed16d51e014" parent="aspace_5fa7fcef7d1effb3d4dd1a8b6f372349" type="Folder">7</container>
+            <container id="aspace_5e4c8de544953281440939f5da96b834" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_823a6b02aa634d1bb6b31788be4a4b51" parent="aspace_5e4c8de544953281440939f5da96b834" type="Folder">7</container>
           </did>
           <acqinfo id="aspace_73f2c43bb38a28aebc2409fcb28e9493">
             <head>Immediate Source of Acquisition</head>
@@ -700,8 +699,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1994-2006</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_3c5b8c5e95f83b6dd5faeb813e9f94d6" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_3f88ccf319e963df37b21140c7398e48" parent="aspace_3c5b8c5e95f83b6dd5faeb813e9f94d6" type="Folder">15</container>
+            <container id="aspace_1f9469b7537c8796ee671a99212faa44" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_7ec82a32eb97644e5a7173274a49e818" parent="aspace_1f9469b7537c8796ee671a99212faa44" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref60_wyu" level="file">
@@ -710,8 +709,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_ae53a25e7127761c534a6a0f7d544076" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
-            <container id="aspace_d4dc60f98d5fbbc6dbc1c600f59f7226" parent="aspace_ae53a25e7127761c534a6a0f7d544076" type="Folder">16</container>
+            <container id="aspace_d0a24f111f18cd2844d43495b9243686" label="Mixed Materials [GW:32882019221913 IM:T560701028]" type="Box">2</container>
+            <container id="aspace_e29d81ac3b0cf5f40085767747cb5b23" parent="aspace_d0a24f111f18cd2844d43495b9243686" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref99_79u" level="file">
@@ -719,8 +718,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research Materials</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_55ba37bf231fa801f455842177afe579" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_70e23f5b63f00ccaa7e382cdd36ee531" parent="aspace_55ba37bf231fa801f455842177afe579" type="Folder">6</container>
+            <container id="aspace_b248e608eb62d38b13cf3203adaf7f41" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_075363b194ee8e49b87e45accebdcf62" parent="aspace_b248e608eb62d38b13cf3203adaf7f41" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref100_ac2" level="file">
@@ -728,8 +727,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research Materials</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7a2b30b21bd3458e0c9e47649a3b2deb" label="Mixed Materials [32882020270677]" type="Box">5</container>
-            <container id="aspace_212f4290486af205b60b7a6f5525d776" parent="aspace_7a2b30b21bd3458e0c9e47649a3b2deb" type="Folder">7</container>
+            <container id="aspace_2a17bb6056533db253f432633dac8d89" label="Mixed Materials [32882020270677]" type="Box">5</container>
+            <container id="aspace_98dc2cb820b559dabc2c8aaf2cd9f518" parent="aspace_2a17bb6056533db253f432633dac8d89" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref101_ne2" level="file">
@@ -737,8 +736,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Research Materials</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fa3c3679a21c43d186a9200ce023b4cc" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_9ab2ea1af41d9b70b452f3804cab74df" parent="aspace_fa3c3679a21c43d186a9200ce023b4cc" type="Folder">1</container>
+            <container id="aspace_47449c6153d7c7ead90d184b68928d5d" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_ec6a8eab2db3470aecf55f984678b81f" parent="aspace_47449c6153d7c7ead90d184b68928d5d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref63_4qt" level="file">
@@ -746,8 +745,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Notebook</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a1ae722df6f5ea3b1928b8e4d18c808e" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_e064655bde91524c94381111504a2faf" parent="aspace_a1ae722df6f5ea3b1928b8e4d18c808e" type="Folder">1</container>
+            <container id="aspace_fde3644d6fda854d1302178a6047fc16" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_71914b36748cd3fcfbec92abfb0d96c9" parent="aspace_fde3644d6fda854d1302178a6047fc16" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref64_xw4" level="file">
@@ -756,8 +755,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1978-1994</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_f29042eaa8fffbfc9f2be249cec3215c" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_aabffab5fb169a268e09bbb4d77e994b" parent="aspace_f29042eaa8fffbfc9f2be249cec3215c" type="Folder">2</container>
+            <container id="aspace_9f35339c962d96d937c2a632e5e1d7be" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_6d9636a678d385ef57673e59b309b2df" parent="aspace_9f35339c962d96d937c2a632e5e1d7be" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref65_wcr" level="file">
@@ -766,8 +765,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_08c9e8cab70863d4aa599632e320b066" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_42c3ed6148c6adfcbef9cf3b176a94d8" parent="aspace_08c9e8cab70863d4aa599632e320b066" type="Folder">3</container>
+            <container id="aspace_728d0d8c564de082addccb6be8313706" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_0bfdb74fc03e4952a0edca5c2bad4ef2" parent="aspace_728d0d8c564de082addccb6be8313706" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -791,8 +790,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1986/2012" type="inclusive">1986-2012</unitdate>
             <unitdate datechar="creation" normal="2011/2012" type="bulk">2011-2012</unitdate>
-            <container id="aspace_371dedad69e7964935cf97008fbf1305" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_066247713593e44e99224c44b53a871d" parent="aspace_371dedad69e7964935cf97008fbf1305" type="Folder">1</container>
+            <container id="aspace_9cd133dd3e78a0d8bcedcf40f62c8d80" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_65db7550ab4f869bc61d0fcf2f2f462e" parent="aspace_9cd133dd3e78a0d8bcedcf40f62c8d80" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref67_jnr" level="file">
@@ -801,8 +800,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 4</unitid>
             <unitdate datechar="creation">1988-2008</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_10e38f7aa84b99b57e1b02c2284af1f8" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_7733904d52f80c695078ea5a7ac58177" parent="aspace_10e38f7aa84b99b57e1b02c2284af1f8" type="Folder">4</container>
+            <container id="aspace_ebbd0e2070dc84e7a8ed3ce40862f1bb" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_5eeedd3e319703866f87f3232537c1e3" parent="aspace_ebbd0e2070dc84e7a8ed3ce40862f1bb" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref68_9a4" level="file">
@@ -811,8 +810,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 4</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8816b2cedc9627bb819c75167f0218cf" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_2c67e9cc8d58979a2a0f63d27a016c13" parent="aspace_8816b2cedc9627bb819c75167f0218cf" type="Folder">5</container>
+            <container id="aspace_0177fc4b16487679579993e55d9e30aa" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_59650bbe34bec98aac22f52fb0de4fe0" parent="aspace_0177fc4b16487679579993e55d9e30aa" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref139_ysj" level="file">
@@ -820,8 +819,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Event fliers</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1990/2014" type="inclusive">1990-2014</unitdate>
-            <container id="aspace_6cbc3621b46d47617e1b4d46226f7aa0" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_cb9a3055d790662bfe4d1209a2678310" parent="aspace_6cbc3621b46d47617e1b4d46226f7aa0" type="Folder">8</container>
+            <container id="aspace_267fbf1e50f5e3f7384c5cc44c4db652" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_473c4538bf0516b0690577334ffdc87b" parent="aspace_267fbf1e50f5e3f7384c5cc44c4db652" type="Folder">8</container>
           </did>
           <acqinfo id="aspace_78e0060c3a1ba8193d00289ffcbabb3f">
             <head>Immediate Source of Acquisition</head>
@@ -834,8 +833,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 4</unitid>
             <unitdate datechar="creation">1997-2001</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_cd751c8166defb6bb08b93ae36ee07ad" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_6cb0e2bcee7dcc24dac1b379165c4d78" parent="aspace_cd751c8166defb6bb08b93ae36ee07ad" type="Folder">6</container>
+            <container id="aspace_8a8a6d15660fab4cf8bd0b0b207d2f43" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_13c06295d3b13f14d476f0123221159f" parent="aspace_8a8a6d15660fab4cf8bd0b0b207d2f43" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref78_n9x" level="file">
@@ -844,8 +843,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 4</unitid>
             <unitdate datechar="creation">1987-2006</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_025fd1a5d2154cdfa86ef9649a785929" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_8687b297b9b8da27265bc4eda10898f2" parent="aspace_025fd1a5d2154cdfa86ef9649a785929" type="Folder">15</container>
+            <container id="aspace_77a345b10d924eab4f182d03728a970c" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_eebafbecd1d23569a5bd3834fcc57e70" parent="aspace_77a345b10d924eab4f182d03728a970c" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref102_ed7" level="file">
@@ -853,8 +852,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Publicity Materials</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1988/2010" type="inclusive">1988-2010</unitdate>
-            <container id="aspace_a86311be1dc673933a13bfc7a0a7ecd3" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_22b4be1233790c75dffbb74b068aafc9" parent="aspace_a86311be1dc673933a13bfc7a0a7ecd3" type="Folder">2</container>
+            <container id="aspace_f260bff30fb3e7a458565972be425de8" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_8cbd3a1fc6d851d1d621382345a228a2" parent="aspace_f260bff30fb3e7a458565972be425de8" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref103_dts" level="file">
@@ -862,8 +861,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Publicity Materials</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
-            <container id="aspace_2a843d43627bfe760bc4280979997b0b" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_48c93559111fef383a5b56cce2331e55" parent="aspace_2a843d43627bfe760bc4280979997b0b" type="Folder">3</container>
+            <container id="aspace_9df61e416e431e0c1376d54efd3062ea" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_28e841dc56235c9844d79ef89be41bf2" parent="aspace_9df61e416e431e0c1376d54efd3062ea" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -886,8 +885,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Brian Gilmore MTV Audition</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-            <container id="aspace_b48df2c24e61f3785a4342ec42c778bb" label="Moving Images [32882020270669]" type="Box">4</container>
-            <container id="aspace_f783f9c5ccd9473047128cf86ef303b4" parent="aspace_b48df2c24e61f3785a4342ec42c778bb" type="videocassette">1</container>
+            <container id="aspace_44042fdcd60dd7a1ee425f1f8509ad70" label="Moving Images [32882020270669]" type="Box">4</container>
+            <container id="aspace_bf120b5a576067ee0b9ccee1fbf30900" parent="aspace_44042fdcd60dd7a1ee425f1f8509ad70" type="videocassette">1</container>
           </did>
         </c>
         <c id="aspace_ref131_hix" level="file">
@@ -895,8 +894,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Biographical materials</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1998/2014" type="inclusive">1998-2014</unitdate>
-            <container id="aspace_938776fd414ce69b1258c27ab83aa7c8" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_9d70af35304d1e9a753c0596d5ab7dec" parent="aspace_938776fd414ce69b1258c27ab83aa7c8" type="Folder">4</container>
+            <container id="aspace_cb755a342f85576e55caec5f95494704" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_9f7478ac4f98351b2b35bdcefb5fa010" parent="aspace_cb755a342f85576e55caec5f95494704" type="Folder">4</container>
           </did>
           <acqinfo id="aspace_91ba3ed74a28796621127bf9ce9f821f">
             <head>Immediate Source of Acquisition</head>
@@ -909,8 +908,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c1d48ae89400034c3ded9ff399823a0d" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_26803cd5081b23ee09886e616ba23ec6" parent="aspace_c1d48ae89400034c3ded9ff399823a0d" type="Folder">10</container>
+            <container id="aspace_a5952d9e4ee6da5b0084a4cb5c095bef" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_b7ed8f85a999965f85911ee7fde88436" parent="aspace_a5952d9e4ee6da5b0084a4cb5c095bef" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref77_vto" level="file">
@@ -919,8 +918,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_9bf1f5b8ff0a4c4d040a5963d33a487c" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_d7acdcc8d361262b228123d6ff36456d" parent="aspace_9bf1f5b8ff0a4c4d040a5963d33a487c" type="Folder">14</container>
+            <container id="aspace_54f8e34d9c3f4b6100eb00b1d91f58be" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_0b7a508f8aadeca2fb1b2fb6971e0132" parent="aspace_54f8e34d9c3f4b6100eb00b1d91f58be" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref71_krr" level="file">
@@ -929,8 +928,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">1988-2008</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_2e017f4b8edde9924c13ed8ebaf53df8" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_1b2fc35488050f9b3eced833a3b57cfe" parent="aspace_2e017f4b8edde9924c13ed8ebaf53df8" type="Folder">8</container>
+            <container id="aspace_1599f267312f5d4c9ab118aaa15655e7" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_e1fad41c8f1bdc6f0bf066bbbfb6f610" parent="aspace_1599f267312f5d4c9ab118aaa15655e7" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref72_ama" level="file">
@@ -939,8 +938,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c1976f767b649ac6fb1b38d842fc49c4" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_71116beeb1ab9d67acd28eb3662fc1aa" parent="aspace_c1976f767b649ac6fb1b38d842fc49c4" type="Folder">9</container>
+            <container id="aspace_1ae9e0d8c25c1c262b903cbdea2b8b73" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_19d79b738fb15cda5faf6b4c92116405" parent="aspace_1ae9e0d8c25c1c262b903cbdea2b8b73" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref107_ty2" level="file">
@@ -948,8 +947,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Correspondence</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1993/2010" type="inclusive">1993-2010</unitdate>
-            <container id="aspace_5ed7bac6b7e75a63eee09554ea7f01cd" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_3486ba11658d24bce0c455395218e7ce" parent="aspace_5ed7bac6b7e75a63eee09554ea7f01cd" type="Folder">7</container>
+            <container id="aspace_8e0ef6ffe1a963ad2f8917420b0a3071" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_cdd42de8d57aff17aa04678652d159b5" parent="aspace_8e0ef6ffe1a963ad2f8917420b0a3071" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref133_c4u" level="file">
@@ -957,8 +956,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Correspondence</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1993/2014" type="inclusive">1993-2014</unitdate>
-            <container id="aspace_8cb64d9271b0110326d33ef961b01134" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_b22a95e6cee977a73de9ac00c106b53f" parent="aspace_8cb64d9271b0110326d33ef961b01134" type="Folder">5</container>
+            <container id="aspace_c64f5b1c3177eecfe709ecaeb223c003" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_0642c3afed5316e8b4f96d862f950ba8" parent="aspace_c64f5b1c3177eecfe709ecaeb223c003" type="Folder">5</container>
           </did>
           <acqinfo id="aspace_7c787681adddac8fa5bd57134e702682">
             <head>Immediate Source of Acquisition</head>
@@ -970,9 +969,9 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Headshot</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004 May</unitdate>
-            <container id="aspace_2456a1173c5d03d1dc5c99c0602fdf1e" label="Graphic Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_569128bfcbd13d96ea72380cc607832b" parent="aspace_2456a1173c5d03d1dc5c99c0602fdf1e" type="Folder">9</container>
-            <container id="aspace_17a9a7fcc74ffc1748fa3a46a4c4d812" parent="aspace_569128bfcbd13d96ea72380cc607832b" type="cd">1</container>
+            <container id="aspace_314c9aec07cc1dba7c5704a728d86fcd" label="Graphic Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_4940d2b4f4cdee438c90cf718a372ba2" parent="aspace_314c9aec07cc1dba7c5704a728d86fcd" type="Folder">9</container>
+            <container id="aspace_131d9b2a072c54466243381dd05c7c8c" parent="aspace_4940d2b4f4cdee438c90cf718a372ba2" type="cd">1</container>
           </did>
         </c>
         <c id="aspace_ref70_h43" level="file">
@@ -981,8 +980,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">1989-2008</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_dcbc34dbe4c09af56428ece8b9e94538" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_6fb3b55088073abbb2c02e738fb93457" parent="aspace_dcbc34dbe4c09af56428ece8b9e94538" type="Folder">7</container>
+            <container id="aspace_5d28380cae1b88b9b81c12544e8630ca" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_c7aca5df2d8b63d7a5d6b4460adc8cf8" parent="aspace_5d28380cae1b88b9b81c12544e8630ca" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref74_a7w" level="file">
@@ -991,8 +990,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_28a2d75dc9dbea679b697bf2e99e6bb1" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_f0c070151114a55ce44df363059a54f6" parent="aspace_28a2d75dc9dbea679b697bf2e99e6bb1" type="Folder">11</container>
+            <container id="aspace_bd68c0a0bbca9f26465a8c1dc3fc7f91" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_df53df135d00345163119fdf906843d4" parent="aspace_bd68c0a0bbca9f26465a8c1dc3fc7f91" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref75_3cq" level="file">
@@ -1001,8 +1000,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_1b991a63743ab38a9f0974f08be7cf7f" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_ac8582690e5ac4842533941062374480" parent="aspace_1b991a63743ab38a9f0974f08be7cf7f" type="Folder">12</container>
+            <container id="aspace_c187a89587095101dc16cf56ec68c2ac" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_a3288805f4e1451fd1354dfe605f1cf8" parent="aspace_c187a89587095101dc16cf56ec68c2ac" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref106_fay" level="file">
@@ -1010,8 +1009,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Personal files</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1995/2009" type="inclusive">1995-2009</unitdate>
-            <container id="aspace_3ad51511b1ab964e35a091fc8534035a" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_b2a7f1a9e8e42348df9ead838c74674e" parent="aspace_3ad51511b1ab964e35a091fc8534035a" type="Folder">6</container>
+            <container id="aspace_f430d7f14be57395d85b811bd0b9990a" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_ee04614d1ae22ee2b59b455fdf756a17" parent="aspace_f430d7f14be57395d85b811bd0b9990a" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref76_jvk" level="file">
@@ -1020,8 +1019,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_6f9302075bd38956c273e28a0a7345c3" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
-            <container id="aspace_20f390643d9066af397c8528054c43da" parent="aspace_6f9302075bd38956c273e28a0a7345c3" type="Folder">13</container>
+            <container id="aspace_c55e5ec8993738c0fb08f2164f09bd95" label="Mixed Materials [32882019221921 IM:T560701029]" type="Box">3</container>
+            <container id="aspace_79ffedda14de6037daa07ac0d17a4b5a" parent="aspace_c55e5ec8993738c0fb08f2164f09bd95" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref105_mpo" level="file">
@@ -1029,8 +1028,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Progressive Media Project Annual Reports</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="2002/2006" type="inclusive">2002-2006</unitdate>
-            <container id="aspace_f911de9410817d1165e61256ec3d939e" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_9d41b838bcf181613f134d164cc0acaa" parent="aspace_f911de9410817d1165e61256ec3d939e" type="Folder">5</container>
+            <container id="aspace_ae743c99073293d54cc1fd66e9626450" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_c988b7817206539b56106fb3738ad414" parent="aspace_ae743c99073293d54cc1fd66e9626450" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref104_ebe" level="file">
@@ -1038,8 +1037,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Screenwriting Class Files</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
-            <container id="aspace_af3f3b5ac76fe23cdcf13a84ee586748" label="Mixed Materials [32882020270685]" type="Box">6</container>
-            <container id="aspace_274dffde08a1ed8bb6b5bc50ee047238" parent="aspace_af3f3b5ac76fe23cdcf13a84ee586748" type="Folder">4</container>
+            <container id="aspace_b01a57f473737f3256481ddfd75e9686" label="Mixed Materials [32882020270685]" type="Box">6</container>
+            <container id="aspace_10f36408bc6bc5accb377e72cddd03d2" parent="aspace_b01a57f473737f3256481ddfd75e9686" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref123_x1c" level="file">
@@ -1047,8 +1046,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Sterling A. Brown honored at UMUM fete in Washington DC by James G. Spady</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
-            <container id="aspace_93a883fa7eea2f67b1d9b771ca47820b" label="Mixed Materials [32882020667062]" type="Box">7</container>
-            <container id="aspace_03f8395c0282364c34b36c937364f20e" parent="aspace_93a883fa7eea2f67b1d9b771ca47820b" type="Folder">2</container>
+            <container id="aspace_1ad23374ddb5ca6eb11f610d2a05e65f" label="Mixed Materials [32882020667062]" type="Box">7</container>
+            <container id="aspace_96c9b1a4b18d235d1418afcbd3ea941c" parent="aspace_1ad23374ddb5ca6eb11f610d2a05e65f" type="Folder">2</container>
           </did>
         </c>
       </c>

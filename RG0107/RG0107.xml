@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0107.xml">rg0107.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:45 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:10:52 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -90,7 +89,7 @@
           <unitid>RG0107 Series 1</unitid>
           <unitdate datechar="creation">1968-1985</unitdate>
           <physdesc id="aspace_2f85ab73f1a1e1d45764908484dd0710" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_31ca91904e219620220c29b5e58e5a33" label="Mixed Materials [Series 1 GW: 32882017677819]" type="Box">1</container>
+          <container id="aspace_2626831aab0ec38645108369c0f046dc" label="Mixed Materials [Series 1 GW: 32882017677819]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_2aa53e01b0728a99aae831e767a5ebf3">
           <head>Scope and Contents note</head>
@@ -101,8 +100,8 @@
           <did>
             <unittitle>Library, University--Serials</unittitle>
             <unitdate datechar="creation">03/1968-10/1985</unitdate>
-            <container id="aspace_08c40b95396ed4e2c51155accff1d614" label="Mixed Materials [Series 1 GW: 32882017677819]" type="Box">1</container>
-            <container id="aspace_cd69dbc0bdc265b43a94e3f59ceae7eb" parent="aspace_08c40b95396ed4e2c51155accff1d614" type="Folder">1</container>
+            <container id="aspace_8309320137d9d1b1d889ff7ecb06928e" label="Mixed Materials [Series 1 GW: 32882017677819]" type="Box">1</container>
+            <container id="aspace_575cb2f739c00acdac3855a63b1d17e6" parent="aspace_8309320137d9d1b1d889ff7ecb06928e" type="Folder">1</container>
           </did>
         </c>
       </c>

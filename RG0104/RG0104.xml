@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0104.xml">rg0104.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:44 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:10:51 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -115,7 +114,7 @@
           <unitid>RG0104 Series 2</unitid>
           <unitdate datechar="creation">1981</unitdate>
           <physdesc id="aspace_6d7907ad5f02ba58340a28e603839317" label="General Physical Description note">1 Linear foot</physdesc>
-          <container id="aspace_71b31112b75a00e7d6ab00286141cb3f" label="Mixed Materials [Series 2 GW: 32882019233496]" type="flat_box">1</container>
+          <container id="aspace_b38f6c13ea8a031fd3dc2e1ddf610253" label="Mixed Materials [Series 2 GW: 32882019233496]" type="flat_box">1</container>
         </did>
         <scopecontent id="aspace_f265d6827e38427ddbbe61930eb2fd39">
           <head>Scope and Contents note</head>
@@ -130,7 +129,7 @@
           <unitid>RG0104 Series 3</unitid>
           <unitdate datechar="creation">1988</unitdate>
           <physdesc id="aspace_b1e5e4c6c956f9a3bd1dde236a50f4e0" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_12fe341bfa23635cbe65a32e5cfa09c1" label="Mixed Materials [Series 3 GW: 32882020269943]" type="Box">1</container>
+          <container id="aspace_9161f345bd10592c138ca98579e2e45e" label="Mixed Materials [Series 3 GW: 32882020269943]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_55eafccbd9d2f2c29b34f4c10e78a877">
           <head>Scope and Contents note</head>
@@ -145,8 +144,8 @@
           <unitid>RG0104 Series 4</unitid>
           <unitdate datechar="creation">1970-2002</unitdate>
           <physdesc id="aspace_5793533f5c73ccdbe5196f4cddb25cc3" label="General Physical Description note">1 Linear feet</physdesc>
-          <container id="aspace_6538219b780d0dfddd348f2b9c11468f" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-          <container id="aspace_a4e024455d527bc38db88617444c54e6" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+          <container id="aspace_019a46fd1f190b5ffd82de8e7d9c7c0f" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+          <container id="aspace_a2ec204bf42f225367ef90e262039370" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
         </did>
         <scopecontent id="aspace_b3d26e2c29b7ad80cafae3abf9f13af3">
           <head>Scope and Contents note</head>
@@ -157,120 +156,120 @@
           <did>
             <unittitle>Libraries--Friends of the Libraries</unittitle>
             <unitdate datechar="creation">01/1972-05/06/1992</unitdate>
-            <container id="aspace_5b0718a2b5b10ea896634429bc0c1b91" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_75a37ad178bbd44c46b984cd921049a0" parent="aspace_5b0718a2b5b10ea896634429bc0c1b91" type="Folder">1</container>
+            <container id="aspace_35dc7c49195b802f47b675a6dba2bbb0" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_74108641e0fbd1c3198612344a889425" parent="aspace_35dc7c49195b802f47b675a6dba2bbb0" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref22_wrk" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Annual Meetings, 1973-1985</unittitle>
             <unitdate datechar="creation">04/07/1973-05/16/1985</unitdate>
-            <container id="aspace_f50eae5aaaded8d47b64095a36cefc7f" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_faa41d691e7d276f6c023a71e7affa3a" parent="aspace_f50eae5aaaded8d47b64095a36cefc7f" type="Folder">2</container>
+            <container id="aspace_f7157bb80911936097d30d23461a5e23" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_dacb88143bf84dcb822255f8b871a134" parent="aspace_f7157bb80911936097d30d23461a5e23" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref23_zrb" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Annual Meetings, 1986-2002</unittitle>
             <unitdate datechar="creation">05/08/1986-04/17/2002</unitdate>
-            <container id="aspace_0928b5d1eeb5a85198888afbb728f4fe" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_e607aceeb9323cb7b9971f9d3cd4299a" parent="aspace_0928b5d1eeb5a85198888afbb728f4fe" type="Folder">3</container>
+            <container id="aspace_ccb3ba1967a8d5823e48e52a5bc90136" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_8d763b4a9e01876e59a013c5665d6c9a" parent="aspace_ccb3ba1967a8d5823e48e52a5bc90136" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref24_xxi" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Book Reviews Forum</unittitle>
             <unitdate datechar="creation">1974-03/07/1979</unitdate>
-            <container id="aspace_4f1f4ea84b043b00d3f95f24cb22675a" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_5c4b2a8ed44b9de79b6e21119717555e" parent="aspace_4f1f4ea84b043b00d3f95f24cb22675a" type="Folder">4</container>
+            <container id="aspace_fe5128e6af61784c9598ce5646bb5cae" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_1fb0bec8836843eaa1c28c5005c0b79d" parent="aspace_fe5128e6af61784c9598ce5646bb5cae" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref25_34i" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Committees</unittitle>
             <unitdate datechar="creation">01/25/1978-09/1979</unitdate>
-            <container id="aspace_1d9f5551200fab78d4ea41fa47422da3" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_56197a10916d55b2f38030d33378776a" parent="aspace_1d9f5551200fab78d4ea41fa47422da3" type="Folder">5</container>
+            <container id="aspace_de989c3b44737f828a19a6e77b6456cc" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_2204b65a375309db0528339af2cacf48" parent="aspace_de989c3b44737f828a19a6e77b6456cc" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref26_ogq" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Correspondence</unittitle>
             <unitdate datechar="creation">01/19/1972-04/30/1978</unitdate>
-            <container id="aspace_ba499a3a9b1975452d65f26721e56376" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_0bd3d5c4165ce8d5d5ee1485164e0192" parent="aspace_ba499a3a9b1975452d65f26721e56376" type="Folder">6</container>
+            <container id="aspace_9b77df83b78619e2db2133aefa6506b7" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_054a5d898a444c9d7056e4c639245ff8" parent="aspace_9b77df83b78619e2db2133aefa6506b7" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref27_l51" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Executive Board</unittitle>
             <unitdate datechar="creation">11/30/1972-06/19/1992</unitdate>
-            <container id="aspace_0f91b34e7d7fc65c0238b44d07c4389b" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_7ee3a9707a0422d44ba427f392e8aa86" parent="aspace_0f91b34e7d7fc65c0238b44d07c4389b" type="Folder">7</container>
+            <container id="aspace_e15618415b31123f5a54a33db9d8b755" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_836c3a11d39a9d5c386606c768a01d39" parent="aspace_e15618415b31123f5a54a33db9d8b755" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref28_kvm" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries - Meeting Minutes, 1973-1995</unittitle>
             <unitdate datechar="creation">12/01/1972-03/09/1995</unitdate>
-            <container id="aspace_77df4815cee1c33c5cf902352133c57a" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_cf330837ab9705f13d460f49d86a9477" parent="aspace_77df4815cee1c33c5cf902352133c57a" type="Folder">8</container>
+            <container id="aspace_5cb9c17734952a2da62b6f4f979a3307" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_0940f7ac643310ce0b56cfe848616d53" parent="aspace_5cb9c17734952a2da62b6f4f979a3307" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref29_58j" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Membership Committee</unittitle>
             <unitdate datechar="creation">04/13/1972-09/24/1982</unitdate>
-            <container id="aspace_14dc6c2f50d26421b88fb532df013d4d" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
-            <container id="aspace_e49493e809fc3cabfafb7e40840f0564" parent="aspace_14dc6c2f50d26421b88fb532df013d4d" type="Folder">9</container>
+            <container id="aspace_4e682b6481d34ac9725513ea75a9490c" label="Mixed Materials [Series 4 GW: 32882017677801]" type="Box">1</container>
+            <container id="aspace_f0d55672ef02ed7a7dfa35bbd89ee4a9" parent="aspace_4e682b6481d34ac9725513ea75a9490c" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref30_zcy" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Officers and Membership</unittitle>
             <unitdate datechar="creation">04/13/1972-1997</unitdate>
-            <container id="aspace_23e0198e98f284d5de79065d385ef94c" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_f9d1c36c2dc9625ce59b55f51e46dce4" parent="aspace_23e0198e98f284d5de79065d385ef94c" type="Folder">1</container>
+            <container id="aspace_52ccdcf9a86454241717ca99e8bdc5cf" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_8196e9060831706939437d752375e322" parent="aspace_52ccdcf9a86454241717ca99e8bdc5cf" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref31_mho" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Publications - Keepsake, 1972</unittitle>
             <unitdate datechar="creation">01/1972-10/01/1972</unitdate>
-            <container id="aspace_274384f434cae833053d84680022d84e" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_ab2af0dd37480277ab3ea2122c40b499" parent="aspace_274384f434cae833053d84680022d84e" type="Folder">2</container>
+            <container id="aspace_23ad89334dcd7b3d3b7a01969414aa99" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_57268f254a4234419e71dddfe9ca9ab0" parent="aspace_23ad89334dcd7b3d3b7a01969414aa99" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref32_trf" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries - Publications - Keepsakes</unittitle>
             <unitdate datechar="creation">06/01/1974-2002</unitdate>
-            <container id="aspace_ac7ae44ed462d4b146e0cb2abcb4caec" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_c0ca53105c594e65bcb0bdf83bf57d4d" parent="aspace_ac7ae44ed462d4b146e0cb2abcb4caec" type="Folder">3</container>
+            <container id="aspace_1670f22467b2a8a1333bc8a473eb2e07" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_deb02b94ec21a3a358f073693ee42355" parent="aspace_1670f22467b2a8a1333bc8a473eb2e07" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref33_ot9" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Special Events Committee</unittitle>
             <unitdate datechar="creation">05/18/1970-02/04/1993</unitdate>
-            <container id="aspace_a0e7d2e48d49fa38b78d51a2e66d87ac" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_3187db92b81316c2e31f0f276df98d79" parent="aspace_a0e7d2e48d49fa38b78d51a2e66d87ac" type="Folder">4</container>
+            <container id="aspace_84a362f3eff7529571fc1062b478c155" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_583c83f90afef52ba67d7642de5acc17" parent="aspace_84a362f3eff7529571fc1062b478c155" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref34_4kt" level="file">
           <did>
             <unittitle>Libraries--Friends of the Libraries--Student Book Collectors Contest</unittitle>
             <unitdate datechar="creation">1974-04/15/1999</unitdate>
-            <container id="aspace_7f477d1e9983fbed71943f9767ddf0e5" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_4a8e9ffba23ef339e34842d1409d5815" parent="aspace_7f477d1e9983fbed71943f9767ddf0e5" type="Folder">5</container>
+            <container id="aspace_2e3b16a1e91d9cb27518e4333de5b3c4" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_762e3696c3a1f4bcd17b62c5d520de11" parent="aspace_2e3b16a1e91d9cb27518e4333de5b3c4" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref35_si4" level="file">
           <did>
             <unittitle>Libraries - Friends of the Libraries --Treasurer's Reports</unittitle>
             <unitdate datechar="creation">11/13/1972-09/08/1994</unitdate>
-            <container id="aspace_a20d2e436be4eccae80904f928bf2237" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
-            <container id="aspace_38a4bdfb92f8435eb4196e3d742c2209" parent="aspace_a20d2e436be4eccae80904f928bf2237" type="Folder">6</container>
+            <container id="aspace_bf8d86307d4359aca8530a315961cc5a" label="Mixed Materials [Series 4 GW: 32882017677546]" type="Box">2</container>
+            <container id="aspace_5cd4412b32c92950543fd0422f04e311" parent="aspace_bf8d86307d4359aca8530a315961cc5a" type="Folder">6</container>
           </did>
         </c>
       </c>

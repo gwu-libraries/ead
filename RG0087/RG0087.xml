@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0087.xml">rg0087.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:34 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:10:42 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -93,7 +92,7 @@
           <unitid>RG0087 Series 1</unitid>
           <unitdate datechar="creation">ca.1980-89</unitdate>
           <physdesc id="aspace_f7d146beb6ac79793dabcaadc6308e4c" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_451ba8e5a529ee073d9eaa29e1bc962a" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+          <container id="aspace_6f0c2c3df24957a3a74e52f6ac01d0fd" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_0261aa8232553161d38da543cee06acb">
           <head>Scope and Contents note</head>
@@ -103,56 +102,56 @@
           <did>
             <unittitle>Opening Reception Program</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cb943ca89491476701ed79137e50e1ef" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_f2b84b9dc78eb915a0e3114ff6066bbf" parent="aspace_cb943ca89491476701ed79137e50e1ef" type="Folder">1</container>
+            <container id="aspace_4d6fb54d8102f326ed6351285967910d" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_b66715aa1168ad80d63d771612766611" parent="aspace_4d6fb54d8102f326ed6351285967910d" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref14_m8z" level="file">
           <did>
             <unittitle>Inventory of Materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_de3a161e9a273cac62e53198b2570388" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_68aabd038b0517ec1b0ce8126e55496b" parent="aspace_de3a161e9a273cac62e53198b2570388" type="Folder">2</container>
+            <container id="aspace_0f2c358b5b4b5ccc914c84f404e26864" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_64508b2339fc66f678c6eb66ef752caf" parent="aspace_0f2c358b5b4b5ccc914c84f404e26864" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref15_fg5" level="file">
           <did>
             <unittitle>Pictures from the Exhibit</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f81a4263a6c53f8aaf58aa146ad918b1" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_6e76651a4217a79e3c04703061064e30" parent="aspace_f81a4263a6c53f8aaf58aa146ad918b1" type="Folder">3</container>
+            <container id="aspace_3178fc4695d261104b34c31c22cac23b" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_bccd3d89a0a3bf50573b7067de6347bf" parent="aspace_3178fc4695d261104b34c31c22cac23b" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref16_cvt" level="file">
           <did>
             <unittitle>Pictures from the Exhibit</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1dd17843c5cff81237dc232e7b351214" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_6cc2989827b21d4a89aacb7e6614b367" parent="aspace_1dd17843c5cff81237dc232e7b351214" type="Folder">4</container>
+            <container id="aspace_8b3dd7defbe0d1ea28bbed147f01999a" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_c0ace82e62afdfd7e6cc6e64001ec978" parent="aspace_8b3dd7defbe0d1ea28bbed147f01999a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref17_bpa" level="file">
           <did>
             <unittitle>Lenthall Townhouses</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4cbc5581d27ee15a64f8463592cd9872" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_afa4eb0315f56cb92fa510ad13e34997" parent="aspace_4cbc5581d27ee15a64f8463592cd9872" type="Folder">5</container>
+            <container id="aspace_8a884a360d8a3da576af26f5abd8bcf5" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_05196415d82e7484fcee6ebcdc1a7672" parent="aspace_8a884a360d8a3da576af26f5abd8bcf5" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref18_meo" level="file">
           <did>
             <unittitle>2000 Pennsylvania Ave</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a91339893a1681b21039ae030371ffb0" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_da1883ba149a14ef258f7b68afc1e5a9" parent="aspace_a91339893a1681b21039ae030371ffb0" type="Folder">6</container>
+            <container id="aspace_4b0674aa315d7f8ad7d6b55ad968ca01" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_06dc08c42c2a91b37e1d9833d0f8f742" parent="aspace_4b0674aa315d7f8ad7d6b55ad968ca01" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref19_ioj" level="file">
           <did>
             <unittitle>Three Sites- GWU Heritage</unittitle>
             <unitdate datechar="creation">08/1983--10/1983</unitdate>
-            <container id="aspace_70f648c76af8afb9b185d551cf04a149" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_5ec4ebfc783eed65c9b9ee45b8127d28" parent="aspace_70f648c76af8afb9b185d551cf04a149" type="Folder">7</container>
+            <container id="aspace_1a0cfecbdfc3cfd2b938ff04d1305f85" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_4fbc87fc89455e3374cfa677bb61cbc5" parent="aspace_1a0cfecbdfc3cfd2b938ff04d1305f85" type="Folder">7</container>
           </did>
           <odd id="aspace_ce46a987468e58292828d6d952a87d31">
             <head>General note</head>
@@ -163,40 +162,40 @@
           <did>
             <unittitle>Underwood House</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6f02e605e0affd53e477a5d2b435a0c2" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_542900677dc16a7cbbb5d92753f8fe59" parent="aspace_6f02e605e0affd53e477a5d2b435a0c2" type="Folder">8</container>
+            <container id="aspace_037d6f59556cba6c5a315032eb80e9d7" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_fcbd2400dfa376bb8eaeabb21dcfeffe" parent="aspace_037d6f59556cba6c5a315032eb80e9d7" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref22_wfn" level="file">
           <did>
             <unittitle>Alexander Ray House (F Street Club)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_feaf06ba3cebadf5e557c427ada40706" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_5281563fdcfaac52cdc44716ad3d82e7" parent="aspace_feaf06ba3cebadf5e557c427ada40706" type="Folder">9</container>
+            <container id="aspace_20fcb84430276f18f37dbdc37820ed6f" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_dfa835b6b35017dab4e6f0d4ba1f02a5" parent="aspace_20fcb84430276f18f37dbdc37820ed6f" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref23_pyq" level="file">
           <did>
             <unittitle>Buildings Reborn</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_225f541e5f425b39c4a87f9ff22bef33" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_ca25dbda416549cef692cd74f1499e78" parent="aspace_225f541e5f425b39c4a87f9ff22bef33" type="Folder">10</container>
+            <container id="aspace_ccd95cb823b2c67c429d421f220ca7f0" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_992aa711452c47e6a247a4d88ba42075" parent="aspace_ccd95cb823b2c67c429d421f220ca7f0" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref24_qw4" level="file">
           <did>
             <unittitle>Labels from the Exhibit</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e5882515862e8a5a0712a7069a9fd914" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_f66cd6e59a0e7cee9bb265e0e13936a5" parent="aspace_e5882515862e8a5a0712a7069a9fd914" type="Folder">11</container>
+            <container id="aspace_4824cb031312cf1193d16d0c80a048ea" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_2e0d13416d3aef51053e5cc62ee20d77" parent="aspace_4824cb031312cf1193d16d0c80a048ea" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref25_la9" level="file">
           <did>
             <unittitle>Map</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f28273d7349a0aa952c1ee69700c904d" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
-            <container id="aspace_be9967ed1b410bb8a09bfe1450ea167c" parent="aspace_f28273d7349a0aa952c1ee69700c904d" type="Folder">12</container>
+            <container id="aspace_871cce52b38582717a56779be2ea4001" label="Mixed Materials [Series 1 GW: 32882018442353]" type="Box">1</container>
+            <container id="aspace_868b6906c5c6ad0d096b6cc01126f3a5" parent="aspace_871cce52b38582717a56779be2ea4001" type="Folder">12</container>
           </did>
           <odd id="aspace_60d1238713e019d78c43d6aa18ac6313">
             <head>General note</head>
@@ -210,8 +209,8 @@
           <unitid>RG0087 Series 2</unitid>
           <unitdate datechar="creation">1966-2000</unitdate>
           <physdesc id="aspace_a448b6a9da9c08c47e388c199cab53ec" label="General Physical Description note">1 Linear foot</physdesc>
-          <container id="aspace_376da34d5ffebd6c61d68e03ae0c0d5e" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-          <container id="aspace_4885139a110af266a756e32b1dec2066" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+          <container id="aspace_a02ee5c1991ba62062205c5e9077b4ea" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+          <container id="aspace_df604b731cfeea89e01013aeaa177ce5" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_00f407a17a9a380fac4b01ca54c5dcac">
           <head>Scope and Contents note</head>
@@ -221,216 +220,216 @@
           <did>
             <unittitle>Exhibition Schedule</unittitle>
             <unitdate datechar="creation">1966-1988</unitdate>
-            <container id="aspace_ee3290aaca469eb4b20b0b7a4e927e47" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_9a61ba223982ea57401a26569e619418" parent="aspace_ee3290aaca469eb4b20b0b7a4e927e47" type="Folder">1</container>
+            <container id="aspace_6209dbfc17c674e9918e9e74e28f8fe7" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_2fac36955e52d31d28184f6c59821ff4" parent="aspace_6209dbfc17c674e9918e9e74e28f8fe7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref31_vqj" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1967-1968</unitdate>
-            <container id="aspace_401971b97a2ab5a8060ebcfc693381c0" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_5d413d2a83eed4ede84b0fa600aa3e51" parent="aspace_401971b97a2ab5a8060ebcfc693381c0" type="Folder">2</container>
+            <container id="aspace_3c401a873767da1e03e3284d5a2aeeba" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_57f90d684d69cc0331fd358b4814be68" parent="aspace_3c401a873767da1e03e3284d5a2aeeba" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref32_knz" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_efa9947c6b06d326e00a00dd9d3a6c39" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_066c3d79f2ffac947538133576c240da" parent="aspace_efa9947c6b06d326e00a00dd9d3a6c39" type="Folder">3</container>
+            <container id="aspace_d33ab42e3d3503b712756418673dcd30" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_ec7bc7704aa60ddd2c6e7a3ef2de7c04" parent="aspace_d33ab42e3d3503b712756418673dcd30" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref33_ulk" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1970</unitdate>
-            <container id="aspace_3d22384f81546b752b1514efc4bc7385" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_613d305aea8b06ae0aa7661ff893cb72" parent="aspace_3d22384f81546b752b1514efc4bc7385" type="Folder">4</container>
+            <container id="aspace_75eef6dcbdab0cc9340c2d13ced042f1" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_0f5a37b8eceaa7b38d11623656a53a7f" parent="aspace_75eef6dcbdab0cc9340c2d13ced042f1" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref34_oy6" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_a11301a6941e3a8fae3c3cd069451b07" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_7f969b6f199a93d66bed66991f1936e8" parent="aspace_a11301a6941e3a8fae3c3cd069451b07" type="Folder">5</container>
+            <container id="aspace_45d8a3b852426e5074111da0984e9298" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_3771aa64bd4f8c5c35825e48eea2b624" parent="aspace_45d8a3b852426e5074111da0984e9298" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref35_i21" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1972</unitdate>
-            <container id="aspace_9991ab4c89f344273b228ff6663c4f1d" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_210f2647c91b8c812309588f6ec0c020" parent="aspace_9991ab4c89f344273b228ff6663c4f1d" type="Folder">6</container>
+            <container id="aspace_55fcb3b5ab8bfe42da82c84921923297" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_bb5c74ffb0e72d3a2214c72198a067f7" parent="aspace_55fcb3b5ab8bfe42da82c84921923297" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref36_xgq" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_8a0cfec36a8dd6d8c72e8191f2c8f974" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_470455420a67a55767e893cb1c76783c" parent="aspace_8a0cfec36a8dd6d8c72e8191f2c8f974" type="Folder">7</container>
+            <container id="aspace_d8d72baa18c1204242d4edc197d504b2" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_06b294f613eb7187c8a37f225d81aee1" parent="aspace_d8d72baa18c1204242d4edc197d504b2" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref37_1m7" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_f6437b4fb37e699e09e44f2e47dfe86c" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_562593dfc5992caad16e7d6f1dd34e50" parent="aspace_f6437b4fb37e699e09e44f2e47dfe86c" type="Folder">8</container>
+            <container id="aspace_f13002b91e2bfc235cf8e55a4bebdccb" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_b0847b3c8318eaf24b839ddf2ffd6a5c" parent="aspace_f13002b91e2bfc235cf8e55a4bebdccb" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref38_s5t" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_f0155eb9fef171ca24c077471184569a" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_c40485b1354aea491d22d488eb4cb218" parent="aspace_f0155eb9fef171ca24c077471184569a" type="Folder">9</container>
+            <container id="aspace_e63faf254deb4c0c7f9a236e73d86bf2" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_0fa70496dbc70fb97acfe07225dfb59b" parent="aspace_e63faf254deb4c0c7f9a236e73d86bf2" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref39_0sv" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1976</unitdate>
-            <container id="aspace_2ceeb7f14b75d564780921e8b54382b3" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_e02d9796ba094cc0c9f08fb9dc355dbb" parent="aspace_2ceeb7f14b75d564780921e8b54382b3" type="Folder">10</container>
+            <container id="aspace_107b1ba93450b2ca49696d3046f87068" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_c92ee7ebac58a1886609f41b41a35fcf" parent="aspace_107b1ba93450b2ca49696d3046f87068" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref40_9t4" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_f2ecd3f67274dbfc10dbe6fe193c21ce" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_33adff38ac9bb7f6966d8c76b70bfce6" parent="aspace_f2ecd3f67274dbfc10dbe6fe193c21ce" type="Folder">11</container>
+            <container id="aspace_06a46772b0b912f22d267d01f1d502bc" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_7ce5fcbee939098f4e6f274f37a38897" parent="aspace_06a46772b0b912f22d267d01f1d502bc" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref41_48l" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_4ef0b92e1c299d74ae1d01358765509e" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_e34b58618837dd016d7427100649df79" parent="aspace_4ef0b92e1c299d74ae1d01358765509e" type="Folder">12</container>
+            <container id="aspace_3b9b1b360bf2278b9aa515f6feb02029" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_a5c319213f3da6eb8dd56ae2ce2f246a" parent="aspace_3b9b1b360bf2278b9aa515f6feb02029" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref42_08j" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_234fe34af496e15eb56d825fde12a10f" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_0267a68b8af716f65c2429c557d0815f" parent="aspace_234fe34af496e15eb56d825fde12a10f" type="Folder">13</container>
+            <container id="aspace_7d25113c5ab3a47bdecaf324a5183041" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_f307813759e4e6ef8fa95f9af5739a35" parent="aspace_7d25113c5ab3a47bdecaf324a5183041" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref43_vfx" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_dee3917797009d949017ccd4f9978927" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_f46c5c9f439e17430ea25dfb365d4c3b" parent="aspace_dee3917797009d949017ccd4f9978927" type="Folder">14</container>
+            <container id="aspace_1baf1e091473bec92aedccf14f3644d6" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_6615d8ca49f8391a2ab324ac8a7c704b" parent="aspace_1baf1e091473bec92aedccf14f3644d6" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref44_90b" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_47acd28c4358b38c174b28e110199026" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
-            <container id="aspace_2328d01e01070846f598191bb570f7a7" parent="aspace_47acd28c4358b38c174b28e110199026" type="Folder">15</container>
+            <container id="aspace_7e8376e13f3a70d0e1cd68ba21aa605a" label="Mixed Materials [Series 2 GW: 32882018610447]" type="Box">1</container>
+            <container id="aspace_c0dff35b6f783c71502405197b954c25" parent="aspace_7e8376e13f3a70d0e1cd68ba21aa605a" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref45_33k" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_c5ccf17303ac1aa4514dd3084308418c" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_a10908d25a27c80ffe13cb6a595c4ddd" parent="aspace_c5ccf17303ac1aa4514dd3084308418c" type="Folder">1</container>
+            <container id="aspace_b4e3400a30be97a24e19f63eec1f6f91" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_81474524de6ac0692fcab95059ce43c5" parent="aspace_b4e3400a30be97a24e19f63eec1f6f91" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref46_hc5" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1983</unitdate>
-            <container id="aspace_60cc1f5b8a05d870933fcef2a479eb2a" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_e3ff19ce177ebaaf59ada551dc20c92b" parent="aspace_60cc1f5b8a05d870933fcef2a479eb2a" type="Folder">2</container>
+            <container id="aspace_b7022fa5ea658fd94589848972de8466" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_bd3809101efe3856ba7c9c1d48844298" parent="aspace_b7022fa5ea658fd94589848972de8466" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref47_ka6" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_b7dada248abbba59e3186454a231c13b" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_ad6269538cec975ed78a867674ff149a" parent="aspace_b7dada248abbba59e3186454a231c13b" type="Folder">3</container>
+            <container id="aspace_615b9e9b8a5b7a27101198defd95521e" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_566ccd1a148041db1ed5e66fa563a67e" parent="aspace_615b9e9b8a5b7a27101198defd95521e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref48_h66" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1985-1986</unitdate>
-            <container id="aspace_cca00a0a64d947dfe0a23f763dfa814e" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_61d7d9a1d2f42389677cad1a2251e5d7" parent="aspace_cca00a0a64d947dfe0a23f763dfa814e" type="Folder">4</container>
+            <container id="aspace_e20ae2915c5fc9a8c99adee303c484c7" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_13e8ba9b404854efff7e01d3b9c4bb1a" parent="aspace_e20ae2915c5fc9a8c99adee303c484c7" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref49_aa8" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1987-1988</unitdate>
-            <container id="aspace_50ffa2c1de3de98062e4ef6712f98235" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_8ce9fe8f03f34cdb2f96cc2fe0383532" parent="aspace_50ffa2c1de3de98062e4ef6712f98235" type="Folder">5</container>
+            <container id="aspace_781f9bd6b5de2dff9952b9ea3851bb2b" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_2a1e5f679b99351f6d5b786f1d725575" parent="aspace_781f9bd6b5de2dff9952b9ea3851bb2b" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref50_opg" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_7c152eca97af3455a2f06591107b361e" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_efb7b6d04134b5fa6068410d3ed80fc0" parent="aspace_7c152eca97af3455a2f06591107b361e" type="Folder">6</container>
+            <container id="aspace_d8586c5a2fc69eb47bae63bd77f7934a" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_1d7c131763746b32b922f9f552f9b89b" parent="aspace_d8586c5a2fc69eb47bae63bd77f7934a" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref51_maq" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1990-1991</unitdate>
-            <container id="aspace_4c26b58d668ea1a41c8e899e48d8fef3" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_368736a91f1bb20b6462d57c4a1af8a0" parent="aspace_4c26b58d668ea1a41c8e899e48d8fef3" type="Folder">7</container>
+            <container id="aspace_0b08eff932e9c002f54bd4c50f21e3db" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_020df813443d2442fe2e2b0230ca5eee" parent="aspace_0b08eff932e9c002f54bd4c50f21e3db" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref52_r64" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_13201ce2b4fd505f7a4e5212167c4134" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_1180cf2b7bc30287f32804b092a8a69e" parent="aspace_13201ce2b4fd505f7a4e5212167c4134" type="Folder">8</container>
+            <container id="aspace_22096358f886b56fcb0f330f99620e4d" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_cfc03467f01695415458acaff5cff66a" parent="aspace_22096358f886b56fcb0f330f99620e4d" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref53_za1" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1993-1994</unitdate>
-            <container id="aspace_856a554b4741880d74153d36aaa942b9" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_b5b13ae6fad46fd8ba715c150a050945" parent="aspace_856a554b4741880d74153d36aaa942b9" type="Folder">9</container>
+            <container id="aspace_79e927c070c88bcb11e9ca3add69a11d" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_ba033a17f4d817c759726527f762f6d4" parent="aspace_79e927c070c88bcb11e9ca3add69a11d" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref54_j9f" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1995-1996</unitdate>
-            <container id="aspace_381d470fe8785335880938de48ed51e4" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_18f319984dc7c3811e1cfe9c3e63a9d6" parent="aspace_381d470fe8785335880938de48ed51e4" type="Folder">10</container>
+            <container id="aspace_f311a0a5ad166d2697f6ca7dd041bbba" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_cc377a0ab91d4cce4475c05ea0d05d77" parent="aspace_f311a0a5ad166d2697f6ca7dd041bbba" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref55_gdb" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">1997-1999</unitdate>
-            <container id="aspace_9b22e6e0c7b51d5901fe40670ef58da9" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_3755d032720868587db2a662f109b89f" parent="aspace_9b22e6e0c7b51d5901fe40670ef58da9" type="Folder">11</container>
+            <container id="aspace_8ebcad88d9b361277e10b45d8268396f" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_aef3326462e723a138bddc5c944f54cb" parent="aspace_8ebcad88d9b361277e10b45d8268396f" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref56_o60" level="file">
           <did>
             <unittitle>Dimock Gallery Exhibits</unittitle>
             <unitdate datechar="creation">2000</unitdate>
-            <container id="aspace_eacb0e3c4146d60eb54994e57e0b34dc" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
-            <container id="aspace_866cbb691f41181816d986c42b238d89" parent="aspace_eacb0e3c4146d60eb54994e57e0b34dc" type="Folder">12</container>
+            <container id="aspace_b29f644961470253037a570bb6c0c9e6" label="Mixed Materials [Series 2 GW: 32882018610454]" type="Box">2</container>
+            <container id="aspace_4aec1542fe3ba128ae7e20d34629fb0e" parent="aspace_b29f644961470253037a570bb6c0c9e6" type="Folder">12</container>
           </did>
         </c>
       </c>
@@ -449,48 +448,48 @@
           <did>
             <unittitle>Exhibition Schedule</unittitle>
             <unitdate datechar="creation">1995-1996</unitdate>
-            <container id="aspace_78abdf87f71045e79aba28abbaf81363" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_3236c7668c385c36be145b96b5f57410" parent="aspace_78abdf87f71045e79aba28abbaf81363" type="Folder">1</container>
+            <container id="aspace_652218490fc1422af14d7cdd0beb2bcb" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_3c1f43ddd2d6a412e75f3e7e59ed2ddb" parent="aspace_652218490fc1422af14d7cdd0beb2bcb" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref61_1y6" level="file">
           <did>
             <unittitle>Angles of Vision program</unittitle>
             <unitdate datechar="creation">03/7/1996-03/27/1996</unitdate>
-            <container id="aspace_0fb38662f1a71dc1319939362ed4b79a" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_cfa33e91adbe59f3d7d6dbe9d037a8b4" parent="aspace_0fb38662f1a71dc1319939362ed4b79a" type="Folder">2</container>
+            <container id="aspace_95d2a3cc27acc02722389b17bde1529f" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_9777585a1069a9206cc82fa726ca8044" parent="aspace_95d2a3cc27acc02722389b17bde1529f" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref62_aco" level="file">
           <did>
             <unittitle>GW BMOC program</unittitle>
             <unitdate datechar="creation">06/21/1995-09/09/1995</unitdate>
-            <container id="aspace_c9bb8b3ce5444759e4b389836e030338" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_92d88954e952b9ecd13471f86f143daa" parent="aspace_c9bb8b3ce5444759e4b389836e030338" type="Folder">3</container>
+            <container id="aspace_fb45da19696a7295c9b2580d76e1e1ad" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_76ee2bd689609c1746c798445b64bf38" parent="aspace_fb45da19696a7295c9b2580d76e1e1ad" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref63_sm0" level="file">
           <did>
             <unittitle>Oleg Kudryashov Program</unittitle>
             <unitdate datechar="creation">09/21/1995-10/25/1995</unitdate>
-            <container id="aspace_eeea8c5fa694b68928095f13c6c460a9" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_1c634742b8245a540d870a4844d6b35c" parent="aspace_eeea8c5fa694b68928095f13c6c460a9" type="Folder">4</container>
+            <container id="aspace_0826c8eb51e1cda49e1e547c4df6ed70" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_b981e52d84f6276e132ea8bd9f2b087b" parent="aspace_0826c8eb51e1cda49e1e547c4df6ed70" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref64_st4" level="file">
           <did>
             <unittitle>Victorian Sentiment and American History Painting Program</unittitle>
             <unitdate datechar="creation">12/14/1995-02/22/1996</unitdate>
-            <container id="aspace_256f1195ace58c4672632ac5f5938443" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_29120fe92805effc9359f4b4dd5581cb" parent="aspace_256f1195ace58c4672632ac5f5938443" type="Folder">5</container>
+            <container id="aspace_c239302adb58ad8e81f163a62832cc26" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_4280d04d3bd285a2f04f0e47518304fd" parent="aspace_c239302adb58ad8e81f163a62832cc26" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref65_sdr" level="file">
           <did>
             <unittitle>MEA Thesis Candidate Show</unittitle>
             <unitdate datechar="creation">05/09/1996-05/31/1996</unitdate>
-            <container id="aspace_6f33991f33874fea17089c384fdbe5a3" label="Mixed Materials [32882013267672]" type="Box">1</container>
-            <container id="aspace_3b06ef9c1c084d1c92e9c40f209ff46a" parent="aspace_6f33991f33874fea17089c384fdbe5a3" type="Folder">6</container>
+            <container id="aspace_8259b13b02108722624c43990a4fb08e" label="Mixed Materials [32882013267672]" type="Box">1</container>
+            <container id="aspace_cec806a1cf7e5dc2cf22021d35287c5e" parent="aspace_8259b13b02108722624c43990a4fb08e" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -500,7 +499,7 @@
           <unitid>RG0087 Series 4</unitid>
           <unitdate datechar="creation">1986-2003</unitdate>
           <physdesc id="aspace_c5b885821e63372308aebb43b5a46638" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_dedf240d6af5b5255e41036e0c69453e" label="Mixed Materials [Series 4 GW: 32882018987035 IM: T560698588]" type="Box">1</container>
+          <container id="aspace_ab60f4b9d5e13a891f7f35e6f919c115" label="Mixed Materials [Series 4 GW: 32882018987035 IM: T560698588]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_e04286b94ac2081a663b6e3bcb573a95">
           <head>Scope and Contents note</head>
@@ -514,7 +513,7 @@
           <unitid>RG0087 Series 5</unitid>
           <unitdate datechar="creation">1963-2000</unitdate>
           <physdesc id="aspace_1cbc68fdf6899116dee9e5760f955acf" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_562100bdc1814f17e39f92fe7533ba85" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+          <container id="aspace_162cb416900e6295a9d3698fd6b69040" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_ecf597bed8eb280d2ad49ef3d1ad148e">
           <head>Scope and Contents note</head>
@@ -524,48 +523,48 @@
           <did>
             <unittitle>Dimock Gallery</unittitle>
             <unitdate datechar="creation">1977-1999</unitdate>
-            <container id="aspace_e1dbb30787c46137c1a4cb117f93e4c8" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_297d116c16022a5af38420f2a55f5524" parent="aspace_e1dbb30787c46137c1a4cb117f93e4c8" type="Folder">1</container>
+            <container id="aspace_61f5e241a3ccdfe37e05b8d6557a7fa7" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_a2ef29c5491c2c93ba69eb37b2c9ecfe" parent="aspace_61f5e241a3ccdfe37e05b8d6557a7fa7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref73_zw3" level="file">
           <did>
             <unittitle>Dimock Gallery - annual reports, 1977-1979</unittitle>
             <unitdate datechar="creation">1977-1999</unitdate>
-            <container id="aspace_2e43dd1cb0a80d33087576c91ca212d4" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_f4073339db643a207b28c87a41d55e53" parent="aspace_2e43dd1cb0a80d33087576c91ca212d4" type="Folder">2</container>
+            <container id="aspace_1c6a3bf67a0efcd24ddd5b08af7274b2" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_022d97348ed37fdebbe07ee513f394ef" parent="aspace_1c6a3bf67a0efcd24ddd5b08af7274b2" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref74_ri6" level="file">
           <did>
             <unittitle>Dimock Gallery - brochures</unittitle>
             <unitdate datechar="creation">1968-2000</unitdate>
-            <container id="aspace_fbd6484d785c66d44476c7561f8573af" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_ade9f1bf5a658d225f45188b3a1455cd" parent="aspace_fbd6484d785c66d44476c7561f8573af" type="Folder">3</container>
+            <container id="aspace_0ce4e2d2818ddcd5862bfbef1235ee1d" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_6b22dce81767ab38529ae1731bcc39a9" parent="aspace_0ce4e2d2818ddcd5862bfbef1235ee1d" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref75_bnc" level="file">
           <did>
             <unittitle>Dimock Gallery - grants</unittitle>
             <unitdate datechar="creation">1980-1981</unitdate>
-            <container id="aspace_5be9004a35a8accf83872ff19c421dad" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_a537b30eef34c49fd85635a84e01ced9" parent="aspace_5be9004a35a8accf83872ff19c421dad" type="Folder">4</container>
+            <container id="aspace_55840446de73a3c49289d1777f79fada" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_1fb35635bb58010e442fdb9d6c294d8b" parent="aspace_55840446de73a3c49289d1777f79fada" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref76_46v" level="file">
           <did>
             <unittitle>George Washington's Portraits</unittitle>
             <unitdate datechar="creation">1963-1971</unitdate>
-            <container id="aspace_24b0f127c6d9320ec8015c8cbafad75c" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_65b7f781dc298a3a9eadd3e433c961ad" parent="aspace_24b0f127c6d9320ec8015c8cbafad75c" type="Folder">5</container>
+            <container id="aspace_938d60d3262b6d1d7ad67f789891fd27" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_bffbed37eb592a69fc3063aa5b25e60a" parent="aspace_938d60d3262b6d1d7ad67f789891fd27" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref77_64a" level="file">
           <did>
             <unittitle>University art collection</unittitle>
             <unitdate datechar="creation">1963-01/28/1983</unitdate>
-            <container id="aspace_775f51e72b477d70a468cc0d90481f22" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
-            <container id="aspace_f9634b25d7a558ed23e60cb3f35e7550" parent="aspace_775f51e72b477d70a468cc0d90481f22" type="Folder">6</container>
+            <container id="aspace_7adae82fe47c82c950a02d20ec9c9729" label="Mixed Materials [Series 5 GW: 32882017673289]" type="Box">1</container>
+            <container id="aspace_804a2c6ddb4036a61c7c92644660ee7a" parent="aspace_7adae82fe47c82c950a02d20ec9c9729" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -574,7 +573,7 @@
           <unittitle>Records</unittitle>
           <unitid>Series 6</unitid>
           <unitdate datechar="creation">unknown</unitdate>
-          <container id="aspace_ffeec67c4518a2aa54b3d6eac4752fb0" label="Mixed Materials [Series 6 GW: 32882020270065]" type="flat_box">2</container>
+          <container id="aspace_7f36dbc4e11143928718d19e8d75054f" label="Mixed Materials [Series 6 GW: 32882020270065]" type="flat_box">2</container>
         </did>
       </c>
       <c id="aspace_0ad9e3c794c37e8c92185e6aeb1c90ab" level="series">
@@ -603,379 +602,581 @@
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
-            <container id="aspace_2ecdd21d1cbbc09e45c8d32308a5628a" label="Mixed Materials [32882021633360]" type="Box">1</container>
+            <container id="aspace_2ef9fb64b8673782c51aa5040cb62be6" label="Mixed Materials [32882021633360]" type="Box">1</container>
           </did>
           <scopecontent id="aspace_f6b1a17f83615c4a5db1b96fb994046a">
             <head>Scope and Contents</head>
             <p>This box contains the following materials: 
-&#103; Chow (Mrs.) 
-&#65;rtists, 1970, June 12 - 19
-&#57;70
-&#97;y 1, 1970
-&#58; 
-&#44; 1970
-&#10;&#32;Jan, 1970
-&#10;, 1969-1970
-&#99;. 1, 1969
-&#57;
-&#8211; Oct. 1, 1969
-&#116;on June 11-30, 1969
-&#101;rs, May 6 &#32;1 &#111;nal 3/11-28 &#32;28, 1969
-&#50;0, 1968
-&#32;Dec. 1, 1968
-&#46; 11 &#80;ermanent Collection,  Sept. 9 &#105;tational, May 4 &#104;ington
-&#32;April 5 &#116;, March 7 &#9;Society of Washington Printmakers, February 4 &#32;Sale, December 7 &#101; Penny Opera", November 9 &#105;t, October 4 &#70;ar East, September 13-29, 1967
-&#121; 11 &#32;Art Show, May 5 &#32;"Nature Dynamics", April 3-27, 1967, In Library 
-&#109;ber 7 &#97;tional, March 9 &#76;ithographs, J Pennell, February 20 &#32;January 11 &#105;bit and Sale, December 7 &#32;Washington Artists, November 18 &#97;culty: GWU &amp; Corcoran, October 26 &#32; </scopecontent>
+•	Oliphant - Oct. 1970
+•	Mon-Ying Chow (Mrs.) 
+•	Vault Show, 1970
+•	Phillipine Artists, 1970, June 12 - 19
+•	Yolanda Mohalyi, May 4 – 29, 1970
+•	Fine Arts Faculty, April 1 – May 1, 1970
+•	History of American art course: 
+•	Student Show Feb 19 – March 20, 1970
+•	Contemporary Makonde sculpture
+•	Washington Print Club Dec. 4 – Jan, 1970
+•	Chronological File - 1969-1970
+•	Patrons Program, 1969-1970
+•	American Porcelain Nov. 5 – Dec. 1, 1969
+•	Film Festival Oct. 6 – 31, 1969
+•	La Paradis de L'Enfant Sept 4 – Oct. 1, 1969
+•	Art Director's Club of Washington June 11-30, 1969
+•	Society of Washington Printmakers, May 6 – 29, 1969
+•	Elaine Gates, April 1 – 30, 1969
+•	5th Annual Invitational 3/11-28 – 1969
+•	Sidney Goodman, Feb 6 – 28, 1969
+•	Washington Kiln Club Dec. 6 – 20, 1968
+•	Student Show and Sale Nov. 7 – Dec. 1, 1968
+•	Master of Fine Arts Theses Oct. 11 – Nov. 6, 1968
+•	Sampling of GW Permanent Collection,  Sept. 9 – Oct. 10, 1968
+•	4th Annual Invitational, May 4 – 28, 1968: Negro Artists in Washington
+•	Society of Washington Artists, April 5 – May 3, 1968
+•	Leo Manso Exhibit, March 7 – 29, 1968
+•	Alumni Show, 1968
+•	Society of Washington Printmakers, February 4 – 29, 1968
+•	Student Exhibit and Sale, December 7 – 15, 1967
+•	Jack Levine – "Three Penny Opera", November 9 – 30, 1967
+•	Byron Burford Exhibit, October 4 – November 6, 1967
+•	Art of the Far East, September 13-29, 1967
+•	Sculptures, Jose Buscaglia, May 11 – June 11, 1967
+•	Spring Student Art Show, May 5 – May 25, 1967
+•	Jean K. Marsh – "Nature Dynamics", April 3-27, 1967, In Library 
+•	Student Exhibit and Sale, December 7 – 14, 1966
+•	3rd Annual GW Invitational, March 9 – April 28, 1967
+•	Etchings and Lithographs, J Pennell, February 20 – March 3, 1967
+•	Design at GWU, January 11 – January 31, 1967
+•	Student Exhibit and Sale, December 7 – December 14, 1966
+•	Society of Washington Artists, November 18 – December 5, 1966
+•	Fine Arts Faculty: GWU &amp; Corcoran, October 26 – November 14, 1966</p>
+          </scopecontent>
         </c>
         <c id="aspace_5772970bdeca9220b20922a8cfe2720e" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1970/1974" type="inclusive">1970-1974</unitdate>
-            <container id="aspace_fdbe416aefe55f999896d2d44e8c0a12" label="Mixed Materials [32882021633378]" type="Box">2</container>
+            <container id="aspace_01b355de0c44138be2766e95d1461f51" label="Mixed Materials [32882021633378]" type="Box">2</container>
           </did>
           <scopecontent id="aspace_d5b2ce2a383fcc6045091e311ff5a1b4">
             <head>Scope and Contents</head>
             <p>This box contains the following materials: 
-&#34;The Dimock Gallery Exhibition Schedule, 1966 &#116;er Cooke Found. Exhibition &amp; Auction, Oct. 29-30-31-Nov. 1, 1974
-&#52; &#103; Places, Sept. 11 &#101;dule, Press Releases &#44; July 15 &#44; June 3 &#84;aro Ichihashi, May 16 &#32;Show, March 20 &#114;il 22 &#110;g-Ups, April 4 &#32;15, 1974
-&#44; Feb. 6 - 28, 1974, Invitational Show &#105;ntze, Jan 7-30, 1974
-&#54;, 1973, "Midnight in Flight"
-&#32;November 28 &#116;h Century Works from the GWU Collection
-&#111;nt. Works &amp; Salon
-&#109;porary Works from the Permanent Collection, October 3&#44; '73 &#45;23 February 1973
-&#49;973
-&#10;&#8226;	Joseph Pennell Etchings, Winter 1972-73
-&#116;ion, Fall 1972
-&#55; [1972]
-&#75;reeger &#105;ngton Before 1910: Photographs from the W. Lloyd Wright Collection, February 10 &#104;ington Printmakers, Jan. 5/6 &#46;8/9 &#115;, Nov. 10/11 &#49;
-&#32;&#101;nnial &#105;ln Club Show, 6-29 January 1971
-&#97;le of Student Prints</p>
+•	Front, not in folder: List of "The Dimock Gallery Exhibition Schedule, 1966 – Present" [1974]
+•	Hereward Lester Cooke Found. Exhibition &amp; Auction, Oct. 29-30-31-Nov. 1, 1974
+•	Recent Acquisitions, October 14 – 23 [1974]
+•	Sculpture in Living Places, Sept. 11 – Oct. 11, 1974
+•	Exhibition Schedule, Press Releases – 1974-75
+•	Goodman &amp; Rogers, July 15 – 29, 1974
+•	The Artist at Work…, June 3 – July 10, 1974
+•	One Man Show, Taro Ichihashi, May 16 – 31, 1974
+•	1974 Kreeger Awards Show, March 20 – 30, 1974
+•	MFA Thesis Show, April 22 – May 4, 1974
+•	The Faculty's Hang-Ups, April 4 – 19, 1974
+•	7 at 730, March 4 – 15, 1974
+•	A Generation of Alumni Artists, Feb. 6 - 28, 1974, Invitational Show – GW Alumni Artists
+•	Rudolph Heintze, Jan 7-30, 1974
+•	Wall Hangings Show – Dec. 13-16, 1973, "Midnight in Flight"
+•	Annual Student Christmas Show, November 28 – Dec. 19, 1973
+•	The Salon – 19th Century Works from the GWU Collection
+•	Exhibition Returns/Pick Ups, Cont. Works &amp; Salon
+•	The University Collects: Contemporary Works from the Permanent Collection, October 3–23, 1973
+•	Projected Exhibition, '73 – 74
+•	Fine Arts Faculty Show, 5-23 February 1973
+•	MFA Thesis Show, April 12-26, 1973
+•	Kreeger Show, 19-30 March 1973
+•	Exhibition Schedule – 1973/74
+•	Joseph Pennell Etchings, Winter 1972-73
+•	Contemporary art in the collection, Fall 1972
+•	Masters Thesis – May 3 – May 17 [1972]
+•	Student – April12-26 [1972]
+•	Kreeger – Mar. 15 – Mar. 29, 1972
+•	Washington Before 1910: Photographs from the W. Lloyd Wright Collection, February 10 – March 3, 1972
+•	Society of Washington Printmakers, Jan. 5/6 – Jan. 28, 1972
+•	Preszler – Dec.8/9 – Dec. 31, 1971
+•	Japanese Prints, Nov. 10/11 – Dec. 3, 1971
+•	P.I.E., May 1971
+•	Yellin, March 1971
+•	Portraits – University History, Sesquicentennial – Feb. 8-23, 1971
+•	Washington Kiln Club Show, 6-29 January 1971
+•	Student Show, GWU, 1970-71
+•	Sale of Student Prints</p>
           </scopecontent>
         </c>
         <c id="aspace_d8c1f49fa5fd290bfb2ed32222f67a39" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
-            <container id="aspace_acf3f1f8da15c608b867b7080fb58660" label="Mixed Materials [32882021633386]" type="Box">3</container>
+            <container id="aspace_0d1a78638153b077bed4757d1e21e58c" label="Mixed Materials [32882021633386]" type="Box">3</container>
           </did>
           <scopecontent id="aspace_60184939433ab3993250f6d0a077ff09">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#32;January 22 &#10;&#49;4-19, 1976
-&#68;ec. 11 &#102; Expressionism, Nov. 11 &#119;: Jack Burns, Oct. 16-31, 1975
-&#101;ll Etchings &amp; Lithographs, Sept. 10 &#83;how, August 4 &#90;eki Findikoglu: The Storyteller 
-&#32;&#101;ger Awards, April 2-18, 1975
-&#114;ation, March 5-28, 1975
-&#105;tion, Feb. 5 &#56;-31, 1975
-&#65;nnual Student Christmas Show, Dec. 4-18, 74
-&#32;1974</p>
+•	Gifts and Recent Acquisitions, January 22 – February 20, 1976 [Exhibition]
+•	Antarctica – S.I.T.E.S., Jan. 14-19, 1976
+•	Arthur Hall Smith Exhibition, Dec. 11 – Jan. 9, 1976
+•	In the Spirit of Expressionism, Nov. 11 – Dec. 5, 1975
+•	Development Show: Jack Burns, Oct. 16-31, 1975
+•	Student Show, Oct. 1975
+•	Pennell Etchings &amp; Lithographs, Sept. 10 – Oct. 10, 1975
+•	Summer Thesis Show, August 4 – 29, 1975
+•	June 4 – 30, 1975, Zeki Findikoglu: The Storyteller 
+•	MFA Thesis Show 1975, April 22 – May 20, 1975
+•	David Lloyd Kreeger Awards, April 2-18, 1975
+•	Invitational Show: Inner Exploration, March 5-28, 1975
+•	The Ethnic Art-The Living Tradition, Feb. 5 – 28, 1975
+•	James Twitty, Jan. 8-31, 1975
+•	Exhibition Schedule 1975/76
+•	Annual Student Christmas Show, Dec. 4-18, 74
+•	Alumni Collections, Nov. 7-26, 1974</p>
           </scopecontent>
         </c>
         <c id="aspace_2f55a3cd1fb423977f1c58eabcbde7e3" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
-            <container id="aspace_78de067c911d2309424141e0267bbfb6" label="Mixed Materials [32882021633394]" type="Box">4</container>
+            <container id="aspace_c392b814c08c943c6de6b81b04631329" label="Mixed Materials [32882021633394]" type="Box">4</container>
           </did>
           <scopecontent id="aspace_31da6a3565ff957c60057f2f04b32427">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#32;&#116; Exhibition
-&#46; 14, 1977 &#109;as Show and Auction, Nov. 9 &#109;mer '77, August 31 &#97;ry Exhibition, Area Invitational Painting, May 19 &#111;w, Spring 1977, April 20 &#111;w, March 28 &#116;ure at GW, March 2-18, 1977
-&#111;rary Polish Art, Feb. 3-28, 1977
-&#32;House, Jan. 17-28, 1977
-&#69;.S. 12/20 &#88;mas Show &amp; Sale, Nov. 8 &#114;ary Arts Fest., Oct. 11-31, 1976
-&#114; 8-30, 1976
-&#55;6, Himmelfarb Library 
-&#65;ug. 13, 1976
-&#49;5, 1976
-&#108;y 15, 1976
-&#54; &#44; April 15 &#112;ril 1 &#51;-31, 1976</p>
+•	Exhibition file list
+•	Feb. 25 – March 25, 1978, Handicapped Art Exhibition
+•	An American Architecture…, Dec. 14, 1977 – Jan. 20, 1978
+•	Student Christmas Show and Auction, Nov. 9 – Dec. 9, 1977
+•	MFA Thesis – Summer '77, August 31 – Sept. 16, 1977
+•	10th Anniversary Exhibition, Area Invitational Painting, May 19 – June 17, 1977
+•	MFA Thesis  Show, Spring 1977, April 20 – May 9, 1977
+•	Annual Awards Show, March 28 – April 8, 1977
+•	Teaching Sculpture at GW, March 2-18, 1977
+•	Metaphorical Trends in Contemporary Polish Art, Feb. 3-28, 1977
+•	Penn. Ave–Wash Circle to White House, Jan. 17-28, 1977
+•	Edvard Munch: Graphics, S.I.T.E.S. 12/20 – 1/15/77 [1976-1977]
+•	Student Xmas Show &amp; Sale, Nov. 8 – Dec. 7, 1976
+•	French Contemporary Arts Fest., Oct. 11-31, 1976
+•	The Painterly Vision, September 8-30, 1976
+•	Creative Growth, July 6-28, 1976, Himmelfarb Library 
+•	Summer Thesis Show, July 29 – Aug. 13, 1976
+•	G.W.-B.M.O.C., June 15 – July 15, 1976
+•	Bicentennial Show, May 17 – July 15, 1976
+•	Art Directors Club Show, May 16 – June 4, 1976
+•	MFA Thesis Show, April 15 – May 10, 1976
+•	Faculty Show, April 1 – 14, 1976
+•	Awards Show, March 3-31, 1976</p>
           </scopecontent>
         </c>
         <c id="aspace_2fdaebe2e938b0b563d29817970dbac1" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
-            <container id="aspace_775b466a53049393428113b108d6bf35" label="Mixed Materials [32882021633402]" type="Box">5</container>
+            <container id="aspace_2125ad26b112e9680a40e9c1eb8d5aaf" label="Mixed Materials [32882021633402]" type="Box">5</container>
           </did>
           <scopecontent id="aspace_4cae762e99bf1bc804383748721c9498">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#97;y 1 &#32;April 3 &#85;ps No. 4, February 21 &#101;cture, Feb. 21, 1980
-&#46; 15, 1980
-&#32;Jamieson, Dec. 13, 1979 &#32;Show-GWU Art Department, 11/21-12/8/79
-&#53;, 1979
-&#32;Sept. 20 &#108;ick Lecture, Sept. 21, 1979
-&#46; 14, 1979
-&#72;ouse, May 18, 1979
-&#44; May 23 &#119;, Spring 1979, May 3-18, 1979
-&#32;11 &#108;er &amp; H. Irving Gates, 2-person faculty, March 1-30, 1979
-&#32;Jan. 25 &#122;y, Poster Artist, Jan. 25, 1979
+•	MFA Thesis Show Spring 1980, May 1 – 28, 1980
+•	Annual Awards Show, April 3 – April 25, 1980
+•	Faculty Hang-Ups No. 4, February 21 – March 21, 1980
+•	Edgar Tafel lecture, Feb. 21, 1980
+•	MFA Thesis Show, Jan. 24 – Feb. 15, 1980
+•	Selected Paintings by Mitchell Jamieson, Dec. 13, 1979 – Jan. 11, 1980
+•	Annual Student Show-GWU Art Department, 11/21-12/8/79
+•	Internship Seminar, November 15, 1979
+•	Summer in Brittany, GWU, 1979, Sept. 20 – Oct. 5, 1979
+•	Dr. Kenneth Garlick Lecture, Sept. 21, 1979
+•	Lowell Nesbitt, Aug. 16 – Sept. 14, 1979
+•	International Museum Day Open House, May 18, 1979
+•	Michael Clark: Picture Windows, May 23 – June 29, 1979
+•	MFA Thesis Show, Spring 1979, May 3-18, 1979
+•	1979 Annual Awards Show, April 11 – April 27, 1979
+•	Douglas H Teller &amp; H. Irving Gates, 2-person faculty, March 1-30, 1979
+•	400 Years of Art: GW Collects, Jan. 25 – Feb. 23, 1979
+•	Waldemar Swierzy, Poster Artist, Jan. 25, 1979
 o	discussion in Lower Lisner Auditorium
-&#107;e, Dec. 14, 1978 &#32;Oskar Kokoschka Lecture, Count Bethusy-Huc of Vienna
-&#68;epartment, Nov. 16 &#101;cture, Thurs. Oct. 19 &amp; Wed., Oct. 25, 1978
-&#121; 12, 1978
-&#80;aper, May 24 &#119; Summer 1978, Aug. 15 &#77;exican Prints from the Library of Congress Collection, Oct. 4 &#97;rch 29 &#85;ps #3, March 1 &#8211; GW 1977, Jan. 25 &#115;copecontent>
+•	German Expressionism: Die Brucke, Dec. 14, 1978 – Jan. 12, 1979
+•	Nov. 30, 1978, Oskar Kokoschka Lecture, Count Bethusy-Huc of Vienna
+•	Annual Student Show – GWU Art Department, Nov. 16 – Dec. 8, 1978
+•	Luis Barragan Lecture, Thurs. Oct. 19 &amp; Wed., Oct. 25, 1978
+•	MFA Thesis Show, April 19 – May 12, 1978
+•	Textural Renderings: Works on Paper, May 24 – June 30, 1978
+•	MFA Thesis Show Summer 1978, Aug. 15 – Sept. 15, 1978
+•	20th Century Mexican Prints from the Library of Congress Collection, Oct. 4 – Nov. 10, 1978
+•	Awards Show, March 29 – April 14, 1978
+•	Faculty Hang-Ups #3, March 1 – 24, 1978
+•	Summer in Brittany – GW 1977, Jan. 25 – Feb. 24, 1978</p>
+          </scopecontent>
         </c>
         <c id="aspace_9c962412967853933963b7dae6ce6941" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate>
-            <container id="aspace_c9bf85e6ca855101e4ecd55c55d43f93" label="Mixed Materials [32882021633410]" type="Box">6</container>
+            <container id="aspace_904b77d93e1c02b50f3467272b1f6522" label="Mixed Materials [32882021633410]" type="Box">6</container>
           </did>
           <scopecontent id="aspace_4e5dede3a5453826efb4211b48e52f06">
             <head>Scope and Contents</head>
             <p>This box containes the following materials:
-&#49;/14/82 &#97;tion: The Etchings of Max Klinger, Dec. 10, 1981 &#83;how, 11/12/81 &#99;tion: Selections, 10/7/81 &#108;ection of Contemporary Photographs, June 18 &#111;w, Spring '81, April 30 &#104;ow, April 2 &#108;iam Woodward, Feb. 26 &#111;w, Jan. 15 &#111;rial Fine Arts Faculty Exhibition, Feb. 5-20, 1981
-&#112;; Progress in Conservation, Dec. 11, 1980 &#83;how, Nov. 13 &#32;&amp; GSA Building
-&#117;mbian Art: Spear &amp; Weiser Collections, Oct. 9 &#101;ramics, June 4 &#67;eramics Artists' File, June 4 &#115;copecontent>
+•	MFA Thesis Show, Winter 1982, 1/14/82 – 1/29/82
+•	Romance &amp; Imagination: The Etchings of Max Klinger, Dec. 10, 1981 – Jan. 8, 1982
+•	Annual Student Show, 11/12/81 – 12/4/81
+•	U.S. Grant III Collection: Selections, 10/7/81 – 11/6/81
+•	Configurations: A Selection of Contemporary Photographs, June 18 – Sept. 18, 1981
+•	MFA Thesis Show, Spring '81, April 30 – May 22, 1981
+•	Annual Awards Show, April 2 – 24, 1981
+•	Fuller Griffith/William Woodward, Feb. 26 – March 20, 1981
+•	MFA Thesis Show, Jan. 15 – 30, 1981
+•	Joseph Metivier Memorial Fine Arts Faculty Exhibition, Feb. 5-20, 1981
+•	Know What You See: Process &amp; Progress in Conservation, Dec. 11, 1980 – Jan. 9, 1981
+•	Annual Student Show, Nov. 13 – Dec. 3, 1980 at Dimock Gallery &amp; GSA Building
+•	Themes &amp; Images in Pre-Columbian Art: Spear &amp; Weiser Collections, Oct. 9 – Nov. 7, 1980
+•	Architectural Ceramics, June 4 – July 18, 1980
+•	Architectural Ceramics Artists' File, June 4 – July 18, 1980</p>
+          </scopecontent>
         </c>
         <c id="aspace_b33389b3fe04337ffb45d6549a125984" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
-            <container id="aspace_ba1ee82d759e5b6969e249810d63318d" label="Mixed Materials [32882021633428]" type="Box">7</container>
+            <container id="aspace_663d21e492412e4b63fc86148a619b39" label="Mixed Materials [32882021633428]" type="Box">7</container>
           </did>
           <scopecontent id="aspace_53666aaba4ff34e8a718d6e2170ce152">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#105;ng 1984, May 3 &#32;April 12 &#121; Exhibition, March 8 &#32;Show, Feb. 16 &#100;idate Show, Winter 1984, Jan. 12 &#99;ale: Paintings from the Phillips Collection, Nov. 10, 1983 &#32;the W. Lloyd Wright Collection of Washingtoniana, Oct. 20 &#105;date Show, May 5 &#32;April 7 &#97;phs, Frank Wright: Paintings &amp; Prints, March 3 &#97;culty Exhibition, Feb. 3 &#118;ate Commissions, Dec. 15, 1982 &#32;Show, Nov. 18 &#99;t. 20 &#32;Invitational Exhibition, Sept. 16 &#97;phs from Washington Collections, June 3 &#100;idate Show, Spring 1982, April 29 &#104;ow, April 1 &#116;y Exhibition, Feb. 25 &#104;day Exhibition, 2/4/82 &#111;ntent>
+•	MFA Thesis Candidate Show, Spring 1984, May 3 – 25, 1984
+•	Annual Awards Show, April 12 – 27, 1984
+•	GW Fine Arts Faculty Exhibition, March 8 – April 4, 1984
+•	Annual Student Show, Feb. 16 – March 2, 1984
+•	MFA Thesis Candidate Show, Winter 1984, Jan. 12 – Feb. 10, 1984
+•	The Intimate Scale: Paintings from the Phillips Collection, Nov. 10, 1983 – Jan. 6, 1984
+•	Selections from the W. Lloyd Wright Collection of Washingtoniana, Oct. 20 – Nov. 2, 1983
+•	MFA Thesis Candidate Show, May 5 – 27, 1983
+•	Annual Awards Show, April 7 – 29, 1983
+•	Jerry Lake: Photographs, Frank Wright: Paintings &amp; Prints, March 3 – 30, 1983
+•	The GWU Fine Arts Faculty Exhibition, Feb. 3 – 25, 1983
+•	The Fine Art of Private Commissions, Dec. 15, 1982 – Jan. 28, 1983
+•	Annual Student Show, Nov. 18 – Dec. 10, 1982
+•	Enamels '82, Oct. 20 – Nov. 12, 1982
+•	GWU Art Alumni Invitational Exhibition, Sept. 16 – Oct. 15, 1982
+•	Master Photographs from Washington Collections, June 3 – July 16, 1982
+•	MFA Thesis Candidate Show, Spring 1982, April 29 – May 28, 1982
+•	Annual Awards Show, April 1 – 23, 1982
+•	GWU Fine Arts Faculty Exhibition, Feb. 25 – March 24, 1982
+•	GW 250th Birthday Exhibition, 2/4/82 – 2/19/82</p>
+          </scopecontent>
         </c>
         <c id="aspace_a9b0dc7de27f719cef2157a821112d12" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
-            <container id="aspace_324b72632f5b3a61f460fbb8fc7821e2" label="Mixed Materials [32882021633436]" type="Box">8</container>
+            <container id="aspace_c43c5a2d75034e407c7b69b65f066e32" label="Mixed Materials [32882021633436]" type="Box">8</container>
           </did>
           <scopecontent id="aspace_ca57cb616573f3fabd4cde331819208d">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#110;, Feb. 27 &#32;Jan. 15 &#32;Dec. 12, 1985 &#32;Show, Nov. 14 &#65;rthur Hall Smith, Oct. 10 &#110;novation: A Washington Area Invitational, Sept. 12 &#97;ment, July 10 &#109;otional Material from Formica" [accompanies "Surface and Ornament"]
-&#111;up I: May 2-17, Group II: May 23 &#104;ow, April 4-26, 1985
-&#110;, Feb. 12 &#110;didate Show, Winter 1985, Jan. 17 &#44; Dec. 13, 1984 &#32;Show, Nov. 15 &#111;tographs from the GW Permanent Collection, Oct. 18 &#120;hibition, Sept. 12 &#105; Exhibit, Sept. 12 &#115;copecontent>
+•	GW Fine Arts Faculty Exhibition, Feb. 27 – Mar. 26, 1986
+•	Clarice Smith, Jan. 15 – Feb. 21 1986
+•	Joseph Pennell, Dec. 12, 1985 – Jan. 10, 1986
+•	Annual Student Show, Nov. 14 – Dec. 6, 1985
+•	Turker Ozdogan/Arthur Hall Smith, Oct. 10 – Nov. 8, 1985
+•	Tradition and Innovation: A Washington Area Invitational, Sept. 12 – Oct. 4, 1985
+•	Surface and Ornament, July 10 – Aug. 30, 1985
+•	Envelope: "Promotional Material from Formica" [accompanies "Surface and Ornament"]
+•	MFA Thesis Candidate Shows, Group I: May 2-17, Group II: May 23 – June 7, 1985
+•	Annual Awards Show, April 4-26, 1985
+•	GW Fine Arts Faculty Exhibition, Feb. 12 – March 27, 1985
+•	MFA Thesis Candidate Show, Winter 1985, Jan. 17 – Feb. 8, 1985
+•	Charles Pollock, Dec. 13, 1984 – Jan. 11, 1985
+•	Annual Student Show, Nov. 15 – Dec. 7, 1984
+•	Contemporary Photographs from the GW Permanent Collection, Oct. 18 – Nov. 9, 1984
+•	GW Art Alumni Exhibition, Sept. 12 – Oct. 10, 1984
+•	Photos – Alumni Exhibit, Sept. 12 – Oct. 10, 1984</p>
+          </scopecontent>
         </c>
         <c id="aspace_ee5ece6f8fa1d9799828bb2c52dd2eec" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
-            <container id="aspace_ae0d728c3b28e3d44102cb53a113757a" label="Mixed Materials [32882021633444]" type="Box">9</container>
+            <container id="aspace_75d684d4c1dd9bd4646b96ed7ab1f312" label="Mixed Materials [32882021633444]" type="Box">9</container>
           </did>
           <scopecontent id="aspace_c0513efe662cf21fbfb254c007586725">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#32;Dec. 3, 1987
-&#117;nications Alumni, Sept. 10 &#105;date Show, May 7-28, 1987
-&#65;pril 30, 1987
-&#32;Mar. 5 &#99;ulty Show, Feb. 5-26, 1987
-py, Yochelson Show
-&#50;9, 1987
-&#32;Dec. 5, 1986
-&#97;culty Collects, 10/16 &#32;Oct. 16 &#110;i Exhibition, September 11 &#119;, Spring 1986, 
-&#50;5, 1986
-&#46; Tough Realism: An Invitational Painting Exhibition, Oct. 15 &#99;k Gallery Exhibition Files</p>
+•	Annual Student Show, Nov. 12 – Dec. 3, 1987
+•	Graphic Designers: Visual Communications Alumni, Sept. 10 – Oct. 8, 1987
+•	MFA Thesis Candidate Show, May 7-28, 1987
+•	Annual Awards Show, April 9 – April 30, 1987
+•	Constance Costigan/Sam Molina, Mar. 5 – April 1, 1987
+•	GW Fine Art Faculty Show, Feb. 5-26, 1987
+•	Catalog Copy, Yochelson Show
+•	Winter Thesis, Jan. 15 – Jan. 29, 1987
+•	Annual Student Show, Nov. 13 – Dec. 5, 1986
+•	Photographs: Exhibitions, GW Faculty Collects, 10/16 – 11/7/86
+•	GW Faculty Collects, Oct. 16 – Nov. 7, 1986
+•	3rd GW Art Alumni Exhibition, September 11 – Oct. 10, 1986
+•	MFA Thesis Show, Spring 1986, 
+•	Annual Awards Show, April 3 – 25, 1986
+•	NOTE: box inventory lists "200. Tough Realism: An Invitational Painting Exhibition, Oct. 15 – Nov. 5, 1987" as bring in Dimock Gallery Exhibition Files</p>
           </scopecontent>
         </c>
         <c id="aspace_9427f7f2e8d27607cf4b498a0b462038" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
-            <container id="aspace_b2933649b97e9c224e2541edefff66e7" label="Mixed Materials [32882021633451]" type="Box">10</container>
+            <container id="aspace_88638ea524cda222fdec7be8460a16dc" label="Mixed Materials [32882021633451]" type="Box">10</container>
           </did>
           <scopecontent id="aspace_a52a97863404634bc7e74b7a3e0823b0">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#111;w, May 4 &#104;ow, April 6 &#70;aculty Exhibition, (Full-time &amp; Part-time)March 9 &#97;nic and Douglas H Teller: February 9 &#115;is Candidate Show, January 12 &#101;nt Show, November 17 [1988]&#108;umni Exhibition: October 14 &#32;Candidate Show, Spring, May 5 &#104;ow, April 7 &#58; Posthumous Show, Mar. 17 &#97;culty Show, Feb. 11 &#100;idate Show, Winter, Jan. 14 &#32;1988-89 (Focus '89)</p>
+•	MFA Spring Thesis Candidate Show, May 4 – May 25, 1989
+•	Annual Awards Show, April 6 – April 27, 1989
+•	GW Fine Arts Faculty Exhibition, (Full-time &amp; Part-time)March 9 – March 28, 1989
+•	Jeffrey Stephanic and Douglas H Teller: February 9 – March 2, 1989
+•	MFA Winter Thesis Candidate Show, January 12 – February 2, 1989
+•	Annual Student Show, November 17 [1988]– January 5, 1989
+•	4th GW Art Alumni Exhibition: October 14 – November 11, 1988
+•	MFA Thesis Candidate Show, Spring, May 5 – May 27, 1988
+•	Annual Awards Show, April 7 – April 28, 1988
+•	Michael Green: Posthumous Show, Mar. 17 – Mar. 30, 1988
+•	GW Fine Arts Faculty Show, Feb. 11 – Mar. 11, 1988
+•	MFA Thesis Candidate Show, Winter, Jan. 14 – Feb. 4, 1988
+•	Special Events, 1988-89 (Focus '89)</p>
           </scopecontent>
         </c>
         <c id="aspace_fcdd37e61b5ee75b6554f8904cc181e0" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
-            <container id="aspace_65c8aee869bdb0e812a9b7c81bba885f" label="Mixed Materials [32882021633469]" type="Box">11</container>
+            <container id="aspace_e563243a2e3c80da1248a5e57d09eeb1" label="Mixed Materials [32882021633469]" type="Box">11</container>
           </did>
           <scopecontent id="aspace_7d32fd0c2592f071c1726d681e655e71">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#44; 230, 233, 237
-&#47;16 &#67;ollectors: Works from the GW Permanent Collection (including works from the Murray Bring Collection)  - 12/14/1989 &#121;mbols: Photographs of New York City (GW Permanent Collection and selected loans curated by Francine Zorn Trachtenberg) &#68;iverse Themes: GW Alumni invitational Painting Exhibition, 12/6/1990  Gates: Knights of the Rising Sun: Japanese Armour as an art form &amp; Fuller Griffith: Works on paper (2-person Fine Arts Faculty Exhibition) 2/7/1991 &#111;ld
-&#32;in Washington: Selections from the Perm. Coll. of the Howard Univ. Gallery of Art and the GWPC, 12/12/1991 &#99;ontent>
+•	Exhibitions 219, 220, 226, 228, 230, 233, 237
+•	219 – Annual Student Show – 11/16 – 12/7/1989
+•	220 – Patrons and Collectors: Works from the GW Permanent Collection (including works from the Murray Bring Collection)  - 12/14/1989 – 1/18/1990
+•	226 – Structural Symbols: Photographs of New York City (GW Permanent Collection and selected loans curated by Francine Zorn Trachtenberg) – 9/6/1990 – 10/15/1990
+•	228 – Diverse Themes: GW Alumni invitational Painting Exhibition, 12/6/1990 – 1/3/1991
+•	230 – HI Gates: Knights of the Rising Sun: Japanese Armour as an art form &amp; Fuller Griffith: Works on paper (2-person Fine Arts Faculty Exhibition) 2/7/1991 – 3/26/1991
+•	233 - Temples of Gold
+•	237 – African American Artists in Washington: Selections from the Perm. Coll. of the Howard Univ. Gallery of Art and the GWPC, 12/12/1991 – 1/2/1992</p>
+          </scopecontent>
         </c>
         <c id="aspace_5305274b94351ac216c2aee380804fa7" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
-            <container id="aspace_a9eca27fbc87b969bd4fc9cac96029c4" label="Mixed Materials [32882021633477]" type="Box">12</container>
+            <container id="aspace_2f4f12318c8bc60b7e60adb5dbe16ab9" label="Mixed Materials [32882021633477]" type="Box">12</container>
           </did>
           <scopecontent id="aspace_1861c4873933a09ec40906013e824ccf">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#53;/91
-&#49;991 &#114;of. in Fine Arts
-&#111;n 10/27/91 &#32;for Pres. G.H.W. Bush and wife
-&#68;esigns for Genes (Exh. 235) Susan Tolchin (members of Friends involved) 10/22 &#44; 1991, Tokyo + Washington, DC &#117;p exhibition (ref: Scip Barnhart)
-&#111;w 5/2 &#119;ards Show 4/4 &#117;dent Show, 11/8 &#83;hanks, 10/29 &#105;siting Prof., Fine Arts
-&#110; at GW, Faculty and Alumni Artists, 6/5 &#110;g Thesis Candidate Show, 5/3 &#119;ards Show, 4/5 &#65;rts Faculty Show (Full-Time), 3/8 &#101;r Thesis Candidate Show, 1/25 &#32;   </scopecontent>
+•	Annual Student Show 11/7 - 12/5/91
+•	Bruno Lucchesi, 11/11 – 11/15/1991 – Smith Distinguished Visiting Prof. in Fine Arts
+•	Special President Bush Reception 10/27/91 – special exh. in Dimock Gallery for Pres. G.H.W. Bush and wife
+•	Cystic Fibrosis Art Auction – Designs for Genes (Exh. 235) Susan Tolchin (members of Friends involved) 10/22 – 10/23/1991
+•	Lithograph Review, 1991, Tokyo + Washington, DC – (Exh. 234) Print exchange, group exhibition (ref: Scip Barnhart)
+•	Spring MFA Thesis Candidate Show 5/2 – 5/23/1991, Exh. 232
+•	Annual Awards Show 4/4 – 4/25/1991, Exh 231
+•	Annual Student Show, 11/8 – 11/29/1990, Exh. 227
+•	Nelson Shanks, 10/29 – 11/1/90, Smith Distinguished Visiting Prof., Fine Arts
+•	Sculpture: The Studio Tradition at GW, Faculty and Alumni Artists, 6/5 – 7/31/1990, Exh. 225
+•	MFA Spring Thesis Candidate Show, 5/3 – 5/24/1990, Exh. 224
+•	Annual Awards Show, 4/5 – 4/26/1990, Exh. 223
+•	GW Fine Arts Faculty Show (Full-Time), 3/8 – 3/27/1990, Exh. 222
+•	MFA Winter Thesis Candidate Show, 1/25 – 3/1/1990 , Exh. 221</p>
+          </scopecontent>
         </c>
         <c id="aspace_edd56a725a04c66b327f2cc2545a01f5" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
-            <container id="aspace_e6442289ef12bdfe2f7430a4852eeba1" label="Mixed Materials [32882021633485]" type="Box">13</container>
+            <container id="aspace_26fcce5d31509c31e3671e008768ba5a" label="Mixed Materials [32882021633485]" type="Box">13</container>
           </did>
           <scopecontent id="aspace_82b196b2da6b3a60ac6d0cabcb3f72e6">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#9;Literacy Volunteers of America Benefit April 21, 1993
-&#32;&#76;unch Bag Talk 3/3/93
-&#116;ing
-&#100; Water, Ozdogan and Smith
-&#114; Art from the Washington Area Collections. 10/12/92 &#49;1/12 - 12/3/1992
-&#104;ow 12/10/92 &#87;. Kenny 6/12 &#67;andidate Show 5/7- 29/1992
-&#49;992
-&#47;13 - 3/19/92
-&#111;w 1/9 &#110;tent>
+•	Annual Awards Show 4/8-29/93
+•	Literacy Volunteers of America Benefit April 21, 1993
+•	GW Fine Arts Faculty Show 2/25 – 3/25/1993
+•	A. Clarke Bedford Lunch Bag Talk 3/3/93
+•	Panel Discussion on Mural Painting
+•	Jan. 28 – Feb 13, 1993 Fire and Water, Ozdogan and Smith
+•	Patriots and Prophets: Outsider Art from the Washington Area Collections. 10/12/92 – 11/3/92
+•	Annual Student Show 11/12 - 12/3/1992
+•	Visual Communications Alumni Show 12/10/92 – 1/21/93
+•	Paintings by Robert W. Kenny 6/12 – 6/30/1992
+•	MFA Spring Thesis Candidate Show 5/7- 29/1992
+•	Annual Awards Show 4/2 - 4/30/1992
+•	Fine Arts Faculty Exhibition 2/13 - 3/19/92
+•	MFA Winter Thesis Candidate Show 1/9 – 2/6/92</p>
+          </scopecontent>
         </c>
         <c id="aspace_3f199520b64bd6ecb85db303a6115bd8" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
-            <container id="aspace_e4904828c2dae7e590868d6b579bf427" label="Mixed Materials [32882021633493]" type="Box">14</container>
+            <container id="aspace_e134f17386e2bf4906b021c9576d9947" label="Mixed Materials [32882021633493]" type="Box">14</container>
           </did>
           <scopecontent id="aspace_1c69c9a7b8238ba454d636e5db2fa423">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#111;w (incl. Kaskie, Liberace, Stanier, Montalbano)
-&#108;
-&#47;93 &#97;l Student Show 11/4 &#101;content>
+•	MFA Spring Thesis Candidate show (incl. Kaskie, Liberace, Stanier, Montalbano)
+•	Return of Photographic material
+•	Brother Thomas Exhibition 10/7/93 – 10/28/93 (Coll. artist)
+•	Annual Student Show 11/4 – 12/2/1993</p>
+          </scopecontent>
         </c>
         <c id="aspace_1dd58d0cdf3840aa802babaee7e5256b" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
-            <container id="aspace_69775c2a03f3415d3a83ca78ff52ab2f" label="Mixed Materials [32882021633501]" type="Box">15</container>
+            <container id="aspace_49b05b9e10f2356de2b487269823341a" label="Mixed Materials [32882021633501]" type="Box">15</container>
           </did>
           <scopecontent id="aspace_2466c5a23e0455ed327c4b507252fc33">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#47;30/1994
-&#97;nd Collaboration, 9/22 &#32;April 7 &#97;ndidate Show, Grp I May 5-18, 1994, Grp II May 25-June 9, 1994
-&#44; April 21, 1994
-&#108;iam Woodward and Frank Wright, 2/24 - 3/24/1994 (Two person faculty shows)
-&#111;hn K. Hillers and William Henry Jackson, 19th Century Photographs of the American West from the GW Permanent Collection, 12/9/1993 &#101;content>
+•	Annual Student Show, 11/3 – 11/30/1994
+•	Howard Hodgkin Prints: Vision and Collaboration, 9/22 – 10/26/94
+•	Annual Awards Show, April 7 – 28, 1994
+•	MFA Spring Thesis Candidate Show, Grp I May 5-18, 1994, Grp II May 25-June 9, 1994
+•	Literacy Volunteers of America, April 21, 1994
+•	Annual Awards Show, 1994
+•	William Woodward and Frank Wright, 2/24 - 3/24/1994 (Two person faculty shows)
+•	Book signing possibilities
+•	John K. Hillers and William Henry Jackson, 19th Century Photographs of the American West from the GW Permanent Collection, 12/9/1993 – 1/29/1994</p>
+          </scopecontent>
         </c>
         <c id="aspace_ae6311d49174e2fcc118afd6727e469d" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
-            <container id="aspace_562eed6221ae3941e9a38e8a7ca8f8c5" label="Mixed Materials [32882021633519]" type="Box">16</container>
+            <container id="aspace_1a6f2962b83db6881b85670e74a2cd57" label="Mixed Materials [32882021633519]" type="Box">16</container>
           </did>
           <scopecontent id="aspace_e7eefe74fd28c4e937cf08f647dea658">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#32;written by Erin Loftus, panel
-&#32;4/6 &#67;andidate Show, 5/4 &#111;lonial Inauguration Parent Reception,  8/23/95
-&#71;W (Still) BMOC: Images of GW, Past and Present, 1995
-&#101;g Kudryashov: Moscow Remembered, Hand-colored drypoint compositions, reliefs and constructions, 9/21-10/25/95
-&#53;</p>
+•	Description of Chagall prints, written by Erin Loftus, panel
+•	Prizes from Annual Award Show, 4/6 – 4/26/1995
+•	MFA Spring Thesis Candidate Show, 5/4 – 5/18/1995, 5/25 – 6/9/1995
+•	Colonial Inauguration Parent Reception,  8/23/95
+•	Images of George Washington
+•	GW (Still) BMOC: Images of GW, Past and Present, 1995
+•	Legacy Reception 10/14/95
+•	Oleg Kudryashov: Moscow Remembered, Hand-colored drypoint compositions, reliefs and constructions, 9/21-10/25/95
+•	Annual Student Show, 11/2-29/95</p>
           </scopecontent>
         </c>
         <c id="aspace_723b054a208a613809f2a166b73a424d" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
-            <container id="aspace_ade141322792ea9319a48212ddd6a58a" label="Mixed Materials [32882021633527]" type="Box">17</container>
+            <container id="aspace_a66244863c02410d400567b9693f63da" label="Mixed Materials [32882021633527]" type="Box">17</container>
           </did>
           <scopecontent id="aspace_a0c01c35810bd47049d99d825dae8f5c">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#114;ding that exhibition
-&#114;sity
-&#115;, Penny Dwyer notes, Henry Bacon's pets, press photos, reviews
-&#100;dler in NY for alumni event</p>
+•	entire box contains files regarding that exhibition
+•	175th anniversary of the university
+•	Research from Corcoran archives, Penny Dwyer notes, Henry Bacon's pets, press photos, reviews
+•	painting lent to Hirshel and Addler in NY for alumni event</p>
           </scopecontent>
         </c>
         <c id="aspace_52be131b98e9c8909dae44f6a7f4ec27" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
-            <container id="aspace_3a610f12260c17351417d93feca0f4a6" label="Mixed Materials [32882021633535]" type="Box">18</container>
+            <container id="aspace_6d222a288a382ae15195790fde6d683d" label="Mixed Materials [32882021633535]" type="Box">18</container>
           </did>
           <scopecontent id="aspace_4cef549012190f0c38bfea609d77668c">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#111;grams (Moore)
-&#97;per Regional Landscapes, Portraits, and Wildlife, 1920 &#49;8, 1995
-&#68;imock Gallery 2/2 &#104;. Feb 23 &#114;eeger lecture
-&#111;w April 11 &#101;pt. 12 &#115; Tea Oct. 8
-&#110;t Show Nov. 7 &#99;opecontent>
+•	Benson Bond Moore 
+•	Public Programs (Moore)
+•	Benson Bond Moore's Works on Paper Regional Landscapes, Portraits, and Wildlife, 1920 – 1940, December 8, 1994 – Jan. 18, 1995
+•	Recent Acquisitions to the GW Dimock Gallery 2/2 – 2/14/95
+•	Full Time Faculty Exh. Feb 23 – March 22, 1995
+•	David Lloyd Kreeger lecture
+•	1996 Prizes
+•	Annual Awards Show April 11 – May 1, 1996
+•	Mariana Pineda Sept. 12 – Oct. 25, 1996
+•	Mrs. Weingold's Tea Oct. 8
+•	Reunion Weekend
+•	Annual Student Show Nov. 7 – Dec. 4, 1996</p>
+          </scopecontent>
         </c>
         <c id="aspace_a78853c31641fd86df1216d7bbb3341c" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
-            <container id="aspace_94c32f40c4254c801e9acf3ad7419e86" label="Mixed Materials [32882021633543]" type="Box">19</container>
+            <container id="aspace_c6ca2a52f46f548dae03f99cd850fea2" label="Mixed Materials [32882021633543]" type="Box">19</container>
           </did>
           <scopecontent id="aspace_86e6745078f41e25a55068f2feaf694c">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#109; (1997)
-&#49;3, 1998)
-&#41;</p>
+•	Site-Specific Sculpture Program (1997)
+•	Valentine's Day Tea (February 13, 1998)
+•	President's Dinner-Hippo (1996)</p>
           </scopecontent>
         </c>
         <c id="aspace_cc7a3dae9fa5753dec5f2b462fff83e9" level="file">
           <did>
             <unittitle>Exhibition files </unittitle>
             <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
-            <container id="aspace_16d223289050b0a690c134027bde8e79" label="Mixed Materials [32882021633550]" type="Box">20</container>
+            <container id="aspace_d88970d1c58e8932a1c65d32ebe23f27" label="Mixed Materials [32882021633550]" type="Box">20</container>
           </did>
           <scopecontent id="aspace_524964b0921153bf88dcb8bccf181830">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#100;: "Kelly Ford, Condition Report Slides of Exhibition the Digital Atelier"
-&#111;w, 4/30 &#52;/2 &#87;PAC, April 22, 1998
-&#47;12 - 3/19/98
-&#116;udent Show
-&#44; Cancelled
-&#58; Prints by Unique Editions and Participating Artists, 12/11/97 &#97;l Atelier: Programs, January 14th and 15th
-&#112;iritual, Sept. 11 &#97;lahutrak ["Mixed Mediums" artist]
-&#34; artist]
-</p>
+•	2 Boxes of Slides, each labeled: "Kelly Ford, Condition Report Slides of Exhibition the Digital Atelier"
+•	MFA Spring Thesis Candidate Show, 4/30 – 5/22/98
+•	Annual Awards Show, 4/2 – 4/22/98
+•	Foon Sham Lecture w/WPAC, April 22, 1998
+•	Faculty Emeritus Exhibition, 2/12 - 3/19/98
+•	Valentine Tea, 1998
+•	Annual Student Show
+•	Narkiss Lecture, Nov. 18 or 19, Cancelled
+•	Exhibiting the Digital Atelier: Prints by Unique Editions and Participating Artists, 12/11/97 – 1/30/98
+•	Exhibiting the Digital Atelier: Programs, January 14th and 15th
+•	Mixed Mediums: Cycles of the Spiritual, Sept. 11 – Oct. 30, 1997
+•	Lydia Bodnar-Balahutrak ["Mixed Mediums" artist]
+•	Sharon Kopriva ["Mixed Mediums" artist]
+•	Programs: SA 10/17</p>
           </scopecontent>
         </c>
         <c id="aspace_7df6486db17d87398c4f8f680aa6c7cc" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
-            <container id="aspace_aeba4dfd39a664c722920bc0c71d9664" label="Mixed Materials [32882021633568]" type="Box">21</container>
+            <container id="aspace_8c69131193022d5a89825c6331c2743b" label="Mixed Materials [32882021633568]" type="Box">21</container>
           </did>
           <scopecontent id="aspace_8dcc99a31effd3d4eb356ba63c4e4b0c">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#32;(1998)
-&#10;&#32;</scopecontent>
+•	MFA #2
+•	Partners' Committee T (1998)
+•	GW Ceramics
+•	10th anniversary
+•	25th anniversary</p>
+          </scopecontent>
         </c>
         <c id="aspace_84d3c0f16668d05a438ffd7549d86b5f" level="file">
           <did>
             <unittitle>Exhibition files</unittitle>
             <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
-            <container id="aspace_2db0c0f19c281f4b57d86ed325ffc7d7" label="Mixed Materials [32882021633576]" type="Box">22</container>
+            <container id="aspace_cd9cec8882e3cd634f4e52acb5eef42b" label="Mixed Materials [32882021633576]" type="Box">22</container>
           </did>
           <scopecontent id="aspace_da3c5f66ede9953d310858e3007c271b">
             <head>Scope and Contents</head>
             <p>This box contains the following materials:
-&#117;b
-&#116;on
-&#115; Art
-&#32;        </scopecontent>
+•	Japonisme -Washington Print Club
+•	Boggs-Regarding George Washington
+•	Art of Exile-Tibetan Children's Art
+•	Worlds of Transformation</p>
+          </scopecontent>
         </c>
         <c id="aspace_aae74e57e642a986d245292d1d7d1cbe" level="file">
           <did>
             <unittitle>Exhibition Files</unittitle>
             <unitdate datechar="creation" normal="2001/2011" type="inclusive">2001-2011</unitdate>
-            <container id="aspace_c1742ed5bf445248c1f3d36df6626ec0" label="Mixed Materials [32882021633352]" type="Box">23</container>
+            <container id="aspace_939b9799f9462038e87991c5ad817549" label="Mixed Materials [32882021633352]" type="Box">23</container>
           </did>
           <scopecontent id="aspace_54a9099c34cf91b717c50a0218b14098">
             <head>Scope and Contents</head>
@@ -988,7 +1189,7 @@ Sandra Myers (1999-2001), Goya: "Los Caprichos" (2001).</p>
           <did>
             <unittitle>Marvin Center 3rd Floor Gallery</unittitle>
             <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
-            <container id="aspace_1625e25fa6fc9a887fbe812c898639bb" label="Mixed Materials [32882021633683]" type="Box">24</container>
+            <container id="aspace_c2bf57e682e7d96a5fd36ddf254f3a80" label="Mixed Materials [32882021633683]" type="Box">24</container>
           </did>
         </c>
       </c>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2118.xml">ms2118.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:34 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:58:26 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -80,7 +79,7 @@
           <unitid>MS2118 Series 1</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_ae56682f2a5d0d353adcdafc03119d77" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_9ba7c534073ce0c0fbfa0db7097e08f7" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_9107f582bb28fddfd83ee000de7154da" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_62fe8c25c7e3e2f9c33d7d3f15f3f58e">
           <head>Scope and Contents note</head>
@@ -90,7 +89,7 @@
           <did>
             <unittitle>Notes to "The Secret City"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_672ead95c729534e2abe2e6cf20932bd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_43e800ee45c8185275b924673565df78" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_df4a8e68b530e32930b5a868e13262ff">
             <head>General note</head>
@@ -100,8 +99,8 @@
           <did>
             <unittitle>Bibliographical information and notes taken from The History of The Bethel Literary and Historical Association and Negro Thought in America 1880-1915</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_190a5de6c60755e517cb938e652ac75d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fdfbf372422fb3f975ea48fb0a23e97f" parent="aspace_190a5de6c60755e517cb938e652ac75d" type="Folder">1</container>
+            <container id="aspace_5820d0d3b54bcdfea6aa96c17d6b8942" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b6d3aa2f79105eb2c5776403fa787bdf" parent="aspace_5820d0d3b54bcdfea6aa96c17d6b8942" type="Folder">1</container>
           </did>
           <odd id="aspace_4b915c9894306e99c890853857df2777">
             <head>General note</head>
@@ -111,8 +110,8 @@
           <did>
             <unittitle>"Red, White and Black: Minority in America"</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_53b1b096a1a440b84aceaa0c6f5ca49f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4f0ab59543611aec1b1015353d68cdf9" parent="aspace_53b1b096a1a440b84aceaa0c6f5ca49f" type="Folder">2</container>
+            <container id="aspace_aaf8d8e9c572ddd9a46af8bd4d4aac9b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7154281f0b0bcaf697fa9d77d39fbd1f" parent="aspace_aaf8d8e9c572ddd9a46af8bd4d4aac9b" type="Folder">2</container>
           </did>
           <odd id="aspace_e48e4c8fc858121d711e0d5b36417941">
             <head>General note</head>
@@ -123,8 +122,8 @@
           <did>
             <unittitle>Notes on the integration of D.C. Fire Departments</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d0200477896414f8d7031073100f1879" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_23fb36db2b2ac2e5fed394659758a501" parent="aspace_d0200477896414f8d7031073100f1879" type="Folder">3</container>
+            <container id="aspace_5956904e30b7c59fbcf4f6ea07e3481a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c48e23acaf926420b5c1f5e2efb05baa" parent="aspace_5956904e30b7c59fbcf4f6ea07e3481a" type="Folder">3</container>
           </did>
           <odd id="aspace_e3e80e66b7f19b800ea76402931d5047">
             <head>General note</head>
@@ -135,8 +134,8 @@
           <did>
             <unittitle>Preliminary chronological notes concerning the governments role in racial relations and related issues</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_54364de89440d51064102d3c5567674c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e78e6cdcabd6bbb4aaeed0df262f9feb" parent="aspace_54364de89440d51064102d3c5567674c" type="Folder">4</container>
+            <container id="aspace_e9bb1a4dbb6c0121313bec2388ba50c0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_37ee5064faf53f0a7d1237a5506f8427" parent="aspace_e9bb1a4dbb6c0121313bec2388ba50c0" type="Folder">4</container>
           </did>
           <odd id="aspace_b2fd3d15fc3ab4aab89c98833551aae7">
             <head>General note</head>
@@ -146,8 +145,8 @@
           <did>
             <unittitle>Primarily notes concerning court records and trials, infringements of racial' laws, 1860's and 70's</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ebdeee1b80d5bb13687edc8b7c3a6412" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eba2d929537f835062671d0fc3eb1859" parent="aspace_ebdeee1b80d5bb13687edc8b7c3a6412" type="Folder">5</container>
+            <container id="aspace_d7f6fc20206ad96d767a252953db0d8c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8979054690c6b2c881d1d1a1819a9174" parent="aspace_d7f6fc20206ad96d767a252953db0d8c" type="Folder">5</container>
           </did>
           <odd id="aspace_26119635db292234c374fb77514f54e0">
             <head>General note</head>
@@ -158,8 +157,8 @@
           <did>
             <unittitle>Notes about legislation and court cases concerning school budceting, integration, and related topics</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_77ea2ac14f6126847b5a770dd1204784" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1b552f1b66620d538a31bed6de7af902" parent="aspace_77ea2ac14f6126847b5a770dd1204784" type="Folder">6</container>
+            <container id="aspace_240b2794fda4f6d543db27253916ef83" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_66b0c977b77fd184533ba06db8d128e3" parent="aspace_240b2794fda4f6d543db27253916ef83" type="Folder">6</container>
           </did>
           <odd id="aspace_25c45c25bc8d8edaa6ae41aaba1c39b4">
             <head>General note</head>
@@ -170,8 +169,8 @@
           <did>
             <unittitle>Notes about Boy's Clubs, Fraternities, Parks and Playgrounds, and other recreational facilities</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ff9f1f9ae6391d6f812d77b555f5e0e9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3a341b8293c662383c68b17727301cbe" parent="aspace_ff9f1f9ae6391d6f812d77b555f5e0e9" type="Folder">7</container>
+            <container id="aspace_adf36146896c55f9868db60434a56957" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e228fe71922136c8aeaca8a75cf4394a" parent="aspace_adf36146896c55f9868db60434a56957" type="Folder">7</container>
           </did>
           <odd id="aspace_f41317066dd67facbb84cdc02583e81a">
             <head>General note</head>
@@ -182,8 +181,8 @@
           <did>
             <unittitle>Notes taken at the Library of Congress on various subjects</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_15a865c5e01568a3f47035d8b3d1fe28" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eb26cc6f825eb22ded00bd68c1cdd25c" parent="aspace_15a865c5e01568a3f47035d8b3d1fe28" type="Folder">8</container>
+            <container id="aspace_c608d9c091ff32a52d93b2f368a1d6d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7a07e1ccc0b5e27ffeaadc5779c6da22" parent="aspace_c608d9c091ff32a52d93b2f368a1d6d3" type="Folder">8</container>
           </did>
           <odd id="aspace_3f19bfcb9a074642a0f972bf47c1f608">
             <head>General note</head>
@@ -194,8 +193,8 @@
           <did>
             <unittitle>Corrections of the typescript of a chapter entitled "Disillusionment and Readjustments"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eb52cdc3d12929be82876c3f70b18912" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a851faec392c4ec182f7ae206ffa7eaf" parent="aspace_eb52cdc3d12929be82876c3f70b18912" type="Folder">9</container>
+            <container id="aspace_ab1cb86248520fed4e032eb9ef76ef2d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_446c63799a582695cc1c1dda14122524" parent="aspace_ab1cb86248520fed4e032eb9ef76ef2d" type="Folder">9</container>
           </did>
           <odd id="aspace_52e3249a0de6e15bab86a7b1977c5e5f">
             <head>General note</head>
@@ -206,8 +205,8 @@
           <did>
             <unittitle>Bibliography of Civil Rights and the Truman Administration</unittitle>
             <unitdate datechar="creation">02/1968</unitdate>
-            <container id="aspace_937e88e41169fcaa9c8a3448416c4d3c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0690daa8fd3ab482920532a6a7dd57e9" parent="aspace_937e88e41169fcaa9c8a3448416c4d3c" type="Folder">10</container>
+            <container id="aspace_9332fafd101b511a940eeceea98fa6f4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_87f6bd25fdaf8ef1a4740d3c12d82d34" parent="aspace_9332fafd101b511a940eeceea98fa6f4" type="Folder">10</container>
           </did>
           <odd id="aspace_c9b8ba47f3d684ba744c58a1bafdead1">
             <head>General note</head>
@@ -218,8 +217,8 @@
           <did>
             <unittitle>Notes police court records and from other works.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5915ebc631fcb8bed49d5f8959e8075c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8e8e40860e51af569205a590ee44bd1c" parent="aspace_5915ebc631fcb8bed49d5f8959e8075c" type="Folder">11</container>
+            <container id="aspace_1e2ee6c3a6e01dd3c25ba66ca4be1278" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e75231812b4ecec6df49d22d7c97b654" parent="aspace_1e2ee6c3a6e01dd3c25ba66ca4be1278" type="Folder">11</container>
           </did>
           <odd id="aspace_e03194ed10c199f38fc9f9d8a0bef2d6">
             <head>General note</head>
@@ -229,8 +228,8 @@
           <did>
             <unittitle>Notes concerning schooling in the district with related court cases.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ca30a593682654bb01dc248579f5221e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_486f5b70191a73ff36e12401b1869a45" parent="aspace_ca30a593682654bb01dc248579f5221e" type="Folder">12</container>
+            <container id="aspace_ff0db04250e12681baafe1d21d4944dd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ed95514e717e899fc9857b2febaee5f" parent="aspace_ff0db04250e12681baafe1d21d4944dd" type="Folder">12</container>
           </did>
           <odd id="aspace_795d0b13ec38ae3ecb509a8f216821f3">
             <head>General note</head>
@@ -240,20 +239,20 @@
           <did>
             <unittitle>Photocopied type-text of "Summary of an Era"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a76029beeb3967747f4557528430644a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a07030f3c6e38665a28a025dc4e77d99" parent="aspace_a76029beeb3967747f4557528430644a" type="Folder">13</container>
+            <container id="aspace_d207fc45455e11d5fc7e3f3cd206a8ed" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_be4c749d5fca7092ac1e75cec25ead24" parent="aspace_d207fc45455e11d5fc7e3f3cd206a8ed" type="Folder">13</container>
           </did>
           <odd id="aspace_dec4beca66e04f8b62b25482eeafbf7f">
             <head>General note</head>
-            <p>dealing with turn of the century Washington. Some hand¬written corrections. Authorship unknown.</p>
+            <p>dealing with turn of the century Washington. Some handÂ¬written corrections. Authorship unknown.</p>
           </odd>
         </c>
         <c id="aspace_ref41_6zp" level="file">
           <did>
             <unittitle>Photocopied typescript of "The Enforcement of the Civil Rights Act of 1875" by John Hope Franklin</unittitle>
             <unitdate datechar="creation">1966</unitdate>
-            <container id="aspace_ab140f7c384a08b788ff4fd374680341" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_171b724ce9cca08c58c6a84eda85232b" parent="aspace_ab140f7c384a08b788ff4fd374680341" type="Folder">14</container>
+            <container id="aspace_89111043fa80dbae762c803d4cfc4cb0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_35997a081e578598729406150129f111" parent="aspace_89111043fa80dbae762c803d4cfc4cb0" type="Folder">14</container>
           </did>
           <odd id="aspace_d783f28ef2c0a5b1f2a25775f2e3c9c4">
             <head>General note</head>
@@ -267,7 +266,7 @@
           <unitid>MS2118 Series 2</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_3dbf8c40c7b614f14c4920743d4c46b2" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_220c4698a2419d350af5bc9d60d6b61e" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_35568e768c1aa141a4a947bd25f62f54" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_b10c02310d90b2b9c3f37c56df12da8d">
           <head>Scope and Contents note</head>
@@ -277,7 +276,7 @@
           <did>
             <unittitle>Pamphlets and Bibliographies: Urban and Negro Studies</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_beb54e3160dd3c56d843aa2e78ccd7f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8ff817d071b83acbf77697e5a9a5d9c4" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_8cdd41edeb9ad8adc40b116d66a47e40">
             <head>General note</head>
@@ -287,8 +286,8 @@
           <did>
             <unittitle>"Black Studies" Myths and Realities, A. Philip Randolph Educational Fund</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_8782aa2ec7bb4aa98fdb3bea47d7ec15" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7738649a142373bc30ec385dc5e18d8a" parent="aspace_8782aa2ec7bb4aa98fdb3bea47d7ec15" type="Folder">1</container>
+            <container id="aspace_2b935a494e856c8b5a404358199c4c83" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2ca58ca596a5a7aea355858526e66b6c" parent="aspace_2b935a494e856c8b5a404358199c4c83" type="Folder">1</container>
           </did>
           <odd id="aspace_2f38b01ccfb8a74ebb56306fc47344ed">
             <head>General note</head>
@@ -299,8 +298,8 @@
           <did>
             <unittitle>"Organization of American Historians Sixtieth Annual N.eeting."</unittitle>
             <unitdate datechar="creation">04/1967</unitdate>
-            <container id="aspace_aef0b4c23b8b573791b27f4b0219100d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d1caaa4bafdd27e0d9eb99fa151569e1" parent="aspace_aef0b4c23b8b573791b27f4b0219100d" type="Folder">2</container>
+            <container id="aspace_6fdad45356347792c8a870242371abb8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1e216a408d46f8d0039c201cda5db0b2" parent="aspace_6fdad45356347792c8a870242371abb8" type="Folder">2</container>
           </did>
           <odd id="aspace_ebdc68379051d50808f5ead9defa97d9">
             <head>General note</head>
@@ -311,8 +310,8 @@
           <did>
             <unittitle>Map of D.C. Area showing the spread of Negroes</unittitle>
             <unitdate datechar="creation">01/10/1964</unitdate>
-            <container id="aspace_f4f3be1ca7324404500abb5b423522af" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b9a6c23cb5f541426dbff5b617cd8915" parent="aspace_f4f3be1ca7324404500abb5b423522af" type="Folder">3</container>
+            <container id="aspace_feb67b297657da2f7e2a90108dd45f42" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6ba6cb372044f89328c59c43708a9a7d" parent="aspace_feb67b297657da2f7e2a90108dd45f42" type="Folder">3</container>
           </did>
           <odd id="aspace_5cc31fc5cd231b800fb650e7490a5b37">
             <head>General note</head>
@@ -323,8 +322,8 @@
           <did>
             <unittitle>The Arthur and Elizabeth Schlesinger Library on the history of women in America 1966-1968</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3c241d1518eba36abc2865ca833039a0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7ab630fa713d1ffd220f4dd1046af240" parent="aspace_3c241d1518eba36abc2865ca833039a0" type="Folder">4</container>
+            <container id="aspace_d31ad980680feac17f82a55d1ec6b5e8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9c43af1f546968ab4324ec5f0e6ebb64" parent="aspace_d31ad980680feac17f82a55d1ec6b5e8" type="Folder">4</container>
           </did>
           <odd id="aspace_c244fd03146c91940f15fde74a00bee7">
             <head>General note</head>
@@ -335,8 +334,8 @@
           <did>
             <unittitle>Three Essays by Bayard Rustin</unittitle>
             <unitdate datechar="creation">09/1969</unitdate>
-            <container id="aspace_1833050e2333551d6019dd5ed0ed6219" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_200af2cd19eec48c69cac2fb5dd6d94b" parent="aspace_1833050e2333551d6019dd5ed0ed6219" type="Folder">5</container>
+            <container id="aspace_53a3b58a6aec80a2cb588cac466cf3f7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_235a3756247695c24193a532ccc2c130" parent="aspace_53a3b58a6aec80a2cb588cac466cf3f7" type="Folder">5</container>
           </did>
           <odd id="aspace_f5ee3a68d9eaa868ebdfafefd9766ca1">
             <head>General note</head>
@@ -347,8 +346,8 @@
           <did>
             <unittitle>"Separatism of Integration- Which Way for America?" a dialogue by Robert S. Brown and Bayard Rustin</unittitle>
             <unitdate datechar="creation">10/1968</unitdate>
-            <container id="aspace_433d14c266928db261439cd73f646f82" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1fa283a4d46fec381c871085ff589bcd" parent="aspace_433d14c266928db261439cd73f646f82" type="Folder">6</container>
+            <container id="aspace_5a0b1a56032f13c27800f1612039aa08" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_870e17696744f2488b3b57ea7dff2b88" parent="aspace_5a0b1a56032f13c27800f1612039aa08" type="Folder">6</container>
           </did>
           <odd id="aspace_bdbbd2ffe8e53ed555e4051412f9f208">
             <head>General note</head>
@@ -359,8 +358,8 @@
           <did>
             <unittitle>"Our Nation's Capital: The City and The Freeway" A symposium</unittitle>
             <unitdate datechar="creation">05/23/1965</unitdate>
-            <container id="aspace_730fe600ac256c3d114a2427c83d08f4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b445dae300b4bb3a46f3f888ce26e9e1" parent="aspace_730fe600ac256c3d114a2427c83d08f4" type="Folder">7</container>
+            <container id="aspace_4bb8344ee8db6fa3214c8f9b260d058c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d5f1758b8de524696546793911e9fdb1" parent="aspace_4bb8344ee8db6fa3214c8f9b260d058c" type="Folder">7</container>
           </did>
           <odd id="aspace_420ee76186adafa36fc05899411019e5">
             <head>General note</head>
@@ -371,8 +370,8 @@
           <did>
             <unittitle>"The Complex Web, Problems and Prospects of the Contemporary Urban Scene"</unittitle>
             <unitdate datechar="creation">1968-1969</unitdate>
-            <container id="aspace_e6ed3975c3087ac6b6c582c88c7c63e8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0ad0bdc51909be04062c694a12c27f51" parent="aspace_e6ed3975c3087ac6b6c582c88c7c63e8" type="Folder">8</container>
+            <container id="aspace_23b05af89de8fd9eb095f7bdfac60ae3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d30b37224ad8a80e832d11a6ba547a25" parent="aspace_23b05af89de8fd9eb095f7bdfac60ae3" type="Folder">8</container>
           </did>
           <odd id="aspace_ff58edcb3045b5e634d4e56d0e6b5866">
             <head>General note</head>
@@ -383,8 +382,8 @@
           <did>
             <unittitle>"The City- A Bibliography of Current Classical Classical Readings"</unittitle>
             <unitdate datechar="creation">1965</unitdate>
-            <container id="aspace_366d92bc42d559a39a4f71c1c8f5f927" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c917b5374707f6ef0b499a3a184d5600" parent="aspace_366d92bc42d559a39a4f71c1c8f5f927" type="Folder">9</container>
+            <container id="aspace_c505c6a81e3c037d90e593b37b94d61b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_31f5eeecfa78bf0f30d1a0254442a546" parent="aspace_c505c6a81e3c037d90e593b37b94d61b" type="Folder">9</container>
           </did>
           <odd id="aspace_ebae63a828cb23f89c1b7fa07173fc01">
             <head>General note</head>
@@ -395,8 +394,8 @@
           <did>
             <unittitle>"Urban History Group" (Newsletter)</unittitle>
             <unitdate datechar="creation">04/1966</unitdate>
-            <container id="aspace_29c753dbd412f9857ee87ea6783141c3" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1114d6af65572363e180e39a2b1d93a7" parent="aspace_29c753dbd412f9857ee87ea6783141c3" type="Folder">10</container>
+            <container id="aspace_5813e673f30bda1d894c989b441651e4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5339218a1cfb1b7fbe1d21b6fa53f574" parent="aspace_5813e673f30bda1d894c989b441651e4" type="Folder">10</container>
           </did>
           <odd id="aspace_cb96ca56d730343d8804eab976519dba">
             <head>General note</head>
@@ -407,8 +406,8 @@
           <did>
             <unittitle>"Report of the Institute on Minority Groups in an Urban Society"</unittitle>
             <unitdate datechar="creation">08/1968</unitdate>
-            <container id="aspace_194b8c5bd4acd7818568aba6381df1bc" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_91e516185839cfa2bade1779deb4d2da" parent="aspace_194b8c5bd4acd7818568aba6381df1bc" type="Folder">11</container>
+            <container id="aspace_d5ded76c1d135b24d1ebfd54322fe51b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3034f57c16a20ca74d6c297e3e09b493" parent="aspace_d5ded76c1d135b24d1ebfd54322fe51b" type="Folder">11</container>
           </did>
           <odd id="aspace_0df0f8efb39e78d8a48225cd028dbaee">
             <head>General note</head>
@@ -419,8 +418,8 @@
           <did>
             <unittitle>"Negro History and Literature" a selected bibliography</unittitle>
             <unitdate datechar="creation">12/1968</unitdate>
-            <container id="aspace_1a8a21fa0439ef57007dffdc0e0257bc" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4da3ba203fee903dce0557a1fff69609" parent="aspace_1a8a21fa0439ef57007dffdc0e0257bc" type="Folder">12</container>
+            <container id="aspace_beae493455864979d39bcfa3b37a1b36" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2469c0bbda1fa98268a573f6f4040512" parent="aspace_beae493455864979d39bcfa3b37a1b36" type="Folder">12</container>
           </did>
           <odd id="aspace_a67f17e7da25d37a2016260552d1ee74">
             <head>General note</head>
@@ -431,8 +430,8 @@
           <did>
             <unittitle>"1972 Annual Report" Planned Parenthood of Metropolitain 6 Washington</unittitle>
             <unitdate datechar="creation">1972</unitdate>
-            <container id="aspace_5f41081343e4eb28f3ab976291d57787" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_32c5ee4414b9cda2e71bc3d449cfa388" parent="aspace_5f41081343e4eb28f3ab976291d57787" type="Folder">13</container>
+            <container id="aspace_febd68975ca496d7199e5e51ee61db02" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_41eb9feb9b66d4250406f5c923b13342" parent="aspace_febd68975ca496d7199e5e51ee61db02" type="Folder">13</container>
           </did>
           <odd id="aspace_9fd6bcdf290d1144a90e2737774fe599">
             <head>General note</head>
@@ -454,7 +453,7 @@
             <did>
               <unittitle>"Negro Life in American Cities Since 1860"</unittitle>
               <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_c7dd61792961452490a92463c144ec6f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_831cf00fc3876e35aa00c0f40ab6b27d" label="Mixed Materials" type="Box">1</container>
             </did>
             <odd id="aspace_b9376b49c853be4c5c467e3ff97fe6b2">
               <head>General note</head>
@@ -464,8 +463,8 @@
             <did>
               <unittitle>"The Urban Negro American In The 20th Century" and class discussion notes.</unittitle>
               <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_6d41542fc3ddff69a2c48bc3c8b91052" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_5788e1cdd56befc1059af8e129a84271" parent="aspace_6d41542fc3ddff69a2c48bc3c8b91052" type="Folder">1</container>
+              <container id="aspace_20cbefa647e3a57d6308ba194754a6ff" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2e1946d2a2c90cd5b2d7d55cda912611" parent="aspace_20cbefa647e3a57d6308ba194754a6ff" type="Folder">1</container>
             </did>
             <odd id="aspace_80ae1309330f4f00547dd5450dfde5f0">
               <head>General note</head>
@@ -476,8 +475,8 @@
             <did>
               <unittitle>Students Essays. 14, including grades given.</unittitle>
               <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_bc6cfe04ebcf0b1824d1e2aac0b59dea" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_029fb14b2c694bda84381576941f7137" parent="aspace_bc6cfe04ebcf0b1824d1e2aac0b59dea" type="Folder">2</container>
+              <container id="aspace_4ac7ac60c9987b7b33b68db023249253" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_006f15492c85959422e2766cd43d14f3" parent="aspace_4ac7ac60c9987b7b33b68db023249253" type="Folder">2</container>
             </did>
             <odd id="aspace_d37b446056ef4d2321f45197eb094083">
               <head>General note</head>
@@ -490,7 +489,7 @@
           <unittitle> Class materials and student essays from the course "Negro Life in American Cities since 1860", 1969</unittitle>
           <unitid>Series 3</unitid>
           <unitdate datechar="creation">1969</unitdate>
-          <container id="aspace_b5d3efa09f5e9bbbd4374123f7c79fc2" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_6078462eb49768070ed9641ca5bb3af1" label="Mixed Materials" type="Box">1</container>
         </did>
         <c id="aspace_ref114_ou0" level="file">
           <did>
@@ -512,7 +511,7 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <unitid>MS2118 Series 4</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_0bbc8b41d4377f8ef48a29a2901ad85b" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_36bb9654bbf6293e5eaeed5c9fdad278" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_59893777cf5c287ace53b07f47c3b634" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_07a3a78815f2c45b1e46eafb26df99e5">
           <head>Scope and Contents note</head>
@@ -522,7 +521,7 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Typescripts of Late Writings</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_778703db1b569b2af7f455742de8cd2e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a151fcba3ecf38a682c30b4efa9565a1" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_44a132f7d53ddb01e3c7f7b07ca352ce">
             <head>General note</head>
@@ -532,8 +531,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>"Urbanization, Technology anf The Historian" typescript</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_31472cf269b03752005e4a94e93460ba" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b98756a0cd07e3daa4e82f704589c9ec" parent="aspace_31472cf269b03752005e4a94e93460ba" type="Folder">1</container>
+            <container id="aspace_929e34178e8b8294373f886f52ac2359" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_007e0bb9de93a7a1cea83b3248be73bc" parent="aspace_929e34178e8b8294373f886f52ac2359" type="Folder">1</container>
           </did>
           <odd id="aspace_8a64111b361b3b3c08254009ae0fa66a">
             <head>General note</head>
@@ -544,8 +543,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Typescript, The Church on Lafayette Square: A History of St.John's Church, Wash.,D.C.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3de679e6018d76faf77a405f8ca88c50" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_572ed7d01e9d7d99e83a0d3567ac13d7" parent="aspace_3de679e6018d76faf77a405f8ca88c50" type="Folder">2</container>
+            <container id="aspace_1b6d5d47ff7f2a3060e7b1283ffbc91d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_617281b549a1455ef7cadd0400eed712" parent="aspace_1b6d5d47ff7f2a3060e7b1283ffbc91d" type="Folder">2</container>
           </did>
           <odd id="aspace_a704d2047efc0a16435e023adba30280">
             <head>General note</head>
@@ -559,7 +558,7 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <unitid>MS2118 Series 5</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_1dc61a26a0b81cc3b2209bf893aa407f" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_d8d765ce29247c046126fd33df8db0ea" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_45f42acb8d1bc1f3b7f131da11f964f1" label="Mixed Materials" type="Box">2</container>
         </did>
         <scopecontent id="aspace_49fd1e30db152e1c19ee01c87ff18583">
           <head>Scope and Contents note</head>
@@ -569,7 +568,7 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>"Washington, Capital City, 1879 - 1950," Early Drafts with copies and corrections.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_acd920bc7f8ee68868d9c350ed6d0ebd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6956bb95d68b5c635aef154dec0d9b1" label="Mixed Materials" type="Box">2</container>
           </did>
           <odd id="aspace_37df96064a9be9b6bacb3a9f0448bd7f">
             <head>General note</head>
@@ -579,8 +578,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Drafts of Chapter 7, "Washington, Capital City, 1879-1950"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_60b286be9e6fb9679b9c97a6f9a2ce7c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_408097cf397d68e9ab804c966ef405b1" parent="aspace_60b286be9e6fb9679b9c97a6f9a2ce7c" type="Folder">1</container>
+            <container id="aspace_b6ea2db914dc87b31fd89cae4fa4c80e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_db755658cbfaae3bd5f528504369409d" parent="aspace_b6ea2db914dc87b31fd89cae4fa4c80e" type="Folder">1</container>
           </did>
           <odd id="aspace_8daa2b2209163d05adc1f0ce44f4fc8e">
             <head>General note</head>
@@ -591,8 +590,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Drafts of Chapter 8, "Washington, Capital City, 1879-1950"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8a815cc8e3486d707a4bfbf5d09c44d3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4a3cc396ec6df848bcb26a457bd302f7" parent="aspace_8a815cc8e3486d707a4bfbf5d09c44d3" type="Folder">2</container>
+            <container id="aspace_51866169093ab8c616c7cef0f9cf9e14" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2a7210001fec83522a07f63ff8dd5400" parent="aspace_51866169093ab8c616c7cef0f9cf9e14" type="Folder">2</container>
           </did>
           <odd id="aspace_3ac5e5cec1a7c2e5dab5c3a876116a26">
             <head>General note</head>
@@ -602,8 +601,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Draft, Part III, "From Uncertainty to Complaceny, 1878 - 1817", Chapter XI</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_589d706158c4e4b3bfa4ed7079377588" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7b0d6914d12efdf16b171feaef8c6500" parent="aspace_589d706158c4e4b3bfa4ed7079377588" type="Folder">3</container>
+            <container id="aspace_69b6c08602b2bb6aca5baeff29613672" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_131ac670c98c4065ec88410a8d0f3a10" parent="aspace_69b6c08602b2bb6aca5baeff29613672" type="Folder">3</container>
           </did>
           <odd id="aspace_72dd3f342b1ade3e0abc179959ab876e">
             <head>General note</head>
@@ -613,8 +612,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Chapter 9, Draft</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_12d90f361f3e09fea7ea7b03c1d29c62" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7d11dc0b315b6bff26f1826033c75bae" parent="aspace_12d90f361f3e09fea7ea7b03c1d29c62" type="Folder">4</container>
+            <container id="aspace_1c09dcb7ec734a7467b861e3527dcc81" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_76f61637abec444da05c0b8cf9a19bf0" parent="aspace_1c09dcb7ec734a7467b861e3527dcc81" type="Folder">4</container>
           </did>
           <odd id="aspace_4a6d459cd5db868db933382a70a45feb">
             <head>General note</head>
@@ -624,8 +623,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Unknown chapter, Capital City</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f907cfd98963da30cfd8649399744079" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_249541eec0c977f33403449529e57287" parent="aspace_f907cfd98963da30cfd8649399744079" type="Folder">5</container>
+            <container id="aspace_1ea5ec8ffe189c8d4d1b177ca0884e00" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_096d3b780bf59b71da9239a7bf8a2a29" parent="aspace_1ea5ec8ffe189c8d4d1b177ca0884e00" type="Folder">5</container>
           </did>
           <odd id="aspace_8718df32dc1998d960040f1ed8016cd9">
             <head>General note</head>
@@ -635,8 +634,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Chapter 15.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_81497db3d0a4a985d513a93de2fc2518" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5013a51a421175513c8379b66dd660fd" parent="aspace_81497db3d0a4a985d513a93de2fc2518" type="Folder">6</container>
+            <container id="aspace_44fdd91c834b88d7c55bbe6b44ff079f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b0b1734e2d067d165d89c98eadadbd1c" parent="aspace_44fdd91c834b88d7c55bbe6b44ff079f" type="Folder">6</container>
           </did>
           <odd id="aspace_d699a9035856beb63053727e25c19ee5">
             <head>General note</head>
@@ -646,8 +645,8 @@ A survey of sources. Bibliographical material on diverse topics within the subje
           <did>
             <unittitle>Chapter 20.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_057acbc9da94b6b6d4c8f79b87e8d607" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8fdf423cdd069663c4338887027590e0" parent="aspace_057acbc9da94b6b6d4c8f79b87e8d607" type="Folder">7</container>
+            <container id="aspace_39784ca8896dfffdbaa95686492a7e6e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e94cc295b0f44508cd62a5d89d58f0e4" parent="aspace_39784ca8896dfffdbaa95686492a7e6e" type="Folder">7</container>
           </did>
           <odd id="aspace_c8d464e597dca34c492f83ed7276c65c">
             <head>General note</head>

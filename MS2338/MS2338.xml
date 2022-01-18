@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2338.xml">ms2338.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:44:11 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:02:48 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -146,8 +145,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
             <physdesc id="aspace_def27fb4516a1877f19a77cef21801a0">Boxed set of printed wood engravings engravings</physdesc>
-            <container id="aspace_5b5c072f4f37e57d53afe7c1d7a94dd8" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_ae996be5db6702f689e3e0aa48f39b06" parent="aspace_5b5c072f4f37e57d53afe7c1d7a94dd8" type="oversize-folder">8</container>
+            <container id="aspace_c77e8cd3182d7c8f7ad70c70a827b3fc" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_8fc136a28499f1166b0b705e0152de17" parent="aspace_c77e8cd3182d7c8f7ad70c70a827b3fc" type="oversize-folder">8</container>
           </did>
         </c>
         <c id="aspace_ref5_pz8" level="file">
@@ -156,8 +155,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
             <physdesc id="aspace_bde0f5de348ab5c56bede1e7b340a1bb">Hardcover</physdesc>
-            <container id="aspace_c1bfe3db6a2c3ddfbc4378b0e8f61107" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_9d59d21b2c383a4182949ecd55c38aa0" parent="aspace_c1bfe3db6a2c3ddfbc4378b0e8f61107" type="Folder">1</container>
+            <container id="aspace_12329dda49eb4b05619a08fdf6f821f8" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_78f207a633a0f1a4067e9b138d99c889" parent="aspace_12329dda49eb4b05619a08fdf6f821f8" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref28_bha" level="file">
@@ -166,8 +165,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_5c66254605c8c84ba91aac5543d28bbb">Paperback</physdesc>
-            <container id="aspace_629e553ef93ac8bf0dd30eb8a4c350e4" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_53e101b60b94427fe1909bd180c9b822" parent="aspace_629e553ef93ac8bf0dd30eb8a4c350e4" type="Folder">2</container>
+            <container id="aspace_4e49267c083d0b40e5e1e0a283a2f66d" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_552db900c29f44781c51f2ad5fb9a38b" parent="aspace_4e49267c083d0b40e5e1e0a283a2f66d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref38_4y3" level="file">
@@ -176,8 +175,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
             <physdesc id="aspace_31ed72dfb9cb431ec32783a32fd31a11">Paperback</physdesc>
-            <container id="aspace_9f094907ac2dbd80efd3202332684121" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_61529c66a34712c277875bc20ac4faf0" parent="aspace_9f094907ac2dbd80efd3202332684121" type="Folder">3</container>
+            <container id="aspace_59e4849e7b8580c6fbf84ecd4f2caf85" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_f868b17e0443a2560355da8bd654f4ce" parent="aspace_59e4849e7b8580c6fbf84ecd4f2caf85" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref11_n8b" level="file">
@@ -186,8 +185,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_114100be710b84920c6f19dc20a10a50">Boxed Hardcover</physdesc>
-            <container id="aspace_b020a72a5697996d7fdad826f2eb5f44" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_61198f96e13b194c4fd53f6177b3eaf3" parent="aspace_b020a72a5697996d7fdad826f2eb5f44" type="Folder">4</container>
+            <container id="aspace_8ef0dc3c6727f7c4582ecb8cef3cf566" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_b7e45f006cfbdf9c7ec56117460cd9e6" parent="aspace_8ef0dc3c6727f7c4582ecb8cef3cf566" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref12_a8z" level="file">
@@ -196,8 +195,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_1556ed51eb9ed8764852616540d870f4">Boxed Hardcover</physdesc>
-            <container id="aspace_1616951a4dc5e910c4d644a2f5aa8e92" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_6d09f2764ea7442a32d22227a976a2ad" parent="aspace_1616951a4dc5e910c4d644a2f5aa8e92" type="Folder">5</container>
+            <container id="aspace_2e0f845f2ae12b7f98cfe287b0c3e1db" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_57f259d40d0c52a722ac16f676cb1cd3" parent="aspace_2e0f845f2ae12b7f98cfe287b0c3e1db" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref15_qta" level="file">
@@ -206,8 +205,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_31b827c6cc33d80a50cd0c06e4027a1d">Paperback copies</physdesc>
-            <container id="aspace_e4833e267ee4f7b9a350e980f6f02bd2" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_b7bc3cb6aa63e075d826dae1f6ffc028" parent="aspace_e4833e267ee4f7b9a350e980f6f02bd2" type="Folder">6</container>
+            <container id="aspace_e91def890e94b850b00f0f79ad748c61" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_18ff5320d16964b236267dc9d07ad56a" parent="aspace_e91def890e94b850b00f0f79ad748c61" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref6_cvt" level="file">
@@ -216,8 +215,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
             <physdesc id="aspace_4f106e0514f2b98e2cc1977f66acedb3">Hardcover</physdesc>
-            <container id="aspace_0c10428f4f03c4a318c983b7a76d6609" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_557a1880133db40f1c8e540f6ea99622" parent="aspace_0c10428f4f03c4a318c983b7a76d6609" type="Folder">7</container>
+            <container id="aspace_6c678e46f08b313c0f75f00199a9f42e" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_21d0bc1b17d56137c22a8d65fa2faf72" parent="aspace_6c678e46f08b313c0f75f00199a9f42e" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref4_219" level="file">
@@ -226,8 +225,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
             <physdesc id="aspace_b2bba5722dfa58894c6269e2ab6a87ab">Paperback copies</physdesc>
-            <container id="aspace_1ba24b30fa0a7bfe2cad4ce7c4aa8943" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_7424fb378c6a071f5c217c120778bacf" parent="aspace_1ba24b30fa0a7bfe2cad4ce7c4aa8943" type="Folder">8</container>
+            <container id="aspace_cdef23cb63d8175c2488ba43f418db10" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_6d8fe8dc7a7c2d642477e206c529d14a" parent="aspace_cdef23cb63d8175c2488ba43f418db10" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref34_pqp" level="file">
@@ -236,8 +235,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988 April </unitdate>
             <physdesc id="aspace_82343328d27be81e703b2c0964ece252">Paperback</physdesc>
-            <container id="aspace_cbffab2c480ca0a82591717beebe0297" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_411eea62bf15f27603f0405aeeffa1fc" parent="aspace_cbffab2c480ca0a82591717beebe0297" type="Folder">9</container>
+            <container id="aspace_ab20fc8c26be265ec65f839b495847bc" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_145325e2a278aea7a5264a658ffdb1c6" parent="aspace_ab20fc8c26be265ec65f839b495847bc" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref55_3iz" level="file">
@@ -246,8 +245,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
             <physdesc id="aspace_b79aa77aabc7e105510f2efddb70015b">Paperback copies</physdesc>
-            <container id="aspace_fb61ff5879f7642cc5e868ff4506e92e" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_c3844d488fd68da340b3e8662e70f388" parent="aspace_fb61ff5879f7642cc5e868ff4506e92e" type="Folder">10</container>
+            <container id="aspace_887b0deeb023c15c751c434b6cf4892d" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_c7979c2ce96e127e51c1cff5eccbfd7e" parent="aspace_887b0deeb023c15c751c434b6cf4892d" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref13_z3u" level="file">
@@ -256,8 +255,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
             <physdesc id="aspace_7a6f0d593cf7bacad8d1f48c18455641">Hardcover copies</physdesc>
-            <container id="aspace_1f95cf167102d3144b0390e7a02c2936" label="Mixed Materials [32882021237360]" type="Box">1</container>
-            <container id="aspace_b917155e1738d9b546fd0c97249f1368" parent="aspace_1f95cf167102d3144b0390e7a02c2936" type="Folder">11</container>
+            <container id="aspace_b5e44b2e6a2108d740e80eca32e58434" label="Mixed Materials [32882021237360]" type="Box">1</container>
+            <container id="aspace_a4554a618ae29c7d691fcd52da4d04e9" parent="aspace_b5e44b2e6a2108d740e80eca32e58434" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref49_ydf" level="file">
@@ -266,8 +265,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
             <physdesc id="aspace_11a6f5cb61c03826e56627f13af8e65c">Paperback copies</physdesc>
-            <container id="aspace_b48604f0fcca7f28b3ed8a5b84a2a39a" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_919ad3fbeb7ab29e10745c86c168f6b8" parent="aspace_b48604f0fcca7f28b3ed8a5b84a2a39a" type="Folder">1</container>
+            <container id="aspace_6c8ae0d6106638daab2ebda88c7a20b7" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_b9f42b0f632680e1d41f92a0349d5280" parent="aspace_6c8ae0d6106638daab2ebda88c7a20b7" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref14_9o7" level="file">
@@ -276,8 +275,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_4ecedb567056d3a2dc5642fc69fc3370">Hardcover copies</physdesc>
-            <container id="aspace_14a1b58b4d514e4561778df347817a30" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_1052c48b9fafb4d857124959cf6158a7" parent="aspace_14a1b58b4d514e4561778df347817a30" type="Folder">2</container>
+            <container id="aspace_b42a5a89a13416416405d3ed6f2eedec" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_7bcfafe5fafa9f5a22666a7d3a547246" parent="aspace_b42a5a89a13416416405d3ed6f2eedec" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref29_4ux" level="file">
@@ -286,8 +285,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_206d953056587ce1165ad782622bfbee">Paperback copies</physdesc>
-            <container id="aspace_fee57b74d16e401b93cabf25374bc74b" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_1913591358b1b28071eb8c15d1ab933c" parent="aspace_fee57b74d16e401b93cabf25374bc74b" type="Folder">3</container>
+            <container id="aspace_bb96bdd40d441fa5c6888aa1d2f174a9" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_dd36f4baee3d5edb3c90f8b3319b9242" parent="aspace_bb96bdd40d441fa5c6888aa1d2f174a9" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref32_ox0" level="file">
@@ -296,8 +295,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
             <physdesc id="aspace_6ea5853af49b355d11ffda2fb5ce12c9">Paperback copies</physdesc>
-            <container id="aspace_3ba69e4586a31ab0e27dc6b4eb68601d" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_bb1b8935dc0ecb9b0aacfa26be2a3dec" parent="aspace_3ba69e4586a31ab0e27dc6b4eb68601d" type="Folder">4</container>
+            <container id="aspace_db51cdac97c8b04888fade0e6a1eca7a" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_1088e326af146c45c8a7f29c2631691d" parent="aspace_db51cdac97c8b04888fade0e6a1eca7a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref36_581" level="file">
@@ -306,8 +305,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_0b6b083aa5e293d9a183087fefb3dede">Paperback copies</physdesc>
-            <container id="aspace_5c966deefcc3df162c95f344a32355ca" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_90f13cf465ad12ecee20170e60fa4f8b" parent="aspace_5c966deefcc3df162c95f344a32355ca" type="Folder">5</container>
+            <container id="aspace_30c07d94df8529b261f290acd8e31097" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_2ebee2f2a472139203d4122cc082d46e" parent="aspace_30c07d94df8529b261f290acd8e31097" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref9_kmo" level="file">
@@ -316,8 +315,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
             <physdesc id="aspace_f98bd26288c7e144a854e1ecdd464d6c">Paperback copies</physdesc>
-            <container id="aspace_b57329cd74424ec0c4b1870103debb06" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_45b84a1d6f55c759481ef32f26c7d70a" parent="aspace_b57329cd74424ec0c4b1870103debb06" type="Folder">6</container>
+            <container id="aspace_768f5102cb0b29677b0d730c61375f12" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_b7fa82c821eabed517f84e433bc22482" parent="aspace_768f5102cb0b29677b0d730c61375f12" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref51_zke" level="file">
@@ -326,8 +325,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
             <physdesc id="aspace_ad9122a71a0819141d5de09f0b1b7a7d">Paperback copies</physdesc>
-            <container id="aspace_79aff5b3bf2571666bc137ce1283ca93" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_b50811f5a466482fa9846fb91b2ed198" parent="aspace_79aff5b3bf2571666bc137ce1283ca93" type="Folder">7</container>
+            <container id="aspace_9f57a45369a490703faa87e3cd1cf50e" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_4ac330b7d1e931b9613e9118b4ff4e7c" parent="aspace_9f57a45369a490703faa87e3cd1cf50e" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref53_r8m" level="file">
@@ -336,8 +335,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
             <physdesc id="aspace_907ce73861befd4be92c97e08256b84a">Paperback</physdesc>
-            <container id="aspace_233d138db83050ec04539e79c982e5f3" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_5a34116b7c59fecfe46df41566c1bd96" parent="aspace_233d138db83050ec04539e79c982e5f3" type="Folder">8</container>
+            <container id="aspace_3acb3e5915b0465a6d7736c8fca9e38c" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_7a31e10569034f78ee6f4fdcfb7be4c8" parent="aspace_3acb3e5915b0465a6d7736c8fca9e38c" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref40_aa3" level="file">
@@ -346,8 +345,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_8ffad7cc0d5980b23146206f32de2b5d">Hardcover</physdesc>
-            <container id="aspace_765625bdb35241bc018b011ce4cc2ff3" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_7117cf079b05a4cdfb8810066624bb5a" parent="aspace_765625bdb35241bc018b011ce4cc2ff3" type="Folder">9</container>
+            <container id="aspace_b8b77e1c76a098998b3a3f387204833f" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_da6a1c64bcc9d23d9e3b1d268fd21ca5" parent="aspace_b8b77e1c76a098998b3a3f387204833f" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref42_jjy" level="file">
@@ -356,8 +355,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <physdesc id="aspace_427abf13eb153735068dded1b61e6677">Boxed Hardcover</physdesc>
-            <container id="aspace_d49316b42aa225a65363540657d734eb" label="Mixed Materials [32882021237352]" type="Box">2</container>
-            <container id="aspace_b515fed893b7882698d8154bc6853b7f" parent="aspace_d49316b42aa225a65363540657d734eb" type="Folder">10</container>
+            <container id="aspace_5ecd61312f66223d940c8313de4c73c0" label="Mixed Materials [32882021237352]" type="Box">2</container>
+            <container id="aspace_541e7b4493e7af39467888520573464c" parent="aspace_5ecd61312f66223d940c8313de4c73c0" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref7_tw9" level="file">
@@ -366,8 +365,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <physdesc id="aspace_cc44a903a9eb8969487c8d853d754e82">Boxed Set</physdesc>
-            <container id="aspace_b49990f1e09f07d1be67f06050e8fe93" label="Mixed Materials [32882021237345]" type="Box">3</container>
-            <container id="aspace_2823b53a6a13df520bbcf523f5cb5eb9" parent="aspace_b49990f1e09f07d1be67f06050e8fe93" type="Folder">1</container>
+            <container id="aspace_e0cd3a558466b0257e4ee3485d13af72" label="Mixed Materials [32882021237345]" type="Box">3</container>
+            <container id="aspace_8472c06515812d07524a7f5bdb719d52" parent="aspace_e0cd3a558466b0257e4ee3485d13af72" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref8_zev" level="file">
@@ -376,8 +375,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <physdesc id="aspace_0caddb80989d0df53b1164d70e64fad7">Boxed Set</physdesc>
-            <container id="aspace_23a87aaf84a931061422a4e5eb5118ce" label="Mixed Materials [32882021237345]" type="Box">3</container>
-            <container id="aspace_532227821f2c6e1dfbe987d1b89afb9a" parent="aspace_23a87aaf84a931061422a4e5eb5118ce" type="Folder">2</container>
+            <container id="aspace_8acb8b0d1bb51495b2016050f993a7d5" label="Mixed Materials [32882021237345]" type="Box">3</container>
+            <container id="aspace_262d6b98df748f11a7a3e6ba48778569" parent="aspace_8acb8b0d1bb51495b2016050f993a7d5" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref44_a44" level="file">
@@ -386,8 +385,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
             <physdesc id="aspace_8a8d223580f1d433b60e0ba6d80521c7">Hardcover</physdesc>
-            <container id="aspace_a164d319f3aafdd13f63231300f970b6" label="Mixed Materials [32882021237345]" type="Box">3</container>
-            <container id="aspace_cb514b4a3e1a4b9fc41d1208cf170cca" parent="aspace_a164d319f3aafdd13f63231300f970b6" type="Folder">3</container>
+            <container id="aspace_cfee118ae2246639bd43f3604d45c526" label="Mixed Materials [32882021237345]" type="Box">3</container>
+            <container id="aspace_492189a9f848434e093df6d01509b557" parent="aspace_cfee118ae2246639bd43f3604d45c526" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref46_3m7" level="file">
@@ -396,8 +395,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
             <physdesc id="aspace_fec8e083e4a6711b0bd3733509030f61">Boxed Hardcover</physdesc>
-            <container id="aspace_683ac78cbc04dc4d4d355e14adfc8a91" label="Mixed Materials [32882021237345]" type="Box">3</container>
-            <container id="aspace_0448dd66cdc713a980a37b7e6deaa672" parent="aspace_683ac78cbc04dc4d4d355e14adfc8a91" type="Folder">4</container>
+            <container id="aspace_6f5a1c96d72e497cd8aa89bdbb320111" label="Mixed Materials [32882021237345]" type="Box">3</container>
+            <container id="aspace_10c411f5ebb40d8a159b435b46900277" parent="aspace_6f5a1c96d72e497cd8aa89bdbb320111" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref3_zdi" level="file">
@@ -406,8 +405,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
             <physdesc id="aspace_1442b3bb40b23e9d6dcdd46fbabd3fc4">Boxed Hardcover</physdesc>
-            <container id="aspace_b41c170203ad94a172ad7c1767746bc1" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_c38b4f0778b79e7c6143ec025af5f9b9" parent="aspace_b41c170203ad94a172ad7c1767746bc1" type="Folder">1</container>
+            <container id="aspace_b5bd620824e6a19920179b808417ab69" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_b207f1e33de2766a8e9327e626aa2090" parent="aspace_b5bd620824e6a19920179b808417ab69" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref10_73b" level="file">
@@ -416,8 +415,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">undated</unitdate>
             <physdesc id="aspace_1b2880f8ab22127da9e4df1358580327">Paperback</physdesc>
-            <container id="aspace_1ca3639ac0ed97135424bac14724d5c7" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_104b9646ff01cd72d0898ee47a82351e" parent="aspace_1ca3639ac0ed97135424bac14724d5c7" type="Folder">2</container>
+            <container id="aspace_812f5026863f2067bf23ce1d84ebdce6" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_4df38ae25fe153d46fedb3b83dffafb1" parent="aspace_812f5026863f2067bf23ce1d84ebdce6" type="Folder">2</container>
           </did>
         </c>
       </c>
@@ -449,8 +448,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Address at the funeral of Lord Geoffrey-Lloyd by the Lord Charteris of Amisfield</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984 September 17</unitdate>
-            <container id="aspace_621fda0e2e29727b14de35495f9662d5" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_f9aa349038fa46372d1e4bfa1f769af2" parent="aspace_621fda0e2e29727b14de35495f9662d5" type="Folder">3</container>
+            <container id="aspace_2a389395b375e02b6e42433454a7ae8e" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_8ca2b54d8649622a755cc4626c6a10c2" parent="aspace_2a389395b375e02b6e42433454a7ae8e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref68_rll" level="file">
@@ -458,8 +457,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Alan &amp; Betty Stephenson's silver wedding invitation</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983 April 9</unitdate>
-            <container id="aspace_087f5009d4e5c42aad895439264c5e34" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_9c19fa234a767493d159316ab85e4cd5" parent="aspace_087f5009d4e5c42aad895439264c5e34" type="Folder">4</container>
+            <container id="aspace_b22215337ece86f8353db9c88fa96731" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_47758ba4d89d98501fcda7f0365a7255" parent="aspace_b22215337ece86f8353db9c88fa96731" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref73_rtm" level="file">
@@ -467,8 +466,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Announcement: Limited edition od Lewis Carroll's The Hunting of the Snark with illustrations by Henry Holiday [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container id="aspace_c8f0610efd61a6cd812fdc1bef8c5e3b" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_c89977454b7a54ffad6a2a0146c9201f" parent="aspace_c8f0610efd61a6cd812fdc1bef8c5e3b" type="Folder">5</container>
+            <container id="aspace_f0e18aa1c1137142577163b803ec748a" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_48cf85dea2e865b363f67477b0d1c15c" parent="aspace_f0e18aa1c1137142577163b803ec748a" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref60_2a4" level="file">
@@ -476,8 +475,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>The Art of Printing by George Lovejoy</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
-            <container id="aspace_0c5792f71bfec2f217149ed0d3a941e2" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_9c645eca2ba258b4c36de50e0668bc52" parent="aspace_0c5792f71bfec2f217149ed0d3a941e2" type="Folder">6</container>
+            <container id="aspace_9075b7a67829acc3b36b7ddb6bfa9588" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_54fc34700cb5eab9f16d7499dd443fd5" parent="aspace_9075b7a67829acc3b36b7ddb6bfa9588" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref57_laa" level="file">
@@ -485,8 +484,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Blackwell's Rare Books exhibition flyer</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
-            <container id="aspace_9ea7e954854dc16b1c7764e2730d3eb8" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_a3194e159a694415fc5c78378dd2b54d" parent="aspace_9ea7e954854dc16b1c7764e2730d3eb8" type="Folder">7</container>
+            <container id="aspace_3ebb78c4c66f0d01210fdaeea67788e7" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_5b4252ea2fc3e80cc62fa19028aabe14" parent="aspace_3ebb78c4c66f0d01210fdaeea67788e7" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref62_l4g" level="file">
@@ -494,8 +493,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Borlase Gallery exhibition flyers [2 copies of each]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_56b31b98c7dab976e2056b3438345bad" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_264b181ec6bac6afb021da6b6d5410e4" parent="aspace_56b31b98c7dab976e2056b3438345bad" type="Folder">8</container>
+            <container id="aspace_cdcc5dcea0305246d2b7eeea98af18b1" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_5c2bebdfadb6b167bbad95159d766d03" parent="aspace_cdcc5dcea0305246d2b7eeea98af18b1" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref66_4jo" level="file">
@@ -503,8 +502,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Christmas cards and flyers</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">Circa 1984</unitdate>
-            <container id="aspace_37714047b9a5e0b1fa2e3b484c4200d3" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_1194eb3d5ed046d1baaab77a9201e453" parent="aspace_37714047b9a5e0b1fa2e3b484c4200d3" type="Folder">9</container>
+            <container id="aspace_806b94f24632f5ea6d4b4b2ccd67f721" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_53961320b9113b9a6cef79cb4b8261e2" parent="aspace_806b94f24632f5ea6d4b4b2ccd67f721" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref58_t82" level="file">
@@ -512,8 +511,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>A Christmas Sermon with engravings by Simon Brett</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0ba2f422ee883eb62fd3c8e699e102a9" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_c8cd230a43c50950f3a2a1448bd2ed87" parent="aspace_0ba2f422ee883eb62fd3c8e699e102a9" type="Folder">10</container>
+            <container id="aspace_03fef8f72bc103d382252a7f6aa80f4d" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_2d7835e40c164be75b5890a621d82fef" parent="aspace_03fef8f72bc103d382252a7f6aa80f4d" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref69_msx" level="file">
@@ -521,8 +520,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Edmund &amp; Deborah Bennett's tin wedding invitation</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985 August 2</unitdate>
-            <container id="aspace_6c621dfb3e464d440d1b7bfdcae40e95" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_9fb7d0e38796e0fabc8beceb7e05bd51" parent="aspace_6c621dfb3e464d440d1b7bfdcae40e95" type="Folder">11</container>
+            <container id="aspace_c9d14177377924e161355900477957bb" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_64b4f33c9b886d07640f4b9268e3f547" parent="aspace_c9d14177377924e161355900477957bb" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref83_hug" level="file">
@@ -530,8 +529,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Fine Press Book Fair Catalogue [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990 October 13</unitdate>
-            <container id="aspace_c9da22d070af283eafac0aa86a119122" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_969de277777591b6f10aea626e865220" parent="aspace_c9da22d070af283eafac0aa86a119122" type="oversize-folder">1</container>
+            <container id="aspace_c7077eab784de99c5f3c7bf4af927c3d" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_9f7102f5e59568c27aa267c8fd688673" parent="aspace_c7077eab784de99c5f3c7bf4af927c3d" type="oversize-folder">1</container>
           </did>
         </c>
         <c id="aspace_ref71_wyq" level="file">
@@ -539,8 +538,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Bookbindings at Horsham Book Shop</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983 December 1 - 1984 January 31</unitdate>
-            <container id="aspace_94b5651243ef2327c9e93890a11d0fd2" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_d1ada1ea2a5de3cbd08f1295e3a5870e" parent="aspace_94b5651243ef2327c9e93890a11d0fd2" type="Folder">12</container>
+            <container id="aspace_5c3c20f0b22bc962be7e6daefe3f30fd" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_38990fdfafb72dbbe09915870a9ad956" parent="aspace_5c3c20f0b22bc962be7e6daefe3f30fd" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref86_nim" level="file">
@@ -548,8 +547,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Looking at Fine Printing [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989 March 8</unitdate>
-            <container id="aspace_41129ef7f566e66c4333cef341b3ffa1" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_9ffd4dc7b3ef255d25082815a42cc411" parent="aspace_41129ef7f566e66c4333cef341b3ffa1" type="oversize-folder">4</container>
+            <container id="aspace_e6cf8af2b9d1100d51fff1b453c5a264" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_7022a4b8830eb51838131b02c44deaaa" parent="aspace_e6cf8af2b9d1100d51fff1b453c5a264" type="oversize-folder">4</container>
           </did>
         </c>
         <c id="aspace_ref84_ghl" level="file">
@@ -557,8 +556,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Michaelmas Dance [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986 September 27</unitdate>
-            <container id="aspace_a2cc80feaf90738642d0be60ef098a69" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_213061bd7770b2d6dba884f0c9e95c55" parent="aspace_a2cc80feaf90738642d0be60ef098a69" type="oversize-folder">2</container>
+            <container id="aspace_ff28f6dc582ff717ce2c61c1794dc66a" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_86e0f8c3d6c5745c08495a6481618f3c" parent="aspace_ff28f6dc582ff717ce2c61c1794dc66a" type="oversize-folder">2</container>
           </did>
         </c>
         <c id="aspace_ref87_ym4" level="file">
@@ -566,8 +565,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Relict's Relish [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986 October 18</unitdate>
-            <container id="aspace_5ad5581551da0731069c5c6f39811e2e" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_5d546416de4c58a0149a7a1be5b42aa3" parent="aspace_5ad5581551da0731069c5c6f39811e2e" type="oversize-folder">5</container>
+            <container id="aspace_e2bc754140787bf76fcab4e0f1953040" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_4d0a14f1eb0d33686e41d51af0731f84" parent="aspace_e2bc754140787bf76fcab4e0f1953040" type="oversize-folder">5</container>
           </did>
         </c>
         <c id="aspace_ref89_vob" level="file">
@@ -575,8 +574,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Rocket Press of Jonathan Stephenson [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 May</unitdate>
-            <container id="aspace_1d0c11df2c9866cdade964541b282f82" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_87836b278d418a03fb3e79b04c17e87e" parent="aspace_1d0c11df2c9866cdade964541b282f82" type="oversize-folder">7</container>
+            <container id="aspace_f79b1b4b67839c0bd34dfabe1f6fee22" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_a677622c04910bd77b3d138b07b80652" parent="aspace_f79b1b4b67839c0bd34dfabe1f6fee22" type="oversize-folder">7</container>
           </did>
         </c>
         <c id="aspace_ref63_wi0" level="file">
@@ -584,8 +583,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: The Rocket Press stand at the American Booksellers Association Convention [3 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987 May</unitdate>
-            <container id="aspace_cdf0f67b64ef7cb8bfd55bc64f6e5e56" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_4736b5c01edff2ab8fd961f3d4e0703c" parent="aspace_cdf0f67b64ef7cb8bfd55bc64f6e5e56" type="Folder">13</container>
+            <container id="aspace_f4fbf390712a1c1706a2707d9018ae8c" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_57f4ee19182b34c8b25e1fd347cb3161" parent="aspace_f4fbf390712a1c1706a2707d9018ae8c" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref88_72g" level="file">
@@ -593,8 +592,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Flyer: Selected Engravings of Krill Sokolov [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="aspace_1f7fe9553e0d62d88b5c3a4a3fa7de1d" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_434b3f97d6de36d7d8030bfb02d94bdd" parent="aspace_1f7fe9553e0d62d88b5c3a4a3fa7de1d" type="oversize-folder">6</container>
+            <container id="aspace_77c174c05c893ce830958a1899ac6ded" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_f2248d8a4d8bb40f68b9c1b67d9f6056" parent="aspace_77c174c05c893ce830958a1899ac6ded" type="oversize-folder">6</container>
           </did>
         </c>
         <c id="aspace_ref76_obr" level="file">
@@ -602,8 +601,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Greeting Cards with illustrations by Richard Shirley Smith [2 cards]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0cd91424327a2b5ac097d82e262ee926" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_7350fb3771d78356983d58a6b425b2d1" parent="aspace_0cd91424327a2b5ac097d82e262ee926" type="Folder">14</container>
+            <container id="aspace_7a50320b4bf5846ecb5314ef744773a0" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_eeeaa7147e4c0d0626d407befdc13e7d" parent="aspace_7a50320b4bf5846ecb5314ef744773a0" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref77_rqz" level="file">
@@ -611,8 +610,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Informational flyers for The Rocket Press</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">Circa 1985</unitdate>
-            <container id="aspace_49f8d6ef5e4835ba33a4e7d620b15293" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_e414f3041f06aced23bc72ef19f590c7" parent="aspace_49f8d6ef5e4835ba33a4e7d620b15293" type="Folder">15</container>
+            <container id="aspace_cf952b6f272d84ec77f75c4967e0e418" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_9e0fc5a8660827c1b349c5afeb0924fd" parent="aspace_cf952b6f272d84ec77f75c4967e0e418" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref59_jql" level="file">
@@ -621,8 +620,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984 July 6</unitdate>
             <physdesc id="aspace_1275f9ab353281428e91ba0d84ea57d9">2 copies of memorial address</physdesc>
-            <container id="aspace_47052475421129e4500739a5566cb004" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_257fc8d04c443c6b25f8cf44698eb4a5" parent="aspace_47052475421129e4500739a5566cb004" type="Folder">16</container>
+            <container id="aspace_7ba8cbfce931cfcc35f242274cc176f3" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_25ebc2e0edc13af7b106833e8e8e5da5" parent="aspace_7ba8cbfce931cfcc35f242274cc176f3" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref64_5v6" level="file">
@@ -630,8 +629,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Memorial address for Peter Wilson by the Earl Jellicoe</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984 June 20</unitdate>
-            <container id="aspace_7da966884e16bb47ec23a0d51f8885ee" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_25aeff0e5a136d26175b259cbb51e957" parent="aspace_7da966884e16bb47ec23a0d51f8885ee" type="Folder">17</container>
+            <container id="aspace_a20b3520aa337643302385b5cb95bce1" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_71386e20ef2e5dab82db3affce5bc410" parent="aspace_a20b3520aa337643302385b5cb95bce1" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref67_a64" level="file">
@@ -639,8 +638,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Oxford Guild of Printers flyers</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
-            <container id="aspace_daa2e9fe80759bb9ab5783fcf1d47f08" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_e40a092e71cb60bee9a76648f935c0f6" parent="aspace_daa2e9fe80759bb9ab5783fcf1d47f08" type="Folder">18</container>
+            <container id="aspace_8d6610d3885100fedea457bd1f31c8c8" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_96e92788faa01596d325e68683a1bf8a" parent="aspace_8d6610d3885100fedea457bd1f31c8c8" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref70_72t" level="file">
@@ -648,8 +647,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Oxford University Society of Bibliophiles programme of events</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-            <container id="aspace_d63ccd61ec92e00f51a2ea734953a06c" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_46101517f80182e1962603a9929ebc04" parent="aspace_d63ccd61ec92e00f51a2ea734953a06c" type="Folder">19</container>
+            <container id="aspace_2a0133d9d036e445ac166106df2f088f" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_c4098e1249ceec029ab4d2cabe6ac34d" parent="aspace_2a0133d9d036e445ac166106df2f088f" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref74_6bd" level="file">
@@ -657,8 +656,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Poem: A Calendar of Love by John Charles Edward Bowen [2 copies]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
-            <container id="aspace_fb2ffb2de5b228fb262b4036ff8d8c31" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_66646be87312be69b705939b3e49453d" parent="aspace_fb2ffb2de5b228fb262b4036ff8d8c31" type="Folder">20</container>
+            <container id="aspace_97d92c258b3b25bd8b8840097f551c1e" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_cd52e2a8019f00fc3880c4b9b331fd10" parent="aspace_97d92c258b3b25bd8b8840097f551c1e" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ref75_w9p" level="file">
@@ -666,8 +665,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Poem: Rhodes &amp; Asia Minor Remembered by John Charles Edward Bowen</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983 October</unitdate>
-            <container id="aspace_41998f73fe16418e0129be6e6925983e" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_0ab43d70823c47ee7e1425c9a5a37262" parent="aspace_41998f73fe16418e0129be6e6925983e" type="Folder">21</container>
+            <container id="aspace_504f177ebc6a84d08dc6cb247c4da299" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_4766e8721e956d949d103d219e9cfae0" parent="aspace_504f177ebc6a84d08dc6cb247c4da299" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ref72_a48" level="file">
@@ -675,8 +674,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Prospectus: Sir John Tenniel's illustrations to Lewis Carroll's Alice's Adventures in Wonderland &amp; Through the Looking-Glass</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
-            <container id="aspace_f33b9f8ed86ccbce4195e67d7945b50b" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_50826075c6692032e18e61075e101626" parent="aspace_f33b9f8ed86ccbce4195e67d7945b50b" type="Folder">22</container>
+            <container id="aspace_2b62f28b1e018b28c53a36db8889c6c9" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_6a0279e4f52fe857619f252bbde2cf5e" parent="aspace_2b62f28b1e018b28c53a36db8889c6c9" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ref78_cuh" level="file">
@@ -684,8 +683,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Prospectuses for The Rocket Press publications [7]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
-            <container id="aspace_13ba26833449baad6be8271cd064e555" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_35d9078d5fbc7df345ac0b20b4b8fd08" parent="aspace_13ba26833449baad6be8271cd064e555" type="Folder">23</container>
+            <container id="aspace_9ce062f64832202f69831d36303c0abd" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_44c7a942ca729c33f0d478785d796eb0" parent="aspace_9ce062f64832202f69831d36303c0abd" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_ref85_kbv" level="file">
@@ -693,8 +692,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Publication Catalogue</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
-            <container id="aspace_7b54857c8f9e8178aff9536c4751f152" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
-            <container id="aspace_795f00721a572a5b465a82f31f50c404" parent="aspace_7b54857c8f9e8178aff9536c4751f152" type="oversize-folder">3</container>
+            <container id="aspace_7fdca05cbc1e5e7a5db70983d09542f0" label="Mixed Materials [32882021237204]" type="flat_box">5</container>
+            <container id="aspace_a57ab3068392d63f93b36ed57edf7acf" parent="aspace_7fdca05cbc1e5e7a5db70983d09542f0" type="oversize-folder">3</container>
           </did>
         </c>
         <c id="aspace_ref79_uj5" level="file">
@@ -702,8 +701,8 @@ The Rocket Press was started in 1981 by Jonathan Stephenson. Stephenson first st
             <unittitle>Various Illustrations [4]</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d651d10b4d1c8a3ec91a34c67527365e" label="Mixed Materials [32882021237212]" type="Box">4</container>
-            <container id="aspace_18aba6ed8bb057b1ed292279dfff27b6" parent="aspace_d651d10b4d1c8a3ec91a34c67527365e" type="Folder">24</container>
+            <container id="aspace_bab7844e09112576223de40abcb16b35" label="Mixed Materials [32882021237212]" type="Box">4</container>
+            <container id="aspace_9b4d410679103cc76eb3e93afccef262" parent="aspace_bab7844e09112576223de40abcb16b35" type="Folder">24</container>
           </did>
         </c>
       </c>

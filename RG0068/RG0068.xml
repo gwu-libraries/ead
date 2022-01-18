@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0068.xml">rg0068.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:17 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:10:26 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -106,8 +105,8 @@
             <unitid>RG0068 Series 1</unitid>
             <unitdate datechar="creation">03/25/1969-07/18/1990 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_023d6e71371606e200e8eb6a9d139e84" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
-            <container id="aspace_19e6bc641ff2e27682e39a33d121fc1e" parent="aspace_023d6e71371606e200e8eb6a9d139e84" type="Folder">1</container>
+            <container id="aspace_5fd4640ac82db99b913e796cf0ee0ef5" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
+            <container id="aspace_a9a7ad5a9caa8cca823d17a2eb9be62e" parent="aspace_5fd4640ac82db99b913e796cf0ee0ef5" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref167_10m" level="file">
@@ -117,8 +116,8 @@
             <unitid>RG0068 Series 1</unitid>
             <unitdate datechar="creation">1968-1969 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_91bb0affe8deceaad437587e3bdfedc4" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
-            <container id="aspace_b63ac662fc6835971bd3ee06e3208e05" parent="aspace_91bb0affe8deceaad437587e3bdfedc4" type="Folder">2</container>
+            <container id="aspace_830ffa54bcf73375462e9196d93c5755" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
+            <container id="aspace_479385ada509f8707137fcda6c3631f6" parent="aspace_830ffa54bcf73375462e9196d93c5755" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref168_wpz" level="file">
@@ -128,8 +127,8 @@
             <unitid>RG0068 Series 1</unitid>
             <unitdate datechar="creation">1969 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_75ce660ed758d8603d75c73438af8350" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
-            <container id="aspace_a57abaa7a340e3f621975096cfeff247" parent="aspace_75ce660ed758d8603d75c73438af8350" type="Folder">3</container>
+            <container id="aspace_f257b8b040ef9fd9a6ec77ba9083a684" label="Mixed Materials [Series 1 GW: 32882018986870 IM: T560698542]" type="Box">1</container>
+            <container id="aspace_c2c80a090ebe1ea7581c2340ef34429a" parent="aspace_f257b8b040ef9fd9a6ec77ba9083a684" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -137,8 +136,8 @@
         <did>
           <unittitle>Flags</unittitle>
           <unitid>RG0068 Series 2</unitid>
-          <container id="aspace_a708b7f5508553796295b0d8e3430f53" label="Realia [32882021597805]" type="Box">1</container>
-          <container altrender="Record Carton" id="aspace_b211f2b7f8b6b940d15c59e74284dcf2" label="Realia [32882022380425]" type="Box">2</container>
+          <container id="aspace_b866ade2a51459aa2bc15f9d4d1398be" label="Realia [32882021597805]" type="Box">1</container>
+          <container altrender="Record Carton" id="aspace_c5390ead9ea8eab257440c62909e4383" label="Realia [32882022380425]" type="Box">2</container>
         </did>
         <scopecontent id="aspace_b647869c76d20f37141aed3edd420828">
           <head>Scope and Contents note</head>
@@ -152,8 +151,8 @@
           <unitid>RG0068 Series 3</unitid>
           <unitdate datechar="creation">1965-1990</unitdate>
           <physdesc id="aspace_95b43500497c7169bce096a2a5e11c2c" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_986c73d1149c27c95ea2af3c21d1363e" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-          <container id="aspace_e6ef3e76737728012d5152d48d09d043" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
+          <container id="aspace_814bd7786368e1a47f6a08adb87eda17" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+          <container id="aspace_e2142ddf8e658fb3ca8b2e16b6d38f3e" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
         </did>
         <scopecontent id="aspace_bcca59e6111f3f69a9e32359b0d71848">
           <head>Scope and Contents note</head>
@@ -164,8 +163,8 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1965</unitdate>
-            <container id="aspace_4b6af34665148f8cf42ecd7965a95bd5" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_a7b4f84ef23c35afc36f44fce4de948a" parent="aspace_4b6af34665148f8cf42ecd7965a95bd5" type="Folder">1</container>
+            <container id="aspace_3543693a8140be62cde05803c878d43b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_1cef508718879068de1d05acdfbb9b18" parent="aspace_3543693a8140be62cde05803c878d43b" type="Folder">1</container>
           </did>
           <odd id="aspace_d4a17d9b53657c0336b1c7aa7cda4e9c">
             <head>General note</head>
@@ -176,8 +175,8 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1966</unitdate>
-            <container id="aspace_7252befb41c6e86003a593d689baaa1b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_ca267a445f2a41c05df50f0333de461a" parent="aspace_7252befb41c6e86003a593d689baaa1b" type="Folder">2</container>
+            <container id="aspace_0958ae693a52b0168d2fce711dcf1cb7" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_90250947a8c6b9c759564166f2cfe24a" parent="aspace_0958ae693a52b0168d2fce711dcf1cb7" type="Folder">2</container>
           </did>
           <odd id="aspace_c91903e5621915bf8f0815f1f7d80290">
             <head>General note</head>
@@ -188,16 +187,16 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1967</unitdate>
-            <container id="aspace_afc99ec875a429a74df57a043de4e677" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_8d301a6af2b8c5a1cfc616be61a6ac2c" parent="aspace_afc99ec875a429a74df57a043de4e677" type="Folder">3</container>
+            <container id="aspace_5cc116cd60d337d66c9b4c930d4cc5d1" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_64c5f74ac8c20e23441672b448bba65e" parent="aspace_5cc116cd60d337d66c9b4c930d4cc5d1" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref23_z98" level="file">
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1968</unitdate>
-            <container id="aspace_578667dcde812ad1052c0d5a92724e53" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_0e2a115c9d6bf89deae17b61a1d7bd1f" parent="aspace_578667dcde812ad1052c0d5a92724e53" type="Folder">4</container>
+            <container id="aspace_5f4f5c8ad6fa29a1d72f762bb63965e1" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_8ffb1b4883bffc46960285f7528720b5" parent="aspace_5f4f5c8ad6fa29a1d72f762bb63965e1" type="Folder">4</container>
           </did>
           <odd id="aspace_a5dc5b568e77f77fd2583a6dcf034004">
             <head>General note</head>
@@ -208,8 +207,8 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_2909b9fd40fc5ca641cbd5d378a623d6" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_ff44355ac68c08a7606b6cfc0fab9317" parent="aspace_2909b9fd40fc5ca641cbd5d378a623d6" type="Folder">5</container>
+            <container id="aspace_6b288bb94e74a92e6c5b3ef572b2bccc" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_96096859b05c48637454a85fb7f85f5e" parent="aspace_6b288bb94e74a92e6c5b3ef572b2bccc" type="Folder">5</container>
           </did>
           <odd id="aspace_03bd9e2c9b2f875878c32ce8525a744c">
             <head>General note</head>
@@ -220,8 +219,8 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1970</unitdate>
-            <container id="aspace_f7ab391bc7130b1393c6d7b0118fd483" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_75ad41850c01793b7827ac365a8f00f8" parent="aspace_f7ab391bc7130b1393c6d7b0118fd483" type="Folder">6</container>
+            <container id="aspace_93bd1ab9b384765a57b92eb4e7abfc1b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_24330d11e1463391552d483710e0d44d" parent="aspace_93bd1ab9b384765a57b92eb4e7abfc1b" type="Folder">6</container>
           </did>
           <odd id="aspace_9dddc26d53925d7fc471204b99776a37">
             <head>General note</head>
@@ -232,8 +231,8 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_eda983af95f7a0113da1b17ab2005e36" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_a3ef0a60873e4e6cd02944d8b7cc9b9e" parent="aspace_eda983af95f7a0113da1b17ab2005e36" type="Folder">7</container>
+            <container id="aspace_11d43ca2313454c496012843497da154" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_c0e19f308976179bf7e6974322f7eafc" parent="aspace_11d43ca2313454c496012843497da154" type="Folder">7</container>
           </did>
           <odd id="aspace_de66a04ee1d1bd1df81fe35bf32fd498">
             <head>General note</head>
@@ -244,24 +243,24 @@
           <did>
             <unittitle>Academic Guide for Entering Freshmen</unittitle>
             <unitdate datechar="creation">1972</unitdate>
-            <container id="aspace_32d0501f33e91e0de6b90ee6d42187b5" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_9764cec4213ca574b1594b59bab0a5b7" parent="aspace_32d0501f33e91e0de6b90ee6d42187b5" type="Folder">8</container>
+            <container id="aspace_b8a1562842c949388a69a7f6d57b3367" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_43bee90fe58766ddd16d2623db370219" parent="aspace_b8a1562842c949388a69a7f6d57b3367" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref32_4rk" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_52b6ea29b062afac6a3528cc66fd3b1c" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_a6cdd6e39ecae8b617bf2a22a43b5128" parent="aspace_52b6ea29b062afac6a3528cc66fd3b1c" type="Folder">9</container>
+            <container id="aspace_a3eb92064fc2feff6522eeb729685bad" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_20bff0239decdfca1fc44ad57e36422c" parent="aspace_a3eb92064fc2feff6522eeb729685bad" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref33_lpq" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_94ae31827fbdedec6421585b8581181b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_2db53d28b22711347585f3c4baccbf5c" parent="aspace_94ae31827fbdedec6421585b8581181b" type="Folder">10</container>
+            <container id="aspace_ce203f45b20fed083cb0a12a2f73ce74" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_0bae7951a6606fd6dd68974ad25136ee" parent="aspace_ce203f45b20fed083cb0a12a2f73ce74" type="Folder">10</container>
           </did>
           <odd id="aspace_0a88ca92cb050fe94df6befd45236667">
             <head>General note</head>
@@ -272,32 +271,32 @@
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_be6fde4ac2e9c4d42494e12f01d02c02" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_3cd62077c11978cc578e8e4cb9883c37" parent="aspace_be6fde4ac2e9c4d42494e12f01d02c02" type="Folder">11</container>
+            <container id="aspace_84a979949ac946aaa692bf47c98a706f" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_38d4fc2e63030e7e3631cc25237a5fae" parent="aspace_84a979949ac946aaa692bf47c98a706f" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref36_vz8" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1976</unitdate>
-            <container id="aspace_164b4980c06bd29b169d7680cf5209ef" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_c749932c8abba103d2d3617ca3fcb1ff" parent="aspace_164b4980c06bd29b169d7680cf5209ef" type="Folder">12</container>
+            <container id="aspace_fa260264a2209dc715e52028cb173e95" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_f695e1f6a2fa6730b8fe99d0b4f34b1b" parent="aspace_fa260264a2209dc715e52028cb173e95" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref37_mf9" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_e2dc24f0ec12964639517fe498c1c360" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_ac79eb05a5064cbc5e1e03a9be88d8ea" parent="aspace_e2dc24f0ec12964639517fe498c1c360" type="Folder">13</container>
+            <container id="aspace_f563d0b5d4e5e961239405f54b21eedb" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_a7403a3a2a3c3cbd4b81f85e0e0852e8" parent="aspace_f563d0b5d4e5e961239405f54b21eedb" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref38_yxn" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_a67b977459e322c73cbc4ac057b2a9a8" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_4ef397fddf1009ff4ba91e47d133c66a" parent="aspace_a67b977459e322c73cbc4ac057b2a9a8" type="Folder">14</container>
+            <container id="aspace_b116564bab24cfe9555dc6206ce67014" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_ed191b1c806491d8904d27ba7b8b3624" parent="aspace_b116564bab24cfe9555dc6206ce67014" type="Folder">14</container>
           </did>
           <odd id="aspace_dc4065b0664ab3a621f533b680cfa425">
             <head>General note</head>
@@ -308,8 +307,8 @@
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_bb4b913bb0f5b97e8b3a68f9a96b6db2" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_3ba29938595549fa2ee59173819ee73d" parent="aspace_bb4b913bb0f5b97e8b3a68f9a96b6db2" type="Folder">15</container>
+            <container id="aspace_e50b319c16dca74b24216f4928c3e34a" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_2f7d0a20442b837a1e2fb2d2afb20e06" parent="aspace_e50b319c16dca74b24216f4928c3e34a" type="Folder">15</container>
           </did>
           <odd id="aspace_02c1ca9de5d442b1f10d9ffa4838da6e">
             <head>General note</head>
@@ -320,8 +319,8 @@
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_53b3a4adb56a924f620feff8e77acfae" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_60e22a6f9a0c06b25e8388a808e3cfc2" parent="aspace_53b3a4adb56a924f620feff8e77acfae" type="Folder">16</container>
+            <container id="aspace_8835633cc5af3eacb2f6e3ed3e3ec17c" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_c430169237cb85e69f130541217d0a3a" parent="aspace_8835633cc5af3eacb2f6e3ed3e3ec17c" type="Folder">16</container>
           </did>
           <odd id="aspace_bd81bac74a45b2541be48033d1a1dd9b">
             <head>General note</head>
@@ -332,8 +331,8 @@
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_1c07d9ce6c64271e2673a2e5000e2606" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_3efd14b211fbdce96a2f633fe071cf9b" parent="aspace_1c07d9ce6c64271e2673a2e5000e2606" type="Folder">17</container>
+            <container id="aspace_2943b283b9cd684cf9441fee5780941a" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_66bab8ac77d062e82cf24b601aa309fa" parent="aspace_2943b283b9cd684cf9441fee5780941a" type="Folder">17</container>
           </did>
           <odd id="aspace_ecc96887240b5770632a61331af1092f">
             <head>General note</head>
@@ -344,48 +343,48 @@
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1985</unitdate>
-            <container id="aspace_fcb3b6d4dd98f13edab437c465d34ae6" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_0302c19582955842ae3e1b9485e2866e" parent="aspace_fcb3b6d4dd98f13edab437c465d34ae6" type="Folder">18</container>
+            <container id="aspace_4e05b1daa53c46e350c1f7cc016a3213" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_668470ba7dbcebca75379b9834d61358" parent="aspace_4e05b1daa53c46e350c1f7cc016a3213" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref47_cmu" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_cce88fdaf0959de4207a9f6affc6380a" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_a3dc5e9fbf6b3c11e989b94322929b3f" parent="aspace_cce88fdaf0959de4207a9f6affc6380a" type="Folder">19</container>
+            <container id="aspace_32d2279be001fef191c09305ddfbb8d3" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_1b6b4f1d1f7e7c6a76784aade2387fa6" parent="aspace_32d2279be001fef191c09305ddfbb8d3" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref48_5wx" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1987</unitdate>
-            <container id="aspace_0d88622f61d374a2cbb184112575c5d6" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_153b2fec08d1baad07cb90302c37bcbf" parent="aspace_0d88622f61d374a2cbb184112575c5d6" type="Folder">20</container>
+            <container id="aspace_baf62540b11474ea3eda2f6a13a7522b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_526165cf840f1978469e5cc16566b0e3" parent="aspace_baf62540b11474ea3eda2f6a13a7522b" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ref49_3s3" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1988</unitdate>
-            <container id="aspace_61e55ca179ed49731b7ed8ea53fc9c3f" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_3dedb566eb78ef2a3bd7ecc79f225582" parent="aspace_61e55ca179ed49731b7ed8ea53fc9c3f" type="Folder">21</container>
+            <container id="aspace_8158279e6d13e56245400955d7e7b615" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_6c0684a26de397469b34c8425b098f4b" parent="aspace_8158279e6d13e56245400955d7e7b615" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ref50_hc9" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_67cd6b93c6b8d96a8b4c7998f01a9d7f" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_e721f2d20db938be50430c3756de68b6" parent="aspace_67cd6b93c6b8d96a8b4c7998f01a9d7f" type="Folder">22</container>
+            <container id="aspace_9c65bd6d311faba922d12ccbc0e0b63b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_04ec67f56c757d48b2ddec40d8bbc6ac" parent="aspace_9c65bd6d311faba922d12ccbc0e0b63b" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ref51_aab" level="file">
           <did>
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitdate datechar="creation">1990</unitdate>
-            <container id="aspace_98089cd9baeb6148c20a433f7d7a7eb9" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
-            <container id="aspace_d398430ce796a18800416793e16f2f7e" parent="aspace_98089cd9baeb6148c20a433f7d7a7eb9" type="Folder">23</container>
+            <container id="aspace_610e91fb2f620bf2f48b33a4a0d6608b" label="Mixed Materials [Series 3 GW: 32882018394075]" type="Box">1</container>
+            <container id="aspace_6d76f0f9895037b4612c7444f556d170" parent="aspace_610e91fb2f620bf2f48b33a4a0d6608b" type="Folder">23</container>
           </did>
           <odd id="aspace_ce96630ad935dc75d9a22bf569595f21">
             <head>General note</head>
@@ -397,8 +396,8 @@
             <unittitle>Academic Guide for Entering Students</unittitle>
             <unitid>Series 3 </unitid>
             <unitdate datechar="creation" normal="1980/1984" type="inclusive">1980, 1983, 1984</unitdate>
-            <container id="aspace_ac55c5100e0138545f124bac6a42c4dd" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
-            <container id="aspace_85483ccbfefb7a3bb35986920f220163" parent="aspace_ac55c5100e0138545f124bac6a42c4dd" type="Folder">9</container>
+            <container id="aspace_ed8c1b300b0ef53e0a52decfb3776bf1" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
+            <container id="aspace_dc81d4ff47acda6047d4b63c7fae05a5" parent="aspace_ed8c1b300b0ef53e0a52decfb3776bf1" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -422,7 +421,7 @@
           <unitid>RG0068 Series 5</unitid>
           <unitdate datechar="creation">ca.1938</unitdate>
           <physdesc id="aspace_1cfe4e475bd473aaff744a12cb29d4b9" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_a90ad890c4c8222309f24fd3f3f3e6db" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
+          <container id="aspace_fa9426975b5b3eda06dffa68b18c8790" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_2e7a42209e4c1a05185047a6c268f674">
           <head>Scope and Contents note</head>
@@ -433,8 +432,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_d449365d7d18dfb36b54fdc098bf66de" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
-            <container id="aspace_2979f8c49e708de5e14e19e2e8275ee1" parent="aspace_d449365d7d18dfb36b54fdc098bf66de" type="Folder">1</container>
+            <container id="aspace_4fcd0f818c275d8f64f06f7b7f68e5d2" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
+            <container id="aspace_fc11e62177b78f7955530fdccdbc374e" parent="aspace_4fcd0f818c275d8f64f06f7b7f68e5d2" type="Folder">1</container>
           </did>
           <odd id="aspace_a623de6506f37e00eb6fb4b0e6c23b6d">
             <head>General note</head>
@@ -445,8 +444,8 @@
           <did>
             <unittitle>Photo of faculty members</unittitle>
             <unitdate datechar="creation">1938 ca.</unitdate>
-            <container id="aspace_9d0c6d59f61723dbea8ab04e8a7ae37c" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
-            <container id="aspace_30abd4aa701a2ce9b53396fde29b2b97" parent="aspace_9d0c6d59f61723dbea8ab04e8a7ae37c" type="Folder">2</container>
+            <container id="aspace_1d5de6142c0f6ac6806c1f7708b19200" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
+            <container id="aspace_30186942f8ec37105ddfd54a844349aa" parent="aspace_1d5de6142c0f6ac6806c1f7708b19200" type="Folder">2</container>
           </did>
           <odd id="aspace_9f43071ac8e0d395e6aba24bc014b930">
             <head>General note</head>
@@ -457,8 +456,8 @@
           <did>
             <unittitle>Photo of charter faculty members of the GWU chapter of Phi Beta Kappa.</unittitle>
             <unitdate datechar="creation">1938 ca.</unitdate>
-            <container id="aspace_ca9acf6bb4a04c5d135d55618a5edc3e" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
-            <container id="aspace_3fc9c1c27ca17320f4426cb50994ac91" parent="aspace_ca9acf6bb4a04c5d135d55618a5edc3e" type="Folder">3</container>
+            <container id="aspace_4540941592810d775e15c023f3491de6" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
+            <container id="aspace_e021ab74761b91fc46456ecae3035a8c" parent="aspace_4540941592810d775e15c023f3491de6" type="Folder">3</container>
           </did>
           <odd id="aspace_6094884695f247737a7ba737abf9e28e">
             <head>General note</head>
@@ -469,8 +468,8 @@
           <did>
             <unittitle>Phi Beta Kappa Charter</unittitle>
             <unitdate datechar="creation">02/22/1938</unitdate>
-            <container id="aspace_16a8dd0039eba6444472bb78586ec8c3" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
-            <container id="aspace_d1afa70eb7d4ce60cfc37aa14c0cf37e" parent="aspace_16a8dd0039eba6444472bb78586ec8c3" type="Folder">4</container>
+            <container id="aspace_7f00b8ee52ff23228e0b952e79683e6b" label="Mixed Materials [Series 5 GW: 32882018396450]" type="Box">1</container>
+            <container id="aspace_88ca492d1623d6f7757456e5ac51645d" parent="aspace_7f00b8ee52ff23228e0b952e79683e6b" type="Folder">4</container>
           </did>
         </c>
       </c>
@@ -480,7 +479,7 @@
           <unitid>RG0068 Series 6</unitid>
           <unitdate datechar="creation">1985-1987</unitdate>
           <physdesc id="aspace_0f23608d7f96e644e3c263d60a11826a" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_5662aa34c15c1e847fc18a31b9947f48" label="Mixed Materials [Series 6 GW: 32882019234015]" type="Box">1</container>
+          <container id="aspace_83e8cdc0b0e93f24c39776271242c873" label="Mixed Materials [Series 6 GW: 32882019234015]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_f6ab36f2142ab0117c4637da23ae4681">
           <head>Scope and Contents note</head>
@@ -509,7 +508,7 @@
           <unitid>RG0068 Series 8</unitid>
           <unitdate datechar="creation">1946-1951</unitdate>
           <physdesc id="aspace_bcd0b0af84d3c3d6f2f8de4a569f77df" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_6134d62541d094dea30ac9bd2322c231" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+          <container id="aspace_dc0773f6c0e844e98cd6ccd61898c356" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_0f53561604ebb16b1a0809d6a833e469">
           <head>Scope and Contents note</head>
@@ -520,152 +519,152 @@
           <did>
             <unittitle>Minutes of the Committee on Publications</unittitle>
             <unitdate datechar="creation">09/01/1945-08/31/1946</unitdate>
-            <container id="aspace_50d91f16eb4ba36a777713962581270f" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_282beddbc04934d207bbbcf096c87f7c" parent="aspace_50d91f16eb4ba36a777713962581270f" type="Folder">1</container>
+            <container id="aspace_d9a9e0d9b69a2b85f22c1768dbe52af3" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_1ebe719a188c15d448f7e086d8a49597" parent="aspace_d9a9e0d9b69a2b85f22c1768dbe52af3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref76_drr" level="file">
           <did>
             <unittitle>Committee on Publications - controversy with student newspaper "Hatchet"</unittitle>
             <unitdate datechar="creation">09/01/1946-08/31/1947</unitdate>
-            <container id="aspace_b87f06c144dc1aabc81789da6b7f1b15" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_fd92aa7fb16eb9548211c5e2e32f4c85" parent="aspace_b87f06c144dc1aabc81789da6b7f1b15" type="Folder">2</container>
+            <container id="aspace_808a32ade976729bfc318062301f2825" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_723f88cc1e1a43ee8289a29c686326b7" parent="aspace_808a32ade976729bfc318062301f2825" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref77_9xq" level="file">
           <did>
             <unittitle>Committee on Publications - "Surveyor"</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_865c8b700dcf331c2248133ca29c9bb7" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_1dbb946dc178522222897a1606753575" parent="aspace_865c8b700dcf331c2248133ca29c9bb7" type="Folder">3</container>
+            <container id="aspace_7acca7efd27a614bc60e29756df67f39" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_614ee900897a7a721a90cf0bdf60629e" parent="aspace_7acca7efd27a614bc60e29756df67f39" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref78_g8e" level="file">
           <did>
             <unittitle>Committee on Publications - "Cherry Tree" yearbook</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_639ec7c18cf1bcfcfb2e14a479864539" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_765c20becc9b43840220c0252163a45f" parent="aspace_639ec7c18cf1bcfcfb2e14a479864539" type="Folder">4</container>
+            <container id="aspace_b601d876b4513c5b8a4a20d8256ddc1f" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_89c1c068ca77ab75c89cd9ae8f0f4d56" parent="aspace_b601d876b4513c5b8a4a20d8256ddc1f" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref79_ui7" level="file">
           <did>
             <unittitle>Committee on Publications - "Hatchet" constitution and correspondence</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_371ebe67376aebc4644fafbd66b94674" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_cb75f3524d8f789721b57bc6085801ee" parent="aspace_371ebe67376aebc4644fafbd66b94674" type="Folder">5</container>
+            <container id="aspace_5391aba886c29c887446413fedf3c6f1" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_dc62535ffeff98d4a2cba32770b8c87d" parent="aspace_5391aba886c29c887446413fedf3c6f1" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref80_mqd" level="file">
           <did>
             <unittitle>Committee on Publications - "Hatchet" correspondence with other universities regarding constitution</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_2fa242447c063ed8cab9eec0e64ec62b" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_e19b10c4a454320916a738156e2f6aac" parent="aspace_2fa242447c063ed8cab9eec0e64ec62b" type="Folder">6</container>
+            <container id="aspace_39fc8048b15f0e404eda5f262b9e0551" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_20e93f039871d217e34cc15660c9ec35" parent="aspace_39fc8048b15f0e404eda5f262b9e0551" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref81_ya7" level="file">
           <did>
             <unittitle>Committee on Publications - "Hatchet" staff resumes and correspondence</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_350e8755c3c584920db19b36c200b958" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_710f9d0aa0b0e7418dd9a32a9a55f8d7" parent="aspace_350e8755c3c584920db19b36c200b958" type="Folder">7</container>
+            <container id="aspace_0feecf47afe0919cc95b944dc526284b" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_a16b01f3cab7cbe4b9422607ed5c8a80" parent="aspace_0feecf47afe0919cc95b944dc526284b" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref82_taw" level="file">
           <did>
             <unittitle>Committee on Publications - correspondence</unittitle>
             <unitdate datechar="creation">09/01/1947-08/31/1948</unitdate>
-            <container id="aspace_d8757440c83ef9e3eb97b88b686f25bb" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_6cdac9a4801f696c611aebbeb8de4560" parent="aspace_d8757440c83ef9e3eb97b88b686f25bb" type="Folder">8</container>
+            <container id="aspace_d0c96b9a9c973d62d85b3f153eb354de" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_e42d9b820579fee5a6a035ba2a748477" parent="aspace_d0c96b9a9c973d62d85b3f153eb354de" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref83_5s1" level="file">
           <did>
             <unittitle>Committee on Publications - "Cherry Tree" yearbook</unittitle>
             <unitdate datechar="creation">09/01/1948-08/31/1949</unitdate>
-            <container id="aspace_af883c49795aaabd449f3325754d9e02" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_00168f44d644236e6b683c73faa4b105" parent="aspace_af883c49795aaabd449f3325754d9e02" type="Folder">9</container>
+            <container id="aspace_95a04878621156b152a0439da16af228" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_30858f909dd07f61d4069ac6e15879e0" parent="aspace_95a04878621156b152a0439da16af228" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref84_b31" level="file">
           <did>
             <unittitle>Committee on Publications - "Speculum" medical school yearbook</unittitle>
             <unitdate datechar="creation">09/01/1948-08/31/1949</unitdate>
-            <container id="aspace_51feee411cc1c71989b935e0ebcb3f89" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_58399f98850e87deaccf76488b27e1c2" parent="aspace_51feee411cc1c71989b935e0ebcb3f89" type="Folder">10</container>
+            <container id="aspace_caa9acbc1b5b0ca30ef0dc28e2fcdc6b" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_311c6b29761306ef01f07b34adfe7e60" parent="aspace_caa9acbc1b5b0ca30ef0dc28e2fcdc6b" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref85_r6q" level="file">
           <did>
             <unittitle>Committee on Publications - "The Colonial Review" yearbook</unittitle>
             <unitdate datechar="creation">09/01/1948-08/31/1949</unitdate>
-            <container id="aspace_54d03c54b16660a950cd6554d176975d" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_632b4d27f767fc201d9e57b4941e828a" parent="aspace_54d03c54b16660a950cd6554d176975d" type="Folder">11</container>
+            <container id="aspace_54ff7194e470b86a3589869681d80056" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_0fac4130f4c4831a5d288dfeeed06857" parent="aspace_54ff7194e470b86a3589869681d80056" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref86_2dy" level="file">
           <did>
             <unittitle>Committee on Publications - "Hatchet"</unittitle>
             <unitdate datechar="creation">09/01/1948-08/31/1949</unitdate>
-            <container id="aspace_7d67359a28aea9f7a6c5e66be2ed61a8" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_6829b1b370d08e528991a6f513e33e79" parent="aspace_7d67359a28aea9f7a6c5e66be2ed61a8" type="Folder">12</container>
+            <container id="aspace_7e65e0a9e477a00eb5011feb10e566d5" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_0cd3003e3c8cffca51a5d2ec8dd81c4a" parent="aspace_7e65e0a9e477a00eb5011feb10e566d5" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref87_pj1" level="file">
           <did>
             <unittitle>Committee on Publications</unittitle>
             <unitdate datechar="creation">09/01/1948-08/31/1949</unitdate>
-            <container id="aspace_3769978e4784ba991fdd606604c38fa0" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_6307e54fe5888704d8c328ba4145111f" parent="aspace_3769978e4784ba991fdd606604c38fa0" type="Folder">13</container>
+            <container id="aspace_98beef50f38e9a76ace752949a137899" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_0814d532c1f87e758c3ec9212615e515" parent="aspace_98beef50f38e9a76ace752949a137899" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref88_es0" level="file">
           <did>
             <unittitle>Committee on Publications - "The Colonial Review"</unittitle>
             <unitdate datechar="creation">09/01/1949-08/31/1950</unitdate>
-            <container id="aspace_67f37c1241765e3ec7deaa7fd1b6c9f8" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_d909d8959cefdf7f3e5bddeb9a80559a" parent="aspace_67f37c1241765e3ec7deaa7fd1b6c9f8" type="Folder">14</container>
+            <container id="aspace_68836c778ca38cb5d3c3ace7b928ade3" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_8515364f66bba5528a5879cda6288bf3" parent="aspace_68836c778ca38cb5d3c3ace7b928ade3" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref89_ex8" level="file">
           <did>
             <unittitle>Committee on Publications</unittitle>
             <unitdate datechar="creation">09/01/1949-08/31/1950</unitdate>
-            <container id="aspace_b4cae16eb1a9de02a8dcdc735a2a8a92" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_e7369527df16d8f0fd6246b344b835c5" parent="aspace_b4cae16eb1a9de02a8dcdc735a2a8a92" type="Folder">15</container>
+            <container id="aspace_5cfe77109e370f70915d22b7995b88c3" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_67a4e217d63c76e1886ec301d65b9596" parent="aspace_5cfe77109e370f70915d22b7995b88c3" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref90_obz" level="file">
           <did>
             <unittitle>Committee on Publications - "Cherry Tree"</unittitle>
             <unitdate datechar="creation">09/01/1949-08/31/1950</unitdate>
-            <container id="aspace_f708bb1f2a5fcbc24c81368ef408121e" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_84f00c768eea98c3325609aaedac9a26" parent="aspace_f708bb1f2a5fcbc24c81368ef408121e" type="Folder">16</container>
+            <container id="aspace_f394954541def1a776cc0adc59cc910c" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_f168a95cb407c0b11b33878fabf6297c" parent="aspace_f394954541def1a776cc0adc59cc910c" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref91_ffw" level="file">
           <did>
             <unittitle>Committee on Publications</unittitle>
             <unitdate datechar="creation">09/01/1950-08/31/1951</unitdate>
-            <container id="aspace_bb5f690c45a1905bbbf91af7d76510f5" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_0dd89f289bc3c4558fbf23db6e870416" parent="aspace_bb5f690c45a1905bbbf91af7d76510f5" type="Folder">17</container>
+            <container id="aspace_70cd6603d8e3b326dbfc24deedd1bbd9" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_09de922238a79891ebf6698055e4a147" parent="aspace_70cd6603d8e3b326dbfc24deedd1bbd9" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref92_dpn" level="file">
           <did>
             <unittitle>Committee on Publications - "The Colonial Review"</unittitle>
             <unitdate datechar="creation">09/01/1950-08/31/1951</unitdate>
-            <container id="aspace_2edecf4406d781bdd12ea746eb321dc9" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_98adaaa422f09f6279a8a8a876825c43" parent="aspace_2edecf4406d781bdd12ea746eb321dc9" type="Folder">18</container>
+            <container id="aspace_c7c916c1bc9cc5340b30548afe5f3714" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_08f5e6f7cbe45393e573a587105fb828" parent="aspace_c7c916c1bc9cc5340b30548afe5f3714" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref93_4n6" level="file">
           <did>
             <unittitle>Committee on Publications - "Hatchet" staff qualifications and correspondence, satirical copy of "Tomahawk" from April Fool's Day</unittitle>
             <unitdate datechar="creation">09/01/1950-08/31/1951</unitdate>
-            <container id="aspace_191c9d6cf2d80a2dfc43d880d858e1c9" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
-            <container id="aspace_eded8ff4d38c7b708b87954c318a97a6" parent="aspace_191c9d6cf2d80a2dfc43d880d858e1c9" type="Folder">19</container>
+            <container id="aspace_d0fb84242e7f836839926790f81deefc" label="Mixed Materials [Series 8 GW: 32882018359573]" type="Box">1</container>
+            <container id="aspace_e726ccf23e5d512acd4cd6901be7990a" parent="aspace_d0fb84242e7f836839926790f81deefc" type="Folder">19</container>
           </did>
         </c>
       </c>
@@ -675,7 +674,7 @@
           <unitid>RG0068 Series 9</unitid>
           <unitdate datechar="creation">1873-1974</unitdate>
           <physdesc id="aspace_eaa8d92490f08c85bcf2edbe141f7cc6" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_d38b99b9198fe58ec1e05c9467464261" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+          <container id="aspace_3de9dd9d4354d1bf96de2ea4071d33d8" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_5f67d6d115210b5a2edb744ee48e6016">
           <head>Scope and Contents note</head>
@@ -686,520 +685,520 @@
           <did>
             <unittitle>Architecture Department</unittitle>
             <unitdate datechar="creation">1913-1926</unitdate>
-            <container id="aspace_872dcc736f4965710ca5ebfc30bd45c7" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_7c8ce863f6e9a0ea45cf6f4891c37840" parent="aspace_872dcc736f4965710ca5ebfc30bd45c7" type="Folder">1</container>
+            <container id="aspace_b2483da19665f7fafe93bed79f4a1a45" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_5723120af5d6e813cc543807baa17a72" parent="aspace_b2483da19665f7fafe93bed79f4a1a45" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref98_5g1" level="file">
           <did>
             <unittitle>Art Department</unittitle>
             <unitdate datechar="creation">1943-2000</unitdate>
-            <container id="aspace_37f31c52093b0fa7a8f30215c1df5574" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_01622f12ef5b8a6c2e4a8f36ae6fe94b" parent="aspace_37f31c52093b0fa7a8f30215c1df5574" type="Folder">2</container>
+            <container id="aspace_789e18e0541ddf160e252ebbbb5fa079" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_b9fd7479e8401ed99ebc3183329104f8" parent="aspace_789e18e0541ddf160e252ebbbb5fa079" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref99_lgr" level="file">
           <did>
             <unittitle>Art Department - Courses</unittitle>
             <unitdate datechar="creation">1963 ca.-1981</unitdate>
-            <container id="aspace_f59de315795cb0fd4b42ee8728006066" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9f491ff9505525fb78b0c56785f6da47" parent="aspace_f59de315795cb0fd4b42ee8728006066" type="Folder">3</container>
+            <container id="aspace_ab62ee7c648e304239b620c9889ca43f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_9e2b3c1164c73f565aabda04c271032a" parent="aspace_ab62ee7c648e304239b620c9889ca43f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref100_nm9" level="file">
           <did>
             <unittitle>Art Department - Art at the Columbian College, 1840-1865</unittitle>
             <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_95224e011064f6f5f3780c4582bf912f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_91b47d4514f8fbcdb361c271019c300a" parent="aspace_95224e011064f6f5f3780c4582bf912f" type="Folder">4</container>
+            <container id="aspace_2fed064dc3a43d36bb40359214938f52" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_356b861f40253ebb37e2660c30eee8ea" parent="aspace_2fed064dc3a43d36bb40359214938f52" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref101_wyb" level="file">
           <did>
             <unittitle>Art Department - Publication - "The Museum and the Art Teacher," 1966</unittitle>
             <unitdate datechar="creation">1966</unitdate>
-            <container id="aspace_811898ec28d3a6a53e51fa3164eafd2b" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9c897098bd683a84b946884ae12ebe0f" parent="aspace_811898ec28d3a6a53e51fa3164eafd2b" type="Folder">5</container>
+            <container id="aspace_d7a0a639a35219c09bda819b03128d24" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_dc0de198500df03f4208cfe8ad3d8dc7" parent="aspace_d7a0a639a35219c09bda819b03128d24" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref102_2pg" level="file">
           <did>
             <unittitle>Awards and Prizes - Isaac Davis Award in Public Speaking</unittitle>
             <unitdate datechar="creation">1919-1974</unitdate>
-            <container id="aspace_4be154164dfcc9831ac1ef06a2e57a77" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_2f07a329a7793b204deb01bdb272bdbf" parent="aspace_4be154164dfcc9831ac1ef06a2e57a77" type="Folder">6</container>
+            <container id="aspace_f5c5000651920a9212d6e453dd5c1f8b" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_f3f9530dda257168000c4bbe07d00e50" parent="aspace_f5c5000651920a9212d6e453dd5c1f8b" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref103_wiy" level="file">
           <did>
             <unittitle>Colgate University - Degrees Conferred by Columbian College 1844</unittitle>
             <unitdate datechar="creation">1832-1859</unitdate>
-            <container id="aspace_cf60cb6596682587d84d24dd56d664cc" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_c98b3cceefb37e14bbfdef7df0420750" parent="aspace_cf60cb6596682587d84d24dd56d664cc" type="Folder">7</container>
+            <container id="aspace_c064e045b52f9ae80acc26cf0c34e084" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_66be867a8242898c19e93873511662cc" parent="aspace_c064e045b52f9ae80acc26cf0c34e084" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref104_bq4" level="file">
           <did>
             <unittitle>Colgate University - Transcripts of Records and Correspondence Relating to Columbian College (Notes made July 14-19, 1964.)</unittitle>
             <unitdate datechar="creation">1964 ca.</unitdate>
-            <container id="aspace_8f9ef59f15118c2d2e961499c91f3b7c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9c4c10c2f2b49f466ef3bb4df03d4104" parent="aspace_8f9ef59f15118c2d2e961499c91f3b7c" type="Folder">8</container>
+            <container id="aspace_f145b685835e53a83a092d8804d92935" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_39dcd57b809ce4b34e0952150ab29651" parent="aspace_f145b685835e53a83a092d8804d92935" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref105_3rx" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912-2005)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f348fd887a096e8e70b915ee096af429" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_d8a5fd18c11d15180919ce2a721131cb" parent="aspace_f348fd887a096e8e70b915ee096af429" type="Folder">9</container>
+            <container id="aspace_2e47d8e5a67d3046539d2885c998c194" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_8efb2999aa76e764d37e919e90e117f4" parent="aspace_2e47d8e5a67d3046539d2885c998c194" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref106_260" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Academic Advising</unittitle>
             <unitdate datechar="creation">1912-1997</unitdate>
-            <container id="aspace_51ac4e6b0d9c373ad5ddfe72329f2170" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_6ddc784b92b9c5bcaeecfd02819aac36" parent="aspace_51ac4e6b0d9c373ad5ddfe72329f2170" type="Folder">10</container>
+            <container id="aspace_342ef91694af6c73ef93b68c0d7423df" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_5e1cd4fb31582a307a289adfe94c6a3e" parent="aspace_342ef91694af6c73ef93b68c0d7423df" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref107_si7" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Academic Programs</unittitle>
             <unitdate datechar="creation">1952-1977</unitdate>
-            <container id="aspace_4c37cc00fc1db14df43537375d804e80" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_154fb6564bdd298fc3179b125964a414" parent="aspace_4c37cc00fc1db14df43537375d804e80" type="Folder">11</container>
+            <container id="aspace_27e0a0489a250546c0a3160842f3fe33" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_b7e96ee7e492c9ea4ea30ecd5796eaa7" parent="aspace_27e0a0489a250546c0a3160842f3fe33" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref108_2ea" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Committees - Academic Survey Committee (1963-1965)</unittitle>
             <unitdate datechar="creation">1963-1965</unitdate>
-            <container id="aspace_6fd89bea842f2bd220690b4612827546" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9d8bb48bff632d8f35b32e8275eb0315" parent="aspace_6fd89bea842f2bd220690b4612827546" type="Folder">12</container>
+            <container id="aspace_239d32e3f7147ee46cf62738ec2a1bb0" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_63603a77079cfba2270ed428ae216ea2" parent="aspace_239d32e3f7147ee46cf62738ec2a1bb0" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref109_2s7" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Committees - Committee on Grades (1968-1969)</unittitle>
             <unitdate datechar="creation">1968-1969</unitdate>
-            <container id="aspace_507d775c4b713f72faacea4f49f16a2c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_d1657d7fc0380783e41dcbd23444c72e" parent="aspace_507d775c4b713f72faacea4f49f16a2c" type="Folder">13</container>
+            <container id="aspace_be7705bb548ac7f896e39b2c855b3801" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_4e86dc469e703ed824683de59ad70624" parent="aspace_be7705bb548ac7f896e39b2c855b3801" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref110_wo4" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Dean's Office</unittitle>
             <unitdate datechar="creation">1981-2004</unitdate>
-            <container id="aspace_a352fc95b154e7f37ef42adc9c6eff11" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_2712a69510ae632b4c9ef91de7d09d72" parent="aspace_a352fc95b154e7f37ef42adc9c6eff11" type="Folder">14</container>
+            <container id="aspace_3a3139a06ec5a68b1ce4c966387b2712" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_8bf6626a3bdf652e3f9893a951b13b53" parent="aspace_3a3139a06ec5a68b1ce4c966387b2712" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref111_gl2" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Degree Requirements</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_cbcd56ddef17dc2f9911690cd090ef16" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_2b104ce300b9b9f8891e939f87f54ddf" parent="aspace_cbcd56ddef17dc2f9911690cd090ef16" type="Folder">15</container>
+            <container id="aspace_fcb1f63de47d6ebd0c321c86df1564ec" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_f0ba83c1612e9d242fcf61b7fdcfc598" parent="aspace_fcb1f63de47d6ebd0c321c86df1564ec" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref112_kse" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Grading</unittitle>
             <unitdate datechar="creation">1938-1940</unitdate>
-            <container id="aspace_3a8be25794dcc1f6095ca05337169386" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_be058b553c6951173b89954e78ead194" parent="aspace_3a8be25794dcc1f6095ca05337169386" type="Folder">16</container>
+            <container id="aspace_5e73d7cef063d5af5650f90771472168" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_c6128d05e70b1a3ebd4d0b20c347c47f" parent="aspace_5e73d7cef063d5af5650f90771472168" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref113_2e4" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences (1912- ) - Liberal Arts Program</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5b465a292d578e390b568dca1ece1053" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_36ff08feae1cdbc5ea6cb9fb4a7a4f57" parent="aspace_5b465a292d578e390b568dca1ece1053" type="Folder">17</container>
+            <container id="aspace_5b861722a1472c43d81754518b271085" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_7c4c765ab6dc25d1deb6becd3a930a68" parent="aspace_5b861722a1472c43d81754518b271085" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref114_t4u" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences - Peer Advising</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_fca36b0712c0fe53f1d8fae25f9b0b37" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_95746d4aaf5ab50e12e065b655658a47" parent="aspace_fca36b0712c0fe53f1d8fae25f9b0b37" type="Folder">18</container>
+            <container id="aspace_49c4ab589fec582964104d26b9632680" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_24a16d50a4975e18190355cb82cc0196" parent="aspace_49c4ab589fec582964104d26b9632680" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref115_tmr" level="file">
           <did>
             <unittitle>Columbian College of Arts and Sciences, School of - Pre-Medical Courses</unittitle>
             <unitdate datechar="creation">1913</unitdate>
-            <container id="aspace_48e3bdd91be078272581a5b5d27e7870" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_17f65cee908e5f4da79a1c1cacd80d0a" parent="aspace_48e3bdd91be078272581a5b5d27e7870" type="Folder">19</container>
+            <container id="aspace_a7513da95e386e4fdaae780c291fde7c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_577af749a6bea5cc6659533e6252fe3e" parent="aspace_a7513da95e386e4fdaae780c291fde7c" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref116_ul6" level="file">
           <did>
             <unittitle>Columbian College Preparatory School - Catalog, 1881-1882</unittitle>
             <unitdate datechar="creation">1881-1882</unitdate>
-            <container id="aspace_8c4c4a4ad07f20aac94df1062b577036" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_5c3231c108d2c396ca31b3aa93f13911" parent="aspace_8c4c4a4ad07f20aac94df1062b577036" type="Folder">20</container>
+            <container id="aspace_17d4e9e6ed473e1952580ad1f041eee2" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_b3339c62330c2332bdf058f18bb3f47f" parent="aspace_17d4e9e6ed473e1952580ad1f041eee2" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ref117_5fw" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1882-1883</unittitle>
             <unitdate datechar="creation">1882-1883</unitdate>
-            <container id="aspace_22c48a2d4d2a24d66f6a8d14db8f5d4c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_c0edad58bcb497b40f0d1cab94715b88" parent="aspace_22c48a2d4d2a24d66f6a8d14db8f5d4c" type="Folder">21</container>
+            <container id="aspace_f618fd85747d845296975735b3747e31" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_d3d91ac59b534487c80397ffc4ecf19d" parent="aspace_f618fd85747d845296975735b3747e31" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ref118_hy2" level="file">
           <did>
             <unittitle>Columbain College Preparatory School Catalog, 1883-1884</unittitle>
             <unitdate datechar="creation">1883-1884</unitdate>
-            <container id="aspace_c4517eb3264f40c99a7b4fcc52e225ae" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_92bbbec046fbe83f4da11227ba358fc8" parent="aspace_c4517eb3264f40c99a7b4fcc52e225ae" type="Folder">22</container>
+            <container id="aspace_9804b3a5bc91b5fb6f77703399edf394" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_a66c0c7b20a9aae314a73f68ec2327eb" parent="aspace_9804b3a5bc91b5fb6f77703399edf394" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ref119_zwk" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1884-1885</unittitle>
             <unitdate datechar="creation">1884-1885</unitdate>
-            <container id="aspace_718807af452f9c3fb028d3fad2170191" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_8f5b643eae516335371012748a82457a" parent="aspace_718807af452f9c3fb028d3fad2170191" type="Folder">23</container>
+            <container id="aspace_a7c2b280652d287478875b11d803bae3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_18b51489f27ab045f29da08ca4b7a42e" parent="aspace_a7c2b280652d287478875b11d803bae3" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_ref120_f46" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1885-1886</unittitle>
             <unitdate datechar="creation">1885-1886</unitdate>
-            <container id="aspace_5eaec9221fac60f672cfa638edcebba3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_422fa5d223a04600566571d158daf08b" parent="aspace_5eaec9221fac60f672cfa638edcebba3" type="Folder">24</container>
+            <container id="aspace_8629be9ef8faaf211151e97d7b5ba1d6" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_05cf220c974de913d5ccede3d6591afd" parent="aspace_8629be9ef8faaf211151e97d7b5ba1d6" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_ref121_bl3" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1886-1887</unittitle>
             <unitdate datechar="creation">1886-1887</unitdate>
-            <container id="aspace_0893ee410d032b79b950fa0f0fce746d" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_cf0ea6dfe6d62aaeef86ec0de30747ca" parent="aspace_0893ee410d032b79b950fa0f0fce746d" type="Folder">25</container>
+            <container id="aspace_41f0b2684eda0a3acabd9dcb3fb042e9" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_ad384b3f64513bb1228502b704b1cd2f" parent="aspace_41f0b2684eda0a3acabd9dcb3fb042e9" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_ref122_w0g" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1887-1888</unittitle>
             <unitdate datechar="creation">1887-1888</unitdate>
-            <container id="aspace_fd440107e22cff35f0aee45377d1098d" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_8307731dff6f30035caef43f9517d5ed" parent="aspace_fd440107e22cff35f0aee45377d1098d" type="Folder">26</container>
+            <container id="aspace_cccc3bbe0fde30f7e8b8c9b9f4668bf3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_92b94a132510d8b5440be73ee0ece6d1" parent="aspace_cccc3bbe0fde30f7e8b8c9b9f4668bf3" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_ref123_oh4" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1888-1889</unittitle>
             <unitdate datechar="creation">1888-1889</unitdate>
-            <container id="aspace_50e5c45a55d49336c86e208bcd022e2a" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_b7a360b2e9037660fb97bc9a635fa728" parent="aspace_50e5c45a55d49336c86e208bcd022e2a" type="Folder">27</container>
+            <container id="aspace_5180222ff07f4dff7c7169914544f6a1" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_6d33f861736db9c12ef347aec20fd2f8" parent="aspace_5180222ff07f4dff7c7169914544f6a1" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_ref124_tln" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1889-1890</unittitle>
             <unitdate datechar="creation">1889-1890</unitdate>
-            <container id="aspace_35eeb6b2b83469868f1ad52c0f9482f3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_fe34e119ac9ffdb141586a128a84d356" parent="aspace_35eeb6b2b83469868f1ad52c0f9482f3" type="Folder">28</container>
+            <container id="aspace_a31d45ff1d84d87b4dff526fe110968c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_6db92241e8f43b7f13ad49ff36aa66fb" parent="aspace_a31d45ff1d84d87b4dff526fe110968c" type="Folder">28</container>
           </did>
         </c>
         <c id="aspace_ref125_0zl" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1890-1891</unittitle>
             <unitdate datechar="creation">1890-1891</unitdate>
-            <container id="aspace_8e44bb5174421779d829e393010d5f9a" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_eba742c04948218ebdfe3f5552ecff2c" parent="aspace_8e44bb5174421779d829e393010d5f9a" type="Folder">29</container>
+            <container id="aspace_47ae448602c5bf5c5c688d7b231f98b3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_b3a026cb11594fdebc36b5be5985d276" parent="aspace_47ae448602c5bf5c5c688d7b231f98b3" type="Folder">29</container>
           </did>
         </c>
         <c id="aspace_ref126_k73" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1891-1892</unittitle>
             <unitdate datechar="creation">1891-1892</unitdate>
-            <container id="aspace_ec438591ee1596be324e3ffa849bca0c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_fdeaa83ce49e881fa5164e222c6bd212" parent="aspace_ec438591ee1596be324e3ffa849bca0c" type="Folder">30</container>
+            <container id="aspace_6534a3158d575261cf22c78e1b97017a" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_76094bdde400397670693e8a29d0cf1a" parent="aspace_6534a3158d575261cf22c78e1b97017a" type="Folder">30</container>
           </did>
         </c>
         <c id="aspace_ref127_dxs" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1892-1893</unittitle>
             <unitdate datechar="creation">1892-1893</unitdate>
-            <container id="aspace_5b1959c385b63916baa553476cd0ee21" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_f8bee6e4c1ec7768213862006c5a8052" parent="aspace_5b1959c385b63916baa553476cd0ee21" type="Folder">31</container>
+            <container id="aspace_2d1660e5dec6e0ddad718c63e47c1913" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_042780bd8fcafa1643817e4466293fdb" parent="aspace_2d1660e5dec6e0ddad718c63e47c1913" type="Folder">31</container>
           </did>
         </c>
         <c id="aspace_ref128_5qc" level="file">
           <did>
             <unittitle>Columbian College Preparatory School Catalog, 1895-1896</unittitle>
             <unitdate datechar="creation">1895-1896</unitdate>
-            <container id="aspace_8dc969aa4ec4f63174f25b3eaa06007f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_09b6c446fcc3e9efd5d3f925ec8245e3" parent="aspace_8dc969aa4ec4f63174f25b3eaa06007f" type="Folder">32</container>
+            <container id="aspace_65c04d6ccf17bb791dadd2d175cc8ed2" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_a7c93d8258e3d0eaa5d484a436ef58d5" parent="aspace_65c04d6ccf17bb791dadd2d175cc8ed2" type="Folder">32</container>
           </did>
         </c>
         <c id="aspace_ref129_iur" level="file">
           <did>
             <unittitle>Columbian College Preparatory School - Catalog - 1896-1897</unittitle>
             <unitdate datechar="creation">1896-1897</unitdate>
-            <container id="aspace_b937efc8f1daddce2f4a535ae9254cb1" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_ff3952971ff8b8cd4c8cc2cd497976d1" parent="aspace_b937efc8f1daddce2f4a535ae9254cb1" type="Folder">33</container>
+            <container id="aspace_12bb9bdac3eda60e076035ed0cc071f3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_37f25b23021d11d3955b274a09f50497" parent="aspace_12bb9bdac3eda60e076035ed0cc071f3" type="Folder">33</container>
           </did>
         </c>
         <c id="aspace_ref130_rfr" level="file">
           <did>
             <unittitle>Columbian College Preparatory School (1821-1897) - Commencement Programs</unittitle>
             <unitdate datechar="creation">1867-1947</unitdate>
-            <container id="aspace_3db1cb686f82a4b8e8cee29fb18e5c86" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_654565cedc5ac781a008b7fbfc28d3f7" parent="aspace_3db1cb686f82a4b8e8cee29fb18e5c86" type="Folder">34</container>
+            <container id="aspace_0f69c887c00187418119b09df8c4ac79" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_bef911469a223ee3ed665be213f10958" parent="aspace_0f69c887c00187418119b09df8c4ac79" type="Folder">34</container>
           </did>
         </c>
         <c id="aspace_ref131_7dt" level="file">
           <did>
             <unittitle>Columbian College Preparatory School (1821-1897) - Faculty - Richards, Zalmon, (1849-1851)</unittitle>
             <unitdate datechar="creation">1966-1976</unitdate>
-            <container id="aspace_c1a21f11104bb6028d334c73b555d2f6" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_76632eb1ac609c5b433b56ce2aabdb84" parent="aspace_c1a21f11104bb6028d334c73b555d2f6" type="Folder">35</container>
+            <container id="aspace_62eeb00f50aa33a365dbe6628e09aedb" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_f34c3330e987b529c140b90ed525448b" parent="aspace_62eeb00f50aa33a365dbe6628e09aedb" type="Folder">35</container>
           </did>
         </c>
         <c id="aspace_ref132_co1" level="file">
           <did>
             <unittitle>Columbian College Preparatory School (1821-1897) - History</unittitle>
             <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_171ba958d973ec2e08a59bf8ec39983a" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_7c613d763ed7d54b35afb79288240d0b" parent="aspace_171ba958d973ec2e08a59bf8ec39983a" type="Folder">36</container>
+            <container id="aspace_a4bfcc25f5c452a0105ad9727b182326" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_7a17f97937a41df2abd78b12dcf8f09e" parent="aspace_a4bfcc25f5c452a0105ad9727b182326" type="Folder">36</container>
           </did>
         </c>
         <c id="aspace_ref133_wa9" level="file">
           <did>
             <unittitle>Columbian College Preparatory School, (1821-1897) - Library Holdings</unittitle>
             <unitdate datechar="creation">1821-1897</unitdate>
-            <container id="aspace_203c5396213c6fbf050854573e1273fa" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_d59f1628f1e8bb82d74f07dfdfdd46db" parent="aspace_203c5396213c6fbf050854573e1273fa" type="Folder">37</container>
+            <container id="aspace_728a52adba7696672e2755132d31dde3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_6b9364468fd5030178e3dfa0f021f90c" parent="aspace_728a52adba7696672e2755132d31dde3" type="Folder">37</container>
           </did>
         </c>
         <c id="aspace_ref134_e13" level="file">
           <did>
             <unittitle>Columbian College Preparatory School (1821-1897) - Students - Bell, William D.</unittitle>
             <unitdate datechar="creation">2/8/1940-6/27/1940</unitdate>
-            <container id="aspace_d1d1ad82c0d5cf9dd65bf4a46491dfa9" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9b56d077b6623175a8f8d3712f43a395" parent="aspace_d1d1ad82c0d5cf9dd65bf4a46491dfa9" type="Folder">38</container>
+            <container id="aspace_5e0dcde636109c92cf851ea43007eebf" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_bffaa4ef2a07cf6791a48f9f312e86cb" parent="aspace_5e0dcde636109c92cf851ea43007eebf" type="Folder">38</container>
           </did>
         </c>
         <c id="aspace_ref135_1g3" level="file">
           <did>
             <unittitle>Columbian Institute</unittitle>
             <unitdate datechar="creation">1825</unitdate>
-            <container id="aspace_9f4562450a78b11e3e5d70680894581c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_eba55e1a3a49a875d4e2322be619f15c" parent="aspace_9f4562450a78b11e3e5d70680894581c" type="Folder">39</container>
+            <container id="aspace_f4b2486e68880db2460749e9b3ab521a" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_1b18929dbe92fbb418c8249132372ab7" parent="aspace_f4b2486e68880db2460749e9b3ab521a" type="Folder">39</container>
           </did>
         </c>
         <c id="aspace_ref136_a1x" level="file">
           <did>
             <unittitle>Columbian University - Department of Public Health</unittitle>
             <unitdate datechar="creation">1904</unitdate>
-            <container id="aspace_3fa5704fec31990261387d379dc4a7ed" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_ca404c558f9681a9e12b7af5bd7ea851" parent="aspace_3fa5704fec31990261387d379dc4a7ed" type="Folder">40</container>
+            <container id="aspace_d5ba8df66f78ca41bf1007366a450b75" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_baccc69b0c51a3e394ef3f42d99d7363" parent="aspace_d5ba8df66f78ca41bf1007366a450b75" type="Folder">40</container>
           </did>
         </c>
         <c id="aspace_ref137_4gb" level="file">
           <did>
             <unittitle>Columbian Univeristy - Meteorology Courses (Professor Cleveland Abbe)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8bb10a064810ae58502cfe545190b0e3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_c2ec273a5d72eca4e20d805cf27d152d" parent="aspace_8bb10a064810ae58502cfe545190b0e3" type="Folder">41</container>
+            <container id="aspace_542123901c4322f67e1b2212c4a99cce" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_8d3f1082ae5bebb09cc53f7f5a740f33" parent="aspace_542123901c4322f67e1b2212c4a99cce" type="Folder">41</container>
           </did>
         </c>
         <c id="aspace_ref138_cfn" level="file">
           <did>
             <unittitle>Columbian University- Ordinance Providing for the Conduct of the Departments of Medicine and Dentistry and the University Hospital</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8f19c6e8a27f99b1ead83d3779d78fa6" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_b088096f427c77656200b5b8b8717de6" parent="aspace_8f19c6e8a27f99b1ead83d3779d78fa6" type="Folder">42</container>
+            <container id="aspace_5a6d91d78344ba27c4cceecd15f2e9ec" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_4f7b7da70b83c87614fc29cd6a6d211f" parent="aspace_5a6d91d78344ba27c4cceecd15f2e9ec" type="Folder">42</container>
           </did>
         </c>
         <c id="aspace_ref139_64h" level="file">
           <did>
             <unittitle>Community Service - Campus Community Service, 1992</unittitle>
             <unitdate datechar="creation">1992-1993</unitdate>
-            <container id="aspace_cf06d13353bb6ba5b41d61afde0a8e05" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_ace897832ce753bd19c6c07251b4f24c" parent="aspace_cf06d13353bb6ba5b41d61afde0a8e05" type="Folder">43</container>
+            <container id="aspace_061d6f61114da97d4e3444836c0d872f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_0d82089c9d6d62f7a9b1e1714167576e" parent="aspace_061d6f61114da97d4e3444836c0d872f" type="Folder">43</container>
           </did>
         </c>
         <c id="aspace_ref140_e7f" level="file">
           <did>
             <unittitle>Corcoran School of Science and Arts (1884-1903)</unittitle>
             <unitdate datechar="creation">1873-1904</unitdate>
-            <container id="aspace_8b598da760d466b7c240a6eb6c08a422" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_1a496733130c61e217828daab71cd3ce" parent="aspace_8b598da760d466b7c240a6eb6c08a422" type="Folder">44</container>
+            <container id="aspace_9897c890412afb451a2ceec3e25c1781" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_70684dd62176e411100c863b6920ac17" parent="aspace_9897c890412afb451a2ceec3e25c1781" type="Folder">44</container>
           </did>
         </c>
         <c id="aspace_ref141_2jq" level="file">
           <did>
             <unittitle>Degrees, Doctoral - Recipients, 1894-1930 Biographical Information A-I</unittitle>
             <unitdate datechar="creation">1894-1930</unitdate>
-            <container id="aspace_cb9405a3f9f9eeca844fd7afd3da7ca4" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_34f0f5af2c165a384ca527550e106c9a" parent="aspace_cb9405a3f9f9eeca844fd7afd3da7ca4" type="Folder">45</container>
+            <container id="aspace_252fd1a4ae4aa9f2a00d5fc7c97b374b" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_a169aadd7583865fa2e7ee6f5e93b62d" parent="aspace_252fd1a4ae4aa9f2a00d5fc7c97b374b" type="Folder">45</container>
           </did>
         </c>
         <c id="aspace_ref142_5uz" level="file">
           <did>
             <unittitle>Degrees, Doctoral - Recipients, 1894-1930 Biographical Information, J-Z</unittitle>
             <unitdate datechar="creation">1894-1930</unitdate>
-            <container id="aspace_ff72ee5e5e31d3c311bf58b3609c6c45" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_e02bedcf54ae37947868c7eff8791382" parent="aspace_ff72ee5e5e31d3c311bf58b3609c6c45" type="Folder">46</container>
+            <container id="aspace_b31e98235c16dc9b7322df74703140b6" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_94f8d4a91b864a6ffd052298ce7ef4c7" parent="aspace_b31e98235c16dc9b7322df74703140b6" type="Folder">46</container>
           </did>
         </c>
         <c id="aspace_ref143_9w2" level="file">
           <did>
             <unittitle>Degrees - History</unittitle>
             <unitdate datechar="creation">1940 ca.-1990</unitdate>
-            <container id="aspace_2f028ab3538d623145b6e05183dd1e5d" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_423f4a2e40a2ba059e35d29e77bca188" parent="aspace_2f028ab3538d623145b6e05183dd1e5d" type="Folder">47</container>
+            <container id="aspace_71c7cf400ac011ea9f0d337a11b0cadc" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_fc1d33b7f986ff6c46f1c1b9e1e626b1" parent="aspace_71c7cf400ac011ea9f0d337a11b0cadc" type="Folder">47</container>
           </did>
         </c>
         <c id="aspace_ref144_9dx" level="file">
           <did>
             <unittitle>Degrees - History - Ph.D. Program</unittitle>
             <unitdate datechar="creation">1946-1988</unitdate>
-            <container id="aspace_8dbb7d5e2b0e54ee56d23bc721301330" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9ece9f9248e9f37a18962500b0d54d5b" parent="aspace_8dbb7d5e2b0e54ee56d23bc721301330" type="Folder">48</container>
+            <container id="aspace_c26c5730a37238abdce33c84f84ebf09" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_62d4012c3397e444ebf6f3122d5a186f" parent="aspace_c26c5730a37238abdce33c84f84ebf09" type="Folder">48</container>
           </did>
         </c>
         <c id="aspace_ref145_uq7" level="file">
           <did>
             <unittitle>Doctoral Dissertations (1894- )</unittitle>
             <unitdate datechar="creation">1975-1990</unitdate>
-            <container id="aspace_9d0ee2de556efb7293fafa5c02e3ff49" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_0652d56cb1c85af12673a0f33a3895d2" parent="aspace_9d0ee2de556efb7293fafa5c02e3ff49" type="Folder">49</container>
+            <container id="aspace_b9cf01c4047b8f82f5167a30a95e512f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_8254d9e509d16e14287049e35391d932" parent="aspace_b9cf01c4047b8f82f5167a30a95e512f" type="Folder">49</container>
           </did>
         </c>
         <c id="aspace_ref146_wgs" level="file">
           <did>
             <unittitle>Doctoral Programs at GW since World War II</unittitle>
             <unitdate datechar="creation">3/1930-1988</unitdate>
-            <container id="aspace_878b864bb94cdf17c6e9f60b0ee7fe13" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_32b8b4fda2bcee52bc03e8f2d0592a72" parent="aspace_878b864bb94cdf17c6e9f60b0ee7fe13" type="Folder">50</container>
+            <container id="aspace_6239624007a0294b66ea1fbf169332bf" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_dfbcd1fed903fd656f7ee4424815a74d" parent="aspace_6239624007a0294b66ea1fbf169332bf" type="Folder">50</container>
           </did>
         </c>
         <c id="aspace_ref147_equ" level="file">
           <did>
             <unittitle>East Asian Art History Program (1981- )</unittitle>
             <unitdate datechar="creation">11/4/1981</unitdate>
-            <container id="aspace_65947c40946296b999d486f99fa76e4e" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_24314e8afb1ffc37101a85e68877fec6" parent="aspace_65947c40946296b999d486f99fa76e4e" type="Folder">51</container>
+            <container id="aspace_0124d36c307e6ac3db4ef85745e00cd2" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_24a105b29fd4a17151b7f6e92611c92c" parent="aspace_0124d36c307e6ac3db4ef85745e00cd2" type="Folder">51</container>
           </did>
         </c>
         <c id="aspace_ref148_n1j" level="file">
           <did>
             <unittitle>East Asian Language and Literature Department</unittitle>
             <unitdate datechar="creation">1973-1982</unitdate>
-            <container id="aspace_8cc14b645585837702586555de29a448" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_82f8b02d041e7eec67a0b593af44b642" parent="aspace_8cc14b645585837702586555de29a448" type="Folder">52</container>
+            <container id="aspace_c8d5fb0543533dea797ddad24b3840c3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_33edb3dba056c7e6a1c7d186818f3665" parent="aspace_c8d5fb0543533dea797ddad24b3840c3" type="Folder">52</container>
           </did>
         </c>
         <c id="aspace_ref149_coz" level="file">
           <did>
             <unittitle>Economics Department</unittitle>
             <unitdate datechar="creation">1966-1980</unitdate>
-            <container id="aspace_93b98b804a616befb46f129d90339864" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_2bc56799f1be07e40bc724c66e9705dc" parent="aspace_93b98b804a616befb46f129d90339864" type="Folder">53</container>
+            <container id="aspace_7cbfdd1714621e356da56b816f07562c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_2236a6c90b4855a0691353956db1b80f" parent="aspace_7cbfdd1714621e356da56b816f07562c" type="Folder">53</container>
           </did>
         </c>
         <c id="aspace_ref150_d2a" level="file">
           <did>
             <unittitle>Far Eastern Studies</unittitle>
             <unitdate datechar="creation">1968-1976</unitdate>
-            <container id="aspace_388276c66702458ec021f6982a2f6bed" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_050af1915a1a9a39adbc260be121ba08" parent="aspace_388276c66702458ec021f6982a2f6bed" type="Folder">54</container>
+            <container id="aspace_a8f64b4ee0e67d41267df534847a03fa" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_55f896cb8ef712bac4b36436f8bd3367" parent="aspace_a8f64b4ee0e67d41267df534847a03fa" type="Folder">54</container>
           </did>
         </c>
         <c id="aspace_ref151_g0i" level="file">
           <did>
             <unittitle>Film Studies</unittitle>
             <unitdate datechar="creation">1972-1979</unitdate>
-            <container id="aspace_915d957abff04dc02b3bee2f937bebc3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_b83a22432787cbc91c683fd675ce6b18" parent="aspace_915d957abff04dc02b3bee2f937bebc3" type="Folder">55</container>
+            <container id="aspace_b56cdcb04726a1410ee3a48aa0911f17" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_a6bd458c139ef6ce6613d1303bfe9c55" parent="aspace_b56cdcb04726a1410ee3a48aa0911f17" type="Folder">55</container>
           </did>
         </c>
         <c id="aspace_ref152_fyv" level="file">
           <did>
             <unittitle>Foreign Language Study</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8765be993c4f1f2614fbce7c568fd4cb" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_9fe28a45a54ab22251d2702929215712" parent="aspace_8765be993c4f1f2614fbce7c568fd4cb" type="Folder">56</container>
+            <container id="aspace_eecdabde684b62137729754516315906" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_32ef1437aa23077091e2fb3fc09dfdd7" parent="aspace_eecdabde684b62137729754516315906" type="Folder">56</container>
           </did>
         </c>
         <c id="aspace_ref153_rnw" level="file">
           <did>
             <unittitle>Forensic Science, Department of</unittitle>
             <unitdate datechar="creation">1971-1979</unitdate>
-            <container id="aspace_1434c05da7ad4b6bc3a77b23fdfa44c1" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_ec15c5de8100798117608b478cf96932" parent="aspace_1434c05da7ad4b6bc3a77b23fdfa44c1" type="Folder">57</container>
+            <container id="aspace_d92108b5edff634ee7acdd0f406e9810" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_e108189b75bc6b6bfa5552d835ea136d" parent="aspace_d92108b5edff634ee7acdd0f406e9810" type="Folder">57</container>
           </did>
         </c>
         <c id="aspace_ref154_498" level="file">
           <did>
             <unittitle>Geography Department</unittitle>
             <unitdate datechar="creation">1949-1998</unitdate>
-            <container id="aspace_f1257f6466bb8973707cfaac1d264c4f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_8fbaeada4255dba170a048c30eceddec" parent="aspace_f1257f6466bb8973707cfaac1d264c4f" type="Folder">58</container>
+            <container id="aspace_702cb5272be3fd89d4ce55737d3655c3" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_6e1e3e068c376634f66df4645b11d795" parent="aspace_702cb5272be3fd89d4ce55737d3655c3" type="Folder">58</container>
           </did>
         </c>
         <c id="aspace_ref155_4fz" level="file">
           <did>
             <unittitle>Geology Department</unittitle>
             <unitdate datechar="creation">1966-1990</unitdate>
-            <container id="aspace_cd3930d3ca65ca36925facfa44419ef1" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_eb8180df4f4a30a6fcf0a2e4ecf99968" parent="aspace_cd3930d3ca65ca36925facfa44419ef1" type="Folder">59</container>
+            <container id="aspace_3ed2f5e7fab1b7f4e80b4269d716ff3f" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_5668c16dd20cbea76668678174b94882" parent="aspace_3ed2f5e7fab1b7f4e80b4269d716ff3f" type="Folder">59</container>
           </did>
         </c>
         <c id="aspace_ref156_y0z" level="file">
           <did>
             <unittitle>Germanic Languages and Literatures</unittitle>
             <unitdate datechar="creation">1968-1982</unitdate>
-            <container id="aspace_b973b980a81a12986daa95d6a4c0ad3c" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_107f0892364ddd2ef6bd7f63e7207255" parent="aspace_b973b980a81a12986daa95d6a4c0ad3c" type="Folder">60</container>
+            <container id="aspace_5ad13ee74c0cd336dddbf1699460afae" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_c87ab07e63d427eb24fb5a9953b5e3be" parent="aspace_5ad13ee74c0cd336dddbf1699460afae" type="Folder">60</container>
           </did>
         </c>
         <c id="aspace_ref157_j00" level="file">
           <did>
             <unittitle>Graduate School 1865-1900</unittitle>
             <unitdate datechar="creation">1894-9 /28/1899</unitdate>
-            <container id="aspace_1ddd6d0434983df2cd9c6f6b3d01bfa9" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_726e7d8acc9d136781d83036c181b9e5" parent="aspace_1ddd6d0434983df2cd9c6f6b3d01bfa9" type="Folder">61</container>
+            <container id="aspace_89a96b2a1d6048233ca17e5ead0c457b" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_e58b54004c61e15922a72ca260b7d32f" parent="aspace_89a96b2a1d6048233ca17e5ead0c457b" type="Folder">61</container>
           </did>
         </c>
         <c id="aspace_ref158_ia5" level="file">
           <did>
             <unittitle>Graduate Studies - Doctoral Disputations 1894-1918</unittitle>
             <unitdate datechar="creation">6/5/1894-5/20/1918</unitdate>
-            <container id="aspace_82f29ecae6c30b118392e19eaee1e206" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_1b369cf757aaf85e05d4f8ca4fc0f19d" parent="aspace_82f29ecae6c30b118392e19eaee1e206" type="Folder">62</container>
+            <container id="aspace_2fa7267c3ef7de81a4926bf0f5d0cd55" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_63bd5c053853595fc5e9daf5e6f73193" parent="aspace_2fa7267c3ef7de81a4926bf0f5d0cd55" type="Folder">62</container>
           </did>
         </c>
         <c id="aspace_ref159_63t" level="file">
           <did>
             <unittitle>Graduate Studies, School of 1894-1903</unittitle>
             <unitdate datechar="creation">1892-1903</unitdate>
-            <container id="aspace_e1d727cc7f73e7cb58733d1443d4fe67" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_cd6e1aee6e6af4cc2d34c1c6a5936b65" parent="aspace_e1d727cc7f73e7cb58733d1443d4fe67" type="Folder">63</container>
+            <container id="aspace_a0f3383f0bcf9c7ea40cfaadf9182396" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_77bc5bff7e536ae849152106b326cc4a" parent="aspace_a0f3383f0bcf9c7ea40cfaadf9182396" type="Folder">63</container>
           </did>
         </c>
         <c id="aspace_ref160_cep" level="file">
           <did>
             <unittitle>Graduate Studies, School of - History</unittitle>
             <unitdate datechar="creation">1895-1967</unitdate>
-            <container id="aspace_9620671b298a22c5588e1c0f2314bd72" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_712ac93cb89fd15d6d1181e50b1b2a04" parent="aspace_9620671b298a22c5588e1c0f2314bd72" type="Folder">64</container>
+            <container id="aspace_ad2cdcca058dbd00570274c7eb7adbd0" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_cb13dfaf296549296a64fae41f741137" parent="aspace_ad2cdcca058dbd00570274c7eb7adbd0" type="Folder">64</container>
           </did>
         </c>
         <c id="aspace_ref161_4th" level="file">
           <did>
             <unittitle>History of GW 1851-1900</unittitle>
             <unitdate datechar="creation">4/25/1873-1860</unitdate>
-            <container id="aspace_f83b6107b7d37a7d80e97fdab5b350d4" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
-            <container id="aspace_a19df4f9b5b083f3f0d40ce15927f035" parent="aspace_f83b6107b7d37a7d80e97fdab5b350d4" type="Folder">65</container>
+            <container id="aspace_b88e2c8bec75a49ba454cb95127f1a14" label="Mixed Materials [Series 9 GW: 32882017679385]" type="Box">1</container>
+            <container id="aspace_0dc6f227ed9cf8fe1747432ea18dc654" parent="aspace_b88e2c8bec75a49ba454cb95127f1a14" type="Folder">65</container>
           </did>
         </c>
       </c>
@@ -1209,7 +1208,7 @@
           <unitdate datechar="creation" normal="2008/2009" type="inclusive">September 2008-20 January 2009</unitdate>
           <physdesc id="aspace_c8b28c0f634c68b5249f517aa488a783">Piece of the Columbian College of Arts and Sciences' float for President Barack Obama's Inaugural Parade. Multi-colored painted canvas, approximately 7 ft. x 8 ft., with lioness and cub from the CCAS and music notation for GW's Alma Mater. Canvas stretched on wooden frame.</physdesc>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_3f76c18b066f1d3da1212d26f93714b8" label="Graphic Materials" type="object">1</container>
+          <container id="aspace_74347b398cf5afcc07d9f38b73708c1a" label="Graphic Materials" type="object">1</container>
         </did>
         <controlaccess>
           <persname rules="aacr" source="naf">Obama, Barack, President</persname>

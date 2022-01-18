@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/852">ms2391.xml</eadid>
@@ -21,7 +20,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:55:12 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:13:08 -0500</date>.</creation>
       <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -108,8 +107,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Collecion Fotographias, Dr Louis Schapiro, 1904-1907, Tomo 1 </unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1904/1907" type="inclusive">1907-1907</unitdate>
-          <container id="aspace_b94a6c9adb36cbfca1054acf8e83a31c" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_29c88a0e177ffc6edd70489f91f780d1" parent="aspace_b94a6c9adb36cbfca1054acf8e83a31c" type="object">1</container>
+          <container id="aspace_cb2990e6c1a65ad3916e4c31b7e31748" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_0727adc79a0772189eeedb17a760e486" parent="aspace_cb2990e6c1a65ad3916e4c31b7e31748" type="object">1</container>
         </did>
       </c>
       <c id="aspace_c176f6013cf9552dbba5f42b2cd47942" level="file">
@@ -117,8 +116,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Collection Fotographias Dr. Louis Schapiro, 1907-1910</unittitle>
           <unitid>Ms2391</unitid>
           <unitdate datechar="creation" normal="1909/1913" type="inclusive">1909-1913</unitdate>
-          <container id="aspace_90d129f831c44abfb4a6dd7cde0a6d42" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_8eba669061976db557cdd3d7443b3921" parent="aspace_90d129f831c44abfb4a6dd7cde0a6d42" type="object">2</container>
+          <container id="aspace_a2e8bbcff81726e26b23004c7a83c880" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_8e540af4e0ec33dc583200c7792fadb0" parent="aspace_a2e8bbcff81726e26b23004c7a83c880" type="object">2</container>
         </did>
         <odd id="aspace_d0f5a23500cb62dec5200357117da978">
           <head>General</head>
@@ -130,8 +129,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Correspondencia, Dr Louis Schapiro, 1913-1930 </unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1916/1937" type="inclusive">1916-1937</unitdate>
-          <container id="aspace_7cbd496e27ba056f8edd72036ad9b7a0" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_439d38cffcf772993492fe9e89a4e834" parent="aspace_7cbd496e27ba056f8edd72036ad9b7a0" type="object">3</container>
+          <container id="aspace_948312d7611a6e837e05f0f1fd49a85a" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_8c345b3b23eef1a2d372bef11f527917" parent="aspace_948312d7611a6e837e05f0f1fd49a85a" type="object">3</container>
         </did>
       </c>
       <c id="aspace_aca9dc18f6d0ea55d333e56e13d7bb3f" level="file">
@@ -139,16 +138,16 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Memorias 1930-1932, Dr. Louis Schapiro </unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1930/1931" type="inclusive">1930-1931</unitdate>
-          <container id="aspace_424c59eaadb478a7ed8cd57fcf7ffe30" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_7ec94b731d627c6b60177356a5c8fcd5" parent="aspace_424c59eaadb478a7ed8cd57fcf7ffe30" type="object">4</container>
+          <container id="aspace_ed07e7505fb5ef5ad7c6c871c00f60c9" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_b4aca68b3c46bbc1c6cba51b18adf40f" parent="aspace_ed07e7505fb5ef5ad7c6c871c00f60c9" type="object">4</container>
         </did>
       </c>
       <c id="aspace_9d49d2030ce0ca82e153f696f4f686d8" level="file">
         <did>
           <unittitle>Recuerdos Amargos Julio 12 Al 15 1959, Dr. Mark M. Schapiro</unittitle>
           <unitdate datechar="creation" normal="1959/1961" type="inclusive">1959-1961</unitdate>
-          <container id="aspace_b3d6ae381d79582f0f0c4c623d688a79" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_08822f244a07845debe2d8f9e2065931" parent="aspace_b3d6ae381d79582f0f0c4c623d688a79" type="object">5</container>
+          <container id="aspace_dbf320b2604cc71d6abcaa5a46c0fa96" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_1a8b2149f394259412ae3fbc9c9db148" parent="aspace_dbf320b2604cc71d6abcaa5a46c0fa96" type="object">5</container>
         </did>
         <odd id="aspace_cc7f2b9fb02104de1e6c724e0f57c0ae">
           <head>General</head>
@@ -160,8 +159,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Schapiro Exhibit</unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_4e47af058e40c4522ac7c0c77b820de2" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_7b25b21445e735a9868b3a10880c0b3c" parent="aspace_4e47af058e40c4522ac7c0c77b820de2" type="Folder">6</container>
+          <container id="aspace_75ded5463a847883f85c5f750e76d94c" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_64f5c5ddfe4784c806a16e3195d9f8fd" parent="aspace_75ded5463a847883f85c5f750e76d94c" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_73fdd81641af650091b88e856bd5584d" level="file">
@@ -169,8 +168,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Negatives</unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_d58ab63f01d2ce861083e1974fce851f" label="Mixed Materials [32882020163294]" type="Box">1</container>
-          <container id="aspace_77583a1bfd0632c7bb8ceb253c5cb3f8" parent="aspace_d58ab63f01d2ce861083e1974fce851f" type="Folder">7</container>
+          <container id="aspace_d44b657f3cfd9028649b56dfc6cb5dec" label="Mixed Materials [32882020163294]" type="Box">1</container>
+          <container id="aspace_1fcdec823582d9412787bd259f0413ff" parent="aspace_d44b657f3cfd9028649b56dfc6cb5dec" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_668e521f26902163a1f8b545e9e5dd91" level="file">
@@ -178,8 +177,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Scrapbook</unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1905/1942" type="inclusive">1905-1942</unitdate>
-          <container id="aspace_45402512202752357854d03db9636e3d" label="Mixed Materials [32882022397866]" type="Box">2</container>
-          <container id="aspace_2909e183e217249581d7e19a31ecd803" parent="aspace_45402512202752357854d03db9636e3d" type="object">1</container>
+          <container id="aspace_04a72c75f22f2ae44d64c0b139dd21d1" label="Mixed Materials [32882022397866]" type="Box">2</container>
+          <container id="aspace_ccc71da6fb95ac44f5e1d4d69d210dc0" parent="aspace_04a72c75f22f2ae44d64c0b139dd21d1" type="object">1</container>
         </did>
       </c>
       <c id="aspace_98b2afd700c32083214c2424a908cc3f" level="file">
@@ -187,8 +186,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Scrapbook</unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1932/1932">1932</unitdate>
-          <container id="aspace_d7490e24d72551bb474ab283f18dda30" label="Mixed Materials [32882022397866]" type="Box">2</container>
-          <container id="aspace_22d258fc2c73566f87d30aa4f5d150a9" parent="aspace_d7490e24d72551bb474ab283f18dda30" type="object">2</container>
+          <container id="aspace_7d0fc210da2c88c12ea10b59ae40ae34" label="Mixed Materials [32882022397866]" type="Box">2</container>
+          <container id="aspace_475247c3c96d677677e1c98b5b25eacc" parent="aspace_7d0fc210da2c88c12ea10b59ae40ae34" type="object">2</container>
         </did>
       </c>
       <c id="aspace_e7f9dcf30aa5abe0f407d456878779b8" level="file">
@@ -196,8 +195,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Coleccion Particular 1930-1960, Tomo 2, Mark M. Schapiro </unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1909/1960" type="inclusive">1909-1960</unitdate>
-          <container id="aspace_ee0f65814a3595240ea607c10ee555ba" label="Mixed Materials [32882020163393]" type="Box">3</container>
-          <container id="aspace_97ea5e0d55af8191852351db5b3e6afc" parent="aspace_ee0f65814a3595240ea607c10ee555ba" type="object">1</container>
+          <container id="aspace_40bc29e1475ad13861f65002cc1b6dd1" label="Mixed Materials [32882020163393]" type="Box">3</container>
+          <container id="aspace_12dbdbf594e0fc4fb09175a1e4e61add" parent="aspace_40bc29e1475ad13861f65002cc1b6dd1" type="object">1</container>
         </did>
       </c>
       <c id="aspace_d5543eac46cc5c4404d4961b72dbfd53" level="file">
@@ -205,8 +204,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Coleccion Particular 1930-1960, Tomo 1,  Mark M. Schapiro</unittitle>
           <unitid>MS2391</unitid>
           <unitdate datechar="creation" normal="1930/1960" type="inclusive">1930-1960</unitdate>
-          <container id="aspace_8722019e894734c88c649d8895633b7b" label="Mixed Materials [32882020163336]" type="Box">4</container>
-          <container id="aspace_3573f69ccd15105e911b749c9f386552" parent="aspace_8722019e894734c88c649d8895633b7b" type="object">1</container>
+          <container id="aspace_4294bc58cb5fb941e8cb9a1254a16600" label="Mixed Materials [32882020163336]" type="Box">4</container>
+          <container id="aspace_7345718072fd067dbaa7c0a53d9a29f6" parent="aspace_4294bc58cb5fb941e8cb9a1254a16600" type="object">1</container>
         </did>
       </c>
     </dsc>

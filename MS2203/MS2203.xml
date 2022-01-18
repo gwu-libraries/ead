@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2203.xml">ms2203.xml</eadid>
@@ -24,7 +23,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:41:27 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:00:12 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -96,7 +95,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>18 Months</unittitle>
           <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
           <langmaterial id="aspace_851d5e24f8c0cd6be06a46ebfb9d8dc8">Slovenian</langmaterial>
-          <container id="aspace_68cd7e9d7de064eb9d68219be8f82d60" label="Graphic Materials [32882019223513]" type="map-folder">1</container>
+          <container id="aspace_dd4a33c5042a2c3fb446cca1f11d95e0" label="Graphic Materials [32882019223513]" type="map-folder">1</container>
         </did>
         <odd id="aspace_f6ca75e3d31cc77d687153aca162bf61">
           <head>Language of Material</head>
@@ -108,8 +107,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>20 May - Now or Never:  Down with Communism!</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_e05bfd6d8a8da723186fd5887cd733fe">Romanian</langmaterial>
-          <container id="aspace_3984df5ed7a54f57c25b959edee7c5ce" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_17a1424269fa80e0e3c6392ad27954e4" parent="aspace_3984df5ed7a54f57c25b959edee7c5ce" type="Folder">1</container>
+          <container id="aspace_20e1ec605197582443f4eb8f7af73362" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_c983be1ca465fc5246426561089574b6" parent="aspace_20e1ec605197582443f4eb8f7af73362" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_ref16_xj9" level="file">
@@ -117,8 +116,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>21 August - Day of Russian Freedom</unittitle>
           <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
           <langmaterial id="aspace_9be6f8b51ae608131f6321675aa6d005">Russian</langmaterial>
-          <container id="aspace_6c1e9d2f2951affbe8507830c0f95823" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_327c7c080c8674ed11e833e348c3c904" parent="aspace_6c1e9d2f2951affbe8507830c0f95823" type="Folder">2</container>
+          <container id="aspace_afe2089af6545825106cfda8a982e141" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_5185f74e988ceb2bc49c1da373c87a69" parent="aspace_afe2089af6545825106cfda8a982e141" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref18_n02" level="file">
@@ -126,8 +125,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>45 Years is Enough!</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_1a0cad7bba95b230d3a878be5ace7fb6">Russian</langmaterial>
-          <container id="aspace_948a31e4e6578ef09b794b2cd6624a59" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_8f767de9e6701a630a6273bd0677fdac" parent="aspace_948a31e4e6578ef09b794b2cd6624a59" type="Folder">3</container>
+          <container id="aspace_55a585a88fbb8e26a691d6420b4ce938" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_5e3fea8825050830684965ac01fd6560" parent="aspace_55a585a88fbb8e26a691d6420b4ce938" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref123_9wr" level="file">
@@ -135,7 +134,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>301</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_c61a58c8bdf6b22dcd7542fc2127ce2a">Hungarian</langmaterial>
-          <container id="aspace_16fe0c5b8800dd7ddb976d2563b1cfd5" label="Graphic Materials [32882019223414]" type="map-folder">2</container>
+          <container id="aspace_4ee64c217546843edfc3afb4682c5040" label="Graphic Materials [32882019223414]" type="map-folder">2</container>
         </did>
       </c>
       <c id="aspace_ref20_u5q" level="file">
@@ -143,8 +142,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>A Correct Understanding of the Past Means a More Secure Path to the Future</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_91a41d38b5f46c9747acaa69eb7171e7">Russian</langmaterial>
-          <container id="aspace_460825c1316ca406eb5ca63795d5cac8" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_a1aaf5708323d0a27d0b6048224f016b" parent="aspace_460825c1316ca406eb5ca63795d5cac8" type="Folder">4</container>
+          <container id="aspace_4f0c4f6b971a3fb70eeb64cffa196151" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_5c3ccfe92e33ff63e34251c2f07fb939" parent="aspace_4f0c4f6b971a3fb70eeb64cffa196151" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref127_wyu" level="file">
@@ -152,7 +151,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>A Minor Apocalypse</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_e104a012aff8ef3c2ab3d7e6be3dc833">Polish</langmaterial>
-          <container id="aspace_f1c3df9d0bed75b32254b546d13caccb" label="Graphic Materials [32882019223505]" type="map-folder">3</container>
+          <container id="aspace_bfeb06410d5d8f678e51645b478b9140" label="Graphic Materials [32882019223505]" type="map-folder">3</container>
         </did>
       </c>
       <c id="aspace_ref129_1rz" level="file">
@@ -160,7 +159,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Against Pig-Headedness and Corruption</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_b45c5c0456de45c1059c4c1df2e62b91">German</langmaterial>
-          <container id="aspace_5a41c1b8aad49562911d4cd7ff1a5e3a" label="Graphic Materials [32882019223497]" type="map-folder">4</container>
+          <container id="aspace_bc9b92cb6078e01d2ba71ec4a3d132d5" label="Graphic Materials [32882019223497]" type="map-folder">4</container>
         </did>
       </c>
       <c id="aspace_ref131_exo" level="file">
@@ -168,7 +167,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Armenian National Movement</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_f78683308099c838bee7793e64cb0d6a">Armenian</langmaterial>
-          <container id="aspace_dff0a756ad64a3101d65a9fb1cec208f" label="Graphic Materials [32882019223489]" type="map-folder">5</container>
+          <container id="aspace_ece86d4950b46eb98a86a1b4e2915bed" label="Graphic Materials [32882019223489]" type="map-folder">5</container>
         </did>
       </c>
       <c id="aspace_ref133_brh" level="file">
@@ -176,7 +175,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Armenian National Movement</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_c24f7a1bb09f4cc85a0972b4a4454be5">Armenian</langmaterial>
-          <container id="aspace_74dc9856f381f669f142176e16c65000" label="Graphic Materials [32882019223471]" type="map-folder">6</container>
+          <container id="aspace_6c3f03fa6bdcf1bd05def6962f914ff2" label="Graphic Materials [32882019223471]" type="map-folder">6</container>
         </did>
       </c>
       <c id="aspace_ref135_9n2" level="file">
@@ -184,15 +183,15 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Baltic States Calendar</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_d245451d30a6d14a79325d00b679da69">Latvian</langmaterial>
-          <container id="aspace_370f7132f8864b038b4f79f19d6d8c81" label="Graphic Materials [32882019223422]" type="map-folder">7</container>
+          <container id="aspace_a57374f2b8ff949340843371f5438adb" label="Graphic Materials [32882019223422]" type="map-folder">7</container>
         </did>
       </c>
       <c id="aspace_ref21_g9e" level="file">
         <did>
           <unittitle>Barbed Wire Microphone</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-          <container id="aspace_8af5e75504cd54c4b47e1ebdce144a09" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_aa5c741ab0de7e673b1a6100646046e7" parent="aspace_8af5e75504cd54c4b47e1ebdce144a09" type="Folder">5</container>
+          <container id="aspace_f204cdcf147280b4597cc991e222428b" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_b4931732fce94221581d1a3e59f9c97e" parent="aspace_f204cdcf147280b4597cc991e222428b" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref23_3mh" level="file">
@@ -200,8 +199,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Berlin, 9 November 1989</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_980943a538c3aadb6c7f1bfb9780165a">German</langmaterial>
-          <container id="aspace_7784ec5e1a233ee5c4efe83f55c2cd46" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_6b43ca030ad60a7eabe01313c07f6e9a" parent="aspace_7784ec5e1a233ee5c4efe83f55c2cd46" type="Folder">6</container>
+          <container id="aspace_7006acfa1b249163f0e47bee1448b694" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_bd2a408089477b595ce79cb1ef167ab6" parent="aspace_7006acfa1b249163f0e47bee1448b694" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref137_02i" level="file">
@@ -209,7 +208,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>The Century of Pasternak</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_ca50adcc003bc47f7bcea52a5c4f04d3">Russian</langmaterial>
-          <container id="aspace_60b7161b1287555e3e89e1c51fdb5a37" label="Graphic Materials [32882019223430]" type="map-folder">8</container>
+          <container id="aspace_2d0d02b36f0a86c816b36c6880eb155c" label="Graphic Materials [32882019223430]" type="map-folder">8</container>
         </did>
       </c>
       <c id="aspace_ref139_y05" level="file">
@@ -217,7 +216,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Chinese Communism</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_028768a22a6f64a50d8901d80454f35d">Chinese</langmaterial>
-          <container id="aspace_50b986473f256a74979c3516fb70d255" label="Graphic Materials [32882019223448]" type="map-folder">9</container>
+          <container id="aspace_72574e772dd6d49f40439f9ff2f673ea" label="Graphic Materials [32882019223448]" type="map-folder">9</container>
         </did>
       </c>
       <c id="aspace_ref141_dm8" level="file">
@@ -225,7 +224,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Citizens for Citizens</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_81490c4b7309c9fb5e4860c841fbc3b8">German</langmaterial>
-          <container id="aspace_517c026d29dc7f33cdebc362e943e599" label="Graphic Materials [32882019223455]" type="map-folder">10</container>
+          <container id="aspace_769d1b9841fc817c4421c5b4ece99bdb" label="Graphic Materials [32882019223455]" type="map-folder">10</container>
         </did>
       </c>
       <c id="aspace_ref143_qfk" level="file">
@@ -233,7 +232,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"...Climb Down and Get to Work!"</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_0a0ff09f76a06882761203ac76366faf">Czech</langmaterial>
-          <container id="aspace_41ee60145953b14fd2ec3685d949c3b1" label="Graphic Materials [32882019223463]" type="map-folder">11</container>
+          <container id="aspace_6496479345a95a341654fbbf3d738892" label="Graphic Materials [32882019223463]" type="map-folder">11</container>
         </did>
       </c>
       <c id="aspace_ref145_zoq" level="file">
@@ -241,7 +240,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Congress of People's Deputies</unittitle>
           <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
           <langmaterial id="aspace_006cd6a87d618ad8649e19549a5ac74a">Russian</langmaterial>
-          <container id="aspace_f134fbdea757806652cb1bcebc0284a7" label="Graphic Materials [32882019223836]" type="map-folder">12</container>
+          <container id="aspace_49c433b15140106d594bf6f8aaed6c3e" label="Graphic Materials [32882019223836]" type="map-folder">12</container>
         </did>
       </c>
       <c id="aspace_ref25_vg1" level="file">
@@ -249,8 +248,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Croatian Democratic Union</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_daf331f3a3d4b7157ce757cd5abe6936">Croatian</langmaterial>
-          <container id="aspace_ed49efa27dafffa70c4dfab3ce4c8afc" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_bc7c206077ef1b10344dae04d7661689" parent="aspace_ed49efa27dafffa70c4dfab3ce4c8afc" type="Folder">7</container>
+          <container id="aspace_f2b1130d32d3d5629bc315e660079a09" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_5d39c7cd2a2a832e90823d2782e32b05" parent="aspace_f2b1130d32d3d5629bc315e660079a09" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref27_6fs" level="file">
@@ -258,8 +257,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Croatian Democratic Union</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_2deefb4d327e282874cf1f2daacdf38a">Croatian</langmaterial>
-          <container id="aspace_741647ba6321b0d0b55e04b8ae03d2ab" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_97450be10c2629b0cb532e35d850bb8f" parent="aspace_741647ba6321b0d0b55e04b8ae03d2ab" type="Folder">8</container>
+          <container id="aspace_5d495df40f82161c79d905bfb4c0e300" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_467a790e477f875c207f0681532b02b3" parent="aspace_5d495df40f82161c79d905bfb4c0e300" type="Folder">8</container>
         </did>
       </c>
       <c id="aspace_ref29_9to" level="file">
@@ -267,8 +266,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Dialogue?</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_bc0f39f66395b4215ba38f93c23003f9">Armenian</langmaterial>
-          <container id="aspace_c88338a7d0cb1b2747e33735a82d6f63" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_b817eaea2c8c3c7892a3405503b99d05" parent="aspace_c88338a7d0cb1b2747e33735a82d6f63" type="Folder">9</container>
+          <container id="aspace_945514e2b919e3475ea31ef6f7c35570" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_64afd08f2c265f80dacced579ccd5a6e" parent="aspace_945514e2b919e3475ea31ef6f7c35570" type="Folder">9</container>
         </did>
       </c>
       <c id="aspace_ref31_ir0" level="file">
@@ -276,8 +275,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Don't Whistle</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_183cf84947228d22f7d827a9d1016989">Russian</langmaterial>
-          <container id="aspace_1a6ecd5bad4430c55bc2b7e737bbe9fa" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_00281b1f1729515325c05ff39d416fee" parent="aspace_1a6ecd5bad4430c55bc2b7e737bbe9fa" type="Folder">10</container>
+          <container id="aspace_f4d054790db83a2548bbcf6528912ff5" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_c4cf9c45e661eb3a49446459c4dea41a" parent="aspace_f4d054790db83a2548bbcf6528912ff5" type="Folder">10</container>
         </did>
       </c>
       <c id="aspace_ref33_3va" level="file">
@@ -285,8 +284,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Durchbruch '90</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_31968a9db8c6bc79632aff8e69ba0d3e">German</langmaterial>
-          <container id="aspace_d7119c51fd6ff9a7d3e46716820582d2" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_50594e50a6d5345be3f538350a124e5e" parent="aspace_d7119c51fd6ff9a7d3e46716820582d2" type="Folder">11</container>
+          <container id="aspace_7f2ca2b42d2f254ea917a0bd6c3da395" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_688b2c615d4716c492e5746a9e78811a" parent="aspace_7f2ca2b42d2f254ea917a0bd6c3da395" type="Folder">11</container>
         </did>
       </c>
       <c id="aspace_ref147_zze" level="file">
@@ -294,7 +293,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Entire Power to the Soviets!</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_49e527cb1c0b632d09cea1c423047f75">Russian</langmaterial>
-          <container id="aspace_06f0072004665b2db9c86e21d1227fee" label="Graphic Materials [32882019224081]" type="map-folder">13</container>
+          <container id="aspace_e0ac1e63770bdab967e8ff2d8ec0db4f" label="Graphic Materials [32882019224081]" type="map-folder">13</container>
         </did>
       </c>
       <c id="aspace_ref35_gv9" level="file">
@@ -302,8 +301,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>European Liberals/National Liberal Party</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_f266511680539d7dfc2cc8b3786ed4c6">Dutch and Romanian (two sided poster)</langmaterial>
-          <container id="aspace_c5f181e004e471f21c63d1d21579d980" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_97d6cb5b29d70a98ff1c956f7454d1dd" parent="aspace_c5f181e004e471f21c63d1d21579d980" type="Folder">12</container>
+          <container id="aspace_d5a59a909803bacc06be55231eb932de" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_e18a01f9cc317437b8c470525401a95c" parent="aspace_d5a59a909803bacc06be55231eb932de" type="Folder">12</container>
         </did>
       </c>
       <c id="aspace_ref37_kn9" level="file">
@@ -311,8 +310,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>First Congress of the Socialist Party of Serbia United Congress</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_99fc9d0502cea0aafb17f573bb607987">Serbian</langmaterial>
-          <container id="aspace_1ab35e1dc76b2df29c8dc786d3c19361" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_4f230ba7afc39721a833f383be142a22" parent="aspace_1ab35e1dc76b2df29c8dc786d3c19361" type="Folder">13</container>
+          <container id="aspace_c2f18c0964ff2e5b2cddbd69c1d5cdf8" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_2a1c8d469239da3bc9e16d4c5e18f0c9" parent="aspace_c2f18c0964ff2e5b2cddbd69c1d5cdf8" type="Folder">13</container>
         </did>
       </c>
       <c id="aspace_ref149_pm4" level="file">
@@ -320,7 +319,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>For I Love Serbia</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_64a80558e8d3f1b6807c73c8c5188576">Serbian</langmaterial>
-          <container id="aspace_e6d04c718300221b3358125411cd1aa5" label="Graphic Materials [32882019224073]" type="map-folder">14</container>
+          <container id="aspace_9e12b2889dce7a02ec176cc7ee283b6a" label="Graphic Materials [32882019224073]" type="map-folder">14</container>
         </did>
       </c>
       <c id="aspace_ref39_4m3" level="file">
@@ -328,8 +327,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>For Movement - For Lithuania</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_a2349074325a732532eb9318d35585c1">Lithuanian</langmaterial>
-          <container id="aspace_68dd0d83ac949bfab5a56756d249bee7" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_a6105eda416db2d433f7e57a1433a806" parent="aspace_68dd0d83ac949bfab5a56756d249bee7" type="Folder">14</container>
+          <container id="aspace_a2f558ab75f6247635c4424efa6f9b24" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_e9d9a0578e28836feeea86b58c5b3b4e" parent="aspace_a2f558ab75f6247635c4424efa6f9b24" type="Folder">14</container>
         </did>
       </c>
       <c id="aspace_ref41_lrf" level="file">
@@ -337,8 +336,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>For Them We Already "Voted"</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_5f8cf3e2791ef4ca724d8650c70846f8">Lithuanian</langmaterial>
-          <container id="aspace_df586755e4b41e45ddf23473f11a2dac" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_460679076a6136294d869d429dd5f6eb" parent="aspace_df586755e4b41e45ddf23473f11a2dac" type="Folder">15</container>
+          <container id="aspace_4c7908b1bcdf729052e799c8ab45493d" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_50d41460cdbc1641cd12748b4ee6cba3" parent="aspace_4c7908b1bcdf729052e799c8ab45493d" type="Folder">15</container>
         </did>
       </c>
       <c id="aspace_ref43_mut" level="file">
@@ -346,8 +345,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>The Free Choice</unittitle>
           <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
           <langmaterial id="aspace_ed3d9376acd9b4e9ae187e1570fd8549">German</langmaterial>
-          <container id="aspace_f96524e497f4cc970c72357080c05872" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_fbf618c1c10c3aef4bfab7102c23cc75" parent="aspace_f96524e497f4cc970c72357080c05872" type="Folder">16</container>
+          <container id="aspace_df11665faae384c764673bdaecd9f364" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_7613a559bcfbc6a7cedab9611abdbba1" parent="aspace_df11665faae384c764673bdaecd9f364" type="Folder">16</container>
         </did>
       </c>
       <c id="aspace_ref45_gxp" level="file">
@@ -355,8 +354,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Free.  Romania, December 1989</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_1048f1e8684e96885c069a28bae6c5fe">Romanian</langmaterial>
-          <container id="aspace_e94a05466d7e1ecc8a2faec736893bdd" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_55c0bc4b5c2748941cf7c032881d78e2" parent="aspace_e94a05466d7e1ecc8a2faec736893bdd" type="Folder">17</container>
+          <container id="aspace_93bcb7130773bf8e2acf411fb433b593" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_f6b588c51b709811c4456aad36870e90" parent="aspace_93bcb7130773bf8e2acf411fb433b593" type="Folder">17</container>
         </did>
       </c>
       <c id="aspace_ref47_qc7" level="file">
@@ -364,8 +363,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Glasnost and the Ecology</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_a3eb947b99308669227680daa8866cf0">Russian</langmaterial>
-          <container id="aspace_f5f4cb3a04acd7f709e51e0faee357b8" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_da4c8abc3e7bb2f008dda4afcce533c5" parent="aspace_f5f4cb3a04acd7f709e51e0faee357b8" type="Folder">18</container>
+          <container id="aspace_57f070716c10231a164ab0886cbf4a85" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_d8775caad01fe8379718c27f0da41291" parent="aspace_57f070716c10231a164ab0886cbf4a85" type="Folder">18</container>
         </did>
       </c>
       <c id="aspace_ref151_8bt" level="file">
@@ -373,7 +372,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Goodbye, Comrade...</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_221f9e6b7abfb396dd1eb88e531282e3">Romanian</langmaterial>
-          <container id="aspace_1b46c9bcb840eec5db0c60e504db2f4e" label="Graphic Materials [32882019223828]" type="map-folder">15</container>
+          <container id="aspace_9ea7d6ee442980e8675e96b09d3b43b9" label="Graphic Materials [32882019223828]" type="map-folder">15</container>
         </did>
       </c>
       <c id="aspace_ref153_w0r" level="file">
@@ -381,7 +380,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Goodbye, Comrade...</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_d6fec5c9d730526689818d9f6ad23e12">Romanian</langmaterial>
-          <container id="aspace_67279f25015d0b7ba3a252e072f100a9" label="Graphic Materials [32882019224065]" type="map-folder">16</container>
+          <container id="aspace_ac782a09d6d7afa77d980c86590b43c1" label="Graphic Materials [32882019224065]" type="map-folder">16</container>
         </did>
       </c>
       <c id="aspace_ref49_zff" level="file">
@@ -389,8 +388,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Gorbachev, Mikhail Sergeevich</unittitle>
           <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
           <langmaterial id="aspace_7481fe8887c06e4d364d2124d81cb66a">Russian</langmaterial>
-          <container id="aspace_72c239bb0a44d2a9b0180490548d059a" label="Graphic Materials [32882019751786]" type="Box">1</container>
-          <container id="aspace_e58e8416e5c59fbb53b05e7e32c555c1" parent="aspace_72c239bb0a44d2a9b0180490548d059a" type="Folder">19</container>
+          <container id="aspace_e1a7ed4b00a6db2f20b084ad8568edc5" label="Graphic Materials [32882019751786]" type="Box">1</container>
+          <container id="aspace_e55f4f98a463ecddfcd3e5872ae2d329" parent="aspace_e1a7ed4b00a6db2f20b084ad8568edc5" type="Folder">19</container>
         </did>
       </c>
       <c id="aspace_ref155_hpf" level="file">
@@ -398,14 +397,14 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Great Socialist October Revolution</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_21850caa03cbc29b552b0b1e530a04d6">Estonian</langmaterial>
-          <container id="aspace_e57d3fad4194d5acb5c2673a5e85e5d4" label="Graphic Materials [32882019223810]" type="map-folder">17</container>
+          <container id="aspace_0882128b7dbd2d62fb6423c57cc0412e" label="Graphic Materials [32882019223810]" type="map-folder">17</container>
         </did>
       </c>
       <c id="aspace_ref156_1dv" level="file">
         <did>
           <unittitle>Hammer and Sickle Cartoon</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_1aadb32657fabcfcee3f0917ee7477d5" label="Graphic Materials [32882019224057]" type="map-folder">18</container>
+          <container id="aspace_047ecafdb17ced2199ae612b790aae39" label="Graphic Materials [32882019224057]" type="map-folder">18</container>
         </did>
       </c>
       <c id="aspace_ref158_n4u" level="file">
@@ -413,7 +412,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Hold Together!</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_80dd91a282104b82ed7c415231437a96">Estonian</langmaterial>
-          <container id="aspace_78ca16333675fb2904aa9a77d5fe2080" label="Graphic Materials [32882019223802]" type="map-folder">19</container>
+          <container id="aspace_58f564fef2936d6e5c1151353703eb7c" label="Graphic Materials [32882019223802]" type="map-folder">19</container>
         </did>
       </c>
       <c id="aspace_ref51_x3j" level="file">
@@ -421,8 +420,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Hurray!  Gorbachev Falls on His Nose!</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_ba612d5d6369a6a7224e479682080ee1">German</langmaterial>
-          <container id="aspace_3e81e87fd162d065db8ef106afb09742" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_eb607297f2751f79cb08ef40b90903c9" parent="aspace_3e81e87fd162d065db8ef106afb09742" type="Folder">1</container>
+          <container id="aspace_28ad753c7a8eeb386ef0b4d929a4ffff" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_9ff8dc256de02d1511d39b05cbfdb2e3" parent="aspace_28ad753c7a8eeb386ef0b4d929a4ffff" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_ref53_u9f" level="file">
@@ -430,8 +429,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>I Praise My Leipzig.  Dedicated to the Demonstrators of the City</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_146d25dd530a13a45bd208e31d46aa73">German</langmaterial>
-          <container id="aspace_e408d4c12434f01f3ee247841ada69f4" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_826cd1cdaca9ccc10d7a709b958941d4" parent="aspace_e408d4c12434f01f3ee247841ada69f4" type="Folder">2</container>
+          <container id="aspace_4b0d77be060fd6f99c69c93999cc642f" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_88e78e6725b258f58807e3c8b7deaf5b" parent="aspace_4b0d77be060fd6f99c69c93999cc642f" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref55_3y0" level="file">
@@ -439,8 +438,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>I Will Build a New Day Myself</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_986fb6efd277cee08d8814c84fc029d8">Russian</langmaterial>
-          <container id="aspace_9f64556a193356a9694118a902525fab" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_e7bc22488c1568be86f3e3acf3a5d3b7" parent="aspace_9f64556a193356a9694118a902525fab" type="Folder">3</container>
+          <container id="aspace_bd68e8039a37e9d08c14e376b8306d12" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_a0e97c45f3b1aaeb50310d8f86931ad9" parent="aspace_bd68e8039a37e9d08c14e376b8306d12" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref57_f62" level="file">
@@ -448,8 +447,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>If Your Program Agrees with Our Orders We Support You, Candidate</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_1db888a829437ddbf50583f40a368223">Russian</langmaterial>
-          <container id="aspace_7aa3781aca073c554fdd5d2f1d5543e4" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_37fc06b62fb602630e2b743fc678bd4c" parent="aspace_7aa3781aca073c554fdd5d2f1d5543e4" type="Folder">4</container>
+          <container id="aspace_2d9345ef791253c5110660777d86fafa" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_90e99a33d51e38cbd44c090b9cb0a62f" parent="aspace_2d9345ef791253c5110660777d86fafa" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref59_hhc" level="file">
@@ -457,8 +456,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Instructions for Managing Field Work</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_941983e77e47eb370d1dede69ed6fd53">Russian</langmaterial>
-          <container id="aspace_52ac4735664e1abb7fb6046a45704074" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_e92c90257f4c248e2f0d94e596275d20" parent="aspace_52ac4735664e1abb7fb6046a45704074" type="Folder">5</container>
+          <container id="aspace_aeb4579850bbe03beef76359b87cbc53" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_30b08c45f15e3209f68f018d5813e320" parent="aspace_aeb4579850bbe03beef76359b87cbc53" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref61_97w" level="file">
@@ -466,8 +465,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Ion Iliescu - We Trust Him</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_69a80656eb6a713f0d5c938f07fd734e">Romanian</langmaterial>
-          <container id="aspace_efd749df40fbfb110ba77dfde383479c" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_9cf635355b7dd17fe24397392cfbec3c" parent="aspace_efd749df40fbfb110ba77dfde383479c" type="Folder">6</container>
+          <container id="aspace_0bf012984036e6b32a0a689212850532" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_0f843af7bef16b00d4cd96d7dc46131f" parent="aspace_0bf012984036e6b32a0a689212850532" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref160_3uq" level="file">
@@ -475,7 +474,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>It Must Not Happen Again! (1 of 3)</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_ee4d3a655eced622a998d48b63aa7057">Russian</langmaterial>
-          <container id="aspace_facdcb74a602ca80597951630121987d" label="Graphic Materials [32882019224040]" type="map-folder">20</container>
+          <container id="aspace_24412bf6feccf0a855038e47f86c6508" label="Graphic Materials [32882019224040]" type="map-folder">20</container>
         </did>
       </c>
       <c id="aspace_ref162_aim" level="file">
@@ -483,7 +482,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>It Must Not Happen Again! (2 of 3)</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_2bf01cd2ce10fb7ff92947dedb25ee2a">Russian</langmaterial>
-          <container id="aspace_6134c30388dd3f9cf647e1c376820b93" label="Graphic Materials [32882019223794]" type="map-folder">21</container>
+          <container id="aspace_1799316d4a84649f684b19207418a67a" label="Graphic Materials [32882019223794]" type="map-folder">21</container>
         </did>
       </c>
       <c id="aspace_ref164_utm" level="file">
@@ -491,7 +490,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>It Must Not Happen Again! (3 of 3)</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_2492a987a28bcdcf52e8ef21469da5bc">Russian</langmaterial>
-          <container id="aspace_f4f6f010c055112a3a4b949bd5067e13" label="Graphic Materials [32882019224032]" type="map-folder">22</container>
+          <container id="aspace_60f21eb4c489114063d0eec3ea4726b4" label="Graphic Materials [32882019224032]" type="map-folder">22</container>
         </did>
       </c>
       <c id="aspace_ref166_usv" level="file">
@@ -499,7 +498,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>The "King" Is Naked!</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_f26d23b6b588811f97f89a9204f34d15">Russian</langmaterial>
-          <container id="aspace_1f0fcd69253eab4f23c986a2961e5dc4" label="Graphic Materials [32882019223786]" type="map-folder">23</container>
+          <container id="aspace_76a32d19e40081210fc73a0d09a15c1e" label="Graphic Materials [32882019223786]" type="map-folder">23</container>
         </did>
       </c>
       <c id="aspace_ref168_6wm" level="file">
@@ -507,7 +506,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Nagy Imre: He Said...</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_0b83c497989cf040d9a92fe1b6ce55a2">Hungarian</langmaterial>
-          <container id="aspace_e9701ad09d100a7563709f0576e2dfd5" label="Graphic Materials [32882019224024]" type="map-folder">24</container>
+          <container id="aspace_38fd4709a4f541ae9e8501675a85aa55" label="Graphic Materials [32882019224024]" type="map-folder">24</container>
         </did>
       </c>
       <c id="aspace_ref63_rpy" level="file">
@@ -515,8 +514,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Nature's Revenge</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_15380bb9ce8036f1ba3ad5916556f578">Russian</langmaterial>
-          <container id="aspace_c8617e9bf142f7b90a3b97210daa8ab7" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_be57609805946d5666ce241ff090a8d2" parent="aspace_c8617e9bf142f7b90a3b97210daa8ab7" type="Folder">7</container>
+          <container id="aspace_0e71f9056a364e16425244556ec2609f" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_18c1afee09d9266ce88c92ac37f82fc1" parent="aspace_0e71f9056a364e16425244556ec2609f" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref65_ax2" level="file">
@@ -524,8 +523,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Neither Party, Nor State, Nor Police Can Destroy Fotogrupa M</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_d700b23d0810e34bc9ef54098e5fc00a">Serbian</langmaterial>
-          <container id="aspace_9564d4613d6eebc5c6e79da070e7bfa6" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_210eecfd9101a743b9ffad15e20c835a" parent="aspace_9564d4613d6eebc5c6e79da070e7bfa6" type="Folder">8</container>
+          <container id="aspace_8fc1a29640b0a175147bb4d2ddfb0a99" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_45b3af2e5312d87fadd0574558bf76ee" parent="aspace_8fc1a29640b0a175147bb4d2ddfb0a99" type="Folder">8</container>
         </did>
       </c>
       <c id="aspace_ref170_8n5" level="file">
@@ -533,7 +532,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Not Right.  Not Left.  Straight to Europe!</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_a4c6689862b82eb004fc7a18adc39fc5">German</langmaterial>
-          <container id="aspace_2b55a6d6bd43cb0d4e71c3c3eae05d4c" label="Graphic Materials [32882019223778]" type="map-folder">25</container>
+          <container id="aspace_27eb528ef089b5781ec9c1a595878d6b" label="Graphic Materials [32882019223778]" type="map-folder">25</container>
         </did>
       </c>
       <c id="aspace_ref172_gks" level="file">
@@ -541,7 +540,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"...Or Else the Night Takes You"</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_8c6e077d5b5cf478d9046702a7282713">Estonian</langmaterial>
-          <container id="aspace_cfb8d7263667b6497955875fe8aa97f9" label="Graphic Materials [32882019224016]" type="map-folder">26</container>
+          <container id="aspace_7c4abe6b6d06bc03c29e241e48642bc6" label="Graphic Materials [32882019224016]" type="map-folder">26</container>
         </did>
       </c>
       <c id="aspace_ref67_hoh" level="file">
@@ -549,8 +548,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Our Candidate</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_f8e2d970c4d7f3a658d869aa0b51f929">Russian</langmaterial>
-          <container id="aspace_c3bc79f2d7480553e8ac399d4efc858c" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_a57604e70265a35b64567bb86658fcc5" parent="aspace_c3bc79f2d7480553e8ac399d4efc858c" type="Folder">9</container>
+          <container id="aspace_d1b64a6c203e06bc852883d33d792bce" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_4fa7eeda2edb76c9a2a6ca1ac3fa5c0b" parent="aspace_d1b64a6c203e06bc852883d33d792bce" type="Folder">9</container>
         </did>
       </c>
       <c id="aspace_ref174_l6o" level="file">
@@ -558,7 +557,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Perestroika</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_a8b131bc185d04afb7f3697726f24ce2">Russian</langmaterial>
-          <container id="aspace_23493db2f2f99bc6853ed84ca7d80850" label="Graphic Materials [32882019223760]" type="map-folder">27</container>
+          <container id="aspace_34cda0b51854d4829e671f9336ca751c" label="Graphic Materials [32882019223760]" type="map-folder">27</container>
         </did>
       </c>
       <c id="aspace_ref69_kvs" level="file">
@@ -566,8 +565,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Politburo of the Central Committee of the Communist Party Soviet Union</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_ce4318aaca1200c78af4b433decf4c9e">Russian</langmaterial>
-          <container id="aspace_84ceff13eb076cc901617ffbac7eac19" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_8994c2b420f51ac076b1d25cf8035a02" parent="aspace_84ceff13eb076cc901617ffbac7eac19" type="Folder">10</container>
+          <container id="aspace_acbc1213acf432b3b80a5ae7cbeffba6" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_d9ce1c7a3a80380f32ef38c7fe76a750" parent="aspace_acbc1213acf432b3b80a5ae7cbeffba6" type="Folder">10</container>
         </did>
       </c>
       <c id="aspace_ref71_e2o" level="file">
@@ -575,8 +574,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Preserve Vegetation!</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_b7c4a1cdd11f39ec8da86c16b86ed94a">Russian</langmaterial>
-          <container id="aspace_d7290ec1e7b0c591e515d3d624d370e1" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_f41d31f55d3eff72b81ef21e96efe40f" parent="aspace_d7290ec1e7b0c591e515d3d624d370e1" type="Folder">11</container>
+          <container id="aspace_a839a6bc4ae67b9ad04589ba9881dcfd" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_5118a2f1c10390e335e22692a923eb79" parent="aspace_a839a6bc4ae67b9ad04589ba9881dcfd" type="Folder">11</container>
         </did>
       </c>
       <c id="aspace_ref176_56u" level="file">
@@ -584,7 +583,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Rock '89</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_6f7e5c62314ca16f189acbe7dffe8cca">English</langmaterial>
-          <container id="aspace_beb8a06cf1157815e28b0f970e0982d5" label="Graphic Materials [32882019224008]" type="map-folder">28</container>
+          <container id="aspace_85356e1060edac14c16be130faf3887e" label="Graphic Materials [32882019224008]" type="map-folder">28</container>
         </did>
       </c>
       <c id="aspace_ref73_pr1" level="file">
@@ -592,8 +591,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Scientists for the Village</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_bdb769973a5d46079c42fd6741501ade">Russian</langmaterial>
-          <container id="aspace_ec44925fee6e111958582eda574485f5" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_aab900674be481b18fac9907fd52b981" parent="aspace_ec44925fee6e111958582eda574485f5" type="Folder">12</container>
+          <container id="aspace_be6628ee983e7af42a526edbbce0b7f8" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_3d8da1ed0fcf26d7d43762cb9cae2f74" parent="aspace_be6628ee983e7af42a526edbbce0b7f8" type="Folder">12</container>
         </did>
       </c>
       <c id="aspace_ref178_n6f" level="file">
@@ -601,7 +600,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Service to the Soviet Union</unittitle>
           <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
           <langmaterial id="aspace_c447c7bc7ba8fa319af3f1e69207bca8">Estonian</langmaterial>
-          <container id="aspace_55d1c07eabcb31aa75bf670fe08ef37e" label="Graphic Materials [32882019223752]" type="map-folder">29</container>
+          <container id="aspace_55a1b7fbe14a22d3424a96dff403d24c" label="Graphic Materials [32882019223752]" type="map-folder">29</container>
         </did>
       </c>
       <c id="aspace_ref75_zn0" level="file">
@@ -609,8 +608,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Slovakia:  Public Against Violence</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_9963d837432e7ce3ded30fd048a6c010">Slovak</langmaterial>
-          <container id="aspace_6499dd74e845738cb6a898b71af08b32" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_668a3428098ce6ecc87343edaf7b4b58" parent="aspace_6499dd74e845738cb6a898b71af08b32" type="Folder">13</container>
+          <container id="aspace_6e779d712b1735f683e4abc8f2dfc5cc" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_f28855fbf09d86ffa3b1b6d2be14b14e" parent="aspace_6e779d712b1735f683e4abc8f2dfc5cc" type="Folder">13</container>
         </did>
       </c>
       <c id="aspace_ref180_jsw" level="file">
@@ -618,7 +617,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Sober People - Free People</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_1aac6c4ac90c761c567a6d12f6caf45a">Lithuanian</langmaterial>
-          <container id="aspace_3bdc23bdca0021f46d8ffee10a4330f3" label="Graphic Materials [32882019223992]" type="map-folder">30</container>
+          <container id="aspace_9f181ce52d557dd1d0bb3ac8fd030753" label="Graphic Materials [32882019223992]" type="map-folder">30</container>
         </did>
       </c>
       <c id="aspace_ref77_p9j" level="file">
@@ -626,8 +625,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"Socialism" - Where There Is Much Light There Is Much Shadow</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_71ef644bd2efdf226f6562f801b124d4">German</langmaterial>
-          <container id="aspace_f7e74c4886c341c157331d167ac2efd5" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_82b0c9951b77a96703c32f10cce47a33" parent="aspace_f7e74c4886c341c157331d167ac2efd5" type="Folder">14</container>
+          <container id="aspace_685352361aa5d3f09b658e6b0341b81d" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_9535e35f6311ca336349145c6a19df97" parent="aspace_685352361aa5d3f09b658e6b0341b81d" type="Folder">14</container>
         </did>
       </c>
       <c id="aspace_ref79_c8i" level="file">
@@ -635,8 +634,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Solidarity Has Not Given In</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_2a82e04e0613243be080934d9214e738">Polish</langmaterial>
-          <container id="aspace_a0cd7f679d12601d78e659d405f59533" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_38aaa2dfc00a4483c9e2f72f28142f57" parent="aspace_a0cd7f679d12601d78e659d405f59533" type="Folder">15</container>
+          <container id="aspace_757b90469a49493146558ba8f44077eb" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_e0bd993226d8485894d7432ffd6fda87" parent="aspace_757b90469a49493146558ba8f44077eb" type="Folder">15</container>
         </did>
       </c>
       <c id="aspace_ref81_bg3" level="file">
@@ -644,8 +643,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Soon I Will</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_7295342449d72cac496a3e36e7c0e7f6">Russian</langmaterial>
-          <container id="aspace_906f5d9202c01e907adcffefd7f4f467" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_3a4420e88f0cdb2e500ef3c391c08eff" parent="aspace_906f5d9202c01e907adcffefd7f4f467" type="Folder">16</container>
+          <container id="aspace_38567576a6b17a8e7af70625c47bfebc" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_29786e8831ef2f7fd5d57e776be1ff27" parent="aspace_38567576a6b17a8e7af70625c47bfebc" type="Folder">16</container>
         </did>
       </c>
       <c id="aspace_ref83_dc5" level="file">
@@ -653,8 +652,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>SOS</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_4e599197d178672469085e5493776b03">Russian</langmaterial>
-          <container id="aspace_0403aa28c4619b042c9dd237cee6ea59" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_0eb17f571cc28b86877cc0a32b9867d4" parent="aspace_0403aa28c4619b042c9dd237cee6ea59" type="Folder">17</container>
+          <container id="aspace_a7d85f6260f2bb3c8c5c4a47f81f474a" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_5401f13033e8f319b8e7b525a2970a26" parent="aspace_a7d85f6260f2bb3c8c5c4a47f81f474a" type="Folder">17</container>
         </did>
       </c>
       <c id="aspace_ref182_ffm" level="file">
@@ -662,7 +661,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Souvenir:  What Is Left</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_d13b4c180683a32a7827c68904be6b51">Hungarian</langmaterial>
-          <container id="aspace_34f99508a0b23de3f1353a13bf02d596" label="Graphic Materials [32882019223745]" type="map-folder">31</container>
+          <container id="aspace_6dfda32c692e627a0b2bc843b57ca0fb" label="Graphic Materials [32882019223745]" type="map-folder">31</container>
         </did>
       </c>
       <c id="aspace_ref85_qrg" level="file">
@@ -670,8 +669,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Stalinism</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_255b7bc2b73541d078fd4dec81c6d5f4">Russian</langmaterial>
-          <container id="aspace_5d64780912334d947a129835d564a210" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_0444bf854275cc374c328f41c3ca67bf" parent="aspace_5d64780912334d947a129835d564a210" type="Folder">18</container>
+          <container id="aspace_70e5703da438093e954e61a9e30585e4" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_24ab61664424b5b7673a392ad59cc7cd" parent="aspace_70e5703da438093e954e61a9e30585e4" type="Folder">18</container>
         </did>
       </c>
       <c id="aspace_ref184_amy" level="file">
@@ -679,7 +678,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>State of Fear</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_4bcedef9216a13776125602eac5c5e82">English</langmaterial>
-          <container id="aspace_804370beb81a92c962987665e5b29a11" label="Graphic Materials [32882019223984]" type="map-folder">32</container>
+          <container id="aspace_bd484f16c25e68f4c44497bdf17cc50f" label="Graphic Materials [32882019223984]" type="map-folder">32</container>
         </did>
       </c>
       <c id="aspace_ref186_22j" level="file">
@@ -687,7 +686,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Stop!</unittitle>
           <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
           <langmaterial id="aspace_0f289c73ce2ad5c45e70d587ec655746">Russian</langmaterial>
-          <container id="aspace_fe7d975e85920bd5ac9ce2559e8bdf28" label="Graphic Materials [32882019223737]" type="map-folder">33</container>
+          <container id="aspace_d713cc0f347df3527d56ee22dadb4b28" label="Graphic Materials [32882019223737]" type="map-folder">33</container>
         </did>
       </c>
       <c id="aspace_ref87_n7y" level="file">
@@ -695,8 +694,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>SVOBODU</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_0d00b32fd823a4e9ea106161be543a29">Czech</langmaterial>
-          <container id="aspace_c175fe8ac927be562f74586fe45532b8" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_abf899df8ab2cefb49c423de945fec55" parent="aspace_c175fe8ac927be562f74586fe45532b8" type="Folder">19</container>
+          <container id="aspace_372c9f664a092ea6e57cc08232fda2e0" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_67c1bda52252fe2f2de23caa26be0309" parent="aspace_372c9f664a092ea6e57cc08232fda2e0" type="Folder">19</container>
         </did>
       </c>
       <c id="aspace_ref89_5e5" level="file">
@@ -704,8 +703,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>The Time Belongs to Us</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_bf79f0cb4d9c5e069638087e2a8044ad">Bulgarian</langmaterial>
-          <container id="aspace_dba75d13a88b37ba9d9aabd7b1f041c8" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_e2c4805c5f31bb708bb7c0dfe1562b34" parent="aspace_dba75d13a88b37ba9d9aabd7b1f041c8" type="Folder">20</container>
+          <container id="aspace_0c84399549dbb1b0d2ecaed9ea0a398f" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_7c18e876e13f9007a3ad4a9a2f1d75aa" parent="aspace_0c84399549dbb1b0d2ecaed9ea0a398f" type="Folder">20</container>
         </did>
       </c>
       <c id="aspace_ref91_89t" level="file">
@@ -713,8 +712,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>The Time Belongs to Us</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_ab090a3653574b6c0f81aee051e9c6cd">Serbian</langmaterial>
-          <container id="aspace_850a4da5063bfd4eeeded0d6dc98a3b0" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_336539a43a0d1e62ac219963e8dbb3fb" parent="aspace_850a4da5063bfd4eeeded0d6dc98a3b0" type="Folder">21</container>
+          <container id="aspace_6032cd292fca9cdbaedc3668c8cc76dc" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_d4b31bdd1e82334f651d4bb5fcc03311" parent="aspace_6032cd292fca9cdbaedc3668c8cc76dc" type="Folder">21</container>
         </did>
       </c>
       <c id="aspace_ref188_9ca" level="file">
@@ -722,7 +721,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Tiananmen Square</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_136bb1301feeaa3d9d7dcd31cfdc5271">French</langmaterial>
-          <container id="aspace_c10834555882153be093b1e24df5b15f" label="Graphic Materials [32882019223976]" type="map-folder">34</container>
+          <container id="aspace_b637ba8f17e1c0e43fa67569395d5d0a" label="Graphic Materials [32882019223976]" type="map-folder">34</container>
         </did>
       </c>
       <c id="aspace_ref94_5cz" level="file">
@@ -730,8 +729,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Time to Gather Stones</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_bbb9d5af98edac3c14f6d7ec824a91d5">Russian</langmaterial>
-          <container id="aspace_086a8d8a7d67bd83b6de4b65a060f646" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_f6dc7ce99b1c30f50998f1bd28bd88d3" parent="aspace_086a8d8a7d67bd83b6de4b65a060f646" type="Folder">22</container>
+          <container id="aspace_088e9ee403599ed93d27478d94eb2641" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_9c19c6e3faab1a507c3173e830120934" parent="aspace_088e9ee403599ed93d27478d94eb2641" type="Folder">22</container>
         </did>
       </c>
       <c id="aspace_ref190_58u" level="file">
@@ -739,7 +738,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>To Each His Own Estonia?</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_fe9683675dad0ebf00c6f441e61412e0">Estonian</langmaterial>
-          <container id="aspace_8421f744342c8a13d200d6ac5d503de4" label="Graphic Materials [32882019223729]" type="map-folder">35</container>
+          <container id="aspace_2ec60865aeff045e8eb0617c30b6bf1f" label="Graphic Materials [32882019223729]" type="map-folder">35</container>
         </did>
       </c>
       <c id="aspace_ref192_2pp" level="file">
@@ -747,7 +746,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Unbreakable Union of the Free Republics</unittitle>
           <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
           <langmaterial id="aspace_c3ca72f70e66623bac8519e1e8e2e23e">Russian</langmaterial>
-          <container id="aspace_4f9cce5c187d76bbd3b1f9d5f9901034" label="Graphic Materials [32882019223968]" type="map-folder">36</container>
+          <container id="aspace_ed379a163d0dda3feb4c5ed812e0786a" label="Graphic Materials [32882019223968]" type="map-folder">36</container>
         </did>
       </c>
       <c id="aspace_ref96_ho5" level="file">
@@ -755,8 +754,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Vaclav Havel</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_67d3dcc7d679c9b4a46fdf93862a4dec">Czech</langmaterial>
-          <container id="aspace_e1b0d5d053a397921bc16ffbf2320ed6" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_293399f80e4d88c5669270cdbce6d974" parent="aspace_e1b0d5d053a397921bc16ffbf2320ed6" type="Folder">23</container>
+          <container id="aspace_d0b83dc54165ebe27b23d93e4c05dda8" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_2921f49d07da704449075f0f3b1c39a4" parent="aspace_d0b83dc54165ebe27b23d93e4c05dda8" type="Folder">23</container>
         </did>
       </c>
       <c id="aspace_ref194_73o" level="file">
@@ -764,7 +763,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>VELVET REVOLUTION PRAGUE: It's Already Here</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_f418b5f0b7f7dcb6862001501a5175c5">Czech</langmaterial>
-          <container id="aspace_d8cbabd3b644447ef64ea363808a1e02" label="Graphic Materials [32882019223711]" type="map-folder">37</container>
+          <container id="aspace_fdf8be291aa0d46d5ac538d7a9f41b65" label="Graphic Materials [32882019223711]" type="map-folder">37</container>
         </did>
       </c>
       <c id="aspace_ref98_bhw" level="file">
@@ -772,8 +771,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Vote for SOLIDARNOSC - Lech Walesa - Elections '89</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_57d9647fb5586e37128abc1692d56818">Polish</langmaterial>
-          <container id="aspace_064111d683756ffa7722d19c2377f564" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_4429143bfb9f7418e06ad7953ff48d71" parent="aspace_064111d683756ffa7722d19c2377f564" type="Folder">24</container>
+          <container id="aspace_8f8c9f826b2837984da64b0fa788acbb" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_34137a107d641f61d2979df158b7f841" parent="aspace_8f8c9f826b2837984da64b0fa788acbb" type="Folder">24</container>
         </did>
       </c>
       <c id="aspace_ref196_43m" level="file">
@@ -781,7 +780,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Vote With Us</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_cb4e160f2f8a55e661b0fa7a6f74c5e4">Polish</langmaterial>
-          <container id="aspace_2d2fded7f718a931b992bba66b65bb8c" label="Graphic Materials [32882019223950]" type="map-folder">38</container>
+          <container id="aspace_a6d5da34bfe237809b975880278b943a" label="Graphic Materials [32882019223950]" type="map-folder">38</container>
         </did>
       </c>
       <c id="aspace_ref100_eo9" level="file">
@@ -789,8 +788,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Voters, Let's Be Vigilant</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_b13e8ebb1ee1680ecf0f7f077110df20">Lithuanian</langmaterial>
-          <container id="aspace_fffd1270c6d49b293b8547acacd8dc2d" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_0539e5268c59ba0a9c7bfd15a1084ed3" parent="aspace_fffd1270c6d49b293b8547acacd8dc2d" type="Folder">25</container>
+          <container id="aspace_23b3d22ce5099263395a3a529f08f6f1" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_12542b9e28cbd5ca834be6f991dc832f" parent="aspace_23b3d22ce5099263395a3a529f08f6f1" type="Folder">25</container>
         </did>
       </c>
       <c id="aspace_ref110_98j" level="file">
@@ -798,15 +797,15 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>We Build Walls Also Against the East</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_9743d6d311afdb8781405a3752fea50c">German</langmaterial>
-          <container id="aspace_4efe10e9f12f92e177487411ac12fdaf" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_7baac964a0d2d5f9ad644f734464a798" parent="aspace_4efe10e9f12f92e177487411ac12fdaf" type="Folder">3</container>
+          <container id="aspace_d13c4485a788988796b2cd265dfc905b" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_9c03959514d0e3f066ccd216986cdd3a" parent="aspace_d13c4485a788988796b2cd265dfc905b" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref198_8de" level="file">
         <did>
           <unittitle>We Want Number Seven</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_d90e4ac806ba2bd87fa67cb0f70417c0" label="Graphic Materials [32882019223703]" type="map-folder">39</container>
+          <container id="aspace_01d0e5409e6cad58ea57e50f7a773bf9" label="Graphic Materials [32882019223703]" type="map-folder">39</container>
         </did>
       </c>
       <c id="aspace_ref102_heo" level="file">
@@ -814,8 +813,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>We Will Decide the Fate of Croatia Ourselves</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_2634f7119c26515cae7c9c01124d021f">Croatian</langmaterial>
-          <container id="aspace_deb7368797464145aafd1fc254fb0a0f" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_608b91017beccd8e0f7cac928c0e5e03" parent="aspace_deb7368797464145aafd1fc254fb0a0f" type="Folder">26</container>
+          <container id="aspace_a165d662599454c0e291f4f8db29f1b1" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_b0405fa604db2787103929e2fcd0519e" parent="aspace_a165d662599454c0e291f4f8db29f1b1" type="Folder">26</container>
         </did>
       </c>
       <c id="aspace_ref104_b9l" level="file">
@@ -823,8 +822,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Where Do the Crayfish Winter?</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_ffc3a879d46fbc6e802cde800e612596">Russian</langmaterial>
-          <container id="aspace_ce34dadedfda2ec9720dbde51b7cbfd4" label="Graphic Materials [32882019751778]" type="Box">2</container>
-          <container id="aspace_144e6b33f37f31ab10c78656a0d7a3b2" parent="aspace_ce34dadedfda2ec9720dbde51b7cbfd4" type="Folder">27</container>
+          <container id="aspace_100532ea2da073b3f343305c7abbace1" label="Graphic Materials [32882019751778]" type="Box">2</container>
+          <container id="aspace_d4e641c760f390f26f04ca6cc4be02fd" parent="aspace_100532ea2da073b3f343305c7abbace1" type="Folder">27</container>
         </did>
       </c>
       <c id="aspace_ref200_uhy" level="file">
@@ -832,7 +831,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Where to Go, Virumaa!?</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_ea6cd50aad0f438c31afbba8453bf5ef">Estonian</langmaterial>
-          <container id="aspace_2c4f275d0afe5ffb4846d400061f86aa" label="Graphic Materials [32882019223943]" type="map-folder">40</container>
+          <container id="aspace_b37a4375b6b2052c3d173b6b167ec0bd" label="Graphic Materials [32882019223943]" type="map-folder">40</container>
         </did>
       </c>
       <c id="aspace_ref106_0h6" level="file">
@@ -840,8 +839,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Will the Swans Return?</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_b5aa55f62e850f9234325d911efd8826">Russian</langmaterial>
-          <container id="aspace_37c54fb5e30e5798b93300414d04b4e1" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_cf1bda464b47e1c5faf2ac872425e99c" parent="aspace_37c54fb5e30e5798b93300414d04b4e1" type="Folder">1</container>
+          <container id="aspace_9416b9d3971eefc43d8090dcc5fa768d" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_28a931010d600009f4c5cda12ac87a4c" parent="aspace_9416b9d3971eefc43d8090dcc5fa768d" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_ref108_24b" level="file">
@@ -849,8 +848,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Wir Sind Das Volk! - We Are The People</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_4b8bfd7558e81b720066bbd0ab3684d0">German</langmaterial>
-          <container id="aspace_dcae13a09552c5448b8a67212c87dc11" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_fe6f1685d3a3268e379d7a04fe22dd7c" parent="aspace_dcae13a09552c5448b8a67212c87dc11" type="Folder">2</container>
+          <container id="aspace_ad726bbeecd01a8287c1809e0ba2d6ef" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_7a358920a1483420e9f553ed02f6b9e7" parent="aspace_ad726bbeecd01a8287c1809e0ba2d6ef" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref202_f2f" level="file">
@@ -858,7 +857,7 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Wolf Vostell, 9 November 1989, Berlin</unittitle>
           <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
           <langmaterial id="aspace_796c74eefecdbcf54472f4cb9569df4d">German</langmaterial>
-          <container id="aspace_0a56a2850e320523603a1e3fda3fc04d" label="Graphic Materials [32882019223695]" type="map-folder">41</container>
+          <container id="aspace_fc93a3aa2a570caf1d4e39ce6bba3aef" label="Graphic Materials [32882019223695]" type="map-folder">41</container>
         </did>
       </c>
       <c id="aspace_ref112_4e5" level="file">
@@ -866,8 +865,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Yeltsin, Boris Nikolaevich</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_b259a3e6364e07c2768ce852405be161">Russian</langmaterial>
-          <container id="aspace_3ed38520a04cec674e0a2509c7fb804c" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_286739143c030cea32a39248354f275b" parent="aspace_3ed38520a04cec674e0a2509c7fb804c" type="Folder">4</container>
+          <container id="aspace_8b3c556ffd04c33253fb0bd3d247c268" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_09039ed99c9f38d333f95fe842d26dce" parent="aspace_8b3c556ffd04c33253fb0bd3d247c268" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref114_vv9" level="file">
@@ -875,8 +874,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Yeltsin, Boris Nikolaevich</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
           <langmaterial id="aspace_24d1aff29b5d08488c0aa88f3139ee6f">Russian</langmaterial>
-          <container id="aspace_375dcd743fee6a571ceb8d33db37d90a" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_2b44d7b94426a684e3aa90d0f4cb40f5" parent="aspace_375dcd743fee6a571ceb8d33db37d90a" type="Folder">5</container>
+          <container id="aspace_e6560bc9e6531a33ca15d153444caf94" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_dbc77bbfd05cec213a2480059bfb9e5b" parent="aspace_e6560bc9e6531a33ca15d153444caf94" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref116_7ls" level="file">
@@ -884,8 +883,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Yeltsin, Boris Nikolaevich - Candidate for the People's Deputy of the USSR</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_1ef49f5f1dbfb10806c1c5fa62a7ad9b">Russian</langmaterial>
-          <container id="aspace_a9276c1128700a6a35f4a9fe0c9ca539" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_3ab992d40795e6884dc56eb87b513408" parent="aspace_a9276c1128700a6a35f4a9fe0c9ca539" type="Folder">6</container>
+          <container id="aspace_2f5dae9bb5e6602f9d099dd2b8738af1" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_8b85c98cc855dffb0180f51b2aaf51b5" parent="aspace_2f5dae9bb5e6602f9d099dd2b8738af1" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref118_bpk" level="file">
@@ -893,16 +892,16 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Yeltsin Campaign Poster</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial id="aspace_a64125ffdf8668f60897c9839ca1e50b">Russian</langmaterial>
-          <container id="aspace_ce42196088869205a8476d033ea95905" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_db72f4210d78569a032ac0a72c79970e" parent="aspace_ce42196088869205a8476d033ea95905" type="Folder">7</container>
+          <container id="aspace_d6a40c92aa5c843e8e619c8ba86e3d35" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_8e9078a0f3999870d82ee4c4f49a847f" parent="aspace_d6a40c92aa5c843e8e619c8ba86e3d35" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref119_co8" level="file">
         <did>
           <unittitle>You Are Leaving the American Sector</unittitle>
           <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-          <container id="aspace_52a40d1dd03acd4f8255510ec717cac3" label="Graphic Materials [32882019751794]" type="Box">3</container>
-          <container id="aspace_08f988546cd7c13d8f3a69e4f9af9fa7" parent="aspace_52a40d1dd03acd4f8255510ec717cac3" type="Folder">8</container>
+          <container id="aspace_c3376e129b63b4fd298e01339c7151f0" label="Graphic Materials [32882019751794]" type="Box">3</container>
+          <container id="aspace_b1ceed41b5c28c513ca42fc2ef54c652" parent="aspace_c3376e129b63b4fd298e01339c7151f0" type="Folder">8</container>
         </did>
       </c>
     </dsc>

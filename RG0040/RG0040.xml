@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="partially_processed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0040.xml">rg0040.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:51:03 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:09:17 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -90,7 +89,7 @@
           <unitid>RG0040 Series 1</unitid>
           <unitdate datechar="creation">1968-1995</unitdate>
           <physdesc id="aspace_e02ce84af0e5810eb8b608bbfe88a8d6" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_553fb5ea13499274a0839724f6ce4578" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
+          <container id="aspace_d236d10351ab4cb0fbbf2ed360514569" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_996e94c4c210151f94e276c16995bd8a">
           <head>Scope and Contents note</head>
@@ -100,32 +99,32 @@
           <did>
             <unittitle>Institute for Communitarian Studies</unittitle>
             <unitdate datechar="creation">1995</unitdate>
-            <container id="aspace_8f2f2c7d99cb7ab43e49bba192c7c112" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
-            <container id="aspace_c49582a4d46093927139fb61ff9c20a0" parent="aspace_8f2f2c7d99cb7ab43e49bba192c7c112" type="Folder">1</container>
+            <container id="aspace_8392e710f94c41dbec48b4477b1a0724" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
+            <container id="aspace_5d691ff2be6e7c5acc8165ab8a37a4fe" parent="aspace_8392e710f94c41dbec48b4477b1a0724" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref14_n65" level="file">
           <did>
             <unittitle>University Administrative Standing &amp; Special Committees - Committee on Research</unittitle>
             <unitdate datechar="creation">08/1970 --11/24/1982</unitdate>
-            <container id="aspace_f40cb9368c17a1f1f7b15700f41b35b5" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
-            <container id="aspace_41f27d287632ba5bf9bfe36f58762111" parent="aspace_f40cb9368c17a1f1f7b15700f41b35b5" type="Folder">2</container>
+            <container id="aspace_d947c4e8b7d046ec5e8082fd98204309" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
+            <container id="aspace_0ffb6bd66946962a320b810989a3a51b" parent="aspace_d947c4e8b7d046ec5e8082fd98204309" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref15_trg" level="file">
           <did>
             <unittitle>University Administrative Standing &amp; Special Committees - Committee on Research on Humans (non-medical)</unittitle>
             <unitdate datechar="creation">06/25/1975 --12/17/1975</unitdate>
-            <container id="aspace_d3471f6b9253d0f53095248732b45326" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
-            <container id="aspace_ea396ba9ee1e3b4a8398f6e77146dada" parent="aspace_d3471f6b9253d0f53095248732b45326" type="Folder">3</container>
+            <container id="aspace_0cf2f8e6bad43f889166cf6f45ac2fa5" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
+            <container id="aspace_06bcfb4c15d39ee4ba9a2a18717dabe3" parent="aspace_0cf2f8e6bad43f889166cf6f45ac2fa5" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref16_wwo" level="file">
           <did>
             <unittitle>University research - patent policy</unittitle>
             <unitdate datechar="creation">01/18/1968 --01/23/1980</unitdate>
-            <container id="aspace_05442ae80afaccb30a5cabd6653f24e9" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
-            <container id="aspace_a716ba0f3d70c7f5008d56ae34cd624f" parent="aspace_05442ae80afaccb30a5cabd6653f24e9" type="Folder">4</container>
+            <container id="aspace_4a5e04baed7a04e83b61e5cdd4f8e1e2" label="Mixed Materials [Series 1 GW: 32882017673263]" type="Box">1</container>
+            <container id="aspace_5fa944bd4d1de17a084e86cbff765957" parent="aspace_4a5e04baed7a04e83b61e5cdd4f8e1e2" type="Folder">4</container>
           </did>
         </c>
       </c>
@@ -144,8 +143,8 @@
           <did>
             <unittitle>Schedule of Classes</unittitle>
             <unitdate datechar="creation">1978-1989</unitdate>
-            <container id="aspace_d6267784689f6f91313abde80b8ac18c" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_1638e901b28a143f3eab50c39a5e0da2" parent="aspace_d6267784689f6f91313abde80b8ac18c" type="Folder">1</container>
+            <container id="aspace_4ca06f5349ef0c2fccb24d28517b5291" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_bb879a14e27e3548125d12d36cc9f55b" parent="aspace_4ca06f5349ef0c2fccb24d28517b5291" type="Folder">1</container>
           </did>
           <odd id="aspace_8a75295c6095e281f7c0fc7ad0fe8c38">
             <head>General note</head>
@@ -156,16 +155,16 @@
           <did>
             <unittitle>Posters and flyers</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_92f4ed95c8821ed4be99fe391d5b8a9f" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_1b59e7cf994aac767f6dc07edf4a0014" parent="aspace_92f4ed95c8821ed4be99fe391d5b8a9f" type="Folder">2</container>
+            <container id="aspace_ee274ed43bf507b88d1bb515dc88ffa6" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_ace338ae2c13beb869903cf8df0bc266" parent="aspace_ee274ed43bf507b88d1bb515dc88ffa6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref23_tfm" level="file">
           <did>
             <unittitle>Association of University Summer Session (AUSS) GWU-sponsored annual meeting records</unittitle>
             <unitdate datechar="creation">10/1983</unitdate>
-            <container id="aspace_d846c1df9958d00a31d734d817ab2bbb" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_80a75c1820af7f48160aff67536ace62" parent="aspace_d846c1df9958d00a31d734d817ab2bbb" type="Folder">3</container>
+            <container id="aspace_e5eff482075a89df649bffdcad1e0803" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_50c8f42a7b76a454d5a72aa2d8895f31" parent="aspace_e5eff482075a89df649bffdcad1e0803" type="Folder">3</container>
           </did>
           <odd id="aspace_dab5c292674d64863c02729ccd7da0bc">
             <head>General note</head>
@@ -176,8 +175,8 @@
           <did>
             <unittitle>Association of University Summer Session</unittitle>
             <unitdate datechar="creation">1987</unitdate>
-            <container id="aspace_8202b47b79c77f9e9519456351864e4a" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_98a2ad1df82332bc85f4401271970884" parent="aspace_8202b47b79c77f9e9519456351864e4a" type="Folder">4</container>
+            <container id="aspace_a32b757816e6fb6b6b6819c2627f711f" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_ffef862441a6d59a197ce05739edfa88" parent="aspace_a32b757816e6fb6b6b6819c2627f711f" type="Folder">4</container>
           </did>
           <odd id="aspace_9b782b4c99931674e331822478b7ccb3">
             <head>General note</head>
@@ -188,8 +187,8 @@
           <did>
             <unittitle>Association of University Summer Session</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_658956abe06bb08270516573ca52ff21" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_450271638d49dc57abedb3edfa3da865" parent="aspace_658956abe06bb08270516573ca52ff21" type="Folder">5</container>
+            <container id="aspace_8c127cbd7a0b9e87cf3b2f279c1e4084" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_9e99d93599af56bb78eb88a0a007e4a1" parent="aspace_8c127cbd7a0b9e87cf3b2f279c1e4084" type="Folder">5</container>
           </did>
           <odd id="aspace_e233ad40311955cade61605c695ee704">
             <head>General note</head>
@@ -200,8 +199,8 @@
           <did>
             <unittitle>Draft Report: Commission on the Year 2000</unittitle>
             <unitdate datechar="creation">1985</unitdate>
-            <container id="aspace_1d928d5c695d3e2cd698bd97e860ea2e" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
-            <container id="aspace_f9970bbfaf8cf799d6d41b397cd2c313" parent="aspace_1d928d5c695d3e2cd698bd97e860ea2e" type="Folder">6</container>
+            <container id="aspace_c32dc8a5e6058f4706347c5e49af5608" label="Mixed Materials [aspace.313609.Box.1]" type="Box">1</container>
+            <container id="aspace_b49408dc370949baeaa4def037536da3" parent="aspace_c32dc8a5e6058f4706347c5e49af5608" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -224,8 +223,8 @@
             <unitid>RG0040 Series 3</unitid>
             <unitdate datechar="creation">7/18/1975-2/9/1983 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_4b66ac4188943ecab19b616223f27584" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
-            <container id="aspace_1dec524817c64d042441ed115bbdec6e" parent="aspace_4b66ac4188943ecab19b616223f27584" type="Folder">1</container>
+            <container id="aspace_fa04e29417414109ca8c2ce4bd63075f" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
+            <container id="aspace_4d44dcf657157055465c6cd7a9fcdf57" parent="aspace_fa04e29417414109ca8c2ce4bd63075f" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref73_3pu" level="file">
@@ -235,8 +234,8 @@
             <unitid>RG0040 Series 3</unitid>
             <unitdate datechar="creation">4/12/1983 - 8/7/1985 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_e3892534d8988cddb6fb677a034f2cb0" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
-            <container id="aspace_418c3cfbf5e5bfba8f49397c3d5fb13c" parent="aspace_e3892534d8988cddb6fb677a034f2cb0" type="Folder">2</container>
+            <container id="aspace_5bb11842b9c3bd478a04c8b89ac21db2" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
+            <container id="aspace_97d5fed531787794c01531e2b3405110" parent="aspace_5bb11842b9c3bd478a04c8b89ac21db2" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref74_qsi" level="file">
@@ -246,8 +245,8 @@
             <unitid>RG0040 Series 3</unitid>
             <unitdate datechar="creation">1975-1976 </unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_b167eda1a4d450ff6b7de42a8b5209d5" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
-            <container id="aspace_dadf48e63f916b074e355ba68b193335" parent="aspace_b167eda1a4d450ff6b7de42a8b5209d5" type="Folder">3</container>
+            <container id="aspace_6950a72d293f3471491c21f83ca92ab5" label="Mixed Materials [Series 3 GW: 32882018996572 IM: T560693501]" type="Box">1</container>
+            <container id="aspace_5f77b6493f4f47f65fc744978a383cf4" parent="aspace_6950a72d293f3471491c21f83ca92ab5" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -266,8 +265,8 @@
           <did>
             <unittitle>Five Year Plans</unittitle>
             <unitdate datechar="creation">1987-1988</unitdate>
-            <container id="aspace_c3d1c5027aa3267eaedd016c492cd43a" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_2fa4ebbec915c426d0b73bd6eff301c6" parent="aspace_c3d1c5027aa3267eaedd016c492cd43a" type="Folder">1</container>
+            <container id="aspace_028768ce2c5da9f40952025813509fe4" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_cc15a445e8bd6ca267132ff796d6efe5" parent="aspace_028768ce2c5da9f40952025813509fe4" type="Folder">1</container>
           </did>
           <odd id="aspace_5bad8a00745fe78980d77a2712dc0494">
             <head>General note</head>
@@ -278,8 +277,8 @@
           <did>
             <unittitle>Budget Advisory Team (BAT) Presentations</unittitle>
             <unitdate datechar="creation">1990-1992</unitdate>
-            <container id="aspace_a9c38cdd718319660d32b9e05cd92554" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_228561f7fda6921f4f5e2431664cd80b" parent="aspace_a9c38cdd718319660d32b9e05cd92554" type="Folder">2</container>
+            <container id="aspace_b32f28f4d5dc36fd7071a613e03c91c8" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_76107bc2e51ac3cdaf3d6771d9643612" parent="aspace_b32f28f4d5dc36fd7071a613e03c91c8" type="Folder">2</container>
           </did>
           <odd id="aspace_47a42b065fad3f4804980491b6cd19c5">
             <head>General note</head>
@@ -290,40 +289,40 @@
           <did>
             <unittitle>BAT Meetings/Agendas, etc.</unittitle>
             <unitdate datechar="creation">1990-1994</unitdate>
-            <container id="aspace_cd0b70017c3ea5358bd953643889806d" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_889da101a35ace983fb2d0d79171d1e5" parent="aspace_cd0b70017c3ea5358bd953643889806d" type="Folder">3</container>
+            <container id="aspace_3ff4bba5b3a7ae1b8ce9634985540206" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_16ba4498e382af08b701de3caad8bd02" parent="aspace_3ff4bba5b3a7ae1b8ce9634985540206" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref41_4jz" level="file">
           <did>
             <unittitle>Computer Master Technology Plans</unittitle>
             <unitdate datechar="creation">1990-1991</unitdate>
-            <container id="aspace_53693e0a2da633cf8f32db3407dcf756" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_bdffe1b1aea2e95b221f9638854d43a8" parent="aspace_53693e0a2da633cf8f32db3407dcf756" type="Folder">4</container>
+            <container id="aspace_ee1f46055e08eab9af98a28c2a703f8e" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_4c69f47f17b56599d353e2a6864c1e6b" parent="aspace_ee1f46055e08eab9af98a28c2a703f8e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref42_zo2" level="file">
           <did>
             <unittitle>SURA History, Bylaws, etc.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ad7fa083450f3c5c567d9714885cf812" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_a3dec3c776c114714a895076764a551f" parent="aspace_ad7fa083450f3c5c567d9714885cf812" type="Folder">5</container>
+            <container id="aspace_b6a3801f12776d716d510e8d9535ce19" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_70f4512935fbfdb2c23bedca0796acca" parent="aspace_b6a3801f12776d716d510e8d9535ce19" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref43_uy7" level="file">
           <did>
             <unittitle>Council on Doctoral Programs, Decision for Neuroscience</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0a1ac8b038cb6a76d6e126508314c636" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_efed7bd781423a9805bacbbce6876d28" parent="aspace_0a1ac8b038cb6a76d6e126508314c636" type="Folder">6</container>
+            <container id="aspace_bf865474d5db7f0566dbdec971188b02" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_8f73fed92bad056101954f77127a1d83" parent="aspace_bf865474d5db7f0566dbdec971188b02" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref44_c0m" level="file">
           <did>
             <unittitle>Copyright Policy</unittitle>
             <unitdate datechar="creation">1989-1990</unitdate>
-            <container id="aspace_47896f6ad88c21ba1c642924890d7a07" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_baa64962fcbb3dd42aa77ebd459bbe86" parent="aspace_47896f6ad88c21ba1c642924890d7a07" type="Folder">7</container>
+            <container id="aspace_7a4225d52673d5d52af04e7d7d9c776f" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_0bce0d846472add1010cf6e11b2f6d2a" parent="aspace_7a4225d52673d5d52af04e7d7d9c776f" type="Folder">7</container>
           </did>
           <odd id="aspace_e09a9a68ef7695b47b12f2c60cf25d98">
             <head>General note</head>
@@ -334,24 +333,24 @@
           <did>
             <unittitle>Genetics Department</unittitle>
             <unitdate datechar="creation">1990-1991</unitdate>
-            <container id="aspace_659f906241af98e8bebed7ae4d88efb3" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
-            <container id="aspace_b3d5635bd3c385d279d2f3e62b2a3610" parent="aspace_659f906241af98e8bebed7ae4d88efb3" type="Folder">8</container>
+            <container id="aspace_923758d2b8847d1c9611d23d1b6ee99f" label="Mixed Materials [aspace.313620.Box.1]" type="Box">1</container>
+            <container id="aspace_528230305034e431aa3d9837cd131517" parent="aspace_923758d2b8847d1c9611d23d1b6ee99f" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref47_4bl" level="file">
           <did>
             <unittitle>Indirect Cost Information</unittitle>
             <unitdate datechar="creation">1989-1991</unitdate>
-            <container id="aspace_dcda7ccf80c8aae2ecb31e854ad68d9e" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_68b9e2b1224058e34c362e210ac3d5b8" parent="aspace_dcda7ccf80c8aae2ecb31e854ad68d9e" type="Folder">1</container>
+            <container id="aspace_81f11a6737754dcb79be80dceba01844" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_099018268714dc3423f5c9ac15774cc3" parent="aspace_81f11a6737754dcb79be80dceba01844" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref48_b3q" level="file">
           <did>
             <unittitle>Honors Course in Basic Sciences/Mathematics</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_31d1150ef2c17ed28035a8eefa05a8d9" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_53e6ebc75c1a25fac7b99b6e94e91e3e" parent="aspace_31d1150ef2c17ed28035a8eefa05a8d9" type="Folder">2</container>
+            <container id="aspace_4929a714a0d69fb0eb4482c7e62d2299" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_71274b3b106a7bffde5cd7786137a6b3" parent="aspace_4929a714a0d69fb0eb4482c7e62d2299" type="Folder">2</container>
           </did>
           <odd id="aspace_a9b53076122e10c384664725534097ec">
             <head>General note</head>
@@ -362,24 +361,24 @@
           <did>
             <unittitle>Leibowitz H. (principle investigator)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1cc43a4f9f48775477269cc18ee31d49" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_1a313e88cd574402f27086f345fd3a1a" parent="aspace_1cc43a4f9f48775477269cc18ee31d49" type="Folder">3</container>
+            <container id="aspace_56afcb2fa6bb6559dc2b7aa312cc4302" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_5da815726eaba0e4fae1f41a793c1ce6" parent="aspace_56afcb2fa6bb6559dc2b7aa312cc4302" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref51_q76" level="file">
           <did>
             <unittitle>Sponsored Projects Medical School Task Force</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ea42934cccc3bccda39c8f922b89067e" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_1890647224849d165170715ddfd7f326" parent="aspace_ea42934cccc3bccda39c8f922b89067e" type="Folder">4</container>
+            <container id="aspace_c16d5c6c87d49e6ebd72e51c7066be02" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_89458fb73dcfdc6121d1c08df18a0543" parent="aspace_c16d5c6c87d49e6ebd72e51c7066be02" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref52_a67" level="file">
           <did>
             <unittitle>Obstacles to Research Report</unittitle>
             <unitdate datechar="creation">1985</unitdate>
-            <container id="aspace_6c992866525e1acf75738dc372ff134e" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_5d826c6f0529952357ae2361ad4c55b9" parent="aspace_6c992866525e1acf75738dc372ff134e" type="Folder">5</container>
+            <container id="aspace_f47eed3561c334d81edb727a7a6decee" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_c155eb4a9a606acfe40433813273aae6" parent="aspace_f47eed3561c334d81edb727a7a6decee" type="Folder">5</container>
           </did>
           <odd id="aspace_e23bc04cdef8c1982c2ca111e0cda173">
             <head>General note</head>
@@ -390,8 +389,8 @@
           <did>
             <unittitle>A Comprehensive Inventory of Finanical Support for Graduate Students at the George Washington University</unittitle>
             <unitdate datechar="creation">1986-1987</unitdate>
-            <container id="aspace_1b3e7fa8da8de365ae7d089d9efcac94" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_e95fceb81d3060dbde2b26639e00a505" parent="aspace_1b3e7fa8da8de365ae7d089d9efcac94" type="Folder">6</container>
+            <container id="aspace_0da0b2f1786120b2eb0afe4bd955a1c7" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_67c791c96045354093ed4699f301fa8d" parent="aspace_0da0b2f1786120b2eb0afe4bd955a1c7" type="Folder">6</container>
           </did>
           <odd id="aspace_592fe7ef09589421a8b73780a819d7c4">
             <head>General note</head>
@@ -402,8 +401,8 @@
           <did>
             <unittitle>Coates-Lange-Cohen Report-Strategies for Research: Toward Growth and Competitiveness</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_9d65e2905f332daf34b200547b74ec80" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_09a4b8e2950f91f1a59df393138315aa" parent="aspace_9d65e2905f332daf34b200547b74ec80" type="Folder">7</container>
+            <container id="aspace_d65d32b572315ec126aad8522564533b" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_0cd91e837ea6e3f0728214fadfb86900" parent="aspace_d65d32b572315ec126aad8522564533b" type="Folder">7</container>
           </did>
           <odd id="aspace_75e638149f036a43e95fd7f5c9d6c05f">
             <head>General note</head>
@@ -414,8 +413,8 @@
           <did>
             <unittitle>Survey on Teaching Loads and Research Productivity of Full-Time Faculty</unittitle>
             <unitdate datechar="creation">04/1990</unitdate>
-            <container id="aspace_1a0842f0721078e77ebf955ba5d2cb59" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_eb54f64e879c7bd109accfe3b26c1168" parent="aspace_1a0842f0721078e77ebf955ba5d2cb59" type="Folder">8</container>
+            <container id="aspace_789872c8bc5bee61a096deeeeb46de37" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_d3850080061073886b5ea427ebe4523a" parent="aspace_789872c8bc5bee61a096deeeeb46de37" type="Folder">8</container>
           </did>
           <odd id="aspace_29438b0e6981c7721013963d878f7b99">
             <head>General note</head>
@@ -426,8 +425,8 @@
           <did>
             <unittitle>Children's Research Institute Strategic Plan</unittitle>
             <unitdate datechar="creation">07/12/1990</unitdate>
-            <container id="aspace_7e1e6aed3f4984406f1bd673a03eab0f" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_c0521767b841fe48701412cedca7871a" parent="aspace_7e1e6aed3f4984406f1bd673a03eab0f" type="Folder">9</container>
+            <container id="aspace_b67c676fef29b22372627da74ab3738d" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_09608b5579f752ea2923ddf37661467d" parent="aspace_b67c676fef29b22372627da74ab3738d" type="Folder">9</container>
           </did>
           <odd id="aspace_c6dd87ee9b773e1ff8f0b80145c46e8e">
             <head>General note</head>
@@ -438,24 +437,24 @@
           <did>
             <unittitle>General Information concerning the School of Engineering and Applied Science</unittitle>
             <unitdate datechar="creation">1989-1991</unitdate>
-            <container id="aspace_d9dafbef3fc6164d93611f99a83c2673" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_d07aa77415dd68cb1f5fc11bd2fe6ae0" parent="aspace_d9dafbef3fc6164d93611f99a83c2673" type="Folder">10</container>
+            <container id="aspace_08db2a07ffa7c0c1320cf6daa1dfb443" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_d31c490680e598480d45b6e3a15891be" parent="aspace_08db2a07ffa7c0c1320cf6daa1dfb443" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref63_wbq" level="file">
           <did>
             <unittitle>Graduate Teaching Center - information on planning and institution of GTC</unittitle>
             <unitdate datechar="creation">1989-1992</unitdate>
-            <container id="aspace_63034c4b1f16664c9f13a4a6fda4de60" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_919c1c8d5a2031287d4b62f6900fd305" parent="aspace_63034c4b1f16664c9f13a4a6fda4de60" type="Folder">11</container>
+            <container id="aspace_fe49aa724e392e63833c44ca1246bc28" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_5c2e7d90699fbd2a856b7b92dd058806" parent="aspace_fe49aa724e392e63833c44ca1246bc28" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref64_gzm" level="file">
           <did>
             <unittitle>Telecommunications Policy Review</unittitle>
             <unitdate datechar="creation">1988</unitdate>
-            <container id="aspace_134f2d664e4eb8b13063a5a1480214df" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_d2522372b575e6e265bf7dd4df930560" parent="aspace_134f2d664e4eb8b13063a5a1480214df" type="Folder">12</container>
+            <container id="aspace_9357e44aafec516c8ece6e21badf0c06" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_57be39352f11836c1aff3457d242e252" parent="aspace_9357e44aafec516c8ece6e21badf0c06" type="Folder">12</container>
           </did>
           <odd id="aspace_c18326f0590cb6a66e62e50daefbc08e">
             <head>General note</head>
@@ -466,24 +465,24 @@
           <did>
             <unittitle>SEAS information</unittitle>
             <unitdate datechar="creation">1987-1991</unitdate>
-            <container id="aspace_a57eb141d3758d2ad42461ae55bf454c" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_9b648c54547f8427fb2b787538d8bf1b" parent="aspace_a57eb141d3758d2ad42461ae55bf454c" type="Folder">13</container>
+            <container id="aspace_0b431a4a8c273aefd4ba61644426e4e3" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_835e8423c79a7dabb42532ea804353f1" parent="aspace_0b431a4a8c273aefd4ba61644426e4e3" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref67_zjw" level="file">
           <did>
             <unittitle>President Trachtenberg correspondence</unittitle>
             <unitdate datechar="creation">1989-1991</unitdate>
-            <container id="aspace_2abe15e96921332c287e9276508c24c2" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_e658746de3268e729e6e557caae31f2e" parent="aspace_2abe15e96921332c287e9276508c24c2" type="Folder">14</container>
+            <container id="aspace_aee08b214af523b38caaadee4d964fbb" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_79158955149d3c080c9e6e22628bafdf" parent="aspace_aee08b214af523b38caaadee4d964fbb" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref68_d98" level="file">
           <did>
             <unittitle>University Committee on Sponsored Research</unittitle>
             <unitdate datechar="creation">1970-1989</unitdate>
-            <container id="aspace_9a84ae0e8ddd8dcaeb29e4d3f8b67ae9" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
-            <container id="aspace_eac4cf0c34f3b5bbaa65cd70773b6556" parent="aspace_9a84ae0e8ddd8dcaeb29e4d3f8b67ae9" type="Folder">15</container>
+            <container id="aspace_5205d36e36e2ba57aef71eb065541de7" label="Mixed Materials [aspace.313620.Box.2]" type="Box">2</container>
+            <container id="aspace_645b21c5e32aecee0e0567ed0fc03acc" parent="aspace_5205d36e36e2ba57aef71eb065541de7" type="Folder">15</container>
           </did>
         </c>
       </c>

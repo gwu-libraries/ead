@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/k0007.xml">k0007.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:31:19 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:50:47 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -54,7 +53,7 @@
     <bioghist id="aspace_8116ad77ef877c8c187f5e1acf72ff19">
       <head>Biographical / Historical</head>
       <p>David Simon Blondheim (1884-1934) was a U.S. philologist and scholar of medieval French and French linguistics.  He was renowned in his field for his work on medieval Jewish manuscripts and Judeo-Romance languages.</p>
-      <p>Born in Baltimore, Maryland August 25, 1884, he received his AB at The Johns Hopkins University in 1906 and his Ph.D. in 1910. He later studied in France at the Sorbonne, the Collège de France, the École des Hautes Études, and the École des Chartes. In 1924 he became professor of Romance philology at Johns Hopkins University, and in 1926 he was awarded the Volney prize from the Académie des Inscriptions et Belles Lettres for his book Les Parlers Judeo-Romans et la Vetus Latina (1925).  He was the first American to receive this honor. </p>
+      <p>Born in Baltimore, Maryland August 25, 1884, he received his AB at The Johns Hopkins University in 1906 and his Ph.D. in 1910. He later studied in France at the Sorbonne, the CollÃ¨ge de France, the ÂÃ‰cole des Hautes Ã‰tudes, and the Ã‰cole des Chartes. In 1924 he became professor of Romance philology at Johns Hopkins University, and in 1926 he was awarded the Volney prize from the AcadÃ©mie des Inscriptions et Belles Lettres for his book Les Parlers Judeo-Romans et la Vetus Latina (1925).  He was the first American to receive this honor. </p>
       <p>David Blondheim was married to Eleanor Lansing Dulles, with whom he had one son, David Dulles.  He died in Baltimore, March 19, 1934.  </p>
     </bioghist>
     <scopecontent id="aspace_619ca3563d53eb23b264de1a5a3d676b">
@@ -100,8 +99,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Correspondence</unittitle>
           <unitdate datechar="creation" normal="1929/1934" type="inclusive">1929-1934</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_9ff591c52b1a923794353b9040cda60f" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_69ebfdbc3f4a470960ca49a2cc596599" parent="aspace_9ff591c52b1a923794353b9040cda60f" type="Folder">1</container>
+          <container id="aspace_3947d95fca8f05632ede368464941f2c" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_6324e5034f24582e863bfd94543e8465" parent="aspace_3947d95fca8f05632ede368464941f2c" type="Folder">1</container>
         </did>
         <scopecontent id="aspace_50e21777e2b13284ba4f5955621f6008">
           <head>Scope and Contents</head>
@@ -110,15 +109,15 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
       </c>
       <c id="aspace_ref4_46a" level="file">
         <did>
-          <unittitle>"Les Gloses Françaises dans les commentaires talmudiques de Raschi" Vol. 2--Publication</unittitle>
+          <unittitle>"Les Gloses FranÃ§aises dans les commentaires talmudiques de Raschi" Vol. 2--Publication</unittitle>
           <unitdate datechar="creation" normal="1929/1937" type="inclusive">1929-1937</unitdate>
           <langmaterial><language langcode="ang">English, Old (ca.450-1100)</language>.</langmaterial>
-          <container id="aspace_0bf6c745465b32580608b2965b627a2f" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_377e5d7dbef300276ba5150284d46697" parent="aspace_0bf6c745465b32580608b2965b627a2f" type="Folder">2</container>
+          <container id="aspace_f913a797c6f2a2d93ab3af6b0d9fe110" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_df33f229467b88e6c67142d0553ac8e6" parent="aspace_f913a797c6f2a2d93ab3af6b0d9fe110" type="Folder">2</container>
         </did>
         <scopecontent id="aspace_5eadc55b9ba374e1a9c64ae99e30b77e">
           <head>Scope and Contents</head>
-          <p>This folder contains proofs for the introductory material for "Les gloses Françaises dans les commentaires talmudiques de Raschi," published posthumously through the efforts of Blondheim's wife, Eleanor Lansing Dulles, and a related letter.</p>
+          <p>This folder contains proofs for the introductory material for "Les gloses FranÃ§aises dans les commentaires talmudiques de Raschi," published posthumously through the efforts of Blondheim's wife, Eleanor Lansing Dulles, and a related letter.</p>
         </scopecontent>
       </c>
       <c id="aspace_ref5_z08" level="file">
@@ -126,8 +125,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"Liste des manuscrits des commentaires bibliques de Raschi"--Typescript</unittitle>
           <unitdate datechar="creation" normal="1932/1932" type="inclusive">circa 1932</unitdate>
           <langmaterial><language langcode="fre">French</language>.</langmaterial>
-          <container id="aspace_7324c466fb4d2ecae5af6c194b170dc0" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_bfdda473f0b7d50fd4fb6a04d5b74512" parent="aspace_7324c466fb4d2ecae5af6c194b170dc0" type="Folder">3</container>
+          <container id="aspace_05dc15462483670fd9cf8a297657d544" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_d9d5a18808a62fc3c8b40a728c334ca4" parent="aspace_05dc15462483670fd9cf8a297657d544" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref6_iz8" level="file">
@@ -135,8 +134,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"Livro de Como se Fazen as Cores"--Proofs</unittitle>
           <unitdate datechar="creation" normal="1929/1929" type="inclusive">10/03/1929</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_fc742798e9eb3efda984027d060154a1" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_d5d8b66218ea74ef00028a83814b30bb" parent="aspace_fc742798e9eb3efda984027d060154a1" type="Folder">4</container>
+          <container id="aspace_edc3893333f9650f85249bf52e467821" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_90e4425218a7b1a081ed0f0735a13482" parent="aspace_edc3893333f9650f85249bf52e467821" type="Folder">4</container>
         </did>
         <scopecontent id="aspace_8de90b87bfacc2caae5fd219622bb4f9">
           <head>Scope and Contents</head>
@@ -148,8 +147,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"An Old Portuguese Work on Manuscript Illuminations"--Manuscript, Notes, Correspondence</unittitle>
           <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
           <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-          <container id="aspace_da9e2db8f0cb84c41b05478f7dec2f96" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_171b0ad8fa6b85807643a1be456d1edc" parent="aspace_da9e2db8f0cb84c41b05478f7dec2f96" type="Folder">5</container>
+          <container id="aspace_daeca296e26160a576b2cdf65abf461a" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_837da98691b90b09b604fcef878ba88c" parent="aspace_daeca296e26160a576b2cdf65abf461a" type="Folder">5</container>
         </did>
         <scopecontent id="aspace_39bdc40261553815e29b6f8ce4193313">
           <head>Scope and Contents</head>
@@ -161,16 +160,16 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"Les Parlers Judeo-Romans et la Vetus Latina"--Typescript</unittitle>
           <unitdate datechar="creation" normal="1924/1924" type="inclusive">circa 1924</unitdate>
           <langmaterial><language langcode="fre">French</language>.</langmaterial>
-          <container id="aspace_9269b35066fbd187ed22f95307c68e71" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_7cd519e87e1c47e3469d45077f92dbb6" parent="aspace_9269b35066fbd187ed22f95307c68e71" type="Folder">6</container>
+          <container id="aspace_b830e8ea7adf54a8dd0a7055c3fe4150" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_9af21d76ff9f0e9f4beb3f4d63412f70" parent="aspace_b830e8ea7adf54a8dd0a7055c3fe4150" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref9_1ek" level="file">
         <did>
           <unittitle>Photograph and Bookplates</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_692fe8065bbaf84a7c5f526f48bb9e74" label="Graphic Materials [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_a55f57bff71bc66ccd44f9fbc52f386d" parent="aspace_692fe8065bbaf84a7c5f526f48bb9e74" type="Folder">7</container>
+          <container id="aspace_497f212d61dd771c0df57af7b621f433" label="Graphic Materials [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_ddfcefa04d366eb2084524e35fdd7b28" parent="aspace_497f212d61dd771c0df57af7b621f433" type="Folder">7</container>
         </did>
         <scopecontent id="aspace_914676d663622c54a4d55a5f5522b538">
           <head>Scope and Contents</head>
@@ -182,8 +181,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Miscellaneous</unittitle>
           <unitdate datechar="creation" normal="1925/1933" type="inclusive">1925-1933 and undated</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_df94d4c8e7ccfc8d3edb6171ae92fcb4" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_48e150bcb077336b61f5dbc145f3ce09" parent="aspace_df94d4c8e7ccfc8d3edb6171ae92fcb4" type="Folder">8</container>
+          <container id="aspace_c04dfc773b50c7e730159474e51aa7f8" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_4f6e10b6c023d7f5078b3ba6db10e764" parent="aspace_c04dfc773b50c7e730159474e51aa7f8" type="Folder">8</container>
         </did>
         <scopecontent id="aspace_b6969cb3f7816e595494f56e3f56ed1f">
           <head>Scope and Contents</head>
@@ -195,8 +194,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>Article by Dr. S.H. Blondheim, dedicated to D.S. Blondheim</unittitle>
           <unitdate datechar="creation" normal="1981/1981" type="inclusive">11/25/1981</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_3d4c9a48bbd7426b5622a21a408ed06a" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_16ee3f74fa659e14440ad5e7d19b38bb" parent="aspace_3d4c9a48bbd7426b5622a21a408ed06a" type="Folder">9</container>
+          <container id="aspace_748be41931f27d256c3dbe5c95e24180" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_62161f8a2bb808829dd90ddafc2c8f31" parent="aspace_748be41931f27d256c3dbe5c95e24180" type="Folder">9</container>
         </did>
         <scopecontent id="aspace_203e37b9b2452fcc85374ee032cc39d8">
           <head>Scope and Contents</head>
@@ -208,8 +207,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <unittitle>"Catalogue of the Library of The Late David S. Blondheim:   Collections in the fields of Romance Philology, Hebraica, rare dictionaries, periodicals, reprints, and dissertations"</unittitle>
           <unitdate datechar="creation">undated</unitdate>
           <langmaterial><language langcode="eng">English</language>.</langmaterial>
-          <container id="aspace_48f1f72968a21520e29ba2ef2322efb5" label="Text [GW: 32882019750341]" type="Box">1</container>
-          <container id="aspace_4701d90ae6e9cbf9e0c7aa1fe6c6c69c" parent="aspace_48f1f72968a21520e29ba2ef2322efb5" type="Folder">10</container>
+          <container id="aspace_5a10a1c614119026cfec54b4593374be" label="Text [GW: 32882019750341]" type="Box">1</container>
+          <container id="aspace_c9ff5192fc9a5d66da3aa37980c39c7b" parent="aspace_5a10a1c614119026cfec54b4593374be" type="Folder">10</container>
         </did>
         <odd id="aspace_f6e1da894041964e4b4c3a8d5531fc06">
           <head>General</head>

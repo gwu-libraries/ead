@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/mvc0016.xml ">mvc0016.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:44:52 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:03:28 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -50,7 +49,7 @@
     </did>
     <bioghist id="aspace_c6a4967e688e7fc94c6c8c334162a62e">
       <head>Biographical note</head>
-      <p>Elsie Foerderer (b. September 1, 1890- d. June 25, 1969) graduated from the Mount Vernon Seminary in 1909.  In 1928 she became President of the Alumnae Association and an Alumna Trustee. She became a regular member of the Board of Trustees in 1936 and participated in organizing activities for the celebration of the centenary of founder Elizabeth Somers' birth and the memorial for Jean Dean Cole (Headmistress, 1924 &#32; In 1941 she became Chair of the Board of Trustees and served in that capacity until 1949.  In that period she worked with the Headmaster, George Lloyd, to ensure that the Seminary continued to operate after the requisition in 1942 of the Nebraska Avenue by the Navy.  She participated in finding alternative housing for students and classroom space, at Spring Valley and the Garfinkel's building on Fordham Road, and after the war, was involved in the development of the new campus on Foxhall Road.  Foerderer retired from the Board in 1968, but was appointed honorary Trustee that year.  She died in Bryn Mawr, PA on June 25, 1969.</p>
+      <p>Elsie Foerderer (b. September 1, 1890- d. June 25, 1969) graduated from the Mount Vernon Seminary in 1909.  In 1928 she became President of the Alumnae Association and an Alumna Trustee. She became a regular member of the Board of Trustees in 1936 and participated in organizing activities for the celebration of the centenary of founder Elizabeth Somers' birth and the memorial for Jean Dean Cole (Headmistress, 1924 – 1938; President, 1923 – 1936).  In 1941 she became Chair of the Board of Trustees and served in that capacity until 1949.  In that period she worked with the Headmaster, George Lloyd, to ensure that the Seminary continued to operate after the requisition in 1942 of the Nebraska Avenue by the Navy.  She participated in finding alternative housing for students and classroom space, at Spring Valley and the Garfinkel's building on Fordham Road, and after the war, was involved in the development of the new campus on Foxhall Road.  Foerderer retired from the Board in 1968, but was appointed honorary Trustee that year.  She died in Bryn Mawr, PA on June 25, 1969.</p>
     </bioghist>
     <prefercite id="aspace_d354070ced6038add272f4b717a34943">
       <head>Preferred Citation</head>
@@ -90,9 +89,9 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
         <did>
           <unittitle>Correspondence</unittitle>
           <unitid>MVC0016</unitid>
-          <unitdate datechar="creation" normal="1935/1941" type="inclusive">10/15/1935 >
-          <container id="aspace_bdc7f208502ba41e58ae346aecc8a3fb" label="Text [32882014311362]" type="Box">1</container>
-          <container id="aspace_03ef7562b21755cb5bb17cf7c6aecb1e" parent="aspace_bdc7f208502ba41e58ae346aecc8a3fb" type="Folder">1</container>
+          <unitdate datechar="creation" normal="1935/1941" type="inclusive">10/15/1935 – 10/31/1941</unitdate>
+          <container id="aspace_97a812177539f508c12705e2fe2cbbc7" label="Text [32882014311362]" type="Box">1</container>
+          <container id="aspace_74be27f10c5f68c4f59f2e67bb69705e" parent="aspace_97a812177539f508c12705e2fe2cbbc7" type="Folder">1</container>
         </did>
         <scopecontent id="aspace_a665995f182555a4360496c76aa930fc">
           <head>Scope and Contents</head>
@@ -103,8 +102,9 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
         <did>
           <unittitle>Correspondence</unittitle>
           <unitid>MVC0016</unitid>
-          <unitdate datechar="creation" normal="1941/1943" type="inclusive">10/14/1941&#32; <container id="aspace_038be94aec1d564a3eb398a9dfa8eef7" label="Text [32882014311362]" type="Box">1</container>
-          <container id="aspace_71459226c0d2ffa4e84bc9394c0352d6" parent="aspace_038be94aec1d564a3eb398a9dfa8eef7" type="Folder">2</container>
+          <unitdate datechar="creation" normal="1941/1943" type="inclusive">10/14/1941– 12/04/1943</unitdate>
+          <container id="aspace_c5862314ed668fd07c046837ed737131" label="Text [32882014311362]" type="Box">1</container>
+          <container id="aspace_6c3e4c25e11a6d80aa24adbb913240c1" parent="aspace_c5862314ed668fd07c046837ed737131" type="Folder">2</container>
         </did>
         <scopecontent id="aspace_0b1224bc85bcc5362bd36dcd57f21a8f">
           <head>Scope and Contents</head>
@@ -115,8 +115,9 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
         <did>
           <unittitle>Correspondence</unittitle>
           <unitid>MVC0016</unitid>
-          <unitdate datechar="creation" normal="1943/1946" type="inclusive">12/10/1943 &#32; <container id="aspace_31f22c487a69a711571f5294dd4ca9df" label="Text [32882014311362]" type="Box">1</container>
-          <container id="aspace_20f5e2753e91c31eb2aa8a39c294174b" parent="aspace_31f22c487a69a711571f5294dd4ca9df" type="Folder">3</container>
+          <unitdate datechar="creation" normal="1943/1946" type="inclusive">12/10/1943 – 08/26/1946</unitdate>
+          <container id="aspace_d4c847d47acb3c0a61559f86ba74cc63" label="Text [32882014311362]" type="Box">1</container>
+          <container id="aspace_4f642cebd23d24ae6c1d01b475a3502d" parent="aspace_d4c847d47acb3c0a61559f86ba74cc63" type="Folder">3</container>
         </did>
         <scopecontent id="aspace_5fca530d29b57626a8953458e32f8f5d">
           <head>Scope and Contents</head>
@@ -127,8 +128,9 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
         <did>
           <unittitle>Correspondence</unittitle>
           <unitid>MVC0016</unitid>
-          <unitdate datechar="creation" normal="1946/1969" type="inclusive">01/31/1946 &#32; <container id="aspace_642fdbba0e7ce9b0f6a77b043fc6cd2b" label="Text [32882014311362]" type="Box">1</container>
-          <container id="aspace_169d67e1e88c527def8b8aae240ee9d5" parent="aspace_642fdbba0e7ce9b0f6a77b043fc6cd2b" type="Folder">4</container>
+          <unitdate datechar="creation" normal="1946/1969" type="inclusive">01/31/1946 – 06/30/1969</unitdate>
+          <container id="aspace_97c4ed8d964040357bfd2456d3365293" label="Text [32882014311362]" type="Box">1</container>
+          <container id="aspace_1f37b37f38f4a9f4fff4a223a03b1e33" parent="aspace_97c4ed8d964040357bfd2456d3365293" type="Folder">4</container>
         </did>
         <scopecontent id="aspace_815d94ef49db2fbba8d0d62efcb77759">
           <head>Scope and Contents</head>

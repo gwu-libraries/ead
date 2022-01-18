@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2096.xml">ms2096.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:08 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:58:03 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -86,9 +85,9 @@
           <unitid>MS2096 Series 1</unitid>
           <unitdate datechar="creation">1965-1988</unitdate>
           <physdesc id="aspace_3a7d49b16b35b6ae2b1b107d93dc8187" label="General Physical Description note">1.5 Linear feet</physdesc>
-          <container id="aspace_7d3928672e79b1883931ead89b95e75f" label="Mixed Materials" type="Box">2</container>
-          <container id="aspace_cbd8483db5082aec193d0afc4ec67132" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_cd20a9a63e49d6bf4845c4ccc5fc3169" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_129e7b732b8661a3d3755b080e623a72" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_d0412d040b25dbfc4f2139c6421728a7" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_c78313c209b4723622e848f860247ad8" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_25d881421111c7a3503eb742173de197">
           <head>Scope and Contents note</head>
@@ -98,7 +97,7 @@
           <did>
             <unittitle>Documents</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e2b2c8c15bde606ec47409f360412fc1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_937487955affd7e318a5fc850a6ca0a7" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_7e57641ec14d92f706f75af39e0164f5">
             <head>General note</head>
@@ -108,8 +107,8 @@
           <did>
             <unittitle>Civil Disobedience Show Love The Milwaukee Journal Thurs. Congressional Record-House</unittitle>
             <unitdate datechar="creation">11/19/1965-04/11/1967</unitdate>
-            <container id="aspace_3215d59d169d99257cae7bf6396e8e80" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_359ebdc579e6acdef7e2929b795026c8" parent="aspace_3215d59d169d99257cae7bf6396e8e80" type="Folder">1</container>
+            <container id="aspace_47b12a9d8f4923a87dff3f89b3724774" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_574e9a8289490475bd115e9585bae3ab" parent="aspace_47b12a9d8f4923a87dff3f89b3724774" type="Folder">1</container>
           </did>
           <odd id="aspace_813d41ed180484dee6d7962a629420c4">
             <head>General note</head>
@@ -119,8 +118,8 @@
           <did>
             <unittitle>New York City HS Teacher's Strike</unittitle>
             <unitdate datechar="creation">1968-1969</unitdate>
-            <container id="aspace_16a6817e718b1c5eb89805ca3533a108" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9d194ee08b61523e1ca2fff54b84edb9" parent="aspace_16a6817e718b1c5eb89805ca3533a108" type="Folder">2</container>
+            <container id="aspace_50fb9a26b833d0e0fa34b848c5351c09" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9a6158266d2ef708b546a0c5558dc196" parent="aspace_50fb9a26b833d0e0fa34b848c5351c09" type="Folder">2</container>
           </did>
           <odd id="aspace_c3862cbd671f708c49d773f35142d3ae">
             <head>General note</head>
@@ -130,8 +129,8 @@
           <did>
             <unittitle>Pamphlets, newspaper clippings, and comic</unittitle>
             <unitdate datechar="creation">1968</unitdate>
-            <container id="aspace_935558aa0e7f91aa03583e227de1cb54" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_424559ebda4b1ac21013d2ababd99c5e" parent="aspace_935558aa0e7f91aa03583e227de1cb54" type="Folder">3</container>
+            <container id="aspace_55a666b19cf8d620f6aa5bcf73c38921" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fb95201db0887c8d96c0d6df3259f496" parent="aspace_55a666b19cf8d620f6aa5bcf73c38921" type="Folder">3</container>
           </did>
           <odd id="aspace_e85d6fd14c39d6d3834a09f21d603065">
             <head>General note</head>
@@ -141,8 +140,8 @@
           <did>
             <unittitle>Testimony Before Congressional Committees Investigating Campus Disorders</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_f105b0c5b279422386061da2d61e5b89" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5ab746b77163c3148b44154131aeb41c" parent="aspace_f105b0c5b279422386061da2d61e5b89" type="Folder">4</container>
+            <container id="aspace_31d7a278c3dbf2083241b3d8f171d2f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_034f16b0c2607e5c5b369c2954a7922f" parent="aspace_31d7a278c3dbf2083241b3d8f171d2f2" type="Folder">4</container>
           </did>
           <odd id="aspace_72b8ecd5f5a64f8b48ee4a108374e68a">
             <head>General note</head>
@@ -152,8 +151,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_746601b2e079e50ffaf89e909aff2ef5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c6527715ca80f705e0841a668c7d8305" parent="aspace_746601b2e079e50ffaf89e909aff2ef5" type="Folder">5</container>
+            <container id="aspace_177bab3b1ed114695544c34e23cc43c0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_eda12756b1be7162d487634d6ddcec10" parent="aspace_177bab3b1ed114695544c34e23cc43c0" type="Folder">5</container>
           </did>
           <odd id="aspace_e7ea88fa08a3d7a29ced9ac02eaba315">
             <head>General note</head>
@@ -163,8 +162,8 @@
           <did>
             <unittitle>New University Conference Incl. Biblio. 3 (10/30/1969, A.S.A.) Also 1971 A.S.A Convention Literature Distribution By Nuc.</unittitle>
             <unitdate datechar="creation">10/30/1969-1971</unitdate>
-            <container id="aspace_aeb14da918e39888793e288d56837b4f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3aa34347550f5d1f6ff75ec13a0b139f" parent="aspace_aeb14da918e39888793e288d56837b4f" type="Folder">6</container>
+            <container id="aspace_06a724f821613afa63600a3c7b9aa3ec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6843da134aeaa48b2eb780d3bd5fd77b" parent="aspace_06a724f821613afa63600a3c7b9aa3ec" type="Folder">6</container>
           </did>
           <odd id="aspace_a1e4ec3448d448eba3059537a39b3147">
             <head>General note</head>
@@ -174,8 +173,8 @@
           <did>
             <unittitle>College Students/09/ Radicalism/Intellectuals &amp; Radicalism/The University Alienation</unittitle>
             <unitdate datechar="creation">09/1970</unitdate>
-            <container id="aspace_450e17bf89166d0bd2f224119e13be39" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0735f0c1c8ad32937f5acb85a2109ac3" parent="aspace_450e17bf89166d0bd2f224119e13be39" type="Folder">7</container>
+            <container id="aspace_f0adf8419daac170f67bbb89ad512f75" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_54be67746796b775d762a75c29008c53" parent="aspace_f0adf8419daac170f67bbb89ad512f75" type="Folder">7</container>
           </did>
           <odd id="aspace_ab7043d88ce9c02a4a5a45cd24b95e92">
             <head>General note</head>
@@ -185,8 +184,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">01/1970-05/1970</unitdate>
-            <container id="aspace_ac0fc0a0b5527e1b0935232908d272aa" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3afc9de6955431f2a1b4d12cbb085c80" parent="aspace_ac0fc0a0b5527e1b0935232908d272aa" type="Folder">8</container>
+            <container id="aspace_dad8e561c6cd8cbcee95cc3ace0e8831" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_30907f1c45c65c614f4612e218cdf909" parent="aspace_dad8e561c6cd8cbcee95cc3ace0e8831" type="Folder">8</container>
           </did>
           <odd id="aspace_5d9a20e08d2131f0a2b215694344a449">
             <head>General note</head>
@@ -196,8 +195,8 @@
           <did>
             <unittitle>College Students/Radicalism/Intellectuals &amp; Radicalism The University Alienation</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7b235e6e0df113f6dccfd86e42c17b82" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_af9b8d82579f3b32fab97e633b456ce0" parent="aspace_7b235e6e0df113f6dccfd86e42c17b82" type="Folder">9</container>
+            <container id="aspace_2197598ea8985653ffec1f2bd1163b9b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a3f9d619d852ff00d4390313fef03ca9" parent="aspace_2197598ea8985653ffec1f2bd1163b9b" type="Folder">9</container>
           </did>
           <odd id="aspace_4a1e831961a882f7db6a268cbb3d7c7a">
             <head>General note</head>
@@ -207,7 +206,7 @@
           <did>
             <unittitle>Documents</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0456c38d914677d192627def5967f31e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b271f8c272f0bdbc40441f517fc49305" label="Mixed Materials" type="Box">2</container>
           </did>
           <odd id="aspace_354d9c435497784fe305c45cfa773057">
             <head>General note</head>
@@ -217,8 +216,8 @@
           <did>
             <unittitle>Handouts, Posters, Broadsides</unittitle>
             <unitdate datechar="creation">05/1970-07/1970</unitdate>
-            <container id="aspace_90353882f7c0bfad898fc08fd2be4c00" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2755dd42e73fa1fa61ccef2c4b06eb31" parent="aspace_90353882f7c0bfad898fc08fd2be4c00" type="Folder">1</container>
+            <container id="aspace_ed547b7e0e7bff3e4a2123b833bc5ff6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_62cff13ff13ccda41238e7779f86861e" parent="aspace_ed547b7e0e7bff3e4a2123b833bc5ff6" type="Folder">1</container>
           </did>
           <odd id="aspace_d7550fe1ba5cb68c1ea9373e07a45dbf">
             <head>General note</head>
@@ -228,8 +227,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">06/1970-08/1970</unitdate>
-            <container id="aspace_f76fe7dbc6aa7e66e9015cf1f831815a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_68e2b1f890bee9b6dabaf0447a59375e" parent="aspace_f76fe7dbc6aa7e66e9015cf1f831815a" type="Folder">2</container>
+            <container id="aspace_10c4f358e3fd96e5a0e438010c0773c6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b08d153bbac08b7eb9454c58f3b0afe6" parent="aspace_10c4f358e3fd96e5a0e438010c0773c6" type="Folder">2</container>
           </did>
           <odd id="aspace_a0748b614d051c176b7d22fddc141424">
             <head>General note</head>
@@ -239,8 +238,8 @@
           <did>
             <unittitle>WAFU. Tin Drum Vol. 11 No. 3 Washington Area Free University</unittitle>
             <unitdate datechar="creation">07/1970-08/1970</unitdate>
-            <container id="aspace_f8f5790adcad39a0bf35333d84d37716" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_bd1b69ae685557775cb8d3c3031e0bad" parent="aspace_f8f5790adcad39a0bf35333d84d37716" type="Folder">3</container>
+            <container id="aspace_cb324c39b86f5ac2dfe57b317a28f799" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_828d36ca0a8bb786c2a3389f6321a90e" parent="aspace_cb324c39b86f5ac2dfe57b317a28f799" type="Folder">3</container>
           </did>
           <odd id="aspace_5a03d4f944550b4e91913b201cbd8128">
             <head>General note</head>
@@ -250,8 +249,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">09/1970-12/1970</unitdate>
-            <container id="aspace_06887229e26c65623b8f41dc31c1aec3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_65f0968509d08b2da187c55a92903efc" parent="aspace_06887229e26c65623b8f41dc31c1aec3" type="Folder">4</container>
+            <container id="aspace_30a478b79bfe85137685c4c50a1aaf82" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3252a50452b05cf19f3308b7e467f37d" parent="aspace_30a478b79bfe85137685c4c50a1aaf82" type="Folder">4</container>
           </did>
           <odd id="aspace_540bfbfd232ee698c7f10859cfc07182">
             <head>General note</head>
@@ -261,8 +260,8 @@
           <did>
             <unittitle>Newspaper clippings</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_ce565b86520cf2b938bea699c8a6f5ae" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f811f26e2dcdf6caaf4df1e07747000e" parent="aspace_ce565b86520cf2b938bea699c8a6f5ae" type="Folder">5</container>
+            <container id="aspace_242a2af763baa0df102e170cdb609908" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_094b0bc9060310bb80c3e8e560f0c3d6" parent="aspace_242a2af763baa0df102e170cdb609908" type="Folder">5</container>
           </did>
           <odd id="aspace_55fa05f89a40fb7f6863026219393c8c">
             <head>General note</head>
@@ -272,8 +271,8 @@
           <did>
             <unittitle>Tsunami, Vol. 3, No. 6</unittitle>
             <unitdate datechar="creation">03/1971</unitdate>
-            <container id="aspace_e691a1a95378d299662378a15cff4f97" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7fab4a1cbfe6c4260d107af7ecae7a62" parent="aspace_e691a1a95378d299662378a15cff4f97" type="Folder">6</container>
+            <container id="aspace_c236061ba3191b40d80b9441d1dd5ff5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_dd25adb0e8157eb84afcd93b2d5fd04d" parent="aspace_c236061ba3191b40d80b9441d1dd5ff5" type="Folder">6</container>
           </did>
           <odd id="aspace_eabe5bb398852f58048210c855aa35d1">
             <head>General note</head>
@@ -283,8 +282,8 @@
           <did>
             <unittitle>Obtained at PC PJ HQ 1029 Vermont on</unittitle>
             <unitdate datechar="creation">04/29/1971</unitdate>
-            <container id="aspace_83bc3316409f0dd8d27748ba0a8c8cc0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_97afd0255ddf12405bb2c84f1d29b4f3" parent="aspace_83bc3316409f0dd8d27748ba0a8c8cc0" type="Folder">7</container>
+            <container id="aspace_edb43cd204aef5eb1f96dc8174ea4030" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_508005b535267825d0cc2b3d4d0b227c" parent="aspace_edb43cd204aef5eb1f96dc8174ea4030" type="Folder">7</container>
           </did>
           <odd id="aspace_815be63b5b56a0196ae4dbbdbe8e8933">
             <head>General note</head>
@@ -294,8 +293,8 @@
           <did>
             <unittitle>May Day</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_0d25370ee0a1190c5ec550a5a0c005fc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d7bf01f589b16915d04d6fdab4152f9a" parent="aspace_0d25370ee0a1190c5ec550a5a0c005fc" type="Folder">8</container>
+            <container id="aspace_54d8c4adf4b3c889055c542d1d4e5ddb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c1034c00af3da8aec9b777e4b27f7cb1" parent="aspace_54d8c4adf4b3c889055c542d1d4e5ddb" type="Folder">8</container>
           </did>
           <odd id="aspace_b87ab816739bd76ae513aceaf75aaf57">
             <head>General note</head>
@@ -305,8 +304,8 @@
           <did>
             <unittitle>Training Manual For Nonviolent Direct Action Spring Actions</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_9b74cbb9874e6e83e53a60707cede841" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b9b0884352eef2eaa3cb083929696f6e" parent="aspace_9b74cbb9874e6e83e53a60707cede841" type="Folder">9</container>
+            <container id="aspace_bc09dbad774bf311a22ef8ea4fe6b4ca" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_933845822b4a95621ec201d78bcb299b" parent="aspace_bc09dbad774bf311a22ef8ea4fe6b4ca" type="Folder">9</container>
           </did>
           <odd id="aspace_e5ae4f40069cd6a111477080b248b963">
             <head>General note</head>
@@ -316,8 +315,8 @@
           <did>
             <unittitle>People for Survival People's Peace Treaty</unittitle>
             <unitdate datechar="creation">09/10/1971</unitdate>
-            <container id="aspace_b065beb1bc4be94bd83e47257c05be67" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8c0132f52b739dbfb2aa440fc50438f9" parent="aspace_b065beb1bc4be94bd83e47257c05be67" type="Folder">10</container>
+            <container id="aspace_c8de4c2d66a8b20037a26b7d6b64661a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_86db54a9bccfd75db93504db88dd4290" parent="aspace_c8de4c2d66a8b20037a26b7d6b64661a" type="Folder">10</container>
           </did>
           <odd id="aspace_5856e126e58b3905e5cba40e863002fa">
             <head>General note</head>
@@ -327,8 +326,8 @@
           <did>
             <unittitle>Fauntroy-Chin-Lee-Hassan-Cassell Campaign Materials for D.C. delegate Nevius</unittitle>
             <unitdate datechar="creation">1971-1972</unitdate>
-            <container id="aspace_c78b270380743311d4f2d6cacfd28716" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b39a85b32912e7754aad1fed942394f1" parent="aspace_c78b270380743311d4f2d6cacfd28716" type="Folder">11</container>
+            <container id="aspace_0e6c327c8c2d1cd126aa2fbd69d423c6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_53258470ff751f37daf1c49ce302d2a2" parent="aspace_0e6c327c8c2d1cd126aa2fbd69d423c6" type="Folder">11</container>
           </did>
           <odd id="aspace_0e226c7762635484762936984918e2b9">
             <head>General note</head>
@@ -338,8 +337,8 @@
           <did>
             <unittitle>Election Board Certifies McGovern victory in D.C. "The Sunday Star" and "Daily News"</unittitle>
             <unitdate datechar="creation">11/26/1972</unitdate>
-            <container id="aspace_0c92431d7a176a449390fe95dd6335f8" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1d47630c1d6027cfab199e09ba8c9344" parent="aspace_0c92431d7a176a449390fe95dd6335f8" type="Folder">12</container>
+            <container id="aspace_cdc7f6a7456946b3543608416b5f0885" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eed846c18e3399fc51cebbc4fb087084" parent="aspace_cdc7f6a7456946b3543608416b5f0885" type="Folder">12</container>
           </did>
           <odd id="aspace_5b89b6fe22ec83b43175e670f86da8fb">
             <head>General note</head>
@@ -349,8 +348,8 @@
           <did>
             <unittitle>The Rising Tide, Vol 11.No. 18</unittitle>
             <unitdate datechar="creation">11/06/1972</unitdate>
-            <container id="aspace_8dfdcceee7fd802ec98d95771119b996" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_faa394a36e6b412eaebef2b15b8f35fe" parent="aspace_8dfdcceee7fd802ec98d95771119b996" type="Folder">13</container>
+            <container id="aspace_63b6341a0aafe526b9d6852fb12c10f3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_83dbace0c1d25f1b387069ed26656de8" parent="aspace_63b6341a0aafe526b9d6852fb12c10f3" type="Folder">13</container>
           </did>
           <odd id="aspace_d497468046df35b73d47ba3c76235f4e">
             <head>General note</head>
@@ -360,8 +359,8 @@
           <did>
             <unittitle>Material Exclusively In/About Peace Movement, Inaugural Protest Demonstration</unittitle>
             <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_0f0a8cd5e6425d27600e9ae554e2e69e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6cd694c2e430d9562b9cb0d55591b763" parent="aspace_0f0a8cd5e6425d27600e9ae554e2e69e" type="Folder">14</container>
+            <container id="aspace_4020e3e3d36635684bf180d7e97bd569" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7a09d3be6a344088dca321750b3d98ce" parent="aspace_4020e3e3d36635684bf180d7e97bd569" type="Folder">14</container>
           </did>
           <odd id="aspace_8dc41e998afccef574efe86f9cb0b625">
             <head>General note</head>
@@ -371,7 +370,7 @@
           <did>
             <unittitle>Documents</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_67eb252ad8f29595d3f1e6ee628278e6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_9ef15dc9847de25f98dc7c1cdbb3bda3" label="Mixed Materials" type="Box">3</container>
           </did>
           <odd id="aspace_7f75da12a9f896b5985715d4476a23b9">
             <head>General note</head>
@@ -381,8 +380,8 @@
           <did>
             <unittitle>Earl Browder, Ex-head of Communist Party Sun-News</unittitle>
             <unitdate datechar="creation">06/28/1973</unitdate>
-            <container id="aspace_d84e9a56d386caa6888905b195ccadf5" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_1fe29cc26a73f1a30a1b223f753658d3" parent="aspace_d84e9a56d386caa6888905b195ccadf5" type="Folder">1</container>
+            <container id="aspace_02f806f60e29f7e15e78e9253edff0d0" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_529abfe7f737882a8245284909ae2d33" parent="aspace_02f806f60e29f7e15e78e9253edff0d0" type="Folder">1</container>
           </did>
           <odd id="aspace_5052aa0d25f82639481168acef687013">
             <head>General note</head>
@@ -392,8 +391,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_8ae57927e18a988ae733fdb8e38f4cb8" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6c43155e0c94a85162241f6f6d459c19" parent="aspace_8ae57927e18a988ae733fdb8e38f4cb8" type="Folder">2</container>
+            <container id="aspace_82ea2d3496e5f0572a0cd0b12ce73673" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_bc398f4829b8218498151b071e3ef6c3" parent="aspace_82ea2d3496e5f0572a0cd0b12ce73673" type="Folder">2</container>
           </did>
           <odd id="aspace_47b56134cd237369bb53c9b20d322b83">
             <head>General note</head>
@@ -403,8 +402,8 @@
           <did>
             <unittitle>Workers World, Vol. 17, No. 17</unittitle>
             <unitdate datechar="creation">04/25/1975</unitdate>
-            <container id="aspace_019ed7d759db9cfac365684eed64948a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_87bb557309366fc7e75908bf7e4c5c54" parent="aspace_019ed7d759db9cfac365684eed64948a" type="Folder">3</container>
+            <container id="aspace_8a7fa15e93e4d987134ce66fafe6e7c9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b56174aaf0a66fd26281cb87ab28564c" parent="aspace_8a7fa15e93e4d987134ce66fafe6e7c9" type="Folder">3</container>
           </did>
           <odd id="aspace_7287d524e91645b29d135ccdab6eae6c">
             <head>General note</head>
@@ -414,8 +413,8 @@
           <did>
             <unittitle>"The Washington Times" Vol. 1, No. 20</unittitle>
             <unitdate datechar="creation">09/26/1975-10/09/1975</unitdate>
-            <container id="aspace_b6699ac498170a1be3573de474ebdfae" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f4d51cdced21f0127f54c8a944ff97f2" parent="aspace_b6699ac498170a1be3573de474ebdfae" type="Folder">4</container>
+            <container id="aspace_65bc08a8964e5e01bdb3df9a90956166" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2709f01cbfcecac0d0ac8ffc5932d897" parent="aspace_65bc08a8964e5e01bdb3df9a90956166" type="Folder">4</container>
           </did>
           <odd id="aspace_004964b1ef05c11ba3a363ab1cd099db">
             <head>General note</head>
@@ -425,8 +424,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1976</unitdate>
-            <container id="aspace_d59fc093a592663eb61e31197d09548c" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_f56aa7ecfaa2cedfee9829e15a6e58cf" parent="aspace_d59fc093a592663eb61e31197d09548c" type="Folder">5</container>
+            <container id="aspace_d62bcb8abb8a844214a9b0902c788545" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_03eef468384d0aa29d1e181dc875e142" parent="aspace_d62bcb8abb8a844214a9b0902c788545" type="Folder">5</container>
           </did>
           <odd id="aspace_721f33270902ac696af825bc7a726891">
             <head>General note</head>
@@ -436,8 +435,8 @@
           <did>
             <unittitle>Journals and calendars</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_df85f8377b0d439cf4882de34158fba3" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_8c0917ddc25e774eaf605d5a77bb0dfe" parent="aspace_df85f8377b0d439cf4882de34158fba3" type="Folder">6</container>
+            <container id="aspace_a78489ca63ca637528830ddbde513ba3" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2e00341b7ee1424bafefcffda11adefc" parent="aspace_a78489ca63ca637528830ddbde513ba3" type="Folder">6</container>
           </did>
           <odd id="aspace_6d61ba8e99c0deee6adbdec2a35958d5">
             <head>General note</head>
@@ -447,8 +446,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_861a202f5fc8d4cd8d71637df87e689f" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_0e5a5d93b5ae036073b32d4ebb5d91d2" parent="aspace_861a202f5fc8d4cd8d71637df87e689f" type="Folder">7</container>
+            <container id="aspace_6366437b07df70b67888e1664b6910fa" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d069e87148bc21599f55932f7b5b8287" parent="aspace_6366437b07df70b67888e1664b6910fa" type="Folder">7</container>
           </did>
           <odd id="aspace_f50537ffc2134cec236dd8aea287dc17">
             <head>General note</head>
@@ -458,8 +457,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_4e0be75a6ec8bc8505ab3a149d99d2aa" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_c0e2e73ef379470b10f6cf1152b4172e" parent="aspace_4e0be75a6ec8bc8505ab3a149d99d2aa" type="Folder">8</container>
+            <container id="aspace_37ddca074f04668165cda9d1688c5607" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_f2ecf5594eb9776a72baf7d1d052df79" parent="aspace_37ddca074f04668165cda9d1688c5607" type="Folder">8</container>
           </did>
           <odd id="aspace_4290693c48ca86c6743df2ec6644b185">
             <head>General note</head>
@@ -469,8 +468,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_f46af17a098d1ce350b5ac80a5e11007" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_b9920adad88f6c5d33e6126f332155d9" parent="aspace_f46af17a098d1ce350b5ac80a5e11007" type="Folder">9</container>
+            <container id="aspace_e61282a25de698f70a15d6ee98c517d4" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4090830b9fce5f2db94e4c9af2d2eec6" parent="aspace_e61282a25de698f70a15d6ee98c517d4" type="Folder">9</container>
           </did>
           <odd id="aspace_674e6b6ee6b01daecc1739eb14a801b0">
             <head>General note</head>
@@ -480,8 +479,8 @@
           <did>
             <unittitle>Official Ballot: Nuclear Weapons Freeze Act of 1982</unittitle>
             <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_921aff5adbb46feadade2b793d16e786" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_9bd3b1663dec6070ff4415839d58bba2" parent="aspace_921aff5adbb46feadade2b793d16e786" type="Folder">10</container>
+            <container id="aspace_2b816daaf6fadb44bf2eb58ef39eb276" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_52ed4aba0dc06abf90771642825475fd" parent="aspace_2b816daaf6fadb44bf2eb58ef39eb276" type="Folder">10</container>
           </did>
           <odd id="aspace_10b56cec87a70e0b993b9b63970f797e">
             <head>General note</head>
@@ -491,8 +490,8 @@
           <did>
             <unittitle>Washington Peace Center Newsletter Vol. 19, No. 9</unittitle>
             <unitdate datechar="creation">11/1983</unitdate>
-            <container id="aspace_decf705f5731ef0e71e2151215d651e9" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_8fcf07f58d993466ca286105849fd6d2" parent="aspace_decf705f5731ef0e71e2151215d651e9" type="Folder">11</container>
+            <container id="aspace_68f82fce20a6445f38e6d40a70e595a6" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6e755a607591c7f1ac71f9205fffda4a" parent="aspace_68f82fce20a6445f38e6d40a70e595a6" type="Folder">11</container>
           </did>
           <odd id="aspace_e9be50c986fba5baa845ae0c83d398df">
             <head>General note</head>
@@ -502,8 +501,8 @@
           <did>
             <unittitle>Newspaper articles</unittitle>
             <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_def88887241576ddb4de5892dc07ad33" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_ce2c47236c8f2f1d6373ba6caf4c4553" parent="aspace_def88887241576ddb4de5892dc07ad33" type="Folder">12</container>
+            <container id="aspace_2deaf985e7d3e7249655e22e4458586c" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_efe784b71d294b78600b2168675b95ab" parent="aspace_2deaf985e7d3e7249655e22e4458586c" type="Folder">12</container>
           </did>
           <odd id="aspace_33698c8bb3642bc462402750992812a7">
             <head>General note</head>
@@ -516,8 +515,8 @@
           <unitid>MS2096 Series 2</unitid>
           <unitdate datechar="creation">undated</unitdate>
           <physdesc id="aspace_c3c4b892fdf40077250d66ab51f46e6b" label="General Physical Description note">1 Linear feet</physdesc>
-          <container id="aspace_0fd27deebaef3839cb1ec300337f94f1" label="Mixed Materials [32882022400215]" type="Box">4</container>
-          <container id="aspace_8c85a32912f127d927b57d1329f034f7" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_9541488c36ad4cac86ba6d55bf6a39b8" label="Mixed Materials [32882022400215]" type="Box">4</container>
+          <container id="aspace_a09012c3456c66ec7a0579afc62cb018" label="Mixed Materials" type="Box">5</container>
         </did>
         <scopecontent id="aspace_521f256fda556a93f788a9951a635716">
           <head>Scope and Contents note</head>
@@ -527,8 +526,8 @@
           <did>
             <unittitle>High School Radicalism</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f2f08cd6cf55883ca6c44fe151932ca8" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_21fefe57fa1fdb9240a96d88402b7399" parent="aspace_f2f08cd6cf55883ca6c44fe151932ca8" type="Folder">1</container>
+            <container id="aspace_bca738bee43d29a366ef1ac8f75bb3d5" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_ebdac808d3074f1c52cea2c2321c1b17" parent="aspace_bca738bee43d29a366ef1ac8f75bb3d5" type="Folder">1</container>
           </did>
           <odd id="aspace_5c0cbae13274217f9b51b3178113ee95">
             <head>General note</head>
@@ -539,8 +538,8 @@
           <did>
             <unittitle>Gay, Lib, Etc.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0b86ce0c66e222c92eb009784b97164c" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_2a5bb65041f351e5934b09c893889eab" parent="aspace_0b86ce0c66e222c92eb009784b97164c" type="Folder">2</container>
+            <container id="aspace_2b05bc91cfc0d0d96b85125b5ab10d08" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_5fc2e5a48edd3a82bf56c88f798b574a" parent="aspace_2b05bc91cfc0d0d96b85125b5ab10d08" type="Folder">2</container>
           </did>
           <odd id="aspace_17f39dfc72cc61881333e5c53024ede0">
             <head>General note</head>
@@ -550,8 +549,8 @@
           <did>
             <unittitle>Foreign Student Unrest</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eed39214a79d3d904bad51c1e70da43b" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_d0437b7cb46ecdf163de0265d83458ae" parent="aspace_eed39214a79d3d904bad51c1e70da43b" type="Folder">3</container>
+            <container id="aspace_77a75b65538001742185f0a2a0f9b648" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_07e11650eb6e8ef5efe7cca97e811833" parent="aspace_77a75b65538001742185f0a2a0f9b648" type="Folder">3</container>
           </did>
           <odd id="aspace_c521e4cc2a3e2227e5a28af4113d48ca">
             <head>General note</head>
@@ -561,8 +560,8 @@
           <did>
             <unittitle>S.D.S. Publications and Articles</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0eab2783cbc801feaf848cfd71fbcaa4" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_8372ce54a6e9d4ba41c09d2732789ab5" parent="aspace_0eab2783cbc801feaf848cfd71fbcaa4" type="Folder">4</container>
+            <container id="aspace_74161e049f38d891f438de516743be89" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_3bfdf85bc14dfacb0ee8544fcdb1e59b" parent="aspace_74161e049f38d891f438de516743be89" type="Folder">4</container>
           </did>
           <odd id="aspace_62908f236946e00e1c16a3d626063e20">
             <head>General note</head>
@@ -572,8 +571,8 @@
           <did>
             <unittitle>The People's Bicentennial Comm.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a5ed02f6a8360946fb1e2f5f8323f80c" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_8479f387b41676afbdf740d3b95c1204" parent="aspace_a5ed02f6a8360946fb1e2f5f8323f80c" type="Folder">5</container>
+            <container id="aspace_6ef20f990fe34950b3ae28a0b85b5bdf" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_96e7d0c5989753561ffe36288331e613" parent="aspace_6ef20f990fe34950b3ae28a0b85b5bdf" type="Folder">5</container>
           </did>
           <odd id="aspace_5b25d390009c4e79808a217a7ca95965">
             <head>General note</head>
@@ -583,8 +582,8 @@
           <did>
             <unittitle>Socialist labor party books and pamphlets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_141d75c31c39f8f471be646635cc133c" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_2af2f6874d40d8d19b99ac1dd4154839" parent="aspace_141d75c31c39f8f471be646635cc133c" type="Folder">6</container>
+            <container id="aspace_b61d64d4e44807543c9a2d7914e9fc08" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_9b82550db6bbdf78ff8b086435e4e868" parent="aspace_b61d64d4e44807543c9a2d7914e9fc08" type="Folder">6</container>
           </did>
           <odd id="aspace_ef59da971e6b0517918b12fef320bed7">
             <head>General note</head>
@@ -594,8 +593,8 @@
           <did>
             <unittitle>Black Student Military</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2ba5ea8f033b08213679568ae5f89289" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_8bedc906234ed4f641d1b41782fa824d" parent="aspace_2ba5ea8f033b08213679568ae5f89289" type="Folder">7</container>
+            <container id="aspace_b0cbe6ce0563347b5651ed2fc522397a" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_3adbe7602d2f87ec1fb918d8769d4851" parent="aspace_b0cbe6ce0563347b5651ed2fc522397a" type="Folder">7</container>
           </did>
           <odd id="aspace_ae6a20221809d7b9a512e25dd6142caa">
             <head>General note</head>
@@ -605,8 +604,8 @@
           <did>
             <unittitle>Literature on Communism except huac pamphlets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cde60b209a1745166fde05d974fde964" label="Mixed Materials [32882022400215]" type="Box">4</container>
-            <container id="aspace_48de171e2fe6719fddaf90b305d959c4" parent="aspace_cde60b209a1745166fde05d974fde964" type="Folder">8</container>
+            <container id="aspace_1f35d5acc4feacd5ae12a309886d0b9a" label="Mixed Materials [32882022400215]" type="Box">4</container>
+            <container id="aspace_ebaf171f43eab61e54b47d3a7409460f" parent="aspace_1f35d5acc4feacd5ae12a309886d0b9a" type="Folder">8</container>
           </did>
           <odd id="aspace_1719bb5b5a8027879e319598f808aed8">
             <head>General note</head>
@@ -616,7 +615,7 @@
           <did>
             <unittitle>Pamphlets and paraphanalia</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_07572809f12214a668f12073867d0723" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d2330ed63ac61115292d97150d8ab98d" label="Mixed Materials" type="Box">5</container>
           </did>
           <odd id="aspace_eb04f1ace9f4f349e643b978dbccd7b1">
             <head>General note</head>
@@ -626,8 +625,8 @@
           <did>
             <unittitle>Woman's Liberation Movements and Studies</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d93a1cde20efb79be8375e1ad6f2e1cc" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_c8300c78f1565597c1b836c01c1ac0dd" parent="aspace_d93a1cde20efb79be8375e1ad6f2e1cc" type="Folder">1</container>
+            <container id="aspace_05d55e894c48f262308a52696e8865c3" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_410a77e571f074eedb2178506d4e0832" parent="aspace_05d55e894c48f262308a52696e8865c3" type="Folder">1</container>
           </did>
           <odd id="aspace_6d90e42b48ed9b436e86d0f1b4954706">
             <head>General note</head>
@@ -637,8 +636,8 @@
           <did>
             <unittitle>Young Socialist Alliance</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_597c28aeb6ab19fe6a218d827b5062d2" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_febceddbdc2918b6add5499cb9ba315a" parent="aspace_597c28aeb6ab19fe6a218d827b5062d2" type="Folder">2</container>
+            <container id="aspace_5d4eef5b435b4f5d76a7ac6e0d8a7da9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_25ee7bf3d9c628ed0d95515222a47f67" parent="aspace_5d4eef5b435b4f5d76a7ac6e0d8a7da9" type="Folder">2</container>
           </did>
           <odd id="aspace_bbe7147afa29e422da79519554101268">
             <head>General note</head>
@@ -648,8 +647,8 @@
           <did>
             <unittitle>Book Reviews &amp; Music Bibliographic Notes/student unrest Intellectual Radicalism</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7c2cf808d248c40d3f52512db5382d38" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_b2c20d4bdf82f3ad86664b0983483bfc" parent="aspace_7c2cf808d248c40d3f52512db5382d38" type="Folder">3</container>
+            <container id="aspace_1209d23f57495c9eb23c8416d239365b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_93a160fcc8b66d3086bf7e485223ba54" parent="aspace_1209d23f57495c9eb23c8416d239365b" type="Folder">3</container>
           </did>
           <odd id="aspace_dedb3973db4da4b33b9a0ee42e6bc849">
             <head>General note</head>
@@ -659,8 +658,8 @@
           <did>
             <unittitle>Communist Literature W.E.B. Dubois Clubs CP USA, Red China</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5ee2469e7febb68a6250f04e7a087f81" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_27ff6be76441ff90b3a58df56983e7d2" parent="aspace_5ee2469e7febb68a6250f04e7a087f81" type="Folder">4</container>
+            <container id="aspace_1a7024d5b8f57e6493ca207ebc8f4a05" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4a97e24392ef3cb632046f9c18da5a74" parent="aspace_1a7024d5b8f57e6493ca207ebc8f4a05" type="Folder">4</container>
           </did>
           <odd id="aspace_ebbdec1a6de6997dd1e96ffb44ca27dd">
             <head>General note</head>
@@ -670,8 +669,8 @@
           <did>
             <unittitle>Artifacts</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7a38d77cdbaa43463d10a4234f13b97a" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_b2701a5cb028857c8231c9fabc6fd272" parent="aspace_7a38d77cdbaa43463d10a4234f13b97a" type="Folder">5</container>
+            <container id="aspace_50e4f0893293779f3752770dbfb93f7e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ed56d99af1bcae88d8077a3b087fd59f" parent="aspace_50e4f0893293779f3752770dbfb93f7e" type="Folder">5</container>
           </did>
           <odd id="aspace_70ab82fc9777c893970c02f8f71786c8">
             <head>General note</head>
@@ -681,8 +680,8 @@
           <did>
             <unittitle>Magazines, flyers, and, and pamphlets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8fb9c971bea8d05edd586e78cbe89527" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_436151c9455ad8efbcab100a644500a9" parent="aspace_8fb9c971bea8d05edd586e78cbe89527" type="Folder">6</container>
+            <container id="aspace_0de5ea872cd07cc9bab0ad73ce8b340c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0aeb7dbe91af5677d2271620c0ceadb7" parent="aspace_0de5ea872cd07cc9bab0ad73ce8b340c" type="Folder">6</container>
           </did>
           <odd id="aspace_76b09693afcca87aba45fc63470657ac">
             <head>General note</head>

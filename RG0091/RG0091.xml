@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0091.xml">rg0091.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:52:36 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:10:44 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -88,9 +87,9 @@
           <unittitle>Master of Art in the Field of Art Therapy</unittitle>
           <unitdate datechar="creation">1972-1982 and undated</unitdate>
           <physdesc id="aspace_8d24e61a44500b339bae5e971db54896" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_33bb8eb70f1b7c9f70feda078c622dfc" label="Mixed Materials [32882021551513]" type="Box">1</container>
-          <container id="aspace_fda1a4948e239b165389c985ee99efa1" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
-          <container id="aspace_a4a6584e31cef993b8af71f51c581527" parent="aspace_fda1a4948e239b165389c985ee99efa1" type="Folder">6</container>
+          <container id="aspace_6d216bb14756092fbf24d16214035375" label="Mixed Materials [32882021551513]" type="Box">1</container>
+          <container id="aspace_06bb0bad20bf8a38c6b032b5c1b0e28b" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
+          <container id="aspace_47c914ed69d7ef773222178aeabb171c" parent="aspace_06bb0bad20bf8a38c6b032b5c1b0e28b" type="Folder">6</container>
         </did>
         <scopecontent id="aspace_d255e2c99df6d8d8a95cf24ab68781df">
           <head>Scope and Contents note</head>

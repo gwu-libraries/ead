@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="https://searcharchives.library.gwu.edu/repositories/2/resources/353">ms2199.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:41:26 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:00:11 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -40,8 +39,8 @@
       <abstract id="aspace_41ff6d4d4858d5faecb15d7b2e17bf45">This French manuscript collection contains correspondence, legal documents, pamphlets, notes, and an envelope. The materials date from 1644-1997. Topics include the French Revolution, royal marriages, taxation, and land sales. Ray Rackley, a Gelman Library supporter, partially translated, identified and dated these manuscripts in 1997. He included a written synopsis of the manuscript within each folder. His translations notes are included in the collection.</abstract>
       <langmaterial><language langcode="fre" scriptcode="Latn">French</language>
 .    </langmaterial>
-      <container id="aspace_24e61850f665d9233af6abf564b84c92" label="Mixed Materials [32882011707380]" type="Box">2</container>
-      <container id="aspace_e83ad8fb7b112a3767b197def3b8dd62" label="Mixed Materials [32882011707372]" type="Box">1</container>
+      <container id="aspace_fe511d865d5d63832f24a6959f289c9c" label="Mixed Materials [32882011707380]" type="Box">2</container>
+      <container id="aspace_6e96de33aa24384d34d7daa507e83b83" label="Mixed Materials [32882011707372]" type="Box">1</container>
     </did>
     <prefercite id="aspace_8384f0821ba52a7100a4eb048acce063">
       <head>Preferred citation</head>
@@ -79,8 +78,8 @@
         <did>
           <unittitle>Copy of the Letter that the Catholic King [Philippe V] wrote to King Louis XV.</unittitle>
           <unitdate datechar="creation">1722 ca.</unitdate>
-          <container id="aspace_ab3d92cc4c70fec7ee00ee112c234913" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_957bf12d5f23c09441c8799c9ed3d131" parent="aspace_ab3d92cc4c70fec7ee00ee112c234913" type="Folder">1</container>
+          <container id="aspace_a8b0969be99980821115a81ee039c2cd" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_0b3036c4ef8293bb2c9462cca177bd5a" parent="aspace_a8b0969be99980821115a81ee039c2cd" type="Folder">1</container>
         </did>
         <odd id="aspace_2cbe1b9625af74d8798920aa26634605">
           <head>General note</head>
@@ -91,8 +90,8 @@
         <did>
           <unittitle>New title to land/property inherited by Cyprien and Madeleine Daniel</unittitle>
           <unitdate datechar="creation">01/30/1738</unitdate>
-          <container id="aspace_12e893f8cb85a4ef23c2206fcbf131ac" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_d771a105e429833023d9f7d5555fa873" parent="aspace_12e893f8cb85a4ef23c2206fcbf131ac" type="Folder">2</container>
+          <container id="aspace_429d57ee64e356c50e9cef2fe3a12c03" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_7c39d72f3aeefb84fd656c6a1a84074b" parent="aspace_429d57ee64e356c50e9cef2fe3a12c03" type="Folder">2</container>
         </did>
         <odd id="aspace_4b916895a7da3fb20c821fe6ea1594dc">
           <head>General note</head>
@@ -104,8 +103,8 @@
         <did>
           <unittitle>Printed copy in French of document issued in the name of Louis XIV, King of France</unittitle>
           <unitdate datechar="creation">05/20/1645</unitdate>
-          <container id="aspace_456a706ac85da025b691c7e4497eeaa5" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_60ae6639355deb3b91b1640bf4f074a6" parent="aspace_456a706ac85da025b691c7e4497eeaa5" type="Folder">3</container>
+          <container id="aspace_99cce34ebb6eb2bccd3ca914614fe0b9" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_acb79c1b55aff1152e1bc385c99e752a" parent="aspace_99cce34ebb6eb2bccd3ca914614fe0b9" type="Folder">3</container>
         </did>
         <odd id="aspace_9d0b42180f52d1536eaa927ffd5e2a39">
           <head>General note</head>
@@ -116,8 +115,8 @@
         <did>
           <unittitle>Baranger, Administrator of the Departement de Maine Letter from the administrative commission of the civic hospices near La Place Maurice</unittitle>
           <unitdate datechar="creation">1797</unitdate>
-          <container id="aspace_b3057a7ac7b03f39ca6c3279f8835da1" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_5745c2f235d48a69f4e73c14f29563e0" parent="aspace_b3057a7ac7b03f39ca6c3279f8835da1" type="Folder">4</container>
+          <container id="aspace_7f482f4ba9f8cad2d49fdbe17dfa0e2a" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_3b9ca3fdf67aabb43bfe4f3637e834c7" parent="aspace_7f482f4ba9f8cad2d49fdbe17dfa0e2a" type="Folder">4</container>
         </did>
         <odd id="aspace_60e815a428f6bddffdd749539f004897">
           <head>General note</head>
@@ -128,8 +127,8 @@
         <did>
           <unittitle>"Compte que rendent Arnaud de Trilhe, dit Fanget, et Pierre de Troquet, jurats de la ville d'Espsey, 1717-1718" ["Financial accounting given by two Jurats (sworn municipal officers) of the city of Espsey, southern France, for the years 1717-1718."]</unittitle>
           <unitdate datechar="creation">1717 ca.</unitdate>
-          <container id="aspace_0c8baecfc25562638a64b92bcfa5c56c" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_641e1e3f4a3f2e133c2e8d6df7376f00" parent="aspace_0c8baecfc25562638a64b92bcfa5c56c" type="Folder">5</container>
+          <container id="aspace_5f864a8de1caa2483a921629f9d1d24c" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_63fbb80b39478d65ce095b02841a5255" parent="aspace_5f864a8de1caa2483a921629f9d1d24c" type="Folder">5</container>
         </did>
         <odd id="aspace_8eba2ffa468a61e512f5880ac61a8adc">
           <head>General note</head>
@@ -141,8 +140,8 @@
         <did>
           <unittitle>In horrendum nefas, perpetratum die 5 mensis Jan. 1757 [On the horrible assassination attempt, of five January 1757].</unittitle>
           <unitdate datechar="creation">1757</unitdate>
-          <container id="aspace_fb9d817d741f0904f2c4f4a414ac7632" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_935d14b90c94e6019eb41c2d12cc54f3" parent="aspace_fb9d817d741f0904f2c4f4a414ac7632" type="Folder">6</container>
+          <container id="aspace_54442f6c040eedc89b954c38777f47e1" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_f49b0098734701a49ae891bc7976c22c" parent="aspace_54442f6c040eedc89b954c38777f47e1" type="Folder">6</container>
         </did>
         <odd id="aspace_d151c3c768efbf592b78aa8691df299d">
           <head>General note</head>
@@ -153,8 +152,8 @@
         <did>
           <unittitle>Le Paradis Terrestre, Poeme Imite de Milton [The Earthly Paradise, Poem in the style of Milton]</unittitle>
           <unitdate datechar="creation">1760</unitdate>
-          <container id="aspace_7c59964af30072c4f85f2c94052cc5f4" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_75a33bd7da5317f519e3ed1ebf9f2ba0" parent="aspace_7c59964af30072c4f85f2c94052cc5f4" type="Folder">7</container>
+          <container id="aspace_1447c8e2a40a74af620030fa980f3ada" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_59458a872a79b90a47dcdebd6d53bda8" parent="aspace_1447c8e2a40a74af620030fa980f3ada" type="Folder">7</container>
         </did>
         <odd id="aspace_14f8e3d404620e4a02f6285b27c9f7a4">
           <head>General note</head>
@@ -165,8 +164,8 @@
         <did>
           <unittitle>Sebastien Bontems et autres au proffit de Monsieur [Claude Charles] Rossignol. [Sebastien Bontems and others to the benefit of Monsieur (Claude Charles Rossignol)].</unittitle>
           <unitdate datechar="creation">07/16/1741</unitdate>
-          <container id="aspace_d7bfb40ac7a38713648e5ce031a08a98" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_c2b0babc0b599cfbc6abb01882a67fbf" parent="aspace_d7bfb40ac7a38713648e5ce031a08a98" type="Folder">8</container>
+          <container id="aspace_02398b086a1fb3f28ea0831098c8b8c9" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_9c23966d5198f552e56a3f0bdb06f1cd" parent="aspace_02398b086a1fb3f28ea0831098c8b8c9" type="Folder">8</container>
         </did>
         <odd id="aspace_a2097e635bbaabe26ef5b58a38b22708">
           <head>General note</head>
@@ -177,8 +176,8 @@
         <did>
           <unittitle>[Envelope addressed to] Monsieur Le Marquis D'Eskelbecy</unittitle>
           <unitdate datechar="creation">18th ca.</unitdate>
-          <container id="aspace_6a682b36dc2e0400f5bddb2e1e3a8c00" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_59b8175188e08424e69f602b82546c35" parent="aspace_6a682b36dc2e0400f5bddb2e1e3a8c00" type="Folder">9</container>
+          <container id="aspace_d005013ac590579c663618b5f182f84c" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_ec45f01c3ababd705a5093f6eb346f6b" parent="aspace_d005013ac590579c663618b5f182f84c" type="Folder">9</container>
         </did>
         <odd id="aspace_757a5b6aa036b01142eec0387c31b554">
           <head>General note</head>
@@ -189,8 +188,8 @@
         <did>
           <unittitle>Titre nouvel contre Les heritiers de Cyprien Daniel 9 mars 1727. [New (property) title against the inheritors of Cyprien Daniel]</unittitle>
           <unitdate datechar="creation">03/09/1727</unitdate>
-          <container id="aspace_9373f6744ebc62da9dbc9e7c4c4b063f" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_35d0e29305871d098e5521d58b2fe092" parent="aspace_9373f6744ebc62da9dbc9e7c4c4b063f" type="Folder">10</container>
+          <container id="aspace_61122e2a71a85daca851bcc9d0cc5eac" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_b784b9015b4dc8c341d7eed2260469c5" parent="aspace_61122e2a71a85daca851bcc9d0cc5eac" type="Folder">10</container>
         </did>
         <odd id="aspace_ed9414c1a799441a3b29b88b5f6f66ad">
           <head>General note</head>
@@ -201,8 +200,8 @@
         <did>
           <unittitle>Simon de Goussey, demandeur, et Elaude de la Haye, deffendeur. [Simon de Goussey, plaintif, et Claude de la Haye, defendent]</unittitle>
           <unitdate datechar="creation">1655</unitdate>
-          <container id="aspace_fd51b59464df1d3e5c8db343d124ee68" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_74a5144a813ffd7a5b3acc0650b7626a" parent="aspace_fd51b59464df1d3e5c8db343d124ee68" type="Folder">11</container>
+          <container id="aspace_ef032a1869153f069c8aefe7f5762756" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_dac9bff57c8457ad9ad943e1c05c3694" parent="aspace_ef032a1869153f069c8aefe7f5762756" type="Folder">11</container>
         </did>
         <odd id="aspace_50c684534badb50157063769bba10741">
           <head>General note</head>
@@ -213,22 +212,22 @@
         <did>
           <unittitle>Ray Rackley notes, [1/2]</unittitle>
           <unitdate datechar="creation">1997 -ca.</unitdate>
-          <container id="aspace_060a09462dcdfba9ed777ff9020549d0" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_1af33e9e33dd10ad76a01ef9281ed268" parent="aspace_060a09462dcdfba9ed777ff9020549d0" type="Folder">12</container>
+          <container id="aspace_81f76a6eb641ad410d7042916defbec8" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_eef92ed4ade4cd5214b288df4b9066e0" parent="aspace_81f76a6eb641ad410d7042916defbec8" type="Folder">12</container>
         </did>
       </c>
       <c id="aspace_ref32_7c7" level="file">
         <did>
           <unittitle>Ray Rackley notes, [2/2]</unittitle>
           <unitdate datechar="creation">1997 -ca.</unitdate>
-          <container id="aspace_6574c177014dc36fb6eed1a7ffd48ff5" label="Mixed Materials" type="Box">3</container>
-          <container id="aspace_27dd20d1d8c8e304cf82b626ee1d7bbb" parent="aspace_6574c177014dc36fb6eed1a7ffd48ff5" type="Folder">13</container>
+          <container id="aspace_1a389993d433262c58f85a409ab8b8a7" label="Mixed Materials" type="Box">3</container>
+          <container id="aspace_1da17cb35b0e46775607b8243f77847c" parent="aspace_1a389993d433262c58f85a409ab8b8a7" type="Folder">13</container>
         </did>
       </c>
       <c id="aspace_ref33_j0b" level="file">
         <did>
           <unittitle>Manuscripts</unittitle>
-          <container id="aspace_e04b2587626e44dd5fc4bb61f101911a" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_b33ee80391d685ffe3a713bf868a9cb7" label="Mixed Materials" type="Box">4</container>
         </did>
         <odd id="aspace_2bb6253bd894b0b5f6e9b889c64bbba4">
           <head>General note</head>
@@ -239,8 +238,8 @@
         <did>
           <unittitle>De par le roy: Guillaime Urbain de LaMoignon, Chevallier,...Intendant de justice in la generalite de Bordueax. 25 Juin 1712. [ in the name of the King: Guillaime Urbain, night,...intendant, Cordeaux Region. 25 June 1712.]</unittitle>
           <unitdate datechar="creation">06/25/1712</unitdate>
-          <container id="aspace_22239cba31fb47a50df64c0c37a71ad1" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_ec6b1a2680a9184575dd08f787294f7a" parent="aspace_22239cba31fb47a50df64c0c37a71ad1" type="Folder">1</container>
+          <container id="aspace_1351e00a8d6632fd333a4b93a46ee7cb" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_1a026653ed2c962565152e3ecfabecb3" parent="aspace_1351e00a8d6632fd333a4b93a46ee7cb" type="Folder">1</container>
         </did>
         <odd id="aspace_2dc4f165babae92bd922e3e53b5bdfcc">
           <head>General note</head>
@@ -251,8 +250,8 @@
         <did>
           <unittitle>Bulletin de la convetion nationale, seance du 12 Floreal, l'an 3 de la republique une et indivisble. A Paris, de l'imprimerie nationale. [Bulletin of the national convetion, session of 12 Floreal, year 3 of the Reqpublique one and indivisible. Paris, from the national press.]</unittitle>
           <unitdate datechar="creation">1795</unitdate>
-          <container id="aspace_8c80da5a27b38ac94ae3b98bf560b26a" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_884139efb59da4b0583c3cdbefa4fe2e" parent="aspace_8c80da5a27b38ac94ae3b98bf560b26a" type="Folder">2</container>
+          <container id="aspace_d59cbdd4c8c11f33c3070084ca329938" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_b3307f380af452f4053ce457e6fee31c" parent="aspace_d59cbdd4c8c11f33c3070084ca329938" type="Folder">2</container>
         </did>
         <odd id="aspace_dcf758ed5cf67708eae12dcfe85efe10">
           <head>General note</head>
@@ -264,8 +263,8 @@
         <did>
           <unittitle>Empire Francais. Arrete du prefet du departement de la Creuse, du 30 Juin 1806. [French Empire. Decree of the prefect of the department of La Creuse, 30 June 1806.]</unittitle>
           <unitdate datechar="creation">06/30/1806</unitdate>
-          <container id="aspace_4ac26db835f37fd189fe93a1cfc1d142" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_77a059871093ebeb983778fd5ec8d07f" parent="aspace_4ac26db835f37fd189fe93a1cfc1d142" type="Folder">3</container>
+          <container id="aspace_101a72d7286d0bfc5fd45c9e927761f5" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_6e528b3342c769d9d98ce326eb0bd560" parent="aspace_101a72d7286d0bfc5fd45c9e927761f5" type="Folder">3</container>
         </did>
         <odd id="aspace_e4d585f3be94f6b01f45cf0422cedb45">
           <head>General note</head>
@@ -277,8 +276,8 @@
         <did>
           <unittitle>Page of coupons</unittitle>
           <unitdate datechar="creation">1797</unitdate>
-          <container id="aspace_02fefa8dc30bdce054a77ca317f8f35d" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_dfef611ee456d7e8b30792c4b8792340" parent="aspace_02fefa8dc30bdce054a77ca317f8f35d" type="Folder">4</container>
+          <container id="aspace_beab3047ee6ec0ed59846476c67360cf" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_8e5417857d23851a703192163ab5e2e3" parent="aspace_beab3047ee6ec0ed59846476c67360cf" type="Folder">4</container>
         </did>
         <odd id="aspace_980e819b8d94a65229077f0e56e091da">
           <head>General note</head>
@@ -291,8 +290,8 @@
         <did>
           <unittitle>Ordonnance Rendue par le President du Tribunal Revolutionnaire. Du 24 Pluviose, l'an deux de la republique une et indivisble. [Decree promulaged by the President of the Revolutionary Court. 24 Pluviose, year two of the republique one and indivisble.]</unittitle>
           <unitdate datechar="creation">01/1793 -02/1793</unitdate>
-          <container id="aspace_5d0daff3519fef0539a9bd9069a0c7f0" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_f14951d62b1ebd2b19fbfa0d382557ac" parent="aspace_5d0daff3519fef0539a9bd9069a0c7f0" type="Folder">5</container>
+          <container id="aspace_f900c0aa76886c967adf84338d9b7180" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_c15689f88e0f14932330a12682f9eb4c" parent="aspace_f900c0aa76886c967adf84338d9b7180" type="Folder">5</container>
         </did>
         <odd id="aspace_1dd513c2416dd9b15099f5a587c07a8b">
           <head>General note</head>
@@ -304,8 +303,8 @@
         <did>
           <unittitle>Appointment de Monsieur le Juge du Comte de Benauges, Concernant la Reparation des Chemisn qui traversent et circulent dans l'enceinte dudit Comte. [Judgement/decision/notice of his excellency the judge of the county of Benauges, concerning repair of the roads that traverse and circulate within the boundaries of the said county.]</unittitle>
           <unitdate datechar="creation">01/27/1767</unitdate>
-          <container id="aspace_697a77949099167f97ff52ed8cca5f52" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_9c001d0007641f3418c4ad94c49c24ef" parent="aspace_697a77949099167f97ff52ed8cca5f52" type="Folder">6</container>
+          <container id="aspace_18031e22d1f8d6e2a20ce2a0119a21b0" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_e19556c006d91de8f6f8aed70707a0fa" parent="aspace_18031e22d1f8d6e2a20ce2a0119a21b0" type="Folder">6</container>
         </did>
         <odd id="aspace_71832be663277fc7fb082aa72c9ab4bf">
           <head>General note</head>
@@ -318,8 +317,8 @@
         <did>
           <unittitle>Le Marechal de Montrevel, Chevalier des Ordres du Roy. 21 Aoust mil sept cens onze. [Le Marechal de Montrevel, Knight of the King's Orders, 21 August 1711.]</unittitle>
           <unitdate datechar="creation">08/21/1711</unitdate>
-          <container id="aspace_b181aae846dcd15f5ee234695a851a99" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_8642bc5c593361fcb982c51b38ffa9fb" parent="aspace_b181aae846dcd15f5ee234695a851a99" type="Folder">7</container>
+          <container id="aspace_5462019b1b950622bc1414fa3924952a" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_ff503ea0cde8f0b0895a647367cb4292" parent="aspace_5462019b1b950622bc1414fa3924952a" type="Folder">7</container>
         </did>
         <odd id="aspace_fd8c295a4cc9f23a5ff980348d92c489">
           <head>General note</head>
@@ -330,8 +329,8 @@
         <did>
           <unittitle>Baile a Rente pour Madame Petit Contre Ciprien Daniel dermon, 7 Mars 1692. [Rental Property contract for Madame Petit against Ciprien Daniel of Ermon, 7 March 1692.]</unittitle>
           <unitdate datechar="creation">07/03/1692</unitdate>
-          <container id="aspace_4e356bb3ac60befd3dd36cbf8cf019f2" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_14b86db66432c2b68999c100d9a7f759" parent="aspace_4e356bb3ac60befd3dd36cbf8cf019f2" type="Folder">8</container>
+          <container id="aspace_d22c80150af63ee4678c88ac13aa4563" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_b73c2837307073b5c69bdb15eb8f0f1d" parent="aspace_d22c80150af63ee4678c88ac13aa4563" type="Folder">8</container>
         </did>
         <odd id="aspace_be491b4a1970b9541f7e0558d96aae5b">
           <head>General note</head>
@@ -342,8 +341,8 @@
         <did>
           <unittitle>M. Jean Vorse et sa femme Magdalaine Galliot vendent cinq pieces de bois et de terres labourables a M. Pierre de Hodie. 16 Septembre 1644. [Jean Vorse and his wife Magdalaine Galliot sell five sections of woods and of farmable land to Pierre de Hodie. 16 September 1644.]</unittitle>
           <unitdate datechar="creation">1644</unitdate>
-          <container id="aspace_f646df94f0420d9db4f5a896ef514d05" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_6910132e15231b370d62a551e49d407a" parent="aspace_f646df94f0420d9db4f5a896ef514d05" type="Folder">9</container>
+          <container id="aspace_0ad61332333f5256e25ea4579a11fa91" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_5103e8d8f63d6e6df32ac2353d416453" parent="aspace_0ad61332333f5256e25ea4579a11fa91" type="Folder">9</container>
         </did>
         <odd id="aspace_e6879e0a4d48bb66c6c280e6fe4b0ae9">
           <head>General note</head>
@@ -354,8 +353,8 @@
         <did>
           <unittitle>Titre Nouvel pour Madame petit Contre Pierre Gillet fils de Jean Giller et sa femme de Sanoir. le 29 Novembre 1687. (New [property] Title for Madame Petit against Pierre Gilet son of Jean Gilet son of Jean Gillet and his wife of Saunoir, 29 November 1687).</unittitle>
           <unitdate datechar="creation">11/29/1687</unitdate>
-          <container id="aspace_5104aaceeb1ef55a964c036e97660bec" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_62634daddf2eb09128fd75f54b7a4c71" parent="aspace_5104aaceeb1ef55a964c036e97660bec" type="Folder">10</container>
+          <container id="aspace_15dcaa23e3b24d9ce8eb5bca081c055d" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_f4c40703f8d9e6b97566fac401681858" parent="aspace_15dcaa23e3b24d9ce8eb5bca081c055d" type="Folder">10</container>
         </did>
         <odd id="aspace_0975384cfc748e557a9e84440a039f96">
           <head>General note</head>
@@ -366,8 +365,8 @@
         <did>
           <unittitle>Contrat de Bail a rente Pour Madame petit de Saint prix contre Louis Daniel of St. Gratich. 18 livres de rente. [Contract of annual rent for Madame petit of Saint prix against Louis Daniel of St. Gratich. 18 pounds rent.]</unittitle>
           <unitdate datechar="creation">11/19/1691</unitdate>
-          <container id="aspace_67fbd566b1b5cb88c0a1af210b00cd50" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_d1449290878dd272b9684bb4130e87de" parent="aspace_67fbd566b1b5cb88c0a1af210b00cd50" type="Folder">11</container>
+          <container id="aspace_fb387f44084ec6029eefd7b23a83d22e" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_2723b410173d3dc873fbf47151a3006c" parent="aspace_fb387f44084ec6029eefd7b23a83d22e" type="Folder">11</container>
         </did>
         <odd id="aspace_956e945613a7730d2b141494e6668b34">
           <head>General note</head>

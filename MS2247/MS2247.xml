@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2247.xml">ms2247.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:42:48 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:01:29 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -75,14 +74,14 @@
       <geogname source="lcsh">South America</geogname>
       <subject source="lcsh">Aztecs</subject>
       <persname rules="aacr" source="naf">Belin, Mel</persname>
-      <persname rules="aacr" source="naf">Cortés, Hernan</persname>
+      <persname rules="aacr" source="naf">CortÃ©s, Hernan</persname>
     </controlaccess>
     <dsc>
       <c id="aspace_ref10_5qt" level="file">
         <did>
           <unittitle>Because Want Is A Shapeshifter</unittitle>
-          <container id="aspace_d0ed96ddb046daaccf293a28a1e7e4e3" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_141210c97279993cdc41de37a9eb8605" parent="aspace_d0ed96ddb046daaccf293a28a1e7e4e3" type="Folder">1</container>
+          <container id="aspace_2ad024e6893c30541145c6d4c64918e8" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_6fdef33e601d4173428cf0214645ec07" parent="aspace_2ad024e6893c30541145c6d4c64918e8" type="Folder">1</container>
         </did>
         <odd id="aspace_b2f903c10edd619daef771c07661351f">
           <head>General note</head>
@@ -92,8 +91,8 @@
       <c id="aspace_ref12_g9h" level="file">
         <did>
           <unittitle>Even The Quetzal Plume Are Torn</unittitle>
-          <container id="aspace_cfc91c1afa04ddeeb78e696622a47393" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_09700de0a74577c818be3e47df62f599" parent="aspace_cfc91c1afa04ddeeb78e696622a47393" type="Folder">2</container>
+          <container id="aspace_bf2a2c352139a8674841a692797de782" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_0c85c923d907751463d0958983a7d8d6" parent="aspace_bf2a2c352139a8674841a692797de782" type="Folder">2</container>
         </did>
         <odd id="aspace_c9bde7b52b3a99c4e6e912d7e453dda8">
           <head>General note</head>
@@ -103,8 +102,8 @@
       <c id="aspace_ref14_e2z" level="file">
         <did>
           <unittitle>Iberian Travels</unittitle>
-          <container id="aspace_ca9015d2f2c4207ecc06c0b942a29fd2" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_d21e6206c9b2b8386b8db6c73e63dd49" parent="aspace_ca9015d2f2c4207ecc06c0b942a29fd2" type="Folder">3</container>
+          <container id="aspace_c7d1c4ee6781ab3a37a65c413d6716c9" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_bea0f28c1203afe6a6250f9359a5be88" parent="aspace_c7d1c4ee6781ab3a37a65c413d6716c9" type="Folder">3</container>
         </did>
         <odd id="aspace_3c1f8aeeed5e82f62e6aa65fd864cb5f">
           <head>General note</head>

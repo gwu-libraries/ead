@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2064.xml">ms2064.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:37:23 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:56:27 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -89,7 +88,7 @@
         <did>
           <unittitle>Air transportation</unittitle>
           <unitid>MS2064 Series 1</unitid>
-          <unitdate datechar="creation">1947-1977</unitdate>
+          <unitdate datechar="creation" normal="1947/1977" type="inclusive">1947-1977</unitdate>
           <physdesc id="aspace_e92a6064a8277bd03143464b5c2ad9fb" label="General Physical Description note">0.5 Linear feet</physdesc>
         </did>
         <scopecontent id="aspace_fed7cc725fa3ef13c3f5826d06f69364">
@@ -104,9 +103,9 @@
         <c id="aspace_ref13_2o8" level="file">
           <did>
             <unittitle>Air Cargo Magazine clipping, October</unittitle>
-            <unitdate datechar="creation">1957</unitdate>
-            <container id="aspace_547306f7566a5314e829884f4ab59b12" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_685087c144d1916edc81b114d3755ba0" parent="aspace_547306f7566a5314e829884f4ab59b12" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_e514db0fd3d178d68ace5ea928c812d0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9f22e6b397b5c26e52ba042df2f0d25a" parent="aspace_e514db0fd3d178d68ace5ea928c812d0" type="Folder">1</container>
           </did>
           <odd id="aspace_d3d540562ba2c58446b48d17b113bddf">
             <head>General note</head>
@@ -115,9 +114,9 @@
         <c id="aspace_ref15_tgz" level="file">
           <did>
             <unittitle>Airline Traffic and Financial Data- Quarterly Review</unittitle>
-            <unitdate datechar="creation">1955</unitdate>
-            <container id="aspace_978ff8043809e67ab6a5c62247294155" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_ba5bb25aeb3119ba0ba60f84fe04a404" parent="aspace_978ff8043809e67ab6a5c62247294155" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_fababd4ace35045ebe74fada8f1076e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3f8efe3cdf129198a1503ab072285d17" parent="aspace_fababd4ace35045ebe74fada8f1076e9" type="Folder">2</container>
           </did>
           <odd id="aspace_1e305ece10a6a6868cf6ff584a8f44d3">
             <head>General note</head>
@@ -127,8 +126,8 @@
           <did>
             <unittitle>"Airlines Profitless Prosperity"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_77da85f177f9f28624dd2467ee071ddb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9cf612fcd757fba13abde0745c16bed3" parent="aspace_77da85f177f9f28624dd2467ee071ddb" type="Folder">3</container>
+            <container id="aspace_47203d225c9a07f4ffd2534152d750ec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2182874080cf24e78a00c4cf986ce699" parent="aspace_47203d225c9a07f4ffd2534152d750ec" type="Folder">3</container>
           </did>
           <odd id="aspace_a38edbe87b9533b04625739cce397fb0">
             <head>General note</head>
@@ -137,9 +136,9 @@
         <c id="aspace_ref19_hqz" level="file">
           <did>
             <unittitle>Airway User Charge Investigation</unittitle>
-            <unitdate datechar="creation">10/01/1952</unitdate>
-            <container id="aspace_5c8215b313533127b32761af7ec9ad5c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_31cb4407515f02aedeac995965c6e456" parent="aspace_5c8215b313533127b32761af7ec9ad5c" type="Folder">4</container>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952 October 01</unitdate>
+            <container id="aspace_c345f0053724fa050abdac878a36bed2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_849c3faf37938fd6e2a9d9b32cb7f5c1" parent="aspace_c345f0053724fa050abdac878a36bed2" type="Folder">4</container>
           </did>
           <odd id="aspace_fee2c69f806b776914a3b08fe7ec783b">
             <head>General note</head>
@@ -148,9 +147,9 @@
         <c id="aspace_ref21_wl0" level="file">
           <did>
             <unittitle>American Foreign Service Journal</unittitle>
-            <unitdate datechar="creation">11/1947</unitdate>
-            <container id="aspace_14225825f5520183d095797ea106dfea" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_9fdcfac0c2e522b652d853d2947a6be7" parent="aspace_14225825f5520183d095797ea106dfea" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947 November</unitdate>
+            <container id="aspace_fc293232dfbbbf1fb4ed21d73c69b053" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_471bead65aad46a83b24b7ebbf7e026d" parent="aspace_fc293232dfbbbf1fb4ed21d73c69b053" type="Folder">5</container>
           </did>
           <odd id="aspace_413f82cdf4de6302d5015c1df93e878f">
             <head>General note</head>
@@ -159,9 +158,9 @@
         <c id="aspace_ref23_hxg" level="file">
           <did>
             <unittitle>CAB Economic Presentation</unittitle>
-            <unitdate datechar="creation">11/22/1954</unitdate>
-            <container id="aspace_73c01769d8c0d8a390eaf1ebd93214c6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3d3942cf6eb1a64bb30b36c2be6f027c" parent="aspace_73c01769d8c0d8a390eaf1ebd93214c6" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954 November 22</unitdate>
+            <container id="aspace_cbb138f377cf7ad2b23ce2dee83fdc7e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_27d96f3f638c8b7a64ebf71e537e0d3c" parent="aspace_cbb138f377cf7ad2b23ce2dee83fdc7e" type="Folder">6</container>
           </did>
           <odd id="aspace_b9403c85e9066ef90623fa3139c679fa">
             <head>General note</head>
@@ -170,9 +169,9 @@
         <c id="aspace_ref25_f76" level="file">
           <did>
             <unittitle>Dollar Value of Military Passenger and Cargo Transportation</unittitle>
-            <unitdate datechar="creation">1958-1960</unitdate>
-            <container id="aspace_48fd416041ec0efc7e991c0487db5bfe" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1c94ca783a48943f745e3334800c41bf" parent="aspace_48fd416041ec0efc7e991c0487db5bfe" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container id="aspace_3aaa498e0b6bdf86e276d9cf714f5fd4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2df12a4f4e20ef439b34ac531ddcfd0e" parent="aspace_3aaa498e0b6bdf86e276d9cf714f5fd4" type="Folder">7</container>
           </did>
           <odd id="aspace_636c2910ae622e2cbead997f263baef0">
             <head>General note</head>
@@ -181,9 +180,9 @@
         <c id="aspace_ref27_uzt" level="file">
           <did>
             <unittitle>"Dynamic Air Transport"- Testimony by ATA before House Judiciary Committee</unittitle>
-            <unitdate datechar="creation">1956</unitdate>
-            <container id="aspace_1891bd11b233425216047bfbad703796" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cd43684ec3efecd9fe19f620fcf44cc0" parent="aspace_1891bd11b233425216047bfbad703796" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_853d976086da9556e7f1c9cd4c6de4ce" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0d6028bd85fc21f1e090c65da397ebd6" parent="aspace_853d976086da9556e7f1c9cd4c6de4ce" type="Folder">8</container>
           </did>
           <odd id="aspace_0b554856a2b1223acbfae7366ba41382">
             <head>General note</head>
@@ -193,8 +192,8 @@
           <did>
             <unittitle>"11th Air Transport Institute"- class lecture outlines</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_83c88311357c615f3203e0c6b789bcc0" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3c6c6774b4ddd6d023c053280e49d73d" parent="aspace_83c88311357c615f3203e0c6b789bcc0" type="Folder">9</container>
+            <container id="aspace_3694b52f087a646905d45dbba9899b49" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b909d76125da81c2958ba54c1be5c44c" parent="aspace_3694b52f087a646905d45dbba9899b49" type="Folder">9</container>
           </did>
           <odd id="aspace_8501f8061d3d192a2305a923fc38a205">
             <head>General note</head>
@@ -203,9 +202,9 @@
         <c id="aspace_ref31_ysb" level="file">
           <did>
             <unittitle>Federal Airways User Charge- correspondence</unittitle>
-            <unitdate datechar="creation">1954</unitdate>
-            <container id="aspace_89302c1345aaaedd738aea12ba548429" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5be8d3f0fec2b44dc8c504ea53a9f211" parent="aspace_89302c1345aaaedd738aea12ba548429" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_3761b61c45e2e132f6afffe5cc35add4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_406673d9419a8db50a7e114080e2571c" parent="aspace_3761b61c45e2e132f6afffe5cc35add4" type="Folder">10</container>
           </did>
           <odd id="aspace_f8ccccb89bf96319169fabfa575c47c4">
             <head>General note</head>
@@ -214,9 +213,9 @@
         <c id="aspace_ref33_pi0" level="file">
           <did>
             <unittitle>Federal Airways User Charge- memorandum</unittitle>
-            <unitdate datechar="creation">12/01/1953</unitdate>
-            <container id="aspace_a12d9c53dd9b269513fd1e7369ba207b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1dd722f6ff2e841f23cb6df5a21e04ec" parent="aspace_a12d9c53dd9b269513fd1e7369ba207b" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953 December 01</unitdate>
+            <container id="aspace_b93620165656614c1ffbf2f20fb91503" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a1358faf4648ee0f66aec277a9ab8f23" parent="aspace_b93620165656614c1ffbf2f20fb91503" type="Folder">11</container>
           </did>
           <odd id="aspace_4e01fcf5c77abbb637a38f4b6124a33a">
             <head>General note</head>
@@ -225,9 +224,9 @@
         <c id="aspace_ref35_y1y" level="file">
           <did>
             <unittitle>Federal Airways User Charge- news clipping</unittitle>
-            <unitdate datechar="creation">1953</unitdate>
-            <container id="aspace_efb52c91b20ec5d39329083f9a9a7e24" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bd165670ca73c61b2ece96a7ca16f890" parent="aspace_efb52c91b20ec5d39329083f9a9a7e24" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_ae5430c576c5efb302b72eb60ecc93bb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_feb95c440bb2755615f02054fdcca7d5" parent="aspace_ae5430c576c5efb302b72eb60ecc93bb" type="Folder">12</container>
           </did>
           <odd id="aspace_35cd616ebfc26c5c8b8f35fbb2fa1777">
             <head>General note</head>
@@ -236,9 +235,9 @@
         <c id="aspace_ref37_cn1" level="file">
           <did>
             <unittitle>"The Government Travel Market"- ATA release</unittitle>
-            <unitdate datechar="creation">04/02/1954</unitdate>
-            <container id="aspace_f4e065e243d2a747f4918212a279e0f8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b10237c3fc9bd898b8d97071abc87fe0" parent="aspace_f4e065e243d2a747f4918212a279e0f8" type="Folder">13</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954 April 02</unitdate>
+            <container id="aspace_b889a1bccd9b4a722b09ac814de7ebc1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_90071440e38119fc3db8eec9e0b764cf" parent="aspace_b889a1bccd9b4a722b09ac814de7ebc1" type="Folder">13</container>
           </did>
           <odd id="aspace_0e32901a903d6d284838cf217b996bc7">
             <head>General note</head>
@@ -247,9 +246,9 @@
         <c id="aspace_ref39_kdn" level="file">
           <did>
             <unittitle>"The Government Travel Market"- ATA release</unittitle>
-            <unitdate datechar="creation">04/02/1954</unitdate>
-            <container id="aspace_ef835010e64a5d9bc44bd416e2f390e8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a67f228fff4c27ffe62ffe6989229f77" parent="aspace_ef835010e64a5d9bc44bd416e2f390e8" type="Folder">14</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954 April 02</unitdate>
+            <container id="aspace_164953a15bb62191c17bac7ded6aa62b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_16f66a7ab6f39d13899f184999cce72a" parent="aspace_164953a15bb62191c17bac7ded6aa62b" type="Folder">14</container>
           </did>
           <odd id="aspace_e7d37372293ebf35e67aed6826958584">
             <head>General note</head>
@@ -258,9 +257,9 @@
         <c id="aspace_ref41_xk5" level="file">
           <did>
             <unittitle>"Integration of Aviation Communications and the Traffic Control in the Federal Airways System"- Rechel's Master Thesis</unittitle>
-            <unitdate datechar="creation">1955</unitdate>
-            <container id="aspace_eeca01173daa8d7cf6777d4b19a41372" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_0176335d9683edb296f5f2fdbd4ec1d5" parent="aspace_eeca01173daa8d7cf6777d4b19a41372" type="Folder">15</container>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_c07f92e5382c3275adf39776ccfa0c6d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0ce8f0420e4a1844f006a9507d50cca7" parent="aspace_c07f92e5382c3275adf39776ccfa0c6d" type="Folder">15</container>
           </did>
           <odd id="aspace_8f39a0621e21cc5f3e6e14457bb16e5b">
             <head>General note</head>
@@ -269,9 +268,9 @@
         <c id="aspace_ref43_ued" level="file">
           <did>
             <unittitle>Large Irregular Air Carrier Industry</unittitle>
-            <unitdate datechar="creation">12/15/1954</unitdate>
-            <container id="aspace_93e9270b159ab93b1d4252d89f3ff273" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_97793e9a82d0855022441ff9f7a25fd5" parent="aspace_93e9270b159ab93b1d4252d89f3ff273" type="Folder">16</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954 December 15</unitdate>
+            <container id="aspace_7a76fb4fa233f626ac8495118d6b67c7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_247432bb57e488115321af171514d479" parent="aspace_7a76fb4fa233f626ac8495118d6b67c7" type="Folder">16</container>
           </did>
           <odd id="aspace_fe71d2a1f83f93c9d65ae59e10769a54">
             <head>General note</head>
@@ -280,9 +279,9 @@
         <c id="aspace_ref45_bu0" level="file">
           <did>
             <unittitle>Large Irregular Air Carrier Industry</unittitle>
-            <unitdate datechar="creation">12/15/1954</unitdate>
-            <container id="aspace_4bc4624ce4c15cae8171ab821b9cbd44" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2c7cc2905c746120f845d9beaaf78bea" parent="aspace_4bc4624ce4c15cae8171ab821b9cbd44" type="Folder">17</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954 December 15</unitdate>
+            <container id="aspace_e3da6ce167186eb8766bb6d2a8e30d11" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c735803bf3d1057ea736bf240e1acc6a" parent="aspace_e3da6ce167186eb8766bb6d2a8e30d11" type="Folder">17</container>
           </did>
           <odd id="aspace_1573add2dba7622d576c734cf52ae2e3">
             <head>General note</head>
@@ -291,9 +290,9 @@
         <c id="aspace_ref47_vq4" level="file">
           <did>
             <unittitle>The National Airport Program- Senate document</unittitle>
-            <unitdate datechar="creation">1954</unitdate>
-            <container id="aspace_a56252fe37f4f2cb6c08e2aa2e643066" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2cc4de9206bdb559a9e1a4c0a600c318" parent="aspace_a56252fe37f4f2cb6c08e2aa2e643066" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_7cc47b59931fd0ecd55709b9ff1ff588" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d01b0ba9b4325800b929321d2fed5950" parent="aspace_7cc47b59931fd0ecd55709b9ff1ff588" type="Folder">1</container>
           </did>
           <odd id="aspace_7870507b66b64c1328b0dfb9bb3dd854">
             <head>General note</head>
@@ -302,9 +301,9 @@
         <c id="aspace_ref49_apx" level="file">
           <did>
             <unittitle>Public Airport Investment and Monday Holiday Plan</unittitle>
-            <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_8be44293f7ef6c0fa1ea45d0709978d8" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f21ea2bb4dc891dc5f74412dbf4e30bb" parent="aspace_8be44293f7ef6c0fa1ea45d0709978d8" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_4022801cc56f93fde0588cbb50472421" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c0b35906205fdc5ae176af051d418148" parent="aspace_4022801cc56f93fde0588cbb50472421" type="Folder">2</container>
           </did>
           <odd id="aspace_c2a2fec117f8ab5200351a26c9af902a">
             <head>General note</head>
@@ -313,9 +312,9 @@
         <c id="aspace_ref51_b3a" level="file">
           <did>
             <unittitle>Recommendations for National Transport Policy</unittitle>
-            <unitdate datechar="creation">1954</unitdate>
-            <container id="aspace_7f00978233c5e7cf47d67ec93360c3eb" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e7e74e77b3c6d4453bc2f20d563ff5e5" parent="aspace_7f00978233c5e7cf47d67ec93360c3eb" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_14ae39d09d41bb14447e21f6eec0aa5b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a28d44aaa83ebec9d4bfbfc80a4fcbb5" parent="aspace_14ae39d09d41bb14447e21f6eec0aa5b" type="Folder">3</container>
           </did>
           <odd id="aspace_b20f47b46dd428dfcd0ad38cffb4e605">
             <head>General note</head>
@@ -325,8 +324,8 @@
           <did>
             <unittitle>"Uncle Sam's Best Buy..."- Airline pamphlet</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ad00aeba8a3a2412a50ec21968c2685f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6bd5608e84399f72dc6ecbaa38de7954" parent="aspace_ad00aeba8a3a2412a50ec21968c2685f" type="Folder">4</container>
+            <container id="aspace_90c5fe79b7e3dacf7c810b3f93decb21" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bd88d5f64fbeee7abff8f12733bad68b" parent="aspace_90c5fe79b7e3dacf7c810b3f93decb21" type="Folder">4</container>
           </did>
           <odd id="aspace_1bc70aedf662d22b57d9ef9da2314b9f">
             <head>General note</head>
@@ -335,9 +334,9 @@
         <c id="aspace_ref55_hz1" level="file">
           <did>
             <unittitle>"Wings Work Wonders"- pamphlet</unittitle>
-            <unitdate datechar="creation">1958</unitdate>
-            <container id="aspace_5d9aa23a6bd0a19275a7e1ddb0049dad" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4165baeb01961ee75f864177d416c2d2" parent="aspace_5d9aa23a6bd0a19275a7e1ddb0049dad" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_d3ec29e605d04379edf9cc6164992261" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_88a17cb06b5bb86e0df22d9c22919899" parent="aspace_d3ec29e605d04379edf9cc6164992261" type="Folder">5</container>
           </did>
           <odd id="aspace_9c35c9d29a7427250608a886e0fbf644">
             <head>General note</head>
@@ -346,9 +345,9 @@
         <c id="aspace_ref57_cho" level="file">
           <did>
             <unittitle>World Airline Orders for Transport Aircraft</unittitle>
-            <unitdate datechar="creation">1957-1963</unitdate>
-            <container id="aspace_2215a1f87a4ae2e3a29cd2881024bfc2" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_dadfa8a8bc03e2abf2368a0a8b2ce4fd" parent="aspace_2215a1f87a4ae2e3a29cd2881024bfc2" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1957/1963" type="inclusive">1957-1963</unitdate>
+            <container id="aspace_17fb49b8cb8676b4736170a2d95fa715" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c1402901403672cf9f12cc1f1ed6229c" parent="aspace_17fb49b8cb8676b4736170a2d95fa715" type="Folder">6</container>
           </did>
           <odd id="aspace_ffe78844eede03e241857a7ad8506b7d">
             <head>General note</head>
@@ -359,7 +358,7 @@
         <did>
           <unittitle>Railroad transportation</unittitle>
           <unitid>MS2064 Series 2</unitid>
-          <unitdate datechar="creation">1968-1978</unitdate>
+          <unitdate datechar="creation" normal="1968/1978" type="inclusive">1968-1978</unitdate>
           <physdesc id="aspace_93c350261c52dec7b96a063cc1749f1d" label="General Physical Description note">0.25 Linear feet</physdesc>
         </did>
         <scopecontent id="aspace_0b51125ef6ef9441aa512db9ee9bddde">
@@ -371,9 +370,9 @@
         <c id="aspace_ref63_ku8" level="file">
           <did>
             <unittitle>Analysis of Potential Light Rail TransportProjects</unittitle>
-            <unitdate datechar="creation">09/09/1974</unitdate>
-            <container id="aspace_8128da0dc8bdaea7baf8d864f2115e72" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4eac21d452eb729ad77f79b713f519e7" parent="aspace_8128da0dc8bdaea7baf8d864f2115e72" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 September 09</unitdate>
+            <container id="aspace_d89e62c92529e19154db44f920e8809e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e8536b7943c6b3acb36a541a54909ea3" parent="aspace_d89e62c92529e19154db44f920e8809e" type="Folder">7</container>
           </did>
           <odd id="aspace_ea6478fdb8cf07a6241eda347cbbc4cf">
             <head>General note</head>
@@ -382,9 +381,9 @@
         <c id="aspace_ref65_gzo" level="file">
           <did>
             <unittitle>"Increased Freight Rates"- Statement by Richard Blackwell</unittitle>
-            <unitdate datechar="creation">1967</unitdate>
-            <container id="aspace_fd50f5bbbe2c4f19b131b3a6347cbb4b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5cbbf8c99966a4e0b4a6369db24af971" parent="aspace_fd50f5bbbe2c4f19b131b3a6347cbb4b" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_fa01feda162071ea08de53442afc5144" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7e3e81f754af1e514c4ef8f6f0b1a05d" parent="aspace_fa01feda162071ea08de53442afc5144" type="Folder">8</container>
           </did>
           <odd id="aspace_476cebd2725597010bbfb745289a90ad">
             <head>General note</head>
@@ -393,9 +392,9 @@
         <c id="aspace_ref67_edj" level="file">
           <did>
             <unittitle>"Increased Freight Rates"- Statement by Robert Banks</unittitle>
-            <unitdate datechar="creation">1967</unitdate>
-            <container id="aspace_d73e61911b04c895d8be7dce4a3e1125" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f3106976b17106b99bd447165ad60b76" parent="aspace_d73e61911b04c895d8be7dce4a3e1125" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_5131383575dfd1a6a84eb79bc83ecc20" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6761149159e478f19bea1e86182d691a" parent="aspace_5131383575dfd1a6a84eb79bc83ecc20" type="Folder">9</container>
           </did>
           <odd id="aspace_d7cd38516e6976e1d8a79617904400b4">
             <head>General note</head>
@@ -404,9 +403,9 @@
         <c id="aspace_ref69_eam" level="file">
           <did>
             <unittitle>Light-Traffic Railway Lines- Passenger and Freight Service Studies</unittitle>
-            <unitdate datechar="creation">1965</unitdate>
-            <container id="aspace_80879d9807eaf62fe0e9399d32c51ee7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ee786010b9f063c50fa14a3c61b3f558" parent="aspace_80879d9807eaf62fe0e9399d32c51ee7" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_9edf3d3838542e2814ef7a516e9a067a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eb1f4630b7a49cf6521c1178e25116c3" parent="aspace_9edf3d3838542e2814ef7a516e9a067a" type="Folder">10</container>
           </did>
           <odd id="aspace_bc032b3a8f8a570a21ed1a91058f74e2">
             <head>General note</head>
@@ -415,9 +414,9 @@
         <c id="aspace_ref71_qlf" level="file">
           <did>
             <unittitle>Light-Traffic Railway Lines- Passenger and Freight Service Studies, Final Revision</unittitle>
-            <unitdate datechar="creation">04/1966</unitdate>
-            <container id="aspace_13d3e2ea196f9b86beb5516035be60eb" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b4b6767c4609fb517ca02543803b9eaa" parent="aspace_13d3e2ea196f9b86beb5516035be60eb" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 April</unitdate>
+            <container id="aspace_d5f75808bd5bfc04477375aa6cba5f1a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_61c4efaa377d38e4a0d58f4520f0b9ad" parent="aspace_d5f75808bd5bfc04477375aa6cba5f1a" type="Folder">11</container>
           </did>
           <odd id="aspace_3049a3a83946b6b97b42cbc73562d6c3">
             <head>General note</head>
@@ -426,9 +425,9 @@
         <c id="aspace_ref73_6kk" level="file">
           <did>
             <unittitle>Railroad Merger of C&amp;O and N&amp;W Information</unittitle>
-            <unitdate datechar="creation">04/1966</unitdate>
-            <container id="aspace_cf36f5ddc8ea7aca2340525695009f4d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0a2364683fafa76523c5190e07b7004e" parent="aspace_cf36f5ddc8ea7aca2340525695009f4d" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966 April</unitdate>
+            <container id="aspace_1b37994fc6485f1bc46e712408e46292" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f26dd7f923c9472d1e5de8bd3aa774ad" parent="aspace_1b37994fc6485f1bc46e712408e46292" type="Folder">12</container>
           </did>
           <odd id="aspace_0e5717f32f82203297ce8dcb04fa4640">
             <head>General note</head>
@@ -437,9 +436,9 @@
         <c id="aspace_ref75_nf8" level="file">
           <did>
             <unittitle>Recognition of Transport Responsibilities in the Federal Government</unittitle>
-            <unitdate datechar="creation">1965-1966</unitdate>
-            <container id="aspace_1561634ec5859b85cd4aaab584d4e88f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_540c9e7d41de9ab1a038c20e461caac3" parent="aspace_1561634ec5859b85cd4aaab584d4e88f" type="Folder">13</container>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_ae1c8add0b3b81cf6e81f7b591623b15" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_39b51f80a6ab43437bcfdedb72ce6030" parent="aspace_ae1c8add0b3b81cf6e81f7b591623b15" type="Folder">13</container>
           </did>
           <odd id="aspace_cd2fa56b869bc515667dbe5c7da5e3c0">
             <head>General note</head>
@@ -448,9 +447,9 @@
         <c id="aspace_ref77_hul" level="file">
           <did>
             <unittitle>Safety Issues for Intercity Freight and Common Carrier Passenger Services</unittitle>
-            <unitdate datechar="creation">12/28/1978</unitdate>
-            <container id="aspace_244655ccb0c3c510b6d3a42e763d2d5f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8bf1d4874839f51b4ae2c5ac55ac6109" parent="aspace_244655ccb0c3c510b6d3a42e763d2d5f" type="Folder">14</container>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978 December 28</unitdate>
+            <container id="aspace_7956a9b8935af25fdbe1263b9b5098d5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_86b2cc0fd5f07ffb8bf617b246c08fe1" parent="aspace_7956a9b8935af25fdbe1263b9b5098d5" type="Folder">14</container>
           </did>
           <odd id="aspace_13247961553a787db4d6cd61760c74b1">
             <head>General note</head>
@@ -459,9 +458,9 @@
         <c id="aspace_ref79_mku" level="file">
           <did>
             <unittitle>Suburban Commuter Railroad Subsidies</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_5b01d9cf16c89d3082af3ad4d33a15bf" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9b592df9319cc73f8baa9b1a3019bbcc" parent="aspace_5b01d9cf16c89d3082af3ad4d33a15bf" type="Folder">15</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_e14a76e493c3f5ba9f57dfd6160eeecf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_89c5672d510f4155ea0e116402bbb460" parent="aspace_e14a76e493c3f5ba9f57dfd6160eeecf" type="Folder">15</container>
           </did>
           <odd id="aspace_52a452aeace79b666f9659706904c777">
             <head>General note</head>
@@ -470,9 +469,9 @@
         <c id="aspace_ref81_xfl" level="file">
           <did>
             <unittitle>Suburban Commuter Railroad Subsidies</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_68a46c032cc0ba565a1fdcc92d341b8a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_893685cde02040e9539e9daf3f30feb5" parent="aspace_68a46c032cc0ba565a1fdcc92d341b8a" type="Folder">16</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_9fad106eb515994b0d913754234f1e9f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_da3bed3a370894fb7eeec6f3f872a770" parent="aspace_9fad106eb515994b0d913754234f1e9f" type="Folder">16</container>
           </did>
           <odd id="aspace_76a5a4f2346c0fa39ea21556f8a1f247">
             <head>General note</head>
@@ -481,9 +480,9 @@
         <c id="aspace_ref83_y25" level="file">
           <did>
             <unittitle>Suburban Commuter Railroad Subsidies</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_6193f0917c5d47fc821ef44b5f45c865" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a1cd0eebab620f3c4c74861cede9f8c8" parent="aspace_6193f0917c5d47fc821ef44b5f45c865" type="Folder">17</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_3483d3b786c868a01d72b3f800682746" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_255363c1ef793c7570c4ba960149b1ea" parent="aspace_3483d3b786c868a01d72b3f800682746" type="Folder">17</container>
           </did>
           <odd id="aspace_dfe24df615435d4e17c17f4394049e2a">
             <head>General note</head>
@@ -493,8 +492,8 @@
           <did>
             <unittitle>Subway Station Capacity</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_531f4e8ad8074be9b4f822221f7e336b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_759d55f9a935b7e8238faf0b0b529878" parent="aspace_531f4e8ad8074be9b4f822221f7e336b" type="Folder">18</container>
+            <container id="aspace_524c6a240496055c557d48ef5a67210e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_55d947e713069d90f67e1b34f92d01e3" parent="aspace_524c6a240496055c557d48ef5a67210e" type="Folder">18</container>
           </did>
           <odd id="aspace_098b42d7726c4cd3cc13ecb112004243">
             <head>General note</head>
@@ -503,9 +502,9 @@
         <c id="aspace_ref87_o9s" level="file">
           <did>
             <unittitle>Track-Sharing Study-Progress Report</unittitle>
-            <unitdate datechar="creation">12/31/1968</unitdate>
-            <container id="aspace_5704f29fd7304ec7fc65856a49998a97" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_182b04ead878b2b9cd848e660d1d42ed" parent="aspace_5704f29fd7304ec7fc65856a49998a97" type="Folder">19</container>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968 December 31</unitdate>
+            <container id="aspace_3d60f70d7fb40be6a6ed99b372ebd940" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_18b1004b99d1db5a3db8fcfe679764b5" parent="aspace_3d60f70d7fb40be6a6ed99b372ebd940" type="Folder">19</container>
           </did>
           <odd id="aspace_92f73534e0e600e48c440e8223424ece">
             <head>General note</head>
@@ -514,9 +513,9 @@
         <c id="aspace_ref89_b6p" level="file">
           <did>
             <unittitle>Track-Sharing for Urban Transportation Report</unittitle>
-            <unitdate datechar="creation">01/30/1970</unitdate>
-            <container id="aspace_cf83968f3fd86d9527821c083bfe8ed2" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f2a0d91680c46dfa6ee644c65749e752" parent="aspace_cf83968f3fd86d9527821c083bfe8ed2" type="Folder">20</container>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 January 30</unitdate>
+            <container id="aspace_d5d29686e8609d052a9fff3993c55baa" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c6866be75160b959e3a53ca5b7388b3e" parent="aspace_d5d29686e8609d052a9fff3993c55baa" type="Folder">20</container>
           </did>
           <odd id="aspace_4fbc09802521c4334a9c35a768a13e20">
             <head>General note</head>
@@ -527,7 +526,7 @@
         <did>
           <unittitle>Urban mass transit</unittitle>
           <unitid>MS2064 Series 3</unitid>
-          <unitdate datechar="creation">1955-1980</unitdate>
+          <unitdate datechar="creation" normal="1955/1980" type="inclusive">1955-1980</unitdate>
           <physdesc id="aspace_8438d7712c23aa6cc3600de078755649" label="General Physical Description note">3 Linear feet</physdesc>
         </did>
         <scopecontent id="aspace_25a5738a0d07d80e964d9f9b7da11173">
@@ -541,9 +540,9 @@
         <c id="aspace_ref94_pw6" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Allocating Operating Expenses by Transit Route and Service Period</unittitle>
-            <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_78c24a4a857a7db5d9c41447bf587452" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_640e950d2e9b93e93e0323a22530138a" parent="aspace_78c24a4a857a7db5d9c41447bf587452" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_ea1930c60fd4bdc21aa578915391e7a8" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_d85ed0f347c2c6fb98728e7d4e1507e7" parent="aspace_ea1930c60fd4bdc21aa578915391e7a8" type="Folder">1</container>
           </did>
           <odd id="aspace_9bd857af4490f23b766726b712586063">
             <head>General note</head>
@@ -552,9 +551,9 @@
         <c id="aspace_ref96_f1l" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Capital Grants Program</unittitle>
-            <unitdate datechar="creation">08/1970</unitdate>
-            <container id="aspace_aee4ec9baff08a7e60810b4e91fc12b0" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_367f18a1fd70a32cd3239f49854e71db" parent="aspace_aee4ec9baff08a7e60810b4e91fc12b0" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 August</unitdate>
+            <container id="aspace_58f893180079fb66bbecbe1401416fc9" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_fb1cc20c604826aa3889932ac52acd36" parent="aspace_58f893180079fb66bbecbe1401416fc9" type="Folder">2</container>
           </did>
           <odd id="aspace_3436d6efbb8610f1d8dc6e26689b4afe">
             <head>General note</head>
@@ -563,9 +562,9 @@
         <c id="aspace_ref98_0jw" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Capital Grants Program</unittitle>
-            <unitdate datechar="creation">08/1970</unitdate>
-            <container id="aspace_67b63c6d42f634871714c083e0909c6a" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_d162d84145648dcbd73b82f003ff6524" parent="aspace_67b63c6d42f634871714c083e0909c6a" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 August</unitdate>
+            <container id="aspace_34c4f40cb172191ab55e7ece1f7e613d" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_8c437f9bc7203c8eb727b2e58b30e311" parent="aspace_34c4f40cb172191ab55e7ece1f7e613d" type="Folder">3</container>
           </did>
           <odd id="aspace_0b48708538a3009a849033ccfc8ae24f">
             <head>General note</head>
@@ -575,8 +574,8 @@
           <did>
             <unittitle>Economic and Financial Issues: Economic Feasibility Studies</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7b1f61d37ba4de61c91d85b239a068f6" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_013e9598ed386cd743be620371f543dd" parent="aspace_7b1f61d37ba4de61c91d85b239a068f6" type="Folder">4</container>
+            <container id="aspace_b8209a9285aa8d34fe33f10ada83777a" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_22352c0d0391c374cc624c6a381dc8e2" parent="aspace_b8209a9285aa8d34fe33f10ada83777a" type="Folder">4</container>
           </did>
           <odd id="aspace_82e51ae38d300aa496075640fcfa59c3">
             <head>General note</head>
@@ -585,9 +584,9 @@
         <c id="aspace_ref102_7qv" level="file">
           <did>
             <unittitle>Economic and Financial Issues: "Economic Measurements"- Memo to Gordan Murray</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_3dc9a16c7a10cf7a19edfba5daf16170" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_3fb7d0fb0cd56650707dd1dba032d5f6" parent="aspace_3dc9a16c7a10cf7a19edfba5daf16170" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_b7395c6fd62a8a13343a3267dadf0469" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_4ba40ae21450b058a8f73c68fd99b93a" parent="aspace_b7395c6fd62a8a13343a3267dadf0469" type="Folder">5</container>
           </did>
           <odd id="aspace_e5690f17db57299e11ac4bd47422c0d5">
             <head>General note</head>
@@ -596,9 +595,9 @@
         <c id="aspace_ref104_sc9" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Estimates of Prospective Capital Investment in Urban Public Transportation</unittitle>
-            <unitdate datechar="creation">10/15/1969</unitdate>
-            <container id="aspace_014cc347fe113f54ad07bf5c053d02ea" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_0683298191d9f2adc9774f9ea9005f14" parent="aspace_014cc347fe113f54ad07bf5c053d02ea" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969 October 15</unitdate>
+            <container id="aspace_50a2b3007b294836741fb7941768ca87" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_da1bfe46820ab571ed4bf36afa0d1b9e" parent="aspace_50a2b3007b294836741fb7941768ca87" type="Folder">6</container>
           </did>
           <odd id="aspace_a4b66efb7182a63a08845e90d8c8b5ab">
             <head>General note</head>
@@ -608,8 +607,8 @@
           <did>
             <unittitle>Economic and Financial Issues: Financing Capital Investment for Public Transportation</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f4ad53ce949e85f2890e98b3ef464908" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_a73402645b92a818ba354156d8c8f5ce" parent="aspace_f4ad53ce949e85f2890e98b3ef464908" type="Folder">7</container>
+            <container id="aspace_333e6ce2e0c417abbe418357234f0a8e" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_b4d97ff83bdcdaf41d3472a334234859" parent="aspace_333e6ce2e0c417abbe418357234f0a8e" type="Folder">7</container>
           </did>
           <odd id="aspace_253ae72d9cfe987fc7dfee358d6904bd">
             <head>General note</head>
@@ -618,9 +617,9 @@
         <c id="aspace_ref108_xzu" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Financing Transit- UMTA Publication</unittitle>
-            <unitdate datechar="creation">07/1979</unitdate>
-            <container id="aspace_1a38b475e37e23f703054d0d701675d6" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_80e107d656ae054f35e13dc8b478f49a" parent="aspace_1a38b475e37e23f703054d0d701675d6" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979 July</unitdate>
+            <container id="aspace_f0d641b0a64b07e3f9b08424fad4d194" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_6122e115b968f5df1c9a4901ba6c03e0" parent="aspace_f0d641b0a64b07e3f9b08424fad4d194" type="Folder">8</container>
           </did>
           <odd id="aspace_edfc8b05ded584eadcc710b650f20454">
             <head>General note</head>
@@ -629,9 +628,9 @@
         <c id="aspace_ref110_v4w" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Handbook on Transit Finance- Comments and Conclusions on Major Issues</unittitle>
-            <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_fd205d93fc378d46f7fb9fe6b5e8b4b7" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_874b09d2758ca64eb151f35aa4127c48" parent="aspace_fd205d93fc378d46f7fb9fe6b5e8b4b7" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_182f7f82c4779b5049fe662e3b7ea357" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ac04443849c48c142f5337b6a8c7cecb" parent="aspace_182f7f82c4779b5049fe662e3b7ea357" type="Folder">9</container>
           </did>
           <odd id="aspace_3a3e63fa7b97a87e9c116c7b0b8f2213">
             <head>General note</head>
@@ -640,9 +639,9 @@
         <c id="aspace_ref112_nqs" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Loan Guarantee Project Information</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_7b0bad14303d839e6d671be9320b6ee2" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_6b206c1bbeb55bc378b04b13e8eb2396" parent="aspace_7b0bad14303d839e6d671be9320b6ee2" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_b38ebedda58f71a3a2eabf0fd0ff3e99" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2f414dfa895ba44d09bfefb4221b8480" parent="aspace_b38ebedda58f71a3a2eabf0fd0ff3e99" type="Folder">10</container>
           </did>
           <odd id="aspace_9e68c3237d9c5a48c9d0c63c878bdee3">
             <head>General note</head>
@@ -651,9 +650,9 @@
         <c id="aspace_ref114_aur" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Measuring State and Local Government Fiscal Effort for Urban Mass Transportation, Vol. I</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_b9ce3480a53bc221f76ec751c0572d94" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_1395cdc7f64768f8633e6f3db74cbf70" parent="aspace_b9ce3480a53bc221f76ec751c0572d94" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_ec1c2d4d16221cd4ee66c9e54c13ddff" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_ec3d8e11b8831eb1b7f3f4f687122396" parent="aspace_ec1c2d4d16221cd4ee66c9e54c13ddff" type="Folder">11</container>
           </did>
           <odd id="aspace_35f477248c83571c3c7a11b73cbda717">
             <head>General note</head>
@@ -662,9 +661,9 @@
         <c id="aspace_ref116_s3h" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Measuring State and Local Government Fiscal Effort for Urban Mass Transportation, Vol. I</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_f62d378b7cf92e60afc1936772e93083" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_48987f8329e82a2ddb86ca130fd4b136" parent="aspace_f62d378b7cf92e60afc1936772e93083" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_fb5b1608c222732af75156b97310e1c5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_fb821435d3ac9571760b7d4497ee16f7" parent="aspace_fb5b1608c222732af75156b97310e1c5" type="Folder">1</container>
           </did>
           <odd id="aspace_2ebf2ae4cb0331008770fa84b17f02b4">
             <head>General note</head>
@@ -673,9 +672,9 @@
         <c id="aspace_ref118_1w9" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Measuring State and Local Government Fiscal Effort for Urban Mass Transportation, Vol. II</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_d4e32af22e44dfb56ee13fb1b506f194" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d411c23f2aceab7c368b06ce389ab8b5" parent="aspace_d4e32af22e44dfb56ee13fb1b506f194" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_66216ae1469f670089cf4d89444b45eb" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_dfe0da42455e3416f7368242cb2829b0" parent="aspace_66216ae1469f670089cf4d89444b45eb" type="Folder">2</container>
           </did>
           <odd id="aspace_08315b477ff70a768fb0badc051b2007">
             <head>General note</head>
@@ -684,9 +683,9 @@
         <c id="aspace_ref120_zb0" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Metropolitan Transportation Project- "Delivering Federal-Aid Funds to Metropolitan Areas,"</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_b5d371b9c2c37f50ed56b04ddbc22bff" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d8faade7b68289e1aaad850af396ce17" parent="aspace_b5d371b9c2c37f50ed56b04ddbc22bff" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_e31709d2f51175d65d26ce1661979e85" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a6b1308a7334bf11c4f41e501d8ccade" parent="aspace_e31709d2f51175d65d26ce1661979e85" type="Folder">3</container>
           </did>
           <odd id="aspace_43e7131e93e25ed7edc42893b7ebb77b">
             <head>General note</head>
@@ -695,9 +694,9 @@
         <c id="aspace_ref122_g2y" level="file">
           <did>
             <unittitle>Economic and Financial Issues: The Present Condition and Characteristics of the Transit Industry and How They Evolved</unittitle>
-            <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_e5b86c282f9232edae4def9182c58d07" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_8e6257dc323949ab3bcb6002fc9bc670" parent="aspace_e5b86c282f9232edae4def9182c58d07" type="Folder">4</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_ffe5b2c8e50ba3b8df881581132537ed" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0e20b264d6b02d49b28d2ddd195a08ed" parent="aspace_ffe5b2c8e50ba3b8df881581132537ed" type="Folder">4</container>
           </did>
           <odd id="aspace_a05afd08567ba83f387c9c11e4dcc110">
             <head>General note</head>
@@ -706,9 +705,9 @@
         <c id="aspace_ref124_lqp" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Public Funding Sources</unittitle>
-            <unitdate datechar="creation">06/03/1971</unitdate>
-            <container id="aspace_2fef9f9cf6e03fc7a990204546ba668c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_7dc5714718178a225344007d2ad6275b" parent="aspace_2fef9f9cf6e03fc7a990204546ba668c" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 June 03</unitdate>
+            <container id="aspace_45ce21ebe8eaae67063e7a4c53954265" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_300eccaf699ea48522cbb42d367a73fc" parent="aspace_45ce21ebe8eaae67063e7a4c53954265" type="Folder">5</container>
           </did>
           <odd id="aspace_7b87f95bfce6c0b8b8285b04b76779b5">
             <head>General note</head>
@@ -717,9 +716,9 @@
         <c id="aspace_ref126_bbw" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Public Funding Sources</unittitle>
-            <unitdate datechar="creation">06/03/1971</unitdate>
-            <container id="aspace_bf1fdab9c49212a6e7a2b85e49b18971" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_1fb4fc2867db4bba8de512f5fab9347b" parent="aspace_bf1fdab9c49212a6e7a2b85e49b18971" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 June 03</unitdate>
+            <container id="aspace_380295a7debc8e5f832ea21894c00995" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f7b9ae39e0f3f42f4e1809391f8a7484" parent="aspace_380295a7debc8e5f832ea21894c00995" type="Folder">6</container>
           </did>
           <odd id="aspace_1b35fdee72cbcbfea11df0887746f569">
             <head>General note</head>
@@ -728,9 +727,9 @@
         <c id="aspace_ref128_d0v" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Reduced Fare Services Development</unittitle>
-            <unitdate datechar="creation">1955</unitdate>
-            <container id="aspace_e71b597746a7b42b84dd1f3c1d602ef4" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_1374875ecb74de2320cdb3d10c4b2be0" parent="aspace_e71b597746a7b42b84dd1f3c1d602ef4" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_59e5a690827cc23d1104c15eeb6c82f4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c56879f6aa4330d526687439387d5d3b" parent="aspace_59e5a690827cc23d1104c15eeb6c82f4" type="Folder">7</container>
           </did>
           <odd id="aspace_f3068b87b6909789cac18f3f022e6ff7">
             <head>General note</head>
@@ -739,9 +738,9 @@
         <c id="aspace_ref130_av7" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Revenue, Expenses, Investment and Operations Data for Urban Transit Operators,Tables IA-IIB</unittitle>
-            <unitdate datechar="creation">1960-1970</unitdate>
-            <container id="aspace_d1d6846a7adab46beb309acf9a35d425" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_f79225b4ff99a174f9df52003cc3ce42" parent="aspace_d1d6846a7adab46beb309acf9a35d425" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1960/1970" type="inclusive">1960-1970</unitdate>
+            <container id="aspace_17e2d63baab8e78bdaa53ebf9afec855" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_21889ad0a196d193d01c14b704434a7d" parent="aspace_17e2d63baab8e78bdaa53ebf9afec855" type="Folder">8</container>
           </did>
           <odd id="aspace_2084fa1669dd151eda58b2b81700c130">
             <head>General note</head>
@@ -750,9 +749,9 @@
         <c id="aspace_ref132_eo7" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Revenue, Expenses, Investment and Operations Data for Urban Transit Operators, Tables IIIA-VIB</unittitle>
-            <unitdate datechar="creation">1960-1970</unitdate>
-            <container id="aspace_fd26d806ff287b5c15f2f76f5a072694" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_4feac894c3ebac35fa88de7c52b4cb10" parent="aspace_fd26d806ff287b5c15f2f76f5a072694" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1960/1970" type="inclusive">1960-1970</unitdate>
+            <container id="aspace_25321eb9cb8ed2af783ff4cb0046c49a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_33c260f2a919ce63de8a6f618d6c0f94" parent="aspace_25321eb9cb8ed2af783ff4cb0046c49a" type="Folder">9</container>
           </did>
           <odd id="aspace_359464bea91753a4c2680bbf3e77036a">
             <head>General note</head>
@@ -762,8 +761,8 @@
           <did>
             <unittitle>Economic and Financial Issues: The Traditional Need for Profitable or Breakeven Operations</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_323236a095b501148486b2855cab35c7" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_f1b9a83c4c8d48ca39e32ccc7a9705ea" parent="aspace_323236a095b501148486b2855cab35c7" type="Folder">10</container>
+            <container id="aspace_f68e2a0105eb645b038c7a235efd98f4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_be887e5f10daf59f37104a977a377374" parent="aspace_f68e2a0105eb645b038c7a235efd98f4" type="Folder">10</container>
           </did>
           <odd id="aspace_ccc57633a455a081942446d8a768945c">
             <head>General note</head>
@@ -772,9 +771,9 @@
         <c id="aspace_ref136_eg7" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Transportation and Urban Economic Development</unittitle>
-            <unitdate datechar="creation">11/1969</unitdate>
-            <container id="aspace_4ed9f0c93f9e33b4121b0d007ddc879c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_096e22f470fd85697acc170802170a6a" parent="aspace_4ed9f0c93f9e33b4121b0d007ddc879c" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969 November</unitdate>
+            <container id="aspace_d42047609de6342615de8beb6c233ecb" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4cba41c98abf12292b88478ea328cb60" parent="aspace_d42047609de6342615de8beb6c233ecb" type="Folder">11</container>
           </did>
           <odd id="aspace_5fa41fa583a6ac2a70c858ffb642d329">
             <head>General note</head>
@@ -783,9 +782,9 @@
         <c id="aspace_ref138_n2x" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Urban Passenger Transportation- Paper on Financial Powers</unittitle>
-            <unitdate datechar="creation">1964</unitdate>
-            <container id="aspace_50843a08e5d5e1881b95e9e705c2c8ca" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_245c34c06ba76dfdf98db0c10279ac33" parent="aspace_50843a08e5d5e1881b95e9e705c2c8ca" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_afa16273c8cb7facff72cf6163f8d823" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_a8f641e2049a4d318ddf10dee367b5ad" parent="aspace_afa16273c8cb7facff72cf6163f8d823" type="Folder">12</container>
           </did>
           <odd id="aspace_751e452a24d5f030793b1742c9ccc108">
             <head>General note</head>
@@ -794,9 +793,9 @@
         <c id="aspace_ref140_iru" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Urban Transportation Fund- paper proposal</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_b8580cbc9a901d154eabcedef6571100" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_ff429953035d9d4f150e8773fcfb42c2" parent="aspace_b8580cbc9a901d154eabcedef6571100" type="Folder">13</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_4b3b25b38bfed286dd62c4300b47bb6e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_91987f268492a5202ba24235472065fa" parent="aspace_4b3b25b38bfed286dd62c4300b47bb6e" type="Folder">13</container>
           </did>
           <odd id="aspace_a8071ca1aaf982c9dad169f96ef6303b">
             <head>General note</head>
@@ -805,9 +804,9 @@
         <c id="aspace_ref142_lrb" level="file">
           <did>
             <unittitle>Economic and Financial Issues: Urban Transportation Fund II Material</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_8584b1485e1c42c3e7d0021fc77d8d2d" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_aabd8b82d9f014ba2a01c71424974a04" parent="aspace_8584b1485e1c42c3e7d0021fc77d8d2d" type="Folder">14</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_a1298a4ae64a10d74c6b4f91be677ae2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d54b9dccf3515cf7da4cb2e929c09dda" parent="aspace_a1298a4ae64a10d74c6b4f91be677ae2" type="Folder">14</container>
           </did>
           <odd id="aspace_0205f927a89056ea87115ed501fe4978">
             <head>General note</head>
@@ -816,9 +815,9 @@
         <c id="aspace_ref144_6qv" level="file">
           <did>
             <unittitle>General Transit Issues: Alternative Transportation Systems</unittitle>
-            <unitdate datechar="creation">12/09/1973</unitdate>
-            <container id="aspace_fa9b46228d1cefe3026df748d841ac07" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_581e2e73afb25ec8674437a7213499db" parent="aspace_fa9b46228d1cefe3026df748d841ac07" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973 December 09</unitdate>
+            <container id="aspace_e4bd96e289173b1c128af315e977484f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9d87a208fb0edcbc3212430c2926ae57" parent="aspace_e4bd96e289173b1c128af315e977484f" type="Folder">1</container>
           </did>
           <odd id="aspace_9c090849cf4ece13683e977196e0b177">
             <head>General note</head>
@@ -827,9 +826,9 @@
         <c id="aspace_ref146_3wj" level="file">
           <did>
             <unittitle>General Transit Issues: Alternative Transportation Systems</unittitle>
-            <unitdate datechar="creation">02/28/1974</unitdate>
-            <container id="aspace_62fa75840a9c09ff329b70e627226980" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_2254180b0782d3a836b9fbea8b044e60" parent="aspace_62fa75840a9c09ff329b70e627226980" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 February 28</unitdate>
+            <container id="aspace_c3dff99b8e2cb902363ced9611c93878" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3a183c8ab872bcb587b5f423f717240c" parent="aspace_c3dff99b8e2cb902363ced9611c93878" type="Folder">2</container>
           </did>
           <odd id="aspace_b9754d75b09dbb9af96bfa68d416ab6c">
             <head>General note</head>
@@ -838,9 +837,9 @@
         <c id="aspace_ref148_lcq" level="file">
           <did>
             <unittitle>General Transit Issues: Alternative Transportation Systems</unittitle>
-            <unitdate datechar="creation">02/28/1974</unitdate>
-            <container id="aspace_d622dd8c7539211b3aee1774e665aebe" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_a093de8250829a542c913de5424b9899" parent="aspace_d622dd8c7539211b3aee1774e665aebe" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 February 28</unitdate>
+            <container id="aspace_ac84c94281950315cfba836f1ef65784" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ea74fd946975a2a004e892828cd8e394" parent="aspace_ac84c94281950315cfba836f1ef65784" type="Folder">3</container>
           </did>
           <odd id="aspace_ce71f32d3133618b208e978a3632d0ea">
             <head>General note</head>
@@ -849,9 +848,9 @@
         <c id="aspace_ref150_sc8" level="file">
           <did>
             <unittitle>General Transit Issues: Automated Guideway Transit</unittitle>
-            <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_699b3f31b6eea8c26cd8465a1c927aca" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_db65f958f632341e74408cf4c057b772" parent="aspace_699b3f31b6eea8c26cd8465a1c927aca" type="Folder">4</container>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_5341f796f1cc890f45a90cc81c2f0ff6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7553d60eee7119a6e388fb6b43a38e61" parent="aspace_5341f796f1cc890f45a90cc81c2f0ff6" type="Folder">4</container>
           </did>
           <odd id="aspace_f05fce1961e2a54dd20396902118b278">
             <head>General note</head>
@@ -860,9 +859,9 @@
         <c id="aspace_ref152_05f" level="file">
           <did>
             <unittitle>General Transit Issues: Brazil Transport Report- Rio de Janeiro</unittitle>
-            <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_25dbe524ddb1191a7372557264bfa78e" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_fe8e6fe06844cb71fceb57d7b7e16237" parent="aspace_25dbe524ddb1191a7372557264bfa78e" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_20accae8c7808b95baef8bf9255ff7ef" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_a7427243ba1ab2c65035b5b7dd8cbb77" parent="aspace_20accae8c7808b95baef8bf9255ff7ef" type="Folder">5</container>
           </did>
           <odd id="aspace_1f5c4fc120e9f7b390e1ae4a08c66ee3">
             <head>General note</head>
@@ -871,9 +870,9 @@
         <c id="aspace_ref154_3ti" level="file">
           <did>
             <unittitle>General Transit Issues: Brazil Transport Survey- Phase II</unittitle>
-            <unitdate datechar="creation">1968</unitdate>
-            <container id="aspace_6cd164406ad78e828cb4bc7ed628f5e0" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_4c6e0fe502e633d5a043973454e11747" parent="aspace_6cd164406ad78e828cb4bc7ed628f5e0" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_9c4133164ee4d348c7021115a88c0a5c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9f0fc56501f999187ecb1fdd7c043991" parent="aspace_9c4133164ee4d348c7021115a88c0a5c" type="Folder">6</container>
           </did>
           <odd id="aspace_bb14ae7ecb772be7cf53f6803e5719e5">
             <head>General note</head>
@@ -882,9 +881,9 @@
         <c id="aspace_ref156_s56" level="file">
           <did>
             <unittitle>General Transit Issues: Center City Transportation Program Information</unittitle>
-            <unitdate datechar="creation">1970</unitdate>
-            <container id="aspace_7c7de7a9d81324a3508fb995db2be19b" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_e84b6e071fb8a1d1bfa01ee86c4c4e01" parent="aspace_7c7de7a9d81324a3508fb995db2be19b" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_24b337a17fcd6100adc49c65aed488cf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fdeeb085dbfa5f6d6a9eb8c6f15ad575" parent="aspace_24b337a17fcd6100adc49c65aed488cf" type="Folder">7</container>
           </did>
           <odd id="aspace_804260e3829e073180f6209b62c64746">
             <head>General note</head>
@@ -894,8 +893,8 @@
           <did>
             <unittitle>General Transit Issues: Christian Science Monitor</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2c9b0cfbf5b0cb3d6e881442a9d00ea0" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_89ae62e96a6ae5ac8cfd31c4e1615c7a" parent="aspace_2c9b0cfbf5b0cb3d6e881442a9d00ea0" type="Folder">8</container>
+            <container id="aspace_2f8ae3455a124998863d7676d493cee1" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_69a503ca8f7833d49f05682c796ac942" parent="aspace_2f8ae3455a124998863d7676d493cee1" type="Folder">8</container>
           </did>
           <odd id="aspace_fb3f74bd278038148ca107832e431d8a">
             <head>General note</head>
@@ -904,9 +903,9 @@
         <c id="aspace_ref160_7n0" level="file">
           <did>
             <unittitle>General Transit Issues: Containerized Traffic- Geographic Distribution Analysis</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_d59956695212497a7a6305847af9844c" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_d26466184324658553b2bec442fa2859" parent="aspace_d59956695212497a7a6305847af9844c" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_199c6ebbec46de7af0df8c2f9968d150" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_60f1badd329397091aff05af1c1b8e06" parent="aspace_199c6ebbec46de7af0df8c2f9968d150" type="Folder">9</container>
           </did>
           <odd id="aspace_063d42c2fbfa9ce87b759c9181306ba9">
             <head>General note</head>
@@ -915,9 +914,9 @@
         <c id="aspace_ref162_mfs" level="file">
           <did>
             <unittitle>General Transit Issues: Elderly and Handicapped Transportation Issues</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_142a9a9675a16effbc69d7a059da03f6" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_f47913892155566d6744e9f2899e9ece" parent="aspace_142a9a9675a16effbc69d7a059da03f6" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_d1baff0d984b4a4eb2776eb753ff9b6f" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9e34b077e31cfa16149b5f470b103c41" parent="aspace_d1baff0d984b4a4eb2776eb753ff9b6f" type="Folder">1</container>
           </did>
           <odd id="aspace_ed600c34104d02209876d663699194e6">
             <head>General note</head>
@@ -927,8 +926,8 @@
           <did>
             <unittitle>General Transit Issues: Function of Organized Representation to the U.S Congress</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_33cb5b18cbb237f7d79cbca1bad40d2f" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_e5db61a6c7f136fbc90ef2885cdff8a2" parent="aspace_33cb5b18cbb237f7d79cbca1bad40d2f" type="Folder">2</container>
+            <container id="aspace_9acfded8353dcb9e07e5c371516bb5ba" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_efd97a6e2d9269d2a3ae33e89fe2825b" parent="aspace_9acfded8353dcb9e07e5c371516bb5ba" type="Folder">2</container>
           </did>
           <odd id="aspace_8d6c8f909e5d14aae1beb4d9bce5283d">
             <head>General note</head>
@@ -937,9 +936,9 @@
         <c id="aspace_ref166_evu" level="file">
           <did>
             <unittitle>General Transit Issues: General Transportation Memorandums</unittitle>
-            <unitdate datechar="creation">1974-1969</unitdate>
-            <container id="aspace_89a6c8d6e9ba08932ae10a48414bc275" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_15710aeae2b6c2ac91abb5099bdd4c36" parent="aspace_89a6c8d6e9ba08932ae10a48414bc275" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1969/1974" type="inclusive">1969-1974</unitdate>
+            <container id="aspace_24bf3e4d423c4a0514c6517641c94c72" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_0a35004fb64b53f8211ca9c05af6be31" parent="aspace_24bf3e4d423c4a0514c6517641c94c72" type="Folder">3</container>
           </did>
           <odd id="aspace_fdc17e962eacec1a1bd0d3ee82024248">
             <head>General note</head>
@@ -948,9 +947,9 @@
         <c id="aspace_ref168_mww" level="file">
           <did>
             <unittitle>General Transit Issues: Geographic Scope for Transportation Plans</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_2554ce52cdf8c4469a308008c0b379b1" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_13cb026c2777e9fc45b57cf874b15eaa" parent="aspace_2554ce52cdf8c4469a308008c0b379b1" type="Folder">4</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_8f518b63e4efae4a495b4851c57d81d8" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_110072e2c9fe283baf6d9d82bbc9eeeb" parent="aspace_8f518b63e4efae4a495b4851c57d81d8" type="Folder">4</container>
           </did>
           <odd id="aspace_d04553c68432a86442152ac27b26a2c5">
             <head>General note</head>
@@ -959,9 +958,9 @@
         <c id="aspace_ref170_ysi" level="file">
           <did>
             <unittitle>General Transit Issues: Global Survey of Potential Urban Transportation Investment</unittitle>
-            <unitdate datechar="creation">06/1971</unitdate>
-            <container id="aspace_06edf0bf370d42cfb915f96011cc7abb" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_4a9140f557abaadb45513afebbd9eff6" parent="aspace_06edf0bf370d42cfb915f96011cc7abb" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 June</unitdate>
+            <container id="aspace_5dfbc18ae4f2e2e12c2a16b183048cc9" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_046206f533c0e9752c5c83ee70f139a7" parent="aspace_5dfbc18ae4f2e2e12c2a16b183048cc9" type="Folder">5</container>
           </did>
           <odd id="aspace_54e377f34a6c69d3dbb358e485e1326c">
             <head>General note</head>
@@ -970,9 +969,9 @@
         <c id="aspace_ref172_x91" level="file">
           <did>
             <unittitle>General Transit Issues: Government Regulation Activity</unittitle>
-            <unitdate datechar="creation">1976</unitdate>
-            <container id="aspace_c3acbaee2a3a704c0171e3c53a9e140c" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_676abdd758fcce877a5040524b3b7162" parent="aspace_c3acbaee2a3a704c0171e3c53a9e140c" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_c99e8c817ab3a60c8d18084105c1dc96" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_73bd00d22a7afb6dd7c3868214b8693c" parent="aspace_c99e8c817ab3a60c8d18084105c1dc96" type="Folder">6</container>
           </did>
           <odd id="aspace_e03f0533fa9816698d37ab256bec4026">
             <head>General note</head>
@@ -981,9 +980,9 @@
         <c id="aspace_ref174_h6h" level="file">
           <did>
             <unittitle>General Transit Issues: Hourly Passenger Capacity Standards for Judging Potential Application ofVarious Modes in Urban Transportation Planning</unittitle>
-            <unitdate datechar="creation">11/25/1974</unitdate>
-            <container id="aspace_cea23ec22a52a44ffd54dc4814bdceb1" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_7f13b9d6187434ac39a28a1a74a506e5" parent="aspace_cea23ec22a52a44ffd54dc4814bdceb1" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 November 25</unitdate>
+            <container id="aspace_335856921712791ccc3d35629a62690e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_1d6470279176d3de0326d73059d5749d" parent="aspace_335856921712791ccc3d35629a62690e" type="Folder">7</container>
           </did>
           <odd id="aspace_616e1ece95138eb4eaef1aa27114928c">
             <head>General note</head>
@@ -992,9 +991,9 @@
         <c id="aspace_ref176_5aa" level="file">
           <did>
             <unittitle>General Transit Issues: Information Work Program for</unittitle>
-            <unitdate datechar="creation">1975-1976</unitdate>
-            <container id="aspace_24b2f1ab802df18a36c3ee15589f8c03" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_1eb6b34b411f6294810cffc6c0d919bf" parent="aspace_24b2f1ab802df18a36c3ee15589f8c03" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_98dae2a902cf2127a819223b69422e0d" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_fea757b8cbad8054bbfc78c4566e2fe8" parent="aspace_98dae2a902cf2127a819223b69422e0d" type="Folder">8</container>
           </did>
           <odd id="aspace_ea7cc95bff36b2d7a1e37f73be5aab7a">
             <head>General note</head>
@@ -1003,9 +1002,9 @@
         <c id="aspace_ref178_mvf" level="file">
           <did>
             <unittitle>General Transit Issues: Intercity Passenger Transportation</unittitle>
-            <unitdate datechar="creation">1968</unitdate>
-            <container id="aspace_d55cfb9b721e13792eb91b47968c9488" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_12b70e78f65e5fc4e1687e9f3eb0decd" parent="aspace_d55cfb9b721e13792eb91b47968c9488" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_c7a59c977a4edd79641fd91ff3cdd79b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_3b03b7c50695286db45a120ce4f358e0" parent="aspace_c7a59c977a4edd79641fd91ff3cdd79b" type="Folder">9</container>
           </did>
           <odd id="aspace_724564a41059e914cc934a9c059e3a83">
             <head>General note</head>
@@ -1014,9 +1013,9 @@
         <c id="aspace_ref180_foj" level="file">
           <did>
             <unittitle>General Transit Issues: Intermodal Containerization Trends and Problems</unittitle>
-            <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_df320436f93c7047ebc366dfe0d9350d" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_32da58eeb738d7425666fdc30bd2416a" parent="aspace_df320436f93c7047ebc366dfe0d9350d" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_47fd1b6388492d1cf384d56181126176" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5c42620c0c70eb1354c3e01e3ab01b0e" parent="aspace_47fd1b6388492d1cf384d56181126176" type="Folder">10</container>
           </did>
           <odd id="aspace_1e893ec0312ce360bc1bfccbf34289a6">
             <head>General note</head>
@@ -1026,8 +1025,8 @@
           <did>
             <unittitle>General Transit Issues: Metropolitan Transportation Project- "Evolution of Work Programs"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4516c5d6fb8fcafdaf4dfb2fc6d4b22b" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_af292874f305cbf6191eb6212c534b4f" parent="aspace_4516c5d6fb8fcafdaf4dfb2fc6d4b22b" type="Folder">11</container>
+            <container id="aspace_962f0c4e561f028d88677d9ccdaf15d6" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5cc339bee007729bafcd78e3fe4f5d1f" parent="aspace_962f0c4e561f028d88677d9ccdaf15d6" type="Folder">11</container>
           </did>
           <odd id="aspace_cb281e85733d0d9743c0c66029908b07">
             <head>General note</head>
@@ -1036,9 +1035,9 @@
         <c id="aspace_ref184_969" level="file">
           <did>
             <unittitle>General Transit Issues: National Issues in Intercity Transportation</unittitle>
-            <unitdate datechar="creation">07/25/1974</unitdate>
-            <container id="aspace_11786bba9001e2188cd48ae6262385ef" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_4352cee60cfe52c73cf372194d45c4fe" parent="aspace_11786bba9001e2188cd48ae6262385ef" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 July 25</unitdate>
+            <container id="aspace_613ecdd0c676e040f687a047f08f18c4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_5a1a7d1f7e2ae1148ff7f62acdf4dbb0" parent="aspace_613ecdd0c676e040f687a047f08f18c4" type="Folder">12</container>
           </did>
           <odd id="aspace_6f8e36274c63f75e9c2a6bbce4740d11">
             <head>General note</head>
@@ -1048,8 +1047,8 @@
           <did>
             <unittitle>General Transit Issues: Palm Oil Transportation</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c508e24fc20b2cb7da50960ab9ef0645" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_6fae97919149c68c521eab4dfa1a04c0" parent="aspace_c508e24fc20b2cb7da50960ab9ef0645" type="Folder">13</container>
+            <container id="aspace_2d779185956aa93298f502711f4f3553" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_8702ba66a694f31f610734fed22adb09" parent="aspace_2d779185956aa93298f502711f4f3553" type="Folder">13</container>
           </did>
           <odd id="aspace_9a2d6199f12e39d95142c43aa988b18b">
             <head>General note</head>
@@ -1058,9 +1057,9 @@
         <c id="aspace_ref188_aub" level="file">
           <did>
             <unittitle>General Transit Issues: The Present Condition and Characteristics of the Transit Industry and How They Evolved</unittitle>
-            <unitdate datechar="creation">09/27/1971</unitdate>
-            <container id="aspace_a2bc8a237d5e30451e840873cf775418" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_0162c638e4d9de782dcdf4076371db96" parent="aspace_a2bc8a237d5e30451e840873cf775418" type="Folder">14</container>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 September 27</unitdate>
+            <container id="aspace_2c77b9f6a57e55dda42ffaa43dc677c5" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_0f0ee81b22cd936b78bc7a79b13519c5" parent="aspace_2c77b9f6a57e55dda42ffaa43dc677c5" type="Folder">14</container>
           </did>
           <odd id="aspace_edc652c0336b0978ab3447a6554a1ade">
             <head>General note</head>
@@ -1069,9 +1068,9 @@
         <c id="aspace_ref190_qtn" level="file">
           <did>
             <unittitle>General Transit Issues: Regulation of Demand-Responsive Passenger Vehicles</unittitle>
-            <unitdate datechar="creation">06/1975</unitdate>
-            <container id="aspace_71b49cd43ff8a039a6602d6f1e45f12b" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_a49727884da6d920101d6fdf0971dfec" parent="aspace_71b49cd43ff8a039a6602d6f1e45f12b" type="Folder">15</container>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975 June</unitdate>
+            <container id="aspace_441f539790f6414891e70199ecb74399" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_752dd85f9267b52c04b4c28037175a02" parent="aspace_441f539790f6414891e70199ecb74399" type="Folder">15</container>
           </did>
           <odd id="aspace_85ed4980fb4f74c0476cc70bcbc4f6f4">
             <head>General note</head>
@@ -1081,8 +1080,8 @@
           <did>
             <unittitle>General Transit Issues: State Departments of Transportation Memorandums</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1697ff9234debf2eeef21edce69eff2b" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_d70eb0b462c07f4d7b7c81f378d1f91f" parent="aspace_1697ff9234debf2eeef21edce69eff2b" type="Folder">16</container>
+            <container id="aspace_aa205a56850744e85747628b87529fa3" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_e2f8a0c1f8e3912d90ed038ea0568612" parent="aspace_aa205a56850744e85747628b87529fa3" type="Folder">16</container>
           </did>
           <odd id="aspace_030eaae94cf88b43f274087cc52c56fe">
             <head>General note</head>
@@ -1091,9 +1090,9 @@
         <c id="aspace_ref194_86y" level="file">
           <did>
             <unittitle>General Transit Issues: Teheran Transportation Policy</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_aeb72c35accddcb96fdb19ad5422a054" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_d73aef13463879ff71bcea0655f6fd17" parent="aspace_aeb72c35accddcb96fdb19ad5422a054" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_86543910f594e866e4e1f230faafda62" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_3d7648bd94ee19a1ab445800b443e253" parent="aspace_86543910f594e866e4e1f230faafda62" type="Folder">1</container>
           </did>
           <odd id="aspace_1be02e1589ac98612cdc845c961a982e">
             <head>General note</head>
@@ -1102,9 +1101,9 @@
         <c id="aspace_ref196_7vo" level="file">
           <did>
             <unittitle>General Transit Issues: Transit Management Program</unittitle>
-            <unitdate datechar="creation">12/27/1976</unitdate>
-            <container id="aspace_9569be4d55ea5837ed70cdf5a09a5d88" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_da5f172e7f1ef6f746b4deaacab000f0" parent="aspace_9569be4d55ea5837ed70cdf5a09a5d88" type="Folder">2</container>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976 December 27</unitdate>
+            <container id="aspace_baf30813e893b3d936dc78a2e9016286" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a05dafec20c49d3478d5736a2dbe52f6" parent="aspace_baf30813e893b3d936dc78a2e9016286" type="Folder">2</container>
           </did>
           <odd id="aspace_7207b8284d3ac23306701c91ee3b0037">
             <head>General note</head>
@@ -1113,9 +1112,9 @@
         <c id="aspace_ref198_c36" level="file">
           <did>
             <unittitle>General Transit Issues: Transit Management Program</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_277b8cbb16a14aab3e215f346b6b96f4" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_bfd40b57d47cd042c7b247014f281a0a" parent="aspace_277b8cbb16a14aab3e215f346b6b96f4" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_f0138a3748be976023c7b0ec92113694" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_dc09457bfe77d242af910c2a1298979f" parent="aspace_f0138a3748be976023c7b0ec92113694" type="Folder">3</container>
           </did>
           <odd id="aspace_7e8acd377fc8ebd387987e17cb23efbf">
             <head>General note</head>
@@ -1125,8 +1124,8 @@
           <did>
             <unittitle>General Transit Issues: Transit Resource Productivity Demonstration</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ce05f55746b35305d5e1f78dfc9ebbe3" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_632f07eb760ca78e9682d8ee815ffad8" parent="aspace_ce05f55746b35305d5e1f78dfc9ebbe3" type="Folder">4</container>
+            <container id="aspace_a4c0015a46384911f3bf04b14412cce3" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ebc75659797e75bf4e59173298223e99" parent="aspace_a4c0015a46384911f3bf04b14412cce3" type="Folder">4</container>
           </did>
           <odd id="aspace_0cb8f2859b7fa8bdaeabf07c37a589ac">
             <head>General note</head>
@@ -1135,9 +1134,9 @@
         <c id="aspace_ref202_dn6" level="file">
           <did>
             <unittitle>General Transit Issues: Transportation Journal by American Society ofTraffic and Transportation,Summer</unittitle>
-            <unitdate datechar="creation">1964</unitdate>
-            <container id="aspace_7c4639fba36e1e9832fc557cfe62be98" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_e2e2e5d99dcf0c5f6b91fe73380ca1cc" parent="aspace_7c4639fba36e1e9832fc557cfe62be98" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_10c387cf9e1b0f8e5c414fcdc1da9045" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_86b9e6e3f517a909838bfef4ef38217c" parent="aspace_10c387cf9e1b0f8e5c414fcdc1da9045" type="Folder">5</container>
           </did>
           <odd id="aspace_71aa1f10b9f3ad127bbf11eca850f278">
             <head>General note</head>
@@ -1147,8 +1146,8 @@
           <did>
             <unittitle>General Transit Issues: Transportation Policies and Energy Conservation</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4a07db0ccea563a0dfdde605e247c285" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_03582f161280a30742d85d3fe32bc3f2" parent="aspace_4a07db0ccea563a0dfdde605e247c285" type="Folder">6</container>
+            <container id="aspace_1adf92f495e501212d5a43f5fcf8ac4a" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8afaa97d95d718620e7e31cd31d5a7e8" parent="aspace_1adf92f495e501212d5a43f5fcf8ac4a" type="Folder">6</container>
           </did>
           <odd id="aspace_f4e13622bd8a94e0d1ff771b4d838f8c">
             <head>General note</head>
@@ -1157,9 +1156,9 @@
         <c id="aspace_ref206_cxb" level="file">
           <did>
             <unittitle>General Transit Issues: Transportation Research Forum- Rechel Papers from Annual Meetings</unittitle>
-            <unitdate datechar="creation">1963-1969</unitdate>
-            <container id="aspace_7e182a7112e60946f70ab2afe24c198c" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_46192d943f3cdfa03d278db2f25d1473" parent="aspace_7e182a7112e60946f70ab2afe24c198c" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1963/1969" type="inclusive">1963-1969</unitdate>
+            <container id="aspace_26cd0a55b5fd3e9ae22c922e88b5553c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_aa841f439e6eaf3111ea159f81b56d66" parent="aspace_26cd0a55b5fd3e9ae22c922e88b5553c" type="Folder">7</container>
           </did>
           <odd id="aspace_cd75a15e1e7484ed7e0db9a324e97260">
             <head>General note</head>
@@ -1168,9 +1167,9 @@
         <c id="aspace_ref208_hfk" level="file">
           <did>
             <unittitle>General Transit Issues: Transportation Safety Issues</unittitle>
-            <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_1b81e708d1f4f487db052ebac2911c45" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_4f1c9849c419016192cd524eb68e5a55" parent="aspace_1b81e708d1f4f487db052ebac2911c45" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_cf9efc80a70b83774d15990b27456b67" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_e2db03b6df0281ebb0107c10515de810" parent="aspace_cf9efc80a70b83774d15990b27456b67" type="Folder">8</container>
           </did>
           <odd id="aspace_3c2a96f71c27a9be7066a6c214bf2a26">
             <head>General note</head>
@@ -1179,9 +1178,9 @@
         <c id="aspace_ref210_3f8" level="file">
           <did>
             <unittitle>General Transit Issues: Transportation Safety Programs</unittitle>
-            <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_1f8fe7d146893b9854de30e696ce84e4" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_6f18d288456e51aabb6f5aae98553db3" parent="aspace_1f8fe7d146893b9854de30e696ce84e4" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_187253348f51dbd6c2ab7013467a1dc4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_ba435aee80dfe9a88ce2cfd0eca674cd" parent="aspace_187253348f51dbd6c2ab7013467a1dc4" type="Folder">9</container>
           </did>
           <odd id="aspace_2065fd6770c304bd95678d788a8fe725">
             <head>General note</head>
@@ -1190,9 +1189,9 @@
         <c id="aspace_ref212_m10" level="file">
           <did>
             <unittitle>General Transit Issues: UMTA- correspondence</unittitle>
-            <unitdate datechar="creation">1968-1974</unitdate>
-            <container id="aspace_45437435df718b7ab3854fa0ac522728" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_cd0a8a48431af2b5933c31b57618a38f" parent="aspace_45437435df718b7ab3854fa0ac522728" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1968/1974" type="inclusive">1968-1974</unitdate>
+            <container id="aspace_24f40bc7859652fe0b7153009e2e9e05" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_8d844b8451d46bf4d06570c1568ae725" parent="aspace_24f40bc7859652fe0b7153009e2e9e05" type="Folder">10</container>
           </did>
           <odd id="aspace_c8435fa83cb6902c078f81441af3200e">
             <head>General note</head>
@@ -1201,9 +1200,9 @@
         <c id="aspace_ref214_hi1" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Automobile Operations and Gasoline Costs</unittitle>
-            <unitdate datechar="creation">1972-1973</unitdate>
-            <container id="aspace_c1be8b21d7ee573c21e8f3e86f9faeff" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_b60975702ae25324c2bfe5cee794be95" parent="aspace_c1be8b21d7ee573c21e8f3e86f9faeff" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_281d260f81149def3040614741127461" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_a51ffb193a9e68facb790e3f7ec02f55" parent="aspace_281d260f81149def3040614741127461" type="Folder">11</container>
           </did>
           <odd id="aspace_5c700cbba4b7aa96e268d1d9103744a1">
             <head>General note</head>
@@ -1212,9 +1211,9 @@
         <c id="aspace_ref216_nu2" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: An Economic Evaluation of Toll Financing for Highways</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_6466d8d3b86ddcb0d935a3dd3d7d8e89" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_433b401997248b5bf81b7331344e407a" parent="aspace_6466d8d3b86ddcb0d935a3dd3d7d8e89" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_8badecf96a3a1962a5efc89607f46cc9" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_4514b6f730aee1dc9c619be43f7bcd8c" parent="aspace_8badecf96a3a1962a5efc89607f46cc9" type="Folder">12</container>
           </did>
           <odd id="aspace_c4334b4d4cdb395422c9eb8d87ef1216">
             <head>General note</head>
@@ -1223,9 +1222,9 @@
         <c id="aspace_ref218_np4" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: An Economic Evaluation of Toll Financing for Highways</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_dcadcce9177eea67fbef95181e5c8d21" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_9f3deec5beccdd2f30b90534e5abe668" parent="aspace_dcadcce9177eea67fbef95181e5c8d21" type="Folder">13</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_c80287858500a4310a25a71533d1dbd1" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_51ae97e6353a0bcbd5c89e9633c45a89" parent="aspace_c80287858500a4310a25a71533d1dbd1" type="Folder">13</container>
           </did>
           <odd id="aspace_b04b750e40095d063e2c94a97288b076">
             <head>General note</head>
@@ -1234,9 +1233,9 @@
         <c id="aspace_ref220_iqs" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: An Economic Evaluation of Toll Financing for Highways</unittitle>
-            <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_d8495bd82fde688642f68a24849ff606" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_d4a7a123335a1c3f2d9a21018239d87d" parent="aspace_d8495bd82fde688642f68a24849ff606" type="Folder">14</container>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_e1f3eafd6accc7ade984ec385d565158" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_301c7677a5b7730f3054c7f655317529" parent="aspace_e1f3eafd6accc7ade984ec385d565158" type="Folder">14</container>
           </did>
           <odd id="aspace_b82c588ba08134a9e580a9baf91c4b45">
             <head>General note</head>
@@ -1245,9 +1244,9 @@
         <c id="aspace_ref222_ljy" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Economic Results of Highway Improvements in Appalachia</unittitle>
-            <unitdate datechar="creation">1964</unitdate>
-            <container id="aspace_716be7db0ba0b8629284b4ea6ea2dc23" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_fd5d870ef267539f4f25a7cc40867c23" parent="aspace_716be7db0ba0b8629284b4ea6ea2dc23" type="Folder">1</container>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_48683639f0e946bb07fc679c5312f216" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_14f4d53edb79f8792aa9d78a4a4c7ee4" parent="aspace_48683639f0e946bb07fc679c5312f216" type="Folder">1</container>
           </did>
           <odd id="aspace_eabc3e414bfd0d0086ba8e7b7a6d67ac">
             <head>General note</head>
@@ -1257,8 +1256,8 @@
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Exhibits of Laurentian Transit Inc. before Quebec Transportation Board</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_42cc3c3fe73ca2ef01a3c7c8cf7ee045" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_02b30109bba59225d820a49895d05bb3" parent="aspace_42cc3c3fe73ca2ef01a3c7c8cf7ee045" type="Folder">2</container>
+            <container id="aspace_9a0e118fe686c6879b89cec73440c2c3" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_ecc4159b6d104dfc9ad3a0828a8c1065" parent="aspace_9a0e118fe686c6879b89cec73440c2c3" type="Folder">2</container>
           </did>
           <odd id="aspace_4a8da3519e9c23f9b134a37da769ceaf">
             <head>General note</head>
@@ -1267,9 +1266,9 @@
         <c id="aspace_ref226_58t" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Gasoline Sales Distribution</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_07ab1a2230258c897aec799fa7ac4acd" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_66e0e7441a472904a9ccdde2bcfb4d1e" parent="aspace_07ab1a2230258c897aec799fa7ac4acd" type="Folder">3</container>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_8fe6147d12dfbffd58842d879dd4b194" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_f7749995d323b92a89a6a8f762691fdd" parent="aspace_8fe6147d12dfbffd58842d879dd4b194" type="Folder">3</container>
           </did>
           <odd id="aspace_19c2453d8d18015de0c4b9090f0913d0">
             <head>General note</head>
@@ -1278,9 +1277,9 @@
         <c id="aspace_ref228_cfb" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Highway Research Record- "Transportation Planning for Natural Resource and Recreation Development,"</unittitle>
-            <unitdate datechar="creation">1972</unitdate>
-            <container id="aspace_835da1500d8017c20ad45c5c6c8bb5fb" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_ca495c2898bddef205638c3b7fb8b906" parent="aspace_835da1500d8017c20ad45c5c6c8bb5fb" type="Folder">4</container>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_63819d820c841c20711d737125575f1c" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_62ea6927d0da987602ebb28b2f906d36" parent="aspace_63819d820c841c20711d737125575f1c" type="Folder">4</container>
           </did>
           <odd id="aspace_6578d1c0c574c43cb451bdbfc019179f">
             <head>General note</head>
@@ -1289,9 +1288,9 @@
         <c id="aspace_ref230_8ge" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Mass Transportation Tax Study</unittitle>
-            <unitdate datechar="creation">01/21/1974</unitdate>
-            <container id="aspace_76e44a36c7898512e64f5c39096c0067" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_6f03693017b0835667c6356fbb1f618e" parent="aspace_76e44a36c7898512e64f5c39096c0067" type="Folder">5</container>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974 January 21</unitdate>
+            <container id="aspace_91eed143b1185e4dc73900be9402fbaf" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_7969fbdb6cfb75db86f5947ed91aeb9b" parent="aspace_91eed143b1185e4dc73900be9402fbaf" type="Folder">5</container>
           </did>
           <odd id="aspace_6c4544ab2720d14a14010b6f3605537c">
             <head>General note</head>
@@ -1300,9 +1299,9 @@
         <c id="aspace_ref232_mop" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Motor Carrier Safety Regulations</unittitle>
-            <unitdate datechar="creation">10/31/1978</unitdate>
-            <container id="aspace_41fb1b5ff048c7b0a57254fc83e33f44" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_6560ed8508a7852e6a92c8d58fd86edb" parent="aspace_41fb1b5ff048c7b0a57254fc83e33f44" type="Folder">6</container>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978 October 31</unitdate>
+            <container id="aspace_70fe6c03973bec1f8360df233060243b" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_738d75111c788c548c0ba3b56f33cefc" parent="aspace_70fe6c03973bec1f8360df233060243b" type="Folder">6</container>
           </did>
           <odd id="aspace_7f50169f3c94e7a2dec73fee140e0719">
             <head>General note</head>
@@ -1311,9 +1310,9 @@
         <c id="aspace_ref234_xmf" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Motor Vehicle Transportation Memorandums</unittitle>
-            <unitdate datechar="creation">1967</unitdate>
-            <container id="aspace_c622cd702ddc43deb59c7bf8de3c3778" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_d07f4eaeb40b42cf3e93758b6c54ddbb" parent="aspace_c622cd702ddc43deb59c7bf8de3c3778" type="Folder">7</container>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_f55854764cdffbc89e282e1a7c873236" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_2e6295adfce6e428a57a77479e1a6884" parent="aspace_f55854764cdffbc89e282e1a7c873236" type="Folder">7</container>
           </did>
           <odd id="aspace_741fc897fd918138ccdd1e3ae6da2c38">
             <head>General note</head>
@@ -1322,9 +1321,9 @@
         <c id="aspace_ref236_jdo" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Paratransit Services and Transit Subsidy Problems</unittitle>
-            <unitdate datechar="creation">1969-1979</unitdate>
-            <container id="aspace_a40845dc4ebbbe3e2e548cb5835306de" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_e6a05dea66dfd7cca237ab18b07fb26b" parent="aspace_a40845dc4ebbbe3e2e548cb5835306de" type="Folder">8</container>
+            <unitdate datechar="creation" normal="1969/1979" type="inclusive">1969-1979</unitdate>
+            <container id="aspace_87d6ad788bd029e0bbf5493e2153a6ea" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_718aa0c16294f67eb448ea156d679477" parent="aspace_87d6ad788bd029e0bbf5493e2153a6ea" type="Folder">8</container>
           </did>
           <odd id="aspace_cf9159603ce449613c877c794d18bf42">
             <head>General note</head>
@@ -1333,9 +1332,9 @@
         <c id="aspace_ref238_njm" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Public Paratransit Regulation</unittitle>
-            <unitdate datechar="creation">02/1976</unitdate>
-            <container id="aspace_f3169cc09b4702e4fd7ba506d89016c1" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_ee544dc2f01a0c0cd29bad6349bf6a05" parent="aspace_f3169cc09b4702e4fd7ba506d89016c1" type="Folder">9</container>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976 February</unitdate>
+            <container id="aspace_0ac7898f609bce86edbcd5d256989965" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_c52b131b09d2befe6893e0187f6d7000" parent="aspace_0ac7898f609bce86edbcd5d256989965" type="Folder">9</container>
           </did>
           <odd id="aspace_880bfcd2434073dd3563c25d1fe75104">
             <head>General note</head>
@@ -1344,9 +1343,9 @@
         <c id="aspace_ref240_tbt" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Reducing Pedestrian-Motor Vehicle Friction</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_050de6abccf1267e2c15b6396adf3b8c" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_6c57b6ec48c8aa6cc3de16f098735cea" parent="aspace_050de6abccf1267e2c15b6396adf3b8c" type="Folder">10</container>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_4dce6acbfabaaa5526ad75e6c26c4fea" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_897f2f365e353bd1a2788d7164caa7f2" parent="aspace_4dce6acbfabaaa5526ad75e6c26c4fea" type="Folder">10</container>
           </did>
           <odd id="aspace_38c07888422a102d425569e79f2d1ced">
             <head>General note</head>
@@ -1355,9 +1354,9 @@
         <c id="aspace_ref242_xgs" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Taxi Regulations</unittitle>
-            <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_5ece4fcb56c39a6bfd80764a1baa097d" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_083f8219bdf582ef8e38253bc5050cdc" parent="aspace_5ece4fcb56c39a6bfd80764a1baa097d" type="Folder">11</container>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_5b7cdcf34a136b74c03052b95d944dd2" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_e610c199ce00cedb76c5e506ed97737c" parent="aspace_5b7cdcf34a136b74c03052b95d944dd2" type="Folder">11</container>
           </did>
           <odd id="aspace_ebe021eddf9cd1fed182cdcfccb1b0e7">
             <head>General note</head>
@@ -1366,9 +1365,9 @@
         <c id="aspace_ref244_ujg" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Toll Highway Operations Information of the Florida State Roads Department</unittitle>
-            <unitdate datechar="creation">1966-1967</unitdate>
-            <container id="aspace_374dfc85d70191f2fcb0d34d445419b9" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_8bbe4a39823a1063dc1e2ebf254cbe89" parent="aspace_374dfc85d70191f2fcb0d34d445419b9" type="Folder">12</container>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_9d58fc7d598cc0153cbe9dedf682dbfc" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_82236bfca34878955d9c76725e859594" parent="aspace_9d58fc7d598cc0153cbe9dedf682dbfc" type="Folder">12</container>
           </did>
           <odd id="aspace_ec55b0ff5c6eee9f9f97d8927bc64008">
             <head>General note</head>
@@ -1377,9 +1376,9 @@
         <c id="aspace_ref246_ekq" level="file">
           <did>
             <unittitle>Highway and Motor Vehicle Issues: Work Program of Economic and Traffic Analyses</unittitle>
-            <unitdate datechar="creation">08/10/1967</unitdate>
-            <container id="aspace_d7cd9f0ac83bcd7298c18a8f8cb7e860" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_76fdc3d6d328573bac168fc16056dc1c" parent="aspace_d7cd9f0ac83bcd7298c18a8f8cb7e860" type="Folder">13</container>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967 August 10</unitdate>
+            <container id="aspace_ccecd8a71d89aac6b59091c3361c66b2" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_fd3b310a679235149a3074563db8372b" parent="aspace_ccecd8a71d89aac6b59091c3361c66b2" type="Folder">13</container>
           </did>
           <odd id="aspace_e90453ba36b1a3f8c9a832101ecb01e8">
             <head>General note</head>
@@ -1390,7 +1389,7 @@
         <did>
           <unittitle>Other transportation</unittitle>
           <unitid>MS2064 Series 4</unitid>
-          <unitdate datechar="creation">1973-1975</unitdate>
+          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
           <physdesc id="aspace_1304e5bc7f284e25b8572ee6d061d0b6" label="General Physical Description note">0.25 Linear feet</physdesc>
         </did>
         <scopecontent id="aspace_cd3a79de181c86e60009b10a6fda67a2">
@@ -1402,8 +1401,8 @@
           <did>
             <unittitle>Economic Impact of Open Registry Shipping</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bf2fe7563d4f7c2cd5069acae7a8ecca" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_bf34d4297a078306aa8a82e2dc2018f8" parent="aspace_bf2fe7563d4f7c2cd5069acae7a8ecca" type="Folder">14</container>
+            <container id="aspace_6c0a0430991fd18cd92cb005362b6be1" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_d14b6415ad6612c36b4984c232b64de3" parent="aspace_6c0a0430991fd18cd92cb005362b6be1" type="Folder">14</container>
           </did>
           <odd id="aspace_7929222ac68691410ba4c6555fea8bf8">
             <head>General note</head>
@@ -1412,9 +1411,9 @@
         <c id="aspace_ref253_734" level="file">
           <did>
             <unittitle>High Speed Watercraft Available for Transit Service Demonstrations</unittitle>
-            <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_788e76e780c39586a4080ff7ae64ac31" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_2405b06a2442046834f1861086a05f12" parent="aspace_788e76e780c39586a4080ff7ae64ac31" type="Folder">15</container>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_bf61fd1f9dcabf8a21a5896d2c6fb3bb" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_f961eabe7cfc909a6de149b0e7b7a8bc" parent="aspace_bf61fd1f9dcabf8a21a5896d2c6fb3bb" type="Folder">15</container>
           </did>
           <odd id="aspace_cb7227e7bf99cae19f489400ac4c79dc">
             <head>General note</head>
@@ -1424,8 +1423,8 @@
           <did>
             <unittitle>Military Sea Transportation Service- Merchant Marine Industry Relationships</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a487f3b2014941951592428de9e59839" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_c164df5b6cf65ebdce20293aa7e4109a" parent="aspace_a487f3b2014941951592428de9e59839" type="Folder">16</container>
+            <container id="aspace_052b333acffcbf42251ccd36d3361ad2" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_1fdf5490e14330db3ea3f89ad943a411" parent="aspace_052b333acffcbf42251ccd36d3361ad2" type="Folder">16</container>
           </did>
           <odd id="aspace_fe831ae725037e2d5fe9c246af335c94">
             <head>General note</head>
@@ -1434,9 +1433,9 @@
         <c id="aspace_ref257_ayq" level="file">
           <did>
             <unittitle>Taiwan- Harbour Port User Charges and Other Transit Material</unittitle>
-            <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_2597019ea61bea543fcae7462c9266b6" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_7445de2c4cdb3f03b5a346a301238c3c" parent="aspace_2597019ea61bea543fcae7462c9266b6" type="Folder">17</container>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_d7f59a5002117f7d8309e8a1afef8bf8" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_80531f1b5d240d205d81091134cbea52" parent="aspace_d7f59a5002117f7d8309e8a1afef8bf8" type="Folder">17</container>
           </did>
           <odd id="aspace_af3b6fc015ee6de9114d85cc42ceab2c">
             <head>General note</head>

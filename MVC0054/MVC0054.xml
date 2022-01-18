@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/mvc0054.xml">mvc0054.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:45:10 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:03:43 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -126,8 +125,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
 </unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1890/1892" type="inclusive">November 1890-June 1892</unitdate>
-            <container id="aspace_90a16c3f53e864d7997ae7e10014b72d" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_f2c7ebac726086204205357b0326c546" parent="aspace_90a16c3f53e864d7997ae7e10014b72d" type="Folder">1</container>
+            <container id="aspace_25ea00ee0606f29abf7f274603ce3646" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_8a202f15f40899e96cb4a4496007ea6d" parent="aspace_25ea00ee0606f29abf7f274603ce3646" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref5_iz2" level="file">
@@ -135,8 +134,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 1, No. 6</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1891/1891" type="inclusive">April 1891</unitdate>
-            <container id="aspace_fd060a737775a918499f70efeac0accf" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_e3aaacedbb7157fc80293ec15ec5c16b" parent="aspace_fd060a737775a918499f70efeac0accf" type="Folder">2</container>
+            <container id="aspace_5f1fedfe3a6d2fd5d8e83dbc5332d1b4" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_b1f8711736b217498ca89fa52755116d" parent="aspace_5f1fedfe3a6d2fd5d8e83dbc5332d1b4" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref6_367" level="file">
@@ -144,8 +143,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 1, No. 7</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1891/1891" type="inclusive">June 1891</unitdate>
-            <container id="aspace_9787350f10f0d6f43acd819346036766" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_5e26817b24dd022de8012c8e8988b319" parent="aspace_9787350f10f0d6f43acd819346036766" type="Folder">3</container>
+            <container id="aspace_e04021d5544fd7ae211f21d54557ee1a" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_84e59609fd2792982f8d046635095fe6" parent="aspace_e04021d5544fd7ae211f21d54557ee1a" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref7_6ct" level="file">
@@ -153,8 +152,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 3, No. 1-7 and Vol. 4, No. 1-7</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1892/1894" type="inclusive">November 1892-May 1894</unitdate>
-            <container id="aspace_5ddcc1cb75cb2c12103fbb86dd1e2bac" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_732003fdabcf88e42c6021d8cba5050b" parent="aspace_5ddcc1cb75cb2c12103fbb86dd1e2bac" type="Folder">4</container>
+            <container id="aspace_c285586cae150ca89ae6f28ff860db6c" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_63a0869d28288c95ddefc59fcd4500b0" parent="aspace_c285586cae150ca89ae6f28ff860db6c" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref8_ehx" level="file">
@@ -162,8 +161,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 5, No. 2, 5-6, and 8 and Vol. 6, No. 1-8</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1894/1896" type="inclusive">December 1894-June 1896</unitdate>
-            <container id="aspace_ca757b2460a6f4130d7cf807bbeed2f5" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_d5ffa8f2a9d226b411e832164eb8abf4" parent="aspace_ca757b2460a6f4130d7cf807bbeed2f5" type="Folder">5</container>
+            <container id="aspace_75c5b05bcf332d9c2bf59615659f9b10" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_8247a402a80a57117cb5a04a32a4749a" parent="aspace_75c5b05bcf332d9c2bf59615659f9b10" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref9_cci" level="file">
@@ -171,8 +170,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 7, No. 1-8 and Vol. 8, No. 1-6 and 8</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1896/1898" type="inclusive">November 1896-May 1898</unitdate>
-            <container id="aspace_7b6a56705d32c9dfdf716e34fc43eacd" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_058f7f2934efc06786d92a2e38852e0d" parent="aspace_7b6a56705d32c9dfdf716e34fc43eacd" type="Folder">6</container>
+            <container id="aspace_87ee34507e42775b5bc5a5dec96e3e24" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_3029a00038c6f4fb8496fff137b54769" parent="aspace_87ee34507e42775b5bc5a5dec96e3e24" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref10_bjx" level="file">
@@ -180,8 +179,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Vol. 9, No. 1</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation" normal="1899/1899" type="inclusive">November 1899</unitdate>
-            <container id="aspace_d71f334ca9849aea539c1607c6af5aa0" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_4d4550baf5feb95e81af635711520b43" parent="aspace_d71f334ca9849aea539c1607c6af5aa0" type="Folder">7</container>
+            <container id="aspace_f82fc868ca9ef4934e75dfb3088b6182" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_b3f92cec4302a4b1eb9eb09b36ebb2a9" parent="aspace_f82fc868ca9ef4934e75dfb3088b6182" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref11_4lm" level="file">
@@ -189,8 +188,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>The Record, Cover Sheet</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bcb93645bd0be3828852a3af8d2c04ad" label="Mixed Materials [32882020165182]" type="Box">1</container>
-            <container id="aspace_abdb1ba2aa111beb3f4e9b989f82dded" parent="aspace_bcb93645bd0be3828852a3af8d2c04ad" type="Folder">8</container>
+            <container id="aspace_8604ad49d13532d099b6b3bd8f64ddf3" label="Mixed Materials [32882020165182]" type="Box">1</container>
+            <container id="aspace_b889f24041f240b453a177b387372204" parent="aspace_8604ad49d13532d099b6b3bd8f64ddf3" type="Folder">8</container>
           </did>
         </c>
       </c>
@@ -230,8 +229,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Asylum, Vol. 1, Issue 1; Vol. 2 Issue 1-2; Vol. 3, Issue 1 </unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
-            <container id="aspace_f914f8c59d351fce1af39229e5d3b4a7" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_d70cccb9e0c572f40508c37c4bb07b61" parent="aspace_f914f8c59d351fce1af39229e5d3b4a7" type="Folder">1</container>
+            <container id="aspace_60469dd676300f9b8956424c3089325e" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_b2261e1a34c0a3e24d1939efc012e140" parent="aspace_60469dd676300f9b8956424c3089325e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref32_3g3" level="file">
@@ -239,8 +238,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Asylum, Vol. 4-5</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
-            <container id="aspace_d2a4f9755ed3873f3c30a6f48b12e7aa" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_9b9389639b03a1bbfb4892651515e77a" parent="aspace_d2a4f9755ed3873f3c30a6f48b12e7aa" type="Folder">2</container>
+            <container id="aspace_ee4d7e18b182ca4fd9f033be8072a4df" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_dbd4381d51f575e8048a1d0f62f3b302" parent="aspace_ee4d7e18b182ca4fd9f033be8072a4df" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref33_bw8" level="file">
@@ -248,8 +247,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Asylum, Vol. 6-7</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
-            <container id="aspace_fe54af581f3a190a121c468e13435950" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_ef5a128f41513556259771efbd9c623d" parent="aspace_fe54af581f3a190a121c468e13435950" type="Folder">3</container>
+            <container id="aspace_e38ba4d32f6253c2f056fcd33d4cfea9" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_e9020f1a478655df2f84b366d24b48e1" parent="aspace_e38ba4d32f6253c2f056fcd33d4cfea9" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref34_asw" level="file">
@@ -257,8 +256,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Asylum, Special Issue; Vol. 8</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
-            <container id="aspace_b53f49efaaa7b1ca60af63ed1d441ccb" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_7da784801c0619021ef8bfe760164a35" parent="aspace_b53f49efaaa7b1ca60af63ed1d441ccb" type="Folder">4</container>
+            <container id="aspace_3a5dcd5d7c334eb164301f726bef0fae" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_0eae73fe7ea1ec46801a75574d8d4618" parent="aspace_3a5dcd5d7c334eb164301f726bef0fae" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref27_y3p" level="file">
@@ -266,8 +265,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Quintessence, Vol. 1-3</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
-            <container id="aspace_1c16d2e7a98f8856bc712d37b715b2da" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_5e033c959e2db8925dc1c017919767a4" parent="aspace_1c16d2e7a98f8856bc712d37b715b2da" type="Folder">5</container>
+            <container id="aspace_b2fb0dbae8bdb85395f65b160b9c8ce5" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_078490f51bb5bff589991ede1e52ee8b" parent="aspace_b2fb0dbae8bdb85395f65b160b9c8ce5" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref28_4le" level="file">
@@ -275,8 +274,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Quintessence, Vol. 4-5</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
-            <container id="aspace_fcb1d13fb9c9e5e894610abdfa4cfece" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_799857f4a262291648c1e300b3cb07ec" parent="aspace_fcb1d13fb9c9e5e894610abdfa4cfece" type="Folder">6</container>
+            <container id="aspace_2be705a79545532fab3530b63e175665" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_783aa684d1a5e364dc6d2a0af575a793" parent="aspace_2be705a79545532fab3530b63e175665" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -313,8 +312,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Cellophane, 1948-1951</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
-            <container id="aspace_d9ca7b9c57ed9610e6390f6f1a8ea898" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_5ab52288c12a1ffef993b84325d6c2cb" parent="aspace_d9ca7b9c57ed9610e6390f6f1a8ea898" type="Folder">7</container>
+            <container id="aspace_c45f3ba9804dbc01b392873e2e4c1dd0" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_3f499068a1108ff3b885970e776c8f0f" parent="aspace_c45f3ba9804dbc01b392873e2e4c1dd0" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref54_5s1" level="file">
@@ -322,8 +321,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Cellophane, 1951-1955</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation" normal="1951/1955" type="inclusive">1951-1955</unitdate>
-            <container id="aspace_694d18a8f29b59da167b1e156622cfcb" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_de4ceca43ea2294d2e7886e512bb612d" parent="aspace_694d18a8f29b59da167b1e156622cfcb" type="Folder">8</container>
+            <container id="aspace_30b94017c8adf423dd44b9ff68016b25" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_5fc5535c9b33c3471d564468ead2d40c" parent="aspace_30b94017c8adf423dd44b9ff68016b25" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref55_8ie" level="file">
@@ -331,8 +330,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Cellophane, 1956-1961</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation" normal="1956/1961" type="inclusive">1956-1961</unitdate>
-            <container id="aspace_d5aec5c677a5f7a72a679fc537355342" label="Mixed Materials [32882020268770]" type="Box">2</container>
-            <container id="aspace_1d858ac02a1310335e74632a7e671383" parent="aspace_d5aec5c677a5f7a72a679fc537355342" type="Folder">9</container>
+            <container id="aspace_d088eef3a396ab7e3c44c5b112d26eba" label="Mixed Materials [32882020268770]" type="Box">2</container>
+            <container id="aspace_3f18dc845d3fc9d0663e424a88afa25c" parent="aspace_d088eef3a396ab7e3c44c5b112d26eba" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -369,8 +368,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, Vol.3, No. 2-3, Spring 1951 and Vol. IV, No. 1</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
-            <container id="aspace_96dcb3dbad7efd25b7422db8706f74bb" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_c84fc18b146feb02a4a2c7560e9b146b" parent="aspace_96dcb3dbad7efd25b7422db8706f74bb" type="Folder">1</container>
+            <container id="aspace_dab4b8ff2b29141dce1e8332d0bd4965" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_dcc09f84005e7599581d909a6e7c5c54" parent="aspace_dab4b8ff2b29141dce1e8332d0bd4965" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref45_tst" level="file">
@@ -378,8 +377,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, 1956, 1958</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1956/1958" type="inclusive">1956-1958</unitdate>
-            <container id="aspace_ae77680792e86ba58a9a05f41a30629a" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_92ad69a38dd084b1cc97997477d51b8d" parent="aspace_ae77680792e86ba58a9a05f41a30629a" type="Folder">2</container>
+            <container id="aspace_81e892c4147a96aae5af2f3fcc72e45e" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_455615a3b5e6928781d5582785513960" parent="aspace_81e892c4147a96aae5af2f3fcc72e45e" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref47_k2h" level="file">
@@ -387,8 +386,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, 1959, 1960</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate>
-            <container id="aspace_b5425f03015826535a29c3b2c6aabd43" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_3f7b887208c12910efcc6b879627c073" parent="aspace_b5425f03015826535a29c3b2c6aabd43" type="Folder">3</container>
+            <container id="aspace_1c3d466c0b9a4d4b3e5c7871723c9af1" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_21691ab1836fdeec66f45c49019fb15f" parent="aspace_1c3d466c0b9a4d4b3e5c7871723c9af1" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref48_qln" level="file">
@@ -396,8 +395,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, 1961, December 1961</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
-            <container id="aspace_1ad468f5fade342fe9b77baf6e0214dd" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_a576881e13237c4c0bd90915a298abb4" parent="aspace_1ad468f5fade342fe9b77baf6e0214dd" type="Folder">4</container>
+            <container id="aspace_cccf47a032a9705bcefcb2865f4fa443" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_6da654534de7d1824baad8f1b517a7be" parent="aspace_cccf47a032a9705bcefcb2865f4fa443" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref49_vhb" level="file">
@@ -405,8 +404,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, March 1962, May 1962, December 1962</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
-            <container id="aspace_d7cebb06a216c221c181a5df18fddc84" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_c1e96e16510d4d2b4ecba4dfa61f25dd" parent="aspace_d7cebb06a216c221c181a5df18fddc84" type="Folder">5</container>
+            <container id="aspace_ecd6a1c8714f3bff8d525380fc38462c" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_936efad115d5a2d7e24188889eed7e47" parent="aspace_ecd6a1c8714f3bff8d525380fc38462c" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref50_670" level="file">
@@ -414,8 +413,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, May 1963, December 1963, April 1963</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
-            <container id="aspace_5d7f720c08e351b935be62dc76059c78" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_1d3dada0cd5567332cced06464de7f47" parent="aspace_5d7f720c08e351b935be62dc76059c78" type="Folder">6</container>
+            <container id="aspace_eec858dc0887f599183d710ebcf5182f" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_ee9bb05e616777cc9de22b0c2a9726e0" parent="aspace_eec858dc0887f599183d710ebcf5182f" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref51_d7z" level="file">
@@ -423,8 +422,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, April 1964, Spring 1965, Autumn 1965</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
-            <container id="aspace_cce8f83fb72891b2a7569fdaaf32e37d" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_1f0d2a9a8c4c6e4a18bb98954a272ec8" parent="aspace_cce8f83fb72891b2a7569fdaaf32e37d" type="Folder">7</container>
+            <container id="aspace_b5a225930c0c09e113149856d6747610" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_c43f326a53d5a93a7a2431d5ec21fde7" parent="aspace_b5a225930c0c09e113149856d6747610" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref52_k2v" level="file">
@@ -432,8 +431,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Carousel, December 1966, Spring 1966, Spring 1967, 1968</unittitle>
             <unitid>Series 4</unitid>
             <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
-            <container id="aspace_896610f4286754fdfdf82b5f700e4b1c" label="Mixed Materials [32882020268788]" type="Box">3</container>
-            <container id="aspace_4effd7951f81ae3b8b306eda550bbb81" parent="aspace_896610f4286754fdfdf82b5f700e4b1c" type="Folder">8</container>
+            <container id="aspace_a6fbd8aeb7b343f7e0437f536b72191e" label="Mixed Materials [32882020268788]" type="Box">3</container>
+            <container id="aspace_99e146796de68076a74ae53140dab7a6" parent="aspace_a6fbd8aeb7b343f7e0437f536b72191e" type="Folder">8</container>
           </did>
         </c>
       </c>
@@ -471,8 +470,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
             <unitdate datechar="creation" normal="1975/1976" type="bulk">1975-1976</unitdate>
-            <container id="aspace_a84c0d81dc7e655e7cf6d82855e87139" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_4e76eb2cece842d891154b9ae41bb09b" parent="aspace_a84c0d81dc7e655e7cf6d82855e87139" type="Folder">1</container>
+            <container id="aspace_db41e48a84781477121bbe96dbcb87f3" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_6b2ee3f8e1591afe7d6c182d7f887619" parent="aspace_db41e48a84781477121bbe96dbcb87f3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref61_m4k" level="file">
@@ -480,8 +479,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Mount Vernon College Bulletin, 1977-1981</unittitle>
             <unitid>Series 5</unitid>
             <unitdate datechar="creation" normal="1977/1981" type="inclusive">1977-1981</unitdate>
-            <container id="aspace_e2a1d387005c4d675f94f21fa137d460" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_e165b033484c378b51adc2adc960586f" parent="aspace_e2a1d387005c4d675f94f21fa137d460" type="Folder">2</container>
+            <container id="aspace_81b561520498f63f5e91601e04c31bfa" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_ca92560eb45b2d854dd8ab16841f9798" parent="aspace_81b561520498f63f5e91601e04c31bfa" type="Folder">2</container>
           </did>
         </c>
       </c>
@@ -518,8 +517,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>Mount Vernon Motif, 1988-1989</unittitle>
             <unitid>Series 6</unitid>
             <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
-            <container id="aspace_65eb4b09e9666185957fcc1feb4e164d" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_9bbe4b327104e7f17ccd71cb35ac3420" parent="aspace_65eb4b09e9666185957fcc1feb4e164d" type="Folder">3</container>
+            <container id="aspace_07ce8d28bbddc75c5ae701beaeeeaedb" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_0ec35a429fca7c181b815dfe391f5c0e" parent="aspace_07ce8d28bbddc75c5ae701beaeeeaedb" type="Folder">3</container>
           </did>
         </c>
       </c>
@@ -556,8 +555,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>Post Impressions, 1982-1985</unittitle>
             <unitid>Series 7</unitid>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1982-1985</unitdate>
-            <container id="aspace_40969c96d2cc41a283a579455ad352c6" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_cf96ccc5c56f47b7632293b989230fb5" parent="aspace_40969c96d2cc41a283a579455ad352c6" type="Folder">4</container>
+            <container id="aspace_2ca12f4734c55d1d4395f4a939adc8c9" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_4b70345191ee8b7c1d55d5bbc11791e5" parent="aspace_2ca12f4734c55d1d4395f4a939adc8c9" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref63_w3n" level="file">
@@ -565,8 +564,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>Post Impressions, 1987-1988</unittitle>
             <unitid>Series 7</unitid>
             <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
-            <container id="aspace_f8ac8ef782435c6c82d6256318911b45" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_068c74860628969081c9d2b896801647" parent="aspace_f8ac8ef782435c6c82d6256318911b45" type="Folder">5</container>
+            <container id="aspace_7de61fb3388f6367a7460300eb1c1f2b" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_d760135f2a8f2ffa851e372f46e10244" parent="aspace_7de61fb3388f6367a7460300eb1c1f2b" type="Folder">5</container>
           </did>
         </c>
       </c>
@@ -604,8 +603,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>Mount Vernon College Front Page, 1975</unittitle>
             <unitid>Series 8</unitid>
             <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
-            <container id="aspace_6b055a9d4ce1910987cb76c48c680d4a" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_49c3a5a23e1333c4edb3ecb75b01a071" parent="aspace_6b055a9d4ce1910987cb76c48c680d4a" type="Folder">6</container>
+            <container id="aspace_2183f75e7ff716d44e803bca18877d8f" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_5a1d507c0e330c060389dd24e81b222a" parent="aspace_2183f75e7ff716d44e803bca18877d8f" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -643,8 +642,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>The Voice, 1990</unittitle>
             <unitid>Series 9</unitid>
             <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
-            <container id="aspace_e8bf685e78d52751dfb96900908c5a4e" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_3fa77d58ba84e49f431c198ac0102831" parent="aspace_e8bf685e78d52751dfb96900908c5a4e" type="Folder">7</container>
+            <container id="aspace_8fdee78e6fe05ef3c6334445a4d05c2f" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_9a3f771231d3de4f09ea25df8243101f" parent="aspace_8fdee78e6fe05ef3c6334445a4d05c2f" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref67_wqt" level="file">
@@ -652,8 +651,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>The Voice, 1991-1992</unittitle>
             <unitid>Series 9</unitid>
             <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
-            <container id="aspace_1ba6bff04e1601488a79c4f3a56cda6f" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_48e49e06b4c5a5c32117debf46f3cde5" parent="aspace_1ba6bff04e1601488a79c4f3a56cda6f" type="Folder">8</container>
+            <container id="aspace_4f4852bde796e49ea82d0948b8ab2281" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_3cb58ab02e160e6a6ceaa7572c791276" parent="aspace_4f4852bde796e49ea82d0948b8ab2281" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref68_iq9" level="file">
@@ -661,8 +660,8 @@ When possible, two copies of each issue are included.</p>
             <unittitle>The Voice, 1993-1998</unittitle>
             <unitid>Series 9</unitid>
             <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1998</unitdate>
-            <container id="aspace_61e918eb6ab15b986b9530b1c3818616" label="Mixed Materials [32882020268796]" type="Box">4</container>
-            <container id="aspace_4fdfc43ba4e6b69b20d8724beab5b636" parent="aspace_61e918eb6ab15b986b9530b1c3818616" type="Folder">9</container>
+            <container id="aspace_d37fc569f8a2e7f0184bfe7071a526eb" label="Mixed Materials [32882020268796]" type="Box">4</container>
+            <container id="aspace_cebdfaffb71b84bac559aebf55b58b11" parent="aspace_d37fc569f8a2e7f0184bfe7071a526eb" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -702,8 +701,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Bluestocking</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965, undated</unitdate>
-            <container id="aspace_9df529ce0e1344e45f8d2dfb421a1333" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_ecb64a68a3079bb72d775efb7a3d0cc2" parent="aspace_9df529ce0e1344e45f8d2dfb421a1333" type="Folder">1</container>
+            <container id="aspace_d9ad84e6fe3146a75191454de8655a63" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_bd2faf228b27b79e287f1ace6cfe7e64" parent="aspace_d9ad84e6fe3146a75191454de8655a63" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref71_8vk" level="file">
@@ -711,8 +710,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>The Elephant's Ear</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
-            <container id="aspace_f0bf151ebcfe9e31855f1cd80fe0db76" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_bbfb9d7a1c039295eed22c452ccf3ec2" parent="aspace_f0bf151ebcfe9e31855f1cd80fe0db76" type="Folder">2</container>
+            <container id="aspace_f8530ef74fad0175b2fa1417a5f648bf" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_4c8395c168344df69364e0af76b439e0" parent="aspace_f8530ef74fad0175b2fa1417a5f648bf" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref72_u1c" level="file">
@@ -720,8 +719,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>The Merri-Post</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965, undated</unitdate>
-            <container id="aspace_5020c989ef2069c94828bbe1864cfe80" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_f4702f79ab4f7e215ddfce34f679d6dd" parent="aspace_5020c989ef2069c94828bbe1864cfe80" type="Folder">3</container>
+            <container id="aspace_00d2c1f5cac6cc4e4669298942929777" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_43b724060860a1329135bd0bf5e4993d" parent="aspace_00d2c1f5cac6cc4e4669298942929777" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref73_eco" level="file">
@@ -729,8 +728,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Newsense</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
-            <container id="aspace_5771f8641c33337fcf6266019b05ff72" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_3163a629e4efa2f3634d49b03ad2f5a0" parent="aspace_5771f8641c33337fcf6266019b05ff72" type="Folder">4</container>
+            <container id="aspace_4feff7062d3dcc72a7e5025243417181" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_9e3d13d22ee48c4eef3e09809a1b5336" parent="aspace_4feff7062d3dcc72a7e5025243417181" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref74_xfx" level="file">
@@ -738,8 +737,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Other than the White House</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
-            <container id="aspace_0d2189d0f4e249b8274eda5a476bfbf8" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_fe0528004d6552c7983fa0a9df4ca160" parent="aspace_0d2189d0f4e249b8274eda5a476bfbf8" type="Folder">5</container>
+            <container id="aspace_5447a29f6c26dff26f1619e0293ee0cb" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_d24375909f7b6611eec5d4ce5f2446c0" parent="aspace_5447a29f6c26dff26f1619e0293ee0cb" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref75_wsc" level="file">
@@ -747,8 +746,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Post Script</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
-            <container id="aspace_599ee3b971d2cb0d64e22a7903996d08" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_ac5b1f43e99f37711d4acab2b7927077" parent="aspace_599ee3b971d2cb0d64e22a7903996d08" type="Folder">6</container>
+            <container id="aspace_98f34202c845cbb7a5211cc8d4ae0f11" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_b603604787a51466baacc762f115c6a6" parent="aspace_98f34202c845cbb7a5211cc8d4ae0f11" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref94_g4y" level="file">
@@ -756,8 +755,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Bugs...</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1983/1983" type="inclusive">March 1983</unitdate>
-            <container id="aspace_7037672bf65311e8fa4f5beca5bcf0e9" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_500704cc53ccf31c18e6fbabdf6ad858" parent="aspace_7037672bf65311e8fa4f5beca5bcf0e9" type="Folder">7</container>
+            <container id="aspace_73643374977bb9af230fbd36e2f395af" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_efb90f139525b1c7464ec5c08c585502" parent="aspace_73643374977bb9af230fbd36e2f395af" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref76_rsf" level="file">
@@ -765,8 +764,8 @@ When possible, two copies of each issue are included. </p>
             <unittitle>The College Republican</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-            <container id="aspace_7b776e2c70c9b963bf7ecc94194cddf4" label="Mixed Materials [32882020268762]" type="Box">5</container>
-            <container id="aspace_196ae08c8b9e9fbb8a733580b79e34cc" parent="aspace_7b776e2c70c9b963bf7ecc94194cddf4" type="Folder">8</container>
+            <container id="aspace_53a00bd41ce70527eb583dee64f2afd8" label="Mixed Materials [32882020268762]" type="Box">5</container>
+            <container id="aspace_509adf0ef30eb2bb69f63fcd835edf63" parent="aspace_53a00bd41ce70527eb583dee64f2afd8" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref97_q5r" level="file">
@@ -774,24 +773,24 @@ When possible, two copies of each issue are included. </p>
             <unittitle>Communicate-Her</unittitle>
             <unitid>Series 10</unitid>
             <unitdate datechar="creation" normal="1979/1979" type="inclusive">Fall 1979</unitdate>
-            <container id="aspace_02029f099f234e5dd446790d2003732a" label="Text [32882020268762]" type="Box">5</container>
-            <container id="aspace_bc35b6f59610f43ce028948720630b5e" parent="aspace_02029f099f234e5dd446790d2003732a" type="Folder">9</container>
+            <container id="aspace_0931e66e64e4eb7633041d46b85f438f" label="Text [32882020268762]" type="Box">5</container>
+            <container id="aspace_d545acf6318398a84e7bea702af379be" parent="aspace_0931e66e64e4eb7633041d46b85f438f" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ce7111c161caca7db6561a3c37059c40" level="file">
           <did>
             <unittitle>aureate</unittitle>
             <unitdate datechar="creation" normal="2015/2015">2015</unitdate>
-            <container id="aspace_1acf3af36a9f384c04351284588b996b" label="Mixed Materials [32882022375391]" type="Box">6</container>
-            <container id="aspace_ce1e79f8efea7a8d6738f29781319795" parent="aspace_1acf3af36a9f384c04351284588b996b" type="Folder">1</container>
+            <container id="aspace_4fcaedd2a16e4b527bb8f512e1977e1b" label="Mixed Materials [32882022375391]" type="Box">6</container>
+            <container id="aspace_e0b4eb8e38dd1c46afa6a6b6f57393dd" parent="aspace_4fcaedd2a16e4b527bb8f512e1977e1b" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_be7cffce40be7217e05a2e5985f75f79" level="file">
           <did>
             <unittitle>Arts and culture magazine</unittitle>
             <unitdate datechar="creation" normal="2016/2018" type="inclusive">2016-2018</unitdate>
-            <container id="aspace_e3ddb94fd86ea22eb45642965b83f3a0" label="Mixed Materials [32882022375391]" type="Box">6</container>
-            <container id="aspace_6b3e68d004023bf1d1cbf00179a68bec" parent="aspace_e3ddb94fd86ea22eb45642965b83f3a0" type="Folder">2</container>
+            <container id="aspace_799d7fcd02acac1b0217f44238386dcf" label="Mixed Materials [32882022375391]" type="Box">6</container>
+            <container id="aspace_9e8518c7f9f6a63241fa3d60b3c60198" parent="aspace_799d7fcd02acac1b0217f44238386dcf" type="Folder">2</container>
           </did>
         </c>
       </c>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2039.xml">ms2039.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:36:47 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:55:53 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -99,8 +98,8 @@
           <did>
             <unittitle>Administrative Files: Board Kit (2 copies)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4aacd943f7c29a740670d715d71e0e33" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_3740929ae0b003d14c14b0aae573bfc4" parent="aspace_4aacd943f7c29a740670d715d71e0e33" type="Folder">1</container>
+            <container id="aspace_63f2388273137fc11066d50efaf03a5f" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_d53506011198278caf422f58728217de" parent="aspace_63f2388273137fc11066d50efaf03a5f" type="Folder">1</container>
           </did>
           <odd id="aspace_b81a6652eff8a16c9cbaa4081ac902c7">
             <head>General note</head>
@@ -110,8 +109,8 @@
           <did>
             <unittitle>Administrative Files: Corporate Kit</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_af07196eb3981d93635ee754d73d2622" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_89d8df9a742f4b39d61dbfb6b9fd3714" parent="aspace_af07196eb3981d93635ee754d73d2622" type="Folder">2</container>
+            <container id="aspace_c3dc31e47271f7eacda798142317af57" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_458662df719214f336f19be1498337ce" parent="aspace_c3dc31e47271f7eacda798142317af57" type="Folder">2</container>
           </did>
           <odd id="aspace_934ea32e3ece7ba03567a7103c4c3ca9">
             <head>General note</head>
@@ -121,8 +120,8 @@
           <did>
             <unittitle>Administrative Files: Three year long range plan</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e94558daa91d90e841c4fddc6c45cf17" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_9b8cdafabe5d677f0f1acab5259150b3" parent="aspace_e94558daa91d90e841c4fddc6c45cf17" type="Folder">3</container>
+            <container id="aspace_b077f6b54fa4e388f5c75064218a945c" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_d2c886bf2beb9292b127d3f911fac8e0" parent="aspace_b077f6b54fa4e388f5c75064218a945c" type="Folder">3</container>
           </did>
           <odd id="aspace_c3324309381dec50b5bd784a20910e85">
             <head>General note</head>
@@ -132,8 +131,8 @@
           <did>
             <unittitle>Administrative Files: Information packet about the society</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c13d6469f8a36d8833fbfa837a777f60" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_21688ba38abda0dbd5f2844e957c4e6e" parent="aspace_c13d6469f8a36d8833fbfa837a777f60" type="Folder">4</container>
+            <container id="aspace_795a9bbeace244aa4944bff26f93a45f" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_4dfcbb3aee9a146a8899041466890770" parent="aspace_795a9bbeace244aa4944bff26f93a45f" type="Folder">4</container>
           </did>
           <odd id="aspace_3669a5d56501d54397cf8cfe85aa3b97">
             <head>General note</head>
@@ -143,8 +142,8 @@
           <did>
             <unittitle>Administrative Files: Playbills/programs</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_995f062465bf0e749775368c894b53ae" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_f8a93b3e5595df5e9ea493863ff06242" parent="aspace_995f062465bf0e749775368c894b53ae" type="Folder">5</container>
+            <container id="aspace_03da63bf4dff9de6d6c19e166274d385" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_515b98105527b66890e795103f7c11d3" parent="aspace_03da63bf4dff9de6d6c19e166274d385" type="Folder">5</container>
           </did>
           <odd id="aspace_bbf57e8a21306f5d9b77aa4f3d50a5c2">
             <head>General note</head>
@@ -154,8 +153,8 @@
           <did>
             <unittitle>Administrative Files: Correspondence</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8ca33d9196895bb1249ed820af54036f" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_dcf53e895bcdafaa4f11b74a4459f92d" parent="aspace_8ca33d9196895bb1249ed820af54036f" type="Folder">6</container>
+            <container id="aspace_7861f395510688b22206965f8e738c50" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_bcb039be5723c8cd549dca9810c465f2" parent="aspace_7861f395510688b22206965f8e738c50" type="Folder">6</container>
           </did>
           <odd id="aspace_2cf48142fa33a94c03361d005cfdfff6">
             <head>General note</head>
@@ -165,8 +164,8 @@
           <did>
             <unittitle>Administrative Files: Performance schedules</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8174b5cc763d054ace68aced67e2387a" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_d589aff03973bcfc0704ed2ebc6e7efc" parent="aspace_8174b5cc763d054ace68aced67e2387a" type="Folder">7</container>
+            <container id="aspace_ac468b01941e352f80e32f86031756b9" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_6732d45d830dd6be8584561453062ae9" parent="aspace_ac468b01941e352f80e32f86031756b9" type="Folder">7</container>
           </did>
           <odd id="aspace_194d4752c6763a5a0821465fc369c442">
             <head>General note</head>
@@ -176,8 +175,8 @@
           <did>
             <unittitle>Administrative Files: Articles</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_76e3b719b79e83653350e1421c6edb99" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_790509d45166ae256cf1fff2b134e032" parent="aspace_76e3b719b79e83653350e1421c6edb99" type="Folder">8</container>
+            <container id="aspace_85ac83968ca4fd500a6c14fc301a1dd2" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_078e758abdb58a89d1f62634c64e1ae5" parent="aspace_85ac83968ca4fd500a6c14fc301a1dd2" type="Folder">8</container>
           </did>
           <odd id="aspace_3581991f8a90aba307c3ab18d42e343b">
             <head>General note</head>
@@ -187,8 +186,8 @@
           <did>
             <unittitle>Administrative Files: Program proposal</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_51d239ccfffe1c6ad04fd922704e9954" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_4b94808c668c2ee9fc9f331a355b2c7c" parent="aspace_51d239ccfffe1c6ad04fd922704e9954" type="Folder">9</container>
+            <container id="aspace_6b91e26ca0f653f50558906d4a01a888" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_12b4cb76525ea8df6cdd05d74c8b951b" parent="aspace_6b91e26ca0f653f50558906d4a01a888" type="Folder">9</container>
           </did>
           <odd id="aspace_abea0702e0a81a1a33fbb6840769d9da">
             <head>General note</head>
@@ -198,8 +197,8 @@
           <did>
             <unittitle>Administrative Files: Newsletters/reports</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_146d8c22150549156ae0af4df573fd20" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_279f2eba51f5a6cf8a911e6220795df7" parent="aspace_146d8c22150549156ae0af4df573fd20" type="Folder">10</container>
+            <container id="aspace_53357e43705b3fe7421b33323db2efbe" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_f00c0a952cdae17aee05937f10b69809" parent="aspace_53357e43705b3fe7421b33323db2efbe" type="Folder">10</container>
           </did>
           <odd id="aspace_dc69c3e1f1780c2a0bdefccd57d263de">
             <head>General note</head>
@@ -209,8 +208,8 @@
           <did>
             <unittitle>Administrative Files: International Center for Spanish Dance course material</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_279bcd113fbd12514acb7bac7a6f1f27" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_8b561e89d6ee8c3b143818d01c13cd2d" parent="aspace_279bcd113fbd12514acb7bac7a6f1f27" type="Folder">11</container>
+            <container id="aspace_2944f570fc22670b2db39a2aaa93281a" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_9d9392aa6c6729aadc3f5734f4bb47d1" parent="aspace_2944f570fc22670b2db39a2aaa93281a" type="Folder">11</container>
           </did>
           <odd id="aspace_d57c805f4a77f1c860e1f5395ed3edc1">
             <head>General note</head>
@@ -220,8 +219,8 @@
           <did>
             <unittitle>Administrative Files: Planning material for the 25th anniversary of the society</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e1837af500155274d1a670dd9ef0a3f5" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_28c36993b6b0352bb87fb27061233885" parent="aspace_e1837af500155274d1a670dd9ef0a3f5" type="Folder">12</container>
+            <container id="aspace_458687efda6c97e0771b40141e0fa75b" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_d773315c996dcabaf88f4435a476f4c8" parent="aspace_458687efda6c97e0771b40141e0fa75b" type="Folder">12</container>
           </did>
           <odd id="aspace_85cf8e33f76ae9acbfceff495f87c189">
             <head>General note</head>
@@ -231,8 +230,8 @@
           <did>
             <unittitle>Administrative Files: Society of Dance History Scholars Conference material and papers presented by Maria Keet</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_871b3cb68063b92dda87437d0c8a4a19" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_8f1096872510d7ef663ff10062c9ba84" parent="aspace_871b3cb68063b92dda87437d0c8a4a19" type="Folder">13</container>
+            <container id="aspace_c2a55e84f7825782636c4bfa63ef41ff" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_fc651585638ee910122d5de16410ee6c" parent="aspace_c2a55e84f7825782636c4bfa63ef41ff" type="Folder">13</container>
           </did>
           <odd id="aspace_7af56d6a4e496b5281e3897ca87578b4">
             <head>General note</head>
@@ -242,8 +241,8 @@
           <did>
             <unittitle>Administrative Files: Biographical information about Maria Keet</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3a6e92a06b529794db2ffa186339f79f" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
-            <container id="aspace_8405adcffba639d89234c4302d47bc69" parent="aspace_3a6e92a06b529794db2ffa186339f79f" type="Folder">14</container>
+            <container id="aspace_05c0063e390fa9b9ac21e0ee4b1d1a43" label="Mixed Materials [GW: 32882015256343]" type="Box">1</container>
+            <container id="aspace_64b86e499118bd7b37eb521817e25bb6" parent="aspace_05c0063e390fa9b9ac21e0ee4b1d1a43" type="Folder">14</container>
           </did>
           <odd id="aspace_d7c0b77097229400c62a727d014798ac">
             <head>General note</head>
@@ -253,8 +252,8 @@
           <did>
             <unittitle>Teaching Material: Introductory syllabus</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_246291855de877dfe0b7369ac40bb730" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_ee2dcb1ac0eb0e96e971e8aaa8d5b144" parent="aspace_246291855de877dfe0b7369ac40bb730" type="Folder">1</container>
+            <container id="aspace_a7d5115172f726c9e813e131aa433ba3" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_361d0e6740bb62e985184573527aba57" parent="aspace_a7d5115172f726c9e813e131aa433ba3" type="Folder">1</container>
           </did>
           <odd id="aspace_68bd375b8d073521dc38a3aaf383bfd7">
             <head>General note</head>
@@ -264,8 +263,8 @@
           <did>
             <unittitle>Teaching Material: Teacher's manual</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_19e6c54110da6de1c0d239ac13d07093" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_3ee5dc9bd59649c848fd15c81c72977e" parent="aspace_19e6c54110da6de1c0d239ac13d07093" type="Folder">2</container>
+            <container id="aspace_f5963ff7c75ca0502306fbc88705d5fd" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_33e974a8d1d45734907761578fc24983" parent="aspace_f5963ff7c75ca0502306fbc88705d5fd" type="Folder">2</container>
           </did>
           <odd id="aspace_0f73b66d01014a841b5540f214bcbe75">
             <head>General note</head>
@@ -275,8 +274,8 @@
           <did>
             <unittitle>Teaching Material: Junior theory syllabus</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bd4529ef8a1771d6d36767c3fce2a3e8" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_625e402d08afa8abca2f265e464512a6" parent="aspace_bd4529ef8a1771d6d36767c3fce2a3e8" type="Folder">3</container>
+            <container id="aspace_7d8cad791c48091b2a999c3e5aa88d31" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_851ef577411160055be2fa9921d0aea9" parent="aspace_7d8cad791c48091b2a999c3e5aa88d31" type="Folder">3</container>
           </did>
           <odd id="aspace_dd19d11677d075b245fe751e1c3ea3a4">
             <head>General note</head>
@@ -286,8 +285,8 @@
           <did>
             <unittitle>Teaching Material: Junior syllabus</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eab6e92563eec5d9352a42d5793bdffe" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_c976ee099d5d902b56dbc654ca76c647" parent="aspace_eab6e92563eec5d9352a42d5793bdffe" type="Folder">4</container>
+            <container id="aspace_4319955aee83e0a5cfa10e00a7490aac" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_ac3dad2449eb1698ef6b37d7c0b08f94" parent="aspace_4319955aee83e0a5cfa10e00a7490aac" type="Folder">4</container>
           </did>
           <odd id="aspace_81f26bac36e2377d990db62a710a4453">
             <head>General note</head>
@@ -297,8 +296,8 @@
           <did>
             <unittitle>Teaching Material: Junior syllabus and theory: ingress - quinto ano (2 copies)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e1d748ac1fc7683395e3d261d1615bf3" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_4579c0b2e323e8002653353c5c98df4a" parent="aspace_e1d748ac1fc7683395e3d261d1615bf3" type="Folder">5</container>
+            <container id="aspace_b5dc7643fca94ed53f48fceebed73226" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_bc24711b148247460aa2bdf32bed3d94" parent="aspace_b5dc7643fca94ed53f48fceebed73226" type="Folder">5</container>
           </did>
           <odd id="aspace_57fc550c0eebe35f995b6461f9dc3877">
             <head>General note</head>
@@ -308,8 +307,8 @@
           <did>
             <unittitle>Teaching Material: Primer ano estudiante syllabus</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ced3e39ae93d9558a209f38a8e6f2ad7" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_19e87996a8171554f0a947d10c6508d3" parent="aspace_ced3e39ae93d9558a209f38a8e6f2ad7" type="Folder">6</container>
+            <container id="aspace_b890b25a5102b87d498b9c125bc11852" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_23c6c88060f9ec1edb6f7822aad07711" parent="aspace_b890b25a5102b87d498b9c125bc11852" type="Folder">6</container>
           </did>
           <odd id="aspace_ee88c20a83d8b6ea12299ef67c9ba1bd">
             <head>General note</head>
@@ -319,8 +318,8 @@
           <did>
             <unittitle>Teaching Material: Music syllabus</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eb7fc14884a67be4a0604d1e835c3c96" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_027b87cb7f412022c9afce0304cdfbf3" parent="aspace_eb7fc14884a67be4a0604d1e835c3c96" type="Folder">7</container>
+            <container id="aspace_fb8d3f294fe1adeb7bbd15ce18f41d13" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_9455343fbecef0965d0f5c6ca88806a1" parent="aspace_fb8d3f294fe1adeb7bbd15ce18f41d13" type="Folder">7</container>
           </did>
           <odd id="aspace_4acc8efc9b5e16c29b1e6e8669a46016">
             <head>General note</head>
@@ -342,8 +341,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11"of the Mortitxol, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7f9c6470cf99dc2030acdabc2a5b5d73" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_1d3eaa84bc4a7fa75506eec3f0b9aa24" parent="aspace_7f9c6470cf99dc2030acdabc2a5b5d73" type="Folder">8</container>
+            <container id="aspace_4f823bb8237b863dd119dabe0dce4d31" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_5189ce753cca055f4c29ccae3cda4728" parent="aspace_4f823bb8237b863dd119dabe0dce4d31" type="Folder">8</container>
           </did>
           <odd id="aspace_336ca2826a382399e1c928ce9ad25677">
             <head>General note</head>
@@ -353,8 +352,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11"of the Mortitxol, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_931b1b6cceca7b2e303a2dd95997ce15" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_abd9148f7148a8db44034cbeeb707624" parent="aspace_931b1b6cceca7b2e303a2dd95997ce15" type="Folder">9</container>
+            <container id="aspace_0cd2e0d1e0208f84c1a6cc46bee4e3b6" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_8eab6cba83cca9252d2d2d81af453e4a" parent="aspace_0cd2e0d1e0208f84c1a6cc46bee4e3b6" type="Folder">9</container>
           </did>
           <odd id="aspace_e115f351ee74fbcd4c815344ccb1a591">
             <head>General note</head>
@@ -364,8 +363,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11"of the Mortitxol, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7570e26e4b4657c38d79893b93d3b1a9" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_efede1e64ef72b3ebc124820f656ffb0" parent="aspace_7570e26e4b4657c38d79893b93d3b1a9" type="Folder">10</container>
+            <container id="aspace_d6d670fec7376aff7009637b58e8472f" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_f66ff45641ba90fcd6f2ceb8043917be" parent="aspace_d6d670fec7376aff7009637b58e8472f" type="Folder">10</container>
           </did>
           <odd id="aspace_5d8f65fdb7bac0a0d3f9c9d37491aa7b">
             <head>General note</head>
@@ -375,8 +374,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11" of the La Danza Charra, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f3bdca4b6c994c4925dc1e6a6fe1391b" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_02bc9f6ec3c59a309e3d310f7574d95f" parent="aspace_f3bdca4b6c994c4925dc1e6a6fe1391b" type="Folder">11</container>
+            <container id="aspace_28da4a4eadb1ec64b5987ed0fb889389" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_0a00594a81a9eb401bac61d62e574404" parent="aspace_28da4a4eadb1ec64b5987ed0fb889389" type="Folder">11</container>
           </did>
           <odd id="aspace_ebec5a9ced208fc95fe4e42fb93a93f4">
             <head>General note</head>
@@ -386,8 +385,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11" of the Charrada, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f384b61cee62f0a601afd9ef45979fe0" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_e56ddc3d874c52e9effa14ebbf9295f9" parent="aspace_f384b61cee62f0a601afd9ef45979fe0" type="Folder">12</container>
+            <container id="aspace_425ee67cafcb6aa5c19c0a8384dbbb37" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_5caf7e80707e420f25a8fe45633b8f26" parent="aspace_425ee67cafcb6aa5c19c0a8384dbbb37" type="Folder">12</container>
           </did>
           <odd id="aspace_52942f1548eaa74daeb976dc60163865">
             <head>General note</head>
@@ -397,8 +396,8 @@
           <did>
             <unittitle>Photographs: Color 8" x 11" of the Bolero de l'Alcudia de Carlet, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e10d621e75eb31868e8dc309c71f16c3" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_fd5b3b9de0571d54c95d5685a53ec2a6" parent="aspace_e10d621e75eb31868e8dc309c71f16c3" type="Folder">13</container>
+            <container id="aspace_449446723b0e6d0ee84b02629e15b3e4" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_f453381e2cbe5ff91a449c0f51a64630" parent="aspace_449446723b0e6d0ee84b02629e15b3e4" type="Folder">13</container>
           </did>
           <odd id="aspace_ae8989e84f3c2ed9467da38148255632">
             <head>General note</head>
@@ -408,8 +407,8 @@
           <did>
             <unittitle>Photographs: Black and white 8" x 10"of the Bolero de l'Alcudia de Carlet</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7b4c279d870291c896bbe897682e382f" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_3650fe2e79bee34b94737b086c58b2af" parent="aspace_7b4c279d870291c896bbe897682e382f" type="Folder">14</container>
+            <container id="aspace_1ed125e34502353254aa1ba29540670f" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_099f303e977e1ff9a7ffe4e75964b9ee" parent="aspace_1ed125e34502353254aa1ba29540670f" type="Folder">14</container>
           </did>
           <odd id="aspace_e2c4d45f3510f11f1aa1b0e35f7bdaca">
             <head>General note</head>
@@ -419,8 +418,8 @@
           <did>
             <unittitle>Photographs: Black and white 8" x 10" of the Jarabe Tapatio, photographed by Ken Cobb</unittitle>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container id="aspace_7b18080ec82578a26459de36ead1d181" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_e59f9534cf291ef7a99a95a201675986" parent="aspace_7b18080ec82578a26459de36ead1d181" type="Folder">15</container>
+            <container id="aspace_5d38f02844379cc234f78b4c196ba02d" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_062f5005d89b2a9565e7cf5ec14073ca" parent="aspace_5d38f02844379cc234f78b4c196ba02d" type="Folder">15</container>
           </did>
           <odd id="aspace_55dab53331fac3587e737a7b9c85d483">
             <head>General note</head>
@@ -430,8 +429,8 @@
           <did>
             <unittitle>Photographs: Black and white 8" x 10" of Nancy Heller, Lourdes Elias, and Nancy Sedgwick, photographed by Ken Cobb</unittitle>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container id="aspace_f5ed2fd046d6e18871a038433d6dab32" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_83b2ecb1fdccddda9a2a3ab0f6b6b904" parent="aspace_f5ed2fd046d6e18871a038433d6dab32" type="Folder">16</container>
+            <container id="aspace_3f7f77de2e427deca917b14c5038d23b" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_a6358dfa8484625dba10a052df00c9f2" parent="aspace_3f7f77de2e427deca917b14c5038d23b" type="Folder">16</container>
           </did>
           <odd id="aspace_d0bcd624a1eec3bfe12936efc74a15ef">
             <head>General note</head>
@@ -441,8 +440,8 @@
           <did>
             <unittitle>Photographs: Black and white 8" x 10" of Jaime Coronado and Ziva Cohen, photographed by Victor Cohen</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_145a35777dbb06a687722496ab1b8afe" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_ed9ecf7c36d0b91c3b5e1ca10196c778" parent="aspace_145a35777dbb06a687722496ab1b8afe" type="Folder">17</container>
+            <container id="aspace_9a5381aafa528877334a4d426b8252f7" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_3d1a468daecc475294f5a511262a526e" parent="aspace_9a5381aafa528877334a4d426b8252f7" type="Folder">17</container>
           </did>
           <odd id="aspace_53d39850cc434c634700b7a798dfb7df">
             <head>General note</head>
@@ -452,8 +451,8 @@
           <did>
             <unittitle>Photographs: Black and white 8" x 10" of Nancy Heller, Nancy Sedgwick, and Lourdes Elias, photographed by Ken Cobb</unittitle>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container id="aspace_6640bf4a7aa62978de1ba61a26b42693" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_ee88180c53e117dc6d8551e62fe5f3a2" parent="aspace_6640bf4a7aa62978de1ba61a26b42693" type="Folder">18</container>
+            <container id="aspace_66caedaa3e0c07e82b6647210b259476" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_3670fcd0f2ce07a92048bef07a8d2d6a" parent="aspace_66caedaa3e0c07e82b6647210b259476" type="Folder">18</container>
           </did>
           <odd id="aspace_8bb85fa50b39ea6844d63e6b48148d58">
             <head>General note</head>
@@ -463,8 +462,8 @@
           <did>
             <unittitle>Photographs: Color 4" x 6" of Jaime Coronado, Ziva Cohen, Nancy Heller, and Nancy Sedgwick</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b78197d4704288d0ad940fd49993c821" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_24a737b49b93499961827b492effd099" parent="aspace_b78197d4704288d0ad940fd49993c821" type="Folder">19</container>
+            <container id="aspace_1023d907a6f4b3239f83c71297176034" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_3d90f7b1ea4b1469867b5593972b6b10" parent="aspace_1023d907a6f4b3239f83c71297176034" type="Folder">19</container>
           </did>
           <odd id="aspace_915ae16fb9da4c04ad5387a594279044">
             <head>General note</head>
@@ -474,8 +473,8 @@
           <did>
             <unittitle>Photographs: Color 4" x 6" of Nancy Sedgwick, Danielle Polen, Ziva Cohen, and Nancy Heller, photographed by Ken Cobb</unittitle>
             <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
-            <container id="aspace_17a8144387c033c4e0fc1d832f50af0c" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_4560d84954bf49fabb236c99b976a3fe" parent="aspace_17a8144387c033c4e0fc1d832f50af0c" type="Folder">20</container>
+            <container id="aspace_6a435bc22be7d6f7a2e25f85360c3868" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_04c6670a4f1b885b8851bd10d3b37637" parent="aspace_6a435bc22be7d6f7a2e25f85360c3868" type="Folder">20</container>
           </did>
           <odd id="aspace_60a59209411f90e2333978047a0c7824">
             <head>General note</head>
@@ -485,8 +484,8 @@
           <did>
             <unittitle>Videocassettes: George Washington University Marvin Theater performance, guest artists Marina Lorca and Roberto Amaral, November 1987. Kennedy Center performance, guest artists Marina Lorca and Roberto Amaral, May 20, 1991. National Geographic Performance, April, 1992</unittitle>
             <unitdate datechar="creation" normal="1987/1992" type="inclusive">1987 November-1992 May</unitdate>
-            <container id="aspace_3eb674d34c210cd3fbe922d8e50cb2d7" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
-            <container id="aspace_8049d80e7ea11355caf6aeae502eff78" parent="aspace_3eb674d34c210cd3fbe922d8e50cb2d7" type="Folder">21</container>
+            <container id="aspace_c988c3961cd6a286d04010d0902b8a6d" label="Mixed Materials [GW: 32882015256350]" type="Box">2</container>
+            <container id="aspace_5fcae47174cf211b8ac492aec3577829" parent="aspace_c988c3961cd6a286d04010d0902b8a6d" type="Folder">21</container>
           </did>
           <odd id="aspace_88bb43a11b623772e722e5a29fe561a5">
             <head>General note</head>
@@ -508,8 +507,8 @@
           <did>
             <unittitle>Published Material: Hispanic Institute for the Performing Arts Guide to Hispanic Cultural World 1989 edition</unittitle>
             <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-            <container id="aspace_1114ad659f7d672cd0caa198228fe479" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_9146523ce9399f21a0f57268a55413fe" parent="aspace_1114ad659f7d672cd0caa198228fe479" type="Folder">1</container>
+            <container id="aspace_7c20c51c2a62603a598ffc0e7efab0b6" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_2fb8826c3bf1950ebf8b28a809286e30" parent="aspace_7c20c51c2a62603a598ffc0e7efab0b6" type="Folder">1</container>
           </did>
           <odd id="aspace_b4314505eab5778563af9955567e4d1c">
             <head>General note</head>
@@ -517,10 +516,10 @@
         </c>
         <c id="aspace_ref90_za0" level="file">
           <did>
-            <unittitle>Published Material: Las Falas, by Martín Domínguez Barberá</unittitle>
+            <unittitle>Published Material: Las Falas, by MartÃ­n DomÃ­nguez BarberÃ¡</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d5e0fe89db4f3028bf4e50a88643132c" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_f7153169cbe1f05b365ecc747cfb8594" parent="aspace_d5e0fe89db4f3028bf4e50a88643132c" type="Folder">2</container>
+            <container id="aspace_6044abe4e7988899f7f3128ca47cc156" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_36fd89241f17c180dcdfde316033e2c7" parent="aspace_6044abe4e7988899f7f3128ca47cc156" type="Folder">2</container>
           </did>
           <odd id="aspace_65e04ca83d05f949a88319f6d8bd6534">
             <head>General note</head>
@@ -530,8 +529,8 @@
           <did>
             <unittitle>Published Material: Cancionero Musical de la Provincia de Valencia, by Salvador Segui</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_31e97dedaf79512a104c680e91d2245d" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_f1191553ac39e7924b393aa194009d0c" parent="aspace_31e97dedaf79512a104c680e91d2245d" type="Folder">3</container>
+            <container id="aspace_fc10bc184b02c5ce2a3ee0ac986dbd39" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_7c04a7355a2fb4df44ea09dc34505a56" parent="aspace_fc10bc184b02c5ce2a3ee0ac986dbd39" type="Folder">3</container>
           </did>
           <odd id="aspace_e86d85459566eb12883203543bea3b77">
             <head>General note</head>
@@ -541,8 +540,8 @@
           <did>
             <unittitle>Published Material: Fall 1988 Course Guide published by the George Washington University Student Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c8daa08f6e42b2cb72c6c896a421bc87" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_ab16e588e86e2c5e90baaa2afd227645" parent="aspace_c8daa08f6e42b2cb72c6c896a421bc87" type="Folder">4</container>
+            <container id="aspace_5a0d8274b1f22674d6e4ff9c5baf83dc" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_377ae7ceb12679c412a3e162e7cdcd84" parent="aspace_5a0d8274b1f22674d6e4ff9c5baf83dc" type="Folder">4</container>
           </did>
           <odd id="aspace_dc1811a0b5e1b0477159d561bc541b7c">
             <head>General note</head>
@@ -552,8 +551,8 @@
           <did>
             <unittitle>Miscellaneous: Invitation, RSVP card and envelope to an performance of the Spanish Dance Society at the Embassy of Spain</unittitle>
             <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991 June 12</unitdate>
-            <container id="aspace_8307d186cf19990c5181787c3262d4c1" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_539f39138c229e4f440e2502bfb77374" parent="aspace_8307d186cf19990c5181787c3262d4c1" type="Folder">5</container>
+            <container id="aspace_fe6f3c0af9a0c9f6afc6f03878d99e88" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_16655cf9dc63d07a8edbdbbd1c943c5a" parent="aspace_fe6f3c0af9a0c9f6afc6f03878d99e88" type="Folder">5</container>
           </did>
           <odd id="aspace_dc94472c4c32f3940c8806b13a9374ad">
             <head>General note</head>
@@ -563,8 +562,8 @@
           <did>
             <unittitle>Miscellaneous: Map of Spain and Portugal</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5d898eba92ebe0e0db287fe22dbc1719" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_5675817e4f29f9f73c72a63b75266237" parent="aspace_5d898eba92ebe0e0db287fe22dbc1719" type="Folder">6</container>
+            <container id="aspace_2cee543fd1000203cff77c170afa02c2" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_6bc05621ddbd5bcd08289018fbe2fd44" parent="aspace_2cee543fd1000203cff77c170afa02c2" type="Folder">6</container>
           </did>
           <odd id="aspace_b6a44861c79620eb18be350929627dde">
             <head>General note</head>
@@ -574,8 +573,8 @@
           <did>
             <unittitle>Miscellaneous: Nancy Sedgwick's Maestra de Baile Espanol Theory Examination</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_801e4fcf5f1f38d1885b73d2bf8ad4f5" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_400d95729e70ba92e406a1cb76dcdc91" parent="aspace_801e4fcf5f1f38d1885b73d2bf8ad4f5" type="Folder">7</container>
+            <container id="aspace_ec3b8b5a779d80bf3844eb6921b3c9b6" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_baad9aa8ab2d773e0fb86d89416adcc6" parent="aspace_ec3b8b5a779d80bf3844eb6921b3c9b6" type="Folder">7</container>
           </did>
           <odd id="aspace_6f2ffb87a3cf96aa2c91f03dcc5aace7">
             <head>General note</head>
@@ -585,8 +584,8 @@
           <did>
             <unittitle>Miscellaneous: Brochure, postcards, and press reviews about the African Heritage Center Dancers and Drummers</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ed81c8d2fb60696d7014db4197c150d9" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_495b2621aaac93b6d12cca97c3283bda" parent="aspace_ed81c8d2fb60696d7014db4197c150d9" type="Folder">8</container>
+            <container id="aspace_6a1b1d16133be1a903494774786edd96" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_404cacf8ebd344338ef3e75fc727929e" parent="aspace_6a1b1d16133be1a903494774786edd96" type="Folder">8</container>
           </did>
           <odd id="aspace_d6fe528c736b8ec784b7f440e7e4c874">
             <head>General note</head>
@@ -596,8 +595,8 @@
           <did>
             <unittitle>Miscellaneous: Business card of Boulton B Miller</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_486fad21c4255f575d878f15e7e892c1" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
-            <container id="aspace_a1d4a97673822946e462f33f9900f27c" parent="aspace_486fad21c4255f575d878f15e7e892c1" type="Folder">9</container>
+            <container id="aspace_57dac1adcd746e2ec8602c03858096c3" label="Mixed Materials [GW: 32882015256368]" type="Box">3</container>
+            <container id="aspace_0063f67a5daa8101669df2d23b06f360" parent="aspace_57dac1adcd746e2ec8602c03858096c3" type="Folder">9</container>
           </did>
           <odd id="aspace_6d0b6ada78409759003b94574fa2bec3">
             <head>General note</head>
@@ -605,10 +604,10 @@
         </c>
         <c id="aspace_ref106_60z" level="file">
           <did>
-            <unittitle>Artifact: Porcelain statue of a female Spanish dancer, which measures 8 ¼" (21cm) tall with a 4 7/8" (12cm) diameter base. The markings in the bottom of the statue indicate that it was made by the Santa Rufina Company in Valencia, Spain</unittitle>
+            <unittitle>Artifact: Porcelain statue of a female Spanish dancer, which measures 8 Â¼" (21cm) tall with a 4 7/8" (12cm) diameter base. The markings in the bottom of the statue indicate that it was made by the Santa Rufina Company in Valencia, Spain</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f290428665237c342b83b9407bd38242" label="Mixed Materials [32882015256376]" type="Box">4</container>
-            <container id="aspace_76f32d2bb89ff87885071a59768b5cdf" parent="aspace_f290428665237c342b83b9407bd38242" type="Folder">1</container>
+            <container id="aspace_c6c4f0ee61495c7e4ce2272ffd751155" label="Mixed Materials [32882015256376]" type="Box">4</container>
+            <container id="aspace_3e043d2732f37dbc33fed8cb4c77116e" parent="aspace_c6c4f0ee61495c7e4ce2272ffd751155" type="Folder">1</container>
           </did>
           <odd id="aspace_7eafd554b68dd288c6b9fd5ff6fcf40a">
             <head>General note</head>
@@ -616,10 +615,10 @@
         </c>
         <c id="aspace_ref108_tun" level="file">
           <did>
-            <unittitle>Artifact: Medal with Spanish writing, which measures 1/8" (.5cm) thick with a 2 ¼" (6cm) diameter. On one side is the image of a rose with a flag and the phrase "JOCS FLORALS DE LA CIUTAT I REGNE DE VALENCIA" and "1983 CENTENARI." On the other side is the image of a bat and a coat of arms and the phrases "PEL FIL TRAUREM LO CAPDELL" and "LO RAT PENAT." The medal is stored in a satin-lined gray box</unittitle>
+            <unittitle>Artifact: Medal with Spanish writing, which measures 1/8" (.5cm) thick with a 2 Â¼" (6cm) diameter. On one side is the image of a rose with a flag and the phrase "JOCS FLORALS DE LA CIUTAT I REGNE DE VALENCIA" and "1983 CENTENARI." On the other side is the image of a bat and a coat of arms and the phrases "PEL FIL TRAUREM LO CAPDELL" and "LO RAT PENAT." The medal is stored in a satin-lined gray box</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_199eafe812b7b12194939026abbf77fb" label="Mixed Materials [32882015256376]" type="Box">4</container>
-            <container id="aspace_9b20de0b5bc1fed3de5f1740e11ba323" parent="aspace_199eafe812b7b12194939026abbf77fb" type="Folder">2</container>
+            <container id="aspace_4800e00c939b6612dee261907eef573c" label="Mixed Materials [32882015256376]" type="Box">4</container>
+            <container id="aspace_2d62c384af97d8c116fd913e9ac6ebd5" parent="aspace_4800e00c939b6612dee261907eef573c" type="Folder">2</container>
           </did>
           <odd id="aspace_f690d109dfca9c862d634147188159af">
             <head>General note</head>
@@ -629,8 +628,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="aspace_7453cb4a540e399ab97078dc5e20ba2d" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_32edb7e87bf5bc37ecd90e53e842fd83" parent="aspace_7453cb4a540e399ab97078dc5e20ba2d" type="Folder">1</container>
+            <container id="aspace_4556045677a345c1be5217cb194daf67" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_e7ab2964922bc9f012c0e89f81c55891" parent="aspace_4556045677a345c1be5217cb194daf67" type="Folder">1</container>
           </did>
           <odd id="aspace_aaabb9c92d3942d2e2a5ca7de47d6305">
             <head>General note</head>
@@ -640,8 +639,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
-            <container id="aspace_a79b9998ed13b5304ab8fa6e0480bc0b" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_b0572b4ce052341340d241321830df67" parent="aspace_a79b9998ed13b5304ab8fa6e0480bc0b" type="Folder">2</container>
+            <container id="aspace_da24d4edb95f48f7b9a1f78f78cdabc2" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8c481c2ed701177918a6bc112c08090f" parent="aspace_da24d4edb95f48f7b9a1f78f78cdabc2" type="Folder">2</container>
           </did>
           <odd id="aspace_ed0c54a83f09816de183c7cfc9a26e1f">
             <head>General note</head>
@@ -651,8 +650,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
-            <container id="aspace_a30eb7d6858e7979890e424621198c70" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_49683dc904c6cc385a30504a6c01df77" parent="aspace_a30eb7d6858e7979890e424621198c70" type="Folder">3</container>
+            <container id="aspace_696579427761246a42ace09a348cd889" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cdaa2568a4045bafa191ccf8ef6f0283" parent="aspace_696579427761246a42ace09a348cd889" type="Folder">3</container>
           </did>
           <odd id="aspace_e5f4bd19bd094cb22f9f8be150a9fdba">
             <head>General note</head>
@@ -662,8 +661,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
-            <container id="aspace_df8184f895c40dfd05c3e9788dd84df9" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_a46c2dc0a4ea6c472995eea4810a26ce" parent="aspace_df8184f895c40dfd05c3e9788dd84df9" type="Folder">4</container>
+            <container id="aspace_10e2e1e7bdf3f5325b7c8b04a90421cc" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f395ba65f30503073a94f617cb7f8fc4" parent="aspace_10e2e1e7bdf3f5325b7c8b04a90421cc" type="Folder">4</container>
           </did>
           <odd id="aspace_60cc7c7c31141adf015a1db44018448f">
             <head>General note</head>
@@ -673,8 +672,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
-            <container id="aspace_a72ddfe35e00fa84a80c03394a2b4a75" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_517e32b4b9a7318bbdae726f84b476d7" parent="aspace_a72ddfe35e00fa84a80c03394a2b4a75" type="Folder">1</container>
+            <container id="aspace_104cc3908278ad8e85ed43ec1f8c7008" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_9f55bf04a6fa426479ecb0967fcd76fb" parent="aspace_104cc3908278ad8e85ed43ec1f8c7008" type="Folder">1</container>
           </did>
           <odd id="aspace_fb9028887ea9770a6a149c929f4aa971">
             <head>General note</head>
@@ -684,8 +683,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
-            <container id="aspace_adc381246e87b9dabf93e9e206ae87a2" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_8d5d60e51cb51588a91ea1f0aaa054d8" parent="aspace_adc381246e87b9dabf93e9e206ae87a2" type="Folder">1</container>
+            <container id="aspace_758e48a7d0fa0ed9183b7b1900488235" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_092c3c3df87af43f220e6449d4f8d360" parent="aspace_758e48a7d0fa0ed9183b7b1900488235" type="Folder">1</container>
           </did>
           <odd id="aspace_babf1477bc863ad52ca918a3ef70bc3b">
             <head>General note</head>
@@ -695,8 +694,8 @@
           <did>
             <unittitle>Scrapbook</unittitle>
             <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
-            <container id="aspace_0bea40d81984cf50808629dc20dc5f10" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_53ded9df0d6cb7a6fdd1b47a379c1eaf" parent="aspace_0bea40d81984cf50808629dc20dc5f10" type="Folder">1</container>
+            <container id="aspace_2e4939e2ab0c5ec074b9d08e2d537caa" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_39349eccdcb8dc528810e9ed13c80ce4" parent="aspace_2e4939e2ab0c5ec074b9d08e2d537caa" type="Folder">1</container>
           </did>
           <odd id="aspace_5dd6adfde6032b5417a8b2854a44dc41">
             <head>General note</head>

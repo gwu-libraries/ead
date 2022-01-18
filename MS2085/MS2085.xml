@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2085.xml">ms2085.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:38:56 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:57:54 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -81,7 +80,7 @@
       <geogname source="lcsh">Washington (D.C.)</geogname>
       <geogname source="lcsh">Great Britain</geogname>
       <subject source="lcsh">Vitoria, Battle of, Vitoria, Spain, 1813</subject>
-      <subject source="lcsh">La Coruña, Battle of, La Coruña, Spain, 1809</subject>
+      <subject source="lcsh">La CoruÃ±a, Battle of, La CoruÃ±a, Spain, 1809</subject>
       <persname source="naf">Ross, Robert</persname>
       <persname rules="aacr" source="naf">Frederick Augustus, Duke of York and Albany</persname>
     </controlaccess>
@@ -102,8 +101,8 @@
           <did>
             <unittitle>Frederick, Duke of York. Commander in Chief. LS. 2 pp. Horse Guards</unittitle>
             <unitdate datechar="creation">09/21/1813</unitdate>
-            <container id="aspace_564d0a3bc0de7d91786056353e9424a4" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_1b41ed5d7ef7dfcc812b559e72c66a71" parent="aspace_564d0a3bc0de7d91786056353e9424a4" type="Folder">1</container>
+            <container id="aspace_22aeeb23bad1020ed19db5cedb645e3e" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_8716460296ed38e615cf171415cd9ded" parent="aspace_22aeeb23bad1020ed19db5cedb645e3e" type="Folder">1</container>
           </did>
           <odd id="aspace_099663c37ba8105ab759b64c1c8c265b">
             <head>General note</head>
@@ -114,8 +113,8 @@
           <did>
             <unittitle>Frederick, Duke of York. Commander in Chief. LS. 2 pp. Horse Guards</unittitle>
             <unitdate datechar="creation">02/28/1814</unitdate>
-            <container id="aspace_79cefee1edb8685cfd9b2441652dfda0" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_8c72ec7846f88e3d289e0708e035dd6e" parent="aspace_79cefee1edb8685cfd9b2441652dfda0" type="Folder">2</container>
+            <container id="aspace_eb9183612585455f636c368d51a6b965" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_9e13f94e94c640930e7171c6cc114c30" parent="aspace_eb9183612585455f636c368d51a6b965" type="Folder">2</container>
           </did>
           <odd id="aspace_4dc87b3e4ba240b555d00624a2739ecf">
             <head>General note</head>
@@ -126,8 +125,8 @@
           <did>
             <unittitle>Somerset, Fitzroy. Military secretary to Duke of Wellington. ALS. 2 pp. Toulouse</unittitle>
             <unitdate datechar="creation">05/14/1814</unitdate>
-            <container id="aspace_28dc116551b1d30904903c1250f74a1d" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_4af8a939cbc5d7a9f86fb22ad8d6a2f1" parent="aspace_28dc116551b1d30904903c1250f74a1d" type="Folder">3</container>
+            <container id="aspace_44943aa4e0ded4ab13b4c266dba12b52" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_a1e215ae45ac93f530e31d7682b9768f" parent="aspace_44943aa4e0ded4ab13b4c266dba12b52" type="Folder">3</container>
           </did>
           <odd id="aspace_5a4af8e0a211539f8ab39ecdddff09ec">
             <head>General note</head>
@@ -138,8 +137,8 @@
           <did>
             <unittitle>Unknown handwriting. Ms. account of addressess in House of Commons 19 pp. (n.d.).</unittitle>
             <unitdate datechar="creation">11/14/1814</unitdate>
-            <container id="aspace_25c845201c7574c8f7727af9445245c4" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_1a8de7fa0dafd24165bdffc21081761e" parent="aspace_25c845201c7574c8f7727af9445245c4" type="Folder">4</container>
+            <container id="aspace_c70f87f705f05ff86bd2f967ad643ecb" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_02a926c960ea0921cec0223d3c9cf6a5" parent="aspace_c70f87f705f05ff86bd2f967ad643ecb" type="Folder">4</container>
           </did>
           <odd id="aspace_c093b8a58d067492fd8e1b67e22fe128">
             <head>General note</head>
@@ -150,8 +149,8 @@
           <did>
             <unittitle>Gorry, J. Secretary to the Committee. Ms. 2 leaves.</unittitle>
             <unitdate datechar="creation">02/1815 ca.</unitdate>
-            <container id="aspace_2bdb48e13b541a13aab2ab0e2ce8a06b" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_f1a72b7e37ffe9e283e9cc70a0823704" parent="aspace_2bdb48e13b541a13aab2ab0e2ce8a06b" type="Folder">5</container>
+            <container id="aspace_d7dff352c21618b77f88e9c32fe0ab4e" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_8404efde09c4c90fd0bdbdacfe0a477b" parent="aspace_d7dff352c21618b77f88e9c32fe0ab4e" type="Folder">5</container>
           </did>
           <odd id="aspace_d566cc2cfa7d369a39f462d15b8b5104">
             <head>General note</head>
@@ -162,8 +161,8 @@
           <did>
             <unittitle>Unidentified source. Ms. 3 pp.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fa5db4674b9d8db0bf52fb452b9e4676" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_d9d1bb8a46028324c4c07b53285baaf3" parent="aspace_fa5db4674b9d8db0bf52fb452b9e4676" type="Folder">6</container>
+            <container id="aspace_3b9061598e1a52dc1a628f19316d8206" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_b81813adf825700f879eb1e979706e34" parent="aspace_3b9061598e1a52dc1a628f19316d8206" type="Folder">6</container>
           </did>
           <odd id="aspace_2e2c98fdb420a1ba4116ff1c274019f1">
             <head>General note</head>
@@ -174,8 +173,8 @@
           <did>
             <unittitle>Unidentified source. Letter written about proper spelling of Bladensburg. 2 pp.</unittitle>
             <unitdate datechar="creation">07/11/1823</unitdate>
-            <container id="aspace_d47b353b94cb303dd831965a719a4e13" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_5c81756e2b0928bd0a50cda65a774d29" parent="aspace_d47b353b94cb303dd831965a719a4e13" type="Folder">7</container>
+            <container id="aspace_e52935c90eb77c76933aa56152615d54" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_17e146bcc9301a466a61aad3a4b9d3fe" parent="aspace_e52935c90eb77c76933aa56152615d54" type="Folder">7</container>
           </did>
           <odd id="aspace_95e4de85ebbebd8a30e7aff6ff310664">
             <head>General note</head>
@@ -186,8 +185,8 @@
           <did>
             <unittitle>Unknown handwriting. Ms. copy of letter of Duncan MacDougall, former aide to Ross. 13 pp</unittitle>
             <unitdate datechar="creation">05/1861</unitdate>
-            <container id="aspace_7ff6313d1b126277ccf0af4d3c38da6d" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_cff59453889e73bfcb5ca984a58be99e" parent="aspace_7ff6313d1b126277ccf0af4d3c38da6d" type="Folder">8</container>
+            <container id="aspace_8afdb1a5f0e27c68da8e9e7eeacdb876" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_b2febacfc01df8b236877aeb7506f8b1" parent="aspace_8afdb1a5f0e27c68da8e9e7eeacdb876" type="Folder">8</container>
           </did>
           <odd id="aspace_20c81d5e112715dbbfc3a081fda8b9f9">
             <head>General note</head>
@@ -198,8 +197,8 @@
           <did>
             <unittitle>Unknown handwriting. Ms. extract from book by Baron Henri Jomini: "Precis de I"Art de la Guerre"</unittitle>
             <unitdate datechar="creation">1830</unitdate>
-            <container id="aspace_2d5494794e346536918866c555cc84ce" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_7fd80837d1caf7f495ef3658d5456c82" parent="aspace_2d5494794e346536918866c555cc84ce" type="Folder">9</container>
+            <container id="aspace_35cdb9d37ce2586a8b75c635ece14a54" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_3ddb1eacbb4af5b46e0f2df50a8811ae" parent="aspace_35cdb9d37ce2586a8b75c635ece14a54" type="Folder">9</container>
           </did>
           <odd id="aspace_3a3b4083b929c91afa55ea88dd3a9b1b">
             <head>General note</head>
@@ -223,88 +222,88 @@
           <did>
             <unittitle>Military campaigns</unittitle>
             <unitdate datechar="creation">1813</unitdate>
-            <container id="aspace_1d6079c2fad3c904df22c193ac51c65e" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_7f7a2ddff9923a0a6d7d10fc8ead4838" parent="aspace_1d6079c2fad3c904df22c193ac51c65e" type="Folder">10</container>
+            <container id="aspace_fbc90ca5109ce5b0caa0ad7bf1dc87ba" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_4d96b595d33c42063227a32d902225aa" parent="aspace_fbc90ca5109ce5b0caa0ad7bf1dc87ba" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref40_s1r" level="file">
           <did>
             <unittitle>Capture of Washington, 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cbcac65f4ad9f7936d9e149012256c5c" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_eb34504370a059b8a20277dcde362ea4" parent="aspace_cbcac65f4ad9f7936d9e149012256c5c" type="Folder">11</container>
+            <container id="aspace_b748560c721ff3723670aaa073883246" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_0a9b4fa110cf8f3b568fa954ea57d867" parent="aspace_b748560c721ff3723670aaa073883246" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref42_2in" level="file">
           <did>
             <unittitle>Capture of Washington, 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2672f64a94976508afca8d1314ed773a" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_d83facb93f5b37729f28d8395f0b3d35" parent="aspace_2672f64a94976508afca8d1314ed773a" type="Folder">12</container>
+            <container id="aspace_472a01987afd8b653d55d567c3761690" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_5de79fc503a3ff691146c05f79c93c9d" parent="aspace_472a01987afd8b653d55d567c3761690" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref44_fy8" level="file">
           <did>
             <unittitle>Death of Ross, 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_07888172d0a49d236d78fd8db54bf2e5" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_8695ce695f5d1f082a6402f583fefc98" parent="aspace_07888172d0a49d236d78fd8db54bf2e5" type="Folder">13</container>
+            <container id="aspace_cc1e0fe1d039b39e20f7b6564bd7533b" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_dcdc5ef64985a14dda3324e29be7d25d" parent="aspace_cc1e0fe1d039b39e20f7b6564bd7533b" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref46_52i" level="file">
           <did>
             <unittitle>Death of Ross, 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1e8147c636e3abbcd9a8f275d86cc2ed" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_2168abad3938f24475584f5b1fb513f6" parent="aspace_1e8147c636e3abbcd9a8f275d86cc2ed" type="Folder">14</container>
+            <container id="aspace_277a1be8ea6450757afd46fd5d6f79b8" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_79dcfbc1cda48b82df64d5a1fc40ace8" parent="aspace_277a1be8ea6450757afd46fd5d6f79b8" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref48_1zi" level="file">
           <did>
             <unittitle>Death of Ross, 3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b75c7ee3c45e2962034775b26b281eee" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_ea2dcd2fec57d57ded95d17c83b0e1e2" parent="aspace_b75c7ee3c45e2962034775b26b281eee" type="Folder">15</container>
+            <container id="aspace_09d9ad4c02c9acf463d4170cf8e8af0b" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_377848fd4a689f8ee1b29ca332398b29" parent="aspace_09d9ad4c02c9acf463d4170cf8e8af0b" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref50_0us" level="file">
           <did>
             <unittitle>Obituaries for Ross</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6666a6fa8ab4f12222fd139012527b4b" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_0fb3700d3eba4ac8a2c2786be2f45814" parent="aspace_6666a6fa8ab4f12222fd139012527b4b" type="Folder">16</container>
+            <container id="aspace_7faf9ad8cbb4c44de16232d99bc73870" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_d968fb60a61ed95d007ff18eebdff38d" parent="aspace_7faf9ad8cbb4c44de16232d99bc73870" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref52_0zi" level="file">
           <did>
             <unittitle>Tributes to Ross 18 Poems</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a0296780c940541b4dd8b77333dda0a9" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_3671ce8b4115d0cb6a2d3b9b5a0241f4" parent="aspace_a0296780c940541b4dd8b77333dda0a9" type="Folder">17</container>
+            <container id="aspace_db89f56024cd11ee325fcfc74f1fc989" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_51b0a76da89fd7f8c1fcf3bcd9e5c24f" parent="aspace_db89f56024cd11ee325fcfc74f1fc989" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref54_u5r" level="file">
           <did>
             <unittitle>Poems</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9505b05b9e3a848b59c7648eed2b0c58" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_e289e15b99846f86d3adcf1248e8b5a5" parent="aspace_9505b05b9e3a848b59c7648eed2b0c58" type="Folder">18</container>
+            <container id="aspace_f1e526abde8dc69a1f7ef871b7afd3ea" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_bec13613375f950cd79bbdcee7afd5e9" parent="aspace_f1e526abde8dc69a1f7ef871b7afd3ea" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref56_izd" level="file">
           <did>
             <unittitle>Debate over burning of Washington</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2cba0ae6de064c31a8f83a47ab9f340f" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_1535bca8e9284d4944a26ff38fed91ef" parent="aspace_2cba0ae6de064c31a8f83a47ab9f340f" type="Folder">19</container>
+            <container id="aspace_c5e2958510d0d5eb1abb34875764699e" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_c256f11011a562dcf05b1dd4bfe708d0" parent="aspace_c5e2958510d0d5eb1abb34875764699e" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref58_cey" level="file">
           <did>
             <unittitle>Miscellaneous</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3f5f6ca7e7fd0c16f12dd7c61d4d1d78" label="Mixed Materials [32882018317621]" type="Box">1</container>
-            <container id="aspace_6f9cc5ad7869d389729342c0ea18943f" parent="aspace_3f5f6ca7e7fd0c16f12dd7c61d4d1d78" type="Folder">20</container>
+            <container id="aspace_667a6254d59b005737b21e8e1c5e16c1" label="Mixed Materials [32882018317621]" type="Box">1</container>
+            <container id="aspace_3ce0dc417d6e8459dbb71c36459ae3ba" parent="aspace_667a6254d59b005737b21e8e1c5e16c1" type="Folder">20</container>
           </did>
         </c>
       </c>

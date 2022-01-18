@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2141.xml">ms2141.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:51 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:58:42 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -43,9 +42,9 @@
       <abstract id="aspace_898f57f75c79410b9006894e4f316acb">Collection consists of blankets, a football helmet, an athletic letter, a football, football programs, a pennant from 1957 Sun Bowl game, scrapbooks, photos, cups, and a trophy donated by Bill Ryan. Bill Ryan earned an A.A. degree from George Washington University in 1934 and also served as President of Colonials, Inc. athletic booster club in 1956-1957.</abstract>
       <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-      <container id="aspace_a213b1fc5d1c797e0afd0337109c5f81" label="Mixed Materials [32882020267145]" type="Box">3</container>
-      <container id="aspace_aa566fd0d1611b996ba6d5d5f89616a6" label="Mixed Materials" type="Box">1</container>
-      <container id="aspace_168a2f2c281f97d95b2479f8e85359c9" label="Mixed Materials [32882020267137]" type="Box">2</container>
+      <container id="aspace_4c2798a97df8238dbd48acbef4761052" label="Mixed Materials [32882020267145]" type="Box">3</container>
+      <container id="aspace_0e24f9f479e5c9b9d2ec227747e7c8dc" label="Mixed Materials" type="Box">1</container>
+      <container id="aspace_85fecb9ab3ab6560ddd95f50ab3da08a" label="Mixed Materials [32882020267137]" type="Box">2</container>
     </did>
     <prefercite id="aspace_1838c50109d837cab7b3af4c2cc10b2c">
       <head>Preferred citation</head>
@@ -86,8 +85,8 @@
         <did>
           <unittitle>2 blankets</unittitle>
           <unitdate datechar="creation">1950 ca.</unitdate>
-          <container id="aspace_a10c7aadd3ae1ecea39a8d326b22ade3" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_d30cedf8fe9d5b47e44705080b3e42d8" parent="aspace_a10c7aadd3ae1ecea39a8d326b22ade3" type="Folder">1</container>
+          <container id="aspace_c63cccc3d0c4a1dd583d2f0f61a65ca1" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_bdba7d2b079c314f6b028e9f0bce696b" parent="aspace_c63cccc3d0c4a1dd583d2f0f61a65ca1" type="Folder">1</container>
         </did>
         <odd id="aspace_9389fec51d271bf9b699885e465a427a">
           <head>General note</head>
@@ -98,56 +97,56 @@
         <did>
           <unittitle>Pennant from 1957 Sun Bowl game</unittitle>
           <unitdate datechar="creation">1957</unitdate>
-          <container id="aspace_6ae51dba5f4017dd6ea0cf1836de6604" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_30df46827f6918a7d3093a7a5f2606ae" parent="aspace_6ae51dba5f4017dd6ea0cf1836de6604" type="Folder">2</container>
+          <container id="aspace_f46828f22ebb239da594644f1c8e2622" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_81ec0903b11fac0d3ceaa75dfc162b4a" parent="aspace_f46828f22ebb239da594644f1c8e2622" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref12_kpl" level="file">
         <did>
           <unittitle>GW athletic letter</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_2dc416de1fd0fdcd536edd7c34adfc2e" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_05c9f21ffba462bc2219994893b2909c" parent="aspace_2dc416de1fd0fdcd536edd7c34adfc2e" type="Folder">3</container>
+          <container id="aspace_31d2aa78c3ef7870722d265a19819fac" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_d50f5a56f151b661ec9fdb3870a6fadd" parent="aspace_31d2aa78c3ef7870722d265a19819fac" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref13_b7j" level="file">
         <did>
           <unittitle>Game ball from 1946 GW football game with player's signatures</unittitle>
           <unitdate datechar="creation">1946</unitdate>
-          <container id="aspace_d87acf14be3b0a2eef4660c3ae5aa823" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_55158ff6ebaf19b5120b571e8a60d137" parent="aspace_d87acf14be3b0a2eef4660c3ae5aa823" type="Folder">4</container>
+          <container id="aspace_e33a98a6e97441fa39cff13ac043b0bf" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_b056309285bf709288e1c8b0df802f34" parent="aspace_e33a98a6e97441fa39cff13ac043b0bf" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref14_kao" level="file">
         <did>
           <unittitle>Football helmet</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_a012ad8b05080ec0137ce136b3e82405" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_f0040964eef1c983192df7a0a77fdabc" parent="aspace_a012ad8b05080ec0137ce136b3e82405" type="Folder">5</container>
+          <container id="aspace_545b4251946d40c74d0c8338b20648d9" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_4e977edd2a474f072f897010d827fd0f" parent="aspace_545b4251946d40c74d0c8338b20648d9" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref15_389" level="file">
         <did>
           <unittitle>Framed certificate to Bill Ryan as member of GW football team</unittitle>
           <unitdate datechar="creation">1956</unitdate>
-          <container id="aspace_70499d8c122cfdb47d4c9c26b17a8cf2" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_c2be0de1674183dad80516bdd9e6f7fe" parent="aspace_70499d8c122cfdb47d4c9c26b17a8cf2" type="Folder">6</container>
+          <container id="aspace_5365ae45591c0533e60040a845a85a89" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_57f9516293966e8eecb60c9f909dbeb3" parent="aspace_5365ae45591c0533e60040a845a85a89" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref16_hcd" level="file">
         <did>
           <unittitle>T-shirt "Colonials"</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_aa319a62e7064f19348d32ff773d4072" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_4dd1f2b6d36d8330ad41f96a81e069bc" parent="aspace_aa319a62e7064f19348d32ff773d4072" type="Folder">7</container>
+          <container id="aspace_c2e5f1d064dfebd62da903a7d7505dd2" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_b8ed3f6bea80ff757780537876ccf569" parent="aspace_c2e5f1d064dfebd62da903a7d7505dd2" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref17_wnn" level="file">
         <did>
           <unittitle>Scrapbook</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_f4c5a4c827000b400b876944d1b734da" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_1c4933115215b1e9dd5db563f31385cc" parent="aspace_f4c5a4c827000b400b876944d1b734da" type="Folder">1</container>
+          <container id="aspace_f1fed1d8fd4e7442a7d266ed80abefd4" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_4ce37a70d02727c89c6e148b27ac0774" parent="aspace_f1fed1d8fd4e7442a7d266ed80abefd4" type="Folder">1</container>
         </did>
         <odd id="aspace_a7e3e19c0a784dd9e4c8e64468f266e4">
           <head>General note</head>
@@ -158,8 +157,8 @@
         <did>
           <unittitle>Scrapbook</unittitle>
           <unitdate datechar="creation">1977-1983</unitdate>
-          <container id="aspace_986c90be8e323c73013395ac6c948bcf" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_147be36b4a4e552be36ad797c7ee12ad" parent="aspace_986c90be8e323c73013395ac6c948bcf" type="Folder">2</container>
+          <container id="aspace_f3acf6050151526d204d475405d59723" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_3c7f8c7dc502010ba96552818a183947" parent="aspace_f3acf6050151526d204d475405d59723" type="Folder">2</container>
         </did>
         <odd id="aspace_1918f42ca591a6a1713ee1373e379c19">
           <head>General note</head>
@@ -170,16 +169,16 @@
         <did>
           <unittitle>Pack of photos</unittitle>
           <unitdate datechar="creation">1989 ca.</unitdate>
-          <container id="aspace_9b96dae636f9ad4566f8d53808cffbe2" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_d23636c9adff236cf47070064763450b" parent="aspace_9b96dae636f9ad4566f8d53808cffbe2" type="Folder">3</container>
+          <container id="aspace_d701c9f733cc491936d1ad76ccc62734" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_6ef197db4a71bea0c242622504d2f1a7" parent="aspace_d701c9f733cc491936d1ad76ccc62734" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref22_a7q" level="file">
         <did>
           <unittitle>Scrapbook</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_60c2850d717cef6b7cb7d9e96c949d08" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_071e97c8efae163f2c26042bd03abd9e" parent="aspace_60c2850d717cef6b7cb7d9e96c949d08" type="Folder">4</container>
+          <container id="aspace_26c5a51963b1f0819b672b0c3b37f3f6" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_89d526a02cf7197ba69be6629bf57f03" parent="aspace_26c5a51963b1f0819b672b0c3b37f3f6" type="Folder">4</container>
         </did>
         <odd id="aspace_e081492d83ea5611ef47e95893ee49fd">
           <head>General note</head>
@@ -190,16 +189,16 @@
         <did>
           <unittitle>Scrapbook - 1957 Sun Bowl team reunion</unittitle>
           <unitdate datechar="creation">1957</unitdate>
-          <container id="aspace_cf412aeaf1aeb9b98a0f59faacddaf4c" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_938f8da36006b0e70303dd097734853c" parent="aspace_cf412aeaf1aeb9b98a0f59faacddaf4c" type="Folder">5</container>
+          <container id="aspace_a9f1e8165120bddcffaeef7b2e7be430" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_e3ded1ea3078e757345dc1726f5860a1" parent="aspace_a9f1e8165120bddcffaeef7b2e7be430" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref25_x4j" level="file">
         <did>
           <unittitle>GW Hatchets</unittitle>
           <unitdate datechar="creation">1948-1956</unitdate>
-          <container id="aspace_f606e9f3566ecf23c92fe6e9ee474db4" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_f29635ecb059880cd538ecb2932f1bdc" parent="aspace_f606e9f3566ecf23c92fe6e9ee474db4" type="Folder">6</container>
+          <container id="aspace_c7d74f92a9bcc9b3d30c55b6bd37f429" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_417cac80f92f5c7cc7062bb3ad8bc124" parent="aspace_c7d74f92a9bcc9b3d30c55b6bd37f429" type="Folder">6</container>
         </did>
         <odd id="aspace_4be9e13658f02a11d9ad4872880cd820">
           <head>General note</head>
@@ -210,24 +209,24 @@
         <did>
           <unittitle>Sports Awards programs</unittitle>
           <unitdate datechar="creation">1961-1966</unitdate>
-          <container id="aspace_eddac2d81ca432bc1421eb0988e175ae" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_7ea120b2f9f6f66631b0f709ca165ccc" parent="aspace_eddac2d81ca432bc1421eb0988e175ae" type="Folder">7</container>
+          <container id="aspace_f1d9dedb3c75ce2d48a0775108fb03ac" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_7360ab4fd35c44e3ceb50166a4d70ef5" parent="aspace_f1d9dedb3c75ce2d48a0775108fb03ac" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref28_8qy" level="file">
         <did>
           <unittitle>Football program</unittitle>
           <unitdate datechar="creation">11/04/1932</unitdate>
-          <container id="aspace_688175088a0d835d50f013808c8a2554" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_af73debf44a4c7a4f62b88db51dbac43" parent="aspace_688175088a0d835d50f013808c8a2554" type="Folder">8</container>
+          <container id="aspace_351d16ddae9bc7a2b04e3b3d0948f949" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_b4875140b5248234341543d54915b830" parent="aspace_351d16ddae9bc7a2b04e3b3d0948f949" type="Folder">8</container>
         </did>
       </c>
       <c id="aspace_ref29_sjs" level="file">
         <did>
           <unittitle>Football program</unittitle>
           <unitdate datechar="creation">11/1932</unitdate>
-          <container id="aspace_4e95f81b38e4b12101d10a1091e76c43" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_a89e6d9c89a337b31eb931f27ec418f0" parent="aspace_4e95f81b38e4b12101d10a1091e76c43" type="Folder">9</container>
+          <container id="aspace_282107185b8b96d31e489b7f03775594" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_8a5f46e4781de520196d07a31dd04ab6" parent="aspace_282107185b8b96d31e489b7f03775594" type="Folder">9</container>
         </did>
         <odd id="aspace_822f0658bb06425ec4594b2c15c60b62">
           <head>General note</head>
@@ -238,40 +237,40 @@
         <did>
           <unittitle>Football program</unittitle>
           <unitdate datechar="creation">10/11/1946</unitdate>
-          <container id="aspace_bd5857fb6a371adb7224fddee2720dc4" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_c70f81dad4548ab7d0e44cf9cf940b1e" parent="aspace_bd5857fb6a371adb7224fddee2720dc4" type="Folder">10</container>
+          <container id="aspace_d5b3cd23caa26fa6f340cafada19f2f8" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_9f8600d5cfcebbaf30056e7928ea962b" parent="aspace_d5b3cd23caa26fa6f340cafada19f2f8" type="Folder">10</container>
         </did>
       </c>
       <c id="aspace_ref32_gn4" level="file">
         <did>
           <unittitle>Football program</unittitle>
           <unitdate datechar="creation">10/01/1955</unitdate>
-          <container id="aspace_e37cc7ca49572651b0e780f7317c3e8f" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_a7143fc4c78b100efadf7f17099de289" parent="aspace_e37cc7ca49572651b0e780f7317c3e8f" type="Folder">11</container>
+          <container id="aspace_1b9fc87f0a768d17701ec69e5157d713" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_42a6dabf55fd1573fb2ba38a5aa7d6d8" parent="aspace_1b9fc87f0a768d17701ec69e5157d713" type="Folder">11</container>
         </did>
       </c>
       <c id="aspace_ref33_au8" level="file">
         <did>
           <unittitle>Football program Sun Bowl game</unittitle>
           <unitdate datechar="creation">1957</unitdate>
-          <container id="aspace_df4af38b7af71abbc2aaa60109ff3bb1" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_c75a87dea260ae7c79a07e40c41c4ab8" parent="aspace_df4af38b7af71abbc2aaa60109ff3bb1" type="Folder">12</container>
+          <container id="aspace_5c240a53eb3b4bad83215643e1fbef86" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_71ab8bbdef4d03de71430eeec661dfd7" parent="aspace_5c240a53eb3b4bad83215643e1fbef86" type="Folder">12</container>
         </did>
       </c>
       <c id="aspace_ref34_g5h" level="file">
         <did>
           <unittitle>Football program</unittitle>
           <unitdate datechar="creation">11/24/1966</unitdate>
-          <container id="aspace_2d39b82e77381698effa3881ec1accca" label="Mixed Materials [32882020267137]" type="Box">2</container>
-          <container id="aspace_866f47e9fbcd37e13abbd24003b1d704" parent="aspace_2d39b82e77381698effa3881ec1accca" type="Folder">13</container>
+          <container id="aspace_c01e594e1a889e4be16975c16e2f7975" label="Mixed Materials [32882020267137]" type="Box">2</container>
+          <container id="aspace_7322a077534cd4d1010d67d8ffedd184" parent="aspace_c01e594e1a889e4be16975c16e2f7975" type="Folder">13</container>
         </did>
       </c>
       <c id="aspace_ref35_nbb" level="file">
         <did>
           <unittitle>Trophy</unittitle>
           <unitdate datechar="creation">1952-1955</unitdate>
-          <container id="aspace_cc58d14d765104fad4eee2b8e59a419c" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_2714642147a23c7044e45e134fd9a339" parent="aspace_cc58d14d765104fad4eee2b8e59a419c" type="Folder">1</container>
+          <container id="aspace_ad65f6735c581a2683e7ff05fb533140" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_8facf9d1051113780e79a5a739929f4c" parent="aspace_ad65f6735c581a2683e7ff05fb533140" type="Folder">1</container>
         </did>
         <odd id="aspace_af447b0ae8a85d127ae52efb84eb6268">
           <head>General note</head>
@@ -282,48 +281,48 @@
         <did>
           <unittitle>Mug - GW Colonials</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_bcf6a4a6ddf3ae5688205b5b415a9049" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_c12446eb4a2c0c3ad542e8afe0fe98e8" parent="aspace_bcf6a4a6ddf3ae5688205b5b415a9049" type="Folder">2</container>
+          <container id="aspace_4ce3a9fd7b10c03a123e1de71cc3f455" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_77a3e005c008ca1844f5859154cb2d86" parent="aspace_4ce3a9fd7b10c03a123e1de71cc3f455" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref38_itk" level="file">
         <did>
           <unittitle>Mug - Alumni Reunion</unittitle>
           <unitdate datechar="creation">1993</unitdate>
-          <container id="aspace_faab97adc5fc987f16c415ab0bcdfb85" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_93d73882a39b2c3c0e1a84ae5091e69d" parent="aspace_faab97adc5fc987f16c415ab0bcdfb85" type="Folder">3</container>
+          <container id="aspace_a7fa1f04c942c9852d0d5c18ed1033dd" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_2f9441e50d3501812b7d6da7200beaf9" parent="aspace_a7fa1f04c942c9852d0d5c18ed1033dd" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref39_qjs" level="file">
         <did>
           <unittitle>Glass mug - GW seal</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_2a8fce71b50c0bac88487f2c8c05ff69" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_88ee07d01411b862561b52537df82c98" parent="aspace_2a8fce71b50c0bac88487f2c8c05ff69" type="Folder">4</container>
+          <container id="aspace_8cda25dad6d885c6e7d706e45d6c20dd" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_4f2c955af030fbe5bddaf4d5797ac5c5" parent="aspace_8cda25dad6d885c6e7d706e45d6c20dd" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref40_xgg" level="file">
         <did>
           <unittitle>Ash tray - GWU</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_7bbaeebe1ef073b56307b23cd1f336b2" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_de4796910b83b6167977dc7e961c447c" parent="aspace_7bbaeebe1ef073b56307b23cd1f336b2" type="Folder">5</container>
+          <container id="aspace_cd2ac6b986c33d18adb74d0b99967e50" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_03c6464c611133d419fede70f8a67502" parent="aspace_cd2ac6b986c33d18adb74d0b99967e50" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref41_0ah" level="file">
         <did>
           <unittitle>Stein - GWU lettering and seal</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_4b7c2bd787214277bbb417697c35c41e" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_a5f78464264cabfd3a57f6c33e9b1758" parent="aspace_4b7c2bd787214277bbb417697c35c41e" type="Folder">6</container>
+          <container id="aspace_5585773ce657178ec2a40b0a0b70a743" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_8b3c0cb353f198b003e27e408841ae41" parent="aspace_5585773ce657178ec2a40b0a0b70a743" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref42_nmz" level="file">
         <did>
           <unittitle>Alumni Service Award</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_a436568df4445ac31be4be586083ea8b" label="Mixed Materials [32882020267145]" type="Box">3</container>
-          <container id="aspace_a374a27245a45ecfd63f92496aec2341" parent="aspace_a436568df4445ac31be4be586083ea8b" type="Folder">7</container>
+          <container id="aspace_c8732bdd64d5e30ab1917af4c06bab07" label="Mixed Materials [32882020267145]" type="Box">3</container>
+          <container id="aspace_3db67e3e5c46ecd7bc0ea1b0ac740c49" parent="aspace_c8732bdd64d5e30ab1917af4c06bab07" type="Folder">7</container>
         </did>
         <odd id="aspace_5f8288ec366037a564920524639df1e7">
           <head>General note</head>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/k0002.xml">k0002.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:31:14 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:50:43 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -43,8 +42,8 @@
       <abstract id="aspace_ce269568c8baac8df9935d79c5ed73dc">Series one consists of correspondence primarily to and from Stephen S. Wise. There are nearly two hundred letters dating from 1905-1953, with the bulk of correspondence from 1907-32. Series two consists of diaries, notes, addresses, and research guides related to Stephen S. Wise from 1908-1952, with the bulk of materials from 1908-1927. Included are three sets of personal diaries ranging from 1910-14 and 1921-22, notes from his trip to Palestine in 1922, and a number of undated writings on scrap paper. There is also a twenty-eight page bibliography on the writings of Wise. Series three consists of general newsclippings and pamphlets, as well as invitations and programs of events relating to Stephen S. Wise, dating from 1909-1977, with the bulk of materials from 1911-1940.</abstract>
       <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-      <container id="aspace_55b7678c1a64a820484c838669cd2081" label="Mixed Materials" type="Box">2</container>
-      <container id="aspace_0bb9f6ab3b521c5895c4fa8a95cd48c8" label="Mixed Materials" type="Box">1</container>
+      <container id="aspace_997a5c27d38ab0a654a6310ea8fe94ba" label="Mixed Materials" type="Box">2</container>
+      <container id="aspace_fd04b65d141c470effbe709d7d16d279" label="Mixed Materials" type="Box">1</container>
     </did>
     <prefercite id="aspace_9946d650225c6c429dc565e88f1d3d38">
       <head>Preferred citation</head>
@@ -112,7 +111,7 @@
           <unitdate datechar="creation" normal="1905/1953" type="inclusive">1905-1953</unitdate>
           <unitdate datechar="creation" normal="1907/1932" type="bulk">1907-1932</unitdate>
           <physdesc id="aspace_8270bd559fb9569ea2c08089e3d72376" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_a6b63999f69444cda8dda2596744331c" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_fcd13a5af9e0b105d17efb77e85168cd" label="Mixed Materials" type="Box">1</container>
         </did>
         <scopecontent id="aspace_23a216e8399fc2f4e58a9ba3b8611371">
           <head>Scope and Contents note</head>
@@ -137,8 +136,8 @@
               <unittitle>Baron, Salo</unittitle>
               <unitdate datechar="creation" normal="1927/1928" type="inclusive">1927-1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_dd3c656543020bce9831ae3a06f598e3" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_30508b6e3fa2d08dda4bf05e4a11e5f4" parent="aspace_dd3c656543020bce9831ae3a06f598e3" type="Folder">1</container>
+              <container id="aspace_f767a235e3ce1d468226b30502e38c54" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9d321be0d1eda2b968c56e3fb72bf20f" parent="aspace_f767a235e3ce1d468226b30502e38c54" type="Folder">1</container>
             </did>
           </c>
           <c id="aspace_ref20_hpn" level="file">
@@ -146,8 +145,8 @@
               <unittitle>Berkson, Isaac B., </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_afd9bed60fb51be798d66cfce3b1bf85" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8a8994339f832accf72f7b6403d38bbb" parent="aspace_afd9bed60fb51be798d66cfce3b1bf85" type="Folder">2</container>
+              <container id="aspace_452e27f557dd61cc02ef6de387f63f92" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ae7ef067b2e84b01f1eed9e40ecb88f0" parent="aspace_452e27f557dd61cc02ef6de387f63f92" type="Folder">2</container>
             </did>
           </c>
           <c id="aspace_ref29_n71" level="file">
@@ -155,8 +154,8 @@
               <unittitle>Bloch, Joshua, </unittitle>
               <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d860c37d84e0ec91c745bca66e3358a0" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cbc3ff4a4c0b220af8695bf6a67e3f22" parent="aspace_d860c37d84e0ec91c745bca66e3358a0" type="Folder">3</container>
+              <container id="aspace_7745eba63527f7daa9ac4cf58c9e9966" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6b57bad8c2857233d494f855ef81a7fc" parent="aspace_7745eba63527f7daa9ac4cf58c9e9966" type="Folder">3</container>
             </did>
           </c>
           <c id="aspace_ref21_sk3" level="file">
@@ -164,8 +163,8 @@
               <unittitle>Bryan, Mary B.</unittitle>
               <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ebf27a52dd1351b0f2602295041e4d6e" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_1d406b9915d344625370c338e96d5e62" parent="aspace_ebf27a52dd1351b0f2602295041e4d6e" type="Folder">4</container>
+              <container id="aspace_965a7f45b1cd246f42f3e2f5ad240f40" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_867c2eb1bc947f61707fb6d8ccd09b64" parent="aspace_965a7f45b1cd246f42f3e2f5ad240f40" type="Folder">4</container>
             </did>
           </c>
           <c id="aspace_ref22_jfc" level="file">
@@ -173,8 +172,8 @@
               <unittitle>Cohen, Martha</unittitle>
               <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
               <langmaterial><language langcode="ger">German</language>.</langmaterial>
-              <container id="aspace_235dc04ecd3d36467e8059b3536e22e0" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_70c577bd253868bd47c6ed555e66463d" parent="aspace_235dc04ecd3d36467e8059b3536e22e0" type="Folder">5</container>
+              <container id="aspace_f745839580860ece90fae371f3d9b33f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a18973036ffe329064693ece9664a6e7" parent="aspace_f745839580860ece90fae371f3d9b33f" type="Folder">5</container>
             </did>
           </c>
           <c id="aspace_ref23_fbh" level="file">
@@ -182,8 +181,8 @@
               <unittitle>Farber, R.</unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_15f88b71f3783c00d7dc1ddd62eea9c8" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_e722226d0e4e1afa45d0534148e4a083" parent="aspace_15f88b71f3783c00d7dc1ddd62eea9c8" type="Folder">6</container>
+              <container id="aspace_7ac8712ed4c8feccb3e01e85ba0519f8" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_4c4f723857506095c2db3b7d4895f1cf" parent="aspace_7ac8712ed4c8feccb3e01e85ba0519f8" type="Folder">6</container>
             </did>
           </c>
           <c id="aspace_ref24_95y" level="file">
@@ -191,8 +190,8 @@
               <unittitle>Fischbein, Morris, </unittitle>
               <unitdate datechar="creation" normal="1927/1928" type="inclusive">1927-1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_f9dc0dc42f0858f08295f08232a9c62c" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_240eef4bcec8a53303f0d3948894542c" parent="aspace_f9dc0dc42f0858f08295f08232a9c62c" type="Folder">7</container>
+              <container id="aspace_3787197872d867a2a95f93802cc46984" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_cd0b00a3cc4eec2c46b8425e2f31745a" parent="aspace_3787197872d867a2a95f93802cc46984" type="Folder">7</container>
             </did>
           </c>
           <c id="aspace_ref25_u7c" level="file">
@@ -200,8 +199,8 @@
               <unittitle>Gordon, H.L., </unittitle>
               <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_584ffc135c78b79f3cb4d9f3924071f0" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_23b5dcf43dc3041be0319444f209ed31" parent="aspace_584ffc135c78b79f3cb4d9f3924071f0" type="Folder">8</container>
+              <container id="aspace_4a75a194d9f3245cc8d898f4dd1c634b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a4245c8f3b227624cc35ab7c8a9af42a" parent="aspace_4a75a194d9f3245cc8d898f4dd1c634b" type="Folder">8</container>
             </did>
           </c>
           <c id="aspace_ref26_asn" level="file">
@@ -209,17 +208,17 @@
               <unittitle>Hertz, Emanuel</unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_edc7037c82e875003a08602f8424db3f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_7fb66dbac2e47d899a63aa908764afad" parent="aspace_edc7037c82e875003a08602f8424db3f" type="Folder">9</container>
+              <container id="aspace_a3a6e68f8ff04ecbc5fe10c998ad3bc1" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_740ee9920ae59cf51c91ceac6f933e82" parent="aspace_a3a6e68f8ff04ecbc5fe10c998ad3bc1" type="Folder">9</container>
             </did>
           </c>
           <c id="aspace_ref27_om6" level="file">
             <did>
-              <unittitle>H�bsen, Adele, </unittitle>
+              <unittitle>Hübsen, Adele, </unittitle>
               <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_5305ef77d9246b110a86677c83a8d093" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_f447a7f33877c2ba7a84e05810d00e97" parent="aspace_5305ef77d9246b110a86677c83a8d093" type="Folder">10</container>
+              <container id="aspace_e6e1c03703be9ff022c602ed40d732e2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9c9da1b6d11f5eb795a8711ec18ced31" parent="aspace_e6e1c03703be9ff022c602ed40d732e2" type="Folder">10</container>
             </did>
           </c>
           <c id="aspace_ref28_4ru" level="file">
@@ -227,8 +226,8 @@
               <unittitle>Kalisch, Samuel</unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_56141e9938cabffb0d430eae2b0d6d21" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_15957480be8234876b7d2062d78a73e4" parent="aspace_56141e9938cabffb0d430eae2b0d6d21" type="Folder">11</container>
+              <container id="aspace_35a8798ac55e44b8b304ccd1ccc4cd15" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e8278c9afe2d6a3bb8c35a6050ebec89" parent="aspace_35a8798ac55e44b8b304ccd1ccc4cd15" type="Folder">11</container>
             </did>
           </c>
           <c id="aspace_ref30_5yi" level="file">
@@ -236,8 +235,8 @@
               <unittitle>Kohut, George Alexander</unittitle>
               <unitdate datechar="creation" normal="1925/1930" type="inclusive">1925-1930</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7ec859a0793cc050f5fd1ad72bca30d0" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2637a1dcf9a302732dafc8e3b678c316" parent="aspace_7ec859a0793cc050f5fd1ad72bca30d0" type="Folder">12</container>
+              <container id="aspace_8f441f868f6955d16e95c1da0a361902" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1c779772dc75cb488de477dec54057d2" parent="aspace_8f441f868f6955d16e95c1da0a361902" type="Folder">12</container>
             </did>
             <odd id="aspace_2d69970b3d9205fb14ea089ffde4d750">
               <head>General note</head>
@@ -249,8 +248,8 @@
               <unittitle>Langstadter, Rosetta, </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8f238bdff599007f5277453d680c0e67" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_e5fdce094f3d52dc3d60fa484995ff93" parent="aspace_8f238bdff599007f5277453d680c0e67" type="Folder">13</container>
+              <container id="aspace_208a4098ace9704ab8b9eff5d361c092" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f1b83e98d1273c2aa71888cf0b429495" parent="aspace_208a4098ace9704ab8b9eff5d361c092" type="Folder">13</container>
             </did>
           </c>
           <c id="aspace_ref31_wz8" level="file">
@@ -258,8 +257,8 @@
               <unittitle>Loeb, James, </unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_645d4719539d471a606e81a088224c37" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8fcd5bdfbb28dd8bf1e301266fcc348c" parent="aspace_645d4719539d471a606e81a088224c37" type="Folder">14</container>
+              <container id="aspace_1d92a1e40f012c93d6a285719ddfba3a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_4a229958ca16c2ff3498cb3e0cd2f86d" parent="aspace_1d92a1e40f012c93d6a285719ddfba3a" type="Folder">14</container>
             </did>
           </c>
           <c id="aspace_ref33_gez" level="file">
@@ -267,8 +266,8 @@
               <unittitle>Obermann, Julian, </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_93bde670819fad2979ef9126d06fda05" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cd7b160ac72c8a28203a15e7c1115d89" parent="aspace_93bde670819fad2979ef9126d06fda05" type="Folder">15</container>
+              <container id="aspace_639a7b94263f1ab50084c8d5023c73a4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e3bb4f5410f89ed54ff180dc3f9177bd" parent="aspace_639a7b94263f1ab50084c8d5023c73a4" type="Folder">15</container>
             </did>
           </c>
           <c id="aspace_ref34_g2p" level="file">
@@ -276,8 +275,8 @@
               <unittitle>Ogden, Charles J., </unittitle>
               <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_1492b31c6c8c54a29af106b30198e208" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_178fa530eb954a6d8ebdf8267a206450" parent="aspace_1492b31c6c8c54a29af106b30198e208" type="Folder">16</container>
+              <container id="aspace_99c84e64334cdfbe6aef27ba0b23acc8" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a1ce0fa3ce716febcf28774659dc25fe" parent="aspace_99c84e64334cdfbe6aef27ba0b23acc8" type="Folder">16</container>
             </did>
           </c>
           <c id="aspace_ref35_2gp" level="file">
@@ -285,8 +284,8 @@
               <unittitle>Oko, Adolf S.</unittitle>
               <unitdate datechar="creation" normal="1927/1928" type="inclusive">1927-1928 </unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_697fbc4c3de6326edd5c122dfc2263e1" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_0e1e5cba73bb88ac621036eac7bd2dc5" parent="aspace_697fbc4c3de6326edd5c122dfc2263e1" type="Folder">17</container>
+              <container id="aspace_9464859887a4ea9327c143307784e351" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f6f53b59f9532365db0081d15b672cf1" parent="aspace_9464859887a4ea9327c143307784e351" type="Folder">17</container>
             </did>
             <odd id="aspace_361c0acd61c6579abd125289c95d7c35">
               <head>General note</head>
@@ -298,8 +297,8 @@
               <unittitle>Pearson, Leonard S.</unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927 </unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ebac1450da503dedd47d9829b6947ba8" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_f1371d3b47142973452c379f582ce491" parent="aspace_ebac1450da503dedd47d9829b6947ba8" type="Folder">18</container>
+              <container id="aspace_b842a65f4f59983aea04499bb4be8f0f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a1e2b1a400378363a02e2dd2a30a8206" parent="aspace_b842a65f4f59983aea04499bb4be8f0f" type="Folder">18</container>
             </did>
           </c>
           <c id="aspace_ref37_imk" level="file">
@@ -307,8 +306,8 @@
               <unittitle>Russell, Howard G., </unittitle>
               <unitdate datechar="creation" normal="1925/1927" type="inclusive">1925-1926</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_cdec60ce0d48aec28a09dc242eb7f222" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_17ef1c0aa857ed842761c99aa10f768d" parent="aspace_cdec60ce0d48aec28a09dc242eb7f222" type="Folder">19</container>
+              <container id="aspace_d97412c24279b8d690eb03ed831f76ad" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b552e3a70ceacc35c86eefbc38ab81a6" parent="aspace_d97412c24279b8d690eb03ed831f76ad" type="Folder">19</container>
             </did>
           </c>
           <c id="aspace_ref38_ent" level="file">
@@ -316,8 +315,8 @@
               <unittitle>Shapiro, Israel, </unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_b8d8f5d7b8a0f07dcfa9bd46fd23e7c8" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_dc83f8363a78a6402abd95884e7a9041" parent="aspace_b8d8f5d7b8a0f07dcfa9bd46fd23e7c8" type="Folder">20</container>
+              <container id="aspace_de10e558cbc0c088ad4001e2fa2bb8a6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2e71725e7abbc82b80a8f0a3a90215a4" parent="aspace_de10e558cbc0c088ad4001e2fa2bb8a6" type="Folder">20</container>
             </did>
           </c>
           <c id="aspace_ref39_l7p" level="file">
@@ -325,8 +324,8 @@
               <unittitle>Shire, Sadie L., </unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_eb3a24eaa881163b3d124175d545bef4" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_27a874127867e08e4f60a3931b666962" parent="aspace_eb3a24eaa881163b3d124175d545bef4" type="Folder">21</container>
+              <container id="aspace_5fe759d22a1d037be2d4b0febf04563b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1d6121ee235c17d20e0715bb4400664d" parent="aspace_5fe759d22a1d037be2d4b0febf04563b" type="Folder">21</container>
             </did>
           </c>
           <c id="aspace_ref40_4oq" level="file">
@@ -334,8 +333,8 @@
               <unittitle>Sternheim, Emanuel, </unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_acf6627ddfc3e60d02eaeca7bcec732f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_32d7376675350ae8c1f09fe2adec1522" parent="aspace_acf6627ddfc3e60d02eaeca7bcec732f" type="Folder">22</container>
+              <container id="aspace_4fc2cfd505472c58ff18ba9de832de03" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ab84cd2ed218b340d68a8a051d973c21" parent="aspace_4fc2cfd505472c58ff18ba9de832de03" type="Folder">22</container>
             </did>
           </c>
           <c id="aspace_ref41_nbr" level="file">
@@ -343,8 +342,8 @@
               <unittitle>Thackeray, Henry St. John</unittitle>
               <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_565cd3f28892b06c3ac7ec02dda2eef1" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_037b4dd6a87011ed1ad17bb8d05702c6" parent="aspace_565cd3f28892b06c3ac7ec02dda2eef1" type="Folder">23</container>
+              <container id="aspace_a9b0cc758f52b061d8aab0525e7f2273" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e6c6df09f007a3c883f367693c69d39e" parent="aspace_a9b0cc758f52b061d8aab0525e7f2273" type="Folder">23</container>
             </did>
           </c>
           <c id="aspace_ref42_wyw" level="file">
@@ -352,8 +351,8 @@
               <unittitle>Torrey, Charles C., </unittitle>
               <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_b405c2144a52d317c0f4c854c13536c1" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_04a18b4bc6d5679933d7b5c3cffaea72" parent="aspace_b405c2144a52d317c0f4c854c13536c1" type="Folder">24</container>
+              <container id="aspace_b95ded82ccf5f1397fe59d14c3853902" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1f8562243a0df34dd36e297acdbd5ce8" parent="aspace_b95ded82ccf5f1397fe59d14c3853902" type="Folder">24</container>
             </did>
           </c>
           <c id="aspace_ref43_1kd" level="file">
@@ -361,8 +360,8 @@
               <unittitle>Wagner-Tauber, Lina</unittitle>
               <unitdate datechar="creation" normal="1926/1928" type="inclusive">1926-1928</unitdate>
               <langmaterial><language langcode="ger">German</language>.</langmaterial>
-              <container id="aspace_304da65e59352080c6939ff354a91165" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2425f626a390488b7fc5fb2093dafbfa" parent="aspace_304da65e59352080c6939ff354a91165" type="Folder">25</container>
+              <container id="aspace_70081bfeb0e7dd2bb56d9710fc4ecd92" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6e4dca78f4a3aa63139d2306f1412422" parent="aspace_70081bfeb0e7dd2bb56d9710fc4ecd92" type="Folder">25</container>
             </did>
           </c>
           <c id="aspace_ref44_iy5" level="file">
@@ -370,8 +369,8 @@
               <unittitle>Wise, Jonah B.</unittitle>
               <unitdate datechar="creation" normal="1925/1926" type="inclusive">1925-1926</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_f43db25850a6fca77ac2754c71135667" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_b1c5ae423c22209836e687f50afe0c9f" parent="aspace_f43db25850a6fca77ac2754c71135667" type="Folder">26</container>
+              <container id="aspace_c0350fca1e2c6011e237867b99bd53f5" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_021d8dd1d66e48212d113ad523af08fb" parent="aspace_c0350fca1e2c6011e237867b99bd53f5" type="Folder">26</container>
             </did>
           </c>
           <c id="aspace_ref45_aa1" level="file">
@@ -379,8 +378,8 @@
               <unittitle>Four letters with illegible or incomplete signatures concerning the Jewish Institute of Religion Library or other J.I.R. business, </unittitle>
               <unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925 and undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_4640f29881ecdf468c0748854518bdce" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_81af0fc99665424cef1f4c2c275ea45d" parent="aspace_4640f29881ecdf468c0748854518bdce" type="Folder">27</container>
+              <container id="aspace_fa4aa58227027964a31f7dcb15793db9" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_fa8054dd6f50065773de354aca3b4382" parent="aspace_fa4aa58227027964a31f7dcb15793db9" type="Folder">27</container>
             </did>
           </c>
         </c>
@@ -398,8 +397,8 @@
               <unittitle>Brody, Ester, </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_759aabf4eb6c85fd555444787355d7c8" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_271ef9adf10c15e032ab263d3b5d393e" parent="aspace_759aabf4eb6c85fd555444787355d7c8" type="Folder">28</container>
+              <container id="aspace_e0f9e0796703c03ce4213fe088d66de2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_bbfefb4f8b073aed6559152dac4da004" parent="aspace_e0f9e0796703c03ce4213fe088d66de2" type="Folder">28</container>
             </did>
           </c>
           <c id="aspace_ref48_p64" level="file">
@@ -407,8 +406,8 @@
               <unittitle>Broido, Louis</unittitle>
               <unitdate datechar="creation" normal="1920/1921" type="inclusive">1920-1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8b7dd2e63a9f441076c13a7e611563e5" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_d9c89b366f75da37d9d4d712ba03748f" parent="aspace_8b7dd2e63a9f441076c13a7e611563e5" type="Folder">29</container>
+              <container id="aspace_6fcc9e7a3bcb8c5bddd4189fc92679df" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f6a0cd2403f1ba48b93520aa97de607c" parent="aspace_6fcc9e7a3bcb8c5bddd4189fc92679df" type="Folder">29</container>
             </did>
           </c>
           <c id="aspace_ref49_3l6" level="file">
@@ -416,8 +415,8 @@
               <unittitle>Ehrenreich, Bernard C., </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7ee341f5e1fe2400195e60e9ed2590c7" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_464f4d4e5c9028aa0561993f0201ebe8" parent="aspace_7ee341f5e1fe2400195e60e9ed2590c7" type="Folder">30</container>
+              <container id="aspace_01bfc26f10e251ab006079b541ac60c9" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f924b86b500a337cdc3e106775a1343e" parent="aspace_01bfc26f10e251ab006079b541ac60c9" type="Folder">30</container>
             </did>
           </c>
           <c id="aspace_ref50_man" level="file">
@@ -425,8 +424,8 @@
               <unittitle>Fleischer, Charles</unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_854c90a72b68f05a5c9703ea45b8eccb" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_3662e0f2c384754b224949f95aa7d1f5" parent="aspace_854c90a72b68f05a5c9703ea45b8eccb" type="Folder">31</container>
+              <container id="aspace_25d593da850f295d7489118f596c4bf0" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f16847fdd7c21d25a8579c0bea261511" parent="aspace_25d593da850f295d7489118f596c4bf0" type="Folder">31</container>
             </did>
           </c>
           <c id="aspace_ref51_dul" level="file">
@@ -434,8 +433,8 @@
               <unittitle>Frank, Rose L., </unittitle>
               <unitdate datechar="creation">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_eb8fd3fe9eeac250d36d4c51adba52b1" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cabd7aff7ab1c3d86dedb9d18b05ded8" parent="aspace_eb8fd3fe9eeac250d36d4c51adba52b1" type="Folder">32</container>
+              <container id="aspace_e04efc45994634b3da60222a41b01c37" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c4611ad20d6f27bf14aa6e7ade93ca1f" parent="aspace_e04efc45994634b3da60222a41b01c37" type="Folder">32</container>
             </did>
           </c>
           <c id="aspace_ref52_wdf" level="file">
@@ -443,8 +442,8 @@
               <unittitle>Freifeld, Samuel, </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_adf89315518b548dfeeca190f3f1d599" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_716294b5a82d674449cbf2c494bf71b6" parent="aspace_adf89315518b548dfeeca190f3f1d599" type="Folder">33</container>
+              <container id="aspace_7dbea4e487787326fec8dd63731db1a7" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_5990b934a16920f50e20b0889716823b" parent="aspace_7dbea4e487787326fec8dd63731db1a7" type="Folder">33</container>
             </did>
           </c>
           <c id="aspace_ref55_qyt" level="file">
@@ -452,8 +451,8 @@
               <unittitle>Guggenheimer, Fred L., </unittitle>
               <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_4467da9d67eb35fe65ba8657193e98d5" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_09ba7e5df5ca72255746839e4d9112dd" parent="aspace_4467da9d67eb35fe65ba8657193e98d5" type="Folder">34</container>
+              <container id="aspace_452bbba47a310cb45ffc04b002092e2f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7578cd2e096f10f40add756c66bf6609" parent="aspace_452bbba47a310cb45ffc04b002092e2f" type="Folder">34</container>
             </did>
           </c>
           <c id="aspace_ref53_1x3" level="file">
@@ -461,8 +460,8 @@
               <unittitle>Hirsch, Emil G., </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0ffe420182950aff928c914d8bf736ad" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_38557736f5c9dde97e21cc8f421898a7" parent="aspace_0ffe420182950aff928c914d8bf736ad" type="Folder">35</container>
+              <container id="aspace_a2966fbeb3565084f97e5adbcb7d5f1e" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_695b6431e6a86b562514b6b5d50adc47" parent="aspace_a2966fbeb3565084f97e5adbcb7d5f1e" type="Folder">35</container>
             </did>
           </c>
           <c id="aspace_ref54_581" level="file">
@@ -470,8 +469,8 @@
               <unittitle>Schiff, Jacob H., </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_213b7c41a43d29dec2c79b6ade416fa2" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_390b253084512eec9f2f657def9d2256" parent="aspace_213b7c41a43d29dec2c79b6ade416fa2" type="Folder">36</container>
+              <container id="aspace_ff0d4a659612576909aa984f0ce7731c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_56ab4158648cc540767e81797c2b3f9f" parent="aspace_ff0d4a659612576909aa984f0ce7731c" type="Folder">36</container>
             </did>
           </c>
           <c id="aspace_ref56_z4k" level="file">
@@ -479,15 +478,15 @@
               <unittitle>Seligman, Isaac N.</unittitle>
               <unitdate datechar="creation" normal="1907/1911" type="inclusive">1907-1911</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_11158c8bf99913788da0dd8cb512f3ee" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_450a572218fd1e678b25413b24e4f258" parent="aspace_11158c8bf99913788da0dd8cb512f3ee" type="Folder">37</container>
+              <container id="aspace_12e8dacb6e40ada3fa9e68f4fad304eb" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9776df3229ec4098bc2970d06fa7dfb0" parent="aspace_12e8dacb6e40ada3fa9e68f4fad304eb" type="Folder">37</container>
             </did>
           </c>
           <c id="aspace_ref206_yn1" level="file">
             <did>
               <unittitle>Straus, Oscar S.</unittitle>
-              <container id="aspace_1fc01a8fe008461ea4912f2afcdad3a7" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2e791329343b418284f212e32ad97632" parent="aspace_1fc01a8fe008461ea4912f2afcdad3a7" type="Folder">38</container>
+              <container id="aspace_c6b06904989e68b4300b8cebb27447ba" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_29afb7eaec24d0064453835bee9916a7" parent="aspace_c6b06904989e68b4300b8cebb27447ba" type="Folder">38</container>
             </did>
           </c>
           <c id="aspace_ref57_r3r" level="file">
@@ -495,8 +494,8 @@
               <unittitle>Swett, Isaac, </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_38b1887cc0edc4fcd42e27449f7d95f4" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_52c1aa749ffec1ce99be58b77dfe2583" parent="aspace_38b1887cc0edc4fcd42e27449f7d95f4" type="Folder">39</container>
+              <container id="aspace_3fb57f0fffc919228b982a08d80222c2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_99449d8cca7a70c0cd090719c233597a" parent="aspace_3fb57f0fffc919228b982a08d80222c2" type="Folder">39</container>
             </did>
           </c>
           <c id="aspace_ref58_ais" level="file">
@@ -504,8 +503,8 @@
               <unittitle>Weil, Isaac J., </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_c8c3c5b5aa4d0bb1434145d6e37033de" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_9df5e1c57f1a114c3a2bf666b199c490" parent="aspace_c8c3c5b5aa4d0bb1434145d6e37033de" type="Folder">40</container>
+              <container id="aspace_7cf56acf1f9d4395a35652e0e68cade1" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ac43e98af5a84180bdff2f761a9a3e20" parent="aspace_7cf56acf1f9d4395a35652e0e68cade1" type="Folder">40</container>
             </did>
           </c>
           <c id="aspace_ref59_f4l" level="file">
@@ -513,8 +512,8 @@
               <unittitle>Wise, Leo, </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_244825156a93c6fd1eabe31b48aad97f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_5f864a62c70b781a1c811c45fd5cd8cb" parent="aspace_244825156a93c6fd1eabe31b48aad97f" type="Folder">41</container>
+              <container id="aspace_fdf4b44c5a3638fbfcd52b6e9790e3c4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_d8df63df1a8592128237bcbc4871ae3c" parent="aspace_fdf4b44c5a3638fbfcd52b6e9790e3c4" type="Folder">41</container>
             </did>
           </c>
           <c id="aspace_ref60_oqb" level="file">
@@ -522,8 +521,8 @@
               <unittitle>Signature illegible, </unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_e96442cde7c9d6abfa3e7fc472b241f4" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_d40b25186f2307acbdaf225b5cd126c7" parent="aspace_e96442cde7c9d6abfa3e7fc472b241f4" type="Folder">42</container>
+              <container id="aspace_1c01479d9e5e4d658b782105747addb4" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_78b31f496f0a8377467f5984e84ee2a6" parent="aspace_1c01479d9e5e4d658b782105747addb4" type="Folder">42</container>
             </did>
           </c>
         </c>
@@ -541,8 +540,8 @@
               <unittitle>Keller, Max, </unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_622d6a712fb57c484f9c7d2b39ad05d4" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_6923d6852e8fb39d46f5a689c1681c19" parent="aspace_622d6a712fb57c484f9c7d2b39ad05d4" type="Folder">43</container>
+              <container id="aspace_ed6bc74e73fe29856f9cdd430e08e775" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_261f6b7bff13a17587895fd6edf72c11" parent="aspace_ed6bc74e73fe29856f9cdd430e08e775" type="Folder">43</container>
             </did>
           </c>
           <c id="aspace_ref63_2xl" level="file">
@@ -550,8 +549,8 @@
               <unittitle>Krass, Nathan, </unittitle>
               <unitdate datechar="creation">c. 1914-1918</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8bc828c791a622340dd668e34a0c4c55" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_00b81ffe435c207c301a945ca7df32bc" parent="aspace_8bc828c791a622340dd668e34a0c4c55" type="Folder">44</container>
+              <container id="aspace_cdf9bfc7bdb0a78da54535f653228be5" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_93f6832edb94e81b8d43c2e82fef2228" parent="aspace_cdf9bfc7bdb0a78da54535f653228be5" type="Folder">44</container>
             </did>
           </c>
           <c id="aspace_ref64_v4r" level="file">
@@ -559,8 +558,8 @@
               <unittitle>Gottheil, Richard, </unittitle>
               <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ff2883ae5c20e34bd594facb9153e231" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cf0caec6fa7cb0acabca03f9d279a6d9" parent="aspace_ff2883ae5c20e34bd594facb9153e231" type="Folder">45</container>
+              <container id="aspace_152a6e47c9446898e8624e3c8fa9aa52" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1827f744b0ebd9ec62d00f901eb5c8e3" parent="aspace_152a6e47c9446898e8624e3c8fa9aa52" type="Folder">45</container>
             </did>
             <odd id="aspace_efb56cdf96ed8908f084347164dc0867">
               <head>General</head>
@@ -572,8 +571,8 @@
               <unittitle>Kohut, George Alexander, </unittitle>
               <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d8e64931aa4ce84099d191b33b9c4d2d" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_107cf5d807bfda11cb11736c29e6f653" parent="aspace_d8e64931aa4ce84099d191b33b9c4d2d" type="Folder">46</container>
+              <container id="aspace_2eb1c135ae9316831405ae1c303d3ded" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_6e4744c15ba79a88a455c80b0f27ae7d" parent="aspace_2eb1c135ae9316831405ae1c303d3ded" type="Folder">46</container>
             </did>
           </c>
           <c id="aspace_ref66_vkz" level="file">
@@ -581,8 +580,8 @@
               <unittitle>Meyer, Martin A.</unittitle>
               <unitdate datechar="creation" normal="1917/1921" type="inclusive">1917, 1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_f3e9ef4eb09417792c77de8ade3e8155" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_38ab5ff5bd9741e6504f1d9120ee1966" parent="aspace_f3e9ef4eb09417792c77de8ade3e8155" type="Folder">47</container>
+              <container id="aspace_43e54d79d0d5422ef89060dc5018a9a3" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_56f4c9928a5836113cc7d4cfe287d16d" parent="aspace_43e54d79d0d5422ef89060dc5018a9a3" type="Folder">47</container>
             </did>
             <odd id="aspace_ca33c7be8d41b3b19b36f23ab2b2a07c">
               <head>General note</head>
@@ -594,8 +593,8 @@
               <unittitle>Wise, Leo, </unittitle>
               <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_cc6eb99d071cc0fbc9157d499f4b694a" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_89a0fafbc25002e3fc666a99c1b3ff28" parent="aspace_cc6eb99d071cc0fbc9157d499f4b694a" type="Folder">48</container>
+              <container id="aspace_e292093d401a302135e1ed090eecf43f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_dd4c85c4adc903c4836661d173d8e213" parent="aspace_e292093d401a302135e1ed090eecf43f" type="Folder">48</container>
             </did>
           </c>
         </c>
@@ -613,16 +612,16 @@
               <unittitle>Gottheil, Richard, </unittitle>
               <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8e3948ffd49d0fedc4c5e2767b136def" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_6a26673fb8ab273866b83d61083d33ee" parent="aspace_8e3948ffd49d0fedc4c5e2767b136def" type="Folder">49</container>
+              <container id="aspace_c3d8627eb0d2df9ac8d5294b5057e2b6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_dfd1f2e4d3804823f28530b5e0de864a" parent="aspace_c3d8627eb0d2df9ac8d5294b5057e2b6" type="Folder">49</container>
             </did>
           </c>
           <c id="aspace_ref75_saa" level="file">
             <did>
               <unittitle>Weisgal, Meyer W., </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
-              <container id="aspace_22242f314c27d8d4a49b6a4c2ee448fd" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_f98d413fe6e018f92eb7065580228f1e" parent="aspace_22242f314c27d8d4a49b6a4c2ee448fd" type="Folder">50</container>
+              <container id="aspace_be29bf1fb1852b49993537b2a856e828" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1770b55fd0b00b58b0614b1a83f3a039" parent="aspace_be29bf1fb1852b49993537b2a856e828" type="Folder">50</container>
             </did>
           </c>
           <c id="aspace_ref76_vv0" level="file">
@@ -630,8 +629,8 @@
               <unittitle>Wise, Leo, </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_2df8d2c407d9c2189ee2a002ee768012" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_e652bdc7f4817de65488d536e1488b37" parent="aspace_2df8d2c407d9c2189ee2a002ee768012" type="Folder">51</container>
+              <container id="aspace_956364ed1d967008e5924e23038cee16" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1610f8aa3333e843b193cd128af74740" parent="aspace_956364ed1d967008e5924e23038cee16" type="Folder">51</container>
             </did>
           </c>
         </c>
@@ -646,8 +645,8 @@
               <unittitle>American Jewish Congress</unittitle>
               <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953  </unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_19613d2dd1346bc94d856d395c84d0b7" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_943a4d27ebbd62532489b76a318847c7" parent="aspace_19613d2dd1346bc94d856d395c84d0b7" type="Folder">52</container>
+              <container id="aspace_b1cfab6f2b5b04e358d3364b6c976889" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_281405b8777db7ee522a810160a7339f" parent="aspace_b1cfab6f2b5b04e358d3364b6c976889" type="Folder">52</container>
             </did>
             <odd id="aspace_44cf6d272c3a194b41f212fd94e186e9">
               <head>General note</head>
@@ -659,8 +658,8 @@
               <unittitle>Newton D. Baker,  </unittitle>
               <unitdate datechar="creation" normal="1920/1921" type="inclusive">1920-19211</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_80915f3500642fff9dc64d2ccc679ec6" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_6e4b490779f5b337278d388846a4620e" parent="aspace_80915f3500642fff9dc64d2ccc679ec6" type="Folder">53</container>
+              <container id="aspace_ff93760f20903de70d58cd375a2abe25" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_634d30ad820ba31728cdb37954a4086b" parent="aspace_ff93760f20903de70d58cd375a2abe25" type="Folder">53</container>
             </did>
             <odd id="aspace_038759e74005ae439432727a3d15ed9c">
               <head>General note</head>
@@ -672,8 +671,8 @@
               <unittitle>Billikopf, Jacob</unittitle>
               <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ccf4f6ceaeb020cc3fe020dc86bec908" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_db00bf0587516e0d0867f45c13ea0450" parent="aspace_ccf4f6ceaeb020cc3fe020dc86bec908" type="Folder">54</container>
+              <container id="aspace_cca9f1ef98f6d8c583cf1dabf67e923c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_60aa4851a76d49f9c3539c3f2256a259" parent="aspace_cca9f1ef98f6d8c583cf1dabf67e923c" type="Folder">54</container>
             </did>
             <odd id="aspace_65e795a475634d524faf46946e6b69fc">
               <head>General note</head>
@@ -685,8 +684,8 @@
               <unittitle>Borah, William E., </unittitle>
               <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0ecc75f4bcb1905a6045f85f434096f3" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_ca51dfdad1f545ab022b2108af45a7aa" parent="aspace_0ecc75f4bcb1905a6045f85f434096f3" type="Folder">55</container>
+              <container id="aspace_8ffdccfb2fa1db24f545f2a533afb84a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_772c6f82e43c0dcb00653c446015549a" parent="aspace_8ffdccfb2fa1db24f545f2a533afb84a" type="Folder">55</container>
             </did>
           </c>
           <c id="aspace_ref78_143" level="file">
@@ -694,8 +693,8 @@
               <unittitle>Deutsch, Gotthard, </unittitle>
               <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_18d7166be521263d330f7e7e30be84ac" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_e0ed019518f63381d0c38c535237bb2b" parent="aspace_18d7166be521263d330f7e7e30be84ac" type="Folder">56</container>
+              <container id="aspace_baa3246bd45cc78dfbbc0a062008101e" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_0c53a35e19f0d7cbd2ebae6a6c4a577b" parent="aspace_baa3246bd45cc78dfbbc0a062008101e" type="Folder">56</container>
             </did>
             <odd id="aspace_92ee5a202c70653710223f5e4f447f82">
               <head>General note</head>
@@ -707,8 +706,8 @@
               <unittitle>Fosdick, Raymond B., </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_5b3a1f4feb06e98447ad2dd63996c03b" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_5b95d4a2e6c31f334b5b7d7296d0c84e" parent="aspace_5b3a1f4feb06e98447ad2dd63996c03b" type="Folder">57</container>
+              <container id="aspace_ea477065357929dee717ca2c38809990" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_5ecfa62f4923e4bcee29feb53c5a9a9a" parent="aspace_ea477065357929dee717ca2c38809990" type="Folder">57</container>
             </did>
             <odd id="aspace_dd6f86bd091e0840f75770c4edb69caa">
               <head>General note</head>
@@ -720,8 +719,8 @@
               <unittitle>Fritz, Edward M.</unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917  </unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8662d387dac4893bcdda23630fc1b5ba" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2aed5233ae94bf603c086cc05df9f989" parent="aspace_8662d387dac4893bcdda23630fc1b5ba" type="Folder">58</container>
+              <container id="aspace_5695e2699f7dcec41908d8b2cef5b3b2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_28afb316e1cd5d203bb57b8a80e05ec7" parent="aspace_5695e2699f7dcec41908d8b2cef5b3b2" type="Folder">58</container>
             </did>
             <odd id="aspace_28b480c780eb97aa7ca7ba4a18e9c00d">
               <head>General note</head>
@@ -733,8 +732,8 @@
               <unittitle>Kahn, Otto H.</unittitle>
               <unitdate datechar="creation">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_934b3dc700d30b4c23fdbec82cbda783" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_b3fe3b3c47784e7fa951f4cd111ed2f1" parent="aspace_934b3dc700d30b4c23fdbec82cbda783" type="Folder">59</container>
+              <container id="aspace_5c56c2da092484e99bcced705abf84a2" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_3b2ed0ea01e7969fc76b82c1bf14c64c" parent="aspace_5c56c2da092484e99bcced705abf84a2" type="Folder">59</container>
             </did>
           </c>
           <c id="aspace_ref82_aip" level="file">
@@ -742,8 +741,8 @@
               <unittitle>Knecht, Marcel, </unittitle>
               <unitdate datechar="creation">1917 and undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_dec23456445edb6e8a7966dd0a471d29" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2fbdb572ea921eb80f1edf30765e49dc" parent="aspace_dec23456445edb6e8a7966dd0a471d29" type="Folder">60</container>
+              <container id="aspace_0801533e502810680bd97bfca9bc609b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_48bce691e9d1ac14a0f9821eda0fd184" parent="aspace_0801533e502810680bd97bfca9bc609b" type="Folder">60</container>
             </did>
           </c>
           <c id="aspace_ref83_agr" level="file">
@@ -751,8 +750,8 @@
               <unittitle>Lawrence, David, </unittitle>
               <unitdate datechar="creation">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_fcba0e395813e486c9a297ae393c3657" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8582eda413fc9dfa0a599e604596163a" parent="aspace_fcba0e395813e486c9a297ae393c3657" type="Folder">61</container>
+              <container id="aspace_bb132c6dcefedc4eaffe165720a2e047" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_63d35a17b2f284fb643e95ca9f6ee9ec" parent="aspace_bb132c6dcefedc4eaffe165720a2e047" type="Folder">61</container>
             </did>
           </c>
           <c id="aspace_ref84_r5p" level="file">
@@ -760,8 +759,8 @@
               <unittitle>Lyons, Leo J.</unittitle>
               <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_90d0be776af8a7d8df27d45fd5c12076" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_0d29ee5facf5b1788f6ca4af2d903ce2" parent="aspace_90d0be776af8a7d8df27d45fd5c12076" type="Folder">62</container>
+              <container id="aspace_61a73f34d84bb1578e1741578f35275f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_213203f38881ef5200382a1a3f45d093" parent="aspace_61a73f34d84bb1578e1741578f35275f" type="Folder">62</container>
             </did>
           </c>
           <c id="aspace_ref85_k5d" level="file">
@@ -769,8 +768,8 @@
               <unittitle>Montague, Richard W.</unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_1a7cfdae4e011527f806c76d44b3c273" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_dbe276cfb1dab290b980ef2fde531e7d" parent="aspace_1a7cfdae4e011527f806c76d44b3c273" type="Folder">63</container>
+              <container id="aspace_7145594a190957d2ad7b845436d3d414" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_554c01051bd6ec796ab9e935a104377a" parent="aspace_7145594a190957d2ad7b845436d3d414" type="Folder">63</container>
             </did>
           </c>
           <c id="aspace_ref86_h7s" level="file">
@@ -778,8 +777,8 @@
               <unittitle>Putnam, Irving, </unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d5a841d507566f8078d83929cfa44d8f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_1e9e60f87d394ae565aba10716300b7d" parent="aspace_d5a841d507566f8078d83929cfa44d8f" type="Folder">64</container>
+              <container id="aspace_6fb459bec3e75ff882ef70d2189b6144" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7d6948ee937ee9194836590acf803a64" parent="aspace_6fb459bec3e75ff882ef70d2189b6144" type="Folder">64</container>
             </did>
           </c>
           <c id="aspace_ref87_rgn" level="file">
@@ -787,8 +786,8 @@
               <unittitle>Schiff, Jacob H., </unittitle>
               <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d6010bbf117010d665237748b4776637" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_440ed089fe84aedb095581d876e7fbd6" parent="aspace_d6010bbf117010d665237748b4776637" type="Folder">65</container>
+              <container id="aspace_01caaa07f3c61cdfe0c4a00a479e794a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_ab22a13be1bd38110466903acbcd23f8" parent="aspace_01caaa07f3c61cdfe0c4a00a479e794a" type="Folder">65</container>
             </did>
           </c>
           <c id="aspace_ref88_o5g" level="file">
@@ -796,8 +795,8 @@
               <unittitle>Simon, John,  </unittitle>
               <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_6a2c568bfa6ee1ef4a00144020ca871c" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_322fe3b1c8459c9bbb0980c465e359ae" parent="aspace_6a2c568bfa6ee1ef4a00144020ca871c" type="Folder">66</container>
+              <container id="aspace_23c161e5c8fced15c0d18b23b11de3e3" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_79733282e329c68e5d9207f06a2ff4be" parent="aspace_23c161e5c8fced15c0d18b23b11de3e3" type="Folder">66</container>
             </did>
           </c>
           <c id="aspace_ref89_8c4" level="file">
@@ -805,8 +804,8 @@
               <unittitle>Singer, Jules B.,   </unittitle>
               <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_3d74f009239e7c6fe2ba26dcf944ec99" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_1c39e3ee2461cfc91e95a2def639ed31" parent="aspace_3d74f009239e7c6fe2ba26dcf944ec99" type="Folder">67</container>
+              <container id="aspace_272216df6ec067d0376b1a12e6a43989" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_346f2adb6dd1e9843e192917b04087c6" parent="aspace_272216df6ec067d0376b1a12e6a43989" type="Folder">67</container>
             </did>
           </c>
           <c id="aspace_ref90_uw0" level="file">
@@ -814,8 +813,8 @@
               <unittitle>Straus, Lina and Nathan</unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_96c71020f865a0e2dc3cf8988c24d923" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_b52b264d22ca27cdd52318fb9f14cd53" parent="aspace_96c71020f865a0e2dc3cf8988c24d923" type="Folder">68</container>
+              <container id="aspace_dd9d2876ed26d8a19a6943990a396a09" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c0500898d2f79f4df12d42153dba58d2" parent="aspace_dd9d2876ed26d8a19a6943990a396a09" type="Folder">68</container>
             </did>
           </c>
           <c id="aspace_ref91_n4b" level="file">
@@ -823,8 +822,8 @@
               <unittitle>Wise, Jonah B., </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8d6095583ffde63b32a4ea1cf17ebd38" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cfefafc1adea426ac7ca5186dce30d37" parent="aspace_8d6095583ffde63b32a4ea1cf17ebd38" type="Folder">69</container>
+              <container id="aspace_12204eba0bb503734638f9e64ef7c52f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_1b906494f28c0817c59b3b823b88903c" parent="aspace_12204eba0bb503734638f9e64ef7c52f" type="Folder">69</container>
             </did>
           </c>
           <c id="aspace_ref92_aox" level="file">
@@ -832,8 +831,8 @@
               <unittitle>Illegible or lost signatures</unittitle>
               <unitdate datechar="creation" normal="1909/1920" type="inclusive">1909-1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_2696571f28040589d7ce770c62521be7" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_bb1018c49d9b8321f43ade77803d1f6e" parent="aspace_2696571f28040589d7ce770c62521be7" type="Folder">70</container>
+              <container id="aspace_ea56dc8514f8d0d24e32826d2a001b1b" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_cf4f18efc6df3d2a9d97ee62d862f2b5" parent="aspace_ea56dc8514f8d0d24e32826d2a001b1b" type="Folder">70</container>
             </did>
           </c>
         </c>
@@ -847,8 +846,8 @@
               <unittitle>Brooks, William H., </unittitle>
               <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_6a0db85ecfe61326aedc1acd32193a02" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_265f78a96a0d109812fa4f5021c909e0" parent="aspace_6a0db85ecfe61326aedc1acd32193a02" type="Folder">71</container>
+              <container id="aspace_a5e8998e419d4d91dc617eb6e2cc0fba" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_711f85858b0e31584548ab85521d30ca" parent="aspace_a5e8998e419d4d91dc617eb6e2cc0fba" type="Folder">71</container>
             </did>
           </c>
           <c id="aspace_ref95_1nz" level="file">
@@ -856,8 +855,8 @@
               <unittitle>Grosvenor, William M., </unittitle>
               <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_547f3378b16dea8545a15cb1a3aeae99" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_fad8c5c76ecb06ef048c57906f4950b4" parent="aspace_547f3378b16dea8545a15cb1a3aeae99" type="Folder">72</container>
+              <container id="aspace_3c292f6b5c687bd555a68d74be200d58" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2c6a0027180aab6b80c64a9290866352" parent="aspace_3c292f6b5c687bd555a68d74be200d58" type="Folder">72</container>
             </did>
           </c>
           <c id="aspace_ref96_c60" level="file">
@@ -865,8 +864,8 @@
               <unittitle>Lockhart, Arthur, </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d5a1b1aaa7fd33f5a571ca8bfab70d0f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_a6075e74f2042a4e633d55030ed24fa0" parent="aspace_d5a1b1aaa7fd33f5a571ca8bfab70d0f" type="Folder">73</container>
+              <container id="aspace_ae56069107b6a76d32ae6efcbf52ea4c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_77e06e51362219008ffd06abae6dbec1" parent="aspace_ae56069107b6a76d32ae6efcbf52ea4c" type="Folder">73</container>
             </did>
           </c>
           <c id="aspace_ref97_k3g" level="file">
@@ -874,8 +873,8 @@
               <unittitle>Macdonald, George</unittitle>
               <unitdate datechar="creation">No year given</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_3635996241cf660a3524980baa990b6f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_14f9cfa397cc2633a6afa1595bd8c147" parent="aspace_3635996241cf660a3524980baa990b6f" type="Folder">74</container>
+              <container id="aspace_c0293b4f934ad96066acbc9a7a897ef5" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9e8e0ed308c677d76e5288594ceee8c0" parent="aspace_c0293b4f934ad96066acbc9a7a897ef5" type="Folder">74</container>
             </did>
           </c>
           <c id="aspace_ref98_qhd" level="file">
@@ -883,8 +882,8 @@
               <unittitle>Manning, William T.,  </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_3d0607a0ab3feca5e1d2c7f25accc741" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_7872ebb20ad9b1bf9b98dca37341de68" parent="aspace_3d0607a0ab3feca5e1d2c7f25accc741" type="Folder">75</container>
+              <container id="aspace_ee3e998c1ceb000706788d4ef22fd64a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_aa5335df4042e153923cd36b8c182089" parent="aspace_ee3e998c1ceb000706788d4ef22fd64a" type="Folder">75</container>
             </did>
           </c>
           <c id="aspace_ref99_0b3" level="file">
@@ -892,8 +891,8 @@
               <unittitle>Ullo, Lorenzo, </unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_b407acbcba3967af8b29fbad1515f1aa" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_59d94af35d83f0499d3ac81f647ddbb4" parent="aspace_b407acbcba3967af8b29fbad1515f1aa" type="Folder">76</container>
+              <container id="aspace_07f1ad964fb35a3bb2647c00f44e4a9c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_73cd160bf1786ee9f1f1a90c86764c41" parent="aspace_07f1ad964fb35a3bb2647c00f44e4a9c" type="Folder">76</container>
             </did>
           </c>
           <c id="aspace_ref100_2k5" level="file">
@@ -901,8 +900,8 @@
               <unittitle>Williams, Charles D.,  </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_ecc7fb05b5082e0c58d17ad0b6f39180" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_ab217ccfe4096f11c7ee6af50ba98f21" parent="aspace_ecc7fb05b5082e0c58d17ad0b6f39180" type="Folder">77</container>
+              <container id="aspace_bbea31a3934beb783ddfa68b2c72ce1c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b8fbd35b52466d7eb283f12ee7dd5bf4" parent="aspace_bbea31a3934beb783ddfa68b2c72ce1c" type="Folder">77</container>
             </did>
           </c>
           <c id="aspace_ref101_i32" level="file">
@@ -910,8 +909,8 @@
               <unittitle>Illegible signature</unittitle>
               <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_8ae9028de7c7655fb5ec409f979fede7" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8f02870fedac89cb4c2405c2e43dabd1" parent="aspace_8ae9028de7c7655fb5ec409f979fede7" type="Folder">78</container>
+              <container id="aspace_103460dd542749c51fc18e87141a4724" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_4573a2d5a1b049196e70f18b3e5e2087" parent="aspace_103460dd542749c51fc18e87141a4724" type="Folder">78</container>
             </did>
           </c>
         </c>
@@ -926,8 +925,8 @@
               <unittitle>Bates, Katharine Lee, </unittitle>
               <unitdate datechar="creation" normal="1920/1920" type="inclusive">1920</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d0b1f5f6d8862f60b909ef9c1784c83b" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_5ca00e107076d65132d854a9a4196bb8" parent="aspace_d0b1f5f6d8862f60b909ef9c1784c83b" type="Folder">79</container>
+              <container id="aspace_b866b5c8a2b1e97012a9bb2cfad5a5aa" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_114ca65504ac06808529c561002f38d6" parent="aspace_b866b5c8a2b1e97012a9bb2cfad5a5aa" type="Folder">79</container>
             </did>
           </c>
           <c id="aspace_ref104_xhj" level="file">
@@ -935,8 +934,8 @@
               <unittitle>Ben-Avi, Ittamar</unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-              <container id="aspace_4d8f4df900f4e69ade22d288ec95aa0b" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_a884eae01ae6ba2a609b8bdfba7ab1fd" parent="aspace_4d8f4df900f4e69ade22d288ec95aa0b" type="Folder">80</container>
+              <container id="aspace_b5a14a8fdf3067e76f0f0ab0f994d37f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_41d0316faf4b127f84ef224a100a15ed" parent="aspace_b5a14a8fdf3067e76f0f0ab0f994d37f" type="Folder">80</container>
             </did>
           </c>
           <c id="aspace_ref105_egx" level="file">
@@ -944,8 +943,8 @@
               <unittitle>Brandeis, Louis, D.,  </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7e944c0338e67eb7eff47e2d2be83206" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_c29fe042c09fdf02cff02150fcbc2d8a" parent="aspace_7e944c0338e67eb7eff47e2d2be83206" type="Folder">81</container>
+              <container id="aspace_acb99b708f7250a46206b22402a66cfa" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_7bce45a6f79ddbf372df8907451bd7ad" parent="aspace_acb99b708f7250a46206b22402a66cfa" type="Folder">81</container>
             </did>
           </c>
           <c id="aspace_ref106_54h" level="file">
@@ -953,8 +952,8 @@
               <unittitle>Buber, Martin and Wilhelm, Y.D., </unittitle>
               <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
               <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-              <container id="aspace_f90e670172979dda6e83cfde037fc109" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_db5a94b4a64113a43f8bb60f2cab8e0e" parent="aspace_f90e670172979dda6e83cfde037fc109" type="Folder">82</container>
+              <container id="aspace_d8127af7ea91588c3d798439b280e45c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_8a4b95cf495e4143a2809f85431b3a61" parent="aspace_d8127af7ea91588c3d798439b280e45c" type="Folder">82</container>
             </did>
           </c>
           <c id="aspace_ref107_huf" level="file">
@@ -962,8 +961,8 @@
               <unittitle>Davidson, (No First Name)</unittitle>
               <unitdate datechar="creation" normal="1908/1908" type="inclusive">1908 </unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7a9b71a12cf6f4c52e3c1809aebb0659" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_cad17249890de4558c26dcb93814aa6c" parent="aspace_7a9b71a12cf6f4c52e3c1809aebb0659" type="Folder">83</container>
+              <container id="aspace_e453e00d5a08c270cfb0cdc0296e44a6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_e8ab54a223b4c8d31b0cb9ae8dc02fa3" parent="aspace_e453e00d5a08c270cfb0cdc0296e44a6" type="Folder">83</container>
             </did>
           </c>
           <c id="aspace_ref108_78h" level="file">
@@ -971,8 +970,8 @@
               <unittitle>Ehrlich, Arnold B., </unittitle>
               <unitdate datechar="creation" normal="1905/1905" type="inclusive">1905</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_a2f5727ca45a4178713d05ace2df4984" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_d3f1daf8e5ecefc32d0f9ca762f96ea2" parent="aspace_a2f5727ca45a4178713d05ace2df4984" type="Folder">84</container>
+              <container id="aspace_0b65dada5d849e4e2b748c15950a6574" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2d0b034984ba078376ed7996ef52a595" parent="aspace_0b65dada5d849e4e2b748c15950a6574" type="Folder">84</container>
             </did>
           </c>
           <c id="aspace_ref109_uiz" level="file">
@@ -980,8 +979,8 @@
               <unittitle>Margolis, Max L.</unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0756aefa78b7f9475213e8e746ac9228" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_53f8d04688ce8f708f270846f191fd2a" parent="aspace_0756aefa78b7f9475213e8e746ac9228" type="Folder">85</container>
+              <container id="aspace_f39519352033ece59b44ea69d5afead6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_34cb1104a0bf7a12afbe72ea4a404675" parent="aspace_f39519352033ece59b44ea69d5afead6" type="Folder">85</container>
             </did>
           </c>
           <c id="aspace_ref110_6mi" level="file">
@@ -989,8 +988,8 @@
               <unittitle>Obermann, Julian, </unittitle>
               <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_b5bb8eead851a2930582a03621abea3d" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_889b631393b80638d2119bc017467d48" parent="aspace_b5bb8eead851a2930582a03621abea3d" type="Folder">86</container>
+              <container id="aspace_7220e0cbf05ee22c1e508b183faf3faf" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_c6538b2cce3741983f374cb6f84e7b97" parent="aspace_7220e0cbf05ee22c1e508b183faf3faf" type="Folder">86</container>
             </did>
           </c>
           <c id="aspace_ref111_47j" level="file">
@@ -998,8 +997,8 @@
               <unittitle>O'Kane, Walter C., </unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_1cfba9505318f8e919ea2bede7ee780c" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8be0f8a2eff2aa02c1c296024d5f2449" parent="aspace_1cfba9505318f8e919ea2bede7ee780c" type="Folder">87</container>
+              <container id="aspace_63975385af6eab178361aa4bc7aa0d0c" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9ced5cf1f607e2294ce0bf1ae025a80b" parent="aspace_63975385af6eab178361aa4bc7aa0d0c" type="Folder">87</container>
             </did>
           </c>
           <c id="aspace_ref112_zfg" level="file">
@@ -1007,8 +1006,8 @@
               <unittitle>Richards, Bernard G., </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_47450e4e26de311b54fb6f80611264aa" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_dc9c9638b0d5ac231fbd538b2032fbad" parent="aspace_47450e4e26de311b54fb6f80611264aa" type="Folder">88</container>
+              <container id="aspace_a39d4604351702e778405b6099a23972" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_89d800fc0926418dfe291a678d47ad97" parent="aspace_a39d4604351702e778405b6099a23972" type="Folder">88</container>
             </did>
           </c>
           <c id="aspace_ref113_jii" level="file">
@@ -1016,8 +1015,8 @@
               <unittitle>Ross, G.A. Johnston, </unittitle>
               <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_c9fcdaf9fc49984f29492fcae768c1bd" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_631f97f855df856b76f8dfb624c8eec5" parent="aspace_c9fcdaf9fc49984f29492fcae768c1bd" type="Folder">89</container>
+              <container id="aspace_279ab712349b2c40d6ef8809c784673f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_bff22bef1e0b3cb5ba943c9019897704" parent="aspace_279ab712349b2c40d6ef8809c784673f" type="Folder">89</container>
             </did>
           </c>
           <c id="aspace_ref114_4p7" level="file">
@@ -1025,8 +1024,8 @@
               <unittitle>Incomplete Signature: "R.W.M.", </unittitle>
               <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_11fd09772a2093648a530392428d91f8" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_190c7430c420144b62152a20d4cc7217" parent="aspace_11fd09772a2093648a530392428d91f8" type="Folder">90</container>
+              <container id="aspace_d5e74206ec88bb8f3dbae3e588a275d9" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_a538ab3590b985257053ec9bf778780e" parent="aspace_d5e74206ec88bb8f3dbae3e588a275d9" type="Folder">90</container>
             </did>
           </c>
         </c>
@@ -1040,8 +1039,8 @@
               <unittitle>Mack, (first name lost) W., </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_64d539e29fadd6b05caa8b91862fc86a" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_19811e40d7ad54a8b8c27dd355ee258f" parent="aspace_64d539e29fadd6b05caa8b91862fc86a" type="Folder">91</container>
+              <container id="aspace_43c821ac237b0a56f311ee038c930a99" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_f8e3e58c688afa7b820c54f0268b2d2a" parent="aspace_43c821ac237b0a56f311ee038c930a99" type="Folder">91</container>
             </did>
           </c>
           <c id="aspace_ref117_vw8" level="file">
@@ -1049,8 +1048,8 @@
               <unittitle>Ranson, Marius, </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_a0d4844ba4c381c6e1543ec864744f2c" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_2dee46f1a09171733cb2b99f6d224137" parent="aspace_a0d4844ba4c381c6e1543ec864744f2c" type="Folder">92</container>
+              <container id="aspace_900d3c9c35cb12ea76fbe66477d94b05" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_bd287b31b2b358c04592793150c0733c" parent="aspace_900d3c9c35cb12ea76fbe66477d94b05" type="Folder">92</container>
             </did>
           </c>
           <c id="aspace_ref118_yxz" level="file">
@@ -1058,8 +1057,8 @@
               <unittitle>Stern, Richard M., </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_669cc3ccc1f07f38fc3204cb0efa7433" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_11946e70b33101895681fd3a538837e7" parent="aspace_669cc3ccc1f07f38fc3204cb0efa7433" type="Folder">93</container>
+              <container id="aspace_575d68ba08b1e2cd6fb07b6f3eda8e6a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_4a5a5c647fcd09af7608d3f589662354" parent="aspace_575d68ba08b1e2cd6fb07b6f3eda8e6a" type="Folder">93</container>
             </did>
           </c>
           <c id="aspace_ref119_l9p" level="file">
@@ -1067,8 +1066,8 @@
               <unittitle>Straus, Nathan, </unittitle>
               <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_668010bc5afd6c642145a6b52b37e59d" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_907f4307f40156cf9a0ecd50d32080a9" parent="aspace_668010bc5afd6c642145a6b52b37e59d" type="Folder">94</container>
+              <container id="aspace_dcc93fd0ceab036cabb52d6509bc7b1d" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_5a9523f856ab834c13d7f01c01eb1f97" parent="aspace_dcc93fd0ceab036cabb52d6509bc7b1d" type="Folder">94</container>
             </did>
           </c>
           <c id="aspace_ref120_6uw" level="file">
@@ -1076,8 +1075,8 @@
               <unittitle>Wiezmann and Stein</unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_91c44d7018be44cc5482fcf1d5818e1f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_23c5dcee122976097d514a7ea6af307c" parent="aspace_91c44d7018be44cc5482fcf1d5818e1f" type="Folder">95</container>
+              <container id="aspace_36c2badf1fb79547af8a076f9fb3734f" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9a5ce857398dc2d9ef59846fed3961d8" parent="aspace_36c2badf1fb79547af8a076f9fb3734f" type="Folder">95</container>
             </did>
           </c>
           <c id="aspace_ref121_csx" level="file">
@@ -1085,8 +1084,8 @@
               <unittitle>Wise, Leo, </unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0110ba68372fd75da5100a7f9642dbdd" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_a9e96951663a48603322950fc053eb15" parent="aspace_0110ba68372fd75da5100a7f9642dbdd" type="Folder">96</container>
+              <container id="aspace_250289ef734a88a3af1ef73313136233" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_be4ab73d32f6d7eb346971d5971659c5" parent="aspace_250289ef734a88a3af1ef73313136233" type="Folder">96</container>
             </did>
           </c>
           <c id="aspace_ref122_y0m" level="file">
@@ -1094,8 +1093,8 @@
               <unittitle>Wise, Louise Waterman</unittitle>
               <unitdate datechar="creation">c. 1913</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_12b16455d60d3cfab19a4c976e046c21" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_e9a5d5fc43bfedbfa4930b391c241d90" parent="aspace_12b16455d60d3cfab19a4c976e046c21" type="Folder">97</container>
+              <container id="aspace_8a963f8b14734fc03d06219eff4de07a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_50013f326fd06c2834ebe2a538574e3f" parent="aspace_8a963f8b14734fc03d06219eff4de07a" type="Folder">97</container>
             </did>
           </c>
           <c id="aspace_ref123_pd9" level="file">
@@ -1103,8 +1102,8 @@
               <unittitle>Wise, James W.</unittitle>
               <unitdate datechar="creation">1909 - c. 1913</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_a1069a63e647acfe430c79e4f95dd93c" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_d9a275a118d4d2a2dcde0c744d46a11d" parent="aspace_a1069a63e647acfe430c79e4f95dd93c" type="Folder">98</container>
+              <container id="aspace_17ce4a3aaa1dede13d0138ef57a43db6" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_b0a4738bf5a42893a903a73329061598" parent="aspace_17ce4a3aaa1dede13d0138ef57a43db6" type="Folder">98</container>
             </did>
           </c>
           <c id="aspace_ref124_4l8" level="file">
@@ -1112,8 +1111,8 @@
               <unittitle>Wise, Justine</unittitle>
               <unitdate datechar="creation" normal="1909/1910" type="inclusive">1909-1910 and undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_37bf18bc1e7857efa163b1b9b378bfec" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_8f574a97ba22d4a35c12df2f07930063" parent="aspace_37bf18bc1e7857efa163b1b9b378bfec" type="Folder">99</container>
+              <container id="aspace_d5669e951ae52e275ceeb406f193f654" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_2bedf5f7260b6193366b26f08774566c" parent="aspace_d5669e951ae52e275ceeb406f193f654" type="Folder">99</container>
             </did>
           </c>
           <c id="aspace_ref125_094" level="file">
@@ -1121,8 +1120,8 @@
               <unittitle>Illegible signature</unittitle>
               <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_dee04d325faf67e78ac296df5b664f5e" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_b78a2fc59ba564f70930933cb8bd050b" parent="aspace_dee04d325faf67e78ac296df5b664f5e" type="Folder">100</container>
+              <container id="aspace_fe09740d6d5631c3c774965eab8a9338" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_348b32438c5b5c45878589341c12705f" parent="aspace_fe09740d6d5631c3c774965eab8a9338" type="Folder">100</container>
             </did>
           </c>
         </c>
@@ -1136,8 +1135,8 @@
               <unittitle>Gutmann (No First Name)</unittitle>
               <unitdate datechar="creation">c. 1907</unitdate>
               <langmaterial><language langcode="ger">German</language>.</langmaterial>
-              <container id="aspace_9fea22d83c940de20067d98543dd5192" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_a0236888484712e4f7af1cdba42fe5e6" parent="aspace_9fea22d83c940de20067d98543dd5192" type="Folder">101</container>
+              <container id="aspace_ded8e349c66007f25fa80c11db1a2ffc" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_057128bc5ce0d9441ab55936f5927109" parent="aspace_ded8e349c66007f25fa80c11db1a2ffc" type="Folder">101</container>
             </did>
           </c>
           <c id="aspace_ref128_5ih" level="file">
@@ -1145,8 +1144,8 @@
               <unittitle>Signature illegible- possibly Spak, S. F.</unittitle>
               <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
               <langmaterial><language langcode="ger">German</language>.</langmaterial>
-              <container id="aspace_479cc6c91101552843aca388db52d74f" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_07c40471dd93071af1c70ae5dfede613" parent="aspace_479cc6c91101552843aca388db52d74f" type="Folder">102</container>
+              <container id="aspace_50e2f96264c96e135b4cb7596c85802e" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_44a33330604c443f36cc38f3eeb46363" parent="aspace_50e2f96264c96e135b4cb7596c85802e" type="Folder">102</container>
             </did>
           </c>
           <c id="aspace_ref129_9gs" level="file">
@@ -1154,8 +1153,8 @@
               <unittitle>Illegible signature</unittitle>
               <unitdate datechar="creation">Undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d6137cfa79f620a1dab50c5c0add94bf" label="Mixed Materials" type="Box">1</container>
-              <container id="aspace_12e57a14fb5efb859f2ec55ecbaff60d" parent="aspace_d6137cfa79f620a1dab50c5c0add94bf" type="Folder">103</container>
+              <container id="aspace_f82b64c6473f44f30326e8f7e85c767a" label="Mixed Materials" type="Box">1</container>
+              <container id="aspace_9894c344b43bdebff4b3831cfc93d7e6" parent="aspace_f82b64c6473f44f30326e8f7e85c767a" type="Folder">103</container>
             </did>
           </c>
         </c>
@@ -1167,7 +1166,7 @@
           <unitdate datechar="creation" normal="1910/1977" type="inclusive">1910-1977</unitdate>
           <unitdate datechar="creation" normal="1910/1940" type="bulk">1910-1940</unitdate>
           <physdesc id="aspace_521f3f71f8408c5fa3698d6b31a408e7" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_74f20aad8e74283da7da51aca8970882" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_dd09fda932947161bd1a2e5b63f5f5c8" label="Mixed Materials" type="Box">2</container>
         </did>
         <scopecontent id="aspace_a90ebbf92c7a352db4a1962fca7766fe">
           <head>Scope and Contents note</head>
@@ -1185,8 +1184,8 @@
               <unittitle>Diary of Stephen S. Wise, November 9, 1910 to December 2, 1914</unittitle>
               <unitdate datechar="creation" normal="1910/1914" type="inclusive">1910-1914</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d97ef98a556fbe7c5f4dc0b1b3ce23a8" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_724c7bfd58dd563b5644431c08462fac" parent="aspace_d97ef98a556fbe7c5f4dc0b1b3ce23a8" type="Folder">104a</container>
+              <container id="aspace_8d05ef1e03dce092ed80a81a83843997" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_44f890a5ca34a98fe89b5195c21296c8" parent="aspace_8d05ef1e03dce092ed80a81a83843997" type="Folder">104a</container>
             </did>
             <odd id="aspace_9cc20f489be9c50dabf476346884c20d">
               <head>General note</head>
@@ -1198,8 +1197,8 @@
               <unittitle>Diary of Stephen S. Wise, November 9, 1910 to January 19, 1913</unittitle>
               <unitdate datechar="creation" normal="1910/1913" type="inclusive">1910-1913</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_99a0b61fb08dd7b6363ed3d201184418" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_5fbba4681ef0ec6da243b869690e631a" parent="aspace_99a0b61fb08dd7b6363ed3d201184418" type="Folder">104b</container>
+              <container id="aspace_b38afafe82b4f0ca02e23129a1a3b768" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_fa550b87d17c3f325c0703f1fd3a9580" parent="aspace_b38afafe82b4f0ca02e23129a1a3b768" type="Folder">104b</container>
             </did>
             <odd id="aspace_5f18ac915488777ca792484964647732">
               <head>General note</head>
@@ -1211,8 +1210,8 @@
               <unittitle>Diary of Stephen S. Wise, November 9, 1910 to January 19, 1913</unittitle>
               <unitdate datechar="creation" normal="1910/1913" type="inclusive">1910-1913</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_e022c9a8bd024d758d51ed8efb64803d" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_7d487c9b52ad3c23adbadcb5f669facf" parent="aspace_e022c9a8bd024d758d51ed8efb64803d" type="Folder">104c</container>
+              <container id="aspace_aeb620a3f3584422f5f8c632e254fd63" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_685c6cf38d074c9695704e272825381e" parent="aspace_aeb620a3f3584422f5f8c632e254fd63" type="Folder">104c</container>
             </did>
             <odd id="aspace_dd5a2fa6302f3474b467895045981288">
               <head>General note</head>
@@ -1224,8 +1223,8 @@
               <unittitle>Diary of Stephen S. Wise, October 27, 1921 to April 18, 1922</unittitle>
               <unitdate datechar="creation" normal="1921/1922" type="inclusive">1921-1922</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_d3378e05d1c27554e489b21e7a4affc5" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_44eb804d656c436faad061ec511a9243" parent="aspace_d3378e05d1c27554e489b21e7a4affc5" type="Folder">105</container>
+              <container id="aspace_4fec8a891465c1d6090d0aa6dfaa5737" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_c9d0ab94b28d0ea708b743420fce0476" parent="aspace_4fec8a891465c1d6090d0aa6dfaa5737" type="Folder">105</container>
             </did>
             <odd id="aspace_2c3a6cc8de6a95a4d6cbfb3dda23c37a">
               <head>General note</head>
@@ -1243,8 +1242,8 @@
               <unittitle>Addresses by Stephen S. Wise, Nathan Krass, and Sydney Goldstein, Union Service of the Federated Central and Free Synagogues, Carnegie Hall, </unittitle>
               <unitdate datechar="creation" normal="1923/1923" type="inclusive">May 6, 1923</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_786d3ce90c35debcad218047bea5dfc8" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_19776c6b6a06bad5df7d1d1812d18c4b" parent="aspace_786d3ce90c35debcad218047bea5dfc8" type="Folder">106</container>
+              <container id="aspace_06134c107ee5849a3dd2cdd8c3651a47" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_2f15be65cf9d1a813c2a0b5fcbe04ec4" parent="aspace_06134c107ee5849a3dd2cdd8c3651a47" type="Folder">106</container>
             </did>
             <odd id="aspace_6880c222a284e965839347612efcfc77">
               <head>General note</head>
@@ -1256,8 +1255,8 @@
               <unittitle>"'Shall the Doors be Shut?' or What Shall be the American Immigration Policy?"</unittitle>
               <unitdate datechar="creation" normal="1924/1924" type="inclusive">January 20, 1924 (</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7748c5d340959e40d4985c8522847ec1" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_036a294dbbdbd19ff5a9272ab51beb16" parent="aspace_7748c5d340959e40d4985c8522847ec1" type="Folder">107</container>
+              <container id="aspace_2f14046f18aa1b3481550e7e65e991bb" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_d06e10ed6edcc145f0bdcab255170e1b" parent="aspace_2f14046f18aa1b3481550e7e65e991bb" type="Folder">107</container>
             </did>
             <odd id="aspace_1c81f6cb9330020f2d7523cf163bcbc3">
               <head>General note</head>
@@ -1269,8 +1268,8 @@
               <unittitle>Pamphlet: "Forward" by Stephen S. Wise, </unittitle>
               <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_17f64f3ebd141de72991b0e6d1c76480" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_4e9274fce861b7adac60a1f41fc3a6f0" parent="aspace_17f64f3ebd141de72991b0e6d1c76480" type="Folder">108</container>
+              <container id="aspace_99bbde63d1068209f1a54f6901566e4f" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_da9273929be3b420b38d0840f9fb2388" parent="aspace_99bbde63d1068209f1a54f6901566e4f" type="Folder">108</container>
             </did>
             <odd id="aspace_953b7d91ec1060352140f7d5ee1585c0">
               <head>General note</head>
@@ -1282,8 +1281,8 @@
               <unittitle>"Toward Collective Security for Jews"</unittitle>
               <unitdate datechar="creation">c. 1930s</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_1dab74d17a30cdd138a30609cf3a8960" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_54b0d34040f6a262f71ef35e93726438" parent="aspace_1dab74d17a30cdd138a30609cf3a8960" type="Folder">109</container>
+              <container id="aspace_b20c67344e58f9f08270964c0a4ddebf" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_8156e02e569105e178be7bcd67493be0" parent="aspace_b20c67344e58f9f08270964c0a4ddebf" type="Folder">109</container>
             </did>
             <odd id="aspace_8d386e113618cdbab0e464e9e1eae1a1">
               <head>General note</head>
@@ -1301,8 +1300,8 @@
               <unittitle>Handwritten fragment: "What has Israel given to the World?"</unittitle>
               <unitdate datechar="creation" normal="1908/1908" type="inclusive">January 31, 1908</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_9b772b9aa77dc5f5e43c46f7df37cafd" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_9eae4c0a8efa0b8b776a6ee2dacb2d32" parent="aspace_9b772b9aa77dc5f5e43c46f7df37cafd" type="Folder">110</container>
+              <container id="aspace_a7f9cbef3179e7e85de2abd758f2db41" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_7ac680c0beb789ee3fb744e8212031a2" parent="aspace_a7f9cbef3179e7e85de2abd758f2db41" type="Folder">110</container>
             </did>
             <odd id="aspace_ef947e9855aa436de9b602aaddb63ba5">
               <head>General note</head>
@@ -1314,16 +1313,16 @@
               <unittitle>Handwritten fragment: "Our Own People: Questions of Jewish (illegible) or Racial (text lost)"</unittitle>
               <unitdate datechar="creation" normal="1912/1912" type="inclusive">October 1912</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_be9528a703a9cc17e9c65eb69bca036c" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_4a1e7d1794299259d9852812d9a6dd39" parent="aspace_be9528a703a9cc17e9c65eb69bca036c" type="Folder">111</container>
+              <container id="aspace_be72d56c9547452aeadd5f7341cfcc46" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_cde1cd37e58e24361f472d53c4988846" parent="aspace_be72d56c9547452aeadd5f7341cfcc46" type="Folder">111</container>
             </did>
           </c>
           <c id="aspace_ref144_m38" level="file">
             <did>
               <unittitle>Journal Notes, Palestine</unittitle>
               <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
-              <container id="aspace_4ca82ebad56a065fc1c7a5d37b9178f0" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_b7013e5f096863008d2c552613a1e4aa" parent="aspace_4ca82ebad56a065fc1c7a5d37b9178f0" type="Folder">112</container>
+              <container id="aspace_556d6f52af984f321d95ca11955695ef" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_30bc20cc6f5435eecaabfc4c48b68dbb" parent="aspace_556d6f52af984f321d95ca11955695ef" type="Folder">112</container>
             </did>
             <odd id="aspace_9d40b50d5d1419e133e55ef6febd5e29">
               <head>General note</head>
@@ -1342,8 +1341,8 @@
               <unittitle>List of Stephen S. Wise Correspondence in the Franklin D. Roosevelt Library</unittitle>
               <unitdate datechar="creation" normal="1952/1952" type="inclusive">June 3, 1952</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_639bba1f0e107ac1baf14172eb0e54f6" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_41897dd1a05feabb32a48e16ee204f10" parent="aspace_639bba1f0e107ac1baf14172eb0e54f6" type="Folder">113</container>
+              <container id="aspace_13de3da322504402e9f2b772d304e76a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_ce756bc11ad36db2c61dbb55456192fb" parent="aspace_13de3da322504402e9f2b772d304e76a" type="Folder">113</container>
             </did>
             <odd id="aspace_162ead9ae77205cadd819032f4980744">
               <head>General note</head>
@@ -1355,8 +1354,8 @@
               <unittitle>Bibliography of Stephen S. Wise</unittitle>
               <unitdate datechar="creation">Undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_2bda7240a2c85a5bf3e8efdbae869819" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_c92b8805e2378d5bf60d39429c432e48" parent="aspace_2bda7240a2c85a5bf3e8efdbae869819" type="Folder">114</container>
+              <container id="aspace_fad846dd3dccb338c4745e35cb96140f" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_a8b56971fef96bddde1dabae8a98aee2" parent="aspace_fad846dd3dccb338c4745e35cb96140f" type="Folder">114</container>
             </did>
             <odd id="aspace_435bee340e449b95e53de704c21c2f5d">
               <head>General note</head>
@@ -1386,8 +1385,8 @@
               <unittitle>Discussion of Christian Register article "Our Own People" (Samuel M. Crothers) on the subject of charity, </unittitle>
               <unitdate datechar="creation" normal="1912/1912" type="inclusive">May 9, 1912</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_86d14cda069f4fa1d4ba93fcfcbd94d2" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_76afcbb5a4c823030c232a6172e3ca0f" parent="aspace_86d14cda069f4fa1d4ba93fcfcbd94d2" type="Folder">115</container>
+              <container id="aspace_30e1481153ce7a64e9bf2372a58c8e2d" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_648708c7104d16835e08d746685b018e" parent="aspace_30e1481153ce7a64e9bf2372a58c8e2d" type="Folder">115</container>
             </did>
             <odd id="aspace_e393db835a36d530823b1ab540e37f63">
               <head>General note</head>
@@ -1399,8 +1398,8 @@
               <unittitle>"Strauss seeks no support as a Jew nor does he think support should be withheld because of his faith",  </unittitle>
               <unitdate datechar="creation">September 22 (no year)</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7045da30c1053c850038cea65b487983" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_ea0b962a3ae68192fce1e21a86542a2a" parent="aspace_7045da30c1053c850038cea65b487983" type="Folder">116</container>
+              <container id="aspace_785ec94ca1bf152d92b98d5301c6449e" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_bf86939681be78fd18a5ef2cf053397a" parent="aspace_785ec94ca1bf152d92b98d5301c6449e" type="Folder">116</container>
             </did>
             <odd id="aspace_f35d273bad9f92168cc37e40cb1089fe">
               <head>General note</head>
@@ -1409,10 +1408,11 @@
           </c>
           <c id="aspace_ref159_3za" level="file">
             <did>
-              <unittitle>"Our great claim to the gratitude of mankind is that we gave to the world the Word of God&#105;tdate datechar="creation">Undated</unitdate>
+              <unittitle>"Our great claim to the gratitude of mankind is that we gave to the world the Word of God…"</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0ae2685ce56251622ddd5c634d40809a" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_a687f0105813fbe8d6858e0c6b6e9b32" parent="aspace_0ae2685ce56251622ddd5c634d40809a" type="Folder">117</container>
+              <container id="aspace_b5869125088f9052d1a29795258f77f1" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_108c8fc13159876c669e7eb583336b11" parent="aspace_b5869125088f9052d1a29795258f77f1" type="Folder">117</container>
             </did>
             <odd id="aspace_2f77b0da80be12fb3f1bee0efa62fc60">
               <head>General note</head>
@@ -1423,8 +1423,8 @@
             <did>
               <unittitle>"Vote for Joseph C. Pelletier for Governor", </unittitle>
               <unitdate datechar="creation">Undated</unitdate>
-              <container id="aspace_f6c1c1d4d4b8700c27828623266dfe58" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_eb9883c21539e8a873f6ff289e4e3bab" parent="aspace_f6c1c1d4d4b8700c27828623266dfe58" type="Folder">118</container>
+              <container id="aspace_df75971ea23a407e79a88f7a1ffc3508" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_e05a480558327a6df603aacb6ac86d61" parent="aspace_df75971ea23a407e79a88f7a1ffc3508" type="Folder">118</container>
             </did>
             <odd id="aspace_4a8958b09772dd76120995fe8c22a3a6">
               <head>General note</head>
@@ -1436,8 +1436,8 @@
               <unittitle>New York Evening Telegram article defending the New York Police Department's handling of the shooting of Herman Rosenthal</unittitle>
               <unitdate datechar="creation">July 17 (no year)</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_62dc613ff1a034661fbac1c7a8402320" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_88e1a393931f30ef1a2a4fe7c84d31ec" parent="aspace_62dc613ff1a034661fbac1c7a8402320" type="Folder">119</container>
+              <container id="aspace_e7720c6ba7710b60be9c38740d7a1b73" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_372a4c012b19be3c189af0939aabb92c" parent="aspace_e7720c6ba7710b60be9c38740d7a1b73" type="Folder">119</container>
             </did>
           </c>
           <c id="aspace_ref164_o6e" level="file">
@@ -1445,8 +1445,8 @@
               <unittitle>"Rabbi Wise Tells Why So Many Marriages Fail", </unittitle>
               <unitdate datechar="creation">Undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_7d62a34baf034ff8d4ed2a890f1a7ccf" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_d09a903985b2a1763bd03fe93b40df7d" parent="aspace_7d62a34baf034ff8d4ed2a890f1a7ccf" type="Folder">120</container>
+              <container id="aspace_98612c162c620c622af67573e974a2f8" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_09ea83a8bdca22476b0fc4e99dc3a115" parent="aspace_98612c162c620c622af67573e974a2f8" type="Folder">120</container>
             </did>
             <odd id="aspace_02d1b2e86601f6558340ae563f2a0728">
               <head>General note</head>
@@ -1458,8 +1458,8 @@
               <unittitle>"30 Years after death of Stephen Wise, his achievements are still neglected", </unittitle>
               <unitdate datechar="creation" normal="1977/1977" type="inclusive">April 3, 1977</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_5ea7b0257ad4e4104230cae97e1c9c7a" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_4f55914060ae4f31c12d4edf2b5590a4" parent="aspace_5ea7b0257ad4e4104230cae97e1c9c7a" type="Folder">121</container>
+              <container id="aspace_9c339f325269b216f34d9299f2394b5b" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_65af8eed353e92a588581172cb12de4b" parent="aspace_9c339f325269b216f34d9299f2394b5b" type="Folder">121</container>
             </did>
             <odd id="aspace_e722ca884e0bbdd3a694e68a5cd619c3">
               <head>General note</head>
@@ -1477,8 +1477,8 @@
               <unittitle>Table assignment pamphlet (including alphabetical list of guests) for sixtieth birthday celebration of Stephen S. Wise hosted by the Free Synagogue and the Jewish Institute of Religion, New York</unittitle>
               <unitdate datechar="creation" normal="1934/1934" type="inclusive">March 18, 1934</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_cdc1586c42c7706e0c8ba6aab038ae41" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_c203e78aa68e065521247584049e067c" parent="aspace_cdc1586c42c7706e0c8ba6aab038ae41" type="Folder">122</container>
+              <container id="aspace_c0bb86d2672e9947436daacfaa49b86a" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_76bdad4626d4a171978a4b6e1f8fad8b" parent="aspace_c0bb86d2672e9947436daacfaa49b86a" type="Folder">122</container>
             </did>
           </c>
           <c id="aspace_ref169_fwj" level="file">
@@ -1486,8 +1486,8 @@
               <unittitle>Program for Stephen S. Wise's sixtieth birthday celebration dinner hosted by the Citizen's Committee, New York</unittitle>
               <unitdate datechar="creation">March 19, 1934</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_2caaf30cee9842f575e6e1f90fd29a96" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_08d9725bd21077cf97d22cdff4b68503" parent="aspace_2caaf30cee9842f575e6e1f90fd29a96" type="Folder">123</container>
+              <container id="aspace_f3f9441b27b4aba8187122a36d13fbf1" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_991488c6ab5957b5b33ed755137235eb" parent="aspace_f3f9441b27b4aba8187122a36d13fbf1" type="Folder">123</container>
             </did>
             <odd id="aspace_36be8025e52196f41529dc1fe6bde35b">
               <head>General note</head>
@@ -1499,8 +1499,8 @@
               <unittitle>Free Synagogue Weekly Bulletin, March 14, 1940 (vol. XXXII, no. 28), announcing a "special service and birthday celebration in honor of D. Stephen S. Wise) scheduled March 17, 1940, </unittitle>
               <unitdate datechar="creation">March 14, 1940</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_fc738290ff687e0463fbfc5626a8800e" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_b4813aa70d3be2916edfc94428cecd4f" parent="aspace_fc738290ff687e0463fbfc5626a8800e" type="Folder">124</container>
+              <container id="aspace_12834bce582e4c6bb2b78fa684687b5e" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_8e2e8725d827a3729ddc3aa42d13762e" parent="aspace_12834bce582e4c6bb2b78fa684687b5e" type="Folder">124</container>
             </did>
           </c>
         </c>
@@ -1514,8 +1514,8 @@
               <unittitle>"Politics and Morals", address by Woodrow Wilson, Governor of the State of New Jersey,  </unittitle>
               <unitdate datechar="creation">April 1911</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_6f054a121e683219077b86c1c8753c8d" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_d6028d15ba7351bfef910bd1fe6a870c" parent="aspace_6f054a121e683219077b86c1c8753c8d" type="Folder">125</container>
+              <container id="aspace_57f6a2627474f6d7675fe3d317d0a4f5" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_d0da82225f3ded86c789fec2c12ad8bf" parent="aspace_57f6a2627474f6d7675fe3d317d0a4f5" type="Folder">125</container>
             </did>
             <odd id="aspace_e8c5fcfdce53723478188ceb8a5201a6">
               <head>General note</head>
@@ -1527,8 +1527,8 @@
               <unittitle>Signature page, Eastern Council of Reform Rabbis, New York</unittitle>
               <unitdate datechar="creation">April 22, 1912</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_3078d6e81d1330d537fe06b6440cf582" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_35b410bf3af45d370db9bc360be85e37" parent="aspace_3078d6e81d1330d537fe06b6440cf582" type="Folder">126</container>
+              <container id="aspace_6645f2e28cc6dd38f04c4d9bc8014a4f" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_3c5116fc32b5f007d15e5b632c8ba496" parent="aspace_6645f2e28cc6dd38f04c4d9bc8014a4f" type="Folder">126</container>
             </did>
             <odd id="aspace_5bbd257028ca117552e40f0f09779f65">
               <head>General note</head>
@@ -1540,8 +1540,8 @@
               <unittitle>"The President's Flag Day Address with Evidence of Germany's Plans", </unittitle>
               <unitdate datechar="creation">September 15, 1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_0762efc3514ea20fded120af5c28222e" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_f9e95fe429ad7340cce0adb320ee891c" parent="aspace_0762efc3514ea20fded120af5c28222e" type="Folder">127</container>
+              <container id="aspace_82ec8d76e3a90fce9ca41bea10b792e2" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_fb97fee5badc8122210c053afc28faf0" parent="aspace_82ec8d76e3a90fce9ca41bea10b792e2" type="Folder">127</container>
             </did>
             <odd id="aspace_48ea39fd124b1a3788a40ba3697645de">
               <head>General note</head>
@@ -1553,8 +1553,8 @@
               <unittitle>United States House Resolution 196,  </unittitle>
               <unitdate datechar="creation">December 13, 1917</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_a805f806c449b568fb7555a66c5d03e9" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_d9f0f78c0534dc1497452537fc93805c" parent="aspace_a805f806c449b568fb7555a66c5d03e9" type="Folder">128</container>
+              <container id="aspace_ff7a21bdec9ec95225f702d7a6d67787" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_90c2b98f55161b443aff88752b039442" parent="aspace_ff7a21bdec9ec95225f702d7a6d67787" type="Folder">128</container>
             </did>
             <odd id="aspace_4f69281c981e9ebc9eb339a86853d63c">
               <head>General note</head>
@@ -1566,8 +1566,8 @@
               <unittitle>Fragment of document discussing the Woodrow Wilson Foundation (established in 1922), </unittitle>
               <unitdate datechar="creation">Undated</unitdate>
               <langmaterial><language langcode="eng">English</language>.</langmaterial>
-              <container id="aspace_2cd5f6225e8a3ce42256486c2f531874" label="Mixed Materials" type="Box">2</container>
-              <container id="aspace_3ef7db718477a646543eea386ea20614" parent="aspace_2cd5f6225e8a3ce42256486c2f531874" type="Folder">129</container>
+              <container id="aspace_50d8740cbc4ca4b467e3ad4c3f665d11" label="Mixed Materials" type="Box">2</container>
+              <container id="aspace_f78fe30890e0981c97c4fc37b5a8bf77" parent="aspace_50d8740cbc4ca4b467e3ad4c3f665d11" type="Folder">129</container>
             </did>
           </c>
         </c>

@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="folder_inventory" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms0849.xml">ms0849.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:56 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:52:16 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -44,9 +43,9 @@
       <abstract id="aspace_6d0dfc813eb5c4495b8000260f36a221">Materials in this collection include Dr. James Robb's papers, correspondence, articles, framed photographs, LP Albums and books he had written on Alfonso Reyes. The material dates from 1938-2000.</abstract>
       <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-      <container id="aspace_cb61bd41d8e3b217ee2333f74625b129" label="Mixed Materials" type="Box">UP0001</container>
-      <container id="aspace_ec8a822ec31e3e887fdd74e302bb433e" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-      <container id="aspace_ebe3d015a3f291a968592e9df3cc4173" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+      <container id="aspace_8c3dd055a1a38d53e5245da7baff20e7" label="Mixed Materials" type="Box">UP0001</container>
+      <container id="aspace_b4926dda707f0cf347fc4317a3bc966e" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+      <container id="aspace_890022df69d0417cfba285ce0f92a875" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
     </did>
     <prefercite id="aspace_aa3c066e7b8b4d83df9ab0af28c026ac">
       <head>Preferred citation</head>
@@ -84,352 +83,352 @@
         <did>
           <unittitle>Alfonso Reyes, Centennial, Madrid</unittitle>
           <unitdate datechar="creation">10/1989</unitdate>
-          <container id="aspace_4b3994c15ee92090440e445c95af5acc" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_b8db9b88f39238e80dac2bfeecb343a7" parent="aspace_4b3994c15ee92090440e445c95af5acc" type="Folder">1</container>
+          <container id="aspace_bfd7420c42d035446f63a4ecf517d396" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_ea2ff15d8c079666fb66248533453339" parent="aspace_bfd7420c42d035446f63a4ecf517d396" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_ref11_ai5" level="file">
         <did>
           <unittitle>Alfonso Reyes, Centennial, Monterrey, Mexico City</unittitle>
           <unitdate datechar="creation">05/1989</unitdate>
-          <container id="aspace_e2a3f593c5d36538db694f06e14b9a40" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_b85f4f40f0afdf99c67c547ea1270e5a" parent="aspace_e2a3f593c5d36538db694f06e14b9a40" type="Folder">2</container>
+          <container id="aspace_5b5a0b49c4c71b70d0d39ad2a3bac710" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_386675a612db43ff93202d0f1308dadf" parent="aspace_5b5a0b49c4c71b70d0d39ad2a3bac710" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref12_55e" level="file">
         <did>
           <unittitle>Alfonso Reyes, Comic book</unittitle>
           <unitdate datechar="creation">1966</unitdate>
-          <container id="aspace_390fb555d3735f9f8ebe5d4be36ec32d" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_d1a760a0e595157727226d0481d00efb" parent="aspace_390fb555d3735f9f8ebe5d4be36ec32d" type="Folder">3</container>
+          <container id="aspace_907b785d5b212747161acf3c915ecc32" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_b85adf9c6d6f44f6d055aac24438c2a0" parent="aspace_907b785d5b212747161acf3c915ecc32" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref13_x9h" level="file">
         <did>
           <unittitle>Alfonso Reyes, Celebratory Events, Spain</unittitle>
           <unitdate datechar="creation">1985-1987</unitdate>
-          <container id="aspace_b5c9534ea03da1a2cd03a493dcffe9a7" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_ac4a13808efeaaa40de1996902f35ce2" parent="aspace_b5c9534ea03da1a2cd03a493dcffe9a7" type="Folder">4</container>
+          <container id="aspace_d02bdd4c2bc592ed8dfaa8b423adea00" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_ee40abb81995ec2a5f38652b3e6db2c7" parent="aspace_d02bdd4c2bc592ed8dfaa8b423adea00" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref14_fcl" level="file">
         <did>
           <unittitle>Alfonso Reyes, Memorabilia- Mexico, Monterrey</unittitle>
           <unitdate datechar="creation">1959-1964</unitdate>
-          <container id="aspace_76e618a3b3c301c10af5ee33001dabf6" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_9c64acff7a5f008a8c5c668f2d4b5fce" parent="aspace_76e618a3b3c301c10af5ee33001dabf6" type="Folder">5</container>
+          <container id="aspace_6e311a73c9224428e9dc150549a1f028" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_df25fec90a3a181c9cdb2a62abb9876e" parent="aspace_6e311a73c9224428e9dc150549a1f028" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref15_mx4" level="file">
         <did>
           <unittitle>Alfonso Reyes and Manuela M. De Reyes</unittitle>
           <unitdate datechar="creation">1955-1965</unitdate>
-          <container id="aspace_c2953fb6a7e26891d409c54813c1073b" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_dd12db4248f0d645159a8569ac6083d1" parent="aspace_c2953fb6a7e26891d409c54813c1073b" type="Folder">6</container>
+          <container id="aspace_f862620e1afcd78e0d4675d772111d1c" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_58d0d7936bcaff06c67f9443cdfd605a" parent="aspace_f862620e1afcd78e0d4675d772111d1c" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref16_dhk" level="file">
         <did>
           <unittitle>Alfonso Reyes, Photographs and correspondence</unittitle>
           <unitdate datechar="creation">1966</unitdate>
-          <container id="aspace_7f0007508dfe4dbaeb6513a4a9a373ae" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_a0b2a08062bafd8cb27b4ae358d8cb24" parent="aspace_7f0007508dfe4dbaeb6513a4a9a373ae" type="Folder">7</container>
+          <container id="aspace_21a58dff3abfc5bc2217a5b1ce4ac5ec" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_79be79d1d63af7e913d735027e35b1e6" parent="aspace_21a58dff3abfc5bc2217a5b1ce4ac5ec" type="Folder">7</container>
         </did>
       </c>
       <c id="aspace_ref17_oo7" level="file">
         <did>
           <unittitle>Alicia Reyes- Granddaughter of Alfonso Reyes, correspondence</unittitle>
           <unitdate datechar="creation">1966-1991</unitdate>
-          <container id="aspace_403a722ea42a83949203fc5baa85674e" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_5e5eaab5469205310e0b158ac6399603" parent="aspace_403a722ea42a83949203fc5baa85674e" type="Folder">8</container>
+          <container id="aspace_c8fb79ad038ba0f6c4b0a057d4075501" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_f1f070a622911ecef44df9327e4c2545" parent="aspace_c8fb79ad038ba0f6c4b0a057d4075501" type="Folder">8</container>
         </did>
       </c>
       <c id="aspace_ref18_h5a" level="file">
         <did>
           <unittitle>Article on Alfonso Reyes by James Robb</unittitle>
           <unitdate datechar="creation">1989</unitdate>
-          <container id="aspace_afe7fbf4024d923d3e56a1139c714512" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_f110ec4b48c2f141ec1d141028fd50c3" parent="aspace_afe7fbf4024d923d3e56a1139c714512" type="Folder">9</container>
+          <container id="aspace_39373a37c0e05c04ca31e6d80828de65" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_920984b710a67a9da1b005a11a7bcaeb" parent="aspace_39373a37c0e05c04ca31e6d80828de65" type="Folder">9</container>
         </did>
       </c>
       <c id="aspace_ref19_uiv" level="file">
         <did>
           <unittitle>Article on Alfonso Reyes by James Robb</unittitle>
           <unitdate datechar="creation">1992</unitdate>
-          <container id="aspace_c74b668184e45d4baf499ed110217630" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_d1c6aedd7915ff794c91d111f18f43d8" parent="aspace_c74b668184e45d4baf499ed110217630" type="Folder">10</container>
+          <container id="aspace_f3e3befc405d11105863049b5770956c" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_cb8c7460aea0582f2c17c35a97891450" parent="aspace_f3e3befc405d11105863049b5770956c" type="Folder">10</container>
         </did>
       </c>
       <c id="aspace_ref20_xw5" level="file">
         <did>
           <unittitle>Article on Martin Luis Guzman by James Robb</unittitle>
           <unitdate datechar="creation">1987</unitdate>
-          <container id="aspace_e6d15be286ed91780a24c87bc400ca89" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_c16e75dc7b98d98a5cd85ba37c976c38" parent="aspace_e6d15be286ed91780a24c87bc400ca89" type="Folder">11</container>
+          <container id="aspace_98ab90d9343fe0792017e738a68b4b65" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_dc31357abaaac615c86e593e4e433f88" parent="aspace_98ab90d9343fe0792017e738a68b4b65" type="Folder">11</container>
         </did>
       </c>
       <c id="aspace_ref21_63f" level="file">
         <did>
           <unittitle>Article: 'Neuva Novellistica' and card from Fernando Gonzalez (Spring)</unittitle>
           <unitdate datechar="creation">1989</unitdate>
-          <container id="aspace_82973823f18d340f94104f568fe476b9" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_1d5b80834d3fd032e3572c4c5649d7e9" parent="aspace_82973823f18d340f94104f568fe476b9" type="Folder">12</container>
+          <container id="aspace_c43fccb903501047f741a16781bdefe7" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_162a3a6511e688832f26fa32c3826fd7" parent="aspace_c43fccb903501047f741a16781bdefe7" type="Folder">12</container>
         </did>
       </c>
       <c id="aspace_ref22_zz6" level="file">
         <did>
           <unittitle>Autographed correspondence of Latin American Writers, etc.</unittitle>
           <unitdate datechar="creation">1953-1994</unitdate>
-          <container id="aspace_0e5090199fe77a89a374cd6cd6dc298e" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_3719d93748853aaa0602c351f0870dad" parent="aspace_0e5090199fe77a89a374cd6cd6dc298e" type="Folder">13</container>
+          <container id="aspace_ef5bb3a6a683a101dc38cc2f556b2503" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_941d298fadee488ea4b78f997b052a0f" parent="aspace_ef5bb3a6a683a101dc38cc2f556b2503" type="Folder">13</container>
         </did>
       </c>
       <c id="aspace_ref23_g4t" level="file">
         <did>
           <unittitle>Biographical information of James Robb</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_2f65b37a1311b776e56e71dd3e851117" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_5017aab50dd76a947eb044e06bc72723" parent="aspace_2f65b37a1311b776e56e71dd3e851117" type="Folder">14</container>
+          <container id="aspace_af5333700b034063bac232c0e04c1af7" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_7f3b18464fa0f08d651213b2da1d7b18" parent="aspace_af5333700b034063bac232c0e04c1af7" type="Folder">14</container>
         </did>
       </c>
       <c id="aspace_ref24_zlj" level="file">
         <did>
           <unittitle>Boletin Capilla Alfonsina (30, 33)</unittitle>
           <unitdate datechar="creation">1975-1978</unitdate>
-          <container id="aspace_363fc64ab26b117b87e87aae783e4fdc" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_2ae088b239fca956d566e93f3321e977" parent="aspace_363fc64ab26b117b87e87aae783e4fdc" type="Folder">15</container>
+          <container id="aspace_49f2cfb7d1296ed72b00d31d6164608c" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_f9e2279cd4bf0df58cafeb873755c537" parent="aspace_49f2cfb7d1296ed72b00d31d6164608c" type="Folder">15</container>
         </did>
       </c>
       <c id="aspace_ref25_2xh" level="file">
         <did>
           <unittitle>Caminos Cruzados, Manvel Toussaint, Alfonso Reyes (Mexico En El Arte)</unittitle>
           <unitdate datechar="creation">1983</unitdate>
-          <container id="aspace_ac2f9a46a4b407744da1aa0509190e26" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_0100494d59965185d4f3993f273c07f4" parent="aspace_ac2f9a46a4b407744da1aa0509190e26" type="Folder">16</container>
+          <container id="aspace_a8e0cc13abfacfa87e40b3d18bf06b44" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_8a23391796f35d5f5b2e875321f184f4" parent="aspace_a8e0cc13abfacfa87e40b3d18bf06b44" type="Folder">16</container>
         </did>
       </c>
       <c id="aspace_ref26_jr6" level="file">
         <did>
           <unittitle>Columbianistas</unittitle>
           <unitdate datechar="creation">1999-2000</unitdate>
-          <container id="aspace_6d15faffe4c4156edc2aacf6ad1e6535" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_c0d5035dd45dfdffc7d2b2a014feb95a" parent="aspace_6d15faffe4c4156edc2aacf6ad1e6535" type="Folder">17</container>
+          <container id="aspace_c2fded4b0c2b3455c618834dfdcf210b" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_5b4756fb60fe2fcb158cc48c0f772da0" parent="aspace_c2fded4b0c2b3455c618834dfdcf210b" type="Folder">17</container>
         </did>
       </c>
       <c id="aspace_ref27_163" level="file">
         <did>
           <unittitle>Correspondence, Alfonso Rangel Guerra and James Robb</unittitle>
           <unitdate datechar="creation">1988-1996</unitdate>
-          <container id="aspace_ad3bd02329f52d543386463ea35ad735" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_fafb9d94c58d3c435e1bb99c01007b36" parent="aspace_ad3bd02329f52d543386463ea35ad735" type="Folder">18</container>
+          <container id="aspace_91c42a4dc188eb6f29301d6bad42de02" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_47523d0a5f8f96e8cde2d9e82082eef6" parent="aspace_91c42a4dc188eb6f29301d6bad42de02" type="Folder">18</container>
         </did>
       </c>
       <c id="aspace_ref28_8yn" level="file">
         <did>
           <unittitle>Correspondence, Alicia Reyes and Dr. Alfonso</unittitle>
           <unitdate datechar="creation">1965-1997</unitdate>
-          <container id="aspace_4cc5cd7557e359bb47e5a7456f87a94a" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_e737a19ea6c9e0393559d0a3bf850660" parent="aspace_4cc5cd7557e359bb47e5a7456f87a94a" type="Folder">19</container>
+          <container id="aspace_8ebfad7182390beffdcd7f397a6dcebf" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_e0a410c0f9e4dd279b178513428d1e3e" parent="aspace_8ebfad7182390beffdcd7f397a6dcebf" type="Folder">19</container>
         </did>
       </c>
       <c id="aspace_ref29_0mj" level="file">
         <did>
           <unittitle>Correspondence, Fernando Gonzalez and Thornton Wilder</unittitle>
           <unitdate datechar="creation">1941-1988</unitdate>
-          <container id="aspace_9bb7e5dd1fe2691bf1ea2d6c582c5e69" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_1279274bc4b50f56509299601b30d299" parent="aspace_9bb7e5dd1fe2691bf1ea2d6c582c5e69" type="Folder">20</container>
+          <container id="aspace_b9dc32f35fb893f8139b843f88d8ce23" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_fe48b9e8efe38fd96ca631139a8b9488" parent="aspace_b9dc32f35fb893f8139b843f88d8ce23" type="Folder">20</container>
         </did>
       </c>
       <c id="aspace_ref30_nj6" level="file">
         <did>
           <unittitle>Correspondence, German Archiniegas and James Robb</unittitle>
           <unitdate datechar="creation">1966-1989</unitdate>
-          <container id="aspace_6e922d4208ef8293128bc0b91f589bbb" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_ee27d4c3de68eda3fac98c311de67cc4" parent="aspace_6e922d4208ef8293128bc0b91f589bbb" type="Folder">21</container>
+          <container id="aspace_969d28795bd9fd301ec1954c080cb12d" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_2db31bc81913afa3a925be31314528dc" parent="aspace_969d28795bd9fd301ec1954c080cb12d" type="Folder">21</container>
         </did>
       </c>
       <c id="aspace_ref31_exk" level="file">
         <did>
           <unittitle>Correspondence, J.W.Robb and Alfonso Reyes</unittitle>
           <unitdate datechar="creation">1955-1964</unitdate>
-          <container id="aspace_029d2ef9e6641a6a7d3bd654351ebb10" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_2ff4baa9129800998c02e56969b10094" parent="aspace_029d2ef9e6641a6a7d3bd654351ebb10" type="Folder">22</container>
+          <container id="aspace_16822a33339ea83c977e39c1b3e1451f" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_fa247047918b4e57154bb4bb31f36889" parent="aspace_16822a33339ea83c977e39c1b3e1451f" type="Folder">22</container>
         </did>
       </c>
       <c id="aspace_ref32_nb6" level="file">
         <did>
           <unittitle>France and French Writers</unittitle>
           <unitdate datechar="creation">1938-1969</unitdate>
-          <container id="aspace_3479548b4449c009f4409f503dfb4547" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_798f76dc01e73ee5022b30ca62f6817e" parent="aspace_3479548b4449c009f4409f503dfb4547" type="Folder">23</container>
+          <container id="aspace_5bcc5fbc4568f718dd596d2e53bd2ff2" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_7c220fcc8006b9a517868538104e4377" parent="aspace_5bcc5fbc4568f718dd596d2e53bd2ff2" type="Folder">23</container>
         </did>
       </c>
       <c id="aspace_ref33_3cs" level="file">
         <did>
           <unittitle>German Gabriela Archiniegas</unittitle>
           <unitdate datechar="creation">1964-1988</unitdate>
-          <container id="aspace_90f54f80b3d97c092c1d513bcd651579" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_d0dbdf824e3b3154361ee2aedebb9c55" parent="aspace_90f54f80b3d97c092c1d513bcd651579" type="Folder">24</container>
+          <container id="aspace_f1797ba933111383c52f4d4a6582cc5c" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_60d5a9569ad9a5153090f8547d249288" parent="aspace_f1797ba933111383c52f4d4a6582cc5c" type="Folder">24</container>
         </did>
       </c>
       <c id="aspace_ref34_7mb" level="file">
         <did>
           <unittitle>Homero Aridjis</unittitle>
           <unitdate datechar="creation">1966-1971</unitdate>
-          <container id="aspace_62053e3527ce685faf6b59ebe4a2d130" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_a7af95f638274795b6e03b1233af3546" parent="aspace_62053e3527ce685faf6b59ebe4a2d130" type="Folder">25</container>
+          <container id="aspace_f3706d3657a7f3f7c223f7c3b64fe051" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_2c7daecc4c46e4543e705f6c071f3f49" parent="aspace_f3706d3657a7f3f7c223f7c3b64fe051" type="Folder">25</container>
         </did>
       </c>
       <c id="aspace_ref35_ja3" level="file">
         <did>
           <unittitle>Literary Congresses Conference, Symposia [1/2]</unittitle>
           <unitdate datechar="creation">1961-1988</unitdate>
-          <container id="aspace_a079d08661e12b4b8aeb8f9cdae1f2f8" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_c8120ebca71d7483bcb63f8c7f86cd2b" parent="aspace_a079d08661e12b4b8aeb8f9cdae1f2f8" type="Folder">26</container>
+          <container id="aspace_7e8231b6c16230dbde54a6ad5754fc29" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_22af748fed6b5401d67ca1a261b26430" parent="aspace_7e8231b6c16230dbde54a6ad5754fc29" type="Folder">26</container>
         </did>
       </c>
       <c id="aspace_ref36_g2x" level="file">
         <did>
           <unittitle>Literary Congresses, Conference, Symposia [2/2]</unittitle>
           <unitdate datechar="creation">1980-1989</unitdate>
-          <container id="aspace_3965d27d97aa73e076e59e88f838ec02" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_61efd974f67160af486408dd14e16f38" parent="aspace_3965d27d97aa73e076e59e88f838ec02" type="Folder">27</container>
+          <container id="aspace_0d583a0c4c92cfcc4f9402353e935c31" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_73d09d3a1e18b813fcd6852b4a74bebd" parent="aspace_0d583a0c4c92cfcc4f9402353e935c31" type="Folder">27</container>
         </did>
       </c>
       <c id="aspace_ref37_ky2" level="file">
         <did>
           <unittitle>Magazines with Articles about Alfonso Reyes</unittitle>
           <unitdate datechar="creation">1961-1980</unitdate>
-          <container id="aspace_9e191bd23fb50faa3ad00ad01a0f1518" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_79dfc72dc096dfcecabdb5192caf07b0" parent="aspace_9e191bd23fb50faa3ad00ad01a0f1518" type="Folder">28</container>
+          <container id="aspace_cf668b278374bc307a7c8e2154d6d227" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_80b86199751dc5cd50635a8316cac7dc" parent="aspace_cf668b278374bc307a7c8e2154d6d227" type="Folder">28</container>
         </did>
       </c>
       <c id="aspace_ref38_b2o" level="file">
         <did>
           <unittitle>Miscellaneous Articles, Correspondences, etc.</unittitle>
           <unitdate datechar="creation">1966-1999</unitdate>
-          <container id="aspace_d684871fa9c5492b7f1e2850874f7a54" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_40be766e9fc2a447bf7a8f3b86095c44" parent="aspace_d684871fa9c5492b7f1e2850874f7a54" type="Folder">29</container>
+          <container id="aspace_9890f361db9fc7da63b97ca275679b61" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_07a1c77c2ca63dde38c574d3a7308fbc" parent="aspace_9890f361db9fc7da63b97ca275679b61" type="Folder">29</container>
         </did>
       </c>
       <c id="aspace_ref39_418" level="file">
         <did>
           <unittitle>Miscellaneous Articles, Correspondences, etc.</unittitle>
           <unitdate datechar="creation">1966-1999</unitdate>
-          <container id="aspace_0fa5051e5d82473537793bbaba662372" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_ad1299442317acfdc59afe6886985052" parent="aspace_0fa5051e5d82473537793bbaba662372" type="Folder">30</container>
+          <container id="aspace_1daac5b3a9e899ab6fd8fb57f7549dc6" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_049a0ff8e5f302ef4e7cd9d8e12273e2" parent="aspace_1daac5b3a9e899ab6fd8fb57f7549dc6" type="Folder">30</container>
         </did>
       </c>
       <c id="aspace_ref40_a5h" level="file">
         <did>
           <unittitle>Miscellaneous Articles, Correspondences, etc.</unittitle>
           <unitdate datechar="creation">1966-1999</unitdate>
-          <container id="aspace_7e6f14d23af25334db46e6fb5c3d94b8" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_326823b340d1359d86618e5fbe427229" parent="aspace_7e6f14d23af25334db46e6fb5c3d94b8" type="Folder">31</container>
+          <container id="aspace_19160f146664640b909bbbe015682af2" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_27136fa88606d4c8250e22845963cc37" parent="aspace_19160f146664640b909bbbe015682af2" type="Folder">31</container>
         </did>
       </c>
       <c id="aspace_ref41_uj8" level="file">
         <did>
           <unittitle>Miscellaneous Alfonso Reyes Texts</unittitle>
           <unitdate datechar="creation">1995</unitdate>
-          <container id="aspace_0579c866054b4e1b3b654e2108d4f177" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_e95d34632643a3c88e1477f1903a8d1c" parent="aspace_0579c866054b4e1b3b654e2108d4f177" type="Folder">32</container>
+          <container id="aspace_6d97d92b917f4c137c5c849325ef0cec" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_436bbe8d6d2942c22faaf4c1043cbf9e" parent="aspace_6d97d92b917f4c137c5c849325ef0cec" type="Folder">32</container>
         </did>
       </c>
       <c id="aspace_ref42_pa3" level="file">
         <did>
           <unittitle>Monterrey</unittitle>
           <unitdate datechar="creation">05/1997</unitdate>
-          <container id="aspace_56245828d1f37a4e09166b6fce412867" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_f3a7b5bf1c4be45b557cb405b715734b" parent="aspace_56245828d1f37a4e09166b6fce412867" type="Folder">33</container>
+          <container id="aspace_92436e184bd6d862c0247c28a13cd258" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_08b26f2a36903facc1a01262c9bc2188" parent="aspace_92436e184bd6d862c0247c28a13cd258" type="Folder">33</container>
         </did>
       </c>
       <c id="aspace_ref43_ye2" level="file">
         <did>
           <unittitle>Spanish School of Middlebury</unittitle>
           <unitdate datechar="creation">1950</unitdate>
-          <container id="aspace_5305d363dc77683e3130a4b217cf4c6d" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_9c0adf4d69c2c6f50f50552a8b8591a9" parent="aspace_5305d363dc77683e3130a4b217cf4c6d" type="Folder">34</container>
+          <container id="aspace_4fab12fbf2955cdb5b4fe70c5210f4cd" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_28aa3ccc2efc48f1027ab1a78cf21a46" parent="aspace_4fab12fbf2955cdb5b4fe70c5210f4cd" type="Folder">34</container>
         </did>
       </c>
       <c id="aspace_ref44_2ld" level="file">
         <did>
           <unittitle>Various Correspondence to/from James Robb</unittitle>
           <unitdate datechar="creation">1949-2000</unitdate>
-          <container id="aspace_85d3cea466c3597b7f4e6373fbd052dc" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_71c995427031fd136945406168ffe9f3" parent="aspace_85d3cea466c3597b7f4e6373fbd052dc" type="Folder">35</container>
+          <container id="aspace_03b26cd15c475a90963144f3fef88a5d" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_49e6b9c52d9e1c14484fb817e32f1454" parent="aspace_03b26cd15c475a90963144f3fef88a5d" type="Folder">35</container>
         </did>
       </c>
       <c id="aspace_ref45_0we" level="file">
         <did>
           <unittitle>Various Correspondence and Centenario Reyes Celebrations</unittitle>
           <unitdate datechar="creation">1988-1989</unitdate>
-          <container id="aspace_3834f955305fe04de1ff8d851e238c2d" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_e8144120742878a3f017051a1e15c4db" parent="aspace_3834f955305fe04de1ff8d851e238c2d" type="Folder">36</container>
+          <container id="aspace_73454733fd6d3c68059244ef83cc69d0" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_23f77f3ba26900ba296641b539035029" parent="aspace_73454733fd6d3c68059244ef83cc69d0" type="Folder">36</container>
         </did>
       </c>
       <c id="aspace_ref46_j48" level="file">
         <did>
           <unittitle>Scrapbook - Alfonso Reyes, Celebration Album</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_400263fe48500eba74e115896e0f72b9" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
-          <container id="aspace_f2b4602c2afafbb315947086f7cc14de" parent="aspace_400263fe48500eba74e115896e0f72b9" type="Folder">37</container>
+          <container id="aspace_9540479e0e731403a4745c5cf2ef324e" label="Mixed Materials [GW: 32882018320351]" type="Box">1</container>
+          <container id="aspace_0ee12fefb66ca24847d4eb86c3d2900d" parent="aspace_9540479e0e731403a4745c5cf2ef324e" type="Folder">37</container>
         </did>
       </c>
       <c id="aspace_ref47_umg" level="file">
         <did>
           <unittitle>La Capilla Alfonsina</unittitle>
           <unitdate datechar="creation">1978</unitdate>
-          <container id="aspace_9aacee5ba3937048251b10f7c98c3c7c" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_4619f413b93fde4846a5a96237aee689" parent="aspace_9aacee5ba3937048251b10f7c98c3c7c" type="Folder">1</container>
+          <container id="aspace_79b5c10e473328395e2669feb4ce057b" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_1995b0df8d249afad7f080496cfccab0" parent="aspace_79b5c10e473328395e2669feb4ce057b" type="Folder">1</container>
         </did>
       </c>
       <c id="aspace_ref48_7gj" level="file">
         <did>
           <unittitle>Diploma al Merito</unittitle>
           <unitdate datechar="creation">1979</unitdate>
-          <container id="aspace_6aa3da1924edd2a8d905196067462190" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_a261da6844edd4adbf6bab884c67aed1" parent="aspace_6aa3da1924edd2a8d905196067462190" type="Folder">2</container>
+          <container id="aspace_d054597f16c65a271b428e591ea56049" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_fc9412f8ed72f5496fb7ea66461e8168" parent="aspace_d054597f16c65a271b428e591ea56049" type="Folder">2</container>
         </did>
       </c>
       <c id="aspace_ref49_map" level="file">
         <did>
           <unittitle>LP album - Catalina Levirton, Recital Poetico</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_5ca644e39d7f4ea8cd996dcd4b918a8e" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_c710ae97e8b9c3b2700e35a35e2a7504" parent="aspace_5ca644e39d7f4ea8cd996dcd4b918a8e" type="Folder">3</container>
+          <container id="aspace_bcdb36daf31c878214f00b52c1e0ad42" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_973324845bef230dbba9a2fe835c5b28" parent="aspace_bcdb36daf31c878214f00b52c1e0ad42" type="Folder">3</container>
         </did>
       </c>
       <c id="aspace_ref50_rmp" level="file">
         <did>
           <unittitle>LP album - Lament on the Death of a Bullfighter</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_4ab420da5fc6e410db49a8698f8ee6de" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_7534d11caae2f7ca6eadae450a4e7e53" parent="aspace_4ab420da5fc6e410db49a8698f8ee6de" type="Folder">4</container>
+          <container id="aspace_174f1372b061b2602cc6ea2b06e9b7c0" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_31c5b16eed51956fb4954dbbb18b2185" parent="aspace_174f1372b061b2602cc6ea2b06e9b7c0" type="Folder">4</container>
         </did>
       </c>
       <c id="aspace_ref51_8nj" level="file">
         <did>
           <unittitle>LP album - El Contemplado</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_ad3c8045f5e5d3abc06a4f9be8cf1661" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_bfd15f8abfb8c90bfa396c36ff563f74" parent="aspace_ad3c8045f5e5d3abc06a4f9be8cf1661" type="Folder">5</container>
+          <container id="aspace_12cd346ee6e83b5d69e0738ca3e77f57" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_837317465738cfd3efc5030258b7f60e" parent="aspace_12cd346ee6e83b5d69e0738ca3e77f57" type="Folder">5</container>
         </did>
       </c>
       <c id="aspace_ref52_0if" level="file">
         <did>
           <unittitle>LP album and booklet - Archivo Dela Palabra</unittitle>
           <unitdate datechar="creation">undated</unitdate>
-          <container id="aspace_c9cfc0e58e202341d73c46522ca86e4e" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_2c5c41eb702818d53e011820fa392f16" parent="aspace_c9cfc0e58e202341d73c46522ca86e4e" type="Folder">6</container>
+          <container id="aspace_07e8e2098f97ad4c6ae4cee046075c42" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_41b4ef89328e69c5e97182207a788d74" parent="aspace_07e8e2098f97ad4c6ae4cee046075c42" type="Folder">6</container>
         </did>
       </c>
       <c id="aspace_ref53_hn7" level="file">
         <did>
           <unittitle>LP album and booklet - Alfonso Reyes</unittitle>
           <unitdate datechar="creation">1960</unitdate>
-          <container id="aspace_425ce6ba0393521942213cfdaf18ca29" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
-          <container id="aspace_a2d9786cc67505d069f2ccffabdf31b7" parent="aspace_425ce6ba0393521942213cfdaf18ca29" type="Folder">7</container>
+          <container id="aspace_ef86a04919afbca4dc4720a73c206620" label="Mixed Materials [GW: 32882018320369]" type="Box">2</container>
+          <container id="aspace_e5ea4fcd7d47af00dee57a3ffb594dc1" parent="aspace_ef86a04919afbca4dc4720a73c206620" type="Folder">7</container>
         </did>
       </c>
     </dsc>

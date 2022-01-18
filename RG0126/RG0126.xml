@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/rg0126.xml">rg0126.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:53:05 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:11:11 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -84,7 +83,7 @@
           <unitid>RG0126 Series 1</unitid>
           <unitdate datechar="creation">1925-1956</unitdate>
           <physdesc id="aspace_933042d28148dc1d02fc000ad08143f9" label="General Physical Description note">1.5 Linear feet</physdesc>
-          <container id="aspace_57713c05094bfb8df56ba42ebe907cb1" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+          <container id="aspace_000029f00d135ff4ba91e6bbb76c7dc4" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_f0e59b587510a9625ec4f37ff92e0524">
           <head>Scope and Contents note</head>
@@ -95,32 +94,32 @@
           <did>
             <unittitle>Minutes of the Graduate Council</unittitle>
             <unitdate datechar="creation">10/20/1931-02/21/1939</unitdate>
-            <container id="aspace_928fee4227093582206565d59af57191" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_6328c62a44de32f9f223d5333153192c" parent="aspace_928fee4227093582206565d59af57191" type="Folder">1</container>
+            <container id="aspace_90f9808b1d09844c7f812bdc107d51e3" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_3fc6dc4f78c53c354a67093e597c9b4b" parent="aspace_90f9808b1d09844c7f812bdc107d51e3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref13_v6p" level="file">
           <did>
             <unittitle>Selections from the Minutes of the Graduate Council</unittitle>
             <unitdate datechar="creation">10/1931-05/1939</unitdate>
-            <container id="aspace_503b7a6f7364e970388270db6057f705" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_045bbb9ab3db3c703c06877f65aeef65" parent="aspace_503b7a6f7364e970388270db6057f705" type="Folder">2</container>
+            <container id="aspace_7168d2988d53de516a3e4432465334a6" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_33b89e132126f33f4d272fdd222faf1b" parent="aspace_7168d2988d53de516a3e4432465334a6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref14_m9w" level="file">
           <did>
             <unittitle>Selections from the Minutes of the Graduate Council</unittitle>
             <unitdate datechar="creation">10/1931-12/1955</unitdate>
-            <container id="aspace_4d34121b038fedd86c2d1becf4135549" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_0514ae507661798d86daa05362ddfcf2" parent="aspace_4d34121b038fedd86c2d1becf4135549" type="Folder">3</container>
+            <container id="aspace_cb72cb0d5f7cfe0493f15892b3b8abac" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_c68fdb3183915fcee545a5ee84a8767e" parent="aspace_cb72cb0d5f7cfe0493f15892b3b8abac" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref15_dtq" level="file">
           <did>
             <unittitle>Summaries of doctoral theses</unittitle>
             <unitdate datechar="creation">1925-1938</unitdate>
-            <container id="aspace_1bbf79ec02f96db8054ad58f65c46f77" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_185e5a35749491e48fb0670f39728e2e" parent="aspace_1bbf79ec02f96db8054ad58f65c46f77" type="Folder">4</container>
+            <container id="aspace_37d66fa6fc6e63a5904a61d5ef45683b" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_ce6e00f8f3b7b89f60aa7736062fb9f7" parent="aspace_37d66fa6fc6e63a5904a61d5ef45683b" type="Folder">4</container>
           </did>
           <odd id="aspace_fab2098678763f309b78e0f32582121c">
             <head>General note</head>
@@ -131,8 +130,8 @@
           <did>
             <unittitle>Summaries of doctoral theses</unittitle>
             <unitdate datechar="creation">1939-1952</unitdate>
-            <container id="aspace_6955137620e2fa8fcc9a9d265a2604ba" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_e503e0106fcf71bb64159cf779d44eb6" parent="aspace_6955137620e2fa8fcc9a9d265a2604ba" type="Folder">5</container>
+            <container id="aspace_c8d334f4d7b38b9bea9a8198f7c0ec85" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_d3e563f7dec24d4052e37c10ddf806bc" parent="aspace_c8d334f4d7b38b9bea9a8198f7c0ec85" type="Folder">5</container>
           </did>
           <odd id="aspace_0469454f65e701836c9a34d911fb8eee">
             <head>General note</head>
@@ -143,8 +142,8 @@
           <did>
             <unittitle>Summaries of doctoral theses</unittitle>
             <unitdate datechar="creation">1953-1956</unitdate>
-            <container id="aspace_7beeeee6c0ddde81d7dff4817b9432d0" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
-            <container id="aspace_5285c7007ca9e7287498df271c55df18" parent="aspace_7beeeee6c0ddde81d7dff4817b9432d0" type="Folder">6</container>
+            <container id="aspace_f5b59899c16e9163adfdaf7d562f9f2c" label="Mixed Materials [Series 1 GW: 32882018439664]" type="Box">1</container>
+            <container id="aspace_a8cb64fc8c4f5c7649037ae07c8152e3" parent="aspace_f5b59899c16e9163adfdaf7d562f9f2c" type="Folder">6</container>
           </did>
         </c>
       </c>
@@ -154,7 +153,7 @@
           <unitid>RG0126 Series 2</unitid>
           <unitdate datechar="creation">1930-1967</unitdate>
           <physdesc id="aspace_b2718501f8c12be0c76432e7572b520a" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_ad1a20a5485e954de0d3c8df8ea15543" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
+          <container id="aspace_b6ccc6f8bf24108232494906eeebbd02" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_c481a3ad5314d8974d0ac8c3b30edc87">
           <head>Scope and Contents note</head>
@@ -165,32 +164,32 @@
           <did>
             <unittitle>Graduate Council (1930-1967)</unittitle>
             <unitdate datechar="creation">1930-01/1954</unitdate>
-            <container id="aspace_fb884e5df73aa947cb792ebe719186bf" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
-            <container id="aspace_95cab69f176e22c0264862154db4db27" parent="aspace_fb884e5df73aa947cb792ebe719186bf" type="Folder">1</container>
+            <container id="aspace_7bce883fd22e7b15dc3efabf2b0ffe2f" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
+            <container id="aspace_f06be49c97cb101279340b78582a98b1" parent="aspace_7bce883fd22e7b15dc3efabf2b0ffe2f" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref24_dcj" level="file">
           <did>
             <unittitle>Graduate Council (1930-1967) Bulletins, 1946-1964</unittitle>
             <unitdate datechar="creation">02/1946-1967</unitdate>
-            <container id="aspace_56cf8b63ba6c33a008ab5e704de8a5e5" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
-            <container id="aspace_b9b706f3816c83b3851a6d33b484db2c" parent="aspace_56cf8b63ba6c33a008ab5e704de8a5e5" type="Folder">2</container>
+            <container id="aspace_712fa222882d76c869341ffbb5823672" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
+            <container id="aspace_194cd81a3666aaec1d79f5fcb12af84c" parent="aspace_712fa222882d76c869341ffbb5823672" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref25_gmq" level="file">
           <did>
             <unittitle>Graduate Council (1930-1967) Doctoral Program</unittitle>
             <unitdate datechar="creation">1946-1950</unitdate>
-            <container id="aspace_d83b4de4ef6400cf6a4740588b71511a" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
-            <container id="aspace_325f3fbf4bb12b905d5d6d778d856c44" parent="aspace_d83b4de4ef6400cf6a4740588b71511a" type="Folder">3</container>
+            <container id="aspace_3dfbadf75caade878f2d8b9950eef36d" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
+            <container id="aspace_2c7bad6fe3bf3ec6b3bdbf22ce9da1bd" parent="aspace_3dfbadf75caade878f2d8b9950eef36d" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref26_f8v" level="file">
           <did>
             <unittitle>Graduate Council (1930-1967) Meeting minutes, 1931-1955</unittitle>
             <unitdate datechar="creation">10/1931-12/1955</unitdate>
-            <container id="aspace_d71f90b1f6bbe9235f39e175f664cb69" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
-            <container id="aspace_5855a523e7f33bc9244822c72ce1db03" parent="aspace_d71f90b1f6bbe9235f39e175f664cb69" type="Folder">4</container>
+            <container id="aspace_a9b6d35fbbe38b39e22e92a67be29ad9" label="Mixed Materials [Series 2 GW: 32882017679179]" type="Box">1</container>
+            <container id="aspace_8498525fe032eed1a850cc217f564688" parent="aspace_a9b6d35fbbe38b39e22e92a67be29ad9" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_dbaf15e07806a6a93cca79f0ea8efda2" level="file">
@@ -198,8 +197,8 @@
             <unittitle>The Graduate Council Bulletin and The Source</unittitle>
             <unitid>Series 2</unitid>
             <unitdate datechar="creation" normal="1963/2006" type="inclusive">1963, 2006</unitdate>
-            <container id="aspace_a4cbc0999358bfee79581afb95ebce08" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
-            <container id="aspace_96b4edaf1e912aab962869dd360688d2" parent="aspace_a4cbc0999358bfee79581afb95ebce08" type="Folder">5</container>
+            <container id="aspace_7564db97759d92eaf3a9eb1c74428cef" label="Mixed Materials [32882021551521]" type="Box">SHARED 2</container>
+            <container id="aspace_45e92d7d50f3370b93d94bdde5c8fdda" parent="aspace_7564db97759d92eaf3a9eb1c74428cef" type="Folder">5</container>
           </did>
         </c>
       </c>

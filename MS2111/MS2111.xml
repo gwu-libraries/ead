@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="partially_processed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2111.xml">ms2111.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:29 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:58:22 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -91,8 +90,8 @@
           <unitid>MS2111 Series 1</unitid>
           <unitdate datechar="creation">1974-2000</unitdate>
           <physdesc id="aspace_c84934de7be85f5e1173afa0a3ce8e26" label="General Physical Description note">1.5 Linear feet</physdesc>
-          <container id="aspace_35b3ddba6aeb8b69119e4111df907b40" label="Mixed Materials" type="Box">1</container>
-          <container id="aspace_8c3b35779e78600c6f7ebfb7c33a4099" label="Mixed Materials" type="Box">2</container>
+          <container id="aspace_dbebd23435924c388b5b47f4fdd1f60f" label="Mixed Materials" type="Box">1</container>
+          <container id="aspace_a5f0eb7890a8abd1c4ce4ad4cefe4e52" label="Mixed Materials" type="Box">2</container>
         </did>
         <scopecontent id="aspace_ec93ddf6245ebe68c4cc27e1b9cb2f82">
           <head>Scope and Contents note</head>
@@ -102,7 +101,7 @@
           <did>
             <unittitle>Administrative files and photographs</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a0ae3ad6183270d05e24d3074bf91ab8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2826557925e975369dd7227b5a42a7eb" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_468ae1f7ca0f6097893d2b4adeda378c">
             <head>General note</head>
@@ -112,8 +111,8 @@
           <did>
             <unittitle>Performance Files: Harford Community College Theatre, Bel Air, MD</unittitle>
             <unitdate datechar="creation">06/06/1977</unitdate>
-            <container id="aspace_1f73ab919dad26b072924cdde96c8cb9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d3e6052673180c00dcc0e4268dc7b094" parent="aspace_1f73ab919dad26b072924cdde96c8cb9" type="Folder">1</container>
+            <container id="aspace_ad016aed7c524a6a7eb661338dec8620" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b066e3bb1b76750c1686e471e0217f6d" parent="aspace_ad016aed7c524a6a7eb661338dec8620" type="Folder">1</container>
           </did>
           <odd id="aspace_ba644214a4557e92a01499ed025c0b70">
             <head>General note</head>
@@ -123,8 +122,8 @@
           <did>
             <unittitle>Performance Files: The Cubiculo, New York, NY</unittitle>
             <unitdate datechar="creation">11/11/1977-11/12/1977</unitdate>
-            <container id="aspace_68223fa5b3bf618b7a4dd85379dcbc10" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b5d6c4187f73ebd22e640ab9f667a4b2" parent="aspace_68223fa5b3bf618b7a4dd85379dcbc10" type="Folder">2</container>
+            <container id="aspace_fd99e5c51e860ea47b162f236f2b3106" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bb7b1c2f6399d3632fd9162f4fff5344" parent="aspace_fd99e5c51e860ea47b162f236f2b3106" type="Folder">2</container>
           </did>
           <odd id="aspace_a717a63e63fecbb648f104cacd142c20">
             <head>General note</head>
@@ -134,8 +133,8 @@
           <did>
             <unittitle>Performance Files: The Baltimore Museum of Art, Baltimore, MD</unittitle>
             <unitdate datechar="creation">12/04/1977</unitdate>
-            <container id="aspace_8b3119fe42df66e8ea2880443161f10d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_983c438b6f420fed28c3f8042a26bdeb" parent="aspace_8b3119fe42df66e8ea2880443161f10d" type="Folder">3</container>
+            <container id="aspace_2916c3a37c13a740b8abb266f6a94ea0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4d7fc9d693749dc569b6e41786dc5942" parent="aspace_2916c3a37c13a740b8abb266f6a94ea0" type="Folder">3</container>
           </did>
           <odd id="aspace_aa17399157f0cd25a36dfa58569452e1">
             <head>General note</head>
@@ -145,8 +144,8 @@
           <did>
             <unittitle>Performance Files: Slayton House, Columbia, MD</unittitle>
             <unitdate datechar="creation">04/22/1978</unitdate>
-            <container id="aspace_f0889bfbf9c75dd331175607551a5c96" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e113e475354e52dfbdb671310d778285" parent="aspace_f0889bfbf9c75dd331175607551a5c96" type="Folder">4</container>
+            <container id="aspace_5d74137f22a73b0137860163d9b949a5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b0120347e1114b643a83aef54d562f71" parent="aspace_5d74137f22a73b0137860163d9b949a5" type="Folder">4</container>
           </did>
           <odd id="aspace_00cbf956f6793b50bcdca10a60e06f6f">
             <head>General note</head>
@@ -156,8 +155,8 @@
           <did>
             <unittitle>Performance Files: Marvin Center, George Washington University, Washington, DC</unittitle>
             <unitdate datechar="creation">04/28/1978-04/29/1978</unitdate>
-            <container id="aspace_3e3a57c51a71e666b0a53843aba7116c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bf974597455b8a11897ed4aaddac24d0" parent="aspace_3e3a57c51a71e666b0a53843aba7116c" type="Folder">5</container>
+            <container id="aspace_6f62f0d5947843119a39cf935de688b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6dd797aafcc565064a33af98dd960b77" parent="aspace_6f62f0d5947843119a39cf935de688b5" type="Folder">5</container>
           </did>
           <odd id="aspace_6e011aef813a1328622e1e6dcb55b85d">
             <head>General note</head>
@@ -167,8 +166,8 @@
           <did>
             <unittitle>Performance Files: Hagerstown Junior College Arts Festival, Hargerstown, MD</unittitle>
             <unitdate datechar="creation">04/30/1978</unitdate>
-            <container id="aspace_12158cc3b50c4e70a5492aba33952a2b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cdf9b2df8f48c4f5a4bf973df8941992" parent="aspace_12158cc3b50c4e70a5492aba33952a2b" type="Folder">6</container>
+            <container id="aspace_db3c2b2d3089d7f9e7d555b19cad3681" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_94bf67e546599f88f6e8a28db1d7677a" parent="aspace_db3c2b2d3089d7f9e7d555b19cad3681" type="Folder">6</container>
           </did>
           <odd id="aspace_cecdf0f9e5ba54050227d42f4e6b0027">
             <head>General note</head>
@@ -178,8 +177,8 @@
           <did>
             <unittitle>Performance Files: John Wright Theatre, California State University at Fresno, Fresno, CA</unittitle>
             <unitdate datechar="creation">05/10/1978-05/11/1978</unitdate>
-            <container id="aspace_442c7f039233b1a968d90ae6ac13ebf7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_930ee78c3d75010a5d5efb10a18240c3" parent="aspace_442c7f039233b1a968d90ae6ac13ebf7" type="Folder">7</container>
+            <container id="aspace_5e672027b3bbe40a3a0b9896390e65bd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c6697deedfc75854a429ab40f0fd6190" parent="aspace_5e672027b3bbe40a3a0b9896390e65bd" type="Folder">7</container>
           </did>
           <odd id="aspace_a553b09522177d27d066612846939b42">
             <head>General note</head>
@@ -189,8 +188,8 @@
           <did>
             <unittitle>Performance Files: Maryland Center for the Arts, Saint Joseph's College, Emmitsburg, MD</unittitle>
             <unitdate datechar="creation">07/14/1978</unitdate>
-            <container id="aspace_d1605672ca83fbced7195b15c49cb6d7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5a2e98fca07f7e2089f514a9e9327e3d" parent="aspace_d1605672ca83fbced7195b15c49cb6d7" type="Folder">8</container>
+            <container id="aspace_01c089351075d43cb0ba2c4c7ac5bfc3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b5dd42045590b16f1eaae4e414b08b5f" parent="aspace_01c089351075d43cb0ba2c4c7ac5bfc3" type="Folder">8</container>
           </did>
           <odd id="aspace_62b416c56b8b198cc4e801562ae7c27b">
             <head>General note</head>
@@ -200,8 +199,8 @@
           <did>
             <unittitle>Performance Files: American Theatre Laboratory, New York, NY</unittitle>
             <unitdate datechar="creation">08/03/1978-08/05/1978</unitdate>
-            <container id="aspace_695fde8ca8b124e561e36f8edc0e2667" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_656b4ab51a573d47f265de0814ff2289" parent="aspace_695fde8ca8b124e561e36f8edc0e2667" type="Folder">9</container>
+            <container id="aspace_59030b4b1e0a2dde856d7f88a2e314b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b741dc79f1ac234c05a78a5d202b6d7c" parent="aspace_59030b4b1e0a2dde856d7f88a2e314b0" type="Folder">9</container>
           </did>
           <odd id="aspace_ae3a42f00e8241871a5521efa4979c72">
             <head>General note</head>
@@ -211,8 +210,8 @@
           <did>
             <unittitle>Performance Files: Harford Community College Theatre, Bel Air, MD</unittitle>
             <unitdate datechar="creation">11/09/1978</unitdate>
-            <container id="aspace_034e925c5be482cf63e5b4574f50bf55" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_484eb5d34d0cb8188018ce7d1333c59a" parent="aspace_034e925c5be482cf63e5b4574f50bf55" type="Folder">10</container>
+            <container id="aspace_cdade9a45fc418d0bf9c1c0c4a56002e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_778bfc6741ed77ca7726f29a6a185001" parent="aspace_cdade9a45fc418d0bf9c1c0c4a56002e" type="Folder">10</container>
           </did>
           <odd id="aspace_1f349b04f4cd3ab167fd21177f52a327">
             <head>General note</head>
@@ -222,8 +221,8 @@
           <did>
             <unittitle>Performance Files: Hunter College Studio Theatre, New York, NY</unittitle>
             <unitdate datechar="creation">11/15/1978-11/16/1978</unitdate>
-            <container id="aspace_249d1ca2f4a1e19d702fb86f548f0446" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_086ae86664a2539807f4519b88e5238d" parent="aspace_249d1ca2f4a1e19d702fb86f548f0446" type="Folder">11</container>
+            <container id="aspace_3e3fe4e07c39f2de170c0e2f52e65f69" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_585059a1211ec3f97fae75466ba267d8" parent="aspace_3e3fe4e07c39f2de170c0e2f52e65f69" type="Folder">11</container>
           </did>
           <odd id="aspace_220737781c0958c9089c08398a661f2b">
             <head>General note</head>
@@ -233,8 +232,8 @@
           <did>
             <unittitle>Performance Files: Blackwell Auditorium, Ralph Macon College, Ashland, VA</unittitle>
             <unitdate datechar="creation">01/26/1979-01/27/1979</unitdate>
-            <container id="aspace_a9691273bf31c7f31dbe2dac54046f74" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_55eb6f6ccb8204afc4ca41252d8f9fc7" parent="aspace_a9691273bf31c7f31dbe2dac54046f74" type="Folder">12</container>
+            <container id="aspace_2b2a40024d64c6c1a6dd1b77b0b26094" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_067e5da38789a954a84ea545be92ec71" parent="aspace_2b2a40024d64c6c1a6dd1b77b0b26094" type="Folder">12</container>
           </did>
           <odd id="aspace_9ff2587ef8a41697aeaa2ca9630d4fb6">
             <head>General note</head>
@@ -244,8 +243,8 @@
           <did>
             <unittitle>Performance Files: Performance for the Candlelight Society, Wild Lake High School, Columbia, MD</unittitle>
             <unitdate datechar="creation">03/03/1979</unitdate>
-            <container id="aspace_ca3aa655ffa48dd15e2709f16100d4e1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1dbf7abe16905808f67cd90477e7c3d5" parent="aspace_ca3aa655ffa48dd15e2709f16100d4e1" type="Folder">13</container>
+            <container id="aspace_d18e6f66ede228abec3d92d2196077b5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1f3e502c0742a289b411873096520f52" parent="aspace_d18e6f66ede228abec3d92d2196077b5" type="Folder">13</container>
           </did>
           <odd id="aspace_8ef639860f53ac723f53f24d437a8ee6">
             <head>General note</head>
@@ -255,8 +254,8 @@
           <did>
             <unittitle>Performance Files: Corcoran Gallery of Art, Washington, DC</unittitle>
             <unitdate datechar="creation">03/30/1979</unitdate>
-            <container id="aspace_9105d1883db2c568efbea79194223ec7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_83849ece598f46c8a75a2ea725e5c483" parent="aspace_9105d1883db2c568efbea79194223ec7" type="Folder">14</container>
+            <container id="aspace_9be84f09b386568836221eddb67aa747" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b1de7f566d84c92c756aa72060a17a96" parent="aspace_9be84f09b386568836221eddb67aa747" type="Folder">14</container>
           </did>
           <odd id="aspace_f8e488387559396dae9737280089148a">
             <head>General note</head>
@@ -266,8 +265,8 @@
           <did>
             <unittitle>Performance Files: Milwaukee Performing Arts Center, Milwaukee, WS</unittitle>
             <unitdate datechar="creation">07/09/1979</unitdate>
-            <container id="aspace_1e4eb3b4f73ff132afed72bdcaba4a9e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1b850f2f394fb468594c3c345fed0d28" parent="aspace_1e4eb3b4f73ff132afed72bdcaba4a9e" type="Folder">15</container>
+            <container id="aspace_4ab262ff3bb1d09534c6674c95f6dbd5" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9c25b9c9de0c23d28a680873ab25e087" parent="aspace_4ab262ff3bb1d09534c6674c95f6dbd5" type="Folder">15</container>
           </did>
           <odd id="aspace_53e919fe7cb1f6238327bdc846d48062">
             <head>General note</head>
@@ -277,8 +276,8 @@
           <did>
             <unittitle>Performance Files: Hawaii Dance Theatre, University of Hawaii, Honolulu, HI</unittitle>
             <unitdate datechar="creation">08/10/1979-08/12/1979</unitdate>
-            <container id="aspace_cd1468fb179766cdb5cdff2dd9cb0b8f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a1ffabe2475f93bd4d2565b06b478b33" parent="aspace_cd1468fb179766cdb5cdff2dd9cb0b8f" type="Folder">16</container>
+            <container id="aspace_47147aaeced08198b5786369fcb0605f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e56d6aaeeaca78e955477ccb2cfd6c4b" parent="aspace_47147aaeced08198b5786369fcb0605f" type="Folder">16</container>
           </did>
           <odd id="aspace_dc11f63406e83debec42728870b24d9d">
             <head>General note</head>
@@ -288,8 +287,8 @@
           <did>
             <unittitle>Performance Files: The Winter's Tale, Arena Stage, Washington, DC</unittitle>
             <unitdate datechar="creation">10/05/1079-11/11/1979</unitdate>
-            <container id="aspace_519eb11fe9908506f2e5d343020566ea" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_136d89ff7f2231f38a9939b076da4194" parent="aspace_519eb11fe9908506f2e5d343020566ea" type="Folder">17</container>
+            <container id="aspace_55488ba7e0bfd40faad2bebee6fae5ec" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a82e27ce36eecaf295b190472b368399" parent="aspace_55488ba7e0bfd40faad2bebee6fae5ec" type="Folder">17</container>
           </did>
           <odd id="aspace_ac5eeb55a2c3ac62970c0c3691e826b0">
             <head>General note</head>
@@ -299,8 +298,8 @@
           <did>
             <unittitle>Performance Files: George Washington Hall, Mary Washington College, Fredericksburg, VA</unittitle>
             <unitdate datechar="creation">02/24/1980</unitdate>
-            <container id="aspace_df48b362ea9a2868d8799104ef4f736e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3267705908d913caed2b3884a4274f18" parent="aspace_df48b362ea9a2868d8799104ef4f736e" type="Folder">18</container>
+            <container id="aspace_90248cc965fc98e7f31b67a01a4c4dd3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e3d164d9e3f53d7135bb408840a8637b" parent="aspace_90248cc965fc98e7f31b67a01a4c4dd3" type="Folder">18</container>
           </did>
           <odd id="aspace_54984f3bb920b2524fc516a98f46beba">
             <head>General note</head>
@@ -310,8 +309,8 @@
           <did>
             <unittitle>Performance Files: Hill Theater, Kenyon College, Gambler, OH</unittitle>
             <unitdate datechar="creation">04/25/1980</unitdate>
-            <container id="aspace_d77802f1d2fbffec573365f05522cbaf" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cf8c5f016765dd21a085e242625ffe75" parent="aspace_d77802f1d2fbffec573365f05522cbaf" type="Folder">19</container>
+            <container id="aspace_ad49a44bea10f52be9f0d524d5c884bb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c2cf13d1f9f46da68b595118b00f281f" parent="aspace_ad49a44bea10f52be9f0d524d5c884bb" type="Folder">19</container>
           </did>
           <odd id="aspace_60a23c5ad684203277e39b76e86b79c0">
             <head>General note</head>
@@ -321,8 +320,8 @@
           <did>
             <unittitle>Performance Files: Dolph Auditorium, Cincinnati, OH</unittitle>
             <unitdate datechar="creation">07/25/1980-07/26/1980</unitdate>
-            <container id="aspace_4ed3521fe3804379b491a85ee519d32b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4bb1cf9f1cb351b8d85fd436ce8e255b" parent="aspace_4ed3521fe3804379b491a85ee519d32b" type="Folder">20</container>
+            <container id="aspace_30568b95898af07f11a5a3b8c08672c1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_16c4591eeb23f4b7a7e3be246055f393" parent="aspace_30568b95898af07f11a5a3b8c08672c1" type="Folder">20</container>
           </did>
           <odd id="aspace_e37eb8a3fe80a29906fc8047de1f7a04">
             <head>General note</head>
@@ -332,8 +331,8 @@
           <did>
             <unittitle>Performance Files: City Dance Festival, Washington, DC</unittitle>
             <unitdate datechar="creation">1979-1980</unitdate>
-            <container id="aspace_f4bdcaea115d1ff9d77c1510c404c677" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d66cfc739f8118b849dbef7815ea1394" parent="aspace_f4bdcaea115d1ff9d77c1510c404c677" type="Folder">21</container>
+            <container id="aspace_350a49f3e4f636dff41e631ff1aefec2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a2dc7bd891785b082052d64c22b6f43d" parent="aspace_350a49f3e4f636dff41e631ff1aefec2" type="Folder">21</container>
           </did>
           <odd id="aspace_0aa1ef2c2d6d63fd11d58d1f72edf2c3">
             <head>General note</head>
@@ -343,8 +342,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_144b87bc61ae738962eed16ec5b9a35c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_affdbecfefeb2fd4367060251c318eb9" parent="aspace_144b87bc61ae738962eed16ec5b9a35c" type="Folder">22</container>
+            <container id="aspace_c1a9fa012c857e15bb132e69cb89b1cf" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_980ef437af3961ead8145e4ca17f2633" parent="aspace_c1a9fa012c857e15bb132e69cb89b1cf" type="Folder">22</container>
           </did>
           <odd id="aspace_91077a508638e58667d37eda08c05d98">
             <head>General note</head>
@@ -354,8 +353,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_8a39822c9b65d49b3627cd8ad7431ece" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_42ab948464846e68acf7aa95d4795ce4" parent="aspace_8a39822c9b65d49b3627cd8ad7431ece" type="Folder">23</container>
+            <container id="aspace_b29a7818995133ffdca2b6b18c955599" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_effecc3c4315fabf1e3f3b9cf60b47ca" parent="aspace_b29a7818995133ffdca2b6b18c955599" type="Folder">23</container>
           </did>
           <odd id="aspace_1f18e72fb3a40e528321767d35fccd45">
             <head>General note</head>
@@ -365,8 +364,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_aa1db84295b5789258afb9e8f107c3a3" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3f8f11fcf21ba50d4a46264479391ba5" parent="aspace_aa1db84295b5789258afb9e8f107c3a3" type="Folder">24</container>
+            <container id="aspace_5e226859d04e6b9711726c39a614ceff" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e05343e5ebdbc1552805e54d8ac3bbee" parent="aspace_5e226859d04e6b9711726c39a614ceff" type="Folder">24</container>
           </did>
           <odd id="aspace_c294fe3dc06ede5bab9499f33ef18e20">
             <head>General note</head>
@@ -376,8 +375,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_56c6fb265356671e7ffc52f7eb0b7839" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b9949f7e55530ce6fe86b0862a4a6b5c" parent="aspace_56c6fb265356671e7ffc52f7eb0b7839" type="Folder">25</container>
+            <container id="aspace_44e7f765bdda8fbd23e57e46db1ea752" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4d858a0b5eb1fb56b95a8e183a1f97c6" parent="aspace_44e7f765bdda8fbd23e57e46db1ea752" type="Folder">25</container>
           </did>
           <odd id="aspace_b5c8e2dddf608fc283a5d27d84d2a2a5">
             <head>General note</head>
@@ -387,8 +386,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">2000</unitdate>
-            <container id="aspace_adf0a05a180cf20c39a65d66f255b9fb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d5ffbae07b495ee96e8081b94bd7a4e8" parent="aspace_adf0a05a180cf20c39a65d66f255b9fb" type="Folder">26</container>
+            <container id="aspace_528c7e25cfabe130c58160b632a1f27d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bbff02107d58c17f58535fdd8c43967f" parent="aspace_528c7e25cfabe130c58160b632a1f27d" type="Folder">26</container>
           </did>
           <odd id="aspace_8f0203b17ab23692bdead615df67b0d1">
             <head>General note</head>
@@ -398,8 +397,8 @@
           <did>
             <unittitle>Publicity Material: Biographical sheets/Performance lists</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bb4c4594a9b253d175ec9cb9c386c46d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b7f7de40aca4908eefa6d4e8dc069350" parent="aspace_bb4c4594a9b253d175ec9cb9c386c46d" type="Folder">27</container>
+            <container id="aspace_afb396b18e57711bb3f563730cd9252a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_987e50cafe47799215bb64b03c2ccc55" parent="aspace_afb396b18e57711bb3f563730cd9252a" type="Folder">27</container>
           </did>
           <odd id="aspace_8293020b9364578510c5466ce58c82d1">
             <head>General note</head>
@@ -409,8 +408,8 @@
           <did>
             <unittitle>Publicity Material: Brochures</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_89e13f40b4f566243d086458c123b039" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_10808806827601e787b0a7644d0a0bba" parent="aspace_89e13f40b4f566243d086458c123b039" type="Folder">28</container>
+            <container id="aspace_e1d269deb0b72517fce771c38e15f8c3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_35d28d5123c06720ad9597a87dba29e4" parent="aspace_e1d269deb0b72517fce771c38e15f8c3" type="Folder">28</container>
           </did>
           <odd id="aspace_cc978898eb0f3e718286e18531ca5098">
             <head>General note</head>
@@ -420,8 +419,8 @@
           <did>
             <unittitle>Publicity Material: Clippings/Articles</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e3c1de8fc4ea80d09ce9299dcbb594db" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7d5bf0d2e82d73b36be16a3206dd6fef" parent="aspace_e3c1de8fc4ea80d09ce9299dcbb594db" type="Folder">29</container>
+            <container id="aspace_a482523f90069de2916f2906eeebe1da" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b75139eb32862eccb2ee62d7c7d62476" parent="aspace_a482523f90069de2916f2906eeebe1da" type="Folder">29</container>
           </did>
           <odd id="aspace_eb1104fe71c1a9a078195dd442b10f31">
             <head>General note</head>
@@ -431,8 +430,8 @@
           <did>
             <unittitle>Publicity Material: Flyers/Mailers</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cb17770dd6818ee32ab0520e55281347" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_172cdf294e19ad4c6e2269ee0fa1921b" parent="aspace_cb17770dd6818ee32ab0520e55281347" type="Folder">30</container>
+            <container id="aspace_c5a8c01814d699f06cb2523a4edf315b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a90750fd8426071b4ab3ade32c74ab6e" parent="aspace_c5a8c01814d699f06cb2523a4edf315b" type="Folder">30</container>
           </did>
           <odd id="aspace_6b3d35edd22875fcf06a37de0dceb4cb">
             <head>General note</head>
@@ -442,8 +441,8 @@
           <did>
             <unittitle>Publicity Material: Poster</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6c019b5b445e8d28a03dd50a7fe08c51" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b5fc265d3b60921bf901f4fed5ce9220" parent="aspace_6c019b5b445e8d28a03dd50a7fe08c51" type="Folder">31</container>
+            <container id="aspace_907cebddc2653465decfb635faf7493d" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_de63d38f672d5bc9bef7334bc3d8b025" parent="aspace_907cebddc2653465decfb635faf7493d" type="Folder">31</container>
           </did>
           <odd id="aspace_42719771c306c553fcbcb9aa3bb99938">
             <head>General note</head>
@@ -453,8 +452,8 @@
           <did>
             <unittitle>Publicity Material: Press Releases</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_215553454375ba74342fc89aa7c0de24" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eaff26e268840f15d7be414bb73ed814" parent="aspace_215553454375ba74342fc89aa7c0de24" type="Folder">32</container>
+            <container id="aspace_370e8bb205f49b2d1dd2c9cac8ed80e9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c40eebf9677d5bd3297cf8d2f85282c7" parent="aspace_370e8bb205f49b2d1dd2c9cac8ed80e9" type="Folder">32</container>
           </did>
           <odd id="aspace_188c3a9034903e3a5361b86c7461df8b">
             <head>General note</head>
@@ -464,8 +463,8 @@
           <did>
             <unittitle>Publicity Material: Programs</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bcd8a7627969ba117bb6dff7c97f71cd" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_af5654b2b436d05f28b624b5422b94f6" parent="aspace_bcd8a7627969ba117bb6dff7c97f71cd" type="Folder">33</container>
+            <container id="aspace_e01fefee09b1832fe4c70ca3ceedbd1f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_de2413308cefce92d3625034e16554cd" parent="aspace_e01fefee09b1832fe4c70ca3ceedbd1f" type="Folder">33</container>
           </did>
           <odd id="aspace_f31627bb3626ee56daf91d340e351fbb">
             <head>General note</head>
@@ -475,7 +474,7 @@
           <did>
             <unittitle>Administrative files and photographs</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2302a0062c84e2abc6601fbaba99d2c1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4ed4845999fe6543124bd3d4e32d6d55" label="Mixed Materials" type="Box">2</container>
           </did>
           <odd id="aspace_163355d0a750d079a148e97b97f2f4ec">
             <head>General note</head>
@@ -485,8 +484,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jeff James (?), "Big Show,"</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_9bc849d1b6bc59fd8c14b7440a3ef34e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f7686812bb618371b173fc1dc2c948db" parent="aspace_9bc849d1b6bc59fd8c14b7440a3ef34e" type="Folder">1</container>
+            <container id="aspace_8efdbbc6dec1498e75293550148471d7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8884f64907075383503b535730b99fac" parent="aspace_8efdbbc6dec1498e75293550148471d7" type="Folder">1</container>
           </did>
           <odd id="aspace_182eeaf2e91e652165f35a2e9afe7d8d">
             <head>General note</head>
@@ -496,8 +495,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke, "Big Show," National Cathedral</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d06086f15c82353dd92feccc2d940c04" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e148eb94534bf31defa02ca918d686bf" parent="aspace_d06086f15c82353dd92feccc2d940c04" type="Folder">2</container>
+            <container id="aspace_86a4c64267ba9dac023f4a4a9a76f718" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a65f01d1874fa7dc8f37f7227369da7f" parent="aspace_86a4c64267ba9dac023f4a4a9a76f718" type="Folder">2</container>
           </did>
           <odd id="aspace_527045432d5bd8874fb429db5255c873">
             <head>General note</head>
@@ -507,8 +506,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke, "Big Show," National Cathedral</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3f5f618664a22db5de8f8aad1cbc4ee9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b383cb54ff78696326fbc5b7edadf0b6" parent="aspace_3f5f618664a22db5de8f8aad1cbc4ee9" type="Folder">3</container>
+            <container id="aspace_b9faacef0b80c471583f121244cb5b49" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2924dadb5e74e247425db78eda09763e" parent="aspace_b9faacef0b80c471583f121244cb5b49" type="Folder">3</container>
           </did>
           <odd id="aspace_c6b08fb5d1361824f191a2e9227dcf2a">
             <head>General note</head>
@@ -518,8 +517,8 @@
           <did>
             <unittitle>Black and white photographs: 5" x 7", Jan Van Dyke, "Big Show," National Cathedral</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d966d4d085ded13d1be576951dbde548" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0bc8b42c3a96d19469038c660074ae32" parent="aspace_d966d4d085ded13d1be576951dbde548" type="Folder">4</container>
+            <container id="aspace_62ccfacbf9dc14bcb053d61e6cc5ffba" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6db6b0309e727ce86e2f213400c21883" parent="aspace_62ccfacbf9dc14bcb053d61e6cc5ffba" type="Folder">4</container>
           </did>
           <odd id="aspace_aba16c2017a99b5219eba28e589475f7">
             <head>General note</head>
@@ -529,8 +528,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke, "Big Show"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6ce7f0ebcf9e06e92e6959736c366c25" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_33f1bfb70b41694c582b3f275ca3a913" parent="aspace_6ce7f0ebcf9e06e92e6959736c366c25" type="Folder">5</container>
+            <container id="aspace_639a79f683a4dbdfa93941f3afc81054" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6832de2a8f017e23f8f0c9ff4f474db" parent="aspace_639a79f683a4dbdfa93941f3afc81054" type="Folder">5</container>
           </did>
           <odd id="aspace_e25ccaea3fe5b07e37741916ea41293a">
             <head>General note</head>
@@ -540,8 +539,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke, "Ceremony I"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f688702806cb56d4f52ecd5537792323" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0de9d9ebe65daa7fb2dfc0cd04b9dc1e" parent="aspace_f688702806cb56d4f52ecd5537792323" type="Folder">6</container>
+            <container id="aspace_50a370e469c2257f3ed898d351a4ee2b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4d21e7497bba3df483a183dd226a107c" parent="aspace_50a370e469c2257f3ed898d351a4ee2b" type="Folder">6</container>
           </did>
           <odd id="aspace_a48393a750b30425a518ca8f5c612bae">
             <head>General note</head>
@@ -551,8 +550,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jean Jones, Valerie Shanks, Elly Canterbury, "Paradise Castle"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5736f606897be216536b4a05b70898b2" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2630891ef1da9db24362c7c479453c6d" parent="aspace_5736f606897be216536b4a05b70898b2" type="Folder">7</container>
+            <container id="aspace_89c919a17c31859c3769ac367399a934" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d6cca79a3338b9796990129b9e2275f3" parent="aspace_89c919a17c31859c3769ac367399a934" type="Folder">7</container>
           </did>
           <odd id="aspace_17cd3c229f5ed08b6c8bc65d4156d032">
             <head>General note</head>
@@ -562,8 +561,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Ceremony II with Roses"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4bb24a4982d2820904715533387d6bad" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7a3df53fd85165348ff07b4d348fccba" parent="aspace_4bb24a4982d2820904715533387d6bad" type="Folder">8</container>
+            <container id="aspace_d50e055db2428db76a8a4881f6b5923a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_57bea6316d21d40413df519f53842369" parent="aspace_d50e055db2428db76a8a4881f6b5923a" type="Folder">8</container>
           </did>
           <odd id="aspace_d235e0af5060472ab323ad223c117de2">
             <head>General note</head>
@@ -573,8 +572,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke, "The Rose Garden"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_406bf0174a2d9ab49cd3c1369a3fdd3e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0249b1b6c5ed061072145f6568d3dc59" parent="aspace_406bf0174a2d9ab49cd3c1369a3fdd3e" type="Folder">9</container>
+            <container id="aspace_59415de3d1c899a5323007aafb39e7ba" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a187aa750ca7eec4b4a776cb3cf72506" parent="aspace_59415de3d1c899a5323007aafb39e7ba" type="Folder">9</container>
           </did>
           <odd id="aspace_e0fb7d855d026851b3d1b7e18bb11282">
             <head>General note</head>
@@ -584,8 +583,8 @@
           <did>
             <unittitle>Black and white photographs: 7" x 10", Jan Van Dyke and unidentified dancer, "Fleetwood Mac Suite"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7f09fd9fc03022d93c430751de6bcec4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5c0b425b3968958449af4b7caf4bbba6" parent="aspace_7f09fd9fc03022d93c430751de6bcec4" type="Folder">10</container>
+            <container id="aspace_c1a054386dbbf85b8bf15d91129af84f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_003c0f7a34adcfb364f3ca9ea3321e10" parent="aspace_c1a054386dbbf85b8bf15d91129af84f" type="Folder">10</container>
           </did>
           <odd id="aspace_a3b0fef0e74e40757ad3e76b7fe6696f">
             <head>General note</head>
@@ -595,8 +594,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Shelly North, Elly Canterbury, Susan Sachs, Becky Slifken, and Jan Van Dyke, "Fleetwood Mac Suite"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b274b27d7a752368d2985fe2be10ee93" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_8d6c6a8a4da673a7c1bae2591a10514c" parent="aspace_b274b27d7a752368d2985fe2be10ee93" type="Folder">11</container>
+            <container id="aspace_52b77c28dd91e7e5a258bf9974e5b4ee" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a8320cfb7d5e0c65b6efe99093180741" parent="aspace_52b77c28dd91e7e5a258bf9974e5b4ee" type="Folder">11</container>
           </did>
           <odd id="aspace_8fac9d3e204325b6bb00b5c4d7bde933">
             <head>General note</head>
@@ -604,10 +603,10 @@
         </c>
         <c id="aspace_ref105_9yp" level="file">
           <did>
-            <unittitle>Black and white photographs: 7 ½" x 9 ½", unidentified dancers, "A Dance in Two Spaces"</unittitle>
+            <unittitle>Black and white photographs: 7 Â½" x 9 Â½", unidentified dancers, "A Dance in Two Spaces"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8e777d7c41b8fc8fb5f8a89fbd793f07" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e1513585a0459ec6910919ca6334db26" parent="aspace_8e777d7c41b8fc8fb5f8a89fbd793f07" type="Folder">12</container>
+            <container id="aspace_c043618bf566ffa0049d99a59db383ad" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_82244b9540ed2ab793d582a3dbb65926" parent="aspace_c043618bf566ffa0049d99a59db383ad" type="Folder">12</container>
           </did>
           <odd id="aspace_d008cba058fb0f5e5ac0bb20aa9b14b7">
             <head>General note</head>
@@ -617,8 +616,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Elly Canterbury and unidentified dancers, "A Dance in Two Spaces"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_715e440ef6a2775377e19a8a001c729c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e8cf65be09215552c115246ca3165fb3" parent="aspace_715e440ef6a2775377e19a8a001c729c" type="Folder">13</container>
+            <container id="aspace_80ec96ca1fe7f324601daf68665c1ffe" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1a80637ba575b7ad9441ebffaf594e66" parent="aspace_80ec96ca1fe7f324601daf68665c1ffe" type="Folder">13</container>
           </did>
           <odd id="aspace_a8c923592ec42a15db99648b1cf3d7e4">
             <head>General note</head>
@@ -628,8 +627,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Shelly Leibman, Cathy Paine, and unidentified dancer, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6728a46513cac1f9d3d85a15944f264a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d64d14a1112d3278370ad3bf06e7d592" parent="aspace_6728a46513cac1f9d3d85a15944f264a" type="Folder">14</container>
+            <container id="aspace_0a3d9cdd2bd075af12253a65354daf33" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0645aa68c0ca161fe69f21e32444f171" parent="aspace_0a3d9cdd2bd075af12253a65354daf33" type="Folder">14</container>
           </did>
           <odd id="aspace_3e6d6692c1bb97a8fa30e17ab388674b">
             <head>General note</head>
@@ -639,8 +638,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_afe9470d46d46f66e2a6379da9d8baec" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_37ad081138d4d9cae28f3f577419e370" parent="aspace_afe9470d46d46f66e2a6379da9d8baec" type="Folder">15</container>
+            <container id="aspace_b837c90157c10b162dcd343bfc55e6db" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a4d079afaa52836d79041b8609a60f89" parent="aspace_b837c90157c10b162dcd343bfc55e6db" type="Folder">15</container>
           </did>
           <odd id="aspace_343d703acc4ad02ebe1ca393dc528d62">
             <head>General note</head>
@@ -650,8 +649,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3aaa517f54603059ed17eab700790685" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_fb8a52de2bb2f627f64ec5f410411e07" parent="aspace_3aaa517f54603059ed17eab700790685" type="Folder">16</container>
+            <container id="aspace_d3a27908965a0440a2ce7dc21c5849c0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d3af3b86d5a05d677d29146136bd48dd" parent="aspace_d3a27908965a0440a2ce7dc21c5849c0" type="Folder">16</container>
           </did>
           <odd id="aspace_2048a23a3fdd339edd9b33d69c0d9eb8">
             <head>General note</head>
@@ -661,8 +660,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e0ddbac522d24c9ae6a772391e8833fa" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7f4098ef72b48b854f1a44e19adc8902" parent="aspace_e0ddbac522d24c9ae6a772391e8833fa" type="Folder">17</container>
+            <container id="aspace_ac847cef5ebd627e3b281aad4236e82b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_26e67c7ed85bc504ed34f45185f2f77a" parent="aspace_ac847cef5ebd627e3b281aad4236e82b" type="Folder">17</container>
           </did>
           <odd id="aspace_08a831fa09ecffd0636710ee7d698a2b">
             <head>General note</head>
@@ -672,8 +671,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_354dc4c5446ea6cbcfd1f0c2854b6a2c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ced799b0f247e01686509d6f2739d522" parent="aspace_354dc4c5446ea6cbcfd1f0c2854b6a2c" type="Folder">18</container>
+            <container id="aspace_8f38749017a2bf1f47b2ee9f3002372f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_fd96881c6ab36b3a70e516e9dbf85326" parent="aspace_8f38749017a2bf1f47b2ee9f3002372f" type="Folder">18</container>
           </did>
           <odd id="aspace_38e3fded4ce0b75094dcdf5917939aae">
             <head>General note</head>
@@ -683,8 +682,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Circling"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f612b8d3058c1ed88def89f54aa050ab" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6d1eab9e1a5ffee4d5437903cd8712ec" parent="aspace_f612b8d3058c1ed88def89f54aa050ab" type="Folder">19</container>
+            <container id="aspace_a90467283685e05bbd75400d9faaff2a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d90fc8ee37e1352ff576768a6e085fee" parent="aspace_a90467283685e05bbd75400d9faaff2a" type="Folder">19</container>
           </did>
           <odd id="aspace_ff03824207a5b92d41829ed906dd3eba">
             <head>General note</head>
@@ -694,8 +693,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", unidentified dancers, "Stamping Dance"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e743634e9a8e03a7fee9cbb7d4b5fd6b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_699d9a0a25478e99e67fb7900b81d84e" parent="aspace_e743634e9a8e03a7fee9cbb7d4b5fd6b" type="Folder">20</container>
+            <container id="aspace_316ffbce017e25d4629f8e8dab48d991" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7b76d201c2c5f60f9f9ec3aa8e1ad82a" parent="aspace_316ffbce017e25d4629f8e8dab48d991" type="Folder">20</container>
           </did>
           <odd id="aspace_7d31e18a5ff5d8467a3083adac34b787">
             <head>General note</head>
@@ -705,8 +704,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Jan Van Dyke</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3ebaf0660267737940e46fbdbbac2421" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cf0eb458090ee0d2a476c2427d1b8a7f" parent="aspace_3ebaf0660267737940e46fbdbbac2421" type="Folder">21</container>
+            <container id="aspace_252f3070043ea42e4bc34413c8eb390a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_982f90f0f7c0d7c3f6bb7fc0f0c3c05e" parent="aspace_252f3070043ea42e4bc34413c8eb390a" type="Folder">21</container>
           </did>
           <odd id="aspace_9c5edd458adc64f13baeaa70a40e93ac">
             <head>General note</head>
@@ -716,8 +715,8 @@
           <did>
             <unittitle>Black and white photographs: 8" x 10", Elly Canterbury</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bb668ce6a31e9afe3d75e18da7e81988" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_afe920df658f71d7aefa03526c04b58c" parent="aspace_bb668ce6a31e9afe3d75e18da7e81988" type="Folder">22</container>
+            <container id="aspace_1fda08c941103ab20b120cde1c23a07d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d88f720a95ff350a9c45bd469bd7e2be" parent="aspace_1fda08c941103ab20b120cde1c23a07d" type="Folder">22</container>
           </did>
           <odd id="aspace_ab2762411a02bab6ff4c3588570a86b4">
             <head>General note</head>
@@ -727,7 +726,7 @@
           <did>
             <unittitle>Administrative files and photographs</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0fb4f39c407b2e71e1527363201e1b4b" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_2d663a3c3b4b0b6075fdac490a15641f" label="Mixed Materials" type="Box">3</container>
           </did>
           <odd id="aspace_0fd6cde8aa592eb77717e2f32a4ee0ea">
             <head>General note</head>
@@ -737,8 +736,8 @@
           <did>
             <unittitle>Poster: Oversize material: Jan Van Dyke Dance Group at the University of North Carolina, Greenboro Dance Theater</unittitle>
             <unitdate datechar="creation">01/12/2000-01/14/2000</unitdate>
-            <container id="aspace_77d0d254cff671bd5d9fd15b478f5d56" label="Mixed Materials" type="Box">3</container>
-            <container id="aspace_90e578e2d9062199a86610694efe870d" parent="aspace_77d0d254cff671bd5d9fd15b478f5d56" type="Folder">1</container>
+            <container id="aspace_d09d8bdfbbd137f5aae7124bb841e041" label="Mixed Materials" type="Box">3</container>
+            <container id="aspace_eb5cbcf5b78893f0ec5dcf14d7330940" parent="aspace_d09d8bdfbbd137f5aae7124bb841e041" type="Folder">1</container>
           </did>
           <odd id="aspace_c9a2407d75af9b7dd909a42f243008cf">
             <head>General note</head>
@@ -751,15 +750,15 @@
           <unitid>MS2111 Series 2</unitid>
           <unitdate datechar="creation">1968-2002</unitdate>
           <physdesc id="aspace_2c4415f8df4ab6dfe3b88d41ff5822be" label="General Physical Description note">4 Linear feet</physdesc>
-          <container id="aspace_0493202bb7151b98b0b2453a17a63b7f" label="Mixed Materials" type="Box">4</container>
-          <container id="aspace_4d3cf0d49714c4a61a7ec866cdb1cdc0" label="Mixed Materials" type="Box">5</container>
-          <container id="aspace_07381454d24eaa1310a67118710cdfc5" label="Mixed Materials" type="Box">8</container>
-          <container id="aspace_ef2745d04bf4be4f2361d5e7408210ff" label="Mixed Materials" type="Box">9</container>
-          <container id="aspace_567631b0fc857de09cb331a17bd373ab" label="Mixed Materials" type="Box">6</container>
-          <container id="aspace_dcfd115a8f2c0abb0ea5b243e12fd532" label="Mixed Materials" type="Box">7</container>
-          <container id="aspace_f57e7ba2725be6202f9df9a7e18da6fb" label="Mixed Materials" type="Box">12</container>
-          <container id="aspace_ec8ea637919c1a7aa4d4d0b71bbd624c" label="Mixed Materials" type="Box">10</container>
-          <container id="aspace_83bdce66b7a72cec81803fa2430753a7" label="Mixed Materials" type="Box">11</container>
+          <container id="aspace_5e623093f934bed2eb09e369c8e373e8" label="Mixed Materials" type="Box">4</container>
+          <container id="aspace_23e56c57de413e695d85df407a3617ac" label="Mixed Materials" type="Box">5</container>
+          <container id="aspace_4ad47e9388e253471b06553c3460241e" label="Mixed Materials" type="Box">8</container>
+          <container id="aspace_bb821d9253f4a585ee621d45f062b568" label="Mixed Materials" type="Box">9</container>
+          <container id="aspace_c5f24bf12bc32f96b036279d3c96d9bb" label="Mixed Materials" type="Box">6</container>
+          <container id="aspace_ae04b590ff46b72f686afa920a2877b3" label="Mixed Materials" type="Box">7</container>
+          <container id="aspace_ca1889f9a24039284121b1e3dc0550ad" label="Mixed Materials" type="Box">12</container>
+          <container id="aspace_fab228ba84ec22f2f566ac036a602c4e" label="Mixed Materials" type="Box">10</container>
+          <container id="aspace_6ebc8a03e8066e0211daaaeced943e50" label="Mixed Materials" type="Box">11</container>
         </did>
         <scopecontent id="aspace_df7cbf61ec1b08bae4110d69b91d67ef">
           <head>Scope and Contents note</head>
@@ -769,7 +768,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_659c281fd46c067879859506272bc7fb" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e31cf1573236550ad0d689c9e7265fa7" label="Mixed Materials" type="Box">4</container>
           </did>
           <odd id="aspace_c18e106605546a510c5afbc6299a46fb">
             <head>General note</head>
@@ -780,8 +779,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1968</unitdate>
-            <container id="aspace_a5966b58a44e1d136b80929776ff6e1e" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_e30d7105f5e98fc9588f4dc4213c3676" parent="aspace_a5966b58a44e1d136b80929776ff6e1e" type="Folder">1</container>
+            <container id="aspace_325fa6cf6c5b5d2cb609131bbd1c1f79" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c570de56a4708df54dbd63c9e0f893aa" parent="aspace_325fa6cf6c5b5d2cb609131bbd1c1f79" type="Folder">1</container>
           </did>
           <odd id="aspace_ac352fa973d6d149533237805be6a76d">
             <head>General note</head>
@@ -791,8 +790,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_13d8b3ba316d4adb049b5c7d873a81ec" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_5644380d87164cf5e78e70702868362c" parent="aspace_13d8b3ba316d4adb049b5c7d873a81ec" type="Folder">2</container>
+            <container id="aspace_6a9c5202fa217e90d52d94f04c95822d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1cc647d7e1afa2f03983b0d7f342fb82" parent="aspace_6a9c5202fa217e90d52d94f04c95822d" type="Folder">2</container>
           </did>
           <odd id="aspace_b222fa3c882bc74172dd4604dd18a487">
             <head>General note</head>
@@ -802,8 +801,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1970</unitdate>
-            <container id="aspace_1681fd500b44b962198683fd8405ea8e" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_e83c13bc0f16eff81fe857e204b6c06c" parent="aspace_1681fd500b44b962198683fd8405ea8e" type="Folder">3</container>
+            <container id="aspace_33b508f45eb0128c52db4fa6006616bd" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_153cfbbddb8fe0548a40d00d668fef82" parent="aspace_33b508f45eb0128c52db4fa6006616bd" type="Folder">3</container>
           </did>
           <odd id="aspace_becaa0dd8c806bddf67c4366816a2dea">
             <head>General note</head>
@@ -813,8 +812,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1971</unitdate>
-            <container id="aspace_9cd7f948ca2744612849d29ca284dfa1" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_45e8a1239040c9fa3c58046e2ea05a6e" parent="aspace_9cd7f948ca2744612849d29ca284dfa1" type="Folder">4</container>
+            <container id="aspace_e7b44d9849604f3a8093b0f3f8146320" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_097be2a084727cbb7a7632df4ccb8d19" parent="aspace_e7b44d9849604f3a8093b0f3f8146320" type="Folder">4</container>
           </did>
           <odd id="aspace_e19367740fbe0f0c0e0c751a0c81cf76">
             <head>General note</head>
@@ -824,8 +823,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1972</unitdate>
-            <container id="aspace_4c736ce543c0128fffb9a65850ae6f11" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_1bad919dafc37bf6a0150300f9f7177d" parent="aspace_4c736ce543c0128fffb9a65850ae6f11" type="Folder">5</container>
+            <container id="aspace_825d1f84451549d97cabd043a289bb0d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_df6a38dc19b5481ce349fd3fedf2a46e" parent="aspace_825d1f84451549d97cabd043a289bb0d" type="Folder">5</container>
           </did>
           <odd id="aspace_6a1fc734045f961b3fee30ea06046665">
             <head>General note</head>
@@ -835,8 +834,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1973</unitdate>
-            <container id="aspace_215072cb42ea36e58a0d0657903bbd05" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_f3c3f01eb815d0ce5e64e6af2e4b12b6" parent="aspace_215072cb42ea36e58a0d0657903bbd05" type="Folder">6</container>
+            <container id="aspace_8e484efc3d21d7a3029cff3b24182ce3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4b92ff55aafcf8cd9d9716442a7d8762" parent="aspace_8e484efc3d21d7a3029cff3b24182ce3" type="Folder">6</container>
           </did>
           <odd id="aspace_f49f91ee488dda7b2d3e22b8651ccc05">
             <head>General note</head>
@@ -846,8 +845,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_2ead99653c7645320b8553f767ed05c0" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_170bd5d42c104935c460d4bc4bcd7063" parent="aspace_2ead99653c7645320b8553f767ed05c0" type="Folder">7</container>
+            <container id="aspace_ef40eaa5cb83258d3a6d63a5522c08bc" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_77a5c8bdf0dc8e4790bba4a51f11be94" parent="aspace_ef40eaa5cb83258d3a6d63a5522c08bc" type="Folder">7</container>
           </did>
           <odd id="aspace_32c757308bd52435eaa75c00e27a4e6e">
             <head>General note</head>
@@ -857,8 +856,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1975</unitdate>
-            <container id="aspace_5565ded2fb32a5c7cbcb5bbaec3a7f4e" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d2d609deca2952f3a031b0d5c62f4113" parent="aspace_5565ded2fb32a5c7cbcb5bbaec3a7f4e" type="Folder">8</container>
+            <container id="aspace_7cdf28188a92fc392dacb858d02315f4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_92557a26abde49ab1226d06303c2c51a" parent="aspace_7cdf28188a92fc392dacb858d02315f4" type="Folder">8</container>
           </did>
           <odd id="aspace_0446aa2c65a00918a29dab2cfb224b7d">
             <head>General note</head>
@@ -868,8 +867,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1976</unitdate>
-            <container id="aspace_6268af7ce7dee08e9e1170d1bfbc57f0" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_69a5745adbdcb704529ab94f20821f23" parent="aspace_6268af7ce7dee08e9e1170d1bfbc57f0" type="Folder">9</container>
+            <container id="aspace_815d0adbb1fa602307635c415537d3e0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_e21ed36e47c928c71bf508a321c7c1e5" parent="aspace_815d0adbb1fa602307635c415537d3e0" type="Folder">9</container>
           </did>
           <odd id="aspace_c8dbf1239e47fb58f5130a2d7a3f0616">
             <head>General note</head>
@@ -879,8 +878,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_9982295b0aec7ca1e00843431982efde" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_efbdec059e6f5b72857fa004b04a1537" parent="aspace_9982295b0aec7ca1e00843431982efde" type="Folder">10</container>
+            <container id="aspace_aca711acb35e66635c1d34267c474b8c" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_4101b283a9e1fe7c687dfaba50404b9f" parent="aspace_aca711acb35e66635c1d34267c474b8c" type="Folder">10</container>
           </did>
           <odd id="aspace_ddf0366d0f2949dc1e8154a53783cee3">
             <head>General note</head>
@@ -890,8 +889,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_146fea075a8216bb588dd73118f35d98" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_8e537c2a28fdd0dc3610fc31390a1ef2" parent="aspace_146fea075a8216bb588dd73118f35d98" type="Folder">11</container>
+            <container id="aspace_faadb7065c84710b1fc7e5224afc78e1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2d8241f4e893f2754d35441efe52eb87" parent="aspace_faadb7065c84710b1fc7e5224afc78e1" type="Folder">11</container>
           </did>
           <odd id="aspace_a99942226abbe2aa407a7fa4424aea1e">
             <head>General note</head>
@@ -901,8 +900,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_2a6f0ba7bedb9ec60015b216afe5e6cf" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_e6cc8608618d26225a5b66d1689be4db" parent="aspace_2a6f0ba7bedb9ec60015b216afe5e6cf" type="Folder">12</container>
+            <container id="aspace_bb38b7a57a8a294f5336ce8d335e5845" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_974dcd58e0f0cd4fa12d2e933427be79" parent="aspace_bb38b7a57a8a294f5336ce8d335e5845" type="Folder">12</container>
           </did>
           <odd id="aspace_b12e24cd1ff10e3f3970b125859b4e52">
             <head>General note</head>
@@ -912,8 +911,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_718ec26162a0c208c245bfadc60fca8c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_7b7cbeab26b59004ce2cbd1b4ae38283" parent="aspace_718ec26162a0c208c245bfadc60fca8c" type="Folder">13</container>
+            <container id="aspace_5a9b1f9716e32f0f98e3ccc0015e37d2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b50f885f73ce10c98810fc4ad29f34bb" parent="aspace_5a9b1f9716e32f0f98e3ccc0015e37d2" type="Folder">13</container>
           </did>
           <odd id="aspace_1aa3f0d53c98e1f8afc51b80da4431c0">
             <head>General note</head>
@@ -923,8 +922,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_bb084b55fad65181d124587d4c3bfb2a" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d7dc1abb98df5e0e7228ef3617b59336" parent="aspace_bb084b55fad65181d124587d4c3bfb2a" type="Folder">14</container>
+            <container id="aspace_3a243e38b61fb1aa48b61c6cf7858da2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_190ae0375d57f2fc2916430583ea27fc" parent="aspace_3a243e38b61fb1aa48b61c6cf7858da2" type="Folder">14</container>
           </did>
           <odd id="aspace_6ac9c40dc783d21ed1a034a06ea94c63">
             <head>General note</head>
@@ -934,8 +933,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_2f2e5d71942d482f694d812ddb0bea01" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_facbcba8091df3dfa50c410c4c15ca32" parent="aspace_2f2e5d71942d482f694d812ddb0bea01" type="Folder">15</container>
+            <container id="aspace_af32d9e6b7e642207ed16b3eab90f8e2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_bfc1d4e49bd97aed8d47bcb26fbe93e5" parent="aspace_af32d9e6b7e642207ed16b3eab90f8e2" type="Folder">15</container>
           </did>
           <odd id="aspace_21e1bb877546f2b565ff78254a775c7e">
             <head>General note</head>
@@ -945,8 +944,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1983</unitdate>
-            <container id="aspace_33454a9fc9d93f2e3b67b0f375ee0b00" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_44201872c0c4c8bfcd66d09d0b8e4cf3" parent="aspace_33454a9fc9d93f2e3b67b0f375ee0b00" type="Folder">16</container>
+            <container id="aspace_d03c174259baac94e1462e3f52e2f166" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9349ecab08ae338f4e8a20777902f24f" parent="aspace_d03c174259baac94e1462e3f52e2f166" type="Folder">16</container>
           </did>
           <odd id="aspace_d495d4e8f7ec7879ccc8057ae4171005">
             <head>General note</head>
@@ -956,8 +955,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_7b0357619394b0f2d1970f52103854d5" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_aad3a2e9bc5d98910153b02f2948193f" parent="aspace_7b0357619394b0f2d1970f52103854d5" type="Folder">17</container>
+            <container id="aspace_7f2973a4c4778bfe56d869fe710187d8" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0a75c0db4204a0ab159dcfc673c1c4f9" parent="aspace_7f2973a4c4778bfe56d869fe710187d8" type="Folder">17</container>
           </did>
           <odd id="aspace_8f96486b4bec545505af32d9b411cc1d">
             <head>General note</head>
@@ -967,8 +966,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1985</unitdate>
-            <container id="aspace_5f04419826949f7a9840b9cf641a14b2" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_f1320b191f658951d2339ea865cf67ed" parent="aspace_5f04419826949f7a9840b9cf641a14b2" type="Folder">18</container>
+            <container id="aspace_1d2dc0174f6115fb281f8b2c283ab5aa" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6f3b23c967205301bfc7adeafa0848fb" parent="aspace_1d2dc0174f6115fb281f8b2c283ab5aa" type="Folder">18</container>
           </did>
           <odd id="aspace_ca2f13f95dc3deb15e48b4364d3a9692">
             <head>General note</head>
@@ -978,8 +977,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_07a08942dc5c880063723176e9d1cbaf" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_c17fbfc08129dcfe5b64a81fd65ead17" parent="aspace_07a08942dc5c880063723176e9d1cbaf" type="Folder">19</container>
+            <container id="aspace_14f90e6a0bc42bca46b75e78cb02acd4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_46237c6418a8c300ed5489e3cca089c7" parent="aspace_14f90e6a0bc42bca46b75e78cb02acd4" type="Folder">19</container>
           </did>
           <odd id="aspace_c176c86e5db27983fe3198e0ef2e3b42">
             <head>General note</head>
@@ -989,8 +988,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1988</unitdate>
-            <container id="aspace_1c4dc4a777580f69fcad3a4351d6484f" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b1ec5c94f1edf0aa0726c22353674f9c" parent="aspace_1c4dc4a777580f69fcad3a4351d6484f" type="Folder">20</container>
+            <container id="aspace_6f54ae4763617eb185517754d2b82e05" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_355b726952dd5ad96696b32e25692cc8" parent="aspace_6f54ae4763617eb185517754d2b82e05" type="Folder">20</container>
           </did>
           <odd id="aspace_1abe4e57cc2ae032d2a64943935459ae">
             <head>General note</head>
@@ -1000,8 +999,8 @@
           <did>
             <unittitle>Newspaper Clippings:</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_42ab04e0b54e98412d7f0f5bc0cd0844" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_c2e37f8d9a99d3da8d1e40eb58f0cb93" parent="aspace_42ab04e0b54e98412d7f0f5bc0cd0844" type="Folder">21</container>
+            <container id="aspace_62cfd7504f11dd44b8cc180a00d07439" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_deaa758b2ee4de230ac811b2af2d840c" parent="aspace_62cfd7504f11dd44b8cc180a00d07439" type="Folder">21</container>
           </did>
           <odd id="aspace_81281b30b673d747420b4e0d6100fd89">
             <head>General note</head>
@@ -1011,8 +1010,8 @@
           <did>
             <unittitle>Advertisement: Jan Van Dyke Group Postcard announcing a date of free Dance performance 06/09-06/10 (no year given)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_70eb7aad422b8d4c9ea85189723a0d9c" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_483c9e89538f991fa2f03e7f3cd61e03" parent="aspace_70eb7aad422b8d4c9ea85189723a0d9c" type="Folder">22</container>
+            <container id="aspace_f0686c3097a46cf7044474c88aca9684" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6c21ebb20bdc27040adefffbb6598266" parent="aspace_f0686c3097a46cf7044474c88aca9684" type="Folder">22</container>
           </did>
           <odd id="aspace_c2bc8faad027c1ea4d63d95361efdc50">
             <head>General note</head>
@@ -1022,8 +1021,8 @@
           <did>
             <unittitle>Advertisement: Poster of John Gamble and Jan Van Dyke Dance Company, NC</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3a41fd54c2e6cefa036379b80c4f6a86" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_11635cd98c04508fa6806ddb514cc574" parent="aspace_3a41fd54c2e6cefa036379b80c4f6a86" type="Folder">23</container>
+            <container id="aspace_7b927fcbc98393592177ee5df2841014" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_13781cf02ebb1b1e2d43bfdcf6218f81" parent="aspace_7b927fcbc98393592177ee5df2841014" type="Folder">23</container>
           </did>
           <odd id="aspace_57cc157d3bcb08b823b92777034bff10">
             <head>General note</head>
@@ -1033,8 +1032,8 @@
           <did>
             <unittitle>Advertisement: Jan Van Dyke Modern Dance Workshop Dance Classes</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_92dae53017901178dd62b28bbeba40b8" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_c180ca1add45e6a3fa9e3b7796ec9ba4" parent="aspace_92dae53017901178dd62b28bbeba40b8" type="Folder">24</container>
+            <container id="aspace_2f1f273a20ae497664e95b0e1a3165ff" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0e89515610d2de6f9dcb233aae4f04f5" parent="aspace_2f1f273a20ae497664e95b0e1a3165ff" type="Folder">24</container>
           </did>
           <odd id="aspace_5effb28be9be20fa588b05744a9e7a4c">
             <head>General note</head>
@@ -1044,8 +1043,8 @@
           <did>
             <unittitle>Advertisement: North Carolina Dance Festivals announcing dates</unittitle>
             <unitdate datechar="creation">2001-2002</unitdate>
-            <container id="aspace_e9b8764c345536360ba0cb6f1c4a3130" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_d29bc87a7dfbc90ca86879d9f90544f0" parent="aspace_e9b8764c345536360ba0cb6f1c4a3130" type="Folder">25</container>
+            <container id="aspace_173c8cf0a5ea4edc0f17eaafe9577000" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_3559218eb518032b3111e75fb3350604" parent="aspace_173c8cf0a5ea4edc0f17eaafe9577000" type="Folder">25</container>
           </did>
           <odd id="aspace_4f08f57cc210babba0b9cb9351aeb1ba">
             <head>General note</head>
@@ -1055,8 +1054,8 @@
           <did>
             <unittitle>Advertisement: Invitation to The George Washington University Theatre and Dance "Women's work at GW dance legacy."</unittitle>
             <unitdate datechar="creation">03/26/1999</unitdate>
-            <container id="aspace_291e90d6243f0db496e1dfe8e74ce479" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_a7bb446bb9ce3ac6214c42c35dc40c72" parent="aspace_291e90d6243f0db496e1dfe8e74ce479" type="Folder">26</container>
+            <container id="aspace_ddd99a053589a0353fd50f70ea20300f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_9522e60c2b970e987148b7c1e1d6d72b" parent="aspace_ddd99a053589a0353fd50f70ea20300f" type="Folder">26</container>
           </did>
           <odd id="aspace_066a1e6c11ce5129b3423e8c00c7f4f3">
             <head>General note</head>
@@ -1066,8 +1065,8 @@
           <did>
             <unittitle>Advertisement: Program for Jan Van Dyke Dancers at the Footwork Studio. Six Dances: Two Dances, Quartet, Pearl, Stamping Dance, Luna, and Spike</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e4b58cbb1d2bd8adf2d7e473717224dd" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_51db1ffc9e0f681a33b6cf6a3380727d" parent="aspace_e4b58cbb1d2bd8adf2d7e473717224dd" type="Folder">27</container>
+            <container id="aspace_43a63c04e61f4969b8700208faa33829" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f59ff8169fe989aef0ebf1d727548a31" parent="aspace_43a63c04e61f4969b8700208faa33829" type="Folder">27</container>
           </did>
           <odd id="aspace_381361f895aa02d5cf106158e087cb12">
             <head>General note</head>
@@ -1077,8 +1076,8 @@
           <did>
             <unittitle>Advertisement: Program for Jan Van Dyke and Dancers performing at Footwork Studio</unittitle>
             <unitdate datechar="creation">03/29/1985-03/31/1985</unitdate>
-            <container id="aspace_c61d57ce0078b8151bdabef380f03afd" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_61a73aa4e6d377d428a85253601f346f" parent="aspace_c61d57ce0078b8151bdabef380f03afd" type="Folder">28</container>
+            <container id="aspace_7e4264ad71a5502f5a712111c1276905" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_13a791108fcb41506b2987c8d1eb514c" parent="aspace_7e4264ad71a5502f5a712111c1276905" type="Folder">28</container>
           </did>
           <odd id="aspace_28036ce2568eeaca16fba31bfe0663f5">
             <head>General note</head>
@@ -1088,8 +1087,8 @@
           <did>
             <unittitle>Advertisement: The NC Dance Project Presents: The 6th Annual Gallery Performances Series The Jan Van Dyke Dance Group</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d51ec3d9ac766b6c7905078d9a92b062" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_8a6194ef65a4bd9d28bb52faa308ecc5" parent="aspace_d51ec3d9ac766b6c7905078d9a92b062" type="Folder">29</container>
+            <container id="aspace_050de7224277f6a0da17ebe84ba67103" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_476e05f571492231e5f072b783616259" parent="aspace_050de7224277f6a0da17ebe84ba67103" type="Folder">29</container>
           </did>
           <odd id="aspace_23f20ab09607d9e6774d57a4812b1d5c">
             <head>General note</head>
@@ -1099,8 +1098,8 @@
           <did>
             <unittitle>Advertisement: Flyer Announcing D.C works at Cubiculo evening of solos by Washington Area Artist Dance by Jan Van Dyke</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cc7518c72906edfafe9f1f8f6e1b9af0" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_e01ed36ba34a58d31b46b439826ae4bb" parent="aspace_cc7518c72906edfafe9f1f8f6e1b9af0" type="Folder">30</container>
+            <container id="aspace_ac150591931ff4560b9275f9ae2e64e4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_df45e56cfcd4e43899090b26b1f0b5a9" parent="aspace_ac150591931ff4560b9275f9ae2e64e4" type="Folder">30</container>
           </did>
           <odd id="aspace_afc58a9295e6ad5d252ee7325b4a843f">
             <head>General note</head>
@@ -1110,8 +1109,8 @@
           <did>
             <unittitle>Advertisement: Jan Van Dyke and Dancers with Quotes</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c4515eea3205bbdbe7a034c09d1fd6ea" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_62b1d7d55fb782de1981698fad04fabb" parent="aspace_c4515eea3205bbdbe7a034c09d1fd6ea" type="Folder">31</container>
+            <container id="aspace_e6ddb419603e3e7e08f740fa6e978927" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ba489ec953d9c13efa6c610e7f26af6d" parent="aspace_e6ddb419603e3e7e08f740fa6e978927" type="Folder">31</container>
           </did>
           <odd id="aspace_83b71316e4e4c37a90a08b2fe8a1ff8a">
             <head>General note</head>
@@ -1121,8 +1120,8 @@
           <did>
             <unittitle>Washington Dance Review: Issue Autumn 1985 Vol. 5, No. 1</unittitle>
             <unitdate datechar="creation">1985</unitdate>
-            <container id="aspace_506d59ea86eda55e26219471b9cf3650" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_b8aaee333d54565596e2a1072ae5ff07" parent="aspace_506d59ea86eda55e26219471b9cf3650" type="Folder">32</container>
+            <container id="aspace_e942b3e7083dc1d818b75aab247c7e4e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ef0a1871e8646319cf8e53ad3bb6b8aa" parent="aspace_e942b3e7083dc1d818b75aab247c7e4e" type="Folder">32</container>
           </did>
           <odd id="aspace_e501f83c9b3ace2e2722ea59622b8a86">
             <head>General note</head>
@@ -1132,8 +1131,8 @@
           <did>
             <unittitle>Washington Dance Review: Issue Autumn 1986 Vol. 6, No. 1</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_a311c4230ee8ee15350e607f9fb9c224" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_26375df2c70a3f482d3d19b8fe1437b9" parent="aspace_a311c4230ee8ee15350e607f9fb9c224" type="Folder">33</container>
+            <container id="aspace_d6b8523f1e2f00fc9677c0a8a23a83e1" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_2789496c8b3e24b68462dd11aa09f289" parent="aspace_d6b8523f1e2f00fc9677c0a8a23a83e1" type="Folder">33</container>
           </did>
           <odd id="aspace_be2f32ca3a3ff31fb2984676fa718897">
             <head>General note</head>
@@ -1143,8 +1142,8 @@
           <did>
             <unittitle>Washington Dance Review: Issue Autumn 1980 Vol. 1, No. 5</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_b01e646b6b7d4e0127817feb4dbbd8a7" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_3a26fde8229015b9087951a84a4f9178" parent="aspace_b01e646b6b7d4e0127817feb4dbbd8a7" type="Folder">34</container>
+            <container id="aspace_9c5d4a906c8913c6c7fc076a64c87e10" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_27be499c1e13b47f2450f8cdcf8c5c8d" parent="aspace_9c5d4a906c8913c6c7fc076a64c87e10" type="Folder">34</container>
           </did>
           <odd id="aspace_742a18a185ed4943d476df1a43a8225f">
             <head>General note</head>
@@ -1154,8 +1153,8 @@
           <did>
             <unittitle>Washington Dance Review: Issue Spring 1987 Vol. 6, No. 3</unittitle>
             <unitdate datechar="creation">1987</unitdate>
-            <container id="aspace_5ac747a6750d7459938902c156e7d396" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_14ce5d35bcd77a19c95714d886cc725e" parent="aspace_5ac747a6750d7459938902c156e7d396" type="Folder">35</container>
+            <container id="aspace_9f643851bbb376b103a5279e34dbfa54" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_f0bfa885004ac1ef95251b47fec22602" parent="aspace_9f643851bbb376b103a5279e34dbfa54" type="Folder">35</container>
           </did>
           <odd id="aspace_1e5803bdf10df10b1081d73b9481fe25">
             <head>General note</head>
@@ -1165,8 +1164,8 @@
           <did>
             <unittitle>Washington Dance Review: Issue Summer 1986 Vol. 5, No. 4 by Kim Chan</unittitle>
             <unitdate datechar="creation">1986</unitdate>
-            <container id="aspace_3d3220f24c90da1dedd85049b6253d85" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_66d86778b08427f283e4a4a085e86d15" parent="aspace_3d3220f24c90da1dedd85049b6253d85" type="Folder">36</container>
+            <container id="aspace_264f5b40f893386c9448d496ffabcd02" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8f9b840a15bdc130e44f40b9be277cfc" parent="aspace_264f5b40f893386c9448d496ffabcd02" type="Folder">36</container>
           </did>
           <odd id="aspace_e70aac7101d9518a72f1ab846c7a3f1a">
             <head>General note</head>
@@ -1176,8 +1175,8 @@
           <did>
             <unittitle>Contemporary Dance Theatre: 25th Anniversary Season Concert</unittitle>
             <unitdate datechar="creation">06/19/1998-06/20/1998</unitdate>
-            <container id="aspace_dd87f4e46138439e80c220e01f572ca6" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_8b15a8a332d53c7e6ea9ee461f6317ed" parent="aspace_dd87f4e46138439e80c220e01f572ca6" type="Folder">37</container>
+            <container id="aspace_b01ae0e0e84a18b81ed6eb9c18737730" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_0a027e0e727cb89fb8b8e693a0a836ed" parent="aspace_b01ae0e0e84a18b81ed6eb9c18737730" type="Folder">37</container>
           </did>
           <odd id="aspace_b0ccdceb5fe765673ed87b6567b492f0">
             <head>General note</head>
@@ -1187,8 +1186,8 @@
           <did>
             <unittitle>Contemporary Dance Theatre: Footprints Vol. III No IV Winter</unittitle>
             <unitdate datechar="creation">1990</unitdate>
-            <container id="aspace_3ea9764f91497eba3870229c7faefe85" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_892f2e1b5440d45dc66e61ce6e5e7c2c" parent="aspace_3ea9764f91497eba3870229c7faefe85" type="Folder">38</container>
+            <container id="aspace_c2f5b5dcf7e6a232aedcf8c6a15a36f5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7effd392fa867375ca211f669d92edb2" parent="aspace_c2f5b5dcf7e6a232aedcf8c6a15a36f5" type="Folder">38</container>
           </did>
           <odd id="aspace_607884e031d7a43e2edbf6aa2841f5db">
             <head>General note</head>
@@ -1198,8 +1197,8 @@
           <did>
             <unittitle>Dance Magazine: "Antony Tudor will receive Capezio Award"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_195dbc444d82dddd45f80f2e8b3fd0c6" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_bda729de9e16b259f16564764fa281f0" parent="aspace_195dbc444d82dddd45f80f2e8b3fd0c6" type="Folder">39</container>
+            <container id="aspace_f46f1e42c80804a81cbaf9a017106c19" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ebfcc35a4bd3813284f5d5607168c5e3" parent="aspace_f46f1e42c80804a81cbaf9a017106c19" type="Folder">39</container>
           </did>
           <odd id="aspace_2cd02ec6e9c88f5cb8efcedb87e5d495">
             <head>General note</head>
@@ -1209,8 +1208,8 @@
           <did>
             <unittitle>Dance Magazine: "The Making of a Music Video Bop till you Drop," by Jan Van Dyke</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_53285b21f8cba430d573faa44573fb65" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_0e8044742fe0f7e93059aae0348199ed" parent="aspace_53285b21f8cba430d573faa44573fb65" type="Folder">40</container>
+            <container id="aspace_3dc6f69ec0f60cbe141a8a2618c1fe38" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8474c8270a09fdcf5079cc19ee96c267" parent="aspace_3dc6f69ec0f60cbe141a8a2618c1fe38" type="Folder">40</container>
           </did>
           <odd id="aspace_7ff7d834f96d1f47778fcf97d268c94b">
             <head>General note</head>
@@ -1220,8 +1219,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Preface and Chapter I: The Modern Point of View</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_0ed029966cfcf6d71c206f5c225850ee" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_93c3b8ba519751ed38fd9f4145d2fe8a" parent="aspace_0ed029966cfcf6d71c206f5c225850ee" type="Folder">41</container>
+            <container id="aspace_a5f01655d921a4e2734f9a436e337074" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_76d78a115ec4934296db06f924d72a06" parent="aspace_a5f01655d921a4e2734f9a436e337074" type="Folder">41</container>
           </did>
           <odd id="aspace_62321358068d33d4e3f881f9f2e88841">
             <head>General note</head>
@@ -1231,8 +1230,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Chapter II: The Nation Endowment for the Arts and its Impact on Modern Dance: A Review of the Literature</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_8da8ee4460e13745a12f9200db6e650f" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_108868342c8f871b7de7f529ded5c076" parent="aspace_8da8ee4460e13745a12f9200db6e650f" type="Folder">42</container>
+            <container id="aspace_b8eb08dae4abb90abee1c53cd50d3dab" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_42cb7a6944ffb50276ea33ff92399a47" parent="aspace_b8eb08dae4abb90abee1c53cd50d3dab" type="Folder">42</container>
           </did>
           <odd id="aspace_33be38c6780a2f9806f8f2161ddf751e">
             <head>General note</head>
@@ -1242,8 +1241,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Chapter III: Dance and Education</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_4229500e84239aae12e433f920772f8f" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_925321d7c21907b4d6b5d5e4ffb17172" parent="aspace_4229500e84239aae12e433f920772f8f" type="Folder">43</container>
+            <container id="aspace_bdb49f37154a0661d494e52c2d446d4a" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_598e6e8eb6534fc1c3642b32899e1701" parent="aspace_bdb49f37154a0661d494e52c2d446d4a" type="Folder">43</container>
           </did>
           <odd id="aspace_8172ff7e889b1db7b3e9d82b028bc65f">
             <head>General note</head>
@@ -1253,8 +1252,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Chapter IV: Four dance Artists: The Perspective from the Filed</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_724beaf5c82dfe3139c05b9b7bbf9b9a" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_7ade680efd5bb55eff059aa26d844212" parent="aspace_724beaf5c82dfe3139c05b9b7bbf9b9a" type="Folder">44</container>
+            <container id="aspace_b4b4914a37cbf11e749a7fb0015a7fc4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d4383e17fd26d33d1c1eb1f17e7bf023" parent="aspace_b4b4914a37cbf11e749a7fb0015a7fc4" type="Folder">44</container>
           </did>
           <odd id="aspace_59e917ed28c4e94f6f47583269431146">
             <head>General note</head>
@@ -1264,8 +1263,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Chapter V: Modern Dance in a Postmodern World</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_dc6f509531a4decf0a74d38c30af41ae" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_4956308ee7cba9c47c650c80f6b323bc" parent="aspace_dc6f509531a4decf0a74d38c30af41ae" type="Folder">45</container>
+            <container id="aspace_950492bdbd4318217eb70ab3977b82f4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_14175588816a04a5567d3ccede36b2de" parent="aspace_950492bdbd4318217eb70ab3977b82f4" type="Folder">45</container>
           </did>
           <odd id="aspace_4f68e7488f0cbd039ecda22fb9886a14">
             <head>General note</head>
@@ -1275,8 +1274,8 @@
           <did>
             <unittitle>Manuscripts on Jan Van Dyke: 'Modern Dance in Postmodern World.' Bibliography</unittitle>
             <unitdate datechar="creation">1989</unitdate>
-            <container id="aspace_7d1b6d0d76014901c29d4869f71d23ac" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_ae3161ecd036748fdd164fdb76cb1536" parent="aspace_7d1b6d0d76014901c29d4869f71d23ac" type="Folder">46</container>
+            <container id="aspace_b2abc462780f908ced8ccef324c4a631" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_59430b4af0206ddbeaecd36adcb3f45e" parent="aspace_b2abc462780f908ced8ccef324c4a631" type="Folder">46</container>
           </did>
           <odd id="aspace_a1a91e0215b6f495dd7c5385f73d2128">
             <head>General note</head>
@@ -1286,8 +1285,8 @@
           <did>
             <unittitle>Miscellaneous: Jan Van Dyke Performances</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9f5c525fa744fbbaecbd32b86734b904" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_eec8333d88e1cebcc8d1abb4ef568e34" parent="aspace_9f5c525fa744fbbaecbd32b86734b904" type="Folder">47</container>
+            <container id="aspace_e445b29ceb1251ce8e893b300ab04622" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_adc0175ff783399702fc926c036e2bd1" parent="aspace_e445b29ceb1251ce8e893b300ab04622" type="Folder">47</container>
           </did>
           <odd id="aspace_45bb2157379abe9f1a956457db1afaea">
             <head>General note</head>
@@ -1297,8 +1296,8 @@
           <did>
             <unittitle>Miscellaneous: Clifton Magazine of The University of Cincinnati: The Performing Arts with Correspondence to Jan Van Dyke from Copy Editor Megan E. F. Jones, (winter 1987)</unittitle>
             <unitdate datechar="creation">1987</unitdate>
-            <container id="aspace_c4c141bad1e95560102239977b39a2de" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_f845db8197002b06fb1eb78c88b0eeaa" parent="aspace_c4c141bad1e95560102239977b39a2de" type="Folder">48</container>
+            <container id="aspace_0fecc5ef12fedf1df44dc040a5e6158e" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1c2595e888a3bd0d8faffea100af75b5" parent="aspace_0fecc5ef12fedf1df44dc040a5e6158e" type="Folder">48</container>
           </did>
           <odd id="aspace_ef3d38769d7ee2703e269876b3ee62b2">
             <head>General note</head>
@@ -1308,8 +1307,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0d14e55b0ab8f99abf728631f99107ab" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_13aaa00544e531a59e79514578a79278" parent="aspace_0d14e55b0ab8f99abf728631f99107ab" type="Folder">49</container>
+            <container id="aspace_cb1c6a170012b614a3775686aeebf5b0" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_d4bb6f296f165db61929bef3e715c109" parent="aspace_cb1c6a170012b614a3775686aeebf5b0" type="Folder">49</container>
           </did>
           <odd id="aspace_527c38493428b2ec896468f995d816eb">
             <head>General note</head>
@@ -1319,8 +1318,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0a5892ab4ba12a371285e9e0e2a15320" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_52a77bfd89ba5c5fc02b02d606fa1e7a" parent="aspace_0a5892ab4ba12a371285e9e0e2a15320" type="Folder">50</container>
+            <container id="aspace_7a82cfe7d5d8272cc65ab3e69ca52513" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_41dd5a4500d5b61feeff22f8d5786f1d" parent="aspace_7a82cfe7d5d8272cc65ab3e69ca52513" type="Folder">50</container>
           </did>
           <odd id="aspace_17e52257032abe61dc80b03da65ac3d5">
             <head>General note</head>
@@ -1330,8 +1329,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9b89fa0ef0cf45a668a7b906f884d6d9" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_e31cccbab985646a56a298bc7b6acb97" parent="aspace_9b89fa0ef0cf45a668a7b906f884d6d9" type="Folder">51</container>
+            <container id="aspace_f780b2fa4cebf31edd6864fd30fcd10b" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c2f9c1fb826359e6f14548f12cb22d79" parent="aspace_f780b2fa4cebf31edd6864fd30fcd10b" type="Folder">51</container>
           </did>
           <odd id="aspace_cf9e913ccdde7c1823930c51e3fede11">
             <head>General note</head>
@@ -1341,8 +1340,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 4</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d96e4b481c0c4a657f111f75b52e741e" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_783f23e70687d8bd15614e147c1db558" parent="aspace_d96e4b481c0c4a657f111f75b52e741e" type="Folder">52</container>
+            <container id="aspace_66aec5df31045b3f121b52f65f1a0a17" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1994aba66a77cf5599467a84c71fcfe2" parent="aspace_66aec5df31045b3f121b52f65f1a0a17" type="Folder">52</container>
           </did>
           <odd id="aspace_5bc582b57777a2508d36900b9b8da58f">
             <head>General note</head>
@@ -1352,8 +1351,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 5</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8d8955c5a33b5b42f20f75167031d4e1" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_0c191f2220c3580390f5a2639bdf3ecd" parent="aspace_8d8955c5a33b5b42f20f75167031d4e1" type="Folder">53</container>
+            <container id="aspace_3d802e9559bc42b44c39800f2cbc95d9" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_8dec0c3d9e94ba256671e330ec0d476e" parent="aspace_3d802e9559bc42b44c39800f2cbc95d9" type="Folder">53</container>
           </did>
           <odd id="aspace_420f9f7e8bea37ff2a7c72ac7befd54e">
             <head>General note</head>
@@ -1363,8 +1362,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: Posing 6</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_376f6d447078e35c8e32ff81171bfe2a" label="Mixed Materials" type="Box">4</container>
-            <container id="aspace_dbaf9e0ce79edbcd7fa2f016adcdc212" parent="aspace_376f6d447078e35c8e32ff81171bfe2a" type="Folder">54</container>
+            <container id="aspace_c0aaea65d7d8fe8c9f344639cbb35987" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_99e8416fbe597bd2c193135a58556646" parent="aspace_c0aaea65d7d8fe8c9f344639cbb35987" type="Folder">54</container>
           </did>
           <odd id="aspace_ea3db6fa9e34e8dbe23c754ecdb377a9">
             <head>General note</head>
@@ -1374,7 +1373,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2b8821c38355432fd21bf1a72d29b1db" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fb367e8725bc5c6d8fb828d93805aabc" label="Mixed Materials" type="Box">5</container>
           </did>
           <odd id="aspace_6f4af44309f4c24a2bb81def357ddf5b">
             <head>General note</head>
@@ -1385,8 +1384,8 @@
           <did>
             <unittitle>Photographs: "Waltz" by Van Dyke, photo by Jo Tartt - 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d31b8a980db8f07516476475d6295ad9" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_7370f39b1679e5d9e0d16b1cccf25ec2" parent="aspace_d31b8a980db8f07516476475d6295ad9" type="Folder">1</container>
+            <container id="aspace_dc05fd17d90f0282b230c1350016f9a8" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b401ed444c5e5a19258e6cb260752724" parent="aspace_dc05fd17d90f0282b230c1350016f9a8" type="Folder">1</container>
           </did>
           <odd id="aspace_f781c047913ec30ed3ce7f49ec63f04a">
             <head>General note</head>
@@ -1396,8 +1395,8 @@
           <did>
             <unittitle>Photographs: "Waltz" by Van Dyke, photo by Jo Tartt - 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bbdf9544c5fa4169793e0bf1125b081d" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_8aa843bb8778ec9c17cd48b972daaea0" parent="aspace_bbdf9544c5fa4169793e0bf1125b081d" type="Folder">2</container>
+            <container id="aspace_4d6a497508431a172cbea54623844ed6" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1f5e7e2b8afaf1b6a36d840313ee0d9b" parent="aspace_4d6a497508431a172cbea54623844ed6" type="Folder">2</container>
           </did>
           <odd id="aspace_0e64d4b7e299b426e1201804f3e03880">
             <head>General note</head>
@@ -1407,8 +1406,8 @@
           <did>
             <unittitle>Photographs: Van Dyke leaping - 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_707818648b38d60b57dcfcef1893446e" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_2b19130423e29f0b3246e2b20cf9e04d" parent="aspace_707818648b38d60b57dcfcef1893446e" type="Folder">3</container>
+            <container id="aspace_94dbbd0d83c80a85eb3d7e9e8cb32fc3" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_353d56bc394dc2cbe36bc52dc01f4618" parent="aspace_94dbbd0d83c80a85eb3d7e9e8cb32fc3" type="Folder">3</container>
           </did>
           <odd id="aspace_e3314bd1ca6136cea3f723930f388c1b">
             <head>General note</head>
@@ -1418,8 +1417,8 @@
           <did>
             <unittitle>Photographs: Van Dyke leaping - 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_355b86f201155ca4b5151e680fefd84b" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_7246dd44ee173bce1d5275e8e4d238f1" parent="aspace_355b86f201155ca4b5151e680fefd84b" type="Folder">4</container>
+            <container id="aspace_424020813bab8099cf2f6f0a3744c122" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d37ff8a07c16620691205bfd7f753d0d" parent="aspace_424020813bab8099cf2f6f0a3744c122" type="Folder">4</container>
           </did>
           <odd id="aspace_9d79603c00b8cf9f3e4965acf1ffc5e6">
             <head>General note</head>
@@ -1429,8 +1428,8 @@
           <did>
             <unittitle>Photographs: Van Dyke leaping - 3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8208a8f0a0c86c413d73164d8d4c13b6" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_38b5155a731cc624818d45726ba85cfe" parent="aspace_8208a8f0a0c86c413d73164d8d4c13b6" type="Folder">5</container>
+            <container id="aspace_db70a9d3dd4ac58e91a339a6949148ad" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_bba850d97233c65f44b326a9a682e922" parent="aspace_db70a9d3dd4ac58e91a339a6949148ad" type="Folder">5</container>
           </did>
           <odd id="aspace_afbd8d405cfb61a55d4550a1f85bee17">
             <head>General note</head>
@@ -1440,8 +1439,8 @@
           <did>
             <unittitle>Photographs: Van Dyke leaping - 4</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_49ff5c67c1e55040651976b6b984c7c5" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_9aaf523bb0d67443dceb389013bef86a" parent="aspace_49ff5c67c1e55040651976b6b984c7c5" type="Folder">6</container>
+            <container id="aspace_5d9a0eec655fc593fc9367969d522903" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c3ecb5c605f77bce6f4d41b5da90d849" parent="aspace_5d9a0eec655fc593fc9367969d522903" type="Folder">6</container>
           </did>
           <odd id="aspace_b2ec1fa56b78d3a60eb470600e64d0cc">
             <head>General note</head>
@@ -1451,8 +1450,8 @@
           <did>
             <unittitle>Photographs: Van Dyke jumping</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7d86d7d6af676e6ad1ca597d3b5a7d6a" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_e22f4bda2a85472da92df93a714cb201" parent="aspace_7d86d7d6af676e6ad1ca597d3b5a7d6a" type="Folder">7</container>
+            <container id="aspace_1b5ce3e39b9c6d8ceda808029736c661" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_cb22eaec39e67271fcc8dd10e9a6e016" parent="aspace_1b5ce3e39b9c6d8ceda808029736c661" type="Folder">7</container>
           </did>
           <odd id="aspace_401be4a4d6db1229e34b9983ef3b401d">
             <head>General note</head>
@@ -1462,8 +1461,8 @@
           <did>
             <unittitle>Photographs: Van Dyke dress swirling</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_edf63086f6093e1d4a05dd9f4f294adf" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_b6e4f6932cc9960d173c1cd56b0c098f" parent="aspace_edf63086f6093e1d4a05dd9f4f294adf" type="Folder">8</container>
+            <container id="aspace_a89c543ce0915561d0f5ada85bbef851" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_236d66c93a42fa8270387d2fbdf5b1f7" parent="aspace_a89c543ce0915561d0f5ada85bbef851" type="Folder">8</container>
           </did>
           <odd id="aspace_fcd72b991b2e359f269ff705a18cf9ba">
             <head>General note</head>
@@ -1473,8 +1472,8 @@
           <did>
             <unittitle>Photographs: Van Dyke on point</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0733ba3e015d8291f9a6d41926daa3d8" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_0adfaf72f5d5d6f2a08e9e0f8846e5ad" parent="aspace_0733ba3e015d8291f9a6d41926daa3d8" type="Folder">9</container>
+            <container id="aspace_cefe426e89c0e47a94db8d0c3412ad10" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_696b9131c57ed0f065c5ab19b3f57ac0" parent="aspace_cefe426e89c0e47a94db8d0c3412ad10" type="Folder">9</container>
           </did>
           <odd id="aspace_dd34f6e1727a1308f2aab0171901bc1d">
             <head>General note</head>
@@ -1484,8 +1483,8 @@
           <did>
             <unittitle>Photographs: Van Dyke squatting</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3926b1e11390c9835993410acdbb118e" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_d6c16f88a74dfa9d527ffc9bb5a24b85" parent="aspace_3926b1e11390c9835993410acdbb118e" type="Folder">10</container>
+            <container id="aspace_77a7d566dec4dae70535486c060b0eab" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9721eafb7e0ce6a95f37f6f327cae64a" parent="aspace_77a7d566dec4dae70535486c060b0eab" type="Folder">10</container>
           </did>
           <odd id="aspace_68a7a831f206f686c778b2d497fc661f">
             <head>General note</head>
@@ -1495,8 +1494,8 @@
           <did>
             <unittitle>Photographs: Van Dyke elevating</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fcf52415aea9467e87821e2f488e1035" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_5f33644481dfdea3e65bbb77e08569e4" parent="aspace_fcf52415aea9467e87821e2f488e1035" type="Folder">11</container>
+            <container id="aspace_7282590001dfcb3bd0ce81dd32181512" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9f4f991a06a04f9572bd6387d7aa338c" parent="aspace_7282590001dfcb3bd0ce81dd32181512" type="Folder">11</container>
           </did>
           <odd id="aspace_f3167f833ea303a8284137051f72c393">
             <head>General note</head>
@@ -1506,8 +1505,8 @@
           <did>
             <unittitle>Photographs: Van Dyke flexing</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6c9970365b8706a6c69a986ea1a6bc69" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_9a894e1700ab5ec14622352be7c0beee" parent="aspace_6c9970365b8706a6c69a986ea1a6bc69" type="Folder">12</container>
+            <container id="aspace_8866a41356e2501d8e09a956eda26d86" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5aa28fb094c76e1255789c9085c55378" parent="aspace_8866a41356e2501d8e09a956eda26d86" type="Folder">12</container>
           </did>
           <odd id="aspace_e6f1d8125dc2a0f17f085d385a469a79">
             <head>General note</head>
@@ -1517,8 +1516,8 @@
           <did>
             <unittitle>Photographs: Van Dyke teaching a class</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c33cbade3929f031757861194a9170bb" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_61cfecd224783b659a4ea472547ffe6f" parent="aspace_c33cbade3929f031757861194a9170bb" type="Folder">13</container>
+            <container id="aspace_63a5e36236226b2bdb8d5f74564fd17b" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_9e78d7bb2a07d947553906556fd8da46" parent="aspace_63a5e36236226b2bdb8d5f74564fd17b" type="Folder">13</container>
           </did>
           <odd id="aspace_d69a3ad1361c867d60143f103a96c0f9">
             <head>General note</head>
@@ -1528,8 +1527,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series I-1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_221c9b9038ec3179f6ff009ab4b7bf5e" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_c4f600a57682de531434cdeb259c7bbe" parent="aspace_221c9b9038ec3179f6ff009ab4b7bf5e" type="Folder">14</container>
+            <container id="aspace_0ccd6baa6282b4d9c9fed39d0860c421" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ca7ba785be2b9a750495001e2116beef" parent="aspace_0ccd6baa6282b4d9c9fed39d0860c421" type="Folder">14</container>
           </did>
           <odd id="aspace_f90cd1b852031452a08d1f6670ad602a">
             <head>General note</head>
@@ -1539,8 +1538,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series I-2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5a75f07f996c2254925deecd19322ebf" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_4c5c8236e9604225e482519f22109fa3" parent="aspace_5a75f07f996c2254925deecd19322ebf" type="Folder">15</container>
+            <container id="aspace_797d4802caafaeadac5a9c264f59ef1e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3d7f808a40881b89a1c637ee83c93278" parent="aspace_797d4802caafaeadac5a9c264f59ef1e" type="Folder">15</container>
           </did>
           <odd id="aspace_b19af22cc1e27cb053ef32dc267af44c">
             <head>General note</head>
@@ -1550,8 +1549,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series I-3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cde7c05524cec37d1f175373ceffa1b9" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_e11f509fd8c2c65bda377343343379c7" parent="aspace_cde7c05524cec37d1f175373ceffa1b9" type="Folder">16</container>
+            <container id="aspace_bc95b1df4e1aa2102bcddd5667b2c297" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b9669f7210528d7f36bb4d5396393040" parent="aspace_bc95b1df4e1aa2102bcddd5667b2c297" type="Folder">16</container>
           </did>
           <odd id="aspace_605a141dd7103ee45171e49c32892a32">
             <head>General note</head>
@@ -1561,8 +1560,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series II-1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3382017316df3f96a235f026395c93aa" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_bea8d7b917c2bfd88db4ade46e4d8a7a" parent="aspace_3382017316df3f96a235f026395c93aa" type="Folder">17</container>
+            <container id="aspace_d3de0ae6fd8f61ae3947f187b86887f0" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_7f5521565b8a07ef6afb80cc5d830abd" parent="aspace_d3de0ae6fd8f61ae3947f187b86887f0" type="Folder">17</container>
           </did>
           <odd id="aspace_d650a5c3dfa8af9334aa49f7b850a982">
             <head>General note</head>
@@ -1572,8 +1571,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series II-2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_150f878997f64c6b6f4c5a46fdfb52ce" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_dae77861110615a906e39989925e2734" parent="aspace_150f878997f64c6b6f4c5a46fdfb52ce" type="Folder">18</container>
+            <container id="aspace_f98e53eb7bae16894867353f92431e23" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_16498dae9a654fdb5b775dcef9259672" parent="aspace_f98e53eb7bae16894867353f92431e23" type="Folder">18</container>
           </did>
           <odd id="aspace_1c81fd2483c14d29313ebefc00201f16">
             <head>General note</head>
@@ -1583,8 +1582,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series III-1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_24985c8437e64a3283af3765271059bc" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_7d3e189b680043342b4df110b5213e48" parent="aspace_24985c8437e64a3283af3765271059bc" type="Folder">19</container>
+            <container id="aspace_237d1496438a03800beb62779bddb52f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8c16692a6778ce8f52824596e384d3bd" parent="aspace_237d1496438a03800beb62779bddb52f" type="Folder">19</container>
           </did>
           <odd id="aspace_3b05934e4654b285e0e67e4a5942c25f">
             <head>General note</head>
@@ -1594,8 +1593,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series III-2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a0987b42d27e3bd5ed82922e7a18b1da" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_696b75a996ebb936a248a7f165bf1cce" parent="aspace_a0987b42d27e3bd5ed82922e7a18b1da" type="Folder">20</container>
+            <container id="aspace_a9cc300826150694fed76b0373f922a8" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_ed0233484f2f3c8c16d76442a0449df2" parent="aspace_a9cc300826150694fed76b0373f922a8" type="Folder">20</container>
           </did>
           <odd id="aspace_07c0985a3d04e80ba8b6c9927fafa3ec">
             <head>General note</head>
@@ -1605,8 +1604,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series III-3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_aeb50f60ad1537ab7cf66511f0b492cb" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_58a9f75336c2a4b278a8555e4216900d" parent="aspace_aeb50f60ad1537ab7cf66511f0b492cb" type="Folder">21</container>
+            <container id="aspace_3e07817681f7d969fae5718b3c8aba9c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_2be9343f80dd2ca6ec629b173c13a850" parent="aspace_3e07817681f7d969fae5718b3c8aba9c" type="Folder">21</container>
           </did>
           <odd id="aspace_abd38bb033639848b6ed43d3029c0439">
             <head>General note</head>
@@ -1616,8 +1615,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series IV-1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eb887a268fef33eb710c918765a50eb4" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_d083eead91c3be706536d7377fa6b387" parent="aspace_eb887a268fef33eb710c918765a50eb4" type="Folder">22</container>
+            <container id="aspace_aad7f4cae84d98899eb706974d80e1fd" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_fadb4e8040628e2a297a7d512f2df69f" parent="aspace_aad7f4cae84d98899eb706974d80e1fd" type="Folder">22</container>
           </did>
           <odd id="aspace_52a9c67a903e86efe13ecb5e4dc4d120">
             <head>General note</head>
@@ -1627,8 +1626,8 @@
           <did>
             <unittitle>Photographs: Van Dyke: dance series IV-2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8f37f3e59530a31e8d81e4287a54ca80" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_9d401b6e8a84f6ab47be5c93fa5197c9" parent="aspace_8f37f3e59530a31e8d81e4287a54ca80" type="Folder">23</container>
+            <container id="aspace_1886b6483cbc19936dfb44850965de47" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1e171cb2efec76e9904c18908fb12435" parent="aspace_1886b6483cbc19936dfb44850965de47" type="Folder">23</container>
           </did>
           <odd id="aspace_5129488b66ef25995ca13c83edf83e50">
             <head>General note</head>
@@ -1638,8 +1637,8 @@
           <did>
             <unittitle>Photographs: 2 Women dancing</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_66fb60610cd117764cfbb91ab165705c" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_d388e15ab477321ec7d7ceee0d5adc5e" parent="aspace_66fb60610cd117764cfbb91ab165705c" type="Folder">24</container>
+            <container id="aspace_e7e3965671c666c45ce238bb593fa6d5" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_20ad63907fc363b3c700de11301a1923" parent="aspace_e7e3965671c666c45ce238bb593fa6d5" type="Folder">24</container>
           </did>
           <odd id="aspace_ff7fef02579f88b96b047fcf7acc90c8">
             <head>General note</head>
@@ -1649,8 +1648,8 @@
           <did>
             <unittitle>Photographs: Dancers in arabesque</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_13be1a81857e89ac70b822dfb9d11252" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_e5328d63a5e3980f9775b75a68e85e8f" parent="aspace_13be1a81857e89ac70b822dfb9d11252" type="Folder">25</container>
+            <container id="aspace_6cb7e6e7df125ddfb662864073d33804" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4283a9c2aff6cdd3cf52fc0dd7c37aaf" parent="aspace_6cb7e6e7df125ddfb662864073d33804" type="Folder">25</container>
           </did>
           <odd id="aspace_d55e62c67b8cdb16cd96b98d5ea049b8">
             <head>General note</head>
@@ -1660,8 +1659,8 @@
           <did>
             <unittitle>Photographs: 2 Female Dancers (from behind)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3902ad2632f5749a9651d43368ad65d8" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_0b73b4a739a42ec1dedb78834bf84d9b" parent="aspace_3902ad2632f5749a9651d43368ad65d8" type="Folder">26</container>
+            <container id="aspace_cc56541f833c69b9697b7fdc79f3606f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_b45606ba6da02552c39206c2e29c9d20" parent="aspace_cc56541f833c69b9697b7fdc79f3606f" type="Folder">26</container>
           </did>
           <odd id="aspace_0c5f0190656994777c7af7b503e6de21">
             <head>General note</head>
@@ -1671,8 +1670,8 @@
           <did>
             <unittitle>Photographs: Man dancing 1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a703bff5904d9ca86efdcb0857cf481f" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_987230dee177fe006f6a5aac619b4bcb" parent="aspace_a703bff5904d9ca86efdcb0857cf481f" type="Folder">27</container>
+            <container id="aspace_09428e009439fa86c64d6cdfd9da79a8" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1dc81f3c97d93fcc818e3097a610c263" parent="aspace_09428e009439fa86c64d6cdfd9da79a8" type="Folder">27</container>
           </did>
           <odd id="aspace_3534ce513155687d32ea3ecbdc1cf04c">
             <head>General note</head>
@@ -1682,8 +1681,8 @@
           <did>
             <unittitle>Photographs: Man dancing 2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9fdf42f3401d96738df85898b96e360e" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_5eb72cc6ac7fadb28b66b27e78da0f76" parent="aspace_9fdf42f3401d96738df85898b96e360e" type="Folder">28</container>
+            <container id="aspace_2eedd5530d8026f7c0ddc91008dc0511" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_16e2e195d43f6e86e750e5afa78a666e" parent="aspace_2eedd5530d8026f7c0ddc91008dc0511" type="Folder">28</container>
           </did>
           <odd id="aspace_eceefab84ff9b4c7315b3b0735b9e9f0">
             <head>General note</head>
@@ -1693,8 +1692,8 @@
           <did>
             <unittitle>Photographs: Woman standing by piano</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2c11a2a3e092a81b0187740e11ccddea" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_4e923f5f5f31d519508c4da12d39358c" parent="aspace_2c11a2a3e092a81b0187740e11ccddea" type="Folder">29</container>
+            <container id="aspace_ccb1fd5c7c3fc87d2b44197072f3508e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_5770a9066231b46a0ba874e3ffc28715" parent="aspace_ccb1fd5c7c3fc87d2b44197072f3508e" type="Folder">29</container>
           </did>
           <odd id="aspace_8fa1db5a5019cf7d204d32dc25134195">
             <head>General note</head>
@@ -1704,8 +1703,8 @@
           <did>
             <unittitle>Photographs: Woman with arms extended</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e26bb05b0516ec4dc67ab6e4e8fd5d45" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_47435a97f26f5f93081397bea769c5b6" parent="aspace_e26bb05b0516ec4dc67ab6e4e8fd5d45" type="Folder">30</container>
+            <container id="aspace_c7e54ad2cda26b165dd0aa78a8a8f53e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_d5c26908b92d494af39947f991a9a03c" parent="aspace_c7e54ad2cda26b165dd0aa78a8a8f53e" type="Folder">30</container>
           </did>
           <odd id="aspace_bfd77b30ee2c262d96e3a646c336f754">
             <head>General note</head>
@@ -1715,8 +1714,8 @@
           <did>
             <unittitle>Photographs: Dancers in the studio</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eb861af6a151ac77c47d31bea311c483" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_644c35b3d9cf1c91fa63f306f158778c" parent="aspace_eb861af6a151ac77c47d31bea311c483" type="Folder">31</container>
+            <container id="aspace_636840e86a91c964d28da3b98e0f66d8" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_0152d9bf2342cf1b83a11a1d53a711b6" parent="aspace_636840e86a91c964d28da3b98e0f66d8" type="Folder">31</container>
           </did>
           <odd id="aspace_dd7cbec02b2def7999bc467a6f177889">
             <head>General note</head>
@@ -1726,8 +1725,8 @@
           <did>
             <unittitle>Photographs: 4 women dancing</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9883c33e6c74208092efc7c7e8e9e1cc" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_776880220058de1e53b1fc429d132eef" parent="aspace_9883c33e6c74208092efc7c7e8e9e1cc" type="Folder">32</container>
+            <container id="aspace_330033d53e620238df9b43184ece9cee" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_8941709a0c6d0f947eaaa48e92573459" parent="aspace_330033d53e620238df9b43184ece9cee" type="Folder">32</container>
           </did>
           <odd id="aspace_bf14f585672a89a052cce6c9b905ff82">
             <head>General note</head>
@@ -1737,8 +1736,8 @@
           <did>
             <unittitle>Photographs: Man in arabesque</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_14b4d8b6f362f2f806cd637ad255c23f" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_0c8d86e6f5e7db812155171a9559818c" parent="aspace_14b4d8b6f362f2f806cd637ad255c23f" type="Folder">33</container>
+            <container id="aspace_8bf9abc687ac79364ccae64ee6b9bc3f" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_f7ca06db07cd796d699c816fc7543f61" parent="aspace_8bf9abc687ac79364ccae64ee6b9bc3f" type="Folder">33</container>
           </did>
           <odd id="aspace_72a7407c2f6b90e2de753d836dc35028">
             <head>General note</head>
@@ -1748,8 +1747,8 @@
           <did>
             <unittitle>Photographs: 3 women holding hands</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_33a0f98c8f77f4059fb30c5233bb3d12" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_eab8be00a0bf272de494c8b9bc5f0799" parent="aspace_33a0f98c8f77f4059fb30c5233bb3d12" type="Folder">34</container>
+            <container id="aspace_994a81adf0e9ef84e2303f001c131ebf" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_4d3160beac04088460319277554e31ab" parent="aspace_994a81adf0e9ef84e2303f001c131ebf" type="Folder">34</container>
           </did>
           <odd id="aspace_d4ff390855179b0710ccc4fd469db45e">
             <head>General note</head>
@@ -1759,8 +1758,8 @@
           <did>
             <unittitle>Photographs: Performance: Series I-1</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fc8e4a11392479905d52a87195871a10" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_f6a90d0b05dce087e014d0759548229f" parent="aspace_fc8e4a11392479905d52a87195871a10" type="Folder">35</container>
+            <container id="aspace_fa163388f03daa6a00b939022b6d075a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_be7d50cfddad6c829ac9817516152533" parent="aspace_fa163388f03daa6a00b939022b6d075a" type="Folder">35</container>
           </did>
           <odd id="aspace_001f152b602960d72d3490505e5e699e">
             <head>General note</head>
@@ -1770,8 +1769,8 @@
           <did>
             <unittitle>Photographs: Performance: Series I-2</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_98850ba5736aaa1957dad14c6876d2cc" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_c214bcc75c72da2bec2e4e450a7bb669" parent="aspace_98850ba5736aaa1957dad14c6876d2cc" type="Folder">36</container>
+            <container id="aspace_1e4ed339b033628459d97f1493e3eeda" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_c9181135c4369229e863bc59cf4547ba" parent="aspace_1e4ed339b033628459d97f1493e3eeda" type="Folder">36</container>
           </did>
           <odd id="aspace_5c8a6fb8a7bc1135f4fce089a291b887">
             <head>General note</head>
@@ -1781,8 +1780,8 @@
           <did>
             <unittitle>Photographs: Performance: Series I-3</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ad472d94685d4a687e120d3eaaa64c80" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_8a3ab9f747f0e154b6f26df774cbe347" parent="aspace_ad472d94685d4a687e120d3eaaa64c80" type="Folder">37</container>
+            <container id="aspace_9916278dc48abf94271753ffbac31c6a" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_881383ec1eba067d08ce5e8766973dba" parent="aspace_9916278dc48abf94271753ffbac31c6a" type="Folder">37</container>
           </did>
           <odd id="aspace_08c17c7cdebfbe91f9cd3a3c571d0b78">
             <head>General note</head>
@@ -1792,8 +1791,8 @@
           <did>
             <unittitle>Photographs: Performance: Series II</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_21e7c26039a4e3a9457194d22275937d" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_c99d45f0eaed90a5a30aff1e9d63a633" parent="aspace_21e7c26039a4e3a9457194d22275937d" type="Folder">38</container>
+            <container id="aspace_cb64382577f913d814aec049a6d83b7e" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_32d189047b70b5d12c35397d4867e3b3" parent="aspace_cb64382577f913d814aec049a6d83b7e" type="Folder">38</container>
           </did>
           <odd id="aspace_2096e296078c1c87d1e337b447a1fced">
             <head>General note</head>
@@ -1803,8 +1802,8 @@
           <did>
             <unittitle>Photographs: Man and woman looking at photo album</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d3327f405f15d480758ac376bcdbfc3c" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_eb7f4a380b5bd43ee1fce8f17bd3d585" parent="aspace_d3327f405f15d480758ac376bcdbfc3c" type="Folder">39</container>
+            <container id="aspace_e5620757434bb932f9459d12c4d8a68c" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_3f9972465d366a494419d78498e80c07" parent="aspace_e5620757434bb932f9459d12c4d8a68c" type="Folder">39</container>
           </did>
           <odd id="aspace_e6e945b67c705b5efeb51de8d9f18f58">
             <head>General note</head>
@@ -1814,8 +1813,8 @@
           <did>
             <unittitle>Photographs: Man looking up</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_daaaf8e0a3c67cb1d0bbb1c97ab7c022" label="Mixed Materials" type="Box">5</container>
-            <container id="aspace_83f2a5658625b14b5d1fa6402421b71d" parent="aspace_daaaf8e0a3c67cb1d0bbb1c97ab7c022" type="Folder">40</container>
+            <container id="aspace_6c2940cabd8a907f80021dabe02657d9" label="Mixed Materials" type="Box">5</container>
+            <container id="aspace_1b9d3bba3da649043d58fd94cf52ac52" parent="aspace_6c2940cabd8a907f80021dabe02657d9" type="Folder">40</container>
           </did>
           <odd id="aspace_0c0164024e11bfed4bf4a0f116c0589f">
             <head>General note</head>
@@ -1825,7 +1824,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_82f26e689bfcecfaa11d23ee9f40c341" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_f7f66cc33a64d2a10ae9d6633df66c6f" label="Mixed Materials" type="Box">6</container>
           </did>
           <odd id="aspace_fd100671dda73f05f75a0371b2724709">
             <head>General note</head>
@@ -1836,8 +1835,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Karen and Alvin, The Long Goodbye (10min)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_97f1f05e27912075988a68271ba341fd" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_4667e4a1e90f23e3ddda0e0ffc62b59a" parent="aspace_97f1f05e27912075988a68271ba341fd" type="Folder">1</container>
+            <container id="aspace_8f2bdec90db4a8d705d1898145944d3e" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_ef58bf259804800a32c3a0db094ffd8e" parent="aspace_8f2bdec90db4a8d705d1898145944d3e" type="Folder">1</container>
           </did>
           <odd id="aspace_30e833db0bfcfdb78231de0aadce45ac">
             <head>General note</head>
@@ -1847,8 +1846,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Spike: Contemporary Dance Theatre - Van Dyke, choreographer (18min)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_813cace0601baaca174623466446a792" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_ec10a55c966c334ac0f46abd691b91c9" parent="aspace_813cace0601baaca174623466446a792" type="Folder">2</container>
+            <container id="aspace_7260c185e15e5ee64f24b8127bd56ea4" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_c4a8f923af71a58f8de12e429f34be3a" parent="aspace_7260c185e15e5ee64f24b8127bd56ea4" type="Folder">2</container>
           </did>
           <odd id="aspace_523217d81af32e0261309b7607c3e547">
             <head>General note</head>
@@ -1858,8 +1857,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Two Dances One Space: Performed by Van Dyke and Elly Canterbury (6min)</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_30278662512a12211299a89c8b1a691a" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_9c5a846d8c305b82e736998cee6a9994" parent="aspace_30278662512a12211299a89c8b1a691a" type="Folder">3</container>
+            <container id="aspace_a7f98488ab04b526aae04b200f8e7ac1" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_b67fa1bfd5f67c55d1e01f7f8ddedb96" parent="aspace_a7f98488ab04b526aae04b200f8e7ac1" type="Folder">3</container>
           </did>
           <odd id="aspace_b34c21c7531f8a58183524a240d7a3cb">
             <head>General note</head>
@@ -1869,8 +1868,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Circling: Performed by Van Dyke at George Mason University (31min)</unittitle>
             <unitdate datechar="creation">04/1980</unitdate>
-            <container id="aspace_bb85b471dd6057cb8f89f724c8ceeb6c" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_b579c888db2d26730dc3544ef11021ec" parent="aspace_bb85b471dd6057cb8f89f724c8ceeb6c" type="Folder">4</container>
+            <container id="aspace_061410b3e2b749ef8793b37aad7aa87b" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_3e0c57d542bb06537dd22eb3760fc3d1" parent="aspace_061410b3e2b749ef8793b37aad7aa87b" type="Folder">4</container>
           </did>
           <odd id="aspace_78114694635237f18728e54532755cd3">
             <head>General note</head>
@@ -1880,8 +1879,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Rhythm #4: Performed at The George Washington University by the Momentum Dance Theatre (10min)</unittitle>
             <unitdate datechar="creation">07/25/1986</unitdate>
-            <container id="aspace_852f5e48db4151b13d26003beda022b4" label="Mixed Materials" type="Box">6</container>
-            <container id="aspace_5ebd063744573e74f71d4cb8b4673c16" parent="aspace_852f5e48db4151b13d26003beda022b4" type="Folder">5</container>
+            <container id="aspace_e843a931aa09c91da00cffd0d840b4e5" label="Mixed Materials" type="Box">6</container>
+            <container id="aspace_eae39d2f2850fbef238d72d73753514c" parent="aspace_e843a931aa09c91da00cffd0d840b4e5" type="Folder">5</container>
           </did>
           <odd id="aspace_feaf3499428972400139c012665dc0c5">
             <head>General note</head>
@@ -1891,7 +1890,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f61d9c8087b32860a0fc3fcb0a0be864" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_bdb4a547680acd1861d15da573541580" label="Mixed Materials" type="Box">7</container>
           </did>
           <odd id="aspace_927605766ae49a01e132513a7639dee2">
             <head>General note</head>
@@ -1902,8 +1901,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Woof and Ella</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4d72c5a9a660a9c9778fdc81f383f98f" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_a79d7d367bba874d00a6c18373e52486" parent="aspace_4d72c5a9a660a9c9778fdc81f383f98f" type="Folder">1</container>
+            <container id="aspace_39f063967ff514872f5c4979951215a4" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_101d3702381c3652b85711280c9b0571" parent="aspace_39f063967ff514872f5c4979951215a4" type="Folder">1</container>
           </did>
           <odd id="aspace_cc17ec36c461bd648881cc5cdbc842b6">
             <head>General note</head>
@@ -1913,8 +1912,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Van Dyke - Cincinnati performances of Duet, Passengers, Two Dances in One Space, Double Times, and Stamping</unittitle>
             <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_aa84c641f410b752e1e1102ada0ddde4" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_610a35957b86307f0c37021ef8b43c80" parent="aspace_aa84c641f410b752e1e1102ada0ddde4" type="Folder">2</container>
+            <container id="aspace_96ee669a77d1fb7db1313ad334ade293" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_774f9943472e535305064347ae238ab6" parent="aspace_96ee669a77d1fb7db1313ad334ade293" type="Folder">2</container>
           </did>
           <odd id="aspace_ff44fe02a09dc1c785bb49029dfa9a82">
             <head>General note</head>
@@ -1924,8 +1923,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Footwork</unittitle>
             <unitdate datechar="creation">1984</unitdate>
-            <container id="aspace_a2686e7b78d413d1e22e466bd36d2644" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_eb406173e49613be697b9b49e9c94b3b" parent="aspace_a2686e7b78d413d1e22e466bd36d2644" type="Folder">3</container>
+            <container id="aspace_edacb217856485a933ad3d1b675a5e4f" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_cf6d4d2ac2d9a8dbdfe1062b650f983d" parent="aspace_edacb217856485a933ad3d1b675a5e4f" type="Folder">3</container>
           </did>
           <odd id="aspace_4c7eb56e08dbcf54499b6b3784f35372">
             <head>General note</head>
@@ -1935,8 +1934,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Unlabeled, Maxwell Exitaxial Videocassette 250</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_562ee021a85578a3a35086d98e4ba271" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_4c2f51690cc292b1c0a298cbca7bfce8" parent="aspace_562ee021a85578a3a35086d98e4ba271" type="Folder">4</container>
+            <container id="aspace_9462b19a86e9613e78fd2bc01b8b908c" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_50d6c08d6bbda01e96911632a627cbb5" parent="aspace_9462b19a86e9613e78fd2bc01b8b908c" type="Folder">4</container>
           </did>
           <odd id="aspace_add03cfd87bde6931f29eb7d28b47e13">
             <head>General note</head>
@@ -1946,8 +1945,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Performances by Bach Duet, Two Dances, Passenger, Double Times, Stamping, Spike</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1f50e54e6474e014181c841abc56d931" label="Mixed Materials" type="Box">7</container>
-            <container id="aspace_273d07808afcf623067ecd17a77db6da" parent="aspace_1f50e54e6474e014181c841abc56d931" type="Folder">5</container>
+            <container id="aspace_3e2883b96d14f4a66ed86833ae71bdf1" label="Mixed Materials" type="Box">7</container>
+            <container id="aspace_81eea6cfecf8d4ea01272d5ea0545305" parent="aspace_3e2883b96d14f4a66ed86833ae71bdf1" type="Folder">5</container>
           </did>
           <odd id="aspace_afae6c2665b37fdd6ced42642e5896d5">
             <head>General note</head>
@@ -1957,7 +1956,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_49fb8e671e42dd22d2679031e681a876" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_8b4dec5f8ca1b084bbeb8563fde24012" label="Mixed Materials" type="Box">8</container>
           </did>
           <odd id="aspace_9108b44362b4e51cb80410933cafc053">
             <head>General note</head>
@@ -1968,8 +1967,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Performances of A Formal Suite, Tiny Life, Lament, Section Stamping and a narration by Van Dyke</unittitle>
             <unitdate datechar="creation">03/1985</unitdate>
-            <container id="aspace_00dcb2c55fbfc06dd8e6225ba29d9409" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_ef00dd9ca9264a9ae0029281e01cb3d5" parent="aspace_00dcb2c55fbfc06dd8e6225ba29d9409" type="Folder">1</container>
+            <container id="aspace_da46f694997fbf33cf11b98a872c4719" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_bdb6f7d7e1cc5337dba61c2805cf3712" parent="aspace_da46f694997fbf33cf11b98a872c4719" type="Folder">1</container>
           </did>
           <odd id="aspace_a902ee871e3e260d98dcf76a27ccbc85">
             <head>General note</head>
@@ -1979,8 +1978,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Footwork 1984, performances of Two Dances, Quartet, Pearl, Stamping, Luna, Spike</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1e19890e88223cb625683b74eabcdcb2" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_3034daf554eb3da1fdb39930daef84ff" parent="aspace_1e19890e88223cb625683b74eabcdcb2" type="Folder">2</container>
+            <container id="aspace_97c3b697a2a25ae79759802732d8fdb3" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_5f60fba3f6a54570b954ebc9131d0872" parent="aspace_97c3b697a2a25ae79759802732d8fdb3" type="Folder">2</container>
           </did>
           <odd id="aspace_4e129178b5d05ad9f77d69751d8755aa">
             <head>General note</head>
@@ -1990,8 +1989,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Washington Ballet, Washington Suite in Spring 1981. Performed by Van Dyke, Julie miles, Lynn Cote, Amanda McKerrow, Simon Dow, John Godling, and Sandra Broufman</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ac745a5ff46b72644565dcd1dfb39bb1" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_89e253672b76698a52e2db5afc06d0b7" parent="aspace_ac745a5ff46b72644565dcd1dfb39bb1" type="Folder">3</container>
+            <container id="aspace_0d4dcf9f587b34613974c34c69317b90" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_cac46f0afe6925ebda5ce7cf0af6ef57" parent="aspace_0d4dcf9f587b34613974c34c69317b90" type="Folder">3</container>
           </did>
           <odd id="aspace_8fd9117e5b43cace8d44b7a14198fa6f">
             <head>General note</head>
@@ -2001,8 +2000,8 @@
           <did>
             <unittitle>Audio-visual materials: Beta: Ella and Twilight with Van Duyke, dubs from 1977 and in black and white</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_1691ba98de3657bd0d2e0594f87ca97f" label="Mixed Materials" type="Box">8</container>
-            <container id="aspace_75c04a800ad15542b095cf0f1b929006" parent="aspace_1691ba98de3657bd0d2e0594f87ca97f" type="Folder">4</container>
+            <container id="aspace_bfdf71a105dabf5f21642edab055892d" label="Mixed Materials" type="Box">8</container>
+            <container id="aspace_8054e0502843ea2d1af2bf3ca901e251" parent="aspace_bfdf71a105dabf5f21642edab055892d" type="Folder">4</container>
           </did>
           <odd id="aspace_13c32b79cfbd142959d45cc1c78eba98">
             <head>General note</head>
@@ -2012,7 +2011,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_51355d277a6c98a1e9a617dc7d70daf8" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_fb7431ff8be879adef94592788aa123d" label="Mixed Materials" type="Box">9</container>
           </did>
           <odd id="aspace_d3ca9f08c2199bc6bab91d9bb4c7b14b">
             <head>General note</head>
@@ -2023,8 +2022,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Van Dyke performs Variations on a Theme, Passengers, and solo excerpts from Fleetwood Mac</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cd00b50bb29bfe6399c480526f04e6d1" label="Mixed Materials" type="Box">9</container>
-            <container id="aspace_86fa6b888145448e7af608c673fc47a0" parent="aspace_cd00b50bb29bfe6399c480526f04e6d1" type="Folder">1</container>
+            <container id="aspace_fd671904be3b6f5be6230b93586d7c39" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_1cef52b5a7388a790503dc8fa1514042" parent="aspace_fd671904be3b6f5be6230b93586d7c39" type="Folder">1</container>
           </did>
           <odd id="aspace_3af11ad243d9277d2263fe094215d878">
             <head>General note</head>
@@ -2034,8 +2033,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: A Dance in Two Spaces and Anne's Side</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_670ad0cba2e23b7b18a9e121933d8fbd" label="Mixed Materials" type="Box">9</container>
-            <container id="aspace_6c8ed2ba8b375e593850898755bede25" parent="aspace_670ad0cba2e23b7b18a9e121933d8fbd" type="Folder">2</container>
+            <container id="aspace_ef6937197b44deb7af1b587dbf02c860" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_7f97b5fa20444685c50b92e16ae83176" parent="aspace_ef6937197b44deb7af1b587dbf02c860" type="Folder">2</container>
           </did>
           <odd id="aspace_03d68557a88d1dd10aa513f42c3a9100">
             <head>General note</head>
@@ -2045,8 +2044,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: A Dance in Two Spaces: Shelly's Side, Two Dances in one Space, and Waltz</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7dfa89a57eca540da832b6db362b437f" label="Mixed Materials" type="Box">9</container>
-            <container id="aspace_acb4357e3977b80a1cb11c53657f06e8" parent="aspace_7dfa89a57eca540da832b6db362b437f" type="Folder">3</container>
+            <container id="aspace_7eaab75a370b46f543ef2bfc1515f0ef" label="Mixed Materials" type="Box">9</container>
+            <container id="aspace_a4d81bfadbaf0ad9b1a936202ee3e13c" parent="aspace_7eaab75a370b46f543ef2bfc1515f0ef" type="Folder">3</container>
           </did>
           <odd id="aspace_1c67f23e236f6ebefd3a2ec4dbddc32c">
             <head>General note</head>
@@ -2056,7 +2055,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f664a10129230fa73576379abf215cd6" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_8fd459b9091e075f5d042e951964cbc6" label="Mixed Materials" type="Box">10</container>
           </did>
           <odd id="aspace_9f456b9eac3b8dac3fddb1aa168dd762">
             <head>General note</head>
@@ -2067,8 +2066,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Van Dyke and John Gamble Dance Company performing Borderline, Untitled, Life and Times and Five Short Forms</unittitle>
             <unitdate datechar="creation">05/17/1992</unitdate>
-            <container id="aspace_854e97198fcfe265e9db5d6fe5480758" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_a4ee7cd4149e751a1a876aa8e9f99f02" parent="aspace_854e97198fcfe265e9db5d6fe5480758" type="Folder">1</container>
+            <container id="aspace_54f2cc26ea4db9e4c05baac6a3a58df8" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_384a19cd8301c241dd6da6d8f1478e1c" parent="aspace_54f2cc26ea4db9e4c05baac6a3a58df8" type="Folder">1</container>
           </did>
           <odd id="aspace_cf432c8970ee12b0f48aee5ac5d8d09a">
             <head>General note</head>
@@ -2078,8 +2077,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Van Dyke Dances</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2a711fc4a11427da7c6a263e7f3a5817" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_c7690d2c0e38a0d088cb74af3e6be44c" parent="aspace_2a711fc4a11427da7c6a263e7f3a5817" type="Folder">2</container>
+            <container id="aspace_547b12dab54759d9cc1107d33953f23f" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_d243a8fd5d2e79c057d95af8e7552df3" parent="aspace_547b12dab54759d9cc1107d33953f23f" type="Folder">2</container>
           </did>
           <odd id="aspace_d645064ec06c8fd0a47fcf330feb1133">
             <head>General note</head>
@@ -2089,8 +2088,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Van Dyke Talking Head</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5178e6b9da9ebceffc5aaac99ecc27e0" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_bf64ef7ad2c95d8472b3a3b5b52aeb4a" parent="aspace_5178e6b9da9ebceffc5aaac99ecc27e0" type="Folder">3</container>
+            <container id="aspace_66b27e4222364156123dcb695d53f8b6" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_af1c177cf65e043a932ef306509fdb69" parent="aspace_66b27e4222364156123dcb695d53f8b6" type="Folder">3</container>
           </did>
           <odd id="aspace_4959e38686b1b21bf528e266b9569ea0">
             <head>General note</head>
@@ -2100,8 +2099,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Spike performed in 06/1983 by Laura Fly, P. Meagian, L. Scider, J. Smith and choreographed by Van Dyke (11min)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2ad106d68a634398dbbaac1879cd31fc" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_58119bb0514f708197c948f453f7bebd" parent="aspace_2ad106d68a634398dbbaac1879cd31fc" type="Folder">4</container>
+            <container id="aspace_b871cffb21f32b073eeb0d6258bed8c1" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_d5f096621c2627e5e02a6921f98f15a5" parent="aspace_b871cffb21f32b073eeb0d6258bed8c1" type="Folder">4</container>
           </did>
           <odd id="aspace_f0508492e0198f8fbe279d1ce93c3932">
             <head>General note</head>
@@ -2111,8 +2110,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Two Dances in One Space (7min) Quartet (10min) Pearl (9min) Stamping Dance (22min) Luna (8min) and Spike (11min) performed on 06/09/1984 by Van Dyke and Dancers</unittitle>
             <unitdate datechar="creation">06/09/1984</unitdate>
-            <container id="aspace_c2fa90e4a16540ee492acf9f7c31f928" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_58436e79c597da67f2d64100daf08417" parent="aspace_c2fa90e4a16540ee492acf9f7c31f928" type="Folder">5</container>
+            <container id="aspace_ff866267c8106f03e4372349f8c52b46" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_2b3c5c22077a94d15f6df17332a26130" parent="aspace_ff866267c8106f03e4372349f8c52b46" type="Folder">5</container>
           </did>
           <odd id="aspace_68b0917e7a0bcfe0f53cf1289035d911">
             <head>General note</head>
@@ -2122,8 +2121,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Van Dyke Stamping Dance</unittitle>
             <unitdate datechar="creation">02/1980</unitdate>
-            <container id="aspace_6445ace41212f50a689e8a159c8b2654" label="Mixed Materials" type="Box">10</container>
-            <container id="aspace_ee118b57ca53694f984fb3137bcf83d8" parent="aspace_6445ace41212f50a689e8a159c8b2654" type="Folder">6</container>
+            <container id="aspace_61277cd38eb81939c897e0782987b86c" label="Mixed Materials" type="Box">10</container>
+            <container id="aspace_166e87f207aee7d8f37347ca5768b91e" parent="aspace_61277cd38eb81939c897e0782987b86c" type="Folder">6</container>
           </did>
           <odd id="aspace_b4c87a525a4be12683e33d3f5c8f7df5">
             <head>General note</head>
@@ -2133,7 +2132,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1ce93b4d13d2f456570368ab76f8aadb" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_011af38c6573f51062ade1a22221c04f" label="Mixed Materials" type="Box">11</container>
           </did>
           <odd id="aspace_14d64f1148e4a90a4370f21535d46a39">
             <head>General note</head>
@@ -2144,8 +2143,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Waltz</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2541cf33ad7fca816020f685f5f05302" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_d0c7304a75b760684251677628b4d3f1" parent="aspace_2541cf33ad7fca816020f685f5f05302" type="Folder">1</container>
+            <container id="aspace_0224845ac101597afe8eea302a0a4cc1" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_5fdf9a2cbf35ce15e463164f46ac38ad" parent="aspace_0224845ac101597afe8eea302a0a4cc1" type="Folder">1</container>
           </did>
           <odd id="aspace_451d59b8c6a9e94b3c74792dfdd242f5">
             <head>General note</head>
@@ -2155,8 +2154,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke and Dancers at the Corcoran</unittitle>
             <unitdate datechar="creation">02/01/1975-02/08/1975</unitdate>
-            <container id="aspace_d9a51fc50b0d86131ae48339b64c0441" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_dbedb853d02977ab7e6d7733cf72a315" parent="aspace_d9a51fc50b0d86131ae48339b64c0441" type="Folder">2</container>
+            <container id="aspace_f0ce60301c094d27c2c44cc9839d83ec" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_0f1346b91319e3cb2b252608ca08124b" parent="aspace_f0ce60301c094d27c2c44cc9839d83ec" type="Folder">2</container>
           </did>
           <odd id="aspace_8912970aaef72895c3813b1d889df5ff">
             <head>General note</head>
@@ -2166,8 +2165,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke Solos Waltz and Big Show, Winter 1974</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_60dd74e9692a524706201114ce285a3b" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_3f99ea2138760ca0a6e6ea1a96d71804" parent="aspace_60dd74e9692a524706201114ce285a3b" type="Folder">3</container>
+            <container id="aspace_3a9c65b3a403d4a16c28b250ef46d8b0" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_af235c27bddbbbe22a41f6f95b139190" parent="aspace_3a9c65b3a403d4a16c28b250ef46d8b0" type="Folder">3</container>
           </did>
           <odd id="aspace_1e03139df6d54cb38b2db65d77aaf70d">
             <head>General note</head>
@@ -2177,8 +2176,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke in Ella and Twilight</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b300c4d45fb815ea2ffe0ca42b1d3ef6" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_ebb36ec2749e5b50ba7964165d73aaae" parent="aspace_b300c4d45fb815ea2ffe0ca42b1d3ef6" type="Folder">4</container>
+            <container id="aspace_9658e5ddd2810afcc4ff9120fc3f1270" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_561d1467acd162385a217fe712e6ec58" parent="aspace_9658e5ddd2810afcc4ff9120fc3f1270" type="Folder">4</container>
           </did>
           <odd id="aspace_3dce1899421d077a088d7c11f54a3b7b">
             <head>General note</head>
@@ -2188,8 +2187,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke in Ceremony I</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_64a650539f7934b39e66ff6711b03120" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_a728019ae1443dd896908a8355831fb7" parent="aspace_64a650539f7934b39e66ff6711b03120" type="Folder">5</container>
+            <container id="aspace_bd38bd1f243a7af6ac3ee6ad1878b2f1" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_b99cb42d2f605d2fd36753b4541d633d" parent="aspace_bd38bd1f243a7af6ac3ee6ad1878b2f1" type="Folder">5</container>
           </did>
           <odd id="aspace_3287622d94ecd2501cb6527b5afa1d4a">
             <head>General note</head>
@@ -2199,8 +2198,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke in Ceremony I and Paradise</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_aa21293958062bd7623a692940c86ee5" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_744b48e20fcc247feaf397b8877c4587" parent="aspace_aa21293958062bd7623a692940c86ee5" type="Folder">6</container>
+            <container id="aspace_3e941bd99178b1f8ef976ec9e9176465" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_41244ee9e03a460b79c4da91f97953ca" parent="aspace_3e941bd99178b1f8ef976ec9e9176465" type="Folder">6</container>
           </did>
           <odd id="aspace_19ec68ad01a0a729524a59fcf7a61c25">
             <head>General note</head>
@@ -2210,8 +2209,8 @@
           <did>
             <unittitle>Audio-visual materials: Reel: Van Dyke in Variations (20min)</unittitle>
             <unitdate datechar="creation">12/1978</unitdate>
-            <container id="aspace_4729603f76a90aa40c08fb0e17b2ff91" label="Mixed Materials" type="Box">11</container>
-            <container id="aspace_5c7c95a41a0fb5af2926210e4dd3a72b" parent="aspace_4729603f76a90aa40c08fb0e17b2ff91" type="Folder">7</container>
+            <container id="aspace_3465d79ec89408858d5285193f2eda32" label="Mixed Materials" type="Box">11</container>
+            <container id="aspace_0d0e31636e647e4fa6fea7ef3c87a763" parent="aspace_3465d79ec89408858d5285193f2eda32" type="Folder">7</container>
           </did>
           <odd id="aspace_5a52afe0b180332a7fec593d3d10fd9a">
             <head>General note</head>
@@ -2221,7 +2220,7 @@
           <did>
             <unittitle>Clippings, advertisements, articles, and audio-visual materials.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_05667d265c1c2030314a2b2d4dcd265b" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_9ade0a21c6bfc838c5b5b89f70470104" label="Mixed Materials" type="Box">12</container>
           </did>
           <odd id="aspace_7d72ba70d02b6dbc3e4727cb63c6df2f">
             <head>General note</head>
@@ -2232,8 +2231,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: The Life and Times... (1991); Five Short Forms (1992); A Little Late Afternoon Music (1992)</unittitle>
             <unitdate datechar="creation">1991-1992</unitdate>
-            <container id="aspace_f9005b71a9878df3c50710a4b606f263" label="Mixed Materials" type="Box">12</container>
-            <container id="aspace_fc9ef08a9792d93ffa47b1427cb392ec" parent="aspace_f9005b71a9878df3c50710a4b606f263" type="Folder">1</container>
+            <container id="aspace_a4bcc14b3a52bc67b4f446fd56679156" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_c7440fa11605f92379488d92a278d351" parent="aspace_a4bcc14b3a52bc67b4f446fd56679156" type="Folder">1</container>
           </did>
           <odd id="aspace_949f34e282145ef1e0c80327dddb9acf">
             <head>General note</head>
@@ -2247,10 +2246,10 @@
           <unitid>MS2111 Series 3</unitid>
           <unitdate datechar="creation">1964-2002</unitdate>
           <physdesc id="aspace_7ade4bc8629d350d41dc871080ad49a7" label="General Physical Description note">1.25 Linear feet</physdesc>
-          <container id="aspace_5aaf655ad7c6cfec4ccaf5054b994692" label="Mixed Materials" type="Box">15</container>
-          <container id="aspace_1fe81d603e205055057504bb198fcb76" label="Mixed Materials" type="Box">14</container>
-          <container id="aspace_bcdc9505d2de5675b729dfa377cb91f4" label="Mixed Materials" type="Box">13</container>
-          <container id="aspace_15b3af50521fa13e52e37175dc4d2aa7" label="Mixed Materials" type="Box">12</container>
+          <container id="aspace_88723e6994921e040faed994ad1181d1" label="Mixed Materials" type="Box">15</container>
+          <container id="aspace_3fc00bef14eec780557e8567a0dbae53" label="Mixed Materials" type="Box">14</container>
+          <container id="aspace_2b969086e8662f835601ce027424f385" label="Mixed Materials" type="Box">13</container>
+          <container id="aspace_a4b03bf46cef55de6e5d3ceb0a1efdfc" label="Mixed Materials" type="Box">12</container>
         </did>
         <scopecontent id="aspace_c4e75b8e0efa37aad1a50709de9bc47b">
           <head>Scope and Contents note</head>
@@ -2260,7 +2259,7 @@
           <did>
             <unittitle>Audio-visual materials, clippings, correspondence, programs and promotional materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_83e880e4d49eea73d4e14b5c5f3a0196" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_f170947b3093255d6f5b8b4f53d79820" label="Mixed Materials" type="Box">12</container>
           </did>
           <odd id="aspace_2a812b572f2e7ac0092dcee38594f232">
             <head>General note</head>
@@ -2270,8 +2269,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Oldies</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a450ac2a711f0736bbd61af8d07152a1" label="Mixed Materials" type="Box">12</container>
-            <container id="aspace_9ca63aa23d6d7f4f2bcdc5996ae73a1d" parent="aspace_a450ac2a711f0736bbd61af8d07152a1" type="Folder">2</container>
+            <container id="aspace_b6351f40ae2af481c8a2b0424e446e54" label="Mixed Materials" type="Box">12</container>
+            <container id="aspace_7c33c4e6e67f5cad3aab0a9955628d09" parent="aspace_b6351f40ae2af481c8a2b0424e446e54" type="Folder">2</container>
           </did>
           <odd id="aspace_90943cd6c80a8475aa37e6ec0683801d">
             <head>General note</head>
@@ -2282,7 +2281,7 @@
           <did>
             <unittitle>Audio-visual materials, clippings, correspondence, programs and promotional materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cd745bc2efafdd23aba441d9689750a9" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_74b12a371372a8c37fc1ae5b14852b6d" label="Mixed Materials" type="Box">13</container>
           </did>
           <odd id="aspace_e8d496236a84c9c7b06b64f67933cb73">
             <head>General note</head>
@@ -2292,8 +2291,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: A Dance in Two Spaces [1/2]</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_a6bec930c3839e7ae79fac062a8b5d19" label="Mixed Materials" type="Box">13</container>
-            <container id="aspace_fb598241915e605a5afbae372bf65610" parent="aspace_a6bec930c3839e7ae79fac062a8b5d19" type="Folder">1</container>
+            <container id="aspace_bfba6e51d2926f4d04b7b718506c7fff" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_690f93eebc20cc6b68919978025c3b0d" parent="aspace_bfba6e51d2926f4d04b7b718506c7fff" type="Folder">1</container>
           </did>
           <odd id="aspace_f8a1740605dce8eabe18b22e0d9de6e0">
             <head>General note</head>
@@ -2304,8 +2303,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: A Dance in Two Spaces [2/2]</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_3e4084a8065c2dcc85e5351c924dd0ca" label="Mixed Materials" type="Box">13</container>
-            <container id="aspace_b2300e6d828161b4b4d726a6b4b13c35" parent="aspace_3e4084a8065c2dcc85e5351c924dd0ca" type="Folder">2</container>
+            <container id="aspace_7cbb225ae8a0414fea0a85feed3c6aad" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_3b9b5a19273d8118d1395868d4519fdc" parent="aspace_7cbb225ae8a0414fea0a85feed3c6aad" type="Folder">2</container>
           </did>
           <odd id="aspace_ef23fc7779c3a41ad77a15b4371fce50">
             <head>General note</head>
@@ -2316,8 +2315,8 @@
           <did>
             <unittitle>Audio-visual materials: VHS: Waltz</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_cb90cb3dc9abbfa72806cd3b5c540d62" label="Mixed Materials" type="Box">13</container>
-            <container id="aspace_e9361ffa924eb3240e114abc9cc2eed3" parent="aspace_cb90cb3dc9abbfa72806cd3b5c540d62" type="Folder">3</container>
+            <container id="aspace_b5c044bcdd97141baf30ad95519a63bd" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_d1e47c9855e61bad625d2c67edc00ebd" parent="aspace_b5c044bcdd97141baf30ad95519a63bd" type="Folder">3</container>
           </did>
           <odd id="aspace_79d476ebedf813ea0e5709078b0d2b37">
             <head>General note</head>
@@ -2328,8 +2327,8 @@
           <did>
             <unittitle>Audio-visual materials: U-matic: Fleetwood Mac Suite</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4b97fa8804b5bce2dd44da93d1ff9206" label="Mixed Materials" type="Box">13</container>
-            <container id="aspace_8ab3f3f066146c8fdf1e5d6cd4b39ea8" parent="aspace_4b97fa8804b5bce2dd44da93d1ff9206" type="Folder">4</container>
+            <container id="aspace_17401b1b3c12e8c703bd42ebc664d8c2" label="Mixed Materials" type="Box">13</container>
+            <container id="aspace_b15a83652b27c8cb521dbfbb0e10a73a" parent="aspace_17401b1b3c12e8c703bd42ebc664d8c2" type="Folder">4</container>
           </did>
           <odd id="aspace_40a7e60b443f2e2e105deda2c16bf16f">
             <head>General note</head>
@@ -2340,7 +2339,7 @@
           <did>
             <unittitle>Audio-visual materials, clippings, correspondence, programs and promotional materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1d9990ff7e0d39dd75dfbea6d08329cf" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_7fad9741c87ab1dd3d7b462168631031" label="Mixed Materials" type="Box">14</container>
           </did>
           <odd id="aspace_b8754f6cdc2142dc1bd24e01f5b23352">
             <head>General note</head>
@@ -2350,8 +2349,8 @@
           <did>
             <unittitle>Newspaper clippings</unittitle>
             <unitdate datechar="creation">1964-1973</unitdate>
-            <container id="aspace_553f005ff0f70c12d8105ae0ad7fe8c1" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_702471382337ace7fe750a5c0e150a67" parent="aspace_553f005ff0f70c12d8105ae0ad7fe8c1" type="Folder">1</container>
+            <container id="aspace_49e4eb473ba956026c2b254e588596cd" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_c2aaafe50d92b900267385527f1e141b" parent="aspace_49e4eb473ba956026c2b254e588596cd" type="Folder">1</container>
           </did>
           <odd id="aspace_8efcc16c90287ace31bff77d40ae01ee">
             <head>General note</head>
@@ -2361,8 +2360,8 @@
           <did>
             <unittitle>Newspaper clippings</unittitle>
             <unitdate datechar="creation">1974-1978</unitdate>
-            <container id="aspace_7028591b2e69e7ce8d3868f6514fdd3e" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_2fefd1fcb9dbea91016e978f333746c7" parent="aspace_7028591b2e69e7ce8d3868f6514fdd3e" type="Folder">2</container>
+            <container id="aspace_7e3849528aa98032c24f32ed7702f6b6" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_05e62791dcfabe9317b8ad1482168ee0" parent="aspace_7e3849528aa98032c24f32ed7702f6b6" type="Folder">2</container>
           </did>
           <odd id="aspace_b9a3b30f68dd53296f164550daa8e531">
             <head>General note</head>
@@ -2372,8 +2371,8 @@
           <did>
             <unittitle>Newspaper clippings</unittitle>
             <unitdate datechar="creation">1979-2002</unitdate>
-            <container id="aspace_3c7a092f2e0c95dada1ce78f1cc7ab15" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_af4138f942ef1cfa62ae9386eea5c41c" parent="aspace_3c7a092f2e0c95dada1ce78f1cc7ab15" type="Folder">3</container>
+            <container id="aspace_ed295651756abd85e71635686b66f9b3" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_05b038602cece6323f7d51fc6d9491da" parent="aspace_ed295651756abd85e71635686b66f9b3" type="Folder">3</container>
           </did>
           <odd id="aspace_c3927905dfb8d961fe12ec1b814403f9">
             <head>General note</head>
@@ -2383,8 +2382,8 @@
           <did>
             <unittitle>Newspaper clippings</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_79424850e0be7d2ba45aaec3b4fab645" label="Mixed Materials" type="Box">14</container>
-            <container id="aspace_bc23b4bacd556d56e0b5696dc3924705" parent="aspace_79424850e0be7d2ba45aaec3b4fab645" type="Folder">4</container>
+            <container id="aspace_13e8dc43c1986fe3328ed821668fa4f4" label="Mixed Materials" type="Box">14</container>
+            <container id="aspace_0f07abdf1b6b1977b2607ca7e5797222" parent="aspace_13e8dc43c1986fe3328ed821668fa4f4" type="Folder">4</container>
           </did>
           <odd id="aspace_9600dd7bc19125d61aad34c7d655483b">
             <head>General note</head>
@@ -2394,7 +2393,7 @@
           <did>
             <unittitle>Audio-visual materials, clippings, correspondence, programs and promotional materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_883001188ce09c1bba249e114dd917e2" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_9d051e5b0975c9e851d2d398f6b73539" label="Mixed Materials" type="Box">15</container>
           </did>
           <odd id="aspace_4b206e08147aa57b25bb5effe0d3ed72">
             <head>General note</head>
@@ -2404,8 +2403,8 @@
           <did>
             <unittitle>Newspaper clippings: Peggy Lyman--Waltz</unittitle>
             <unitdate datechar="creation">1980-1982</unitdate>
-            <container id="aspace_66b214e5013dc5ea257604b8d361d9ae" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_240358965d61d41d9e0c0f733c68fac7" parent="aspace_66b214e5013dc5ea257604b8d361d9ae" type="Folder">1</container>
+            <container id="aspace_db565cfe65a61b64dde68a7cd6f603f3" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_89487184773f60a785bdf9632a87bb7b" parent="aspace_db565cfe65a61b64dde68a7cd6f603f3" type="Folder">1</container>
           </did>
           <odd id="aspace_f34cb1972db32176eeb5aa91bde7c987">
             <head>General note</head>
@@ -2415,8 +2414,8 @@
           <did>
             <unittitle>Correspondence</unittitle>
             <unitdate datechar="creation">1965-1985</unitdate>
-            <container id="aspace_1cd41d9383c2a5ba192fdd417787b8f7" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_a7c17aa9ff6b176efe04d703950c1751" parent="aspace_1cd41d9383c2a5ba192fdd417787b8f7" type="Folder">2</container>
+            <container id="aspace_6ac43ef876307df6c425ed8b4860dc4d" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_b3eb2940cfcbd811bcc6f0e505d7a982" parent="aspace_6ac43ef876307df6c425ed8b4860dc4d" type="Folder">2</container>
           </did>
           <odd id="aspace_1a9c3d81e4dac05cc7a83784278cff02">
             <head>General note</head>
@@ -2426,8 +2425,8 @@
           <did>
             <unittitle>Photographs: Ceremony I (in 6 Acts)</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_c6b9a7da49cb405bd56904a53c24df1c" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_b56f8f28f5234c40420ed97fb062b276" parent="aspace_c6b9a7da49cb405bd56904a53c24df1c" type="Folder">3</container>
+            <container id="aspace_0dee9d6342a77791d6ce4eaf8fe0fa24" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_5bd2a5232d0b09c2581a62505c9a2df0" parent="aspace_0dee9d6342a77791d6ce4eaf8fe0fa24" type="Folder">3</container>
           </did>
           <odd id="aspace_f557310729506f970d00abb53325f9bc">
             <head>General note</head>
@@ -2437,8 +2436,8 @@
           <did>
             <unittitle>Photographs: Paradise Castle</unittitle>
             <unitdate datechar="creation">1974</unitdate>
-            <container id="aspace_bdb00856674e7c7231aecd761e83233e" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_0d725bca54156a6d8ca3a08b562e26b6" parent="aspace_bdb00856674e7c7231aecd761e83233e" type="Folder">4</container>
+            <container id="aspace_9417d82e6361622ddf56dbd43f7e6c81" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_da7cd22ce45d7b8847741e4ba7664312" parent="aspace_9417d82e6361622ddf56dbd43f7e6c81" type="Folder">4</container>
           </did>
           <odd id="aspace_086e4b685893a7b2aee48d7ce0d357d5">
             <head>General note</head>
@@ -2448,8 +2447,8 @@
           <did>
             <unittitle>Photographs: Ceremony II</unittitle>
             <unitdate datechar="creation">1976 ca.</unitdate>
-            <container id="aspace_87368cec6bfd753618d7dda3b4635f31" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_f5578733ab906a2d44d7c287d524a0a3" parent="aspace_87368cec6bfd753618d7dda3b4635f31" type="Folder">5</container>
+            <container id="aspace_2952dd5fe37c726289d3afeb59f2fb59" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_9bb6f8f85bcf5baf116e992b5049ee21" parent="aspace_2952dd5fe37c726289d3afeb59f2fb59" type="Folder">5</container>
           </did>
           <odd id="aspace_9043060605de73151c2ffc688045cfb6">
             <head>General note</head>
@@ -2459,8 +2458,8 @@
           <did>
             <unittitle>Photographs: Twilight</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_c367b409582f86dc36440585ff0d5903" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_a9d9a1f3626f6b4f2a864b12cc8f9a10" parent="aspace_c367b409582f86dc36440585ff0d5903" type="Folder">6</container>
+            <container id="aspace_db9e1895c1c487b223b9efbd7407805f" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_53be76e341dac3bca0795bba9a6eee0f" parent="aspace_db9e1895c1c487b223b9efbd7407805f" type="Folder">6</container>
           </did>
           <odd id="aspace_adc5d31c4ee3d12de5fbb7646e8ec61e">
             <head>General note</head>
@@ -2470,8 +2469,8 @@
           <did>
             <unittitle>Photographs: Fleetwood Mac Suite</unittitle>
             <unitdate datechar="creation">1978 ca.</unitdate>
-            <container id="aspace_f42abfcd7ff76297203687b6f2eff8cb" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_9701fa89f5f15a4238453cfe359acc9d" parent="aspace_f42abfcd7ff76297203687b6f2eff8cb" type="Folder">7</container>
+            <container id="aspace_9c0ba76e83bbfe9f2debfaad5e4d8d76" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_94666e8404f3cf90f666a8defa17ff5a" parent="aspace_9c0ba76e83bbfe9f2debfaad5e4d8d76" type="Folder">7</container>
           </did>
           <odd id="aspace_049546686b6abd75f3cd1cb6cf99e4ae">
             <head>General note</head>
@@ -2481,8 +2480,8 @@
           <did>
             <unittitle>Photographs: Parade on Connecticut Avenue</unittitle>
             <unitdate datechar="creation">1978</unitdate>
-            <container id="aspace_f0e64af70a35384437c47cdb7af52c0e" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_23015ad246d631caedb394d065a35e12" parent="aspace_f0e64af70a35384437c47cdb7af52c0e" type="Folder">8</container>
+            <container id="aspace_6f8260c2492f855b651b89e3571a35ff" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_d2e9ac4e6b607b9e40ec58fbce46f230" parent="aspace_6f8260c2492f855b651b89e3571a35ff" type="Folder">8</container>
           </did>
           <odd id="aspace_75811d2b195b93d5b621cb3476300ffd">
             <head>General note</head>
@@ -2492,8 +2491,8 @@
           <did>
             <unittitle>Photographs: The Passenger</unittitle>
             <unitdate datechar="creation">1978 ca.</unitdate>
-            <container id="aspace_e6395f45887ec5a5160db791c36c1b58" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_41e4c547ecdf7833a98a00cba78d0e55" parent="aspace_e6395f45887ec5a5160db791c36c1b58" type="Folder">9</container>
+            <container id="aspace_f3c78dd7b40ce9427110d99b8142d343" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_36cd406da4fae414efdecd16f3f0dfaf" parent="aspace_f3c78dd7b40ce9427110d99b8142d343" type="Folder">9</container>
           </did>
           <odd id="aspace_f325e392cce5d136d3e64f7acf2401bf">
             <head>General note</head>
@@ -2503,8 +2502,8 @@
           <did>
             <unittitle>Photographs: A Dance in Two Spaces</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_66cd68a2cea9155d529bfeb9e38a7f3f" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_dc83de53fc975bd265b2cae223ef0755" parent="aspace_66cd68a2cea9155d529bfeb9e38a7f3f" type="Folder">10</container>
+            <container id="aspace_007350c2c1939618c7f953e57046df79" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_3a49d71e28d5002bb67e1bc7d037a0e9" parent="aspace_007350c2c1939618c7f953e57046df79" type="Folder">10</container>
           </did>
           <odd id="aspace_b5399cebc95db584bebb6f2df6c09a21">
             <head>General note</head>
@@ -2514,8 +2513,8 @@
           <did>
             <unittitle>Photographs: Circling</unittitle>
             <unitdate datechar="creation">1980</unitdate>
-            <container id="aspace_bbd8a41800b338b0d07df53ea09866a3" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_28125b0b05b88d1b6ff3b7cf01969f3f" parent="aspace_bbd8a41800b338b0d07df53ea09866a3" type="Folder">11</container>
+            <container id="aspace_2ad777ba21f4038ea93d99999ce58f28" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_5d86d03c5751600e8084e5be1a0bcde9" parent="aspace_2ad777ba21f4038ea93d99999ce58f28" type="Folder">11</container>
           </did>
           <odd id="aspace_95c679611d6a0677301c4ddda0fbdfc0">
             <head>General note</head>
@@ -2525,8 +2524,8 @@
           <did>
             <unittitle>Photographs: Ella</unittitle>
             <unitdate datechar="creation">1994</unitdate>
-            <container id="aspace_bf822affaf968a88530fe58ca6466cdc" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_8ac0dca56d44e10573886f6cece7638f" parent="aspace_bf822affaf968a88530fe58ca6466cdc" type="Folder">12</container>
+            <container id="aspace_c40802bcd94fb0957f0d5bc2c7feecb1" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_3cb62a07fda8574f3f8ab22d29a4e0eb" parent="aspace_c40802bcd94fb0957f0d5bc2c7feecb1" type="Folder">12</container>
           </did>
           <odd id="aspace_22c22db9bdcebceb042cee23951c55f7">
             <head>General note</head>
@@ -2536,8 +2535,8 @@
           <did>
             <unittitle>Programs and promotional materials</unittitle>
             <unitdate datechar="creation">1967-1972</unitdate>
-            <container id="aspace_1242547b5076c1489454729ba21c50ca" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_737e84e7c88287f5d598bbf36d44e46d" parent="aspace_1242547b5076c1489454729ba21c50ca" type="Folder">13</container>
+            <container id="aspace_e983162afcf5e98e99b12c1e9bdd1064" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_acc4105095e6ec8a1347ec0ce0eb0ac3" parent="aspace_e983162afcf5e98e99b12c1e9bdd1064" type="Folder">13</container>
           </did>
           <odd id="aspace_5a4d8c8f15033e484713e61aa00b5430">
             <head>General note</head>
@@ -2547,8 +2546,8 @@
           <did>
             <unittitle>Programs and promotional materials</unittitle>
             <unitdate datechar="creation">1973-1985</unitdate>
-            <container id="aspace_4b6a2b985292c16f08ee4c4e47e3050c" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_1c1ccab582f698153a12325db6bc8d58" parent="aspace_4b6a2b985292c16f08ee4c4e47e3050c" type="Folder">14</container>
+            <container id="aspace_660817d7d82e887226776377ad6563f5" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_31b445b5ca798c16f7d8d2d02d61882f" parent="aspace_660817d7d82e887226776377ad6563f5" type="Folder">14</container>
           </did>
           <odd id="aspace_395f5d6beabbd3e27e47866f99859cb7">
             <head>General note</head>
@@ -2558,8 +2557,8 @@
           <did>
             <unittitle>Programs and promotional materials</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_016de26b8ba68c7318dd1dfa8245f66b" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_e4258a9c401e0d4f3db138e1e4c6d447" parent="aspace_016de26b8ba68c7318dd1dfa8245f66b" type="Folder">15</container>
+            <container id="aspace_1d3def911ed514322bb790435fded022" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_257b8c1a7a9198bb8c7b80dce2f3beb4" parent="aspace_1d3def911ed514322bb790435fded022" type="Folder">15</container>
           </did>
           <odd id="aspace_ee04436c5992d1715dcc53c0e27484aa">
             <head>General note</head>
@@ -2572,7 +2571,7 @@
           <unitid>MS2111 Series 4</unitid>
           <unitdate datechar="creation">2002-2005</unitdate>
           <physdesc id="aspace_dad94c1876e9a7eac2d9265e3ef05fda" label="General Physical Description note">0.25 Linear feet</physdesc>
-          <container id="aspace_88a7af3d4e04dfbf32731178b6f2cf1c" label="Mixed Materials" type="Box">15</container>
+          <container id="aspace_51a317df36c5ea747982533a56b29bba" label="Mixed Materials" type="Box">15</container>
         </did>
         <scopecontent id="aspace_d792e99bdc4179defc2e8369e5afa823">
           <head>Scope and Contents note</head>
@@ -2582,7 +2581,7 @@
           <did>
             <unittitle>Programs, brochures, articles</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_36f8a7b78b4159e664623c003c2ca6a3" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_6cbe36e8cc7d694a1e89b43b81423e21" label="Mixed Materials" type="Box">15</container>
           </did>
           <odd id="aspace_edeb152c39fcf6770fd7d50c9148d412">
             <head>General note</head>
@@ -2592,8 +2591,8 @@
           <did>
             <unittitle>Programs, brochures, articles</unittitle>
             <unitdate datechar="creation">2002-2005</unitdate>
-            <container id="aspace_8a5d9d84e8bc6dbae64c54227ddac77e" label="Mixed Materials" type="Box">15</container>
-            <container id="aspace_d60b28ada148e249c4591c166bcdc14a" parent="aspace_8a5d9d84e8bc6dbae64c54227ddac77e" type="Folder">16</container>
+            <container id="aspace_06bc52ad23d6ade05b4e7bdacae149e2" label="Mixed Materials" type="Box">15</container>
+            <container id="aspace_0168cca5758d66ad8ba5a243bad26d40" parent="aspace_06bc52ad23d6ade05b4e7bdacae149e2" type="Folder">16</container>
           </did>
           <odd id="aspace_f383d11fea2ee3f440d0aec70532057a">
             <head>General note</head>

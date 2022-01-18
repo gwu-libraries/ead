@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms0256.xml">ms0256.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:27 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:51:49 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -44,11 +43,11 @@
       <abstract id="aspace_e73317b3999239edd8a568f95585c7ab">Margaret Mary Nicholson (1899-1984) earned A.B. (1922) and M.D. (1925) degrees from The George Washington University and was a pediatrician and professor of medicine in Washington, D.C from 1928-82.</abstract>
       <langmaterial><language langcode="eng">English</language>
 .    </langmaterial>
-      <container id="aspace_f80d3163c42428b3c343aa6c811c8876" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-      <container id="aspace_5bb7d4a6992c93ea301a8909b95b1c1b" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-      <container id="aspace_697d8beffb46eb215a75dfa10f9c52ba" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-      <container id="aspace_52123dfd0e043b0ee33f8183bc8f1a4f" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-      <container id="aspace_c3c8ffe8ed3d523ea02effd3ef4c7502" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+      <container id="aspace_fcfe481db10d32d10827a5ca3505fca6" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+      <container id="aspace_bb31786c50e560e070e9920d69bc51e0" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+      <container id="aspace_746b66929c3b0baac958ae24a9d25a72" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+      <container id="aspace_426b6a7306cc9c2f3ad6386e83f0eeea" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+      <container id="aspace_55638e47381d6322ddb2c54947654dd3" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
     </did>
     <prefercite id="aspace_a4030f8a21fc918b33548f90544f05bd">
       <head>Preferred citation</head>
@@ -121,48 +120,48 @@
           <did>
             <unittitle>St. Cecilia's Academy</unittitle>
             <unitdate datechar="creation">1913-1917</unitdate>
-            <container id="aspace_8a3f215ab91d9591e861168cbce715ac" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_44b87614aa6aae4bf5ae0074be7b7ef7" parent="aspace_8a3f215ab91d9591e861168cbce715ac" type="Folder">1</container>
+            <container id="aspace_b37081632c50547847cd54decadbc778" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_401b014b56b9552cbdd2703499c0b155" parent="aspace_b37081632c50547847cd54decadbc778" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref14_sfd" level="file">
           <did>
             <unittitle>Medical School: Laboratory of Physiology Lab Book</unittitle>
             <unitdate datechar="creation">1921-1922</unitdate>
-            <container id="aspace_850bd18923e77a62aac5a322e1122a14" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_482b0f260486c11ed5fbcb5e08b75652" parent="aspace_850bd18923e77a62aac5a322e1122a14" type="Folder">2</container>
+            <container id="aspace_8fcfe472189df2af9c7d3afe31eda09d" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_efa23ec9cfab777f91a89f155cade733" parent="aspace_8fcfe472189df2af9c7d3afe31eda09d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref16_iiz" level="file">
           <did>
             <unittitle>Medical School: "A Practical Discussion of Electrocardiography"</unittitle>
             <unitdate datechar="creation">1923</unitdate>
-            <container id="aspace_fbdc0d53d7f8699059046d12c3188ef5" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_8bfe17f3b2c8504ca93424b8f2ca2417" parent="aspace_fbdc0d53d7f8699059046d12c3188ef5" type="Folder">3</container>
+            <container id="aspace_74b778b3d11ac773fcd0ff71d87daab5" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_f1dd8305d6a25b93cdc30dd18b293d83" parent="aspace_74b778b3d11ac773fcd0ff71d87daab5" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref18_an1" level="file">
           <did>
             <unittitle>Medical School: "The Use of Radium and the X-Ray in Gynecology"</unittitle>
             <unitdate datechar="creation">1925</unitdate>
-            <container id="aspace_213a59dbb2cecbd1ab8994db23f2535c" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_80d0042e8052b1920c84fe602ee41016" parent="aspace_213a59dbb2cecbd1ab8994db23f2535c" type="Folder">4</container>
+            <container id="aspace_cdc7573beb3501cc1ac4316c2c563b9e" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_5f146115325e297c17bfdd289e8e908e" parent="aspace_cdc7573beb3501cc1ac4316c2c563b9e" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref20_zdw" level="file">
           <did>
             <unittitle>George Washington University Commencement</unittitle>
             <unitdate datechar="creation">1925</unitdate>
-            <container id="aspace_8202a202333fbe12ba4a07d53826c063" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_d5805845966c45b1ed51cf6c34e6352d" parent="aspace_8202a202333fbe12ba4a07d53826c063" type="Folder">5</container>
+            <container id="aspace_1daf07a05a5cd9a02f936cc008bbed74" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_92dfb65feaa83ea81c8537fdb163716c" parent="aspace_1daf07a05a5cd9a02f936cc008bbed74" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref24_srf" level="file">
           <did>
             <unittitle>George Washington University Awards (see Box 5 Oversize)</unittitle>
             <unitdate datechar="creation">1953-1955</unitdate>
-            <container id="aspace_2b51f91c201b487adb11ea39c132f95a" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_a961bb888ec3990bbebdb6855c593095" parent="aspace_2b51f91c201b487adb11ea39c132f95a" type="Folder">7</container>
+            <container id="aspace_ec408d72a5f5b42537a88eb7c8a57f56" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_4e01367f96325fc270fe4efccf28b6e3" parent="aspace_ec408d72a5f5b42537a88eb7c8a57f56" type="Folder">7</container>
           </did>
           <odd id="aspace_54611c5afbddfa672bdc4b9b95347ff1">
             <head>General note</head>
@@ -171,8 +170,8 @@
             <did>
               <unittitle>5th Annual Post-Graduate Clinic, George Washington University</unittitle>
               <unitdate datechar="creation">undated</unitdate>
-              <container id="aspace_8d54de616ec7449dd38bff35dd897f0c" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-              <container id="aspace_b6bd73565204819ba5fb8804c61ced89" parent="aspace_8d54de616ec7449dd38bff35dd897f0c" type="Folder">6</container>
+              <container id="aspace_5edc0ccf22bf8a936332f2e1b9602923" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+              <container id="aspace_50895f1a2cee75b98cb5991270bcb58c" parent="aspace_5edc0ccf22bf8a936332f2e1b9602923" type="Folder">6</container>
             </did>
           </c>
         </c>
@@ -180,16 +179,16 @@
           <did>
             <unittitle>Continuing Education</unittitle>
             <unitdate datechar="creation">1977</unitdate>
-            <container id="aspace_a9bf02fa75f232c10c003bee1ff54f58" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_6f27d07f37f17290cd0cceaeb6ca79ca" parent="aspace_a9bf02fa75f232c10c003bee1ff54f58" type="Folder">8</container>
+            <container id="aspace_db3c53ca7d1f1914dc975f5750d5281f" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_afcf9fc8ad2a716d018b4d26d4b679da" parent="aspace_db3c53ca7d1f1914dc975f5750d5281f" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref28_mg6" level="file">
           <did>
             <unittitle>George Washington University Medical School: 50th Anniversary of the Class of</unittitle>
             <unitdate datechar="creation">1925</unitdate>
-            <container id="aspace_0afa793026c3c67604bf54c977b7ec01" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
-            <container id="aspace_96c5a4a939ecad672de3f7c4fbb7d92d" parent="aspace_0afa793026c3c67604bf54c977b7ec01" type="Folder">9</container>
+            <container id="aspace_6b530fd40ac976010726e231b22806c2" label="Mixed Materials [GW: 32882018204597]" type="Box">1</container>
+            <container id="aspace_51639bb38accdf7c0311b5b269fc7eff" parent="aspace_6b530fd40ac976010726e231b22806c2" type="Folder">9</container>
           </did>
         </c>
       </c>
@@ -211,200 +210,200 @@
           <did>
             <unittitle>Private Practice, Washington, D.C.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7058059d1b93f0ee51f05f2bdad0ab99" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_3a759b27abf24ad003d66ceaa71a8c52" parent="aspace_7058059d1b93f0ee51f05f2bdad0ab99" type="Folder">3</container>
+            <container id="aspace_2cdc4566ada7bdc58a2d879ebfe75f5d" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_175f1d66e577553fc7e7945365e318da" parent="aspace_2cdc4566ada7bdc58a2d879ebfe75f5d" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref35_cao" level="file">
           <did>
             <unittitle>Medical Practice: Children's Hospital (District of Columbia)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0455599a0641f30578f36e56904156da" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_b9b2cfb334db7a0e330b42b3605e52ea" parent="aspace_0455599a0641f30578f36e56904156da" type="Folder">4</container>
+            <container id="aspace_d6860b7db950a79f5c46f8f6ef6ec7af" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_48ddf2fb2137963603fb5ef66e9cc352" parent="aspace_d6860b7db950a79f5c46f8f6ef6ec7af" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref37_tf1" level="file">
           <did>
             <unittitle>Medical Practice: D.C. Public Service</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c1e88ddf0726c0ef54abe82be61f9c0a" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_c4cd8f2d96f51966b1670ca505053449" parent="aspace_c1e88ddf0726c0ef54abe82be61f9c0a" type="Folder">5</container>
+            <container id="aspace_9967da714796b621c2d1d76bc47ac76c" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_c6a2c6a6fce03147cadc49e4555a3017" parent="aspace_9967da714796b621c2d1d76bc47ac76c" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref39_a2q" level="file">
           <did>
             <unittitle>Medical Practice: Doctor's Hospital</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5bda592ab8608bbc26e7cf8455f5f7c8" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_ba1ea96d2cac50c9c988b15c1b7fa8d6" parent="aspace_5bda592ab8608bbc26e7cf8455f5f7c8" type="Folder">6</container>
+            <container id="aspace_edd77c2d98dccc6a072813bf888077f6" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_8b5e309f6e99cfaceb7ed61553f6404f" parent="aspace_edd77c2d98dccc6a072813bf888077f6" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref41_swt" level="file">
           <did>
             <unittitle>Medical Practice: State of Maryland Department of Health</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5da42492ca853def99523ecf4038b153" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_72e92fa63d8a46ee686a3734ffca28ad" parent="aspace_5da42492ca853def99523ecf4038b153" type="Folder">7</container>
+            <container id="aspace_899b50f6acf08e984b7a3cd6b5031399" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_4348ec8102389850b94fdc71fdb41349" parent="aspace_899b50f6acf08e984b7a3cd6b5031399" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref43_63w" level="file">
           <did>
             <unittitle>American Pediatric Directory</unittitle>
             <unitdate datechar="creation">1935</unitdate>
-            <container id="aspace_f745f70bbde2b930763fa1e9ff3afdc3" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_2f96a29bbec7e1c62f7570b0243891ec" parent="aspace_f745f70bbde2b930763fa1e9ff3afdc3" type="Folder">8</container>
+            <container id="aspace_d6f4a252fb31a3d057a80246235fd247" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_933085aa00c5c34ff880fd27db5484fc" parent="aspace_d6f4a252fb31a3d057a80246235fd247" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref45_inp" level="file">
           <did>
             <unittitle>Directory of Medical Women</unittitle>
             <unitdate datechar="creation">1949</unitdate>
-            <container id="aspace_f67a13991d297075ea489e4b835f71ed" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_e97f46971c0839a0fd87fbf47fc1e414" parent="aspace_f67a13991d297075ea489e4b835f71ed" type="Folder">9</container>
+            <container id="aspace_fdbf41f5b75c614d417b3392833cf6f0" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_9c4f6d4fa307e452f0ac9f07ae665262" parent="aspace_fdbf41f5b75c614d417b3392833cf6f0" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref47_g47" level="file">
           <did>
             <unittitle>5th International Congress of Pediatrics</unittitle>
             <unitdate datechar="creation">1947</unitdate>
-            <container id="aspace_adce8f37a0e74d44fe327723e5b6a23e" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_e06ddffc0ab6320ff306e1cb588a5b18" parent="aspace_adce8f37a0e74d44fe327723e5b6a23e" type="Folder">10</container>
+            <container id="aspace_1813138e48e0a939fb012bf1f68a64b5" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_f0e0ca41b6be3f0b842f412ef7ff281d" parent="aspace_1813138e48e0a939fb012bf1f68a64b5" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref49_bu1" level="file">
           <did>
             <unittitle>1st International Polomyelitis Conference</unittitle>
             <unitdate datechar="creation">1948</unitdate>
-            <container id="aspace_b335992f4c48f55c9b2afcfb83911e60" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_d4673adf2e2261bcf187c8601d2557f8" parent="aspace_b335992f4c48f55c9b2afcfb83911e60" type="Folder">11</container>
+            <container id="aspace_382c223ba850aafb98d52e268c181edd" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_ac8f1cf5365a9236273cd1ad001361e2" parent="aspace_382c223ba850aafb98d52e268c181edd" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref51_aaz" level="file">
           <did>
             <unittitle>International Congress of Pediatrics</unittitle>
             <unitdate datechar="creation">1950</unitdate>
-            <container id="aspace_fd578f13f18282dfdcdadb6bd3d7c0d0" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_0309ad39f629e02ff79b5f14fc01bd0a" parent="aspace_fd578f13f18282dfdcdadb6bd3d7c0d0" type="Folder">12</container>
+            <container id="aspace_66c8fed3fbae58566bc03fbf772a958b" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_554e9348afb5ab4358824f642e81fcc2" parent="aspace_66c8fed3fbae58566bc03fbf772a958b" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref53_pee" level="file">
           <did>
             <unittitle>Conferences: International Congress of Pediatrics</unittitle>
             <unitdate datechar="creation">1953</unitdate>
-            <container id="aspace_a8b14dd5fdef314a07bbf3326b9c0523" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
-            <container id="aspace_1ed021d8160106d3cffa69a9daf44c9e" parent="aspace_a8b14dd5fdef314a07bbf3326b9c0523" type="Folder">13</container>
+            <container id="aspace_c1cbac9de8cac12f3dc82b01d377c287" label="Mixed Materials [GW: 32882017204605]" type="Box">2</container>
+            <container id="aspace_94a2a35968a0b1c4cc82486fdda2a705" parent="aspace_c1cbac9de8cac12f3dc82b01d377c287" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref55_o42" level="file">
           <did>
             <unittitle>Professional Associations: Alpha Epsilon, Medical Fraternity</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4b309759a1913d841fa272f227d51b89" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_3a8f93e32873543c9b558b7f08a531c8" parent="aspace_4b309759a1913d841fa272f227d51b89" type="Folder">1</container>
+            <container id="aspace_6cfe46486294938a11e744fccb7c27bc" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_2c7007944b234b5dac6b46f85ebefdca" parent="aspace_6cfe46486294938a11e744fccb7c27bc" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref57_a51" level="file">
           <did>
             <unittitle>American Academy of Pediatrics</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4d50df1a1a79d2b815e5967867ba8238" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_c65e6519ab18f05fdca732b27a12f4ff" parent="aspace_4d50df1a1a79d2b815e5967867ba8238" type="Folder">2</container>
+            <container id="aspace_c2226956a30996d4a03fff3388c65630" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_471e2c6a56c431ae9deeb23020e684d6" parent="aspace_c2226956a30996d4a03fff3388c65630" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref59_j9l" level="file">
           <did>
             <unittitle>American Medical Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7722532568a01478d796717c7c9560e5" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_d8b1d869f28c945908fe4d97247965a9" parent="aspace_7722532568a01478d796717c7c9560e5" type="Folder">3</container>
+            <container id="aspace_7b032a71c660a465ba33219e57a74979" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_daea981344853e00389fa423ddcd9016" parent="aspace_7b032a71c660a465ba33219e57a74979" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref61_qym" level="file">
           <did>
             <unittitle>American Medical Women's Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_43b47eb175e806bf9bdc22e31c6f7a6c" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_58d212b7504719fcb6a2b77db16d2c9b" parent="aspace_43b47eb175e806bf9bdc22e31c6f7a6c" type="Folder">4</container>
+            <container id="aspace_efaa2b1733354d80b837d03e21373737" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_1d8c244d3027a54674995e749263efc4" parent="aspace_efaa2b1733354d80b837d03e21373737" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref63_n2j" level="file">
           <did>
             <unittitle>American Public Health Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3d29324f4a4efd41c45348a72aa86761" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_9010e3a1c326375208ffd770c6dd54f4" parent="aspace_3d29324f4a4efd41c45348a72aa86761" type="Folder">5</container>
+            <container id="aspace_f02223c0bf3e81f03c7de8d9a7ae4825" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_99655dcd043670c9497caca63c75453d" parent="aspace_f02223c0bf3e81f03c7de8d9a7ae4825" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref65_d7f" level="file">
           <did>
             <unittitle>The Endocrine Society</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_775d164744a41b14b41783de09f85e01" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_58cfc0233b57bd3e2d801172145b318a" parent="aspace_775d164744a41b14b41783de09f85e01" type="Folder">6</container>
+            <container id="aspace_a69a28684b3d7a149576c5a6beaa0aad" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_ab0d973f753c26c85387a58cefda1cad" parent="aspace_a69a28684b3d7a149576c5a6beaa0aad" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref67_wvk" level="file">
           <did>
             <unittitle>Medical Society of the District of Columbia</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cad956c8a6a65e88cf0d748e4153419f" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_c7d8b6fb71a4fc03eefdc0d65c80c8af" parent="aspace_cad956c8a6a65e88cf0d748e4153419f" type="Folder">7</container>
+            <container id="aspace_0c427e2d3904418e91a4b482589cdf0c" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_b15c49123fedeb62b9300b5a96ddbdbe" parent="aspace_0c427e2d3904418e91a4b482589cdf0c" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref69_1vg" level="file">
           <did>
             <unittitle>Pan American Medical Women's Alliance</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4bf5d789c2ad83acb6c5a8b5b388ad63" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_db37fd5df17576b245cc3633fa27a0da" parent="aspace_4bf5d789c2ad83acb6c5a8b5b388ad63" type="Folder">8</container>
+            <container id="aspace_b0152592e9b1e1ab60d8b80dcc6e3a7b" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_6b1c248eb2242068d8a622c678f890c7" parent="aspace_b0152592e9b1e1ab60d8b80dcc6e3a7b" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref71_23t" level="file">
           <did>
             <unittitle>Society for Research In Child Development</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bee44281a7ff077e260c36cc05781f69" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_6a262ff745e2b5d866d01e99c961e640" parent="aspace_bee44281a7ff077e260c36cc05781f69" type="Folder">9</container>
+            <container id="aspace_c92befc9e63c0bca83556d10819d3b6b" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_a23c062df58afa3a19897ea8d4d25c5e" parent="aspace_c92befc9e63c0bca83556d10819d3b6b" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref73_4xx" level="file">
           <did>
             <unittitle>Southern Medical Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6939bdf38f4afab758b208b955355a78" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_a136bfc4ab0a449035291762177d4ddb" parent="aspace_6939bdf38f4afab758b208b955355a78" type="Folder">10</container>
+            <container id="aspace_f53ed9722ca21909ceb1d81aada3c7e1" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_f8ee8006b984eb1f56a6c2240617e21a" parent="aspace_f53ed9722ca21909ceb1d81aada3c7e1" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref75_ark" level="file">
           <did>
             <unittitle>Southern Medical Association, Life Membership Certificate</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e0df6253f9e8dbf480ab7c05f40135d1" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_0f56d6cf868cb09a05b3ee8295e4eeb6" parent="aspace_e0df6253f9e8dbf480ab7c05f40135d1" type="Folder">11</container>
+            <container id="aspace_1101e22fd50dc826bef96469ac25fa2b" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_3c9880e5b9c72c10eed7c01d2936554d" parent="aspace_1101e22fd50dc826bef96469ac25fa2b" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref77_uuy" level="file">
           <did>
             <unittitle>United States Committee, Inc. In support of the World Medical Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_426847df675a1017fc28e0faaa257c18" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_e4baab1c7334cf8170e57328fc0809dd" parent="aspace_426847df675a1017fc28e0faaa257c18" type="Folder">12</container>
+            <container id="aspace_e28d1b9cda72370bf3f23076715131c3" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_c9fc24d5cc7e8975ffc2bbffbaafeb9f" parent="aspace_e28d1b9cda72370bf3f23076715131c3" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref79_gwv" level="file">
           <did>
             <unittitle>United States of America, Citizens Defense Corps., Metro Area, D.C.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7707722e39c876acbe43fa0360fa73c6" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_cc17e7cac8a2a6213fdd9ac187a64090" parent="aspace_7707722e39c876acbe43fa0360fa73c6" type="Folder">13</container>
+            <container id="aspace_4af9a17d544b9c7d91f97d84cf3195c6" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_1d475a16120b86416c217adee9d2788f" parent="aspace_4af9a17d544b9c7d91f97d84cf3195c6" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref81_cqq" level="file">
           <did>
             <unittitle>Publications. "Children's Heart Disease", The Courier of the George Washington University Medical Center</unittitle>
             <unitdate datechar="creation">12/1954</unitdate>
-            <container id="aspace_489192e0d34ceb9d28c4444fad6d1ebc" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
-            <container id="aspace_9e1db85fac8f0d3ede22bb2b94e599df" parent="aspace_489192e0d34ceb9d28c4444fad6d1ebc" type="Folder">14</container>
+            <container id="aspace_e6875663ff0562ec121c2db9b5e96124" label="Mixed Materials [GW: 32882018204613]" type="Box">3</container>
+            <container id="aspace_c3e561a2611de5f9e2870fbe667afe0a" parent="aspace_e6875663ff0562ec121c2db9b5e96124" type="Folder">14</container>
           </did>
         </c>
       </c>
@@ -425,192 +424,192 @@
           <did>
             <unittitle>War Correspondence</unittitle>
             <unitdate datechar="creation">1942</unitdate>
-            <container id="aspace_bfe463ed46092a6b0665ab36b5573417" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_b9600da58d4c0d381c48448df09449df" parent="aspace_bfe463ed46092a6b0665ab36b5573417" type="Folder">1</container>
+            <container id="aspace_7e3aa9e9f6707b088b5edfee9891f594" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_8f1ff282a1368ca8c57bd09553dc39a5" parent="aspace_7e3aa9e9f6707b088b5edfee9891f594" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref88_l2l" level="file">
           <did>
             <unittitle>War Correspondence</unittitle>
             <unitdate datechar="creation">1944</unitdate>
-            <container id="aspace_4b8237d2b6225eb227c2c2d738406f28" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_685d519ed407821eed1def6898dc1073" parent="aspace_4b8237d2b6225eb227c2c2d738406f28" type="Folder">2</container>
+            <container id="aspace_dfee478bd0434776f9f13a80acc28633" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_a9e38eddc6adae068da77ea923b0abca" parent="aspace_dfee478bd0434776f9f13a80acc28633" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref90_yje" level="file">
           <did>
             <unittitle>War Correspondence</unittitle>
             <unitdate datechar="creation">1945</unitdate>
-            <container id="aspace_fd3871e0371b72aa94f43cbb0673361c" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_dd805ed78ff9bd5c26160909b457a341" parent="aspace_fd3871e0371b72aa94f43cbb0673361c" type="Folder">3</container>
+            <container id="aspace_d1d3a99db129c0622cfa36909c9bdeff" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_49a4bd1a30a8dd8eed25f77ba85acc11" parent="aspace_d1d3a99db129c0622cfa36909c9bdeff" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref92_syh" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1946</unitdate>
-            <container id="aspace_96ff3175d9bf8e4db8cf44e31f0c89e6" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_d56c80564d6c79ae11f478d9570b37b7" parent="aspace_96ff3175d9bf8e4db8cf44e31f0c89e6" type="Folder">4</container>
+            <container id="aspace_5815e816dc1c9c79cb73639442ef64a5" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_fb4d60c4d92b8e6c04cc3d2eaeac473c" parent="aspace_5815e816dc1c9c79cb73639442ef64a5" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref94_3y1" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1947</unitdate>
-            <container id="aspace_6437d1986297b6f3f95d930692ba3cd4" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_256c579419d7184814879cbf78329044" parent="aspace_6437d1986297b6f3f95d930692ba3cd4" type="Folder">5</container>
+            <container id="aspace_fbcdff44076247a45029abc583b8fad0" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_fdb7a2b7dbc0bbeea8d58395acaf5eea" parent="aspace_fbcdff44076247a45029abc583b8fad0" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref96_3ad" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1948</unitdate>
-            <container id="aspace_1f01f888b2118dee51b64b258f9c6eb0" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_9eeb383c8218eb88fce063a272d75dc3" parent="aspace_1f01f888b2118dee51b64b258f9c6eb0" type="Folder">6</container>
+            <container id="aspace_4c065f32cdfb26d8a397eb1f01198cf5" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_0bb690ddf58b407f4733747c1d330019" parent="aspace_4c065f32cdfb26d8a397eb1f01198cf5" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref98_6dz" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1949</unitdate>
-            <container id="aspace_ddd64ffbcfbab5357026413b0305cb01" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_f1273ed0e6a7007f60b4045e7fa88eb2" parent="aspace_ddd64ffbcfbab5357026413b0305cb01" type="Folder">7</container>
+            <container id="aspace_026b4c5aa5839fc29bcd98c38e54fa20" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_d8f428ab09ebf655ea361a3194c94be3" parent="aspace_026b4c5aa5839fc29bcd98c38e54fa20" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref100_9ad" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1950</unitdate>
-            <container id="aspace_4f4342c214ecf864c478b8aa36ce93ba" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_bad503e6d48c9efd890119a4687cb048" parent="aspace_4f4342c214ecf864c478b8aa36ce93ba" type="Folder">8</container>
+            <container id="aspace_f0d094bd397ce65d4b96ab02ea479911" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_d517099c9879593b759753d51720bfa9" parent="aspace_f0d094bd397ce65d4b96ab02ea479911" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref102_1qx" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1951</unitdate>
-            <container id="aspace_629622fdf7696eb42ce89a63a689c08a" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_fa0643ff03515fd6172d75e2777dd257" parent="aspace_629622fdf7696eb42ce89a63a689c08a" type="Folder">9</container>
+            <container id="aspace_92d5f3605ac6f074fb22656d0b23881d" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_448c946b25f4e1e8bc65c82506ccb737" parent="aspace_92d5f3605ac6f074fb22656d0b23881d" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref104_h3d" level="file">
           <did>
             <unittitle>Post-War Correspondence</unittitle>
             <unitdate datechar="creation">1952</unitdate>
-            <container id="aspace_153211ad03041423803077e74fd2dd25" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_2a3c75ae34490f18c1fbfe100f469901" parent="aspace_153211ad03041423803077e74fd2dd25" type="Folder">10</container>
+            <container id="aspace_917e8d74d18c2c01904263af6b4eb890" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_062a5fb229a9dcdc9b730baecdfe7c4e" parent="aspace_917e8d74d18c2c01904263af6b4eb890" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref106_14y" level="file">
           <did>
             <unittitle>War/Post-War Correspondence</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a46b7e0435d83ed0d8fa0ac6901528c5" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_04f423c93d021f1145a6a8b5bdc620cf" parent="aspace_a46b7e0435d83ed0d8fa0ac6901528c5" type="Folder">11</container>
+            <container id="aspace_cc430f55446e4f1b58875a1203069709" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_8cbb7262b6dfeeff795c96ae9c89fcf8" parent="aspace_cc430f55446e4f1b58875a1203069709" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref108_5gu" level="file">
           <did>
             <unittitle>Overseas Mail Order Service</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b8464e251061198c111d52fd8e968a1c" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_67026eb65118f10d5591a70e4df063ff" parent="aspace_b8464e251061198c111d52fd8e968a1c" type="Folder">12</container>
+            <container id="aspace_531fc24fd4902d0aaf3322327efa27ec" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_afc1fdbceb7f9d74aba611bf31645f37" parent="aspace_531fc24fd4902d0aaf3322327efa27ec" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref110_i64" level="file">
           <did>
             <unittitle>Christ Child Society</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_28710ba31bc1bb05570a534386ce1040" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_4ccfb4f3fc0e30fc980fe76a97317b82" parent="aspace_28710ba31bc1bb05570a534386ce1040" type="Folder">13</container>
+            <container id="aspace_264b4d69c64d3e1655bc5264065efb88" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_7eab7b1f5c68a4fd7ae255cb41ee5393" parent="aspace_264b4d69c64d3e1655bc5264065efb88" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref112_bjd" level="file">
           <did>
             <unittitle>Society for the Propagation of the Faith</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cdee8c21ad063aa184feded7d2d2b080" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_b6bae9adedeb067020d499830b5b6503" parent="aspace_cdee8c21ad063aa184feded7d2d2b080" type="Folder">14</container>
+            <container id="aspace_4d64a1142c6438c4ac31922ce882ee0d" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_f06b8d05f6bd93340d1f81054cd99204" parent="aspace_4d64a1142c6438c4ac31922ce882ee0d" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref114_w9m" level="file">
           <did>
             <unittitle>Papal Honor</unittitle>
             <unitdate datechar="creation">1979</unitdate>
-            <container id="aspace_4e4b37ffa19a8c8a8a241a4bfcc18ac0" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_fcefc6ca42a923fbeefd0eeed83b432a" parent="aspace_4e4b37ffa19a8c8a8a241a4bfcc18ac0" type="Folder">15</container>
+            <container id="aspace_a7641c3bb4639796f7adc015672229b9" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_a8e6af5a9a97973e5659959372574577" parent="aspace_a7641c3bb4639796f7adc015672229b9" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref116_s1m" level="file">
           <did>
             <unittitle>St. Luke's Guild for Physicians and Dentists</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_724bdd126be15f936b9a120853940ee3" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_9c2f60c2c91acb2f5ca3e3715639358b" parent="aspace_724bdd126be15f936b9a120853940ee3" type="Folder">16</container>
+            <container id="aspace_80e34c39808e52784e9e5dd9e8cc71ae" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_8b097e3eae4da495334b7e7ca1b4be58" parent="aspace_80e34c39808e52784e9e5dd9e8cc71ae" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref118_0lq" level="file">
           <did>
             <unittitle>Red Cross</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0feb12f169199632935131d55f8ed6cf" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_00f3b9f3a825faad0e9c1076184e251c" parent="aspace_0feb12f169199632935131d55f8ed6cf" type="Folder">17</container>
+            <container id="aspace_9d56e51bc18c3b7061631126ace2c35b" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_0036f1f82336c53e542a604267d27798" parent="aspace_9d56e51bc18c3b7061631126ace2c35b" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref120_v7e" level="file">
           <did>
             <unittitle>District of Columbia Tuberculosis Association</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cd371a918212690aaf6f24ac7918e47f" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_0f7037f43e3d9d5085f13ef78472384f" parent="aspace_cd371a918212690aaf6f24ac7918e47f" type="Folder">18</container>
+            <container id="aspace_64d6d8afdf057f84f7b3961ef7996563" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_4eabafa11c49fa2883798fb9cb076a2f" parent="aspace_64d6d8afdf057f84f7b3961ef7996563" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref122_ugz" level="file">
           <did>
             <unittitle>Hospital Service Agency</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_226214b52f21e19c879a384d1b0505f3" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_338e03d87f31302c1c3cf81e46c61c2e" parent="aspace_226214b52f21e19c879a384d1b0505f3" type="Folder">19</container>
+            <container id="aspace_5da1d66064b81679489878c8f39612af" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_c6dc3c4c201e6a82371427f1f809e3ed" parent="aspace_5da1d66064b81679489878c8f39612af" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref124_jhy" level="file">
           <did>
             <unittitle>Hertzler Research Foundation</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_928552d7c57b7da3df029198286058ec" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_c2cc1c00871298295e74dd16a1fffb41" parent="aspace_928552d7c57b7da3df029198286058ec" type="Folder">20</container>
+            <container id="aspace_db1ee03de0fccbbdffb5a7b6c6208200" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_8ffe2411facee54052665e7c4c1f3788" parent="aspace_db1ee03de0fccbbdffb5a7b6c6208200" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ref126_5ny" level="file">
           <did>
             <unittitle>General community file</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1657d956f40d41eb83394a9f6068e4df" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_ebb60cef3114f0e6a3e8377b8136b34f" parent="aspace_1657d956f40d41eb83394a9f6068e4df" type="Folder">21</container>
+            <container id="aspace_5211212aad34a343e2235fce5a25f2e1" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_1eb3ae498f975aadefbb71af3cd66885" parent="aspace_5211212aad34a343e2235fce5a25f2e1" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ref128_jsa" level="file">
           <did>
             <unittitle>Washingtonian Award</unittitle>
             <unitdate datechar="creation">1981</unitdate>
-            <container id="aspace_c69a01312ce832c897744efa128eacd8" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_c970402ab19511e1d17749794bad2dfe" parent="aspace_c69a01312ce832c897744efa128eacd8" type="Folder">22</container>
+            <container id="aspace_9b0355dfc9cfc65f55d82e20c7193e22" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_bf610793ee5d8d5592c3d4491396aa74" parent="aspace_9b0355dfc9cfc65f55d82e20c7193e22" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ref130_gyo" level="file">
           <did>
             <unittitle>Honorary Doctorate, Trinity College</unittitle>
             <unitdate datechar="creation">1982</unitdate>
-            <container id="aspace_85175de27da81d59084b5b7d5064aaf3" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_215ffe02ee55cc516a3ea7c05802ffdd" parent="aspace_85175de27da81d59084b5b7d5064aaf3" type="Folder">23</container>
+            <container id="aspace_1fc47a7e86f5c7f2a70993649fcdaa7e" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_f81ecafb790904f5845672b53fa97732" parent="aspace_1fc47a7e86f5c7f2a70993649fcdaa7e" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_ref132_0fi" level="file">
           <did>
             <unittitle>Miscellaneous: Titles/Dedication pages of books found among her papers</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_35cfb2345888678f197928eb469b7ef8" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_e2c8d4218c0f747bf1ec5694ffecce27" parent="aspace_35cfb2345888678f197928eb469b7ef8" type="Folder">24</container>
+            <container id="aspace_d2aaa843d36d6b0eb2394d945e5eabb5" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_f84e46035e8f1c96b8d23b141b6c9c79" parent="aspace_d2aaa843d36d6b0eb2394d945e5eabb5" type="Folder">24</container>
           </did>
         </c>
       </c>
@@ -630,8 +629,8 @@
             <unittitle>Biographical Data</unittitle>
             <unitid>MS0256 Series 4</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4b6f1e97fdcb42382e1bc987bfae565d" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
-            <container id="aspace_76d5b9218feab672deb77db85a72a113" parent="aspace_4b6f1e97fdcb42382e1bc987bfae565d" type="Folder">25</container>
+            <container id="aspace_35e980470552748745ecdfc16081fa70" label="Mixed Materials [GW: 32882018204621]" type="Box">4</container>
+            <container id="aspace_6fba992d840c8abf106e9434caed38eb" parent="aspace_35e980470552748745ecdfc16081fa70" type="Folder">25</container>
           </did>
           <odd id="aspace_47019e8ec63b478e815a980e99912614">
             <head>General note</head>
@@ -1199,8 +1198,8 @@
             <unittitle>Photographs: 2 Family ca.</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4c3430b0375c95d4c84c9f1b8050ff01" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_5ae7e86475be9634964ba9f065cd17b4" parent="aspace_4c3430b0375c95d4c84c9f1b8050ff01" type="Folder">1</container>
+            <container id="aspace_af7a4883f58a764d5f610106e1c8f310" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_77bfa5a25a65bc31ad09502f1c00a362" parent="aspace_af7a4883f58a764d5f610106e1c8f310" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref144_ogn" level="file">
@@ -1208,8 +1207,8 @@
             <unittitle>Photographs: 7 Formal Portraits (ages ca. 2-55)</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_630985afca39c25c06054d543fbda1bb" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_c59a552f4f166853f8003ad3d7ecf6fb" parent="aspace_630985afca39c25c06054d543fbda1bb" type="Folder">2</container>
+            <container id="aspace_62e1c73bb0b1a93b928f32c6a27c1a0f" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_e758ca81aca6cc70fa3358d4498381d5" parent="aspace_62e1c73bb0b1a93b928f32c6a27c1a0f" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref146_c62" level="file">
@@ -1217,8 +1216,8 @@
             <unittitle>Photographs: 4 Miscellaneous Informal color photos of Margaret Mary Nicholson later in life</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_27995dcb87f956d2a98d53d2a3731e44" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_b780c67a183ab66797012b3b582d4445" parent="aspace_27995dcb87f956d2a98d53d2a3731e44" type="Folder">3</container>
+            <container id="aspace_61d48e287fd528c43414de25ff735ead" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_0de478ef011be4fa3557966149fb2d8c" parent="aspace_61d48e287fd528c43414de25ff735ead" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref148_9wo" level="file">
@@ -1226,8 +1225,8 @@
             <unittitle>Photographs: George Washington University Freshman Medical Class</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">1921</unitdate>
-            <container id="aspace_c9ee64582d30a7ca8cf40bf1ed75aa16" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_1d08afa4387ea1b1e8823fc8a52aeda2" parent="aspace_c9ee64582d30a7ca8cf40bf1ed75aa16" type="Folder">4</container>
+            <container id="aspace_88a73812e3fce0a50e6c255f46419184" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_4d66498e9d9776d9a5524bdf2244e747" parent="aspace_88a73812e3fce0a50e6c255f46419184" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref150_zqg" level="file">
@@ -1235,8 +1234,8 @@
             <unittitle>Photographs: Medical Society of the District of Columbia</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">1935</unitdate>
-            <container id="aspace_42d771cfe49b3a7a1f87961a74504cb2" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_439f1dd487532862367de555cf3ca72e" parent="aspace_42d771cfe49b3a7a1f87961a74504cb2" type="Folder">5</container>
+            <container id="aspace_478e126a30983ca9b7001823ebb161d3" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_c3d7c7fab45ef7603a9af6312c7ccc99" parent="aspace_478e126a30983ca9b7001823ebb161d3" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref152_tsl" level="file">
@@ -1244,8 +1243,8 @@
             <unittitle>Photographs: St. Francis Hospital School of Nursing Silver Jubilee</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0e029bea375ce225f6fbdbd914ad43ac" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_1ad3759bf02a541f2ffc65a9b981fcfb" parent="aspace_0e029bea375ce225f6fbdbd914ad43ac" type="Folder">6</container>
+            <container id="aspace_6e28b1ddfb97f65ca862132bedd3ee3d" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_3222b4b5c4569cd77db8e5b23eb845e6" parent="aspace_6e28b1ddfb97f65ca862132bedd3ee3d" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref154_2vk" level="file">
@@ -1253,8 +1252,8 @@
             <unittitle>Photographs: Unidentified medical class, presumably Class of 1925</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_717c4909d59aca25fd512eb84331b287" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_0ab4cf58c2a62b5128f612e66ea19950" parent="aspace_717c4909d59aca25fd512eb84331b287" type="Folder">7</container>
+            <container id="aspace_47ff850c39c9632f4e5ef57de262cab0" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_62f3920666fc35fa18257dc13556bedd" parent="aspace_47ff850c39c9632f4e5ef57de262cab0" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref156_i4f" level="file">
@@ -1262,8 +1261,8 @@
             <unittitle>Photographs: 10 photographs of MMN, family &amp; friends</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">1918-24 ca.</unitdate>
-            <container id="aspace_a24a9ef24a36a1f3c91a0a18a378f76c" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_7d00f5b67240327426cca91836d069d7" parent="aspace_a24a9ef24a36a1f3c91a0a18a378f76c" type="Folder">8</container>
+            <container id="aspace_3160d5f6767ae1ce088e98588e62e415" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_e717f958ecfccfd8d06d3fd4f00f16f8" parent="aspace_3160d5f6767ae1ce088e98588e62e415" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref158_c12" level="file">
@@ -1271,8 +1270,8 @@
             <unittitle>Oversize Documents: Remembrance of the First Holy Communion</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3a9a3159eafee6989e56b8bbde53eb71" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_fcb8af3b6a74d9fef730a71713369d8f" parent="aspace_3a9a3159eafee6989e56b8bbde53eb71" type="Folder">9</container>
+            <container id="aspace_8b43b473135dd2b45e31b25a207407e5" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_00427a778ec400e25fa3ac74830ac3b9" parent="aspace_8b43b473135dd2b45e31b25a207407e5" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref160_kpd" level="file">
@@ -1280,8 +1279,8 @@
             <unittitle>Oversize Documents: Award of Merit, George Washington University Medical Society,February</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">1953</unitdate>
-            <container id="aspace_5d79e6d1baa2d8037a044e011c9e656f" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_a063bfe9c879892497afeb41e24cfaec" parent="aspace_5d79e6d1baa2d8037a044e011c9e656f" type="Folder">10</container>
+            <container id="aspace_8725e8dae4a38080ad30d016fd6f5aab" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_bfdf3259e23800b6dfe77d7b2f7f7d05" parent="aspace_8725e8dae4a38080ad30d016fd6f5aab" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref162_0ta" level="file">
@@ -1289,8 +1288,8 @@
             <unittitle>Oversize Documents: Preparatory-Progressive Piano Series Diploma, St. Cecilia's Academy</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">06/08/1916</unitdate>
-            <container id="aspace_ce0016f25e7fd32b3c85a678a35599b3" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_42e5b95f1cbe7eac90f219b7a0e389bc" parent="aspace_ce0016f25e7fd32b3c85a678a35599b3" type="Folder">11</container>
+            <container id="aspace_5c283515bd68ac8d402da6fa7063c863" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_eab8c61dd3143f64dde010a6764697e0" parent="aspace_5c283515bd68ac8d402da6fa7063c863" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref164_ehl" level="file">
@@ -1298,8 +1297,8 @@
             <unittitle>Oversize Documents: Intermediate-Progressive Piano Series Diploma, St. Cecilia's Academy</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">06/11/1917</unitdate>
-            <container id="aspace_34000c76b5de5fda838b77eb9078e981" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_44703019ee4c41168078c707a8613e05" parent="aspace_34000c76b5de5fda838b77eb9078e981" type="Folder">12</container>
+            <container id="aspace_2e8e3c740c41b821455c608afe96adbd" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_fbc183d86d1d4aef35232d481d57265d" parent="aspace_2e8e3c740c41b821455c608afe96adbd" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref166_rcw" level="file">
@@ -1307,8 +1306,8 @@
             <unittitle>Oversize Documents: Diploma, St. Cecil la's Academy</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">06/11/1917</unitdate>
-            <container id="aspace_02cee6e40ce5b10c0b82b279aa148cec" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_1cae447c88e4637c09c0907f6e385c21" parent="aspace_02cee6e40ce5b10c0b82b279aa148cec" type="Folder">13</container>
+            <container id="aspace_a6d0dd5f361070fbd6a4d1892a2c3579" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_0efa8097663c69eda2049fcd1ba1b7b2" parent="aspace_a6d0dd5f361070fbd6a4d1892a2c3579" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref168_8ln" level="file">
@@ -1316,8 +1315,8 @@
             <unittitle>Oversize Documents: Diploma, George Washington University Bachelor of Arts</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">07/02/1922</unitdate>
-            <container id="aspace_05a11481203ac878583c1954cc73aa84" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_fc4012986c2a50d88b7d4966c50c860e" parent="aspace_05a11481203ac878583c1954cc73aa84" type="Folder">14</container>
+            <container id="aspace_831c3f4d679d61f967c57576e52510cd" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_c623b02e542e857bc578c3304c500dbc" parent="aspace_831c3f4d679d61f967c57576e52510cd" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref170_bwg" level="file">
@@ -1325,8 +1324,8 @@
             <unittitle>Oversize Documents: Society of the Living-In Hospital (New York)</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">08/01/1924</unitdate>
-            <container id="aspace_09d149de4c8dd6bb0f7f276db3aebe8a" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_971b39bdf7aca422cf2add401249b57e" parent="aspace_09d149de4c8dd6bb0f7f276db3aebe8a" type="Folder">15</container>
+            <container id="aspace_fa889167f794b7f4bd7b0dac7fda9a1b" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_c3d9c579c01fefc0afff9379d60921c7" parent="aspace_fa889167f794b7f4bd7b0dac7fda9a1b" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref172_gvz" level="file">
@@ -1334,8 +1333,8 @@
             <unittitle>Oversize Documents: Diploma, George Washington University Doctor of Medicine</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">03/06/1925</unitdate>
-            <container id="aspace_5ecb94f5ea07be7e6f123bf722004838" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_b9b5022e895840cb4d5e0ea649a72bef" parent="aspace_5ecb94f5ea07be7e6f123bf722004838" type="Folder">16</container>
+            <container id="aspace_bb7275a6b6cca92f2a05e89262a52543" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_f4051065fe5bdf3a02b7a78ee52a4559" parent="aspace_bb7275a6b6cca92f2a05e89262a52543" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref174_fa3" level="file">
@@ -1343,8 +1342,8 @@
             <unittitle>Oversize Documents: Certificate, Resident Physician St. Francis Hospital, Pittsburgh</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">01/07/1925-07/01/1926</unitdate>
-            <container id="aspace_389f5461b5059fd074e1fc6b12d4dc50" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_0931a6d425cb834fc8a07c5e867fa4de" parent="aspace_389f5461b5059fd074e1fc6b12d4dc50" type="Folder">17</container>
+            <container id="aspace_7a65046920f168959fad72adfc76ba81" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_7930b946a6b16f2687487e147713c0dd" parent="aspace_7a65046920f168959fad72adfc76ba81" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref176_4b5" level="file">
@@ -1352,8 +1351,8 @@
             <unittitle>Oversize Documents: Pediatric Service, Bellevue Hospital (New York)</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">10/01/1926</unitdate>
-            <container id="aspace_b88948605dc359b62fc6690ee2b04998" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_3ff683908ba5e199bccf816525c853b7" parent="aspace_b88948605dc359b62fc6690ee2b04998" type="Folder">18</container>
+            <container id="aspace_771a799cd85c58d482804591b10ea26f" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_94646a684008b61b0476aa835c2535e0" parent="aspace_771a799cd85c58d482804591b10ea26f" type="Folder">18</container>
           </did>
         </c>
         <c id="aspace_ref178_92n" level="file">
@@ -1361,8 +1360,8 @@
             <unittitle>Oversize Documents: Internship, The Children's Hospital of Philadelphia</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">10/20/1928</unitdate>
-            <container id="aspace_dc6d9616cbd83699aa16b2e2981c2c51" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_37ab82128e526a373881f0e9d0ff832d" parent="aspace_dc6d9616cbd83699aa16b2e2981c2c51" type="Folder">19</container>
+            <container id="aspace_d337e56e0c8b4eb948c13192e798f095" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_bb0c93244eec75b6d86fc4bfb2bc31d4" parent="aspace_d337e56e0c8b4eb948c13192e798f095" type="Folder">19</container>
           </did>
         </c>
         <c id="aspace_ref180_40k" level="file">
@@ -1370,8 +1369,8 @@
             <unittitle>Oversize Documents: The American Public Health Association</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">02/1933</unitdate>
-            <container id="aspace_bab3cd8ac3f6b1e684486b05ab089101" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_17da21ad6edd6b48fd9be94ab3d8d015" parent="aspace_bab3cd8ac3f6b1e684486b05ab089101" type="Folder">20</container>
+            <container id="aspace_9ef56a115d6392ed0ddc0ede1370c917" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_c16b89a03b09afea202648253f92aeb3" parent="aspace_9ef56a115d6392ed0ddc0ede1370c917" type="Folder">20</container>
           </did>
         </c>
         <c id="aspace_ref182_56n" level="file">
@@ -1379,8 +1378,8 @@
             <unittitle>Oversize Documents: License, The American Board of Pediatrics</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">10/27/1934</unitdate>
-            <container id="aspace_47d817e16ec05d1b624efa27521c0832" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_f5a9f5eb5e138a37351c0a979bc51cb6" parent="aspace_47d817e16ec05d1b624efa27521c0832" type="Folder">21</container>
+            <container id="aspace_2e85a7f62e16684a787c0ae50739985e" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_61de4729c375759c727812d0970cd534" parent="aspace_2e85a7f62e16684a787c0ae50739985e" type="Folder">21</container>
           </did>
         </c>
         <c id="aspace_ref184_s6s" level="file">
@@ -1388,8 +1387,8 @@
             <unittitle>Oversize Documents: Sociedad Cubana de Pediatria</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">05/14/1947</unitdate>
-            <container id="aspace_c1b807da338577ea74ce12c521d99313" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_c15e38942e836ac01a8008e255b5d746" parent="aspace_c1b807da338577ea74ce12c521d99313" type="Folder">22</container>
+            <container id="aspace_98178388f6a4fa1eed04de2a095d05c3" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_b2fe6fc030cdb31a29bfea5fbdbda719" parent="aspace_98178388f6a4fa1eed04de2a095d05c3" type="Folder">22</container>
           </did>
         </c>
         <c id="aspace_ref186_630" level="file">
@@ -1397,8 +1396,8 @@
             <unittitle>Oversize Documents: La Sociedad Mexicana de Pediatria</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">01/26/1950</unitdate>
-            <container id="aspace_c8ca5b52d779652979e84690235ae336" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_a92931fee4a821737f31f2d39fde14d1" parent="aspace_c8ca5b52d779652979e84690235ae336" type="Folder">23</container>
+            <container id="aspace_4e1e780095a18ed12321bf5efab00931" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_acbb2c0a70d4f610d921e703318d0e76" parent="aspace_4e1e780095a18ed12321bf5efab00931" type="Folder">23</container>
           </did>
         </c>
         <c id="aspace_ref188_ezx" level="file">
@@ -1406,8 +1405,8 @@
             <unittitle>Oversize Documents: Pro Ecclesia et Pontifice</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">01/15/1974</unitdate>
-            <container id="aspace_655d54403715e42e9f9e20626216bd11" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_8774e11a4d30263ed5c92e8c1ca7ae7c" parent="aspace_655d54403715e42e9f9e20626216bd11" type="Folder">24</container>
+            <container id="aspace_fb9a9a3a15745707ddd1df9dc5f1c34d" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_98c7b684452925bb5bcb6c2a49692312" parent="aspace_fb9a9a3a15745707ddd1df9dc5f1c34d" type="Folder">24</container>
           </did>
         </c>
         <c id="aspace_ref190_hoh" level="file">
@@ -1415,8 +1414,8 @@
             <unittitle>Oversize Documents: Award of Merit, District of Columbia Chapter, American Academy of Pediatrics</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">04/28/1979</unitdate>
-            <container id="aspace_af8fe2e1608ce3b2a3ecff2e7a0909d1" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_5b24797d853409dd98719fd9f880b8ff" parent="aspace_af8fe2e1608ce3b2a3ecff2e7a0909d1" type="Folder">25</container>
+            <container id="aspace_2a0130440b7bbc43c79539034717a571" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_fc6ed13460524172e3b9881321e703a2" parent="aspace_2a0130440b7bbc43c79539034717a571" type="Folder">25</container>
           </did>
         </c>
         <c id="aspace_ref192_avc" level="file">
@@ -1424,8 +1423,8 @@
             <unittitle>Oversize Documents: American Medical Association, Physicians Recognition Award</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">05/01/1981</unitdate>
-            <container id="aspace_7ae3d023edc2ac9b5c2f76c4bc3923b6" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_5580961263cf515ac8282bee02d95df9" parent="aspace_7ae3d023edc2ac9b5c2f76c4bc3923b6" type="Folder">26</container>
+            <container id="aspace_3b3b4d88b4a0b364b8afb3bbb792ff5d" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_bc0a8cb679cef1961ae7ba87e1196e7a" parent="aspace_3b3b4d88b4a0b364b8afb3bbb792ff5d" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_ref194_q0i" level="file">
@@ -1433,8 +1432,8 @@
             <unittitle>Oversize Documents: Fifty Year Club of American Medicine</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0d1dd11bcfdc688e3352e7445c7a9b44" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_1c8f0d8d12d7df8a76d9c0ffef7ead7e" parent="aspace_0d1dd11bcfdc688e3352e7445c7a9b44" type="Folder">27</container>
+            <container id="aspace_afb4c4f3c379612dfbe1fbefa784023b" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_9a9bce4f0217b79bcf910b5b58309b42" parent="aspace_afb4c4f3c379612dfbe1fbefa784023b" type="Folder">27</container>
           </did>
         </c>
         <c id="aspace_ref196_9au" level="file">
@@ -1442,8 +1441,8 @@
             <unittitle>Oversize Documents: Hahnemann Hospital (Washington, D.C.) 1930-59 Head of Pediatrics</unittitle>
             <unitid>MS0256 Series 5</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_592c6027bf45ce8611c4309558739ed1" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
-            <container id="aspace_8af0b143eff2686a68d7efb2ad9b880b" parent="aspace_592c6027bf45ce8611c4309558739ed1" type="Folder">28</container>
+            <container id="aspace_0b0449a48e0eadc73bd93b1b1d5495b0" label="Mixed Materials [GW: 32882018204639]" type="Box">5</container>
+            <container id="aspace_b774ce0722d7a433d1f0ca1778a2ad93" parent="aspace_0b0449a48e0eadc73bd93b1b1d5495b0" type="Folder">28</container>
           </did>
         </c>
       </c>

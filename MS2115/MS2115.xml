@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2115.xml">ms2115.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:39:31 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:58:23 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -102,7 +101,7 @@
           <did>
             <unittitle>Maryland</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_dd777b2db3e59681afbd968ab41bfe65" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5ade9fd57f5ac18211561960a650f02b" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_47200f023e77264d5863c2921f9ec978">
             <head>General note</head>
@@ -112,8 +111,8 @@
           <did>
             <unittitle>Bridges--Burnside Bridge (Sharpsburg, MD)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5e4e3c7007c2bd144fb15a230e46a605" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eec999b74e28a402ef2f7b3b4480509c" parent="aspace_5e4e3c7007c2bd144fb15a230e46a605" type="Folder">1</container>
+            <container id="aspace_e8c9032ba3fe705b6b11402d2f2326d3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ed65bfea82b386be68246982a7a9d1d" parent="aspace_e8c9032ba3fe705b6b11402d2f2326d3" type="Folder">1</container>
           </did>
           <odd id="aspace_0d2ea39f6ca487589a33e71b3994619b">
             <head>General note</head>
@@ -124,8 +123,8 @@
           <did>
             <unittitle>Churches--Dunkard Church</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fd341ed0ed836943a5962e32c944c820" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_db553b5605926f268c1e84082142f496" parent="aspace_fd341ed0ed836943a5962e32c944c820" type="Folder">2</container>
+            <container id="aspace_d14e38d244ff5d4470176c9e46e713a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_187c400906c443e8aa4df4893485d7ee" parent="aspace_d14e38d244ff5d4470176c9e46e713a3" type="Folder">2</container>
           </did>
           <odd id="aspace_b2cb3c3d3325559bb385b901b057e01c">
             <head>General note</head>
@@ -136,8 +135,8 @@
           <did>
             <unittitle>Civil War Monuments--Antietam</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bd0672dcc7ba6b9b70416e7dcfa21348" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_10ff0daf30d48013811dd9fb559b8029" parent="aspace_bd0672dcc7ba6b9b70416e7dcfa21348" type="Folder">3</container>
+            <container id="aspace_bbef39aa24cf67325d8ff0e335ade0ee" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_45ac1c56aedef5e6ef79c1aa021b352b" parent="aspace_bbef39aa24cf67325d8ff0e335ade0ee" type="Folder">3</container>
           </did>
           <odd id="aspace_33dcc96539351ec67fff528140c7b20a">
             <head>General note</head>
@@ -148,8 +147,8 @@
           <did>
             <unittitle>Civil War Monuments--Antietam</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a61335c928e64f5dba33c366189be8bc" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_497d77cbce0e658e90ca65791b8271c3" parent="aspace_a61335c928e64f5dba33c366189be8bc" type="Folder">4</container>
+            <container id="aspace_876fa1bef2b7db5d7e77f9d342750860" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e92535ad6d23ef8b6ddbfe9dcfd4f183" parent="aspace_876fa1bef2b7db5d7e77f9d342750860" type="Folder">4</container>
           </did>
           <odd id="aspace_02b5f23f97f5657e5af49543fce09aa4">
             <head>General note</head>
@@ -160,8 +159,8 @@
           <did>
             <unittitle>Civil War Monuments--Antietam</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_55c0995a09784fb3d635e72d3c0513eb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_377b2244d3c36e2970e7811b2d2b810e" parent="aspace_55c0995a09784fb3d635e72d3c0513eb" type="Folder">5</container>
+            <container id="aspace_f0a6c1a8cfb3b5ec876b2279fb1f105c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e73fe9e5f1c6bc60dfe799440ea4ef6f" parent="aspace_f0a6c1a8cfb3b5ec876b2279fb1f105c" type="Folder">5</container>
           </did>
           <odd id="aspace_d12f76675c0cd957e72a7f5b5570005f">
             <head>General note</head>
@@ -172,8 +171,8 @@
           <did>
             <unittitle>Statues-- "Old Simon" (?</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5bb205aa934f7b3b122aa7af06b6f762" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5f893779adedc0fa61928dbec26d9793" parent="aspace_5bb205aa934f7b3b122aa7af06b6f762" type="Folder">6</container>
+            <container id="aspace_15f1ad7ba894ac3c7e83a7383711d95e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_cf13c02e66b31db13bd1fd590d9d4dee" parent="aspace_15f1ad7ba894ac3c7e83a7383711d95e" type="Folder">6</container>
           </did>
           <odd id="aspace_b0fb181d62a692ed031c92a95ab617a8">
             <head>General note</head>
@@ -197,7 +196,7 @@
           <did>
             <unittitle>Lake Mohonk, N.Y.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c5bfdf1e968bf6a30ed2ea1865bc99d8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3c754a67fbb55391dc316212cde391fb" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_47ac81f4125605bfef9e49e4b10ec1b1">
             <head>General note</head>
@@ -207,8 +206,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ee6e3be30c2fdbe119eda3f30b1e854c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_75c901b70771d2b93342bf4370059d22" parent="aspace_ee6e3be30c2fdbe119eda3f30b1e854c" type="Folder">7</container>
+            <container id="aspace_958d86b638490e7b4801d53bcab4678f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8d5360b88be753e5ea09f4284394d1d9" parent="aspace_958d86b638490e7b4801d53bcab4678f" type="Folder">7</container>
           </did>
           <odd id="aspace_23c72555eed064b4b94de1715d184fc2">
             <head>General note</head>
@@ -219,8 +218,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1d0ba231ca0473a6d583d74d678ec4ac" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f8587b0c7e628a1258355da5ec03c58c" parent="aspace_1d0ba231ca0473a6d583d74d678ec4ac" type="Folder">8</container>
+            <container id="aspace_677644f947da155ca56d4709483c8605" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5cab12e4793410bbd3e6918e1e8615c1" parent="aspace_677644f947da155ca56d4709483c8605" type="Folder">8</container>
           </did>
           <odd id="aspace_7b9df804161552cc673a5b7940369af4">
             <head>General note</head>
@@ -231,8 +230,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)--Monuments</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_08bf00103227e9766714edeb355bd994" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_aa266605479f89ca11970e0c10303fa5" parent="aspace_08bf00103227e9766714edeb355bd994" type="Folder">9</container>
+            <container id="aspace_f2462123d4eb34d28a2f85d889c3cda7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d07fc9b2e009a1b804296134325fdefc" parent="aspace_f2462123d4eb34d28a2f85d889c3cda7" type="Folder">9</container>
           </did>
           <odd id="aspace_13640a9d79d4a3faf5f413ba5d44364b">
             <head>General note</head>
@@ -243,8 +242,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)--View of Gazebo</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1733feaaac4a0b473c3afdaec30a878a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_dffefdd9984d7b523773f106bf6d5efc" parent="aspace_1733feaaac4a0b473c3afdaec30a878a" type="Folder">10</container>
+            <container id="aspace_5d4221387e0e8ddde170d1cb8c8dc5ce" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c67d47352403316876bcd62cc7de882f" parent="aspace_5d4221387e0e8ddde170d1cb8c8dc5ce" type="Folder">10</container>
           </did>
           <odd id="aspace_b5541314053c10a7c5cdd33e7f7d4f0b">
             <head>General note</head>
@@ -255,8 +254,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)--View of Gazebo and Hotel</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_598d74fb03311ff6c15f5292eb9a4aa8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a670556d93289aa862bd7f5f2b35ba2d" parent="aspace_598d74fb03311ff6c15f5292eb9a4aa8" type="Folder">11</container>
+            <container id="aspace_2e7bfe39b50e581d1ec6bd50986fa04c" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_a98e1f0cce6308f7d511e5259ffedb2c" parent="aspace_2e7bfe39b50e581d1ec6bd50986fa04c" type="Folder">11</container>
           </did>
           <odd id="aspace_f7475d412ca68439d6b554438caabe62">
             <head>General note</head>
@@ -267,8 +266,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)--View of Lake</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ce0705d1b2be5f8469304a09f5508e0f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_cbb66958d938d7b4ebf1314501981dd7" parent="aspace_ce0705d1b2be5f8469304a09f5508e0f" type="Folder">12</container>
+            <container id="aspace_a3224f432765ad0c1b97db59d91ee196" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_54c03521702e1060de3c221f8dcb99a8" parent="aspace_a3224f432765ad0c1b97db59d91ee196" type="Folder">12</container>
           </did>
           <odd id="aspace_0eda55a33ebef9e8157a6d65d5cd9137">
             <head>General note</head>
@@ -279,8 +278,8 @@
           <did>
             <unittitle>Resorts--Lake Mohonk (NY)--Washington Profile House</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f111e09e88cc67e954b71a07ce05f7a6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a0d895d7f6efcd8d2eb446104ec76b8b" parent="aspace_f111e09e88cc67e954b71a07ce05f7a6" type="Folder">13</container>
+            <container id="aspace_3bce1f5fe5aec3c5d1a015046ee52646" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_25c9099ed871ff835ea4354cc2822281" parent="aspace_3bce1f5fe5aec3c5d1a015046ee52646" type="Folder">13</container>
           </did>
           <odd id="aspace_2a6e3b48f7c59e1598c8d43f000bcdbc">
             <head>General note</head>
@@ -303,7 +302,7 @@
           <did>
             <unittitle>Virginia</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3d34fd08689dc8e5319f23555841acd0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_c52565cb2428d7967eca5df4ecebb31f" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_cbc6619599d2e9783d895900cae148b0">
             <head>General note</head>
@@ -313,8 +312,8 @@
           <did>
             <unittitle>Mount Vernon (VA)--Events--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_107924dcbf3f0aa31db74f1ce6cc537a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2031378c94f9ed305a30453ca38d40da" parent="aspace_107924dcbf3f0aa31db74f1ce6cc537a" type="Folder">14</container>
+            <container id="aspace_2d3e6f7af420495ae20278eb8a492f7f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ffb9a046c7e71390a6c0ab995d09688c" parent="aspace_2d3e6f7af420495ae20278eb8a492f7f" type="Folder">14</container>
           </did>
           <odd id="aspace_4a82c108fb77f2d4f3dab74b5a72f030">
             <head>General note</head>
@@ -325,8 +324,8 @@
           <did>
             <unittitle>Mount Vernon (VA)--George Washington's Tomb</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5656593e70ff4bb12dd015c37897a0e5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a68966428cc6ff26c7f405fe624d71d8" parent="aspace_5656593e70ff4bb12dd015c37897a0e5" type="Folder">15</container>
+            <container id="aspace_961f92b60474c961595b5f9c731c255e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_84412090937544b97efc91e610babf5f" parent="aspace_961f92b60474c961595b5f9c731c255e" type="Folder">15</container>
           </did>
           <odd id="aspace_036d0ebad7603bafbb018ce9cd5a281d">
             <head>General note</head>
@@ -337,8 +336,8 @@
           <did>
             <unittitle>Mount Vernon (VA)--Portraits--Group</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7d69f9cb8a053a6b8ba99ecc9421f3f6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5b66f5a1eeb1088b84e3de2ed7a842c0" parent="aspace_7d69f9cb8a053a6b8ba99ecc9421f3f6" type="Folder">16</container>
+            <container id="aspace_8f6b82d8adde9e0e98907ce201bce562" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6601f3c58ced7706210560ab5e305a22" parent="aspace_8f6b82d8adde9e0e98907ce201bce562" type="Folder">16</container>
           </did>
           <odd id="aspace_ec71732d88152eb1129168b6fb688c74">
             <head>General note</head>
@@ -349,8 +348,8 @@
           <did>
             <unittitle>Mount Vernon (VA)--Portraits--Group</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_37cf2ee2d9097d84e5317b91b3939426" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8fb2f57f13c12b08e8e4da1b8c75e782" parent="aspace_37cf2ee2d9097d84e5317b91b3939426" type="Folder">17</container>
+            <container id="aspace_f70f9bc0874f844b18cb5de400a94568" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_73e4706b37a97e65469b40e348d56eff" parent="aspace_f70f9bc0874f844b18cb5de400a94568" type="Folder">17</container>
           </did>
           <odd id="aspace_e2619743533fc8e1af434a1825e39e01">
             <head>General note</head>
@@ -361,8 +360,8 @@
           <did>
             <unittitle>Mount Vernon (VA)--View from SE</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b587d8071fe3d6c272184927ff83ccdb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eae25c9d697b0b8fd6939f954e9348a1" parent="aspace_b587d8071fe3d6c272184927ff83ccdb" type="Folder">18</container>
+            <container id="aspace_fac6d99c5cff34324b2d1d6c472cf6aa" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_75b94021585a625afc0232b6e915accd" parent="aspace_fac6d99c5cff34324b2d1d6c472cf6aa" type="Folder">18</container>
           </did>
           <odd id="aspace_068bc456859a7071358be06ede5e1732">
             <head>General note</head>
@@ -386,7 +385,7 @@
           <did>
             <unittitle>Washington, D.C.</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_82795b7160ad8cb1e041f7f3772594a0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_740d3098e876dd1227e9eac670ad0090" label="Mixed Materials" type="Box">1</container>
           </did>
           <odd id="aspace_f177ddf52cc429607870b2565e7517c8">
             <head>General note</head>
@@ -396,8 +395,8 @@
           <did>
             <unittitle>Aerial Photographs--Bridges--The Long Bridge</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_596ac9d0d63b72800beef8a1a232eabb" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4cea299ac9128e44b2e209dae6129389" parent="aspace_596ac9d0d63b72800beef8a1a232eabb" type="Folder">19</container>
+            <container id="aspace_7e8d8948f0300543e3a19497c580ea0e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2df80272451878beae5427a4a156e0e0" parent="aspace_7e8d8948f0300543e3a19497c580ea0e" type="Folder">19</container>
           </did>
           <odd id="aspace_f12fa9c3eee631f02305fe6ce79e435d">
             <head>General note</head>
@@ -408,8 +407,8 @@
           <did>
             <unittitle>Aerial Photographs--NE view of Old Post Office and Capitol from Washington Monument</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5ac366dec6137aef63917279c9091c18" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fcd70916f58b09b061945c859b002829" parent="aspace_5ac366dec6137aef63917279c9091c18" type="Folder">20</container>
+            <container id="aspace_bf9cb932b14c06ec229c228542c55781" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_50841dc6af85ea548190099c7b8cc3b1" parent="aspace_bf9cb932b14c06ec229c228542c55781" type="Folder">20</container>
           </did>
           <odd id="aspace_d121f3941b35b1f218ebfa2fbbf3b166">
             <head>General note</head>
@@ -420,8 +419,8 @@
           <did>
             <unittitle>Aerial Photographs--NE view of Old Post Office and Capitol from Washington Monument</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2c207b6bff6d3491b9bd734e85550fc8" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_03139ad81c0ae2e438171704ba2929de" parent="aspace_2c207b6bff6d3491b9bd734e85550fc8" type="Folder">21</container>
+            <container id="aspace_4f1132525a1345726462d03672253fd8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_190546e722cf8ed2e6e7b1ce0422f301" parent="aspace_4f1132525a1345726462d03672253fd8" type="Folder">21</container>
           </did>
           <odd id="aspace_6fc7408d1fa4ab4e1664e958b66794e3">
             <head>General note</head>
@@ -432,8 +431,8 @@
           <did>
             <unittitle>Aerial Photographs--Tidal Basin</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6366c7775144490f08703869c81e0a98" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_efc883a773886bf21aa5ca201d7c8a83" parent="aspace_6366c7775144490f08703869c81e0a98" type="Folder">22</container>
+            <container id="aspace_23bfaa1629eb352fad5f6ceb94f03548" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f01837bb3cddc7157ff104c031475fc5" parent="aspace_23bfaa1629eb352fad5f6ceb94f03548" type="Folder">22</container>
           </did>
           <odd id="aspace_e4cde315468790a8ee4efa1a5d9107b5">
             <head>General note</head>
@@ -444,8 +443,8 @@
           <did>
             <unittitle>Aerial Photographs--View of Capitol from Washington Monument</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2488334470fc75c01236521ceb57fe90" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bc5a4f053b38f3c5ab33908861426870" parent="aspace_2488334470fc75c01236521ceb57fe90" type="Folder">23</container>
+            <container id="aspace_0b2004f9e65ce86f83d3e52a3c8fbda7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0ba15aacd4a0a15bcfef2a4f90164d0c" parent="aspace_0b2004f9e65ce86f83d3e52a3c8fbda7" type="Folder">23</container>
           </did>
           <odd id="aspace_6f9169b26de4a2546ce002fa6fc7ce04">
             <head>General note</head>
@@ -456,8 +455,8 @@
           <did>
             <unittitle>Aerial Photographs--View of Capitol from Washington Monument</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ae360bd4a9eef3ccb0ecb4a19b9bc0ef" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fd93c3f62b9edbb1c33b92219e19f6ed" parent="aspace_ae360bd4a9eef3ccb0ecb4a19b9bc0ef" type="Folder">24</container>
+            <container id="aspace_9cc131faca5f31c0707ec0f932f3c4ae" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bbcd8f90399d868f39edbaacaaac5096" parent="aspace_9cc131faca5f31c0707ec0f932f3c4ae" type="Folder">24</container>
           </did>
           <odd id="aspace_3f5c1e1aa5d097b3c3dcbfcf38a684f4">
             <head>General note</head>
@@ -468,8 +467,8 @@
           <did>
             <unittitle>Aerial Photographs--View of Mall and city from Washington Monument</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_25a1d17d22832d2c9220e8809e848768" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_064968c9d93b65922dfd77c3327f212d" parent="aspace_25a1d17d22832d2c9220e8809e848768" type="Folder">25</container>
+            <container id="aspace_b36043e26048ffc5a39900de77327841" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_77010405257451a8e33fe46f52f5aacc" parent="aspace_b36043e26048ffc5a39900de77327841" type="Folder">25</container>
           </did>
           <odd id="aspace_1869eeeabbcdf2f5254a23ee34b9ae28">
             <head>General note</head>
@@ -480,8 +479,8 @@
           <did>
             <unittitle>Aerial Photographs--View of Washington Monument and White House from Cairo Hotel</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_39b13853e40696b1cc77b6ad3f67d57e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2860b7a32c9c1c280adc1875ed57ff7c" parent="aspace_39b13853e40696b1cc77b6ad3f67d57e" type="Folder">26</container>
+            <container id="aspace_88c8ec9cc2a07ffec53ad7cb8c4bb0a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6222296732de41ffe38bc56ed9152388" parent="aspace_88c8ec9cc2a07ffec53ad7cb8c4bb0a3" type="Folder">26</container>
           </did>
           <odd id="aspace_b8ce3463c30c7a49679621bf15f8b686">
             <head>General note</head>
@@ -492,8 +491,8 @@
           <did>
             <unittitle>Aerial Photographs--View of Wyoming Apartments, above Connecticut Avenue and Columbia Road</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_06e7a5814936068c79f08b1f6a4b6d2e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eccaa2672902361f5b26bcbf3a2bdd32" parent="aspace_06e7a5814936068c79f08b1f6a4b6d2e" type="Folder">27</container>
+            <container id="aspace_6d344c64ebd34733b938c7f1130d0a10" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6f5433a28f4816077bc61b6ba124d3ee" parent="aspace_6d344c64ebd34733b938c7f1130d0a10" type="Folder">27</container>
           </did>
           <odd id="aspace_2acbd8cddcbb7b8e0af61fe2005cbbc3">
             <head>General note</head>
@@ -504,8 +503,8 @@
           <did>
             <unittitle>Apartment Houses--The Concord, 1701 Oregon Avenue NW</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_396bad9917bab733b6165a921a94abdd" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7152ef4d7b8ff6cb20b7283f0de3fe23" parent="aspace_396bad9917bab733b6165a921a94abdd" type="Folder">28</container>
+            <container id="aspace_042bdc8a2c20a5643ff305f01b9ac827" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_56ca02afd4f47e90a7eda5481c775fdd" parent="aspace_042bdc8a2c20a5643ff305f01b9ac827" type="Folder">28</container>
           </did>
           <odd id="aspace_7f069a4c8521fe17015a68f9620f0185">
             <head>General note</head>
@@ -516,8 +515,8 @@
           <did>
             <unittitle>Buildings--Public--Old Executive Office Building</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_137275080ae1a49a7b199f82d34832c5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_04dc96ed7467a5cca108a71207c2ba88" parent="aspace_137275080ae1a49a7b199f82d34832c5" type="Folder">29</container>
+            <container id="aspace_f652a049d9433a958dcbc728dbbdaca3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7c6f83436bafaf3e57dd7675fac361d5" parent="aspace_f652a049d9433a958dcbc728dbbdaca3" type="Folder">29</container>
           </did>
           <odd id="aspace_b33af5d2b32f57a26256bd59145764bd">
             <head>General note</head>
@@ -528,8 +527,8 @@
           <did>
             <unittitle>Buildings--Public--Treasury--North Front Steps</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9e3912eda2cc9dc168db5541c36195a9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_2c40e6fe080d24e8cb1439ea490cb35f" parent="aspace_9e3912eda2cc9dc168db5541c36195a9" type="Folder">30</container>
+            <container id="aspace_e73e0351343135e7c9a38a690dbbc5a3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_35aeeeeaec397c67f26cc4725202b8a3" parent="aspace_e73e0351343135e7c9a38a690dbbc5a3" type="Folder">30</container>
           </did>
           <odd id="aspace_c08e342099a56638793c646dd5b70de5">
             <head>General note</head>
@@ -540,8 +539,8 @@
           <did>
             <unittitle>Capitol--Rotunda--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cd7a5e6a34e2c01eba486310e7c72b75" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_1d66aa44d7aa08c6c01d422cdca04515" parent="aspace_cd7a5e6a34e2c01eba486310e7c72b75" type="Folder">31</container>
+            <container id="aspace_511e496ca8c6c9fdcdd562729442a72e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_104f1702adeff8c5fc882ef6586224ba" parent="aspace_511e496ca8c6c9fdcdd562729442a72e" type="Folder">31</container>
           </did>
           <odd id="aspace_71968703517fc5ce41168d09c1d2f32a">
             <head>General note</head>
@@ -552,8 +551,8 @@
           <did>
             <unittitle>Capitol--Rotunda--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b1b03bf69ebf04dd1b05bcd987d3cb8b" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_28019affb15d29c6ade07dea1ddd0089" parent="aspace_b1b03bf69ebf04dd1b05bcd987d3cb8b" type="Folder">32</container>
+            <container id="aspace_b3d5a176fac99d613c20697f1543240a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_da075e7b1e5d35f7f45041dde647aea5" parent="aspace_b3d5a176fac99d613c20697f1543240a" type="Folder">32</container>
           </did>
           <odd id="aspace_60cb68812bd2883119cc31d233506a75">
             <head>General note</head>
@@ -564,8 +563,8 @@
           <did>
             <unittitle>Capitol--West Steps</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c26fc38dca1df389a33ac361183c8869" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_34e0f36c0bae5e36e0c01080efb441f1" parent="aspace_c26fc38dca1df389a33ac361183c8869" type="Folder">33</container>
+            <container id="aspace_1df3446d5802a2995a08392731ff89c6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_8a2b1a90547030dd8fbde6a0f3a0948a" parent="aspace_1df3446d5802a2995a08392731ff89c6" type="Folder">33</container>
           </did>
           <odd id="aspace_e65e1634ab384c8678215c7af9227122">
             <head>General note</head>
@@ -576,8 +575,8 @@
           <did>
             <unittitle>Dwellings--Blaine, James G. Mansion, 2000 Massachusetts Avenue NW--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1905a228e4c02f93bdbb7a5673b93502" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_352db34d02d15078c3f0ea4cd8260771" parent="aspace_1905a228e4c02f93bdbb7a5673b93502" type="Folder">34</container>
+            <container id="aspace_50850c4af560af60c4105533d6411834" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_596b3d7e8bcb7f834a16b74aa09e9dba" parent="aspace_50850c4af560af60c4105533d6411834" type="Folder">34</container>
           </did>
           <odd id="aspace_a6ac29cd27da65398afb76548b65bb77">
             <head>General note</head>
@@ -588,8 +587,8 @@
           <did>
             <unittitle>Dwellings--Blaine, James G. Mansion, 2000 Massachusetts Avenue NW--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1ca9961b0d4be016b63cf3422647ae05" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_7b02c8b90b27717c17477d63fb67d875" parent="aspace_1ca9961b0d4be016b63cf3422647ae05" type="Folder">35</container>
+            <container id="aspace_d4637921a1a856cf7d3080fb48027b56" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5b8b5ab4b75a97dd1b30f0a2e3293832" parent="aspace_d4637921a1a856cf7d3080fb48027b56" type="Folder">35</container>
           </did>
           <odd id="aspace_455d9aa01effcc75f0fcb7afc2af74e1">
             <head>General note</head>
@@ -600,8 +599,8 @@
           <did>
             <unittitle>Dwellings--Blaine, James G. Mansion, 2000 Massachusetts Avenue NW--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_666ff9c6459227f3b1afd826404dc6d9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_f595d1804521d1cfcb641b2f925a81a7" parent="aspace_666ff9c6459227f3b1afd826404dc6d9" type="Folder">36</container>
+            <container id="aspace_144af4b3503a856761c9205ea3179573" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5a09e6f5440d8b846aa4567176781253" parent="aspace_144af4b3503a856761c9205ea3179573" type="Folder">36</container>
           </did>
           <odd id="aspace_113d7809530ed76a35cb6931711dfdae">
             <head>General note</head>
@@ -612,8 +611,8 @@
           <did>
             <unittitle>Dwellings--Blaine, James G. Mansion, 2000 Massachusetts Avenue NW--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e9f58043323e3e5d2679424168b7232a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_ea0dee098bca20cbcc496ea42faf2129" parent="aspace_e9f58043323e3e5d2679424168b7232a" type="Folder">37</container>
+            <container id="aspace_d0909128520f4226b63c3e551c2df386" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_0539745154e3677086880380ad7c85e5" parent="aspace_d0909128520f4226b63c3e551c2df386" type="Folder">37</container>
           </did>
           <odd id="aspace_c7265aad4f0b999885e047c14dd2690f">
             <head>General note</head>
@@ -624,8 +623,8 @@
           <did>
             <unittitle>Dwellings--Blaine, James G. Mansion, 2000 Massachusetts Avenue NW--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b9c9241f1f0984f9a8d4b1635fd21a20" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_89d8320761abb979802a1ef1e3056b92" parent="aspace_b9c9241f1f0984f9a8d4b1635fd21a20" type="Folder">38</container>
+            <container id="aspace_cca9f027f0e534c3b4a97231a42d3433" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_f59138d79fc49db19e332501e4d4d04d" parent="aspace_cca9f027f0e534c3b4a97231a42d3433" type="Folder">38</container>
           </did>
           <odd id="aspace_5e65a072677005c41cb4dd765973366d">
             <head>General note</head>
@@ -636,8 +635,8 @@
           <did>
             <unittitle>Embassy Buildings--Mexican Legation--1413 I Street NW</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f5368796253095087e550e671a109114" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_27ec21695bf0295aabd407f70a44cea9" parent="aspace_f5368796253095087e550e671a109114" type="Folder">39</container>
+            <container id="aspace_71867506a6556e2063829172772e51ce" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_aba1e6f55dd73f55a457ab7bdf1b3bc0" parent="aspace_71867506a6556e2063829172772e51ce" type="Folder">39</container>
           </did>
           <odd id="aspace_72b8a71f11aa78006e1373742b393f88">
             <head>General note</head>
@@ -648,8 +647,8 @@
           <did>
             <unittitle>Events--British Legation--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_01c40a148e8bf726f4b841eb2f420aa5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e122efec038a498ef16defc8085baeae" parent="aspace_01c40a148e8bf726f4b841eb2f420aa5" type="Folder">40</container>
+            <container id="aspace_0326452d440b46eab95b1f29c27b0a3b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e81f293bc26bb7eadfdc3ae7246e9a1d" parent="aspace_0326452d440b46eab95b1f29c27b0a3b" type="Folder">40</container>
           </did>
           <odd id="aspace_6e1aa5d7b8cb75bfd0435aa9ed2a5ee3">
             <head>General note</head>
@@ -660,8 +659,8 @@
           <did>
             <unittitle>Events--British Legation--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b24f8391756d8e0668de68f03704ef79" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_35b14191033a0da84dd420e8d60ea2be" parent="aspace_b24f8391756d8e0668de68f03704ef79" type="Folder">41</container>
+            <container id="aspace_f7d3735bebe6c61f385455335c4056d9" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_35eb12b34f726c03864ace6256e24de9" parent="aspace_f7d3735bebe6c61f385455335c4056d9" type="Folder">41</container>
           </did>
           <odd id="aspace_81cb80b2d57fff036e7f6919e83f71bf">
             <head>General note</head>
@@ -672,8 +671,8 @@
           <did>
             <unittitle>Events--Capitol--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ffc2137326560a98ca6ab0debde2d113" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_dc403000b2c4183a9c6c1fa1c413f9af" parent="aspace_ffc2137326560a98ca6ab0debde2d113" type="Folder">42</container>
+            <container id="aspace_a1b5c080ffe80c0f6d9c78c60150f135" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_777f53cf0485131aefb1525332ba12b3" parent="aspace_a1b5c080ffe80c0f6d9c78c60150f135" type="Folder">42</container>
           </did>
           <odd id="aspace_011914940010f03d622027dbede7cb0e">
             <head>General note</head>
@@ -684,8 +683,8 @@
           <did>
             <unittitle>Events--Capitol--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2faba45983672c45b70ecbaa43f4acf7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_007ae5e36fc573b3fa264f3be3cba34b" parent="aspace_2faba45983672c45b70ecbaa43f4acf7" type="Folder">43</container>
+            <container id="aspace_96a2e950904e17e4fd98f94b73bb3bdd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_47aa8c3d9627e89e907541dbb4c43d3e" parent="aspace_96a2e950904e17e4fd98f94b73bb3bdd" type="Folder">43</container>
           </did>
           <odd id="aspace_ef02fd4fb695350aa273045c072cf920">
             <head>General note</head>
@@ -696,8 +695,8 @@
           <did>
             <unittitle>Events--Capitol--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ccd5d980b23895455093657b2d4e011a" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c11adad16bf6d94dc592aabbf2c651c4" parent="aspace_ccd5d980b23895455093657b2d4e011a" type="Folder">44</container>
+            <container id="aspace_2dcd440de3183ac354f7f87e4b2ed9d4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c15144b7801a59d1750d4386a2623c8" parent="aspace_2dcd440de3183ac354f7f87e4b2ed9d4" type="Folder">44</container>
           </did>
           <odd id="aspace_751be0f18aeb2cead1b2a1211d8dd2c8">
             <head>General note</head>
@@ -708,8 +707,8 @@
           <did>
             <unittitle>Events--Capitol--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eeb9cec29e2bd85d441597081580169c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c25f2a7bbf06e06b62d8a0b7be3192b7" parent="aspace_eeb9cec29e2bd85d441597081580169c" type="Folder">45</container>
+            <container id="aspace_8297005e38ecbe8d6804f21afe14ce87" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c1986348a3ba3c4fdb3c42c608d7d3d" parent="aspace_8297005e38ecbe8d6804f21afe14ce87" type="Folder">45</container>
           </did>
           <odd id="aspace_8f00dd9ae85cc8f1db6b6fa9f1d96df7">
             <head>General note</head>
@@ -720,8 +719,8 @@
           <did>
             <unittitle>Events--Capitol--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3dd3405249d8d677c032de2aa3773a52" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e240733f20c53811e55ddb9635554d5b" parent="aspace_3dd3405249d8d677c032de2aa3773a52" type="Folder">46</container>
+            <container id="aspace_ef6a29a491a1c82fbd5632492c6ba27a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_42dc0954eb8e5c59a58af3738bcd414c" parent="aspace_ef6a29a491a1c82fbd5632492c6ba27a" type="Folder">46</container>
           </did>
           <odd id="aspace_a84e99deeccc2928f3a69b47ab190d2c">
             <head>General note</head>
@@ -732,8 +731,8 @@
           <did>
             <unittitle>Events--Homecoming for Admiral George Dewey--Dewey's Commands "Capture or Destroy Montojo's Fleet", "When You Are Ready, Gridley, You May Fire May 1, 1898" in Lights on Marquee</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ff3a3da13228486444f47eb20a006ce6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_11548363844a95c72942749dd931bd6d" parent="aspace_ff3a3da13228486444f47eb20a006ce6" type="Folder">47</container>
+            <container id="aspace_a3c9e2db0d462488bd7f57c755e9c502" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6cd798133f5afafd57d86f3c89df949b" parent="aspace_a3c9e2db0d462488bd7f57c755e9c502" type="Folder">47</container>
           </did>
           <odd id="aspace_4d3a3a6a0e7566364a321be07061dde1">
             <head>General note</head>
@@ -744,8 +743,8 @@
           <did>
             <unittitle>Events--Parades--Civic Parade, 1899--Pennsylvania Avenue</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f7e787c1dd7591690970dbcaf7672353" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_a934086e388e695ffa845826ac94c56a" parent="aspace_f7e787c1dd7591690970dbcaf7672353" type="Folder">48</container>
+            <container id="aspace_1d8834b9af20bc8b8c395e0e089f4cb7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2a848a9ca98a128ecf7fe389dfd3ecf5" parent="aspace_1d8834b9af20bc8b8c395e0e089f4cb7" type="Folder">48</container>
           </did>
           <odd id="aspace_b0e4ae06f49727f98ab9941620371c29">
             <head>General note</head>
@@ -756,8 +755,8 @@
           <did>
             <unittitle>Events--Parades--Civic Parade, 1899</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ebe25282aa07fe7ccd6da21832e4752d" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8b160b7f9d3703e91f54099c0290faad" parent="aspace_ebe25282aa07fe7ccd6da21832e4752d" type="Folder">49</container>
+            <container id="aspace_14c42a5fc50330fe223c2ff991145f2f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_713b3bfcb3fe43c721aef6e31fed2e56" parent="aspace_14c42a5fc50330fe223c2ff991145f2f" type="Folder">49</container>
           </did>
           <odd id="aspace_0a71b4ae357c6bd04931923635e8d669">
             <head>General note</head>
@@ -768,8 +767,8 @@
           <did>
             <unittitle>Events--Parades--Civic Parade, 1899--Pennsylvania Avenue and 15th Streets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_55dfe9d2c31430a826374595251ae7aa" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5636a5e9ea5f8e3ac58af79c790a8a6e" parent="aspace_55dfe9d2c31430a826374595251ae7aa" type="Folder">50</container>
+            <container id="aspace_360f35c782757eb713d11257794a6121" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5eeac84dc52a6a4ee470628a44137d14" parent="aspace_360f35c782757eb713d11257794a6121" type="Folder">50</container>
           </did>
           <odd id="aspace_1d7a7d5c7958e572e55d757b023aec25">
             <head>General note</head>
@@ -780,8 +779,8 @@
           <did>
             <unittitle>Events--Parades--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1c6180377acbe45834826c27d2dafcc6" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_fc12f6dcadc355dabe83b58769643b63" parent="aspace_1c6180377acbe45834826c27d2dafcc6" type="Folder">51</container>
+            <container id="aspace_e40edab4d2ebc101e3ec30f6439e3a83" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_85ba075015363fb055f07a1131aef8b1" parent="aspace_e40edab4d2ebc101e3ec30f6439e3a83" type="Folder">51</container>
           </did>
           <odd id="aspace_4b39bec7b0f5b4e00b3d3c4aea301c67">
             <head>General note</head>
@@ -792,8 +791,8 @@
           <did>
             <unittitle>Events--Parades--Homecoming for Admiral George Dewey</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_22ed2d51cf1c4ead042370eea3c7f73e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d9481c8f5c6a7f42ec0fc95869e7e862" parent="aspace_22ed2d51cf1c4ead042370eea3c7f73e" type="Folder">52</container>
+            <container id="aspace_fc378b593911bf1143168ab48612f212" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d19f50bd4ef85a3bcd35b9ba5a8c9698" parent="aspace_fc378b593911bf1143168ab48612f212" type="Folder">52</container>
           </did>
           <odd id="aspace_56380e598a488b8afe900cc04dce5ba6">
             <head>General note</head>
@@ -804,8 +803,8 @@
           <did>
             <unittitle>Events--White House--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d426d4b06e0f278c62e1ac274baec597" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_6448b6f2c05ffce77237162470e96337" parent="aspace_d426d4b06e0f278c62e1ac274baec597" type="Folder">53</container>
+            <container id="aspace_de65f5b1af658bbc16d3f400b7bc378e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3ba048ddc76f3ecf3542f6cc29f46483" parent="aspace_de65f5b1af658bbc16d3f400b7bc378e" type="Folder">53</container>
           </did>
           <odd id="aspace_d5b65fda260fefcbab69f841162eddb0">
             <head>General note</head>
@@ -816,8 +815,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e9b4bc0f83dedc0ac3067f920fd4908f" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e5ac1d63fccac1cdbb357e8bfa43fe13" parent="aspace_e9b4bc0f83dedc0ac3067f920fd4908f" type="Folder">54</container>
+            <container id="aspace_3f612d46f43d9f17369c10dcdb52e24a" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5273ec2598b7f69fd23f85c0e84efba1" parent="aspace_3f612d46f43d9f17369c10dcdb52e24a" type="Folder">54</container>
           </did>
           <odd id="aspace_c7ad8fa01b6db4c8fb8c33509484443f">
             <head>General note</head>
@@ -828,8 +827,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_abb55ad8e2096f4122eec443c517664c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_94790651e532bc156fb5cd7578a18d37" parent="aspace_abb55ad8e2096f4122eec443c517664c" type="Folder">55</container>
+            <container id="aspace_906130e7603d8585fb38e531146db17b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_89dc3f4c5d4315b87d4d13fe4d0fbf2c" parent="aspace_906130e7603d8585fb38e531146db17b" type="Folder">55</container>
           </did>
           <odd id="aspace_2c969eef1b23000d112e3c548832f794">
             <head>General note</head>
@@ -840,8 +839,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_da999f99ed4d96659d88fa18975e7d15" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_be509fca54f534a1f42c7e6b4f30adb3" parent="aspace_da999f99ed4d96659d88fa18975e7d15" type="Folder">56</container>
+            <container id="aspace_0fee89b2f704ada4c6821f45bf4b7b8f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_6c387e09ebb4c8017516c1d817f816f3" parent="aspace_0fee89b2f704ada4c6821f45bf4b7b8f" type="Folder">56</container>
           </did>
           <odd id="aspace_9a32148915a8193c08a45964ed18e128">
             <head>General note</head>
@@ -852,8 +851,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Paintings--Ulysses S. Grant</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_92ed87ee9c39d14c4d896da675125d42" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_89d4680378ce4dcbdd62bb071b7bfe6a" parent="aspace_92ed87ee9c39d14c4d896da675125d42" type="Folder">57</container>
+            <container id="aspace_b24ac361da945c25fdb75df7c0952b15" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_85c041a335856bcf789307f47187bc05" parent="aspace_b24ac361da945c25fdb75df7c0952b15" type="Folder">57</container>
           </did>
           <odd id="aspace_e540ce2b40c1dcc2bfcc3711b73c4c29">
             <head>General note</head>
@@ -864,8 +863,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Paintings--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2dec9eb69549a1c5a1e1bdc4694ba6c4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_242aa54692f6b28cebd33163b4e5d82d" parent="aspace_2dec9eb69549a1c5a1e1bdc4694ba6c4" type="Folder">58</container>
+            <container id="aspace_77348eb100e02cc9432067eeabeea5ea" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9a151176a9ce29bdfe3d553062aae668" parent="aspace_77348eb100e02cc9432067eeabeea5ea" type="Folder">58</container>
           </did>
           <odd id="aspace_95c2f6879253cbba83f70d2d6a9de043">
             <head>General note</head>
@@ -876,8 +875,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Paintings--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b0a9d4c49eaed89364e372034c65e7c2" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d601941e15a05887304cd4a98d4b4e81" parent="aspace_b0a9d4c49eaed89364e372034c65e7c2" type="Folder">59</container>
+            <container id="aspace_b112c846d9f1bf316a399c1bd61019b1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b70c13bb1c283429fdbb36af1675b0b0" parent="aspace_b112c846d9f1bf316a399c1bd61019b1" type="Folder">59</container>
           </did>
           <odd id="aspace_01f85179187e250c4d58e2207adaf035">
             <head>General note</head>
@@ -888,8 +887,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Statues--Napoleon Primo</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d398c33737b09c1457fa030a74d13c03" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3e87bb2da0d26b09794464ca1b0d5a56" parent="aspace_d398c33737b09c1457fa030a74d13c03" type="Folder">60</container>
+            <container id="aspace_e33156e920fd93e9595c309c2cb9dd55" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ebda939f674577bbb40617240735ad09" parent="aspace_e33156e920fd93e9595c309c2cb9dd55" type="Folder">60</container>
           </did>
           <odd id="aspace_d911922dfa2eb6a000ba34c377d9007b">
             <head>General note</head>
@@ -900,8 +899,8 @@
           <did>
             <unittitle>Galleries and Museums--Corcoran--Statues--Napoleon Primo</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ff35506d8d0eb4f478bd2fb20eb57592" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_194181bb5ab87208b1873594c15cc387" parent="aspace_ff35506d8d0eb4f478bd2fb20eb57592" type="Folder">61</container>
+            <container id="aspace_68492e3c2d7804210e4ee43e7c5c87b8" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3a6745796f4232206412ef65fb1f61f5" parent="aspace_68492e3c2d7804210e4ee43e7c5c87b8" type="Folder">61</container>
           </did>
           <odd id="aspace_c07a84eff8df61c6cf7bab61a9ae382b">
             <head>General note</head>
@@ -912,8 +911,8 @@
           <did>
             <unittitle>Graphic--Centennial Celebration Seal</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_261bd1d391447dff6675de6a3e540308" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4980adac5516b211408bd7209f3582b8" parent="aspace_261bd1d391447dff6675de6a3e540308" type="Folder">62</container>
+            <container id="aspace_9e18b18707494fc188201b95e866b550" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_e311818bd968560c46fd8d78b0c652e0" parent="aspace_9e18b18707494fc188201b95e866b550" type="Folder">62</container>
           </did>
           <odd id="aspace_6440bb1d84873e6144fd5843ef310fa0">
             <head>General note</head>
@@ -924,8 +923,8 @@
           <did>
             <unittitle>Hotels--The Cairo Hotel, Q and 16th Streets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_939aebcb2aef82646d8a828ea4cfa0c4" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3cbc1322052fdd03b97ab31b35e81aa7" parent="aspace_939aebcb2aef82646d8a828ea4cfa0c4" type="Folder">63</container>
+            <container id="aspace_c007d6bb5daec26c05a38b13a7913b64" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3f4094e2f9704c96daef21cbd00020b8" parent="aspace_c007d6bb5daec26c05a38b13a7913b64" type="Folder">63</container>
           </did>
           <odd id="aspace_8813187beab5ebaa01d0a74436326ce3">
             <head>General note</head>
@@ -936,8 +935,8 @@
           <did>
             <unittitle>Hotels--The Cairo Hotel, Q and 16th Streets</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f6165c4bafffc3eca0ac454243c80313" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_b874dc3b745f679e5bcfe365b057be71" parent="aspace_f6165c4bafffc3eca0ac454243c80313" type="Folder">64</container>
+            <container id="aspace_7d54cd5842aa613c18101fd2f8c758f1" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_383d96d3f354f188ff055eaf9c71ead7" parent="aspace_7d54cd5842aa613c18101fd2f8c758f1" type="Folder">64</container>
           </did>
           <odd id="aspace_6f4e76fcf8a14e2be8daec70e15ca6cb">
             <head>General note</head>
@@ -948,8 +947,8 @@
           <did>
             <unittitle>Hotels--The Willard, Pennsylvania Avenue and 14th Street</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ef2f6073226485b1a2603ada691a1b86" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d56dba8a5adeca50dcf9bfa3f0a9c49f" parent="aspace_ef2f6073226485b1a2603ada691a1b86" type="Folder">65</container>
+            <container id="aspace_c8466553b49aa2841ba83705ae611fbc" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_7f448d4f6ff8218e3b4730b45179419a" parent="aspace_c8466553b49aa2841ba83705ae611fbc" type="Folder">65</container>
           </did>
           <odd id="aspace_69a682cacee3e262bd48a8109b9e8235">
             <head>General note</head>
@@ -960,8 +959,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_29232a7c34ce869d164304e48a2768d9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bbabedbdd88fc3b786e4159de98f53f5" parent="aspace_29232a7c34ce869d164304e48a2768d9" type="Folder">66</container>
+            <container id="aspace_174f712c8e234a5a56bb1ff40f13a255" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1c7e1e7e7951d43693207605b8371f79" parent="aspace_174f712c8e234a5a56bb1ff40f13a255" type="Folder">66</container>
           </did>
           <odd id="aspace_3f6664a861f1ff98ef6440bd996d9e15">
             <head>General note</head>
@@ -972,8 +971,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a3f95da17d8c514f7a823133738b7b14" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d66778152f3a5f9a8431b48dc9b91063" parent="aspace_a3f95da17d8c514f7a823133738b7b14" type="Folder">67</container>
+            <container id="aspace_35a3e1d73479abc561360ff619cb95e6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d2699e4bc8ee01c7886e59f02fb109e2" parent="aspace_35a3e1d73479abc561360ff619cb95e6" type="Folder">67</container>
           </did>
           <odd id="aspace_404d942cd04c617209d20ec1b5319951">
             <head>General note</head>
@@ -984,8 +983,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b54461fd86c1dcc86792f07da884be87" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_8f401927f68fa36ecad7b41d01b017f5" parent="aspace_b54461fd86c1dcc86792f07da884be87" type="Folder">68</container>
+            <container id="aspace_963970a2c37be649ecba15738c429bb7" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_1b03ff8cdf0ebad823d5d2b821a20899" parent="aspace_963970a2c37be649ecba15738c429bb7" type="Folder">68</container>
           </did>
           <odd id="aspace_12115085da0bd619c1ad1ae16902a25c">
             <head>General note</head>
@@ -996,8 +995,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f5e5f3c3eb856f8b17462662221127b1" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_eb2ef0dcf603129ada782b72ddde5c1a" parent="aspace_f5e5f3c3eb856f8b17462662221127b1" type="Folder">69</container>
+            <container id="aspace_4076a5f522270c215ed6aedb140078a4" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_733f27d6d9e6a77e16073004704bb8d7" parent="aspace_4076a5f522270c215ed6aedb140078a4" type="Folder">69</container>
           </did>
           <odd id="aspace_0bbcfa02bb92afa804bb11cf17cdf96b">
             <head>General note</head>
@@ -1008,8 +1007,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_332fb741381a5bd64bd98439a180b06e" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_03994d279513473ed01f79113721e870" parent="aspace_332fb741381a5bd64bd98439a180b06e" type="Folder">70</container>
+            <container id="aspace_92075f57e4968af036fb7f28805abb01" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9897ecb1aa0e50f7b7817fe763328202" parent="aspace_92075f57e4968af036fb7f28805abb01" type="Folder">70</container>
           </did>
           <odd id="aspace_5548752f795526319a88c64173188e30">
             <head>General note</head>
@@ -1020,8 +1019,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Main Reading Room (2)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_06027fa40693931d7b3cb241293f00e9" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_4bfc28e8f3257077be41103f364c02c9" parent="aspace_06027fa40693931d7b3cb241293f00e9" type="Folder">71</container>
+            <container id="aspace_325f8e600ca16d65c5a755398e89aa00" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_72899f7bf2d2e539e007919aa8572234" parent="aspace_325f8e600ca16d65c5a755398e89aa00" type="Folder">71</container>
           </did>
           <odd id="aspace_e94c8abddb58b53172d1bc1039efb2c5">
             <head>General note</head>
@@ -1032,8 +1031,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Main Reading Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b6aeae135dcade9b5e3242892e6d4862" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_edcf9f55d74214f84ab15c8fa037d88f" parent="aspace_b6aeae135dcade9b5e3242892e6d4862" type="Folder">72</container>
+            <container id="aspace_c737f35fb56c504e27c497afc667c4cb" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b8dba9cc73f4a4ed4ce228084e5086a7" parent="aspace_c737f35fb56c504e27c497afc667c4cb" type="Folder">72</container>
           </did>
           <odd id="aspace_2e5f19fcc5184c6f699ef2fe75e65439">
             <head>General note</head>
@@ -1044,8 +1043,8 @@
           <did>
             <unittitle>Libraries--Library of Congress--Reading Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_99decd6d48c337544af5396e747291ab" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_5dc7c1e1034760662f3ee66130012870" parent="aspace_99decd6d48c337544af5396e747291ab" type="Folder">73</container>
+            <container id="aspace_74f30719323e7563ac45585a4fb5d5f2" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_ef4ca1d8440f6787c04032ac0083eb96" parent="aspace_74f30719323e7563ac45585a4fb5d5f2" type="Folder">73</container>
           </did>
           <odd id="aspace_895b1d4266a5905af0a89f76507c9a2d">
             <head>General note</head>
@@ -1056,8 +1055,8 @@
           <did>
             <unittitle>Plazas--Dupont Circle--View of Women's National Democratic Club (Sarah Adams Whittemore House) and Leiter Mansion</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_dd237eb0e0dc44b77fa3a5f7f54926db" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_408469ae5a86bf25c19612c4b9f1de84" parent="aspace_dd237eb0e0dc44b77fa3a5f7f54926db" type="Folder">74</container>
+            <container id="aspace_2792a30728243ac97cae4033fb30fc35" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dc43a34fc6a8d649de5c905a0941c21f" parent="aspace_2792a30728243ac97cae4033fb30fc35" type="Folder">74</container>
           </did>
           <odd id="aspace_f42ff34f704481d040da5da24a517a43">
             <head>General note</head>
@@ -1068,8 +1067,8 @@
           <did>
             <unittitle>Plazas--Farrugut Square, 17th and I Streets, NW</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1e32d8db2dc7fbbfd1cffea7f8cd47db" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_610b2b17b9340e38918c3f6b90d94bd9" parent="aspace_1e32d8db2dc7fbbfd1cffea7f8cd47db" type="Folder">75</container>
+            <container id="aspace_1e3f5b168ece910a23ba2a73a4017896" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_00d5ce6a703368f7047359a16baef6b6" parent="aspace_1e3f5b168ece910a23ba2a73a4017896" type="Folder">75</container>
           </did>
           <odd id="aspace_6ca6f9dfda5722f6cb42545f6bcf59ec">
             <head>General note</head>
@@ -1080,8 +1079,8 @@
           <did>
             <unittitle>Plazas--Lafayette Square</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_436dffdc62694cb1c31af157d04f28fe" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_bd76c41e4a4271cb233c56674b4b7379" parent="aspace_436dffdc62694cb1c31af157d04f28fe" type="Folder">76</container>
+            <container id="aspace_3e543dda4d95816520d50d29c2bbf21b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_bf404d0926ffdcde42bda1011d4814c6" parent="aspace_3e543dda4d95816520d50d29c2bbf21b" type="Folder">76</container>
           </did>
           <odd id="aspace_51fbd98c484199f65fca2a7556cd7a65">
             <head>General note</head>
@@ -1092,8 +1091,8 @@
           <did>
             <unittitle>Plazas--Scott Circle--16th Street and Massachusetts Avenue, NW</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a962408d2f1f9012d45a55754540c7e7" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_c9f0bcc3467d050c0326789787692735" parent="aspace_a962408d2f1f9012d45a55754540c7e7" type="Folder">77</container>
+            <container id="aspace_196bf4b1d7d14704e56bbc57e5209fb0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9397f44c81c003325630188f20a7dd26" parent="aspace_196bf4b1d7d14704e56bbc57e5209fb0" type="Folder">77</container>
           </did>
           <odd id="aspace_fefaf13715527efcbe1d213e87fb2d14">
             <head>General note</head>
@@ -1104,8 +1103,8 @@
           <did>
             <unittitle>White House--Communications Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2159ff83ee86c784408e337ed8dba21c" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_d9f0a84fce49f8352ddbb238a5cf8700" parent="aspace_2159ff83ee86c784408e337ed8dba21c" type="Folder">78</container>
+            <container id="aspace_af4b008038ca227367f2a98d6f6ec5b0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_dee331a1bd5b573317a2b99b4254cd9e" parent="aspace_af4b008038ca227367f2a98d6f6ec5b0" type="Folder">78</container>
           </did>
           <odd id="aspace_0b386c13e1ca3591cf6b29374e56c4b6">
             <head>General note</head>
@@ -1116,8 +1115,8 @@
           <did>
             <unittitle>White House--Communications Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_248b7016fc2c5d2e04af65bb3a4fd5ec" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_e6f219e2744d247441fc38ae8e8e7766" parent="aspace_248b7016fc2c5d2e04af65bb3a4fd5ec" type="Folder">79</container>
+            <container id="aspace_717655fbd9913c3fb52d1cd577db36f0" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fd36d79b7c3765192272fa72289b0a1b" parent="aspace_717655fbd9913c3fb52d1cd577db36f0" type="Folder">79</container>
           </did>
           <odd id="aspace_5a8833afefc51b76dce936d30dae6abb">
             <head>General note</head>
@@ -1128,8 +1127,8 @@
           <did>
             <unittitle>White House--Gates</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_8d60cd5fca5b6e648acd47abf43793db" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_3c57e851bb468948b3c9aaefba32d6cc" parent="aspace_8d60cd5fca5b6e648acd47abf43793db" type="Folder">80</container>
+            <container id="aspace_74f11a141bbc6b9496a693c6c9b240bd" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_5e8ddbd8706867cbd128396c5605cb19" parent="aspace_74f11a141bbc6b9496a693c6c9b240bd" type="Folder">80</container>
           </did>
           <odd id="aspace_49d843b1bd0bb028effe711ab91992a2">
             <head>General note</head>
@@ -1140,8 +1139,8 @@
           <did>
             <unittitle>White House--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f711fad43c495de0a82f226770af62ee" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_783cdc1f28e9662e56cc2e4abc0fe8ce" parent="aspace_f711fad43c495de0a82f226770af62ee" type="Folder">81</container>
+            <container id="aspace_581b4364b7359b9a9b29eaa6e2e5b302" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_60817747761f410ed057bebcc056fdba" parent="aspace_581b4364b7359b9a9b29eaa6e2e5b302" type="Folder">81</container>
           </did>
           <odd id="aspace_ef641a6da41371d577f57a06a4ba03e3">
             <head>General note</head>
@@ -1152,8 +1151,8 @@
           <did>
             <unittitle>White House--Interior</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d74a2da0ea833b53dd0c5986779770c5" label="Mixed Materials" type="Box">1</container>
-            <container id="aspace_6151bf14dd4dae75e652f26ed9b071d4" parent="aspace_d74a2da0ea833b53dd0c5986779770c5" type="Folder">82</container>
+            <container id="aspace_8b8dc48a863f85e4b16a3d3d5609bafe" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3755379834ecab66eb14a6a4c3cff3b9" parent="aspace_8b8dc48a863f85e4b16a3d3d5609bafe" type="Folder">82</container>
           </did>
           <odd id="aspace_0432b2e37ee1eee44c2ae27fff9b3761">
             <head>General note</head>
@@ -1177,7 +1176,7 @@
           <did>
             <unittitle>Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_72341e945f899c630012090d5d392184" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4cb82db377c5bf4e34e4237edd12a355" label="Mixed Materials" type="Box">2</container>
           </did>
           <odd id="aspace_38b3198095dedaec5f93cb5fe51a9fea">
             <head>General note</head>
@@ -1187,8 +1186,8 @@
           <did>
             <unittitle>Aerial Photographs--Dwellings--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_554a5f4ce1e394c57b612e4b66a87b78" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3e239afbc0d57a627401ff8fb52d324a" parent="aspace_554a5f4ce1e394c57b612e4b66a87b78" type="Folder">1</container>
+            <container id="aspace_5f3108c2b36a1893e84d87d3f77c0093" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_35fd88f4350cc9171da87a35656f618a" parent="aspace_5f3108c2b36a1893e84d87d3f77c0093" type="Folder">1</container>
           </did>
           <odd id="aspace_8ad40ee152b82dc7f889c0b2b3f8d043">
             <head>General note</head>
@@ -1199,8 +1198,8 @@
           <did>
             <unittitle>Aerial Photographs--Dwellings--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7c2c13bc142f9d5de0a3da9567dbd4a6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_35871e49fe92559dcf2a82456dfd941a" parent="aspace_7c2c13bc142f9d5de0a3da9567dbd4a6" type="Folder">2</container>
+            <container id="aspace_6b21f5a4a07203656ee57788d231eb33" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7cf0c126e78b1ac1086948e9502824e1" parent="aspace_6b21f5a4a07203656ee57788d231eb33" type="Folder">2</container>
           </did>
           <odd id="aspace_d9734f27fb123e41797400a3f57febcb">
             <head>General note</head>
@@ -1211,8 +1210,8 @@
           <did>
             <unittitle>Aerial Photographs--Landscapes--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ac9d2d8a95c17506cc84181f72acc3b0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_711ab7fa6a86f2bbb2a4c368dbf09123" parent="aspace_ac9d2d8a95c17506cc84181f72acc3b0" type="Folder">3</container>
+            <container id="aspace_3f54bfb27b48f7ddf5fa7ccc7b41701b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e4bebd1f3d68fcbfbc18006289050913" parent="aspace_3f54bfb27b48f7ddf5fa7ccc7b41701b" type="Folder">3</container>
           </did>
           <odd id="aspace_606048ace89391a51da40a7900d7f0eb">
             <head>General note</head>
@@ -1223,8 +1222,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_38847a240e3129c757d6e36439590e23" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1800ba1502be39a31e7f4b2b0ea5de83" parent="aspace_38847a240e3129c757d6e36439590e23" type="Folder">4</container>
+            <container id="aspace_40c43fbd9a60a26c2f1b0dcbd9133667" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_610d8cba51d2fb297f1063732ba52cde" parent="aspace_40c43fbd9a60a26c2f1b0dcbd9133667" type="Folder">4</container>
           </did>
           <odd id="aspace_29f50ae781c270b2059d47d8e47b1b68">
             <head>General note</head>
@@ -1235,8 +1234,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b0450d7c55bd3c8a18062b97a67bb1a5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f0bc3f76eae4ad1229caee611c4989e9" parent="aspace_b0450d7c55bd3c8a18062b97a67bb1a5" type="Folder">5</container>
+            <container id="aspace_853e272bd65d20bd9f00a6106a5817e1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_8efe1130927ebb2de3ce0c094c4c5765" parent="aspace_853e272bd65d20bd9f00a6106a5817e1" type="Folder">5</container>
           </did>
           <odd id="aspace_ede5cb1ed7b1d2864775dcbb5e3432b5">
             <head>General note</head>
@@ -1247,8 +1246,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d6c492d4bae97ff5f95b94cef45a8533" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_756164fedfd629c20abb1ec59b594d83" parent="aspace_d6c492d4bae97ff5f95b94cef45a8533" type="Folder">6</container>
+            <container id="aspace_70ded4f3cd9bf36a3361a2c8833cc29a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f6abc1ae71bb6aa497c5529ca25a93a2" parent="aspace_70ded4f3cd9bf36a3361a2c8833cc29a" type="Folder">6</container>
           </did>
           <odd id="aspace_98498b446e855ba8374b2b66a2730b6b">
             <head>General note</head>
@@ -1259,8 +1258,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_335e66179c5f8c6c4c89cde55339b14d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5fcc9051eb56cc67246c211aedf48e92" parent="aspace_335e66179c5f8c6c4c89cde55339b14d" type="Folder">7</container>
+            <container id="aspace_3338ff3e3ba3068cee0196fabba7a34f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_bca37ec36b29ea296c9a1dca4d37a980" parent="aspace_3338ff3e3ba3068cee0196fabba7a34f" type="Folder">7</container>
           </did>
           <odd id="aspace_8741bb310cf2686e0abcabe4ab335eb9">
             <head>General note</head>
@@ -1271,8 +1270,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b7b046b97a74b747753b0b02f92796d3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f55b2cd0b533cf401d51dd0f010cfd79" parent="aspace_b7b046b97a74b747753b0b02f92796d3" type="Folder">8</container>
+            <container id="aspace_ef36ae86c2bcf354112f5974203062db" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_57ac4a2d86790a7b55ac72abad41cf1e" parent="aspace_ef36ae86c2bcf354112f5974203062db" type="Folder">8</container>
           </did>
           <odd id="aspace_29232a7bc8c65db415df5690bea33c48">
             <head>General note</head>
@@ -1283,8 +1282,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b05de67347c8b9310cbc62ea5a6ad911" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_dfe50dc4be842d6c2c783f8ac108c923" parent="aspace_b05de67347c8b9310cbc62ea5a6ad911" type="Folder">9</container>
+            <container id="aspace_e990af23d87d045dab63f61d3028c25c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_866faa8688baaa38d31d01a4a2276a3e" parent="aspace_e990af23d87d045dab63f61d3028c25c" type="Folder">9</container>
           </did>
           <odd id="aspace_1cd072d186fab10ee26c00297dbf460a">
             <head>General note</head>
@@ -1295,8 +1294,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5fa4f7ca4d5bd776cfdcbca6735fb9c3" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4d6207f032cf6a9c8aa77e8544155f80" parent="aspace_5fa4f7ca4d5bd776cfdcbca6735fb9c3" type="Folder">10</container>
+            <container id="aspace_b61c9f3c5fcbd27becc11c939bb5770e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_44dcc9db071206e85394ad4c230af03c" parent="aspace_b61c9f3c5fcbd27becc11c939bb5770e" type="Folder">10</container>
           </did>
           <odd id="aspace_3cc6673ceb3fe806c8b6c563c3390db4">
             <head>General note</head>
@@ -1307,8 +1306,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3e8fb0cec0cba828bbf75a41ad3d1c1c" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d7ed23f40fae06c3b4b5f4882e7bf619" parent="aspace_3e8fb0cec0cba828bbf75a41ad3d1c1c" type="Folder">11</container>
+            <container id="aspace_4e0ccda3f92775628df1d245f2bc20dd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6eeaf151765149d24f88cd05cb32377b" parent="aspace_4e0ccda3f92775628df1d245f2bc20dd" type="Folder">11</container>
           </did>
           <odd id="aspace_e834bb54f0be34163e51e708dd8a82c1">
             <head>General note</head>
@@ -1319,8 +1318,8 @@
           <did>
             <unittitle>Buildings--Industrial--Interior--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_83926db48e58e7517342a7ba76df8832" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_53aa9d44f6687b50ed5742f8f662fc31" parent="aspace_83926db48e58e7517342a7ba76df8832" type="Folder">12</container>
+            <container id="aspace_9ae94ea558c46b4be73cbb2b1c96b537" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1d7dfcf5391016df43fd812476c32ec4" parent="aspace_9ae94ea558c46b4be73cbb2b1c96b537" type="Folder">12</container>
           </did>
           <odd id="aspace_ea8814b82a303e5f826b805cf78a313a">
             <head>General note</head>
@@ -1331,8 +1330,8 @@
           <did>
             <unittitle>Buildings--Military Academy--West Point (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_730aea35b28925f8b528008a93000825" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7a3998c7a54dc48e1812db73fd6ec748" parent="aspace_730aea35b28925f8b528008a93000825" type="Folder">13</container>
+            <container id="aspace_7a7d04ec824a08c602e56b5967daf606" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a6d9e79f7f09fa33c1ca611ad5f619bf" parent="aspace_7a7d04ec824a08c602e56b5967daf606" type="Folder">13</container>
           </did>
           <odd id="aspace_100ffa001cbc3551800d4787a6cca4d4">
             <head>General note</head>
@@ -1343,8 +1342,8 @@
           <did>
             <unittitle>Camp--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bb0d0f1474f50f53c38117783bf20c37" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5e7f3dc70a7c1491915876b133b02667" parent="aspace_bb0d0f1474f50f53c38117783bf20c37" type="Folder">14</container>
+            <container id="aspace_28704a7869d12f28e10e87fee4908aa9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_67f3ba75fcbc7c801012a95acd472b8c" parent="aspace_28704a7869d12f28e10e87fee4908aa9" type="Folder">14</container>
           </did>
           <odd id="aspace_a91556b01526137b72c97855d8a12570">
             <head>General note</head>
@@ -1355,8 +1354,8 @@
           <did>
             <unittitle>Camp--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_270ee34824e5ef28842d92ccd50eeda5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d1aec7cd40704b25ed7fb392ab2a8219" parent="aspace_270ee34824e5ef28842d92ccd50eeda5" type="Folder">15</container>
+            <container id="aspace_38c08dde6659c2602bb7c0f742a9c643" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_786a03385cb42c6aa7a84ff6463bbdd2" parent="aspace_38c08dde6659c2602bb7c0f742a9c643" type="Folder">15</container>
           </did>
           <odd id="aspace_2fb79a3cc5515a78439bd2bfafe09c66">
             <head>General note</head>
@@ -1367,8 +1366,8 @@
           <did>
             <unittitle>Camp--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6d8912fa25b7716f3a146b70223ef26b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a6bd39d577ee4449c847c69ccf3c8d65" parent="aspace_6d8912fa25b7716f3a146b70223ef26b" type="Folder">16</container>
+            <container id="aspace_12079c7ee261dca277984718ad9786f8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_dc8411494acb4c83916110069410ec6a" parent="aspace_12079c7ee261dca277984718ad9786f8" type="Folder">16</container>
           </did>
           <odd id="aspace_97dfde1ac6a410eeb8688c8f842f91e8">
             <head>General note</head>
@@ -1379,8 +1378,8 @@
           <did>
             <unittitle>Canals--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4ffd4b40aad35482ccda157551c86150" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_21ad1f00831215a68624e493c9e00bea" parent="aspace_4ffd4b40aad35482ccda157551c86150" type="Folder">17</container>
+            <container id="aspace_619a12caec47184fb52ab9cbcbd8f510" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a5c3ab3967a3e6553a492e041e58ba62" parent="aspace_619a12caec47184fb52ab9cbcbd8f510" type="Folder">17</container>
           </did>
           <odd id="aspace_bb5e2e00765df194ae3468ddbbbed474">
             <head>General note</head>
@@ -1391,8 +1390,8 @@
           <did>
             <unittitle>Canals--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f0869dc6d30ae16e36a31b44487536f2" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_49a88eb8953f353f7af9b382a5e351e3" parent="aspace_f0869dc6d30ae16e36a31b44487536f2" type="Folder">18</container>
+            <container id="aspace_4539617190f9d98cd0f961a297092a9a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4b65ee968df48ad1b3a3b508642b2faa" parent="aspace_4539617190f9d98cd0f961a297092a9a" type="Folder">18</container>
           </did>
           <odd id="aspace_301e8869045dc26d08d8f6fafe040a3b">
             <head>General note</head>
@@ -1403,8 +1402,8 @@
           <did>
             <unittitle>Cemeteries--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_837e68e84d22fb9e057c0ffe9f036d71" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1f6882dcdbff3a8455ecebce49b162d9" parent="aspace_837e68e84d22fb9e057c0ffe9f036d71" type="Folder">19</container>
+            <container id="aspace_2e68052bc83b1bbb7d28c0f86d2d1f00" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_67b7d09052b1c4b2cab39ef47746a33c" parent="aspace_2e68052bc83b1bbb7d28c0f86d2d1f00" type="Folder">19</container>
           </did>
           <odd id="aspace_12f58209d7f17c4e6a9ea75eeaf69321">
             <head>General note</head>
@@ -1415,8 +1414,8 @@
           <did>
             <unittitle>Cemeteries--Monuments--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bcd8051bba1e60205f25b28ec77c0756" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f6d8a80b474b44dd8e1376047710f6e8" parent="aspace_bcd8051bba1e60205f25b28ec77c0756" type="Folder">20</container>
+            <container id="aspace_5065587cca04a2891fc61928ac65099f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c91dbd592605c0b1fd873872348ca104" parent="aspace_5065587cca04a2891fc61928ac65099f" type="Folder">20</container>
           </did>
           <odd id="aspace_6e02e160631f9ccc2758cb4cdd4b39da">
             <head>General note</head>
@@ -1427,8 +1426,8 @@
           <did>
             <unittitle>Cemeteries--Statues--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bfcdd81d3f06f2f08ec75a4012fdcb85" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_15e4f097f6461779be5fb5db0a15a17e" parent="aspace_bfcdd81d3f06f2f08ec75a4012fdcb85" type="Folder">21</container>
+            <container id="aspace_66b744c2aa9f3786d2ccb03f83de3022" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_53da456abddc92bb8e804617e98117c7" parent="aspace_66b744c2aa9f3786d2ccb03f83de3022" type="Folder">21</container>
           </did>
           <odd id="aspace_273c10d45eaa1e7665bb00f449b962ab">
             <head>General note</head>
@@ -1439,8 +1438,8 @@
           <did>
             <unittitle>Cemeteries--Statues--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_15090008da36028cfe73cffff5c12911" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cdc23865135e25abfc57297d720c82b8" parent="aspace_15090008da36028cfe73cffff5c12911" type="Folder">22</container>
+            <container id="aspace_db45b5cce9879d621ec27a990de74014" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2df184386110728e892eea4dbcfd829f" parent="aspace_db45b5cce9879d621ec27a990de74014" type="Folder">22</container>
           </did>
           <odd id="aspace_2184d418c813efa32b5cf39a273f984a">
             <head>General note</head>
@@ -1451,8 +1450,8 @@
           <did>
             <unittitle>Conventions--Political--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a634b4adbd4457b472fb0cbce4d3070d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a86a5be810c03903f275e43f51250121" parent="aspace_a634b4adbd4457b472fb0cbce4d3070d" type="Folder">23</container>
+            <container id="aspace_a4d7a6bfecb5282ded25a3594ec3e79e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_47fc50276a6c927894ef659f3f9dca05" parent="aspace_a4d7a6bfecb5282ded25a3594ec3e79e" type="Folder">23</container>
           </did>
           <odd id="aspace_3b929bf1629b4617bf0b0edf66afee7a">
             <head>General note</head>
@@ -1463,8 +1462,8 @@
           <did>
             <unittitle>Conventions--Political--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f0b741ad59051a7b3394826c774b3740" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f8bdc470b8567660a91bfec7e0de100b" parent="aspace_f0b741ad59051a7b3394826c774b3740" type="Folder">24</container>
+            <container id="aspace_d5b992404f0baae24914325b1044d2e5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_99c8778cb2b49d86893b8dcf1d1f5b5a" parent="aspace_d5b992404f0baae24914325b1044d2e5" type="Folder">24</container>
           </did>
           <odd id="aspace_f35747af70f623ba77d007715433515b">
             <head>General note</head>
@@ -1475,8 +1474,8 @@
           <did>
             <unittitle>Conventions--Political--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e252a6b91832908f4697bd772c56d0cf" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_65cffafda592a20caaa0de3eb3b86b01" parent="aspace_e252a6b91832908f4697bd772c56d0cf" type="Folder">25</container>
+            <container id="aspace_1d3ede177269157cf8427c135a4f3b6f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_cf6e08522dbb211222b854ae05913389" parent="aspace_1d3ede177269157cf8427c135a4f3b6f" type="Folder">25</container>
           </did>
           <odd id="aspace_a00d5656375ef0f1ba6109f7e0b18868">
             <head>General note</head>
@@ -1487,8 +1486,8 @@
           <did>
             <unittitle>Conventions--Political--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f6bc1a181da38aa6b1a4105882f843bc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_950d7d22c0ad868a82a5465aa6885136" parent="aspace_f6bc1a181da38aa6b1a4105882f843bc" type="Folder">26</container>
+            <container id="aspace_fa3cf7051c96aa331b39855765b6193f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a731b81e9e525976da6f36ebc7aafe93" parent="aspace_fa3cf7051c96aa331b39855765b6193f" type="Folder">26</container>
           </did>
           <odd id="aspace_0a60fc21d2d9de0bf6424b3a46b3a7ee">
             <head>General note</head>
@@ -1499,8 +1498,8 @@
           <did>
             <unittitle>Docks--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0e77cba09dd16839e80a7c3ab38a5112" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9640a920e433d5b046a180c545493e22" parent="aspace_0e77cba09dd16839e80a7c3ab38a5112" type="Folder">27</container>
+            <container id="aspace_6733ad358faa572e974cb77a27efe3bf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a54649848276518180dd1acf65f4db7f" parent="aspace_6733ad358faa572e974cb77a27efe3bf" type="Folder">27</container>
           </did>
           <odd id="aspace_d981df6a5afc3371b2db63213c265e41">
             <head>General note</head>
@@ -1511,8 +1510,8 @@
           <did>
             <unittitle>Events--Daughters of the American Revolution Wreath</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b63920b562b8f85678daa239b2f87f18" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2d1994d5b1684ce375be4989e21c9769" parent="aspace_b63920b562b8f85678daa239b2f87f18" type="Folder">28</container>
+            <container id="aspace_534c234954eb347fedb0bab253a24b80" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3492373282519e7d2cf237615b105cc4" parent="aspace_534c234954eb347fedb0bab253a24b80" type="Folder">28</container>
           </did>
           <odd id="aspace_a282a899e1492ec3a2cfbc835fd5a264">
             <head>General note</head>
@@ -1523,8 +1522,8 @@
           <did>
             <unittitle>Events--Decorated Ballroom</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9d50cdce1d9beace8c5c50b1b96d19c4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_884c3ea6ccc51a87cd58746c1b97ab27" parent="aspace_9d50cdce1d9beace8c5c50b1b96d19c4" type="Folder">29</container>
+            <container id="aspace_f11ede691f0a03edf23fe7500138c24e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d813efcdeac7b5592a5beffc3c8aa62a" parent="aspace_f11ede691f0a03edf23fe7500138c24e" type="Folder">29</container>
           </did>
           <odd id="aspace_61ad46fd708141923bd4142d8d1a1a08">
             <head>General note</head>
@@ -1535,8 +1534,8 @@
           <did>
             <unittitle>Events--Decorated Ballroom</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7d2af78aee2ba792166e97452744717a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e61a25d22bdacb14c6edef468dd9e470" parent="aspace_7d2af78aee2ba792166e97452744717a" type="Folder">30</container>
+            <container id="aspace_1ec71874d54be2a3ef0bae9364da3410" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_773d02242d51f9e2693f488a2e4e9990" parent="aspace_1ec71874d54be2a3ef0bae9364da3410" type="Folder">30</container>
           </did>
           <odd id="aspace_a9bb18ada8a5c3eaed5eafb0bccffbca">
             <head>General note</head>
@@ -1547,8 +1546,8 @@
           <did>
             <unittitle>Events--Decorated Ballroom</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_5536249224be151e31589dc092437858" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_0ff7c2607c5555a5cd4fa50e3270b8fd" parent="aspace_5536249224be151e31589dc092437858" type="Folder">31</container>
+            <container id="aspace_fbfdc05809cbf3964dbf71a1472856e0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9b7b740bd2a585cf2110dbeaf708e304" parent="aspace_fbfdc05809cbf3964dbf71a1472856e0" type="Folder">31</container>
           </did>
           <odd id="aspace_654818eff6e98984694f679b36e2c665">
             <head>General note</head>
@@ -1559,8 +1558,8 @@
           <did>
             <unittitle>Events--Decorated Dining Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_58e3b69314ad07b05af6cd00a2f519cc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_6c7448f0e84edbd9a2f026f660c2fd09" parent="aspace_58e3b69314ad07b05af6cd00a2f519cc" type="Folder">32</container>
+            <container id="aspace_e2827c7fdc25f03e5138895aa5df502c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_29d34ec627a1d72e687846481727e94f" parent="aspace_e2827c7fdc25f03e5138895aa5df502c" type="Folder">32</container>
           </did>
           <odd id="aspace_1d7bff57b8387dd7503bc447de81b29f">
             <head>General note</head>
@@ -1571,8 +1570,8 @@
           <did>
             <unittitle>Events--Decorated Dining Room</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f8a3a02b4cf8e0b2a94dc9e7f67c8e46" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f5d1ec88b624409a2e2a0aab3e57a666" parent="aspace_f8a3a02b4cf8e0b2a94dc9e7f67c8e46" type="Folder">33</container>
+            <container id="aspace_eb91b63ee5265e58d6a80ba56039c76e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7c5e323146cba68965e530acda559e55" parent="aspace_eb91b63ee5265e58d6a80ba56039c76e" type="Folder">33</container>
           </did>
           <odd id="aspace_25e76a55196e3a9dfb1c0ab8e1133f7c">
             <head>General note</head>
@@ -1583,8 +1582,8 @@
           <did>
             <unittitle>Events--Flag-raising</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ff60a9aad0cf507e0fec43bda3d62651" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_95697e2b2811a645c9953f40f257349c" parent="aspace_ff60a9aad0cf507e0fec43bda3d62651" type="Folder">34</container>
+            <container id="aspace_5118c9306146bd5d43d871e2124ac9f7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e9677e31088a580fd063b1dc3a581439" parent="aspace_5118c9306146bd5d43d871e2124ac9f7" type="Folder">34</container>
           </did>
           <odd id="aspace_ae0da0ca3e48e0a6bd0d7a244d3e834a">
             <head>General note</head>
@@ -1595,8 +1594,8 @@
           <did>
             <unittitle>Events--Flag-raising</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c771fa59187d4771787f25cd01e1631b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_2b951e579825d9805ff0bf1ce5351c3f" parent="aspace_c771fa59187d4771787f25cd01e1631b" type="Folder">35</container>
+            <container id="aspace_a3cbad921955e1cb51d1e5a1caf4c348" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2da242b15ec07796fae609e4e9daf3e2" parent="aspace_a3cbad921955e1cb51d1e5a1caf4c348" type="Folder">35</container>
           </did>
           <odd id="aspace_137b48dec800a94874b2e7b1b813df98">
             <head>General note</head>
@@ -1607,8 +1606,8 @@
           <did>
             <unittitle>Events--Flag-raising</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9367af99985b66777c91df7402faeea9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f28f346b1a78c9e8b2a5484b41ce4d37" parent="aspace_9367af99985b66777c91df7402faeea9" type="Folder">36</container>
+            <container id="aspace_5650dc102ee6ee822666ddf150993f3d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_03ee9c8f67f633a2f00e4cc8f750ba07" parent="aspace_5650dc102ee6ee822666ddf150993f3d" type="Folder">36</container>
           </did>
           <odd id="aspace_95ec4c59e22c16d88de1515bcc244147">
             <head>General note</head>
@@ -1619,8 +1618,8 @@
           <did>
             <unittitle>Events--Flag-raising</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_292dbb56d0a499ef29202c8435bea400" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_103930a968a738bf7944e192a697ff2c" parent="aspace_292dbb56d0a499ef29202c8435bea400" type="Folder">37</container>
+            <container id="aspace_37a1d6a66de0825d0fdedf5cc3557684" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d649c0d185d44e7ac95ce9b98af69f16" parent="aspace_37a1d6a66de0825d0fdedf5cc3557684" type="Folder">37</container>
           </did>
           <odd id="aspace_e92d3077139f4bdd4c630596307b719c">
             <head>General note</head>
@@ -1631,8 +1630,8 @@
           <did>
             <unittitle>Events--Military--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_68c2c753644fe7461cfcb394935009c9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5d242d91d597b337caf986e91ae8f778" parent="aspace_68c2c753644fe7461cfcb394935009c9" type="Folder">38</container>
+            <container id="aspace_e8a80593afec1f0a48d6754bdca75518" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_61e1896e3dbade93b367f21389b1a2de" parent="aspace_e8a80593afec1f0a48d6754bdca75518" type="Folder">38</container>
           </did>
           <odd id="aspace_7dcd933c8fabf3b8315561594f1e9f14">
             <head>General note</head>
@@ -1643,8 +1642,8 @@
           <did>
             <unittitle>Events--Military--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c5befa8023e42b09234d52f0a0ac294b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_c28238a9d21f7ae14fb4f010b3890b72" parent="aspace_c5befa8023e42b09234d52f0a0ac294b" type="Folder">39</container>
+            <container id="aspace_280d328bd1ff3d56b2f3471d30f606e7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_430ad05f9f280835a4fb147689410d58" parent="aspace_280d328bd1ff3d56b2f3471d30f606e7" type="Folder">39</container>
           </did>
           <odd id="aspace_0d214036ddacccb4c827d0c991f1df6f">
             <head>General note</head>
@@ -1655,8 +1654,8 @@
           <did>
             <unittitle>Events--Military--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fece2e2f6031326fb44b74fa4352ce18" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_50f512062b95aec50a742c4ce79382ba" parent="aspace_fece2e2f6031326fb44b74fa4352ce18" type="Folder">40</container>
+            <container id="aspace_9d87ea274294474ca7b514804fb9c54c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ad815f51e6036f3dbe1eff47478e32e4" parent="aspace_9d87ea274294474ca7b514804fb9c54c" type="Folder">40</container>
           </did>
           <odd id="aspace_7ee6cf77cfb755d1039f600482fe2fbe">
             <head>General note</head>
@@ -1667,8 +1666,8 @@
           <did>
             <unittitle>Events--Military--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a1e485a3b9b787bd6b90c321e5b993e7" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_380bb3a9a05c24711a9ac3a196a81ef5" parent="aspace_a1e485a3b9b787bd6b90c321e5b993e7" type="Folder">41</container>
+            <container id="aspace_021c37514421d4ba8a62322c63cfc1b6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_1306d5768866ab623736aca8123ec3e5" parent="aspace_021c37514421d4ba8a62322c63cfc1b6" type="Folder">41</container>
           </did>
           <odd id="aspace_7f02b214f2105efc6c0e7925043f4ee1">
             <head>General note</head>
@@ -1679,8 +1678,8 @@
           <did>
             <unittitle>Events--Red Cross--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_afdc61f08cd13104a1eec8c6e0f2c756" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7b5ec41d559e6e2f954b773fdd16076d" parent="aspace_afdc61f08cd13104a1eec8c6e0f2c756" type="Folder">42</container>
+            <container id="aspace_11cbce91bc4f16aa45cb804c2085391b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_eca2d05804464e6d9c4f2db75c46b9ed" parent="aspace_11cbce91bc4f16aa45cb804c2085391b" type="Folder">42</container>
           </did>
           <odd id="aspace_101d8dbbc8d1c9d823f1265fec4aba7e">
             <head>General note</head>
@@ -1691,8 +1690,8 @@
           <did>
             <unittitle>Events--Red Cross--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d0ca855a4f0df5f6bc284ada4116ab06" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b39dd07c98953679ea111dd6934a13a3" parent="aspace_d0ca855a4f0df5f6bc284ada4116ab06" type="Folder">43</container>
+            <container id="aspace_06e132f9a332c098b4da630c5f060792" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e8b95c6c18b46306cd91c380e05a129e" parent="aspace_06e132f9a332c098b4da630c5f060792" type="Folder">43</container>
           </did>
           <odd id="aspace_38c8eb39f6b95cfc5a1372b931a0b6bf">
             <head>General note</head>
@@ -1703,8 +1702,8 @@
           <did>
             <unittitle>Events--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f02d8a2512293d672f74eb9da0c5966d" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_3b95e149e71afeece2c8da20652e1a4e" parent="aspace_f02d8a2512293d672f74eb9da0c5966d" type="Folder">44</container>
+            <container id="aspace_d6fc3e27e1818fa52587834c8aa024cb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_231af45e3a52aae411bb19921855c88e" parent="aspace_d6fc3e27e1818fa52587834c8aa024cb" type="Folder">44</container>
           </did>
           <odd id="aspace_c588f79bd93c7ada8bb457ca18214d04">
             <head>General note</head>
@@ -1715,8 +1714,8 @@
           <did>
             <unittitle>Events--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c280e87242c7f5152ce71c26207f5ae5" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_52feec51be248601c5aa9365ae85de94" parent="aspace_c280e87242c7f5152ce71c26207f5ae5" type="Folder">45</container>
+            <container id="aspace_66e0bc766b3460a56bc751c411d44c8d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_61221fe11448a5353e44d3aad600a19b" parent="aspace_66e0bc766b3460a56bc751c411d44c8d" type="Folder">45</container>
           </did>
           <odd id="aspace_2a3f2f74d630c3abf1b2ff055858bfd4">
             <head>General note</head>
@@ -1727,8 +1726,8 @@
           <did>
             <unittitle>Events--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_fffa220b5f9a5c4e5433557373f0d2ed" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7540c1549be587b1dfe502055c452945" parent="aspace_fffa220b5f9a5c4e5433557373f0d2ed" type="Folder">46</container>
+            <container id="aspace_a6c014181a8e2a692240364117f887c5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_684d304edfd816c1e7788989cb2894cd" parent="aspace_a6c014181a8e2a692240364117f887c5" type="Folder">46</container>
           </did>
           <odd id="aspace_96b019692db6842e49feb83edb8d8cce">
             <head>General note</head>
@@ -1739,8 +1738,8 @@
           <did>
             <unittitle>Events--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_0b4669e2ba74458dc7c8a4ef4a21f065" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f21625276a6d78caee0994eea709c574" parent="aspace_0b4669e2ba74458dc7c8a4ef4a21f065" type="Folder">47</container>
+            <container id="aspace_dea566c34dde79faf8413391973deac6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_128f1b69de088d6e5d91a33cca8b405b" parent="aspace_dea566c34dde79faf8413391973deac6" type="Folder">47</container>
           </did>
           <odd id="aspace_b99d82da9c2ef1514022751c2062dc10">
             <head>General note</head>
@@ -1751,8 +1750,8 @@
           <did>
             <unittitle>Harbors--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6eee0c719f4430b0837925ebe4a7b8c8" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_1f1dbb29e45b1ed4d5bfa927a54a7715" parent="aspace_6eee0c719f4430b0837925ebe4a7b8c8" type="Folder">48</container>
+            <container id="aspace_16d6638130dc608cffdb5794ec24b806" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_212faac412f5cdc0c0c5aba5f93790a6" parent="aspace_16d6638130dc608cffdb5794ec24b806" type="Folder">48</container>
           </did>
           <odd id="aspace_ed333486da790765895a458b5e3bb116">
             <head>General note</head>
@@ -1763,8 +1762,8 @@
           <did>
             <unittitle>Landscapes--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3a784913b11cb7f22cefa2bc93f965a0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_7bbfbe909c7d0b9601934ca562abffd3" parent="aspace_3a784913b11cb7f22cefa2bc93f965a0" type="Folder">49</container>
+            <container id="aspace_771685deff71db95a36260b5b6c0e849" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e4b6a91ac2fbca9b16f765712be96ee5" parent="aspace_771685deff71db95a36260b5b6c0e849" type="Folder">49</container>
           </did>
           <odd id="aspace_4ed3d7d925637eb1bc93cf09b9edc3d9">
             <head>General note</head>
@@ -1775,8 +1774,8 @@
           <did>
             <unittitle>Landscapes--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c3e2e2bec348af338380e03ca868e3cc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_224716f6bcbe21ba333685c678f22514" parent="aspace_c3e2e2bec348af338380e03ca868e3cc" type="Folder">50</container>
+            <container id="aspace_d9c734549902e1c24db43fc573ca4c89" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4008ac8a824c8a29d261718c6b4291e6" parent="aspace_d9c734549902e1c24db43fc573ca4c89" type="Folder">50</container>
           </did>
           <odd id="aspace_376ca1fa9e5a40aa6039c6ff5dd81b34">
             <head>General note</head>
@@ -1787,8 +1786,8 @@
           <did>
             <unittitle>Soldiers--Spanish-American War (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7021913970ed04491185988618eefb2a" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5f8979a6bfb7321403c9b4d5c190356b" parent="aspace_7021913970ed04491185988618eefb2a" type="Folder">51</container>
+            <container id="aspace_593c931905cdd7c73b3eab180f4170a8" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ff6a90b55affe8545f6a3a2e541a683b" parent="aspace_593c931905cdd7c73b3eab180f4170a8" type="Folder">51</container>
           </did>
           <odd id="aspace_1b6f420aa713c24d0cd6256480dc0abc">
             <head>General note</head>
@@ -1799,8 +1798,8 @@
           <did>
             <unittitle>Soldiers--Spanish-American War (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_aae6f6b35e362fabc203cea7f9af496e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4e32297f57f01ca6cb5cc1210afbcace" parent="aspace_aae6f6b35e362fabc203cea7f9af496e" type="Folder">52</container>
+            <container id="aspace_2a6f8cfb545d0c7674e478d94088c325" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_4c5ad642a0aaafabf33c492aef21e907" parent="aspace_2a6f8cfb545d0c7674e478d94088c325" type="Folder">52</container>
           </did>
           <odd id="aspace_627b6a3ec32f9334e82c765d97d4a319">
             <head>General note</head>
@@ -1811,8 +1810,8 @@
           <did>
             <unittitle>Soldiers--Spanish-American War (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9f294fd1f1e27927bae386e62a3043cc" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_eb318c0ce0945d2edcde91c3b85d8ce0" parent="aspace_9f294fd1f1e27927bae386e62a3043cc" type="Folder">53</container>
+            <container id="aspace_4f7b34ffe01107ed5c247a5296a33ba4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f2bca32fef419f264f1ea0ad95494b59" parent="aspace_4f7b34ffe01107ed5c247a5296a33ba4" type="Folder">53</container>
           </did>
           <odd id="aspace_210c24504348eb718384a080ea199ea6">
             <head>General note</head>
@@ -1823,8 +1822,8 @@
           <did>
             <unittitle>Soldiers--Spanish-American War (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f63944c37a2c34108bfe0d8a8f487ecd" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_41cbd5714ab40d2a3ae886751504c0b9" parent="aspace_f63944c37a2c34108bfe0d8a8f487ecd" type="Folder">54</container>
+            <container id="aspace_2923d11a274d6d05e7a1781ec52a7ba2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_708ad60d2d5b678721920c66c2182ef2" parent="aspace_2923d11a274d6d05e7a1781ec52a7ba2" type="Folder">54</container>
           </did>
           <odd id="aspace_f3d94390dfeaebc448c7c7576a8bf7ae">
             <head>General note</head>
@@ -1848,7 +1847,7 @@
           <did>
             <unittitle>Portraits</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_75041cf7f5464ef424a32f0147259393" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_661dbe12e91feec70823c544945583a4" label="Mixed Materials" type="Box">2</container>
           </did>
           <odd id="aspace_03c00c3630abb18f9a16ad32278dde3b">
             <head>General note</head>
@@ -1858,8 +1857,8 @@
           <did>
             <unittitle>Portraits--Charles E. Smith</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_de55e968509da97c040d2ae83ccb1cf4" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_d152d785867721fc273777ca5cbdaba4" parent="aspace_de55e968509da97c040d2ae83ccb1cf4" type="Folder">55</container>
+            <container id="aspace_3ef2bbf4870cc4fcbba36b5b5306ae89" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_44565cece9ab7b24c4fcdfe6054afb5c" parent="aspace_3ef2bbf4870cc4fcbba36b5b5306ae89" type="Folder">55</container>
           </did>
           <odd id="aspace_6b09aa0891c9fa0ef3599cd5293ea12a">
             <head>General note</head>
@@ -1870,8 +1869,8 @@
           <did>
             <unittitle>Portraits--Charles E. Smith</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e2bd9237cf00357cc0adc17bc77dbe4f" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cb0fc5caa6082b468e3dc43ca49e589a" parent="aspace_e2bd9237cf00357cc0adc17bc77dbe4f" type="Folder">56</container>
+            <container id="aspace_315f436c00c2501edbf485e9494539d2" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0fcd3c2c13081e6976955af03477719e" parent="aspace_315f436c00c2501edbf485e9494539d2" type="Folder">56</container>
           </did>
           <odd id="aspace_35920bd70a23c642bf4fa0396bb068c1">
             <head>General note</head>
@@ -1882,8 +1881,8 @@
           <did>
             <unittitle>Portraits--Charles E. Smith</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_db485c3d1a52639bf0f4bb7a45707970" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9f702f3e4843c79affe0d5a19da61683" parent="aspace_db485c3d1a52639bf0f4bb7a45707970" type="Folder">57</container>
+            <container id="aspace_8cb43d4a465687848d940cc46037f1a6" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_58bb4d90c57906b616fd9e9a832da5b5" parent="aspace_8cb43d4a465687848d940cc46037f1a6" type="Folder">57</container>
           </did>
           <odd id="aspace_3216e1a7b7e6a580e9b1858d56f5b4b6">
             <head>General note</head>
@@ -1894,8 +1893,8 @@
           <did>
             <unittitle>Portraits--Elihu Root</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_124bf155e0b83c6e58a50f2157ff5056" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_b27015bc99c8bdc2f24770dddf808fa4" parent="aspace_124bf155e0b83c6e58a50f2157ff5056" type="Folder">58</container>
+            <container id="aspace_a4f97670d34d52f2b2352ce1141e2b2e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_58ebf9b420b6fb9354969b6c7ca20036" parent="aspace_a4f97670d34d52f2b2352ce1141e2b2e" type="Folder">58</container>
           </did>
           <odd id="aspace_0f4e3db10ba0faf991e3ad0a96d6cf0b">
             <head>General note</head>
@@ -1906,8 +1905,8 @@
           <did>
             <unittitle>Portraits--Family--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_734fccd9c8700584718cb5120dff76e6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a3cbfe128daa6c01b55d0742c395e2a6" parent="aspace_734fccd9c8700584718cb5120dff76e6" type="Folder">59</container>
+            <container id="aspace_bb6a10c72145800a3c5eea0dc719f819" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_116db313dc9b050d2d12482b3cb63f83" parent="aspace_bb6a10c72145800a3c5eea0dc719f819" type="Folder">59</container>
           </did>
           <odd id="aspace_df3def1299d922c9658e080c5336eeee">
             <head>General note</head>
@@ -1918,8 +1917,8 @@
           <did>
             <unittitle>Portraits--Group--Bicyclists in front of Library of Congress</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_94c49325185040036793a4eefbc58192" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a780482504cb1aad505a73b11235c4c5" parent="aspace_94c49325185040036793a4eefbc58192" type="Folder">60</container>
+            <container id="aspace_1502e6116fba70f565d430beffe62a83" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_a208274a7609937202461a73c360e56e" parent="aspace_1502e6116fba70f565d430beffe62a83" type="Folder">60</container>
           </did>
           <odd id="aspace_4a5c70eb7134ae9d4106a31be77ecbbb">
             <head>General note</head>
@@ -1930,8 +1929,8 @@
           <did>
             <unittitle>Portraits--Group--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7d7571f871d480d902799a3d0efe098b" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5ff66481b1fc5f982affa69152b0bd2a" parent="aspace_7d7571f871d480d902799a3d0efe098b" type="Folder">61</container>
+            <container id="aspace_19be41b50d0aaaa3bf08f379b789a4c9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e5a1a44e4ed994b1bcff719705992f59" parent="aspace_19be41b50d0aaaa3bf08f379b789a4c9" type="Folder">61</container>
           </did>
           <odd id="aspace_4037fe99135522f369852ccc1e2da3b5">
             <head>General note</head>
@@ -1942,8 +1941,8 @@
           <did>
             <unittitle>Portraits--Group--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_11e34b96e8fdadbb498285276ed20526" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_957b73462447295a9b4ba55f69222daf" parent="aspace_11e34b96e8fdadbb498285276ed20526" type="Folder">62</container>
+            <container id="aspace_cd19ff9a205d61806bf98cd00015aa8e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c8d2ae771bbcba0aa144a93aaa4909d7" parent="aspace_cd19ff9a205d61806bf98cd00015aa8e" type="Folder">62</container>
           </did>
           <odd id="aspace_54351c02e0b1dd88fed9630e6eddd972">
             <head>General note</head>
@@ -1954,8 +1953,8 @@
           <did>
             <unittitle>Portraits--Group--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7fb80db355a965df60462bfc07005c33" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cf528ceeae20855b28986e741560c6a8" parent="aspace_7fb80db355a965df60462bfc07005c33" type="Folder">63</container>
+            <container id="aspace_33d6ba72ac1055464691479a09783d9a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7f0661de9619f1975220ed9d754aaa87" parent="aspace_33d6ba72ac1055464691479a09783d9a" type="Folder">63</container>
           </did>
           <odd id="aspace_b4c87e47a1b49bb2cac9a14a8869d4da">
             <head>General note</head>
@@ -1966,8 +1965,8 @@
           <did>
             <unittitle>Portraits--James D. Long</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b8c5faab6c76792dde0bca10a6655cea" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_279a0e35573c69af47445b86072af3a9" parent="aspace_b8c5faab6c76792dde0bca10a6655cea" type="Folder">64</container>
+            <container id="aspace_a6a63e0b05b68b6f95c00014e0aa95bf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3c8d788dbb545b86d586d999add12b58" parent="aspace_a6a63e0b05b68b6f95c00014e0aa95bf" type="Folder">64</container>
           </did>
           <odd id="aspace_b7859e2e8235fd8f669a5363d3353469">
             <head>General note</head>
@@ -1978,8 +1977,8 @@
           <did>
             <unittitle>Portraits--James D. Long</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_10a2b3c15ca1dffac2944fbb8dc3181e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_779cef0ef8f422bf02f1f6365ac2cba9" parent="aspace_10a2b3c15ca1dffac2944fbb8dc3181e" type="Folder">65</container>
+            <container id="aspace_e62e8734681f05b9b174d05ae3b6fad9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_454a417cbaf4d7f8bf54127869d0e1a5" parent="aspace_e62e8734681f05b9b174d05ae3b6fad9" type="Folder">65</container>
           </did>
           <odd id="aspace_2bbc7989e61d4be9a3a2676d4d9228ff">
             <head>General note</head>
@@ -1990,8 +1989,8 @@
           <did>
             <unittitle>Portraits--James D. Long</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_955fcd6f15a93d36134ec8bec9c7aa31" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_9fcb860c531625ce8b8d42295722121a" parent="aspace_955fcd6f15a93d36134ec8bec9c7aa31" type="Folder">66</container>
+            <container id="aspace_392768a0124335e34163f7d6eb928ee0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_84e943b66ba9c8cd364f770b5491438f" parent="aspace_392768a0124335e34163f7d6eb928ee0" type="Folder">66</container>
           </did>
           <odd id="aspace_e3397b582a2cc13ad552623f0901b13a">
             <head>General note</head>
@@ -2002,8 +2001,8 @@
           <did>
             <unittitle>Portraits--James Wilson (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_c78757a422fd614adbab0a0698feb7ca" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_5d1f3be23093787afcc946d4f41fcdcc" parent="aspace_c78757a422fd614adbab0a0698feb7ca" type="Folder">67</container>
+            <container id="aspace_d9da307866ae88f914366f63143f71ee" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2bf255d31830cd335321872e0e323533" parent="aspace_d9da307866ae88f914366f63143f71ee" type="Folder">67</container>
           </did>
           <odd id="aspace_e08ebfc988ed6c9a6cfe3437f275704f">
             <head>General note</head>
@@ -2014,8 +2013,8 @@
           <did>
             <unittitle>Portraits--James Wilson (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_373725664442fcd9e3e73a8f71ac7521" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_98d2b1d3c66d120b4eb4602e5820fe82" parent="aspace_373725664442fcd9e3e73a8f71ac7521" type="Folder">68</container>
+            <container id="aspace_19b9da2101916d1ab6d3b5c8c20a1073" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_53283b3e596fe5c7bfa66d4311ce2804" parent="aspace_19b9da2101916d1ab6d3b5c8c20a1073" type="Folder">68</container>
           </did>
           <odd id="aspace_194852698c550bd9b9ffbe8844ad96ce">
             <head>General note</head>
@@ -2026,8 +2025,8 @@
           <did>
             <unittitle>Portraits--James Wilson (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f732f4147fae21431388c88f37f8d138" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ffde9cc7be103e8b08fa68bc646034cb" parent="aspace_f732f4147fae21431388c88f37f8d138" type="Folder">69</container>
+            <container id="aspace_7c352fa3e7178e063766172776fffc63" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0dc60e178300130db4eb143fab3f66be" parent="aspace_7c352fa3e7178e063766172776fffc63" type="Folder">69</container>
           </did>
           <odd id="aspace_2d5f97cc7081db9d81382d96bdb5937a">
             <head>General note</head>
@@ -2038,8 +2037,8 @@
           <did>
             <unittitle>Portraits--James Wilson (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_f7280b5bc061267c0267aa229b62f556" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_53523949f18771bbceabd857121ffac2" parent="aspace_f7280b5bc061267c0267aa229b62f556" type="Folder">70</container>
+            <container id="aspace_846d1446fd9716ba0bb10d583e8c7b0e" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6b478a72fdeeb218122d39bc5dcd984a" parent="aspace_846d1446fd9716ba0bb10d583e8c7b0e" type="Folder">70</container>
           </did>
           <odd id="aspace_812c9d25eccf48afa4a31726965c4886">
             <head>General note</head>
@@ -2050,8 +2049,8 @@
           <did>
             <unittitle>Portraits--John Hay</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_408d2f5bf4da7057a64a4e75d33abeda" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_ec906597d0947686415e5b93046068a1" parent="aspace_408d2f5bf4da7057a64a4e75d33abeda" type="Folder">71</container>
+            <container id="aspace_eb406b4d18e7afd97a92c46b19744f03" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2e431fab692c77dd459bc27efccf79b3" parent="aspace_eb406b4d18e7afd97a92c46b19744f03" type="Folder">71</container>
           </did>
           <odd id="aspace_c99d4e5853756b2269a44b74509243d7">
             <head>General note</head>
@@ -2062,8 +2061,8 @@
           <did>
             <unittitle>Portraits--John Hay</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_e2f5a746f9ccabdf75e81ecf400bb391" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_53d7298b810bce21c57424b573475c65" parent="aspace_e2f5a746f9ccabdf75e81ecf400bb391" type="Folder">72</container>
+            <container id="aspace_c533f0d1d8ba1ba86663ea9faf83759f" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_3e0b885d3642b233e5b39627469383cd" parent="aspace_c533f0d1d8ba1ba86663ea9faf83759f" type="Folder">72</container>
           </did>
           <odd id="aspace_933858d49fa80cb8b8534ccae03605e7">
             <head>General note</head>
@@ -2074,8 +2073,8 @@
           <did>
             <unittitle>Portraits--John Hay</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_d2127a758795af56b025ef8f78a7bb10" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_42cecc1dab2d803272779231f70431ff" parent="aspace_d2127a758795af56b025ef8f78a7bb10" type="Folder">73</container>
+            <container id="aspace_204e250f29c2da5ec7d7315905b96ad4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_f19486c47c19280e7119acc10c5967f7" parent="aspace_204e250f29c2da5ec7d7315905b96ad4" type="Folder">73</container>
           </did>
           <odd id="aspace_d82ff13e178d09b1dedb3d47e09f6197">
             <head>General note</head>
@@ -2086,8 +2085,8 @@
           <did>
             <unittitle>Portraits--Theodore Roosevelt (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ab9ed930440a90e885fcd701ab335708" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_e41195de7379267378d18589a55bb294" parent="aspace_ab9ed930440a90e885fcd701ab335708" type="Folder">74</container>
+            <container id="aspace_7ee426bf282d5d76a4b1da28f72cafb5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ca6402b20ae6bd6734237f21174d1e95" parent="aspace_7ee426bf282d5d76a4b1da28f72cafb5" type="Folder">74</container>
           </did>
           <odd id="aspace_0c18038a7e46c0529dc45e38ef865ee9">
             <head>General note</head>
@@ -2098,8 +2097,8 @@
           <did>
             <unittitle>Portraits--Theodore Roosevelt (?)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a9f17a086577c6b9bbbe8af0343404df" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_4fcf21fd3fd0f4165f9723ab426a261c" parent="aspace_a9f17a086577c6b9bbbe8af0343404df" type="Folder">75</container>
+            <container id="aspace_0540554b15efc4a5f0a9640ce610e3f5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_51c4964727e9a03af262c16d830b21a5" parent="aspace_0540554b15efc4a5f0a9640ce610e3f5" type="Folder">75</container>
           </did>
           <odd id="aspace_c97065cad2cc57ed1cf82d772f41759d">
             <head>General note</head>
@@ -2110,8 +2109,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_35db9bfe3300234255f12a0a2a5c6676" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_edb411da5723a720d11f17e2bc93d64a" parent="aspace_35db9bfe3300234255f12a0a2a5c6676" type="Folder">76</container>
+            <container id="aspace_45d42a59680076cd6f39bad0f1f055eb" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_c9e35f96aca537a0a1f9e6aebf792506" parent="aspace_45d42a59680076cd6f39bad0f1f055eb" type="Folder">76</container>
           </did>
           <odd id="aspace_619432f828406248d81507d6c2bb699b">
             <head>General note</head>
@@ -2122,8 +2121,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4308f8e321695c331b483c7f27065ef0" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_74a32b7fbb2f4e7ca9ed1125a93a3924" parent="aspace_4308f8e321695c331b483c7f27065ef0" type="Folder">77</container>
+            <container id="aspace_2341ea927b5ef626ab2105135aed70f9" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0892b8d60d1b759638e769539237bbad" parent="aspace_2341ea927b5ef626ab2105135aed70f9" type="Folder">77</container>
           </did>
           <odd id="aspace_e69062250978f001be541d062ddc16d8">
             <head>General note</head>
@@ -2134,8 +2133,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_59ffa801cf9ccdf7201510e3151cf1e6" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_17a1ca17af43a87626713942b3702992" parent="aspace_59ffa801cf9ccdf7201510e3151cf1e6" type="Folder">78</container>
+            <container id="aspace_d8262a9e34f6d8a7684181b0c5c8dfe0" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9266bfa10c9f21e16de20f1c92eec903" parent="aspace_d8262a9e34f6d8a7684181b0c5c8dfe0" type="Folder">78</container>
           </did>
           <odd id="aspace_7fd35308d30caaa7d3e127e4e9056f2a">
             <head>General note</head>
@@ -2146,8 +2145,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bddb32d33a1bcd15e166279b6ba83494" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_f37abfd255010cd27cd9d403b5c40658" parent="aspace_bddb32d33a1bcd15e166279b6ba83494" type="Folder">79</container>
+            <container id="aspace_5b5055caa4e3e3fbb0a0b15ea430dfcf" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_36357ca1402895f6efe8a5112b3c67ab" parent="aspace_5b5055caa4e3e3fbb0a0b15ea430dfcf" type="Folder">79</container>
           </did>
           <odd id="aspace_c6457cd614974efee6b0c7c60a5f1f53">
             <head>General note</head>
@@ -2158,8 +2157,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6258fb7476db7444d87407c53c68095e" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_357f971671a4354096b2cb6d72eabb22" parent="aspace_6258fb7476db7444d87407c53c68095e" type="Folder">80</container>
+            <container id="aspace_411095c519ebf953b718b173bd28a8b1" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ec3b47667bfdc8eb71cb2f473a68cd31" parent="aspace_411095c519ebf953b718b173bd28a8b1" type="Folder">80</container>
           </did>
           <odd id="aspace_5cf043e0e852f1e0caa0e22390b28968">
             <head>General note</head>
@@ -2170,8 +2169,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_2464ab2f61f926969db9e845491e0c95" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_534a2857840251e8d8b4ee75e851da88" parent="aspace_2464ab2f61f926969db9e845491e0c95" type="Folder">81</container>
+            <container id="aspace_0810ba081b98b30127d97502f4129516" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_23b28f14c4acded0d7cf9184744128f4" parent="aspace_0810ba081b98b30127d97502f4129516" type="Folder">81</container>
           </did>
           <odd id="aspace_92d0b46a380002dd6724e8e0ac1eaaba">
             <head>General note</head>
@@ -2182,8 +2181,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bdf47ad1d6c5bc3a9a35e16dc746a824" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_85a93d7ea6101fca9416be74f0f8ef5d" parent="aspace_bdf47ad1d6c5bc3a9a35e16dc746a824" type="Folder">82</container>
+            <container id="aspace_81d221c05000c9832170412fc4fa35e4" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9a1feaee39c66b865177f33dfdde585f" parent="aspace_81d221c05000c9832170412fc4fa35e4" type="Folder">82</container>
           </did>
           <odd id="aspace_f9308f7d8afb434d3c7e9381c3de35e5">
             <head>General note</head>
@@ -2194,8 +2193,8 @@
           <did>
             <unittitle>Portraits--Unidentified</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_cea2f1de5c2a5e53d905099d8b01eef9" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_cc4615f2befb88b3c08cbde24ef08fc2" parent="aspace_cea2f1de5c2a5e53d905099d8b01eef9" type="Folder">83</container>
+            <container id="aspace_4162671b0038befa2456c1b33158472a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_2882f71ef3379e7e474ce1d447a7a903" parent="aspace_4162671b0038befa2456c1b33158472a" type="Folder">83</container>
           </did>
           <odd id="aspace_b73205fa6a70c84eba315c7d37153bfa">
             <head>General note</head>
@@ -2206,8 +2205,8 @@
           <did>
             <unittitle>Portraits--William McKinley</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6309dc2fc8bdce7a9c2370811231d245" label="Mixed Materials" type="Box">2</container>
-            <container id="aspace_a0189322a5e5821e8ddca7d066e65b26" parent="aspace_6309dc2fc8bdce7a9c2370811231d245" type="Folder">84</container>
+            <container id="aspace_5a2a3055997240df29ef9c41d4c10711" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_64fd59a015c73711bf1f9a9fb41080e6" parent="aspace_5a2a3055997240df29ef9c41d4c10711" type="Folder">84</container>
           </did>
           <odd id="aspace_0cba83e3372655bb4b7b8f9c6839d5b0">
             <head>General note</head>

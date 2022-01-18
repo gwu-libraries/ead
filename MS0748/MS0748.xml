@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms0748.xml">ms0748.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:32:50 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:52:10 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -97,7 +96,7 @@
           <unitid>MS0748 Series 1</unitid>
           <unitdate datechar="creation">1961-2002</unitdate>
           <physdesc id="aspace_e528d5e8b130eb3001a6e1d2d7740dd8" label="General Physical Description note">1 Linear foot</physdesc>
-          <container id="aspace_6fd9af8898f7919e56a571b4c15f392b" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+          <container id="aspace_18ad5eaa4992a4dc6dc7a619839994bd" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
         </did>
         <scopecontent id="aspace_a3d761da6fb3378c437c9015b7089a9c">
           <head>Scope and Contents note</head>
@@ -107,40 +106,40 @@
           <did>
             <unittitle>Peter Hat Pech</unittitle>
             <unitdate datechar="creation">1961</unitdate>
-            <container id="aspace_879beea77dcb2ea90bf0fc8d71d529d2" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
-            <container id="aspace_e0a9abdebdf12f017094b88d860d2c63" parent="aspace_879beea77dcb2ea90bf0fc8d71d529d2" type="Folder">1</container>
+            <container id="aspace_1f19ff7746234dc02f4d15c3b367272c" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+            <container id="aspace_bdd867e5cf40ced20e6c936a95e6bfa6" parent="aspace_1f19ff7746234dc02f4d15c3b367272c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref14_24g" level="file">
           <did>
             <unittitle>The Culture of the Abbey of St. Gall: an overview</unittitle>
             <unitdate datechar="creation">1991</unitdate>
-            <container id="aspace_367cd5d0b24bac10f446de972be2c41f" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
-            <container id="aspace_427b6ed5ad6ca92e73932f07811b3147" parent="aspace_367cd5d0b24bac10f446de972be2c41f" type="Folder">2</container>
+            <container id="aspace_a36eb8b44316423abe02a0db9c0e48a6" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+            <container id="aspace_8169d256a3b33d7d0141d1380ff07fcd" parent="aspace_a36eb8b44316423abe02a0db9c0e48a6" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref16_bfc" level="file">
           <did>
             <unittitle>Sangallensia in Washington: The arts and letters in Medieval and Broque St. Gall, viewed from the late twentieth century</unittitle>
             <unitdate datechar="creation">1993</unitdate>
-            <container id="aspace_bc8351dc8004e59a8d0be22a8b9c9787" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
-            <container id="aspace_ecb5b832c26fae46eca68a3b63afa320" parent="aspace_bc8351dc8004e59a8d0be22a8b9c9787" type="Folder">3</container>
+            <container id="aspace_8ff7159c269d1274f2c72212db6eac6f" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+            <container id="aspace_6fa14bf5d1fbe564f33d9046c6242b55" parent="aspace_8ff7159c269d1274f2c72212db6eac6f" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref18_ud7" level="file">
           <did>
             <unittitle>Miscellaneous brochures</unittitle>
             <unitdate datechar="creation">1974-2000</unitdate>
-            <container id="aspace_39d0b9f74d088985957d8aef2e32fff8" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
-            <container id="aspace_83b6edc941f3ad9a81c19020339f6b20" parent="aspace_39d0b9f74d088985957d8aef2e32fff8" type="Folder">4</container>
+            <container id="aspace_8015d2f441ff0a231811271e7f3e6b7a" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+            <container id="aspace_497ece929332e716c043aec0ab5c279c" parent="aspace_8015d2f441ff0a231811271e7f3e6b7a" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref20_0zw" level="file">
           <did>
             <unittitle>Miscellaneous brochures</unittitle>
             <unitdate datechar="creation">1975-2002</unitdate>
-            <container id="aspace_637d1755002a7671a2728e978463951b" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
-            <container id="aspace_039302327d96b7b24e5809990c4097d5" parent="aspace_637d1755002a7671a2728e978463951b" type="Folder">5</container>
+            <container id="aspace_66379425cf42df06332303f35af01737" label="Mixed Materials [GW: 32882018320401]" type="Box">1</container>
+            <container id="aspace_0a0ed8aa51bca2c9d3051eee1a63ceaf" parent="aspace_66379425cf42df06332303f35af01737" type="Folder">5</container>
           </did>
         </c>
       </c>
@@ -150,7 +149,7 @@
           <unitid>MS0748 Series 2</unitid>
           <unitdate datechar="creation">1996</unitdate>
           <physdesc id="aspace_e98bdfd9c232f9032f2d2f3ec24be8c9" label="General Physical Description note">0.5 Linear feet</physdesc>
-          <container id="aspace_174773e6d007a8d9ba833c516956d46c" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
+          <container id="aspace_1648fe74ae15c5de315c5ca379b03679" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
         </did>
         <scopecontent id="aspace_edfa20409e2d7110c8ed2fc56244ac3d">
           <head>Scope and Contents note</head>
@@ -160,16 +159,16 @@
           <did>
             <unittitle>Der Kloster Sankt Gallen</unittitle>
             <unitdate datechar="creation">1996</unitdate>
-            <container id="aspace_36660c50812e30da6d6b41226929b588" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
-            <container id="aspace_d49c9c88d65b7fa85adcb30ac5b1fc36" parent="aspace_36660c50812e30da6d6b41226929b588" type="Folder">1</container>
+            <container id="aspace_ce7d8c08a74b0c1fc761a9013c3e0a3a" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
+            <container id="aspace_6fb7f7c517afe5b596ddf7ba6849e0bf" parent="aspace_ce7d8c08a74b0c1fc761a9013c3e0a3a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref27_x9q" level="file">
           <did>
             <unittitle>The Abbey of Saint Gall</unittitle>
             <unitdate datechar="creation">1996</unitdate>
-            <container id="aspace_1c5106593c05ab5e12cb9f02b55910da" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
-            <container id="aspace_647b03d439fc33cdd00bc59197935b17" parent="aspace_1c5106593c05ab5e12cb9f02b55910da" type="Folder">2</container>
+            <container id="aspace_955d4adc565a655a1e457d1c50cb7963" label="Mixed Materials [GW: 32882018320443]" type="Box">2</container>
+            <container id="aspace_46196ae497a6df3b03f5729939d331fa" parent="aspace_955d4adc565a655a1e457d1c50cb7963" type="Folder">2</container>
           </did>
         </c>
       </c>
@@ -179,8 +178,8 @@
           <unitid>MS0748 Series 3</unitid>
           <unitdate datechar="creation">1837-1968</unitdate>
           <physdesc id="aspace_d0d31442eae99e0406f8c008bd4e5f9b" label="General Physical Description note">2 Linear feet</physdesc>
-          <container id="aspace_dd3120aea3399fc71a4bb12dba1b5aef" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-          <container id="aspace_5a5ef8165c26a99f4a477ee2ea6f3750" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+          <container id="aspace_7c6ecfdeaf3696d4dd845d1e9fdb6b30" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+          <container id="aspace_6cab27e2ec76bb5163ea9a42cd0c5338" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
         </did>
         <scopecontent id="aspace_f0116c8fbd5f08568aa97d4e8626e419">
           <head>Scope and Contents note</head>
@@ -190,216 +189,216 @@
           <did>
             <unittitle>Mimeographs and notes</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b1f67f7cb4670e597749e0dbaa81eb04" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_930d1ba8c28941939083496d86020a08" parent="aspace_b1f67f7cb4670e597749e0dbaa81eb04" type="Folder">1</container>
+            <container id="aspace_2d38bc8746aa096ae728234cb172319e" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_6cdaec76befaccec0c25567b78a42f5a" parent="aspace_2d38bc8746aa096ae728234cb172319e" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref34_mqz" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1926-1956</unitdate>
-            <container id="aspace_1ae8fc0266cdc52de7301537fde742af" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_719e55280dc0625a08303ff8e73ae3d6" parent="aspace_1ae8fc0266cdc52de7301537fde742af" type="Folder">2</container>
+            <container id="aspace_1c81c09619f24e3e7d62ea9d8fde86cc" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_3adc7dd2f155eef2fd8b66595ea195fa" parent="aspace_1c81c09619f24e3e7d62ea9d8fde86cc" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref36_2jc" level="file">
           <did>
             <unittitle>Handwritten notes</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_26a8d6285b5b5470a0025c090889cf1b" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_ab737d383b54c3957790b4b91c5fa905" parent="aspace_26a8d6285b5b5470a0025c090889cf1b" type="Folder">3</container>
+            <container id="aspace_0f1b73684a4e596b81d1f28a66eaf389" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_d3d640d92c596b1c25021b06f61d3696" parent="aspace_0f1b73684a4e596b81d1f28a66eaf389" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref38_7zn" level="file">
           <did>
             <unittitle>Notes on Notker Concordance</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9314e9621ad26723baa51545af88df2e" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_8f23121399ae810e931becbc719652f6" parent="aspace_9314e9621ad26723baa51545af88df2e" type="Folder">4</container>
+            <container id="aspace_baf53fb999c9cc20c706e7fd9e0b504f" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_83f35dfd87e30c57330b83ba3926003e" parent="aspace_baf53fb999c9cc20c706e7fd9e0b504f" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref40_a23" level="file">
           <did>
             <unittitle>Notes on Notker- Praetentium Germaneum</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_ca4296670de3192ee69369986d084285" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_9c5824dcd02bbc40310e197cba4489b6" parent="aspace_ca4296670de3192ee69369986d084285" type="Folder">5</container>
+            <container id="aspace_3aa9f2de0c00e6d4bd4c1d35e268a00e" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_494bb04ebacc454b57207c27ffc86a7c" parent="aspace_3aa9f2de0c00e6d4bd4c1d35e268a00e" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref42_xof" level="file">
           <did>
             <unittitle>Notes on Notker- Psalms</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_6feb0c765d3d11094f52585123d08725" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_4b62825f0499023fce338403b0d3d1a9" parent="aspace_6feb0c765d3d11094f52585123d08725" type="Folder">6</container>
+            <container id="aspace_463e189da89413e9e33ade580b703dc0" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_dd1b9f046763e7c8c614dd9c40b0bd8e" parent="aspace_463e189da89413e9e33ade580b703dc0" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref44_zeo" level="file">
           <did>
             <unittitle>Notker- list of suffixal elements</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_1cc647fd97b7040d13142ebe9403f2f1" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_ab5bde1ce2dc795fea304c1a3ebd6250" parent="aspace_1cc647fd97b7040d13142ebe9403f2f1" type="Folder">7</container>
+            <container id="aspace_e56b258b24d99a8f2935ef0199702c2d" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_d4bb584eaa47435230ce9d0588a3a9c7" parent="aspace_e56b258b24d99a8f2935ef0199702c2d" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref46_bx6" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1939-1956</unitdate>
-            <container id="aspace_49fcc1580f58661389a00df62a0cad73" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_065940d4d8848fe677c8c5ea4e68fb6e" parent="aspace_49fcc1580f58661389a00df62a0cad73" type="Folder">8</container>
+            <container id="aspace_5182925e0fcdaf201246c06e0fa5b26f" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_75424abb0e8326a80f2fb28ad93257e2" parent="aspace_5182925e0fcdaf201246c06e0fa5b26f" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref48_eah" level="file">
           <did>
             <unittitle>Books from the library of Edward Sehrt</unittitle>
             <unitdate datechar="creation">1876-1958</unitdate>
-            <container id="aspace_6329162298905fb4ec5d80d84f1eb8f7" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_e85e6d60373e1ed7bc29e981c8a71d46" parent="aspace_6329162298905fb4ec5d80d84f1eb8f7" type="Folder">9</container>
+            <container id="aspace_8b5cde68121b2a4449ac7ab6f75e2843" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_1f6782c6ceff65f47c0b2c038e4e2b66" parent="aspace_8b5cde68121b2a4449ac7ab6f75e2843" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref50_sgz" level="file">
           <did>
             <unittitle>Reviews</unittitle>
             <unitdate datechar="creation">1944-1953</unitdate>
-            <container id="aspace_ee25d7413493de980e490a81dedc8b1c" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_28ee8a77136ad4d93b88a9978e9c2a26" parent="aspace_ee25d7413493de980e490a81dedc8b1c" type="Folder">10</container>
+            <container id="aspace_2022ee5f878d9a86134f32cfc5b7cdb5" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_ca571ee1c6a844bae00da230446f250e" parent="aspace_2022ee5f878d9a86134f32cfc5b7cdb5" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref52_hg5" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1837-1961</unitdate>
-            <container id="aspace_825d377a205aa00499b4fc8996d7d247" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_d01211a9d02d3be2e79d435182d06e27" parent="aspace_825d377a205aa00499b4fc8996d7d247" type="Folder">11</container>
+            <container id="aspace_19cdaf2b4c8eb1bd4403e192870fb214" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_d7cdc72f62b4951fee12051640af8ad4" parent="aspace_19cdaf2b4c8eb1bd4403e192870fb214" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref54_3w4" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1876-1934</unitdate>
-            <container id="aspace_f60d5e679a2ddbd58d8890075533cc82" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_f6cb3179ec3f276481f0d64123fc91d2" parent="aspace_f60d5e679a2ddbd58d8890075533cc82" type="Folder">12</container>
+            <container id="aspace_a7e4404fb21ec6e0e6e88da705c06dc1" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_7c1034dd635e3abe0fd77852801290a0" parent="aspace_a7e4404fb21ec6e0e6e88da705c06dc1" type="Folder">12</container>
           </did>
         </c>
         <c id="aspace_ref56_aur" level="file">
           <did>
             <unittitle>Notes, correspondence</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_05a270b7aa20dad77941157686a9c328" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_0513fbcfa7a0fa877cfe76d0b9a31880" parent="aspace_05a270b7aa20dad77941157686a9c328" type="Folder">13</container>
+            <container id="aspace_6c72481556727cc17ab109f1370cf678" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_8dce527ec08e1ab4b5296bdc866843ee" parent="aspace_6c72481556727cc17ab109f1370cf678" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref58_d5o" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1942-1953</unitdate>
-            <container id="aspace_90c7c561ce6a113da4f224f3a11851a7" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_a98e33ed5cb68cfb45395eed2ae1d84b" parent="aspace_90c7c561ce6a113da4f224f3a11851a7" type="Folder">14</container>
+            <container id="aspace_d072a838c318e4ca9d11f91269c12bef" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_810e28c003452796586181b74d19472b" parent="aspace_d072a838c318e4ca9d11f91269c12bef" type="Folder">14</container>
           </did>
         </c>
         <c id="aspace_ref60_gr2" level="file">
           <did>
             <unittitle>Scholarly articles, reprints</unittitle>
             <unitdate datechar="creation">1928-1955</unitdate>
-            <container id="aspace_01a1b761e735c150b3eddb8724784dd9" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_882ccbd3563ff6df35f6cafeef8da052" parent="aspace_01a1b761e735c150b3eddb8724784dd9" type="Folder">15</container>
+            <container id="aspace_68048cafd1989892f77f67584526e93f" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_43412898ef8a31095c7adc6b0ed0a53d" parent="aspace_68048cafd1989892f77f67584526e93f" type="Folder">15</container>
           </did>
         </c>
         <c id="aspace_ref62_7xv" level="file">
           <did>
             <unittitle>Mimeographed copy of manuscript</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_4f991fa6cf6ebf7edd2a69acb913d6e3" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
-            <container id="aspace_cd3545b77f5ec2c5d05d6d9e4356bcac" parent="aspace_4f991fa6cf6ebf7edd2a69acb913d6e3" type="Folder">16</container>
+            <container id="aspace_b54d13f1d54b1461f3b53b891355dce1" label="Mixed Materials [GW: 32882018320427]" type="Box">3</container>
+            <container id="aspace_d370e3e99742a96560e65d40e9183fb8" parent="aspace_b54d13f1d54b1461f3b53b891355dce1" type="Folder">16</container>
           </did>
         </c>
         <c id="aspace_ref64_hax" level="file">
           <did>
             <unittitle>Germanistischen Feiertags</unittitle>
             <unitdate datechar="creation">1913</unitdate>
-            <container id="aspace_962c49c3001b6faba7e8c8747bb28be3" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_5c0c3026fb6247874c295e46ea3764f2" parent="aspace_962c49c3001b6faba7e8c8747bb28be3" type="Folder">1</container>
+            <container id="aspace_a62582596e22acc3392c642aaac565ff" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_e8926cd43f4d172b19b8cda17bac3fa6" parent="aspace_a62582596e22acc3392c642aaac565ff" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref66_ijn" level="file">
           <did>
             <unittitle>Schriften zur Germanischen Phililogie</unittitle>
             <unitdate datechar="creation">1889</unitdate>
-            <container id="aspace_2f4ee06a53205a8ca29a3815025ba7dd" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_9ce2f93bffff4f8a71a26c3425f8ea8e" parent="aspace_2f4ee06a53205a8ca29a3815025ba7dd" type="Folder">2</container>
+            <container id="aspace_23e54f1bea89fdaea78728ab79c286b1" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_d6dbe8dde4d582f1a5625519dd81a34c" parent="aspace_23e54f1bea89fdaea78728ab79c286b1" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref68_26o" level="file">
           <did>
             <unittitle>Ubersetzung und Erlauterung</unittitle>
             <unitdate datechar="creation">1837</unitdate>
-            <container id="aspace_c9d8472b34098ca6475208ca41e08287" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_767a084b2fac7c0263a6798002e0aa2a" parent="aspace_c9d8472b34098ca6475208ca41e08287" type="Folder">3</container>
+            <container id="aspace_55d38323cc4cd715aad13bf67671b22e" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_34a6460b902ba27574a244dda49eba9a" parent="aspace_55d38323cc4cd715aad13bf67671b22e" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref70_7cm" level="file">
           <did>
             <unittitle>Die Flexionslehre in Notkers Althochdeutscher Ubersetzung</unittitle>
             <unitdate datechar="creation">1886</unitdate>
-            <container id="aspace_41ec6bb149189fa6317b9e364b50f547" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_50db88d0453f5dcffb1d209b20ed9e79" parent="aspace_41ec6bb149189fa6317b9e364b50f547" type="Folder">4</container>
+            <container id="aspace_883d72bfdcddd0c573ff9a87b41ae87b" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_8d74a6120f6ae4fb5af6e8e8d1c2c4aa" parent="aspace_883d72bfdcddd0c573ff9a87b41ae87b" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref72_pqe" level="file">
           <did>
             <unittitle>Beitrage zur Syntax des Notker'schen Boethius: Inaugural-Dissertation</unittitle>
             <unitdate datechar="creation">1883</unitdate>
-            <container id="aspace_8de23f02a83cc60701697e4538e9df5c" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_33a5df394b489bc5e4483519dc9e79fa" parent="aspace_8de23f02a83cc60701697e4538e9df5c" type="Folder">5</container>
+            <container id="aspace_47f84555c8b16273dc3a15ef84ea1ccf" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_de7795f8298ef5d537e92adbfd11ed0a" parent="aspace_47f84555c8b16273dc3a15ef84ea1ccf" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref74_nhm" level="file">
           <did>
             <unittitle>Notkers des Deutschen Werke</unittitle>
             <unitdate datechar="creation">1935</unitdate>
-            <container id="aspace_7dc3389203b00b59f1911d01a81ed211" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_a1f4a3c0a82dc9fd9f838726df7a69fc" parent="aspace_7dc3389203b00b59f1911d01a81ed211" type="Folder">6</container>
+            <container id="aspace_f5a47490fa2063870d4bd3c076e24fa0" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_b31acf82ccfd0cfe697b953cf1e1fff1" parent="aspace_f5a47490fa2063870d4bd3c076e24fa0" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref76_32w" level="file">
           <did>
             <unittitle>Vollstandiges Worterbuch zum Heliand und zur Altsachsischen Genesis</unittitle>
             <unitdate datechar="creation">1925</unitdate>
-            <container id="aspace_d963caeed277ecc8bc6884b8f104dc4a" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_8725b02f0572ea83a2b2057abb4577b3" parent="aspace_d963caeed277ecc8bc6884b8f104dc4a" type="Folder">7</container>
+            <container id="aspace_f3180b1edd20f85c0edb2262671abb8c" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_0bffee9dabe5b14b1d0bd9a4ef01f359" parent="aspace_f3180b1edd20f85c0edb2262671abb8c" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref78_oe2" level="file">
           <did>
             <unittitle>Ubersetzung und Erlauterung</unittitle>
             <unitdate datechar="creation">1837</unitdate>
-            <container id="aspace_53fff797f3df4d6a5aa42a8a835a1621" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_39d74cee40bb2ec353e5cc2cfa295717" parent="aspace_53fff797f3df4d6a5aa42a8a835a1621" type="Folder">8</container>
+            <container id="aspace_4f1ca1bb87c9ec2f27cea1cfc9a159a0" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_c2192dcb54a5449f37198d95b55498f1" parent="aspace_4f1ca1bb87c9ec2f27cea1cfc9a159a0" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref80_x6b" level="file">
           <did>
             <unittitle>Germanic Studies in honor of Edward Henry Sehrt</unittitle>
             <unitdate datechar="creation">04/03/1968</unitdate>
-            <container id="aspace_b574145bc760cbee52df0c5fbfe05284" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_87233ee07a9bdc97a54c9b9a2160df34" parent="aspace_b574145bc760cbee52df0c5fbfe05284" type="Folder">9</container>
+            <container id="aspace_0ef74dc5a40b9030b7ea0502baaea019" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_d06d827658d3b11a7adc9b264ed4dd48" parent="aspace_0ef74dc5a40b9030b7ea0502baaea019" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref82_7tw" level="file">
           <did>
             <unittitle>Studies in honor of Hermann Collitz, presented by a group of his pupils and friends on the occasion of his seventy-fifth birthday, February 4, 1930</unittitle>
             <unitdate datechar="creation">02/04/1930</unitdate>
-            <container id="aspace_5686188020afdabc7d46eda934485994" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_2178bb0a203aa37e8fbb5d82bb33815f" parent="aspace_5686188020afdabc7d46eda934485994" type="Folder">10</container>
+            <container id="aspace_a020105da6c89608ff8338d6980a4fd0" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_ff5d30b087ed5eba951ed0ea33f9b6eb" parent="aspace_a020105da6c89608ff8338d6980a4fd0" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref84_qhi" level="file">
           <did>
             <unittitle>Wortschatz und Sprachformen der Wiener Notker-Handschrift</unittitle>
             <unitdate datechar="creation">1875</unitdate>
-            <container id="aspace_dc3bc314a32e08fb6060657bc1e0b1c6" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
-            <container id="aspace_7b67d71814e14d2a909ca8659dc84305" parent="aspace_dc3bc314a32e08fb6060657bc1e0b1c6" type="Folder">11</container>
+            <container id="aspace_5053871ead938aff00706f6f0d8ea0a5" label="Mixed Materials [GW: 32882018320435]" type="Box">4</container>
+            <container id="aspace_7331b90239842807cd3d28e9f59d98ae" parent="aspace_5053871ead938aff00706f6f0d8ea0a5" type="Folder">11</container>
           </did>
         </c>
       </c>

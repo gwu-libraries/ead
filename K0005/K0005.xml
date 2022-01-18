@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/k0005.xml ">k0005.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:31:17 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 11:50:45 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
     </profiledesc>
   </eadheader>
@@ -88,10 +87,10 @@
           </physdesc>
           <unitdate datechar="creation">1910-1948</unitdate>
           <physdesc id="aspace_340a9b9439d870e3214ec503883fa8dc" label="General Physical Description note">1 Linear feet</physdesc>
-          <container id="aspace_ba2213d0761e384fb75b45ca590b6b7c" label="Graphic Materials [GW: 32882018002793]" type="Box">14</container>
-          <container id="aspace_8f1d82cd52bb13697de3bf8aea0cc163" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-          <container id="aspace_1bd40212c47ccc40f305644b55a40379" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-          <container id="aspace_f28efd64037888f4467bde6a88bf3f57" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+          <container id="aspace_3e2d3f3bab90492ab6a2b4a1da1efc57" label="Graphic Materials [GW: 32882018002793]" type="Box">14</container>
+          <container id="aspace_0ea7e1f8618ca8bd115b6716223eb433" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+          <container id="aspace_6dcb6f9e3c62b7327e5eaca7d9debf41" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+          <container id="aspace_c11c20cd5b5d77027dadbc5c9029e6ab" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
         </did>
         <scopecontent id="aspace_88a6d8586819d0c4ae732e1324259756">
           <head>Scope and Contents note</head>
@@ -101,8 +100,8 @@
           <did>
             <unittitle>Lieder Des Volkes [Songs of the People]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_a4dae4b8c1c7b9168ee4379c7976fd95" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_2ed767f3b1c6b828cc194921a572bc93" parent="aspace_a4dae4b8c1c7b9168ee4379c7976fd95" type="Folder">1</container>
+            <container id="aspace_0e23a3205444e78a0b4fbfd5be2dba9c" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_fee372ca46e5f73dd32c437157217983" parent="aspace_0e23a3205444e78a0b4fbfd5be2dba9c" type="Folder">1</container>
           </did>
           <odd id="aspace_631a04aa453fca50b075c711fd989d9d">
             <head>General note</head>
@@ -113,8 +112,8 @@
           <did>
             <unittitle>Spaniolischer Jude</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_88e1e3f044f3d9eb3b2104d1d44da96a" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_487824dac947791a8b75951e2507462a" parent="aspace_88e1e3f044f3d9eb3b2104d1d44da96a" type="Folder">2</container>
+            <container id="aspace_9f3c9135667bc3993e65ca5518476e9f" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_478e1f0940b307771342e18cfc1b7edd" parent="aspace_9f3c9135667bc3993e65ca5518476e9f" type="Folder">2</container>
           </did>
           <odd id="aspace_e66aff5e840c00a7dd5817c4572bb5fa">
             <head>General note</head>
@@ -125,8 +124,8 @@
           <did>
             <unittitle>Aus Galizien [From Galizien]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_b4efcbc3099005c9e64eec0edfd979a7" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_d26324024e639a9f474db7e68ed2de41" parent="aspace_b4efcbc3099005c9e64eec0edfd979a7" type="Folder">3</container>
+            <container id="aspace_a1634f40be3dd62fc5e9e8a58018bf81" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_fa019454be1d107dfec28ccb744bae35" parent="aspace_a1634f40be3dd62fc5e9e8a58018bf81" type="Folder">3</container>
           </did>
           <odd id="aspace_5e1b43862defabbbdf2bc5b0abf2b0ef">
             <head>General note</head>
@@ -137,8 +136,8 @@
           <did>
             <unittitle>Die Erschscaffung des Menschen [The Creation of Man]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_a98cbcdf56eecb81eedd3d8541c6ad3c" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_b078cf6c896f63a1c42a4fe68d866759" parent="aspace_a98cbcdf56eecb81eedd3d8541c6ad3c" type="Folder">4</container>
+            <container id="aspace_77c537fc923da22f58a361d5d35967fc" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_ff0fd3a80ee13ae1e84bc647c5db3dfe" parent="aspace_77c537fc923da22f58a361d5d35967fc" type="Folder">4</container>
           </did>
           <odd id="aspace_4ef77ba1ec9ecde9b5126af8d5741734">
             <head>General note</head>
@@ -149,8 +148,8 @@
           <did>
             <unittitle>Aus Der Buchara [From the Buchara]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_4894314b3a2761317e923ebfeccf305b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_0d887cd72d9fb23dd2318feb4c62f7c0" parent="aspace_4894314b3a2761317e923ebfeccf305b" type="Folder">5</container>
+            <container id="aspace_f087dd09332aa655c8d48f06f890324e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_9c9fe9910720504fd9f17730446f734a" parent="aspace_f087dd09332aa655c8d48f06f890324e" type="Folder">5</container>
           </did>
           <odd id="aspace_f8621d854bd200a270ae18a2a9a23543">
             <head>General note</head>
@@ -161,16 +160,16 @@
           <did>
             <unittitle>Affium-Karahissar</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_2c3bb2336e1f11dd1e81fdb3b7d3273e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_2c97cad39016496ab99ba6e4dc402830" parent="aspace_2c3bb2336e1f11dd1e81fdb3b7d3273e" type="Folder">6</container>
+            <container id="aspace_e3a8fb4c18352d0269ff2823dda0fc39" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_ade0839fdd0a4919d9aef54328cf876b" parent="aspace_e3a8fb4c18352d0269ff2823dda0fc39" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref23_ux8" level="file">
           <did>
             <unittitle>Die Trane auf dem Eisen</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_706ba144d80e536451fea6827e5d9e0a" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_69179ef5a9a0d9c35bdcd0d27550116c" parent="aspace_706ba144d80e536451fea6827e5d9e0a" type="Folder">7</container>
+            <container id="aspace_4ed96c48459792b0f91f0934b94c2a3b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_e3f503f07cdf6956b2d962d6cddb77b4" parent="aspace_4ed96c48459792b0f91f0934b94c2a3b" type="Folder">7</container>
           </did>
           <odd id="aspace_5d5d38ed54f56e4b30e040a74599bdeb">
             <head>General note</head>
@@ -181,8 +180,8 @@
           <did>
             <unittitle>Sturm [The Storm]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_bee581dad9b38749b4d14ecc0018936d" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_cb735bec5d1dab567e4651c464651220" parent="aspace_bee581dad9b38749b4d14ecc0018936d" type="Folder">8</container>
+            <container id="aspace_847026efb3d971424ae623032d2ca03b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_9408aef81daeedb0c5c385e9f29cfd2e" parent="aspace_847026efb3d971424ae623032d2ca03b" type="Folder">8</container>
           </did>
           <odd id="aspace_96dbb0b6b75db40d5b5f1cc500ab0a0d">
             <head>General note</head>
@@ -193,8 +192,8 @@
           <did>
             <unittitle>Rahab, Die Jerichonitin [Rahab, of Jericho]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_7219a090771b3d3bc0462c32e080c04f" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_a9a05a4482a9bd6f8ce8834de375d5c1" parent="aspace_7219a090771b3d3bc0462c32e080c04f" type="Folder">9</container>
+            <container id="aspace_5449a6a397876dbacc6bcbbec0794271" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_f8da319730dae21a5265c0dc0709fd67" parent="aspace_5449a6a397876dbacc6bcbbec0794271" type="Folder">9</container>
           </did>
           <odd id="aspace_4d09d3bd6dd84afccc66754133750db8">
             <head>General note</head>
@@ -205,8 +204,8 @@
           <did>
             <unittitle>An Der Nahmaschine [At the Sewing Machine]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_dbf9a59b044a925119a8b23566830c79" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_ea1a436905d77ec77fe3f53eccdf75e9" parent="aspace_dbf9a59b044a925119a8b23566830c79" type="Folder">10</container>
+            <container id="aspace_aa3decb8e3afe4425cfe65aa06deb3da" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_e300f71767371b2bb7bae2543100721f" parent="aspace_aa3decb8e3afe4425cfe65aa06deb3da" type="Folder">10</container>
           </did>
           <odd id="aspace_c05c88b48905a83ef1c92fafb020e9c0">
             <head>General note</head>
@@ -217,8 +216,8 @@
           <did>
             <unittitle>Das Trauerlied [Song of Mourning]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_d8133e08fbfa47db00b8651047cdfbae" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_9fb8461d8767f8a493d98c0bd22fdbd5" parent="aspace_d8133e08fbfa47db00b8651047cdfbae" type="Folder">11</container>
+            <container id="aspace_15b657e196365cf53a1d3416fa417496" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_3b399d758cb2ca2d6588d855063ad451" parent="aspace_15b657e196365cf53a1d3416fa417496" type="Folder">11</container>
           </did>
           <odd id="aspace_48642551fbea0e0cadcbb9b226b46997">
             <head>General note</head>
@@ -229,8 +228,8 @@
           <did>
             <unittitle>Widmung [Dedication]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_98df03a38885096f2cc4d6db34c5bd1b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_bdbb5435f5e00d14a046c70f08416bbf" parent="aspace_98df03a38885096f2cc4d6db34c5bd1b" type="Folder">12</container>
+            <container id="aspace_af3613624034326cf2a140bdb186e6e3" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_8858d00ad915c95d86b7bea74f2687e5" parent="aspace_af3613624034326cf2a140bdb186e6e3" type="Folder">12</container>
           </did>
           <odd id="aspace_bb7b203faa2de770bfcbd84751222df8">
             <head>General note</head>
@@ -241,8 +240,8 @@
           <did>
             <unittitle>Absalom-Denkmal [Absalom monument]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_287a7a8f9e6580496f39528942a7f3fe" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_498ad31773ff061655f2ceb81ff334a4" parent="aspace_287a7a8f9e6580496f39528942a7f3fe" type="Folder">13</container>
+            <container id="aspace_40ebfb3cf89c183ef5b8022d9a27b7a7" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_dcf8ed46c21641636b3986ca080115e6" parent="aspace_40ebfb3cf89c183ef5b8022d9a27b7a7" type="Folder">13</container>
           </did>
           <odd id="aspace_008029b4140b423ebb71eb7392ed0e26">
             <head>General note</head>
@@ -253,8 +252,8 @@
           <did>
             <unittitle>Morgenzeitung [Morning Paper]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_08acea6fd5f88438497ebe43b2d57bf7" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_6289d756daa30496d5630916261a28cd" parent="aspace_08acea6fd5f88438497ebe43b2d57bf7" type="Folder">14</container>
+            <container id="aspace_b85427e8a7c7c466383b0acd2596e6a4" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_2a5b824de836a5bcb2bb91d5c5b45c34" parent="aspace_b85427e8a7c7c466383b0acd2596e6a4" type="Folder">14</container>
           </did>
           <odd id="aspace_0919cd57462754c263906bb7020da666">
             <head>General note</head>
@@ -265,8 +264,8 @@
           <did>
             <unittitle>Lesender Junger Jude aus der Buchara [Jewish man reading, from Buchara]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_8f025e44fa270486f23ec8888327cab3" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_dd2ddcee25d3dce6986dc60d63b5a30a" parent="aspace_8f025e44fa270486f23ec8888327cab3" type="Folder">15</container>
+            <container id="aspace_57fc4bae396b8aa98ccd7aa73e82865d" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_ec68c6e3dfd33f249c22a91016c3ddb5" parent="aspace_57fc4bae396b8aa98ccd7aa73e82865d" type="Folder">15</container>
           </did>
           <odd id="aspace_2212d412041967e9800571212267eb82">
             <head>General note</head>
@@ -277,8 +276,8 @@
           <did>
             <unittitle>Schwarzer Jude Aus Afrika [A Black Jew from Africa]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_6640c0ced2530e62e6c094996caeadfd" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_58a5f8dbbdc7a0f3e0b24aae935ee08c" parent="aspace_6640c0ced2530e62e6c094996caeadfd" type="Folder">16</container>
+            <container id="aspace_cd226d1ca219efb2a976db4d1a18936e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_4d0177b379af8f8fedfd5b078a5c8317" parent="aspace_cd226d1ca219efb2a976db4d1a18936e" type="Folder">16</container>
           </did>
           <odd id="aspace_6d8f2fdb9e46399a4c32c831aed1d29d">
             <head>General note</head>
@@ -289,16 +288,16 @@
           <did>
             <unittitle>Harfenspielerin [The Harpist]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_13b51fc00c5636fd10fd136087b5c380" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_810997407139b333b182e9b4cd40c406" parent="aspace_13b51fc00c5636fd10fd136087b5c380" type="Folder">17</container>
+            <container id="aspace_c4050452ccdaf4d4b89e84c7c84c190e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_9e5a16ed07d9340282387744bd166607" parent="aspace_c4050452ccdaf4d4b89e84c7c84c190e" type="Folder">17</container>
           </did>
         </c>
         <c id="aspace_ref44_ec2" level="file">
           <did>
             <unittitle>Die Engel [The Angels]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_3bbc65f069a6ee0306399258b4a03e4a" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_20ae23e03a93a5772e2da1cf3da6b4df" parent="aspace_3bbc65f069a6ee0306399258b4a03e4a" type="Folder">18</container>
+            <container id="aspace_f6b43f1c2ee46861e0feed7fc39d80de" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_86bf3b55bb78030216b3af518d55daed" parent="aspace_f6b43f1c2ee46861e0feed7fc39d80de" type="Folder">18</container>
           </did>
           <odd id="aspace_981c4ae56d7387a8e564193f805e7c67">
             <head>General note</head>
@@ -309,8 +308,8 @@
           <did>
             <unittitle>Enak Vor Gomorrha [Enak before Gomorrha]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_b88d8fa14aeb192864ccba750ade7270" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_fc28120b3ca94d3b4cf2eee9c184f4cb" parent="aspace_b88d8fa14aeb192864ccba750ade7270" type="Folder">19</container>
+            <container id="aspace_90e23b4879958c8d1e47f51d2b2db21d" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_e918d397ab3aad31ae9773ca356342a3" parent="aspace_90e23b4879958c8d1e47f51d2b2db21d" type="Folder">19</container>
           </did>
           <odd id="aspace_5308dbf7b2a4dcc497b004fbcc2621c9">
             <head>General note</head>
@@ -321,8 +320,8 @@
           <did>
             <unittitle>Sodoms Ruinen [Sodom's Ruins]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_0d54466442fc08639ad09d1ecf8ea42d" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_ef1a338cdedfbefddf9065d6dee1b0e9" parent="aspace_0d54466442fc08639ad09d1ecf8ea42d" type="Folder">20</container>
+            <container id="aspace_b1dbdb8c8f293dea9eb9b496759163b5" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_ad8373cfe8f5e43c1446200ebdd2712d" parent="aspace_b1dbdb8c8f293dea9eb9b496759163b5" type="Folder">20</container>
           </did>
           <odd id="aspace_dbdbf43d1d9a8b68f86e1fee9c79db4a">
             <head>General note</head>
@@ -333,8 +332,8 @@
           <did>
             <unittitle>Das Stille Lied [Silent Song]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_3ac64b016c3cfda69c04c01a08133525" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_0d13f8bcb0ace837a1e12376440660f7" parent="aspace_3ac64b016c3cfda69c04c01a08133525" type="Folder">21</container>
+            <container id="aspace_e2b68bcf68259ec2d256d9aa502a956a" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_b055d59ce555d16491780ae73f32e1b7" parent="aspace_e2b68bcf68259ec2d256d9aa502a956a" type="Folder">21</container>
           </did>
           <odd id="aspace_ea3ce907c53175c51899480faa1903a4">
             <head>General note</head>
@@ -345,8 +344,8 @@
           <did>
             <unittitle>Lieder De Arbeit [Work Song]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_b7cc0aa19daeb76f5b54fa582413b154" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_eafd5cb97501e986e461d4603823e746" parent="aspace_b7cc0aa19daeb76f5b54fa582413b154" type="Folder">22</container>
+            <container id="aspace_5e7566e93b7259ad9a0324a6e8775071" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_1b3f7d448ff846332f8bac9b20c0024d" parent="aspace_5e7566e93b7259ad9a0324a6e8775071" type="Folder">22</container>
           </did>
           <odd id="aspace_2ce78fea30fe5bc1c1b3403d3f7d38c3">
             <head>General note</head>
@@ -357,8 +356,8 @@
           <did>
             <unittitle>Lieder Des Lebens [Songs of Life]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_5bc7ca9faa23d436e8d2b83a5df6d28e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_0ffe0a5429e1f845237d2ad9daeef31e" parent="aspace_5bc7ca9faa23d436e8d2b83a5df6d28e" type="Folder">23</container>
+            <container id="aspace_a58b8dbd49ddec5084229131fa1d58be" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_a1018ae680404a502e512db232493cdc" parent="aspace_a58b8dbd49ddec5084229131fa1d58be" type="Folder">23</container>
           </did>
           <odd id="aspace_53f98035afcd581274bc45628d175bf6">
             <head>General note</head>
@@ -369,8 +368,8 @@
           <did>
             <unittitle>Mein Kind [My Child]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_27cb71f2c14b1bf07e754e84b5d3ca22" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_6b0a5c2a68aea7bbbd5240ee07871389" parent="aspace_27cb71f2c14b1bf07e754e84b5d3ca22" type="Folder">24</container>
+            <container id="aspace_1d1f79c6443e0a1b636924418776c43f" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_cebda4580de5047a7fac7b9432b7270b" parent="aspace_1d1f79c6443e0a1b636924418776c43f" type="Folder">24</container>
           </did>
           <odd id="aspace_a6c4576cfe8ebaf935fed4f8197d5689">
             <head>General note</head>
@@ -381,8 +380,8 @@
           <did>
             <unittitle>Friedhof [Cemetery]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_7d3fd26b30ba9a627ff2a21377237883" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_bfa0c3820e1bc0c3f5c2cc4e929a750e" parent="aspace_7d3fd26b30ba9a627ff2a21377237883" type="Folder">25</container>
+            <container id="aspace_6d68944375a08a1eef722fb77d1e4ea4" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_653d5882bee0de9c0757bf7f796ae24a" parent="aspace_6d68944375a08a1eef722fb77d1e4ea4" type="Folder">25</container>
           </did>
           <odd id="aspace_584c41d34a89fe94d77cee8dce699039">
             <head>General note</head>
@@ -393,16 +392,16 @@
           <did>
             <unittitle>Ellul Melodien [Elul Melodies]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_50cd52d7aa38e3f67bebefff70c9770b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_f526828acae3dafb52f2c9473f9eb286" parent="aspace_50cd52d7aa38e3f67bebefff70c9770b" type="Folder">26</container>
+            <container id="aspace_404707ceb6df4d7fee43436974a0df19" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_31b29f7f9c39563ddf1a221352f584ac" parent="aspace_404707ceb6df4d7fee43436974a0df19" type="Folder">26</container>
           </did>
         </c>
         <c id="aspace_ref61_62w" level="file">
           <did>
             <unittitle>Passah [Passover]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_ea8718979e93e5ede30801f35a331eb5" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_d5958d622f29322228e9937e3e773503" parent="aspace_ea8718979e93e5ede30801f35a331eb5" type="Folder">27</container>
+            <container id="aspace_bc4e35d02689430453c59b18fd7f80cc" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_00ab8a0b13ba97d57ac45e0e3aa23ad2" parent="aspace_bc4e35d02689430453c59b18fd7f80cc" type="Folder">27</container>
           </did>
           <odd id="aspace_e707f29c0c53d8f57bc86b6a96f2b84a">
             <head>General note</head>
@@ -413,8 +412,8 @@
           <did>
             <unittitle>Die Wessagung des Jesaia [The Pointing saying of the Jesaia]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_cf285e04bd32e54d67de2eb2df9a530a" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_c32ed29bd23d5361461419107410b48c" parent="aspace_cf285e04bd32e54d67de2eb2df9a530a" type="Folder">28</container>
+            <container id="aspace_a15d9717705cbbc84180f3de87c28596" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_18cb297d3772038e403a42b661275db0" parent="aspace_a15d9717705cbbc84180f3de87c28596" type="Folder">28</container>
           </did>
           <odd id="aspace_e88e64547a0d3a4c22219ff561e57d28">
             <head>General note</head>
@@ -423,10 +422,10 @@
         </c>
         <c id="aspace_ref65_jtm" level="file">
           <did>
-            <unittitle>Der Jüdische Mai [The Jewish May]</unittitle>
+            <unittitle>Der JÃ¼dische Mai [The Jewish May]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_f262ff3a29efecd10fb64078c8190e1e" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_ecd9efc79569a9d05be98c5e0b6644ba" parent="aspace_f262ff3a29efecd10fb64078c8190e1e" type="Folder">29</container>
+            <container id="aspace_ddf7d9f5c5e8a0ac9e85bc12e9b0656f" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_46c1f0aca298cc07b89613a1f38557dd" parent="aspace_ddf7d9f5c5e8a0ac9e85bc12e9b0656f" type="Folder">29</container>
           </did>
           <odd id="aspace_1761191e42c59ae574a58b39521d3b07">
             <head>General note</head>
@@ -435,10 +434,10 @@
         </c>
         <c id="aspace_ref67_op9" level="file">
           <did>
-            <unittitle>Die Gesänge des Jehuda [The Singing of the Jehuda]</unittitle>
+            <unittitle>Die GesÃ¤nge des Jehuda [The Singing of the Jehuda]</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_e6e530250e81156d84adaefbee293174" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
-            <container id="aspace_90b50bd0fb0a01cfc4c2e90be3d09406" parent="aspace_e6e530250e81156d84adaefbee293174" type="Folder">30</container>
+            <container id="aspace_ac012483723d89b09875e9f30d3cb63b" label="Mixed Materials [GW: 32882017121842]" type="Box">1</container>
+            <container id="aspace_52659aa7cfb322233a078a7f5e4c7191" parent="aspace_ac012483723d89b09875e9f30d3cb63b" type="Folder">30</container>
           </did>
           <odd id="aspace_6fe2621efe62075ac2722b36416c6d2d">
             <head>General note</head>
@@ -449,632 +448,632 @@
           <did>
             <unittitle>Young girl with doll</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_f5bc8f1f8ca4f7d41e7ff55a3ed07d66" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_5c64781fc95b75efa68c5731bc241c4e" parent="aspace_f5bc8f1f8ca4f7d41e7ff55a3ed07d66" type="Folder">41</container>
+            <container id="aspace_d5a1ff833d12f085e1478bfab2348894" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_a2875fd9392d1a68833cfa9026189816" parent="aspace_d5a1ff833d12f085e1478bfab2348894" type="Folder">41</container>
           </did>
           <odd id="aspace_c85d424e6e228afd2c437a79ffd77146">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-01.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-01.</p>
           </odd>
         </c>
         <c id="aspace_ref71_m3j" level="file">
           <did>
             <unittitle>Young woman with scarf</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_5c5e74f62d2201d49d98838a2199832b" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_11dec46f1b8016e24cfce0a76bc3fcb0" parent="aspace_5c5e74f62d2201d49d98838a2199832b" type="Folder">42</container>
+            <container id="aspace_9da7ada0db64c0178c954f6724e1fd16" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_e8081c25c2baf6f7961adbb229942d43" parent="aspace_9da7ada0db64c0178c954f6724e1fd16" type="Folder">42</container>
           </did>
           <odd id="aspace_d2fc651c56c2bfc7a33fa968062e14f5">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-02</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-02</p>
           </odd>
         </c>
         <c id="aspace_ref73_aqq" level="file">
           <did>
             <unittitle>Young woman with scarf and shawl</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_dac28f59d0f5a288bdeb86a3940ca692" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_8ff987ae6db88546bf588bd3d979cfdd" parent="aspace_dac28f59d0f5a288bdeb86a3940ca692" type="Folder">43</container>
+            <container id="aspace_672dc5c3d0d2d9fcf4ebd429a6f3d17d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_7d9765b5a5aeda8afac4836b9de77491" parent="aspace_672dc5c3d0d2d9fcf4ebd429a6f3d17d" type="Folder">43</container>
           </did>
           <odd id="aspace_4f7e5294b26c045af0c49307839fb496">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-03.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-03.</p>
           </odd>
         </c>
         <c id="aspace_ref75_a7i" level="file">
           <did>
             <unittitle>Portrait of a young woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_464d3e6498d88c6e076d9f31d6dc28c5" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_7c802c339cd925f13b4b1ad1f3961b0d" parent="aspace_464d3e6498d88c6e076d9f31d6dc28c5" type="Folder">44</container>
+            <container id="aspace_363d115c082ca3552148d4c78853e6c7" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_ccfd8b32bc4bffbc4bc8e977d7a4baa5" parent="aspace_363d115c082ca3552148d4c78853e6c7" type="Folder">44</container>
           </did>
           <odd id="aspace_0460796e6d829bb34f79a6af86d16d3c">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-04.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-04.</p>
           </odd>
         </c>
         <c id="aspace_ref77_agz" level="file">
           <did>
             <unittitle>Portrait of a young woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_9219a2d94e2804f785cd2a103c8be1ec" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_12e8d278ebfd18efb1cd2aae95371c78" parent="aspace_9219a2d94e2804f785cd2a103c8be1ec" type="Folder">45</container>
+            <container id="aspace_f2163de691c27d85905e2742fd5e23e8" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_45774972b06e68101cd13f8d43899a36" parent="aspace_f2163de691c27d85905e2742fd5e23e8" type="Folder">45</container>
           </did>
           <odd id="aspace_5ced0c25cdb5f0565f31d75a5794a56c">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-05.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-05.</p>
           </odd>
         </c>
         <c id="aspace_ref79_c69" level="file">
           <did>
             <unittitle>Profile portrait of a young woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_f860ea9fd0a33eca43609460a499ff6f" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_c2e016de475d313fdefb54daf998661b" parent="aspace_f860ea9fd0a33eca43609460a499ff6f" type="Folder">46</container>
+            <container id="aspace_9fd2f75bf096a85ec3e5da4545f36842" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_3cd20fc340bb7574921c73fad61b8ca2" parent="aspace_9fd2f75bf096a85ec3e5da4545f36842" type="Folder">46</container>
           </did>
           <odd id="aspace_ead66dcdffefd5335d0a7c6eabf25550">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-06.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-06.</p>
           </odd>
         </c>
         <c id="aspace_ref81_5cp" level="file">
           <did>
             <unittitle>Profile portrait of a young woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_3d823c900be65c0782a1a6047745ce86" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_e61562cf46a9951d0c5cfbf9a170e234" parent="aspace_3d823c900be65c0782a1a6047745ce86" type="Folder">47</container>
+            <container id="aspace_237a00c3e241ddf5860adcb9876e5eab" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_a6d807d559659d66b8af154b3fc67975" parent="aspace_237a00c3e241ddf5860adcb9876e5eab" type="Folder">47</container>
           </did>
           <odd id="aspace_ac50f473802e45e579f75512b386c683">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-07.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-07.</p>
           </odd>
         </c>
         <c id="aspace_ref83_5iz" level="file">
           <did>
             <unittitle>Portrait of woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_78115df76d70c23566b9caf688b2ae87" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_f1a4cb56a1eca7ba1aef566116ad8fc6" parent="aspace_78115df76d70c23566b9caf688b2ae87" type="Folder">48</container>
+            <container id="aspace_6aa3323f62eb9c189db033a4f0f6e305" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_1297f7f34504f6e6504e0cd9e825b1a1" parent="aspace_6aa3323f62eb9c189db033a4f0f6e305" type="Folder">48</container>
           </did>
           <odd id="aspace_73519b37ee95c49b6b38a858bb2ff678">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-08.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-08.</p>
           </odd>
         </c>
         <c id="aspace_ref85_mn6" level="file">
           <did>
             <unittitle>Portrait of woman</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_d7066a6113f22094e59e70baee81d898" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_fe83ea10158d9e9533ee0b3b543e36b5" parent="aspace_d7066a6113f22094e59e70baee81d898" type="Folder">49</container>
+            <container id="aspace_4eace9f33d1d3e82382c819492f2ac95" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_88c10c7b3795f7306b9fc623e82b1ce9" parent="aspace_4eace9f33d1d3e82382c819492f2ac95" type="Folder">49</container>
           </did>
           <odd id="aspace_4fdfb809b7ad6c66578a61bbced47a7d">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-09.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-09.</p>
           </odd>
         </c>
         <c id="aspace_ref87_np1" level="file">
           <did>
             <unittitle>Young woman writing</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_7970389f3e3d7bf304dd27f719590cea" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_90653a2b82ec5b804e1228bafacd9f9e" parent="aspace_7970389f3e3d7bf304dd27f719590cea" type="Folder">50</container>
+            <container id="aspace_35538360040c541c513c6e06f7f5858b" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_03eeed934e4db9a4960fd7436e641bdd" parent="aspace_35538360040c541c513c6e06f7f5858b" type="Folder">50</container>
           </did>
           <odd id="aspace_79331cf6e891ee9d82d191e4699f2128">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-10.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-10.</p>
           </odd>
         </c>
         <c id="aspace_ref89_gmc" level="file">
           <did>
             <unittitle>Old woman with scarf</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_12cf83906278c51aeb2a03c92f5965e3" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_0a7484c4657aa0b41caa4cf0cf09ba31" parent="aspace_12cf83906278c51aeb2a03c92f5965e3" type="Folder">51</container>
+            <container id="aspace_9c32d4227a00b8abf0bb022ef73f2d5c" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_d4e348ad2e48765dfb1bf0ba7afb7608" parent="aspace_9c32d4227a00b8abf0bb022ef73f2d5c" type="Folder">51</container>
           </did>
           <odd id="aspace_3e6ffa8f4dfc5fe2d588b99ca1731621">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-11.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-11.</p>
           </odd>
         </c>
         <c id="aspace_ref91_lfw" level="file">
           <did>
             <unittitle>Old woman in shawl</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_fc67b181cd775039a3b74e06f568dfbc" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_dbb37f94f933a188b3256ac00a675dbd" parent="aspace_fc67b181cd775039a3b74e06f568dfbc" type="Folder">52</container>
+            <container id="aspace_101a1d66778ea0a46891858e8467ad58" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_bda19ecd600d63fcdd87faf2bdeb276f" parent="aspace_101a1d66778ea0a46891858e8467ad58" type="Folder">52</container>
           </did>
           <odd id="aspace_6d5b9fd25d5861e5ceaa14def53f2bda">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-12.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-12.</p>
           </odd>
         </c>
         <c id="aspace_ref93_302" level="file">
           <did>
             <unittitle>Old woman sitting</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_1af80dd84b4b6d9b3fcc58e6e3b1ba44" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_ca114f9c2660703edc744bf21fe03f07" parent="aspace_1af80dd84b4b6d9b3fcc58e6e3b1ba44" type="Folder">53</container>
+            <container id="aspace_ebf461765379b72d8d43d921db5bb126" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_fc2e600472301001ae81a0cd6ecfbbc8" parent="aspace_ebf461765379b72d8d43d921db5bb126" type="Folder">53</container>
           </did>
           <odd id="aspace_85dbf5f16d72268d67993b1db1b25fb8">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-13.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-13.</p>
           </odd>
         </c>
         <c id="aspace_ref95_gyf" level="file">
           <did>
             <unittitle>Young child</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_1e4e3dc9a616f4a859367ac3d7af2fe0" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_0bbea9a76b1c890645ab7c04852d14ea" parent="aspace_1e4e3dc9a616f4a859367ac3d7af2fe0" type="Folder">54</container>
+            <container id="aspace_1a62e601a24d2499db646abc5eb72a6f" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_22319678ca2e3a9bc489784cff16f3cd" parent="aspace_1a62e601a24d2499db646abc5eb72a6f" type="Folder">54</container>
           </did>
           <odd id="aspace_49401ed731ddfaf31fb518234319f41b">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-14.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-14.</p>
           </odd>
         </c>
         <c id="aspace_ref97_ap4" level="file">
           <did>
             <unittitle>Young boy in cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_45adbe649170f7c17668e0a9183a5625" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_3316c6e6bc14537b07ae7146ac86e7a0" parent="aspace_45adbe649170f7c17668e0a9183a5625" type="Folder">55</container>
+            <container id="aspace_42344b1131ff6f233e9aa7bd1bb1f0b2" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_06942a6047bf22772c15ed438c5420e0" parent="aspace_42344b1131ff6f233e9aa7bd1bb1f0b2" type="Folder">55</container>
           </did>
           <odd id="aspace_144aff237767d0c49e31db178e4dbbf8">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-15.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-15.</p>
           </odd>
         </c>
         <c id="aspace_ref99_atj" level="file">
           <did>
             <unittitle>Young boy in cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_aafc7540f71f71036ed87f6e86462f52" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_3e74511bcefecf30f644b4341657d58f" parent="aspace_aafc7540f71f71036ed87f6e86462f52" type="Folder">56</container>
+            <container id="aspace_139a72ccc8dfc352252faf804ad04ca4" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_8768ffe5caed57cd50d0f5a1f321c18c" parent="aspace_139a72ccc8dfc352252faf804ad04ca4" type="Folder">56</container>
           </did>
           <odd id="aspace_05280d7e79f0383a3f4c0c6cbd91a4b7">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-16.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-16.</p>
           </odd>
         </c>
         <c id="aspace_ref101_zdj" level="file">
           <did>
             <unittitle>Young boy with winter hat</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_bc6058ae50c68f6615c3fefa1fa0b50e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_1e6b0691f5c70d37bf21c17c42b61bfd" parent="aspace_bc6058ae50c68f6615c3fefa1fa0b50e" type="Folder">57</container>
+            <container id="aspace_033603c8f98a2da79e6449142d531d59" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_5e1fbc4c6a50f2d8baf6c7dbc7c49291" parent="aspace_033603c8f98a2da79e6449142d531d59" type="Folder">57</container>
           </did>
           <odd id="aspace_fc955908a2bf99f2f2c7c12d10fd89fe">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-17.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-17.</p>
           </odd>
         </c>
         <c id="aspace_ref103_ym2" level="file">
           <did>
             <unittitle>Young boy with hat</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_8068d9bb5f6562e992b8e4db71e323d0" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_208f613a496f65dd8a2bb60dc3b5535a" parent="aspace_8068d9bb5f6562e992b8e4db71e323d0" type="Folder">58</container>
+            <container id="aspace_30f04b10fd3b3775dbcc87018aba10be" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_3e8abce266f550614186b95b02f4e775" parent="aspace_30f04b10fd3b3775dbcc87018aba10be" type="Folder">58</container>
           </did>
           <odd id="aspace_7a1c9d9bc4c806b2e68ff8ece05516e5">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-18.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-18.</p>
           </odd>
         </c>
         <c id="aspace_ref105_axg" level="file">
           <did>
             <unittitle>Young beggar</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_1e4a546456584266cd2c7d435b3880c0" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_c67d9a48fcd783b097e5636f4355649c" parent="aspace_1e4a546456584266cd2c7d435b3880c0" type="Folder">59</container>
+            <container id="aspace_304989c62bb68a9766d7016e4efb5900" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_9a305fae8b8ef201cd605565202bea2d" parent="aspace_304989c62bb68a9766d7016e4efb5900" type="Folder">59</container>
           </did>
           <odd id="aspace_df0b65b4708e7a6404126b0efc210db7">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-19.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-19.</p>
           </odd>
         </c>
         <c id="aspace_ref107_r6o" level="file">
           <did>
             <unittitle>Young man with glasses</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_aa4de05b2f3686a9fdb0f85f612680b4" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_bb20debbcd1aad57aaf1db30f039a4f2" parent="aspace_aa4de05b2f3686a9fdb0f85f612680b4" type="Folder">60</container>
+            <container id="aspace_fc05b6ce4787f0a1b33a1555ebe495d3" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_06a3469c22752608b59d26812a0ae37e" parent="aspace_fc05b6ce4787f0a1b33a1555ebe495d3" type="Folder">60</container>
           </did>
           <odd id="aspace_2c1b5d2293e140410df38c9475f1f844">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-20.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-20.</p>
           </odd>
         </c>
         <c id="aspace_ref109_t2e" level="file">
           <did>
             <unittitle>Portrait of man</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_899b3f4b41129925f10b9d40284f94d1" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_93eb251909131a3c7ae3df30a8fac1fa" parent="aspace_899b3f4b41129925f10b9d40284f94d1" type="Folder">61</container>
+            <container id="aspace_9cf7c3dd71645b5b8afd0a37a5eda5cf" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_5557d8527bffa3341aeab6f8b225397a" parent="aspace_9cf7c3dd71645b5b8afd0a37a5eda5cf" type="Folder">61</container>
           </did>
           <odd id="aspace_f2f26cc02733ab6a5dc243ee5d8ede4a">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-21.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-21.</p>
           </odd>
         </c>
         <c id="aspace_ref111_cgy" level="file">
           <did>
             <unittitle>Portrait of old man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_42677dbcc0f8b766ea322973f666fbcd" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_30d56d5549d874a254963aa38f8e68b0" parent="aspace_42677dbcc0f8b766ea322973f666fbcd" type="Folder">62</container>
+            <container id="aspace_a0d2b8758570f810ab963c9cc8e60fee" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_77b84cb8b66540fab52fc0a38413e107" parent="aspace_a0d2b8758570f810ab963c9cc8e60fee" type="Folder">62</container>
           </did>
           <odd id="aspace_e391a86a91ef532184ed0bf7e9c4d9fe">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-22.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-22.</p>
           </odd>
         </c>
         <c id="aspace_ref113_zrb" level="file">
           <did>
             <unittitle>Portrait of man with scarf</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_4c047aecb9a82cda8a744f2c9dcec3e7" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_0d2975d6afceb5945dd728759aede41c" parent="aspace_4c047aecb9a82cda8a744f2c9dcec3e7" type="Folder">63</container>
+            <container id="aspace_727d7419b8eafc33b9877cea6c54b485" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_f58b3f4e992eedaf1404f0d0d71ddfda" parent="aspace_727d7419b8eafc33b9877cea6c54b485" type="Folder">63</container>
           </did>
           <odd id="aspace_b1a3d3bf8cd2234abaf55b5d80c80cf3">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-23.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-23.</p>
           </odd>
         </c>
         <c id="aspace_ref115_a21" level="file">
           <did>
             <unittitle>Portrait of old man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_9e6840dc930747acef4d0c999b7e2e2f" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_a80242c2895b03cc14078613d51b6d0a" parent="aspace_9e6840dc930747acef4d0c999b7e2e2f" type="Folder">64</container>
+            <container id="aspace_a35f1d1f18f3b066534d16afcacb8d9b" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_032f76a1863c1a11aa874c8fe3c2af7b" parent="aspace_a35f1d1f18f3b066534d16afcacb8d9b" type="Folder">64</container>
           </did>
           <odd id="aspace_d89427a3814e2d749e29c7b40d066ac7">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-24.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-24.</p>
           </odd>
         </c>
         <c id="aspace_ref117_fue" level="file">
           <did>
             <unittitle>Old man with pipe</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_4f8c36f13ea3c1701e4df70bc31546dd" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_2c4ddc15d5eb109ed2277cda2bada4c6" parent="aspace_4f8c36f13ea3c1701e4df70bc31546dd" type="Folder">65</container>
+            <container id="aspace_441fb695feda9486b6ebaebd6b48dc89" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_c0a583f6813decf691faf6687cc4a327" parent="aspace_441fb695feda9486b6ebaebd6b48dc89" type="Folder">65</container>
           </did>
           <odd id="aspace_8ce35afd9499c3f4603e0286d69c68a4">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-25.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-25.</p>
           </odd>
         </c>
         <c id="aspace_ref119_hn6" level="file">
           <did>
             <unittitle>Old man with pipe</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_b263b79961de0431399a505ed29f7270" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_264f9296bbf71df9fe1ca30c20e64b82" parent="aspace_b263b79961de0431399a505ed29f7270" type="Folder">66</container>
+            <container id="aspace_f4adc78af20a5777786433cbe010a3db" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_796ab93f4e8494afc93088c5e22dc597" parent="aspace_f4adc78af20a5777786433cbe010a3db" type="Folder">66</container>
           </did>
           <odd id="aspace_d8cd099cd18bfd0d865f48c4b2925a55">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-26.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-26.</p>
           </odd>
         </c>
         <c id="aspace_ref121_we3" level="file">
           <did>
             <unittitle>Old man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_56abf260256ce5acf07dc536119290bf" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_73e1c667e434a51b16d65ae81c39975b" parent="aspace_56abf260256ce5acf07dc536119290bf" type="Folder">67</container>
+            <container id="aspace_3f68d77ff8b69111361637170d56bb85" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_dc9e2b4a2248ab8cab5e4c01235d044a" parent="aspace_3f68d77ff8b69111361637170d56bb85" type="Folder">67</container>
           </did>
           <odd id="aspace_f7e5a4dab6319fa1fd8fc5d751b3631d">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-27.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-27.</p>
           </odd>
         </c>
         <c id="aspace_ref123_w3f" level="file">
           <did>
             <unittitle>Profile of old man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_7ecdc7b24a2cfa92357f61064519c921" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_5a680855609785eaac9595eec073f27b" parent="aspace_7ecdc7b24a2cfa92357f61064519c921" type="Folder">68</container>
+            <container id="aspace_c4daa0a5c0c8fe3be46600cabf5ef385" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_d927da8b41c6f2a0f9fb29b8c16d8e62" parent="aspace_c4daa0a5c0c8fe3be46600cabf5ef385" type="Folder">68</container>
           </did>
           <odd id="aspace_8eb1ef60df416c3c70d3ee59c7c9a93d">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-28.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-28.</p>
           </odd>
         </c>
         <c id="aspace_ref125_e58" level="file">
           <did>
             <unittitle>Man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_ad1969c9dea11b416108e80832d3cd61" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_0d9263f8e62eec3c094473b2f6ba8345" parent="aspace_ad1969c9dea11b416108e80832d3cd61" type="Folder">69</container>
+            <container id="aspace_4c511529ca8cab395c8c763f7a61a10d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_35ebf858ebce19f80b6b4fafb402650a" parent="aspace_4c511529ca8cab395c8c763f7a61a10d" type="Folder">69</container>
           </did>
           <odd id="aspace_45ff6de4ee703d64734cfdb2d35416bf">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-29.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-29.</p>
           </odd>
         </c>
         <c id="aspace_ref127_hls" level="file">
           <did>
             <unittitle>Man with cap</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_f8e926dd35d87645a9bc49090dfc1a61" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_37a4cf56467d6949d9836bcee55298ab" parent="aspace_f8e926dd35d87645a9bc49090dfc1a61" type="Folder">70</container>
+            <container id="aspace_e8e95e0b782b61bc583b297143edef83" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_9cb93b325226284b5b7eb4d51fbf0ddd" parent="aspace_e8e95e0b782b61bc583b297143edef83" type="Folder">70</container>
           </did>
           <odd id="aspace_20c027de7d4da7cd9b0b0a0e01b6df4d">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-30.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-30.</p>
           </odd>
         </c>
         <c id="aspace_ref129_u0d" level="file">
           <did>
             <unittitle>Man with cane</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_1dc6d883ac5d3c5c4d93908c52af92bf" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_8b971f9027ee22dd47978a9962313c24" parent="aspace_1dc6d883ac5d3c5c4d93908c52af92bf" type="Folder">71</container>
+            <container id="aspace_94d8ded38ccf3b11ac574a4cdb5db3d9" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_24d77ad31c89705dfcf9a35b70eaaaed" parent="aspace_94d8ded38ccf3b11ac574a4cdb5db3d9" type="Folder">71</container>
           </did>
           <odd id="aspace_c0faea98e1e48c90554d8d218b77fc4a">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-31.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-31.</p>
           </odd>
         </c>
         <c id="aspace_ref131_yrf" level="file">
           <did>
             <unittitle>Profile of man</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_4eaf0d78c3f5299b291150393fb005b6" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_a37acd3b34444717c6cefe2e11c7656a" parent="aspace_4eaf0d78c3f5299b291150393fb005b6" type="Folder">72</container>
+            <container id="aspace_0813b2a1194475d6e17aa03e09abf40d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_3673cefbf58817783c1f85bb152918ff" parent="aspace_0813b2a1194475d6e17aa03e09abf40d" type="Folder">72</container>
           </did>
           <odd id="aspace_34a8501cf6309dd2c786560c8dc562f0">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-32.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-32.</p>
           </odd>
         </c>
         <c id="aspace_ref133_5lz" level="file">
           <did>
             <unittitle>Old man</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_4b3fd59cf568c13e86e60759bc9231d6" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_40717d419cb97848990276d893866af2" parent="aspace_4b3fd59cf568c13e86e60759bc9231d6" type="Folder">73</container>
+            <container id="aspace_1ce2fba4e9fe472068f1f4b2572dd25a" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_6bce06240dc63aa5d87ce6b77b44b05b" parent="aspace_1ce2fba4e9fe472068f1f4b2572dd25a" type="Folder">73</container>
           </did>
           <odd id="aspace_59a0916a835d77d6e5ecb3da91269ceb">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-33.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-33.</p>
           </odd>
         </c>
         <c id="aspace_ref135_mck" level="file">
           <did>
             <unittitle>Old man</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_f4ae7e022a4cb4a30b75181176f507cf" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_d3a31322ea0a370990f8e7131a0215ac" parent="aspace_f4ae7e022a4cb4a30b75181176f507cf" type="Folder">74</container>
+            <container id="aspace_7e27cd6ae5bde7b7c58ab799332651f5" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_8a1a71a3fa7390807a3c5320d51e8076" parent="aspace_7e27cd6ae5bde7b7c58ab799332651f5" type="Folder">74</container>
           </did>
           <odd id="aspace_564a308a963a6c103cc318bae719157a">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-34.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-34.</p>
           </odd>
         </c>
         <c id="aspace_ref137_70p" level="file">
           <did>
             <unittitle>Man sitting</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_617729bea7ae5162f9aec2c8125d260f" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_041c08659291cc712365643574bc526d" parent="aspace_617729bea7ae5162f9aec2c8125d260f" type="Folder">75</container>
+            <container id="aspace_8a77d3e60b3ff66fa12be60dc423297e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_525ff4cb37226c12033996d710609999" parent="aspace_8a77d3e60b3ff66fa12be60dc423297e" type="Folder">75</container>
           </did>
           <odd id="aspace_6ec112984942bfe8ab8379a6cf143cfb">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-35.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-35.</p>
           </odd>
         </c>
         <c id="aspace_ref139_pbu" level="file">
           <did>
             <unittitle>Old man reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_00ffaa5b139cc7ae1f2adf1d428c0814" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_d55dab87c0a71d277ed56ec636b17729" parent="aspace_00ffaa5b139cc7ae1f2adf1d428c0814" type="Folder">76</container>
+            <container id="aspace_49f2d15027431ebbd433a5bb65093e26" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_d9446beb39aca65399b171e58b614387" parent="aspace_49f2d15027431ebbd433a5bb65093e26" type="Folder">76</container>
           </did>
           <odd id="aspace_db39edc6f6e79c93460f4b67f9a56661">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-36.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-36.</p>
           </odd>
         </c>
         <c id="aspace_ref141_ggd" level="file">
           <did>
             <unittitle>Man reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_59a67003b28b4bfa36762d08e534487e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_43e253eb05c9a39f08bdfdcb880f96c0" parent="aspace_59a67003b28b4bfa36762d08e534487e" type="Folder">77</container>
+            <container id="aspace_8078776eb04cb17cd98d7d8af347fae5" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_69e16d8ba1fc9b794e8b5eb49cd79776" parent="aspace_8078776eb04cb17cd98d7d8af347fae5" type="Folder">77</container>
           </did>
           <odd id="aspace_ac0727727310059436266c102e30c1ed">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-37.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-37.</p>
           </odd>
         </c>
         <c id="aspace_ref143_geo" level="file">
           <did>
             <unittitle>Man sitting in library</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_6733e1ee4196ef3c98bebe31289d6b8b" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_2e30496e7bd49b150fdafcccac6237cd" parent="aspace_6733e1ee4196ef3c98bebe31289d6b8b" type="Folder">78</container>
+            <container id="aspace_59237bfcca6ee65da83633c281e0486a" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_a80152ea9f9c77388dd702c985981952" parent="aspace_59237bfcca6ee65da83633c281e0486a" type="Folder">78</container>
           </did>
           <odd id="aspace_d837425c46c0a881c412d8a5e4c48f12">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-38.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-38.</p>
           </odd>
         </c>
         <c id="aspace_ref145_oxm" level="file">
           <did>
             <unittitle>Old man reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_cf34fe7d48387ed7461617e7a4882e3d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_397191f4e6371bcdcb9557f87603939a" parent="aspace_cf34fe7d48387ed7461617e7a4882e3d" type="Folder">79</container>
+            <container id="aspace_84f2b790df97fece808c8a1593f859bd" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_791f6c3c56c6f05685777375fee3d04b" parent="aspace_84f2b790df97fece808c8a1593f859bd" type="Folder">79</container>
           </did>
           <odd id="aspace_36702e92418532597d5e46e114ad20f1">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-39.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-39.</p>
           </odd>
         </c>
         <c id="aspace_ref147_bwh" level="file">
           <did>
             <unittitle>Man reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_1928dec81bb9de5c80947c18ec7a16cf" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_6b2dbf1e8b7f2a52a8b9abfa830e8211" parent="aspace_1928dec81bb9de5c80947c18ec7a16cf" type="Folder">80</container>
+            <container id="aspace_8ff50dc3ec85bcc7205e96a03b75307c" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_2932ec8db556324fd2a90a215b5d3a7b" parent="aspace_8ff50dc3ec85bcc7205e96a03b75307c" type="Folder">80</container>
           </did>
           <odd id="aspace_1747b6d9b3b092577e8a113d969e2790">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-40.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-40.</p>
           </odd>
         </c>
         <c id="aspace_ref149_a9t" level="file">
           <did>
             <unittitle>Young boy reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_0d1cc19dec6dfc9cd3f3828c0c52f4a4" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_684808265b0f5aa763947c96b2a7c630" parent="aspace_0d1cc19dec6dfc9cd3f3828c0c52f4a4" type="Folder">81</container>
+            <container id="aspace_0967edda19ee2b20e32d42108734704d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_a31111176a9d3a280178d4e36f1df2f8" parent="aspace_0967edda19ee2b20e32d42108734704d" type="Folder">81</container>
           </did>
           <odd id="aspace_04ddede720a3389c1d460d6d771add8a">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-41.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-41.</p>
           </odd>
         </c>
         <c id="aspace_ref151_vpy" level="file">
           <did>
             <unittitle>Young man with books under his arm</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_4377135350fe63ddb004f090f2b2d7d3" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_c6f402b006a669a8fc6a829e87505e4c" parent="aspace_4377135350fe63ddb004f090f2b2d7d3" type="Folder">82</container>
+            <container id="aspace_701f5b29b81b08307e11d4d5601902ca" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_e1dce66cbb62f8ff1eb6ef4e907c3e57" parent="aspace_701f5b29b81b08307e11d4d5601902ca" type="Folder">82</container>
           </did>
           <odd id="aspace_c7021b833c011eeb6425fed13337f578">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-42.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-42.</p>
           </odd>
         </c>
         <c id="aspace_ref153_w5q" level="file">
           <did>
             <unittitle>Rabbi reading</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_0d7ca6f2f0c0bdb345faf0aea022f824" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_6a31e1e0b9239795a7fe5cec0e5e2bb7" parent="aspace_0d7ca6f2f0c0bdb345faf0aea022f824" type="Folder">83</container>
+            <container id="aspace_72bcdd7f7c05bc470e1fbabcd9cf5572" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_9638ec260926940b26c2637a22171a83" parent="aspace_72bcdd7f7c05bc470e1fbabcd9cf5572" type="Folder">83</container>
           </did>
           <odd id="aspace_aa20e00aeffeee2daae0d33ec4a652dd">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-43.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-43.</p>
           </odd>
         </c>
         <c id="aspace_ref155_yva" level="file">
           <did>
             <unittitle>Man with lulov and etrog</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_e46f4a3ab15ef0a25cc5443ecdcb8f3d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_e77bc725217218c07d3147d01283d3b8" parent="aspace_e46f4a3ab15ef0a25cc5443ecdcb8f3d" type="Folder">84</container>
+            <container id="aspace_72dfa157a6ac9c844ee1efe31f7bd118" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_32557c2d2a96822ccba6b66aecfbf25d" parent="aspace_72dfa157a6ac9c844ee1efe31f7bd118" type="Folder">84</container>
           </did>
           <odd id="aspace_ba5e56e6d2d04ea0be8ad014cfc4db6c">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-44.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-44.</p>
           </odd>
         </c>
         <c id="aspace_ref157_3nk" level="file">
           <did>
             <unittitle>Man pulling cart</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_c1f5a6e58a51e906f0342a09c67a07e9" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_f0503885c9a2187f0bb81e7e2723066b" parent="aspace_c1f5a6e58a51e906f0342a09c67a07e9" type="Folder">85</container>
+            <container id="aspace_4e0e0e6898deca1a746acec06f8ad6fb" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_26a4489d0478ef3edf8103b2eff033b0" parent="aspace_4e0e0e6898deca1a746acec06f8ad6fb" type="Folder">85</container>
           </did>
           <odd id="aspace_8a0651e9f7786090e7255f24285cbcdf">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-45.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-45.</p>
           </odd>
         </c>
         <c id="aspace_ref159_65f" level="file">
           <did>
             <unittitle>Man with bucket</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_f410f1377d356d3efcb826c7bdb7f076" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_3d02cbe59e479083c231b521b3928e70" parent="aspace_f410f1377d356d3efcb826c7bdb7f076" type="Folder">86</container>
+            <container id="aspace_c5567a845dcf68cdafb858bf6e37c16e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_76908f70271a78724d56c6d607980516" parent="aspace_c5567a845dcf68cdafb858bf6e37c16e" type="Folder">86</container>
           </did>
           <odd id="aspace_317e7da9c54cd1ca4446d09c1c310337">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-46.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-46.</p>
           </odd>
         </c>
         <c id="aspace_ref161_cpr" level="file">
           <did>
             <unittitle>Man carrying sack</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_33c637cf9eb50d8f4d5160de1cbeea9d" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_09106f06e03ab2855f13dc485fa562d8" parent="aspace_33c637cf9eb50d8f4d5160de1cbeea9d" type="Folder">87</container>
+            <container id="aspace_6c172e1296007a7bc32739cc36a3f943" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_f9651de6e499300deabcf604ec54aeaa" parent="aspace_6c172e1296007a7bc32739cc36a3f943" type="Folder">87</container>
           </did>
           <odd id="aspace_0e492f6255a00e018982be3d7cbd6f1d">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-47.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-47.</p>
           </odd>
         </c>
         <c id="aspace_ref163_vmx" level="file">
           <did>
             <unittitle>Tailor</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_5d5f8e141ca69d034f0ebede03dbd9ca" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_37698a3ce45384d3aa63b8735cfc12dd" parent="aspace_5d5f8e141ca69d034f0ebede03dbd9ca" type="Folder">88</container>
+            <container id="aspace_d84233542edee24845eadeeba261cb7e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_752d50f6bbba0d71248772bb6dc93728" parent="aspace_d84233542edee24845eadeeba261cb7e" type="Folder">88</container>
           </did>
           <odd id="aspace_6b7fd81ca295e40eaf56576569c42f48">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-48.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-48.</p>
           </odd>
         </c>
         <c id="aspace_ref165_rjv" level="file">
           <did>
             <unittitle>Shoemaker</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_3b95e1fc0a96275c9f91f1bb2417c947" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_3c78b03f01934d53af9c7761c36cae94" parent="aspace_3b95e1fc0a96275c9f91f1bb2417c947" type="Folder">89</container>
+            <container id="aspace_c9f2abc4e5074ec618936d1738a137ee" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_c153f357aa360990e139a5c392a489e7" parent="aspace_c9f2abc4e5074ec618936d1738a137ee" type="Folder">89</container>
           </did>
           <odd id="aspace_cccb7a15ec2c8b8660b09460c9cd1b0c">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-49.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-49.</p>
           </odd>
         </c>
         <c id="aspace_ref167_uwz" level="file">
           <did>
             <unittitle>Watchmaker</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_6417e5a7c40b60fc36e60625e4f20c3e" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_89bd6b57144dde1f629826d1e5da5b73" parent="aspace_6417e5a7c40b60fc36e60625e4f20c3e" type="Folder">90</container>
+            <container id="aspace_0e558385dca6bc587ccdf160223471ba" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_5dadcb203ca2394659706d4624982a1c" parent="aspace_0e558385dca6bc587ccdf160223471ba" type="Folder">90</container>
           </did>
           <odd id="aspace_3026b87d963ac2424564f77dc0ffb1c9">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-50.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-50.</p>
           </odd>
         </c>
         <c id="aspace_ref169_f2r" level="file">
           <did>
             <unittitle>Synagogue</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_beb7b1c8efdfd4addd40e5cde875482f" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_62e0f35920304b39875d1300a0c580e9" parent="aspace_beb7b1c8efdfd4addd40e5cde875482f" type="Folder">91</container>
+            <container id="aspace_a2ae3b862fda8d84d14c00cb6ff7839c" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_d2795e2f8d1589aa080a9b8db2d52a45" parent="aspace_a2ae3b862fda8d84d14c00cb6ff7839c" type="Folder">91</container>
           </did>
           <odd id="aspace_fac41b76ccbea82197913bec14f49944">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-51.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-51.</p>
           </odd>
         </c>
         <c id="aspace_ref171_sea" level="file">
           <did>
             <unittitle>Rabbi's house</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_2e0fbe48a588bd85096db3c1e531c2a6" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_d67fd68bb8897c8453107b6340dfb593" parent="aspace_2e0fbe48a588bd85096db3c1e531c2a6" type="Folder">92</container>
+            <container id="aspace_e427c7a2ee75b5edea40141d22b13592" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_635318251a78a04c828d22b5ec484c6d" parent="aspace_e427c7a2ee75b5edea40141d22b13592" type="Folder">92</container>
           </did>
           <odd id="aspace_182932d07ca0accb88e5dc88ace3640c">
             <head>General note</head>
-            <p>From the book, "Das Ostjüdische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-52.</p>
+            <p>From the book, "Das OstjÃ¼dische Antlitz" [The Face of Eastern European Jewry], published in 1920. Number given by donor: GW-05-52.</p>
           </odd>
         </c>
         <c id="aspace_ref173_99g" level="file">
           <did>
             <unittitle>Old Jew of Jaffa</unittitle>
             <unitdate datechar="creation">1905</unitdate>
-            <container id="aspace_4a26b1161b2e89a99aaf982da3b5a85a" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_4ca12897c5e52f19d0663ccf31c68686" parent="aspace_4a26b1161b2e89a99aaf982da3b5a85a" type="Folder">93</container>
+            <container id="aspace_05d8aeade98bf5ff67fb99170fa3d689" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_550e0e0bc270d04bbf70f401f1d63601" parent="aspace_05d8aeade98bf5ff67fb99170fa3d689" type="Folder">93</container>
           </did>
           <odd id="aspace_dea6bc987c7d6e0777b36678239a67dc">
             <head>General note</head>
@@ -1086,8 +1085,8 @@
             <unittitle>Heinrich Heine</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_99b720e0a6d7e44ad70b94db62727ccb" label="Graphic Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_d1a2f7ac93a9ce69e1812c23f4b82bda" parent="aspace_99b720e0a6d7e44ad70b94db62727ccb" type="Folder">94</container>
+            <container id="aspace_9913ba68807a5ffbd86ccd053ce4e2c6" label="Graphic Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_90a57128b51fcd4979f2d11499d93086" parent="aspace_9913ba68807a5ffbd86ccd053ce4e2c6" type="Folder">94</container>
           </did>
           <odd id="aspace_643cc8932fe948ab1e3cde8be89b9689">
             <head>General note</head>
@@ -1099,8 +1098,8 @@
             <unittitle>Letter from Hermann Struck to Dr. Schlesinger</unittitle>
             <unitdate datechar="creation" normal="1913/1913" type="inclusive">March 4, 1913</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_3ef781ae1d05a5b8091a988bcc9407b1" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
-            <container id="aspace_c396c1ee2b6bdacb6477990838e6d161" parent="aspace_3ef781ae1d05a5b8091a988bcc9407b1" type="Folder">95</container>
+            <container id="aspace_50f97885b2dc5da662eca9a327be70ac" label="Mixed Materials [GW: 32882017839047]" type="Box">3</container>
+            <container id="aspace_cea45ffd1951da44860f58f789ca2159" parent="aspace_50f97885b2dc5da662eca9a327be70ac" type="Folder">95</container>
           </did>
           <odd id="aspace_504255575cc7e9d72814364d7a6cc70e">
             <head>General note</head>
@@ -1111,8 +1110,8 @@
           <did>
             <unittitle>Declaration of the establishment of the State of Israel</unittitle>
             <unitdate datechar="creation">1948</unitdate>
-            <container id="aspace_0d50e019c453db9bf8112a50d1641d2c" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_9fe81be5b8d6b25fe26700af7c8bef86" parent="aspace_0d50e019c453db9bf8112a50d1641d2c" type="Folder">120</container>
+            <container id="aspace_142cd34e7e71e81e71ee9b808de547dc" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_dfd0c3716332b4973b33d6b0dc8fe6c2" parent="aspace_142cd34e7e71e81e71ee9b808de547dc" type="Folder">120</container>
           </did>
           <odd id="aspace_2d99121ecac2d460cc253059a504c0e8">
             <head>General note</head>
@@ -1123,8 +1122,8 @@
           <did>
             <unittitle>Six Jewish Festivals by Arthur Szyk</unittitle>
             <unitdate datechar="creation">1948</unitdate>
-            <container id="aspace_b40a038d95fd92a45a14d408c8a14dd1" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_8acf2bb6242e652fb62217893d6f23f8" parent="aspace_b40a038d95fd92a45a14d408c8a14dd1" type="Folder">121</container>
+            <container id="aspace_aeba69c4548822c39051109bab9ced9f" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_eab774210683c62198b53e9bf4a51d08" parent="aspace_aeba69c4548822c39051109bab9ced9f" type="Folder">121</container>
           </did>
           <odd id="aspace_ef2a39cc83b97fcd53c784cb691b33f8">
             <head>General note</head>
@@ -1135,8 +1134,8 @@
           <did>
             <unittitle>The United States of America by Arthur Szyk</unittitle>
             <unitdate datechar="creation">1945</unitdate>
-            <container id="aspace_7bcd3720d686de9bae88bbd89a0d5915" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_c9fab1c7d768f7d5f81ae1162f8767df" parent="aspace_7bcd3720d686de9bae88bbd89a0d5915" type="Folder">122</container>
+            <container id="aspace_840dbf01ab883d0898b565dcc4747156" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_e7075a8e1226e55e772f08294bcaccdd" parent="aspace_840dbf01ab883d0898b565dcc4747156" type="Folder">122</container>
           </did>
           <odd id="aspace_178c5ebbc9390c3a4e1a9616877809e3">
             <head>General note</head>
@@ -1147,8 +1146,8 @@
           <did>
             <unittitle>History of Israel by Arthur Szyk</unittitle>
             <unitdate datechar="creation">1948</unitdate>
-            <container id="aspace_b3b3b857ef43bde0af55b67628f79b82" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_2ef3b6eb23f833d8b6671531301110e3" parent="aspace_b3b3b857ef43bde0af55b67628f79b82" type="Folder">123</container>
+            <container id="aspace_d77bf95709468eb532a0a004cae1c302" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_8d9fc26df606d8f0572085ed99f3da2f" parent="aspace_d77bf95709468eb532a0a004cae1c302" type="Folder">123</container>
           </did>
           <odd id="aspace_37ed9a3abc0aea459dc49073174b4f3e">
             <head>General note</head>
@@ -1159,8 +1158,8 @@
           <did>
             <unittitle>Lincoln's Second Inaugural by Arthur Szyk</unittitle>
             <unitdate datechar="creation">1946</unitdate>
-            <container id="aspace_f758ea88d38faee7e98bc8dfe1f34512" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_8685032aafc1d9eaec77f2106bb3c9f1" parent="aspace_f758ea88d38faee7e98bc8dfe1f34512" type="Folder">124</container>
+            <container id="aspace_918f71b5033ec3184698812cd888243e" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_72b4997180ddf8df01b23fe88b0e0cdf" parent="aspace_918f71b5033ec3184698812cd888243e" type="Folder">124</container>
           </did>
           <odd id="aspace_83a92514e5be68c09b2aa07baf626e5e">
             <head>General note</head>
@@ -1171,8 +1170,8 @@
           <did>
             <unittitle>Hillel by Arthur Szyk</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_b1da2d83baf37331c03dbff3bf1b79d3" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
-            <container id="aspace_c6c809476310039968fc1d23dd3ccd96" parent="aspace_b1da2d83baf37331c03dbff3bf1b79d3" type="Folder">125</container>
+            <container id="aspace_59d8761b7afebf05eb28e38e0a4f5b2e" label="Mixed Materials [GW: 32882018002793]" type="Box">14</container>
+            <container id="aspace_4ca3ee7d3776366ffd47e56f57bcd8ac" parent="aspace_59d8761b7afebf05eb28e38e0a4f5b2e" type="Folder">125</container>
           </did>
           <odd id="aspace_7517305d73d3ec6908a346ae535e0692">
             <head>General note</head>
@@ -1183,8 +1182,8 @@
           <did>
             <unittitle>Head of an Old Man in a Cap</unittitle>
             <unitdate datechar="creation">1911</unitdate>
-            <container id="aspace_40642c05ada0d9ceef9218e07300b329" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_d75c72ce5ab7b3cc88da4149324b14d7" parent="aspace_40642c05ada0d9ceef9218e07300b329" type="Folder">126</container>
+            <container id="aspace_50771184528e6b1a70600c8aa4363353" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_1eb262adadcb3afe500bf466995f1a46" parent="aspace_50771184528e6b1a70600c8aa4363353" type="Folder">126</container>
           </did>
         </c>
         <c id="aspace_ref285_ar0" level="file">
@@ -1195,8 +1194,8 @@
             </physdesc>
             <unitdate datechar="creation">After c. 1942</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_e275d70041876abfc4f5b712cbe1c386" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_4facbf78a382373dfee35d8c0beb1ac6" parent="aspace_e275d70041876abfc4f5b712cbe1c386" type="Folder">129</container>
+            <container id="aspace_48c1638df2ac27a7c8ddf7765bafc0c3" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_a7458e1eb5e35dbd771de80346990968" parent="aspace_48c1638df2ac27a7c8ddf7765bafc0c3" type="Folder">129</container>
           </did>
           <odd id="aspace_5f077a781e0fcde16f0b543ebbb701bf">
             <head>General note</head>
@@ -1208,8 +1207,8 @@
             <unittitle>Baruch Ata Bevuach</unittitle>
             <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_e6aeed01f7d64b70dae3502fd0881d2e" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_9159081e15fb8a92c67ce15077d80247" parent="aspace_e6aeed01f7d64b70dae3502fd0881d2e" type="Folder">130</container>
+            <container id="aspace_56bb932dc12c9485c9028e90c21d6611" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_e9f74fca2a714af11e61568cc7ee3190" parent="aspace_56bb932dc12c9485c9028e90c21d6611" type="Folder">130</container>
           </did>
           <odd id="aspace_e145387bcc0033837fd23a893d50ac97">
             <head>General note</head>
@@ -1220,8 +1219,8 @@
           <did>
             <unittitle>Ballad of the Doomed Jews of Europe, Arthur Szyk</unittitle>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_6fe2ce2a711c4533c10aa408991997dd" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_007e8a0c475c2febe5a1c441c1dc91f4" parent="aspace_6fe2ce2a711c4533c10aa408991997dd" type="Folder">131</container>
+            <container id="aspace_22ba4ab9473223a62b247eb4736fe154" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_421d7fa398bf2e7d8b6a3314a171dc41" parent="aspace_22ba4ab9473223a62b247eb4736fe154" type="Folder">131</container>
           </did>
           <odd id="aspace_55b56bba17165cad3ea90fccbd59211c">
             <head>General note</head>
@@ -1233,8 +1232,8 @@
             <unittitle>Razzle-Dazzle, frontispiece illustrated by Arthur Szyk, </unittitle>
             <unitdate datechar="creation">c. 1942</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_abe0c84683e4234901f8d9b7545c005b" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_7a69aa00b8f63f964324a0b9216fe682" parent="aspace_abe0c84683e4234901f8d9b7545c005b" type="Folder">134</container>
+            <container id="aspace_1e8819ce662f328e589ece8f92d2f520" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_a719d7d603c2717fafc217548e261b44" parent="aspace_1e8819ce662f328e589ece8f92d2f520" type="Folder">134</container>
           </did>
           <odd id="aspace_8c0761d8b89275dce8c7824d3e21c168">
             <head>General note</head>
@@ -1248,8 +1247,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>12 Original Photos of the Museum Tel-Aviv (postcard set)</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_dd053e610c843586923ae1040a1d3bdd" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_038e04de7d6089cc81e8c37707461174" parent="aspace_dd053e610c843586923ae1040a1d3bdd" type="Folder">135</container>
+            <container id="aspace_9680e6d0ee755981b6e433bee7f050d0" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_20e98ab83eecbb9b1ce37a8838fe138d" parent="aspace_9680e6d0ee755981b6e433bee7f050d0" type="Folder">135</container>
           </did>
           <odd id="aspace_7ff3183757070bb97b9efe27fedf27d9">
             <head>General note</head>
@@ -1260,7 +1259,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Beautiful Women: Ukiyoe- Bijin Ga</unittitle>
             <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
-            <container id="aspace_a804f6e8a0fecc08c5aee3d657eb1852" label="Mixed Materials" type="map-folder">2</container>
+            <container id="aspace_de98f5fbf11a2839720f316d598ea48c" label="Mixed Materials" type="map-folder">2</container>
           </did>
           <odd id="aspace_05d91ad54918a160648bcedc56840e02">
             <head>General Note</head>
@@ -1271,7 +1270,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Building Jerusalem</unittitle>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_e9f18f01edf3805272933e5b6b6a722a" label="Mixed Materials" type="map-folder">3</container>
+            <container id="aspace_1cd7c10d91aa09fee6f3bb155613ba4c" label="Mixed Materials" type="map-folder">3</container>
           </did>
           <odd id="aspace_02047377b74f001c18bb3d41f8d98b33">
             <head>General Note</head>
@@ -1282,7 +1281,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>The Holy Land in Maps, Views and Photographs of the 15th-19th Centuries</unittitle>
             <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
-            <container id="aspace_b5cf0a459be2ac53e81432edc465725a" label="Mixed Materials" type="map-folder">4</container>
+            <container id="aspace_496fe6f7f63437bbfac655d7bd9b6780" label="Mixed Materials" type="map-folder">4</container>
           </did>
           <odd id="aspace_4b9148833d0281a188d4b14fd9c3d3b3">
             <head>General note</head>
@@ -1293,7 +1292,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Sheviti</unittitle>
             <unitdate datechar="creation">After 1978</unitdate>
-            <container id="aspace_46ab36b2d7556613bf52fc7945077100" label="Mixed Materials" type="map-folder">5</container>
+            <container id="aspace_c99743c6b31db079cbbf08d7737ba03d" label="Mixed Materials" type="map-folder">5</container>
           </did>
           <odd id="aspace_239bfa126986f0c5d07a1e24ebe33a60">
             <head>General note</head>
@@ -1304,7 +1303,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Untitled print of watercolor with rainbow arching over a city</unittitle>
             <unitdate datechar="creation" normal="1967/1990" type="inclusive">c. 1967 - 1990</unitdate>
-            <container id="aspace_b08001c9076f137c8804e3b237165f4e" label="Mixed Materials" type="map-folder">6</container>
+            <container id="aspace_efdd8c80e832377b0df889d6476e2f66" label="Mixed Materials" type="map-folder">6</container>
           </did>
           <odd id="aspace_4c45de5eb4a745c28b4ce6be837c3280">
             <head>General note</head>
@@ -1315,7 +1314,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Ein Gedi- Dead Sea Landscape</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
-            <container id="aspace_6eb22d9e2f47072481e80f3d0e8e8f68" label="Mixed Materials" type="map-folder">7</container>
+            <container id="aspace_b2be8f5cf236c99487a3f8b844990c62" label="Mixed Materials" type="map-folder">7</container>
           </did>
           <odd id="aspace_7cf6d8132f59dd705b1b840a7e594acf">
             <head>General note</head>
@@ -1326,7 +1325,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Untitled print of watercolor landscape with windmill </unittitle>
             <unitdate datechar="creation">Undated</unitdate>
-            <container id="aspace_df089bcdbd9e38dc6474870be05f5975" label="Mixed Materials" type="map-folder">8</container>
+            <container id="aspace_3eaf3e6a71eb261aa7b57f71dd978d1d" label="Mixed Materials" type="map-folder">8</container>
           </did>
           <odd id="aspace_63a6d2ba552054a7e908f80b8ab2740e">
             <head>General note</head>
@@ -1337,7 +1336,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Sheviti</unittitle>
             <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
-            <container id="aspace_be9b679aa96352ac8c1e1dfdda1ec13e" label="Mixed Materials" type="map-folder">9</container>
+            <container id="aspace_b850042dc3021370c8d0242bf39a5ce2" label="Mixed Materials" type="map-folder">9</container>
           </did>
           <odd id="aspace_5e18c4f02deaa37be89ab7a4ed3cd1dd">
             <head>General note</head>
@@ -1349,7 +1348,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Peace on Earth to Men of Good Will, Arthur Szyk </unittitle>
             <unitdate datechar="creation" normal="1946/1985" type="inclusive">After 1946</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_b52689739f3177f73c05f95c2da531f8" label="Mixed Materials" type="map-folder">33</container>
+            <container id="aspace_a72d02edafe162a9e67242b7d026beeb" label="Mixed Materials" type="map-folder">33</container>
           </did>
           <odd id="aspace_9a0c93f07bfd7da1055da3e4ae2f471a">
             <head>General Note</head>
@@ -1361,7 +1360,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>The United States of America, Arthur Szyk</unittitle>
             <unitdate datechar="creation">After 1947</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_abe6faa9b459591c77a7b5bd91279376" label="Mixed Materials" type="map-folder">34</container>
+            <container id="aspace_d326ee44f123391c4ed3a645f8aeb770" label="Mixed Materials" type="map-folder">34</container>
           </did>
           <odd id="aspace_e2b710cb44f0431ae1121d44c3baee7f">
             <head>General note</head>
@@ -1373,7 +1372,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Jerusalem Pictorial and Descriptive: The Holy City in 19th Century Literature </unittitle>
             <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_29f4dbf6852dde5fd13675a2decd49a0" label="Mixed Materials" type="map-folder">35</container>
+            <container id="aspace_851d4f3a10d1cc684acd76626af1fec0" label="Mixed Materials" type="map-folder">35</container>
           </did>
           <odd id="aspace_7ccf2ca5cd7f9acb3ff83c416e06dcef">
             <head>General note</head>
@@ -1385,7 +1384,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Untitled etching of Man and Woman, probably Isaac and Rebecca</unittitle>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_81bf4cf64b775215a94e8679d26134d2" label="Mixed Materials" type="map-folder">36</container>
+            <container id="aspace_f37eec88bb938f85972829bba851e0cd" label="Mixed Materials" type="map-folder">36</container>
           </did>
           <odd id="aspace_0f95dab191bba6a282174b02ec6425a4">
             <head>General note</head>
@@ -1397,7 +1396,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Unbound sheet from Hagadat Volakh (The Wolloch Haggadah), Pessach Haggadah in Memory of the Holocaust </unittitle>
             <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_0332ab8937d5080f11e12b0e138473a5" label="Mixed Materials" type="map-folder">37</container>
+            <container id="aspace_b6887e47c36aff08612c85aa32dd6c33" label="Mixed Materials" type="map-folder">37</container>
           </did>
           <odd id="aspace_452a7a10ad437affa3830cbdb128f5cb">
             <head>General note</head>
@@ -1409,7 +1408,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Sheviti</unittitle>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_291706f3b68a50a93ef70b4d7ec2cf42" label="Mixed Materials" type="map-folder">38</container>
+            <container id="aspace_1d8486876d262073221c138f31ff7e99" label="Mixed Materials" type="map-folder">38</container>
           </did>
           <odd id="aspace_679959ab03ee767da6f74c3ef073b25c">
             <head>General note</head>
@@ -1421,7 +1420,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Ushpizin wall hanging for sukkah</unittitle>
             <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_0d18076cdec93ee76760d475e895534c" label="Mixed Materials" type="map-folder">39</container>
+            <container id="aspace_fc63c923aa966c5057996780882c99a3" label="Mixed Materials" type="map-folder">39</container>
           </did>
           <odd id="aspace_e38c2347c08a519ab937ddd43470266c">
             <head>General note</head>
@@ -1433,7 +1432,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Mizrah (Sheviti)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_41780ca55a2c8ed5ad76ae5f9c2e0ac8" label="Mixed Materials" type="map-folder">40</container>
+            <container id="aspace_75ce558fcc8ccfc685b826516d930e7c" label="Mixed Materials" type="map-folder">40</container>
           </did>
           <odd id="aspace_1e07e12ed31709cb1a14462fea06b8dc">
             <head>General note</head>
@@ -1445,7 +1444,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Mizrah (Ushpizin)</unittitle>
             <unitdate datechar="creation">undated</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_24d475fe17fac0ae640b24b2528fe498" label="Mixed Materials" type="map-folder">41</container>
+            <container id="aspace_994c45533c502f12902147ff59834436" label="Mixed Materials" type="map-folder">41</container>
           </did>
           <odd id="aspace_85849b9bf9042ee43b20a3a95125664d">
             <head>General note</head>
@@ -1457,7 +1456,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Declaration of the Establishment of the State of Israel, Arthur Szyk</unittitle>
             <unitdate datechar="creation">After 1948</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_76b00d9bbdfab31608b9721cdf5cb29d" label="Mixed Materials" type="map-folder">42</container>
+            <container id="aspace_9a7e2645dd3325897699a739edca3a17" label="Mixed Materials" type="map-folder">42</container>
           </did>
           <odd id="aspace_f69583595c43ff115c026d133dbe7fc3">
             <head>General note</head>
@@ -1469,7 +1468,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Jerusalem 3000: Three Millenia of History</unittitle>
             <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_3762247415516503b65d96e820f28016" label="Mixed Materials" type="map-folder">10</container>
+            <container id="aspace_30280cb0b731b77a5d203a1ed39db55f" label="Mixed Materials" type="map-folder">10</container>
           </did>
           <odd id="aspace_32882c020fdf6509b28ae585428c2521">
             <head>General note</head>
@@ -1478,9 +1477,10 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
         </c>
         <c id="aspace_ref293_cwj" level="file">
           <did>
-            <unittitle>Miracles Through Unity&#32;   <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <unittitle>Miracles Through Unityâ€”Purim 1974</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c215a39c5507b0d4dbd9e6bcbd4de57b" label="Mixed Materials" type="map-folder">11</container>
+            <container id="aspace_da849d9602df33f5b72921d4b19743b5" label="Mixed Materials" type="map-folder">11</container>
           </did>
           <odd id="aspace_35a2fbe072caf0d5bf8d78adf23c8725">
             <head>General note</head>
@@ -1489,9 +1489,10 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
         </c>
         <c id="aspace_ref295_d74" level="file">
           <did>
-            <unittitle>Zog Nit Keynmol&#32;    <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <unittitle>Zog Nit Keynmolâ€”We Survive!</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_40bdf6bb70f00b0bcbdd171b68f0e311" label="Mixed Materials" type="map-folder">12</container>
+            <container id="aspace_4b2986e793149cf453aab22b832440da" label="Mixed Materials" type="map-folder">12</container>
           </did>
           <odd id="aspace_511a516beba0b2bbc7ca482541234b28">
             <head>General note</head>
@@ -1503,7 +1504,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>In Congress July 4, 1776, A Declaration by the Representatives of the United States of America, Arthur Szyk</unittitle>
             <unitdate datechar="creation">After 1953</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_a6621b1c71a54da39c85efa347de9e79" label="Mixed Materials" type="map-folder">13</container>
+            <container id="aspace_2cfff50f393e879f7513a02364e2715d" label="Mixed Materials" type="map-folder">13</container>
           </did>
           <odd id="aspace_d1570a18786b33b47119776846f0da1d">
             <head>General note</head>
@@ -1515,7 +1516,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Arthur Szyk Illuminator</unittitle>
             <unitdate datechar="creation">After 1940</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8ec4e62a18b2d5f39e35d9b1ff440ed8" label="Mixed Materials" type="map-folder">14</container>
+            <container id="aspace_f4c932e5356394184e22e520ce9d4eb8" label="Mixed Materials" type="map-folder">14</container>
           </did>
           <odd id="aspace_89cdf107d86b07e92ee78a19fe3e189a">
             <head>General note</head>
@@ -1527,7 +1528,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Share Chanukah with the Children of Israel: We Are One</unittitle>
             <unitdate datechar="creation">Udated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_fd5e5a0c17decc556aacf0cd88b47cc9" label="Mixed Materials" type="map-folder">15</container>
+            <container id="aspace_b1fefd1571c7dbf51c6e3929a7fbbbbc" label="Mixed Materials" type="map-folder">15</container>
           </did>
           <odd id="aspace_9af7ffcfbdb2e800fca80980f6ed26ef">
             <head>General note</head>
@@ -1539,7 +1540,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Israel on My Mind: Israel's Declaration of Independence</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8477c836fa5f7eada9f77de0fde0f539" label="Mixed Materials" type="map-folder">16</container>
+            <container id="aspace_e5bcc5b990b4f694a11e04fb2102b689" label="Mixed Materials" type="map-folder">16</container>
           </did>
           <odd id="aspace_adc064354e33cf08616ed4072a93c1bc">
             <head>General note</head>
@@ -1551,7 +1552,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Five Beloved Cities: Nachum Gutman, in Honor of his 80th Birthday, published by Jacques Soussana</unittitle>
             <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_a281e5ad01cfbf1eee81bf3c7ecc1f28" label="Mixed Materials" type="map-folder">17</container>
+            <container id="aspace_df2115b17e9866c1860f74a4155e6cf5" label="Mixed Materials" type="map-folder">17</container>
           </did>
           <odd id="aspace_ae0f2384dab1f38aabc484185474e84f">
             <head>General note</head>
@@ -1563,7 +1564,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Five Beloved Cities: Nachum Gutman, in Honor of his 80th Birthday, published by Jacques Soussana</unittitle>
             <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_13e0142580342eaccd2339b2210a0ee2" label="Mixed Materials" type="map-folder">18</container>
+            <container id="aspace_27168e708c60aaf4cd093fe649d1d3b8" label="Mixed Materials" type="map-folder">18</container>
           </did>
           <odd id="aspace_e3a85d0c318130456de077915b23827f">
             <head>General note</head>
@@ -1575,7 +1576,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Miron Sima Woodcuts</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_d2333ea348c4e47e24620398ab9a16aa" label="Mixed Materials" type="map-folder">19</container>
+            <container id="aspace_c12aec50a097f6bf5687d6740ecbeeb3" label="Mixed Materials" type="map-folder">19</container>
           </did>
           <odd id="aspace_5516d4713d33d3989c771ecb9cadbd52">
             <head>General note</head>
@@ -1587,7 +1588,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Exhibition of Salvador Dali: Aliya</unittitle>
             <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_ba10a4f5faa57a44aec04483ae5ea217" label="Mixed Materials" type="map-folder">20</container>
+            <container id="aspace_7d29bdf137b18a674d1eff9b2de355f6" label="Mixed Materials" type="map-folder">20</container>
           </did>
           <odd id="aspace_9ed1c99ffd1989c25b03ac3c7722353f">
             <head>General note</head>
@@ -1599,7 +1600,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Marcel Janco: Watercolors 1940-1950</unittitle>
             <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c5bbfac1a34f293c864517ab083073ff" label="Mixed Materials" type="map-folder">21</container>
+            <container id="aspace_572e296c37ddc5f01ed94f2b2e83dff2" label="Mixed Materials" type="map-folder">21</container>
           </did>
           <odd id="aspace_149fbf7a7c91075d18e51be11f570544">
             <head>General note</head>
@@ -1611,7 +1612,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Brauer Haggadah</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_efdb44acf37cc459eefc26759f6677bc" label="Mixed Materials" type="map-folder">22</container>
+            <container id="aspace_3b78fe47ddcd8a8faab388a047471a1b" label="Mixed Materials" type="map-folder">22</container>
           </did>
           <odd id="aspace_84d0987ff241358b08ca407cd275b599">
             <head>General note</head>
@@ -1623,7 +1624,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Art Expo NY</unittitle>
             <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_006d137e016f48a1e2be0bce652c9d7d" label="Mixed Materials" type="map-folder">23</container>
+            <container id="aspace_81c6214d9f2c4c4df7c214a8a2c8d815" label="Mixed Materials" type="map-folder">23</container>
           </did>
           <odd id="aspace_9fbc9e0c33de98f81dca7a06ad443293">
             <head>General note</head>
@@ -1635,7 +1636,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Litvinovsky: Rabbis</unittitle>
             <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_85f92f111f5d57c7d099e3b256460562" label="Mixed Materials" type="map-folder">24</container>
+            <container id="aspace_250aca769793307cfd6cb0fd69da5f5d" label="Mixed Materials" type="map-folder">24</container>
           </did>
           <odd id="aspace_dcdb8916629b0e35e908474af665c85c">
             <head>General note</head>
@@ -1647,7 +1648,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Untitled print of rainbow, hearts, and stylized signature of Agam</unittitle>
             <unitdate datechar="creation">Undated</unitdate>
             <langmaterial><language langcode="heb">Hebrew</language>.</langmaterial>
-            <container id="aspace_b6a0589b91c02d325c5fc39ed0c9ec78" label="Mixed Materials" type="map-folder">25</container>
+            <container id="aspace_e68d96818731360eb1b689ffcc49d427" label="Mixed Materials" type="map-folder">25</container>
           </did>
           <odd id="aspace_137c0b23573b885168fabc8248fc838e">
             <head>General note</head>
@@ -1659,7 +1660,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Marc Chagall: Posters 1953-1977 from the Collection of Goldman's Art Gallery, Haifa</unittitle>
             <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_44a81cdc4fec5a9cfb37dbf88e2f6393" label="Mixed Materials" type="map-folder">26</container>
+            <container id="aspace_99b02bdcd128b5c9d647b6fafe6b6569" label="Mixed Materials" type="map-folder">26</container>
           </did>
           <odd id="aspace_6e7614d4aa1ace5ef7d83e38e7098195">
             <head>General note</head>
@@ -1671,7 +1672,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Michael Eisemann</unittitle>
             <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_79bc65226a1b161c6232396f6da8ef39" label="Mixed Materials" type="map-folder">27</container>
+            <container id="aspace_0360ad0e14d55b0b194e6897a0af64e1" label="Mixed Materials" type="map-folder">27</container>
           </did>
           <odd id="aspace_2b94381e29f1b7fe0612c3b88971dc38">
             <head>General note</head>
@@ -1683,7 +1684,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Theo Tobiasse</unittitle>
             <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_720d5377169d96939f82ad4c84d965f8" label="Mixed Materials" type="map-folder">28</container>
+            <container id="aspace_9c917ec4b30869fe06647aae73f8f047" label="Mixed Materials" type="map-folder">28</container>
           </did>
           <odd id="aspace_9556bd4244710ddf49965411278ba223">
             <head>General note</head>
@@ -1695,7 +1696,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Homage to Jerusalem: Jerusalem in Art</unittitle>
             <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_537301a9d5fcb73a654d5dbac299fb74" label="Mixed Materials" type="map-folder">29</container>
+            <container id="aspace_85baead9f914b67ee4bc6d3c14d2cca3" label="Mixed Materials" type="map-folder">29</container>
           </did>
           <odd id="aspace_b03f84bfeadc555e47cd5bf65c938cf7">
             <head>General note</head>
@@ -1707,7 +1708,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>M. Shemi (1897-1951): Opening of a Permanent Exhibition</unittitle>
             <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_a024f44e305152d8df6f9199fb11b705" label="Mixed Materials" type="map-folder">30</container>
+            <container id="aspace_cf561810f50c5cd110981fa611bae0e4" label="Mixed Materials" type="map-folder">30</container>
           </did>
           <odd id="aspace_b599ff9581e3380a82197e480975d812">
             <head>General note</head>
@@ -1719,7 +1720,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Exhibition: Music in the Bible, The Bible in Music</unittitle>
             <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_a79676c629e767637bd4d2d8f16a5ce0" label="Mixed Materials" type="map-folder">31</container>
+            <container id="aspace_2b23b99352dfc021957b58d705a4a6be" label="Mixed Materials" type="map-folder">31</container>
           </did>
           <odd id="aspace_0cd511b4ec3e9ad82fc638d7087c9b63">
             <head>General note</head>
@@ -1731,7 +1732,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Chess in Art</unittitle>
             <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_225222018a037229292711192378f32d" label="Mixed Materials" type="map-folder">32</container>
+            <container id="aspace_e2b6c2f1813380a55b824e057ff78143" label="Mixed Materials" type="map-folder">32</container>
           </did>
           <odd id="aspace_d01a420cd6146753f0fd9e453af1b0b5">
             <head>General note</head>
@@ -1743,11 +1744,11 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>A Jewish Woman with her Veil and Rich Ornaments  </unittitle>
             <unitdate datechar="creation" normal="1732/1732" type="inclusive">1732</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_cf527c4259eab148b98673def38e85db" label="Mixed Materials" type="map-folder">43</container>
+            <container id="aspace_1779320cf32a514c339d970a4ff93f63" label="Mixed Materials" type="map-folder">43</container>
           </did>
           <odd id="aspace_d805c28a1bd3579fb0783cbfedd0534f">
             <head>General note</head>
-            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. This engraving was meant to accompany the entry for "Veil". </p>
+            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. This engraving was meant to accompany the entry for "Veil". </p>
             <p>Augustin Calmet. An historical, critical, geographical, chronological, and etymological dictionary of the Holy Bible, in three volumes. Samuel D'Oyly and John Colson, translators. London : Printed for J.J. and P. Knapton, D. Midwinter and A. Ward, A. Bettesworth and C. Hitch, J. Pemberton, J. Osborn and T. Longman, C. Rivington, F. Clay [and 3 others in London], 1732.</p>
             <p>9" x 15 1/2"</p>
           </odd>
@@ -1757,11 +1758,11 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>A Jewish Woman Going to the Synagogue </unittitle>
             <unitdate datechar="creation" normal="1732/1732" type="inclusive">1732</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_722af749015cb49c5241db6044514e80" label="Mixed Materials" type="map-folder">44</container>
+            <container id="aspace_b626ac4ff41d7002b8be8a0665eece91" label="Mixed Materials" type="map-folder">44</container>
           </did>
           <odd id="aspace_89d38b725e6a9cae4e4dbb58fe0a3eb0">
             <head>General note</head>
-            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
+            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
             <p>Augustin Calmet. An historical, critical, geographical, chronological, and etymological dictionary of the Holy Bible, in three volumes. Samuel D'Oyly and John Colson, translators. London : Printed for J.J. and P. Knapton, D. Midwinter and A. Ward, A. Bettesworth and C. Hitch, J. Pemberton, J. Osborn and T. Longman, C. Rivington, F. Clay [and 3 others in London], 1732.</p>
             <p>9" x 15 1/2"</p>
           </odd>
@@ -1771,11 +1772,11 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Tephilims or Philacteries of the Jews </unittitle>
             <unitdate datechar="creation" normal="1732/1732" type="inclusive">1732</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c6b0cf137244066fa024fc62817d360c" label="Mixed Materials" type="map-folder">45</container>
+            <container id="aspace_7fedbed60a184e0252ae9bca3c40b32d" label="Mixed Materials" type="map-folder">45</container>
           </did>
           <odd id="aspace_5c85cad3254983754e693d28357799d6">
             <head>General note</head>
-            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
+            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
             <p>Augustin Calmet. An historical, critical, geographical, chronological, and etymological dictionary of the Holy Bible, in three volumes. Samuel D'Oyly and John Colson, translators. London : Printed for J.J. and P. Knapton, D. Midwinter and A. Ward, A. Bettesworth and C. Hitch, J. Pemberton, J. Osborn and T. Longman, C. Rivington, F. Clay [and 3 others in London], 1732.</p>
             <p>9" x 15 1/2"</p>
           </odd>
@@ -1785,11 +1786,11 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>A Jew with the Mezuzoth in his Hand </unittitle>
             <unitdate datechar="creation" normal="1732/1732" type="inclusive">1732</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_de82e4b61de6e9ae4a485df1d54d52db" label="Mixed Materials" type="map-folder">46</container>
+            <container id="aspace_9262f00cdf61d6d228a1c8f29a54f3a0" label="Mixed Materials" type="map-folder">46</container>
           </did>
           <odd id="aspace_259a0e5d401c3bed805c857c8c720e76">
             <head>General note</head>
-            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
+            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
             <p>Augustin Calmet. An historical, critical, geographical, chronological, and etymological dictionary of the Holy Bible, in three volumes. Samuel D'Oyly and John Colson, translators. London : Printed for J.J. and P. Knapton, D. Midwinter and A. Ward, A. Bettesworth and C. Hitch, J. Pemberton, J. Osborn and T. Longman, C. Rivington, F. Clay [and 3 others in London], 1732.</p>
             <p>9 1/4" x 15 1/2"</p>
           </odd>
@@ -1799,38 +1800,38 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>The Court Consisting of XXIII Judges according to the Rabbins </unittitle>
             <unitdate datechar="creation" normal="1732/1732" type="inclusive">1732</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_69a8cf9377157f70c147fbc4b16d868c" label="Mixed Materials" type="map-folder">47</container>
+            <container id="aspace_57993f760c68bf616e5310faeab0f6c6" label="Mixed Materials" type="map-folder">47</container>
           </did>
           <odd id="aspace_d4250664e4b1427b1fb04f6c48e507d0">
             <head>General note</head>
-            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
+            <p>Copper plate engraving taken from the first English-language edition of Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). Subsequent English-language editions contained a different set of plates. </p>
             <p>Augustin Calmet. An historical, critical, geographical, chronological, and etymological dictionary of the Holy Bible, in three volumes. Samuel D'Oyly and John Colson, translators. London : Printed for J.J. and P. Knapton, D. Midwinter and A. Ward, A. Bettesworth and C. Hitch, J. Pemberton, J. Osborn and T. Longman, C. Rivington, F. Clay [and 3 others in London], 1732.</p>
             <p>9 3/8" x 15 1/2"</p>
           </odd>
         </c>
         <c id="aspace_ref347_trz" level="file">
           <did>
-            <unittitle>Le Sanhédrin Ou Grand Conseil Des Juifs </unittitle>
+            <unittitle>Le SanhÃ©drin Ou Grand Conseil Des Juifs </unittitle>
             <unitdate datechar="creation" normal="1722/1783" type="inclusive">c. 1722-1783</unitdate>
             <langmaterial><language langcode="fre">French</language>.</langmaterial>
-            <container id="aspace_2057dc4b90b7cb4d8025609c69ddec00" label="Mixed Materials" type="map-folder">48</container>
+            <container id="aspace_799a99f52ec87e494977953f992d2e39" label="Mixed Materials" type="map-folder">48</container>
           </did>
           <odd id="aspace_7e9d1dd56eb3820b4f0a17637f2ee90e">
             <head>General note</head>
-            <p>(c. 1722-1783) Copper plate engraving taken from Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). </p>
+            <p>(c. 1722-1783) Copper plate engraving taken from Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). </p>
             <p>9 1/2" x 15 1/4"</p>
           </odd>
         </c>
         <c id="aspace_ref349_zc3" level="file">
           <did>
-            <unittitle>Figures des Instruments de Musique dont il est parlé dans l'Ecriture </unittitle>
+            <unittitle>Figures des Instruments de Musique dont il est parlÃ© dans l'Ecriture </unittitle>
             <unitdate datechar="creation" normal="1722/1783" type="inclusive">c. 1722-1783</unitdate>
             <langmaterial><language langcode="fre">French</language>.</langmaterial>
-            <container id="aspace_5d58cb8bbff8c1ba23c2e8811677a30e" label="Mixed Materials" type="map-folder">49</container>
+            <container id="aspace_be58eaf169c372dcc888eaace2dc1786" label="Mixed Materials" type="map-folder">49</container>
           </did>
           <odd id="aspace_dbcaf3c89aebc283982c542facb58b98">
             <head>General note</head>
-            <p>(c. 1722-1783) Copper plate engraving taken from Augustin Calmet's Dictionnaire historique, critique, chronologique, géographique et littéral de la Bible, originally published in Paris (1722). </p>
+            <p>(c. 1722-1783) Copper plate engraving taken from Augustin Calmet's Dictionnaire historique, critique, chronologique, gÃ©ographique et littÃ©ral de la Bible, originally published in Paris (1722). </p>
             <p>9 7/8" x 15 1/4"</p>
           </odd>
         </c>
@@ -1839,7 +1840,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Two leaves from an early English Bible</unittitle>
             <unitdate datechar="creation">c. 17th century</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_6a987465151de2dec64b1b09a0e7144b" label="Mixed Materials" type="map-folder">50</container>
+            <container id="aspace_83cf8c4c4d9508c5d23a00d4b5fc0e50" label="Mixed Materials" type="map-folder">50</container>
           </did>
           <odd id="aspace_fcc0867212f9ff6e5f4f8c4904bdc769">
             <head>General note</head>
@@ -1851,7 +1852,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Leaf from an early English Bible</unittitle>
             <unitdate datechar="creation">c. 17th century</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_8e3a5362836f00404dfa211397f09947" label="Mixed Materials" type="map-folder">51</container>
+            <container id="aspace_d74fe298584fe799cecd5d580809c078" label="Mixed Materials" type="map-folder">51</container>
           </did>
           <odd id="aspace_bfae881d17bfdcf08e9392c9ce1cc94c">
             <head>General note</head>
@@ -1863,7 +1864,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Map of Asia Minor Showing the Land and Rivers of Eden and Illustrating the First Division of the Earth among the Sons of Noah</unittitle>
             <unitdate datechar="creation">c. 1860</unitdate>
-            <container id="aspace_250926709f204690ded967dde426e162" label="Maps" type="map-folder">52</container>
+            <container id="aspace_1293fe53fde9a7be150d02e079d419f9" label="Maps" type="map-folder">52</container>
           </did>
           <odd id="aspace_04d832f66801e3f183f562e4abe1d7a6">
             <head>General note</head>
@@ -1874,21 +1875,21 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Map of the Journeyings of the Israelites from Egypt to Canaan</unittitle>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_abcb2e6ab3c9ff65093a5f03fe0a576b" label="Maps" type="map-folder">53</container>
+            <container id="aspace_323d087ec7d6235b1eaf4d4b7a0f3e5a" label="Maps" type="map-folder">53</container>
           </did>
         </c>
         <c id="aspace_ref366_gzq" level="file">
           <did>
             <unittitle>Map of Palestine in the Time of Christ</unittitle>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_df9d8c4d5375901458acf01b254d7079" label="Maps" type="map-folder">54</container>
+            <container id="aspace_f34633b9f4ed68a8eb3ab12ef2bcd923" label="Maps" type="map-folder">54</container>
           </did>
         </c>
         <c id="aspace_ref382_13b" level="file">
           <did>
             <unittitle>A New Map of Palestine or the Holy Land</unittitle>
             <unitdate datechar="creation">c. 1872</unitdate>
-            <container id="aspace_8188cb431396a8ea50a69ad37bb056b7" label="Mixed Materials" type="map-folder">55</container>
+            <container id="aspace_2bfd2e956700f132a6d7406917feef4a" label="Mixed Materials" type="map-folder">55</container>
           </did>
           <odd id="aspace_c1b560947c7e7775cc0c8203d040bc1d">
             <head>General note</head>
@@ -1901,9 +1902,9 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
         </c>
         <c id="aspace_ref385_awu" level="file">
           <did>
-            <unittitle>Pair of undated color prints bound together: "Die Haupt-Synagoge in Fürth erbaut im Jahre 1616", engraved by G. Löwensohn (1839); and "Synagoge, Innenraum"</unittitle>
+            <unittitle>Pair of undated color prints bound together: "Die Haupt-Synagoge in FÃ¼rth erbaut im Jahre 1616", engraved by G. LÃ¶wensohn (1839); and "Synagoge, Innenraum"</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_517e20284f01e24e020b205c21332eba" label="Mixed Materials" type="map-folder">56</container>
+            <container id="aspace_b0a5323b86cb4b67e502c2066e1a82a0" label="Mixed Materials" type="map-folder">56</container>
           </did>
           <odd id="aspace_997839abaf21f9506b93727847f8dd83">
             <head>General note</head>
@@ -1915,7 +1916,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Genealogica Herodum, engraving by Jan Goeree (1670-1731)</unittitle>
             <unitdate datechar="creation" normal="1714/1714" type="inclusive">1714</unitdate>
             <langmaterial><language langcode="lat">Latin</language>.</langmaterial>
-            <container id="aspace_ebc1b0f3b59ba09f6bba8b53a5cf14e5" label="Mixed Materials" type="map-folder">57</container>
+            <container id="aspace_4b9695cc6a14dbf35d7841bde4d69957" label="Mixed Materials" type="map-folder">57</container>
           </did>
           <odd id="aspace_48f79d3f496faaf55af5ec0c9cde5981">
             <head>General note</head>
@@ -1925,10 +1926,10 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
         </c>
         <c id="aspace_7516f57d0305db45afc909665f0fa9eb" level="file">
           <did>
-            <unittitle>Jérusalem et ses environs (postcard set)</unittitle>
+            <unittitle>JÃ©rusalem et ses environs (postcard set)</unittitle>
             <unitdate datechar="creation">ca. 1900</unitdate>
-            <container id="aspace_b5e70dc5f6fc1ab2ab579a54f7378bcc" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
-            <container id="aspace_41df9b9a6b61257958499186459c421c" parent="aspace_b5e70dc5f6fc1ab2ab579a54f7378bcc" type="Folder">136</container>
+            <container id="aspace_9c5e1f059fc2b81a2f3be21b953ff830" label="Mixed Materials [GW: 32882017523013]" type="Box">15</container>
+            <container id="aspace_750396b227ae474ff1415ffd4efd630a" parent="aspace_9c5e1f059fc2b81a2f3be21b953ff830" type="Folder">136</container>
           </did>
           <acqinfo id="aspace_70a52cea23b46f6f5cfd2765610138d3">
             <head>Immediate Source of Acquisition</head>
@@ -1946,11 +1947,11 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <unitid>K0005 Series 2</unitid>
           <unitdate datechar="creation">1493-1969</unitdate>
           <physdesc id="aspace_dce1bee2b2a6e6ad369f610753b463f3" label="General Physical Description note">5 Linear feet</physdesc>
-          <container id="aspace_7fb401ef288c9d331200e4ba8158e25a" label="Graphic Materials [GW: 32882018001621]" type="Box">12</container>
-          <container id="aspace_2b9ee8fc895111b57f0617955a7d2ca4" label="Mixed Materials [GW: 32882017827505]" type="Box">11</container>
-          <container id="aspace_586afffc553f82eda6e4a5ab3debfa6b" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-          <container id="aspace_648b379e0eb031dcaf9061515d2e5b43" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-          <container id="aspace_4f56f5786bfdc0182d02c30c3ec922a1" label="Mixed Materials [GW: 32882017827562]" type="Box">10</container>
+          <container id="aspace_cbf4caeb62659dade80bb48cce935004" label="Graphic Materials [GW: 32882018001621]" type="Box">12</container>
+          <container id="aspace_b385f29d511f7f3e49d5c3ed6430eecc" label="Mixed Materials [GW: 32882017827505]" type="Box">11</container>
+          <container id="aspace_a0a49a18c62f36d4ca3f686c50888bd0" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+          <container id="aspace_6413fbf4a8e5fd8cce0dfa883f459711" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+          <container id="aspace_e79447ee737916a5bc5132ada7f556fb" label="Mixed Materials [GW: 32882017827562]" type="Box">10</container>
         </did>
         <scopecontent id="aspace_8e6c9312de86f3985fb31f356609481f">
           <head>Scope and Contents note</head>
@@ -1960,8 +1961,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Knock and ye shall enter</unittitle>
             <unitdate datechar="creation" normal="1828/1830" type="inclusive">c. 1828- c. 1830</unitdate>
-            <container id="aspace_f88516e9f4e72dd11c68450a2c4983f4" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_d7e65ca75b76deffb00952bd15f5a50b" parent="aspace_f88516e9f4e72dd11c68450a2c4983f4" type="Folder">32</container>
+            <container id="aspace_ad03b8457c7010baf49cbaf7cfb4d5f5" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_d51e44715e5f8ff1b52d1b4b9d5df4a3" parent="aspace_ad03b8457c7010baf49cbaf7cfb4d5f5" type="Folder">32</container>
           </did>
           <odd id="aspace_533bb0a9ae1718aef41c59bf9d8b0869">
             <head>General note</head>
@@ -1972,8 +1973,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Jews at luncheon (or/ A peep into Dukes place)</unittitle>
             <unitdate datechar="creation">1794</unitdate>
-            <container id="aspace_72890011b3c6fa9b64ab6524d7c03031" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_dae5a780ec67bc92b8aff1a966122ef5" parent="aspace_72890011b3c6fa9b64ab6524d7c03031" type="Folder">33</container>
+            <container id="aspace_a0fad009fddc17575de86b9a85f8539d" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_0b5ec47eab30c5fa14150a151c79f3b6" parent="aspace_a0fad009fddc17575de86b9a85f8539d" type="Folder">33</container>
           </did>
           <odd id="aspace_c27c5fed8477156a656e59c4416b18a1">
             <head>General note</head>
@@ -1984,8 +1985,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>King Jerry treating his Jewish subjects with Westphalia Venison</unittitle>
             <unitdate datechar="creation">1807</unitdate>
-            <container id="aspace_62874b3323358a41dad71a44d97584ff" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_fdcf1bbaefa73dc96f3c2675092216b7" parent="aspace_62874b3323358a41dad71a44d97584ff" type="Folder">34</container>
+            <container id="aspace_b10591c2ceb9d430ccc3fad8611e4ee1" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_5dabf1d7dddef4ec690a0e8d3a01764e" parent="aspace_b10591c2ceb9d430ccc3fad8611e4ee1" type="Folder">34</container>
           </did>
           <odd id="aspace_21b26d6366b9c44f2ca0833080966415">
             <head>General note</head>
@@ -1996,8 +1997,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Humours of Houndsditch (or/ Mrs. Shevi in a longing condition)</unittitle>
             <unitdate datechar="creation">1813</unitdate>
-            <container id="aspace_887a31c38427d14af0163e0036f9c97d" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_f19cb1f7118961a24045f7afbd66d5ae" parent="aspace_887a31c38427d14af0163e0036f9c97d" type="Folder">35</container>
+            <container id="aspace_717fbe82a2a8ab38bc054c6576ec6ba4" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_0f0f7584be6984c8da312c40a572cfcc" parent="aspace_717fbe82a2a8ab38bc054c6576ec6ba4" type="Folder">35</container>
           </did>
           <odd id="aspace_f7df2afa56c03aeba4e06bc1d5f99719">
             <head>General note</head>
@@ -2008,8 +2009,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>A Jew and a bishop</unittitle>
             <unitdate datechar="creation">1796</unitdate>
-            <container id="aspace_3cd98032a1adc1b38263a58f0fe3be87" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_ac7a34f7229bb4fdbd568fd2bc1e5bf1" parent="aspace_3cd98032a1adc1b38263a58f0fe3be87" type="Folder">36</container>
+            <container id="aspace_317a84f6edece0c65c94ce178f855c2e" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_6fe22159a268bf2b8473c3057709bd11" parent="aspace_317a84f6edece0c65c94ce178f855c2e" type="Folder">36</container>
           </did>
           <odd id="aspace_d6b73566e4fc4b8a3a5b7bde361af64b">
             <head>General note</head>
@@ -2020,8 +2021,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Original fifteenth century woodcut</unittitle>
             <unitdate datechar="creation">1493</unitdate>
-            <container id="aspace_cdec7114c9932d52a2f82e65ca2498d3" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_a2c38f454b5baf6086acebf4491b3574" parent="aspace_cdec7114c9932d52a2f82e65ca2498d3" type="Folder">97</container>
+            <container id="aspace_3027bdcd53c3488e42b116b772074d65" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_840d72050c8cfe2ab7b7ca96a6b4ea1f" parent="aspace_3027bdcd53c3488e42b116b772074d65" type="Folder">97</container>
           </did>
           <odd id="aspace_facf926a4393a412eda82521428fb4d0">
             <head>General note</head>
@@ -2032,8 +2033,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Original fifteenth century woodcut</unittitle>
             <unitdate datechar="creation">1493</unitdate>
-            <container id="aspace_92cdc82077aac06fe20147ba34771a32" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_1c4d9b44b4257d2abcca9cf92551a616" parent="aspace_92cdc82077aac06fe20147ba34771a32" type="Folder">98</container>
+            <container id="aspace_34fe50d2209cee8dce036f0672fe816d" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_6dd373b4b169238b9bcc7f15b3bb0cab" parent="aspace_34fe50d2209cee8dce036f0672fe816d" type="Folder">98</container>
           </did>
           <odd id="aspace_7e95a8d3b506d595ba1f7e76e6643bb3">
             <head>General note</head>
@@ -2045,8 +2046,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Finance in the USA is 98% in Jewish hands</unittitle>
             <unitdate datechar="creation">1939-1942</unitdate>
             <langmaterial><language langcode="rus">Russian</language>.</langmaterial>
-            <container id="aspace_17cb3d2fce6565cb9b952a176c2bbf21" label="Mixed Materials [32882017840342]" type="Box">4</container>
-            <container id="aspace_bdeebb727f0d2f6e51a108b9bc515f2f" parent="aspace_17cb3d2fce6565cb9b952a176c2bbf21" type="Folder">37</container>
+            <container id="aspace_81143af2fc3ef8b7c41d38630b27ecb8" label="Mixed Materials [32882017840342]" type="Box">4</container>
+            <container id="aspace_01d0b6b31c5a7bd1d1775184c24ba456" parent="aspace_81143af2fc3ef8b7c41d38630b27ecb8" type="Folder">37</container>
           </did>
           <odd id="aspace_a97526b6b57678d57bfdf8c905647eef">
             <head>General note</head>
@@ -2058,8 +2059,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>The media in the USA in 97% controlled by Jewish hands</unittitle>
             <unitdate datechar="creation">1939-1945</unitdate>
             <langmaterial><language langcode="rus">Russian</language>.</langmaterial>
-            <container id="aspace_dfdea8b9816e34b313eb99f4918fd00d" label="Mixed Materials [32882017840367]" type="Box">5</container>
-            <container id="aspace_5ed15ed68f3763bcd830b4e3d758d539" parent="aspace_dfdea8b9816e34b313eb99f4918fd00d" type="Folder">38</container>
+            <container id="aspace_5454a65726d2741c9feed06270145d5a" label="Mixed Materials [32882017840367]" type="Box">5</container>
+            <container id="aspace_e84aa900b92852e908e34d415b74046e" parent="aspace_5454a65726d2741c9feed06270145d5a" type="Folder">38</container>
           </did>
           <odd id="aspace_82622c415108f4458146a96557568846">
             <head>General note</head>
@@ -2070,8 +2071,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Et derriere: Le Juif</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3ceea3ed2b6f247e49e24f6581973a48" label="Mixed Materials [32882017840375]" type="Box">6</container>
-            <container id="aspace_44c2d5c6f4be898a3ac3f643468750f3" parent="aspace_3ceea3ed2b6f247e49e24f6581973a48" type="Folder">39</container>
+            <container id="aspace_16a188b7fd26a4f2d59038a317a3b23e" label="Mixed Materials [32882017840375]" type="Box">6</container>
+            <container id="aspace_93fbb313cd733188606b7547b69c868e" parent="aspace_16a188b7fd26a4f2d59038a317a3b23e" type="Folder">39</container>
           </did>
           <odd id="aspace_7b8fb40782fcf8ac969556a0459b771e">
             <head>General note</head>
@@ -2082,8 +2083,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Red Army soldier, Are you going to liberate other nations? First liberate yourself from your oppressors!</unittitle>
             <unitdate datechar="creation">1941 ca.</unitdate>
-            <container id="aspace_631c4567323f63a09a6995337f1de483" label="Mixed Materials [32882017840391]" type="Box">7</container>
-            <container id="aspace_e152c40d1193ebcdbda6b1cba441e710" parent="aspace_631c4567323f63a09a6995337f1de483" type="Folder">40</container>
+            <container id="aspace_cab672d8c3636f2f505280c27fc1f688" label="Mixed Materials [32882017840391]" type="Box">7</container>
+            <container id="aspace_71f0f246aa5a8fd42bbffa13200d87c9" parent="aspace_cab672d8c3636f2f505280c27fc1f688" type="Folder">40</container>
           </did>
           <odd id="aspace_db2c401645d7ccd7be8b159b64551dec">
             <head>General note</head>
@@ -2094,8 +2095,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Antisemitic poster from Argentina</unittitle>
             <unitdate datechar="creation">1930 ca.</unitdate>
-            <container id="aspace_01a434fe36d2808c7edbf27257a6d217" label="Mixed Materials [32882017840409]" type="Box">8</container>
-            <container id="aspace_8772459df867ba48f250f5fb25626b19" parent="aspace_01a434fe36d2808c7edbf27257a6d217" type="Folder">95</container>
+            <container id="aspace_5098adbd0b4d51b2f458aacaa61530b8" label="Mixed Materials [32882017840409]" type="Box">8</container>
+            <container id="aspace_57c2fb92e781608c981dbed7ff120c5a" parent="aspace_5098adbd0b4d51b2f458aacaa61530b8" type="Folder">95</container>
           </did>
           <odd id="aspace_ca59b5f15e52db455763a5e30943acda">
             <head>General note</head>
@@ -2106,8 +2107,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Wings of the carrion crow</unittitle>
             <unitdate datechar="creation">1969</unitdate>
-            <container id="aspace_a352521aa0499f378ac5bbd03de52ae2" label="Mixed Materials [32882017840417]" type="Box">9</container>
-            <container id="aspace_afcc1927d1c7282e43a5e066da6aa1e2" parent="aspace_a352521aa0499f378ac5bbd03de52ae2" type="Folder">96</container>
+            <container id="aspace_1f1fd5307010cef324b238ee88b4c72c" label="Mixed Materials [32882017840417]" type="Box">9</container>
+            <container id="aspace_b8077c8af0d330ebf6183699805219c2" parent="aspace_1f1fd5307010cef324b238ee88b4c72c" type="Folder">96</container>
           </did>
           <odd id="aspace_15202a9302ee1a9fe74247248bb3da5a">
             <head>General note</head>
@@ -2118,8 +2119,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Scrapbook of Polish anti-Semitic cartoons</unittitle>
             <unitdate datechar="creation">1900 ca.</unitdate>
-            <container id="aspace_cfd3ce5ac1b6d3a2f6f3c89783f241f5" label="Mixed Materials [GW: 32882017827562]" type="Box">10</container>
-            <container id="aspace_9c4609323a515065fc5c8ca7d21e6fcc" parent="aspace_cfd3ce5ac1b6d3a2f6f3c89783f241f5" type="Folder">99</container>
+            <container id="aspace_e36bca935edbccb4be5e76f06e5fc795" label="Mixed Materials [GW: 32882017827562]" type="Box">10</container>
+            <container id="aspace_64843b37761d53b318c38bdae00d6bb2" parent="aspace_e36bca935edbccb4be5e76f06e5fc795" type="Folder">99</container>
           </did>
           <odd id="aspace_df60d8b64e605487617dbfb956060419">
             <head>General note</head>
@@ -2130,112 +2131,112 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Thirty-three antisemitic cartoons from "Puck" and "Harper's Weekly" periodicals</unittitle>
             <unitdate datechar="creation">1870 ca.</unitdate>
-            <container id="aspace_f3282a3f8da16dbb737f533ab5e16220" label="Mixed Materials [GW: 32882017827505]" type="Box">11</container>
-            <container id="aspace_f6c81a12799c24f16846a96581097d4d" parent="aspace_f3282a3f8da16dbb737f533ab5e16220" type="Folder">100</container>
+            <container id="aspace_0e8e3eb7ded1dda0b0296fabd334fab6" label="Mixed Materials [GW: 32882017827505]" type="Box">11</container>
+            <container id="aspace_3b498c337db79ef0d514a46d3d7b1a02" parent="aspace_0e8e3eb7ded1dda0b0296fabd334fab6" type="Folder">100</container>
           </did>
         </c>
         <c id="aspace_ref216_kji" level="file">
           <did>
             <unittitle>Nazi Flag</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_62a91b2ccf00e319041739349e155632" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
-            <container id="aspace_d33877b42fee62d9a7cbf753ece92395" parent="aspace_62a91b2ccf00e319041739349e155632" type="Folder">101</container>
+            <container id="aspace_bbb1bd13df4769bd07e1dffa6f8baabd" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
+            <container id="aspace_dd323ffe4c966c93cfad15e3ed11d7e7" parent="aspace_bbb1bd13df4769bd07e1dffa6f8baabd" type="Folder">101</container>
           </did>
         </c>
         <c id="aspace_ref217_79e" level="file">
           <did>
             <unittitle>Italian Fascist Flag</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_900429ff5934687cf6edc7e4e7d53fb8" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
-            <container id="aspace_9646de803ba8e636a117d6c9c22cfbc6" parent="aspace_900429ff5934687cf6edc7e4e7d53fb8" type="Folder">102</container>
+            <container id="aspace_d063312697a878747fb769502fdc5e4e" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
+            <container id="aspace_186fadfeaccd2eeb1f34bc0005612b9a" parent="aspace_d063312697a878747fb769502fdc5e4e" type="Folder">102</container>
           </did>
         </c>
         <c id="aspace_ref218_7nr" level="file">
           <did>
             <unittitle>Book of Graphics from Nazi Germany</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_7e7deee97e858a83cc33bb87d989e609" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
-            <container id="aspace_f7ea5f0b5092ea91ae728f6b7519eb29" parent="aspace_7e7deee97e858a83cc33bb87d989e609" type="Folder">103</container>
+            <container id="aspace_1f9d91987446fccc68b21f6b71dba1ab" label="Mixed Materials [GW: 32882018001621]" type="Box">12</container>
+            <container id="aspace_026a08e81d83c95dc6ce41046a8f97bf" parent="aspace_1f9d91987446fccc68b21f6b71dba1ab" type="Folder">103</container>
           </did>
         </c>
         <c id="aspace_ref219_bv5" level="file">
           <did>
             <unittitle>Prerov- Nadrazi</unittitle>
             <unitdate datechar="creation">1906</unitdate>
-            <container id="aspace_c851180ce637228264720b19f864d086" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_dfa16ad31e31f320f8e3d2acab692f6d" parent="aspace_c851180ce637228264720b19f864d086" type="Folder">104</container>
+            <container id="aspace_52e43c4d3f3dc53b97d57ea6a9aebb17" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_3d26c3fe2bc52cf71d19814a480708ba" parent="aspace_52e43c4d3f3dc53b97d57ea6a9aebb17" type="Folder">104</container>
           </did>
         </c>
         <c id="aspace_ref220_rva" level="file">
           <did>
             <unittitle>My Business is Picking Up</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_abe9f815859fcfe36ad7dca59c2b6a26" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_f2c98982769def53933f1dfd8ee562b5" parent="aspace_abe9f815859fcfe36ad7dca59c2b6a26" type="Folder">105</container>
+            <container id="aspace_a7198616855a355588b2aba5579c1d23" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_7205d8f4afbf3639a7c883c6dd1eb951" parent="aspace_a7198616855a355588b2aba5579c1d23" type="Folder">105</container>
           </did>
         </c>
         <c id="aspace_ref221_b9g" level="file">
           <did>
             <unittitle>Jen Drazme Se Povzdy Ceskeho Naroda</unittitle>
             <unitdate datechar="creation">1905-1925</unitdate>
-            <container id="aspace_be06b7ab40021c6556eb334853571807" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_317c7fbcdc341d3b37408d9b3b57581c" parent="aspace_be06b7ab40021c6556eb334853571807" type="Folder">106</container>
+            <container id="aspace_3b8e549b19b8cd42d8ffb385f78bd906" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_c1c9f12d696194cdd9604d7fc7e597e2" parent="aspace_3b8e549b19b8cd42d8ffb385f78bd906" type="Folder">106</container>
           </did>
         </c>
         <c id="aspace_ref222_j7y" level="file">
           <did>
             <unittitle>At Zije Republika</unittitle>
             <unitdate datechar="creation">1905-1925</unitdate>
-            <container id="aspace_0d1a6f0b23bf4d6c0e69bc0a7a7f3ce0" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_42c1655b43a3c23c52a073590b472446" parent="aspace_0d1a6f0b23bf4d6c0e69bc0a7a7f3ce0" type="Folder">107</container>
+            <container id="aspace_1cb0081aba3bf8abfaaad0e855d88bf4" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_81eb90c533a602792c841c554089e94a" parent="aspace_1cb0081aba3bf8abfaaad0e855d88bf4" type="Folder">107</container>
           </did>
         </c>
         <c id="aspace_ref223_2qt" level="file">
           <did>
             <unittitle>I Am Doing Rushing (Russian) Business</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_9a9d8ae11248bf7dea75a7cd925a0a5b" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_1e610eb97bc6a068bf51b95164ca7014" parent="aspace_9a9d8ae11248bf7dea75a7cd925a0a5b" type="Folder">108</container>
+            <container id="aspace_4088e6bf29fd324795567867dde63ac8" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_4e735d467b3fcea775d85919418ca80a" parent="aspace_4088e6bf29fd324795567867dde63ac8" type="Folder">108</container>
           </did>
         </c>
         <c id="aspace_ref224_n2q" level="file">
           <did>
             <unittitle>I'm Passing the Time</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eafdf77bc53c210af365debe8b9de107" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_cc259d4f621e1b440745f7db96ba8458" parent="aspace_eafdf77bc53c210af365debe8b9de107" type="Folder">109</container>
+            <container id="aspace_59524ff2279d38b4a7e218875a5dd0d3" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_89edc0672cde9ee21076f231c5710f13" parent="aspace_59524ff2279d38b4a7e218875a5dd0d3" type="Folder">109</container>
           </did>
         </c>
         <c id="aspace_ref225_ppq" level="file">
           <did>
             <unittitle>Vy Not?</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_bdea1051684097fe99af547317b4c449" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_75561c5170fc973f0348dcef7bd99191" parent="aspace_bdea1051684097fe99af547317b4c449" type="Folder">110</container>
+            <container id="aspace_d0d81531a1c048183e5c35a576470d8b" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_7cf433188e379fa249d938055d28c6a5" parent="aspace_d0d81531a1c048183e5c35a576470d8b" type="Folder">110</container>
           </did>
         </c>
         <c id="aspace_ref226_6t4" level="file">
           <did>
             <unittitle>Such A Business</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_418b9f0d1a1ca8cb1c364047658adff4" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_8d8f450c082c42991607b7ae86c3235d" parent="aspace_418b9f0d1a1ca8cb1c364047658adff4" type="Folder">111</container>
+            <container id="aspace_b8ff7934e38de69e03026146a32af059" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_11542a9280774b8cece71e30a329db84" parent="aspace_b8ff7934e38de69e03026146a32af059" type="Folder">111</container>
           </did>
         </c>
         <c id="aspace_ref227_k78" level="file">
           <did>
             <unittitle>Der Mandelbaum Und Seine Fruchte</unittitle>
             <unitdate datechar="creation">1900-1930</unitdate>
-            <container id="aspace_4fdb8239049a5498a4ceda0d3f09d108" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_0928e5a6088b3088ebc7f917fdd1038e" parent="aspace_4fdb8239049a5498a4ceda0d3f09d108" type="Folder">112</container>
+            <container id="aspace_f921a23f29fa1421aa906c9f071c6b63" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_db08319c93db5aa750700cf9ec5afaa8" parent="aspace_f921a23f29fa1421aa906c9f071c6b63" type="Folder">112</container>
           </did>
         </c>
         <c id="aspace_ref228_3ms" level="file">
           <did>
             <unittitle>Our Flag</unittitle>
             <unitdate datechar="creation">1906 ca.</unitdate>
-            <container id="aspace_22e58ed5434e71ea399106189fcfc50d" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_7076352ed3393ed566f032370dbd975a" parent="aspace_22e58ed5434e71ea399106189fcfc50d" type="Folder">113</container>
+            <container id="aspace_de0f57ed6ad36ffe0f238f6ab65f4f41" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_c999bf5020a5e4a8f0908897359975f7" parent="aspace_de0f57ed6ad36ffe0f238f6ab65f4f41" type="Folder">113</container>
           </did>
           <odd id="aspace_fc13577357f49ed12a91644d18d9efb2">
             <head>General note</head>
@@ -2246,16 +2247,16 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Russian Jews Caricatures of Three Jewish Women</unittitle>
             <unitdate datechar="creation">1928 ca.</unitdate>
-            <container id="aspace_d35cb7841aad23aacd80b81981b85696" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_0a31ddad54885915d2aa33ef0bbbaf9b" parent="aspace_d35cb7841aad23aacd80b81981b85696" type="Folder">114</container>
+            <container id="aspace_a3add52d02af2c7eac0eed9f9a7cdaf3" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_821a0bbb5eb05c90de322214ebe1ef46" parent="aspace_a3add52d02af2c7eac0eed9f9a7cdaf3" type="Folder">114</container>
           </did>
         </c>
         <c id="aspace_ref231_twk" level="file">
           <did>
             <unittitle>The Little Cohen "Haven't You Seen The Little Cohen?"</unittitle>
             <unitdate datechar="creation">1920 ca.</unitdate>
-            <container id="aspace_37e2f68f11638a4cc3eacdb139b79017" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_b4a659e6143a8527898651e09163358f" parent="aspace_37e2f68f11638a4cc3eacdb139b79017" type="Folder">115</container>
+            <container id="aspace_b020fad8829a518daf5af65931cba61f" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_92a1f63927e9fa761e8a078295eb1650" parent="aspace_b020fad8829a518daf5af65931cba61f" type="Folder">115</container>
           </did>
           <odd id="aspace_7a84c97b0e18a44b134a434083216914">
             <head>General note</head>
@@ -2266,8 +2267,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Jewish Scottsman "Say, Kid! If That Aint Camouflage, Ask Me What Is!"</unittitle>
             <unitdate datechar="creation">1918 ca.</unitdate>
-            <container id="aspace_413efa8e7d8f67562f7cf3bdf2f65f51" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_b2baba55700b182d9b50b4be7e30c803" parent="aspace_413efa8e7d8f67562f7cf3bdf2f65f51" type="Folder">116</container>
+            <container id="aspace_ff38071898707ee4af81e876588474a5" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_db807dc31d806e7e0d6c4dc09ceed5c4" parent="aspace_ff38071898707ee4af81e876588474a5" type="Folder">116</container>
           </did>
           <odd id="aspace_696a08d2e4a58f9c68dce615c1796b08">
             <head>General note</head>
@@ -2278,16 +2279,16 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Painted Jewish Caricatures: Jews Are Scratching Their Fleas</unittitle>
             <unitdate datechar="creation">1915 ca.</unitdate>
-            <container id="aspace_32df9dede359201c3834a3a20e7175a1" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_6defe8a98d3c7a1ec902fe023bd642bc" parent="aspace_32df9dede359201c3834a3a20e7175a1" type="Folder">117</container>
+            <container id="aspace_1c88ee2b4cb8a2cba445c8995ddbe56d" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_37545b2e49bb58f0b67387aee43d5430" parent="aspace_1c88ee2b4cb8a2cba445c8995ddbe56d" type="Folder">117</container>
           </did>
         </c>
         <c id="aspace_ref236_gir" level="file">
           <did>
             <unittitle>Levy With A Gun</unittitle>
             <unitdate datechar="creation">1910 ca.</unitdate>
-            <container id="aspace_33759024fd4bb6161939531a567f295e" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_252f61ddf0539200822e29f9980e4a38" parent="aspace_33759024fd4bb6161939531a567f295e" type="Folder">118</container>
+            <container id="aspace_43c98e54e3f752defed387f17102ddb3" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_5518a7df77d8f81b9ac29397e639503a" parent="aspace_43c98e54e3f752defed387f17102ddb3" type="Folder">118</container>
           </did>
           <odd id="aspace_7103a5567d965a80aea5c28bc2b9b0dd">
             <head>General note</head>
@@ -2298,8 +2299,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>Humorous Jewish Caricatures Jewish Merchants Consult</unittitle>
             <unitdate datechar="creation">1908 ca.</unitdate>
-            <container id="aspace_1df9544b1ce3bae656871182657c165c" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_1288986697b365922f6893ffd69cc205" parent="aspace_1df9544b1ce3bae656871182657c165c" type="Folder">119</container>
+            <container id="aspace_3b98cfcd8517631e35aff90c45b7365c" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_115429dd2ce2e97da77ddab9d0618b7f" parent="aspace_3b98cfcd8517631e35aff90c45b7365c" type="Folder">119</container>
           </did>
         </c>
         <c id="aspace_ref239_rtl" level="file">
@@ -2307,8 +2308,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Lodz Ghetto currency</unittitle>
             <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_8958a7f23e3d1a37412619cdd6bc28d8" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_dbdc644c75da6ea5b18816cbf08244b8" parent="aspace_8958a7f23e3d1a37412619cdd6bc28d8" type="Folder">127</container>
+            <container id="aspace_0617c895d70896347b29eac1be9432c6" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_39ebc5576b983dea5619469c71dbf2c0" parent="aspace_0617c895d70896347b29eac1be9432c6" type="Folder">127</container>
           </did>
           <odd id="aspace_fbb2a2624b8686233a2e57da06d54c00">
             <head>General note</head>
@@ -2321,8 +2322,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unitid>Series 2</unitid>
             <unitdate datechar="creation">1939-1945</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_ffa9ad4b2caff427060198868a224eb9" label="Realia [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_eede80f59f39f31ca1209d65c06919b2" parent="aspace_ffa9ad4b2caff427060198868a224eb9" type="Folder">128</container>
+            <container id="aspace_45a925db6c2ad9833f3d254ac5d2d091" label="Realia [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_f1c8bf1813805b709d8a0137bcc6fd53" parent="aspace_45a925db6c2ad9833f3d254ac5d2d091" type="Folder">128</container>
           </did>
           <acqinfo id="aspace_e7bd74238884080a5f35f7780299927d">
             <head>Immediate Source of Acquisition</head>
@@ -2339,8 +2340,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Lodz Ghetto currency</unittitle>
             <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_a3a08e10ee0faafba4a2d45169001964" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
-            <container id="aspace_ac9df12b8a9cbffd1a8aa6aacf1d76f3" parent="aspace_a3a08e10ee0faafba4a2d45169001964" type="Folder">129</container>
+            <container id="aspace_89ad22a8f52451514a252684c52754de" label="Mixed Materials [GW: 32882018001688]" type="Box">13</container>
+            <container id="aspace_0c9cf1789fd2e8309a57437982f14cac" parent="aspace_89ad22a8f52451514a252684c52754de" type="Folder">129</container>
           </did>
           <odd id="aspace_eb30276723e1e35712a5366fc11c2a90">
             <head>General note</head>
@@ -2352,8 +2353,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Directory of Jewish Refugees form (probably from Shanghai) </unittitle>
             <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
             <langmaterial><language langcode="eng">English</language>.</langmaterial>
-            <container id="aspace_c917dd1f2e37d05a872b861c3db4ac70" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
-            <container id="aspace_c40f2f277a759bb39f45410ca9f0dbe7" parent="aspace_c917dd1f2e37d05a872b861c3db4ac70" type="Folder">130</container>
+            <container id="aspace_b930b53e84bda71c28c41c50b2d2bcaf" label="Mixed Materials [GW: 32882017840383]" type="Box">2</container>
+            <container id="aspace_76eada68325c9e84d1b34b9133555c7e" parent="aspace_b930b53e84bda71c28c41c50b2d2bcaf" type="Folder">130</container>
           </did>
           <odd id="aspace_3275e929a93de12cae3ba4f9249a0abf">
             <head>General note</head>
@@ -2364,7 +2365,7 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
           <did>
             <unittitle>German Newspapers</unittitle>
             <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
-            <container id="aspace_30d6ed3c5248c432a3c41345763ce58e" label="Mixed Materials" type="map-folder">1</container>
+            <container id="aspace_18f7d39dd323baf029ad6bac9e59105b" label="Mixed Materials" type="map-folder">1</container>
           </did>
         </c>
       </c>
@@ -2382,8 +2383,8 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Ticket for High Holiday synagogue seat</unittitle>
             <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
             <langmaterial><language langcode="yid">Yiddish</language>.</langmaterial>
-            <container id="aspace_43052b6ee261979b3cb83128852af12e" label="Mixed Materials" type="Box">16</container>
-            <container id="aspace_d0c448153b4804c38a419e4e01311eda" parent="aspace_43052b6ee261979b3cb83128852af12e" type="Folder">132</container>
+            <container id="aspace_8635d85ef1bab76b1707bf25e77ec55f" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_e2e7085ac757536bed69e46a7914bfa8" parent="aspace_8635d85ef1bab76b1707bf25e77ec55f" type="Folder">132</container>
           </did>
           <odd id="aspace_88dd569863cd9012e700717d4ea74121">
             <head>General note</head>
@@ -2396,12 +2397,12 @@ Saroyan, William. Razzle-dazzle: or The human ballet, opera and circus: or There
             <unittitle>Postcard of Traunstein von Ettendorf, Germany</unittitle>
             <unitdate datechar="creation" normal="1916/1916" type="inclusive">April 27, 1916</unitdate>
             <langmaterial><language langcode="ger">German</language>.</langmaterial>
-            <container id="aspace_c838b3d60f2947c5aba692f315128e06" label="Mixed Materials" type="Box">16</container>
-            <container id="aspace_122151e1e9184ac6e8f0938e5858c0c5" parent="aspace_c838b3d60f2947c5aba692f315128e06" type="Folder">133</container>
+            <container id="aspace_2b636a4b47ab84525274b50aad2ff8c4" label="Mixed Materials" type="Box">16</container>
+            <container id="aspace_77f35a5676b5a88ec30ca612d0254a67" parent="aspace_2b636a4b47ab84525274b50aad2ff8c4" type="Folder">133</container>
           </did>
           <odd id="aspace_8065783715bf60ef42155a36ad4ce7dc">
             <head>General note</head>
-            <p>Postcard addressed to Fräulein Erna (illegible surname) in Wiesbaden. The handwritten message is very difficult to read but appears to include "greetings and kisses" from the recipient's brother, whose signature is illegible.</p>
+            <p>Postcard addressed to FrÃ¤ulein Erna (illegible surname) in Wiesbaden. The handwritten message is very difficult to read but appears to include "greetings and kisses" from the recipient's brother, whose signature is illegible.</p>
             <p>Postcard found in I. Edward Kiev Judaica Collection book (BM 675 .F45 A3 1864 v. 1) donated by Walter Kurt Kahn, Professor Emeritus of Engineering and Applied Science at the George Washington University.</p>
           </odd>
         </c>

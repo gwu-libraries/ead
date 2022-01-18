@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='LATIN-1'?>
 <ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
   <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
     <eadid url="http://library.gwu.edu/ead/ms2299.xml">ms2299.xml</eadid>
@@ -22,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-11 11:43:46 -0500</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-01-18 12:02:25 -0500</date>.</creation>
       <langusage>Finding aid written in <language encodinganalog="language">English</language></langusage>
       <descrules>Describing Archives: A Content Standard</descrules>
     </profiledesc>
@@ -105,8 +104,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Post</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">1988-1992</unitdate>
-            <container id="aspace_3e39949cccebb0abf415de85e49b2202" label="Mixed Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_8256c58a0508bce5b4e16d3bad177a40" parent="aspace_3e39949cccebb0abf415de85e49b2202" type="Folder">1</container>
+            <container id="aspace_795fb6f0645a9866415905a7f441a1c3" label="Mixed Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_36bd718eda240e3b4ac1dd9bb4d509d1" parent="aspace_795fb6f0645a9866415905a7f441a1c3" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref10_nwc" level="file">
@@ -114,8 +113,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Post</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">1993-1994</unitdate>
-            <container id="aspace_b2e925e0309d0e6a35d7ad1787e7eb94" label="Mixed Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_82da00995f0a8d79a588bf5ad36ed806" parent="aspace_b2e925e0309d0e6a35d7ad1787e7eb94" type="Folder">2</container>
+            <container id="aspace_f028b737640c392ab45dc8a182c1379f" label="Mixed Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_bfeff4cd3d829a87733c752b158add67" parent="aspace_f028b737640c392ab45dc8a182c1379f" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref77_bnf" level="file">
@@ -123,8 +122,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Floppy disks</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">1991-2002</unitdate>
-            <container id="aspace_5123f31280138db95dfcab1a94965930" label="Computer Disks [32882019437139]" type="Box">5</container>
-            <container id="aspace_a3fb98c7781145b2f2ee335decccaf56" parent="aspace_5123f31280138db95dfcab1a94965930" type="Folder">6</container>
+            <container id="aspace_c217122fad9a06ff53d1b09247ac875c" label="Computer Disks [32882019437139]" type="Box">5</container>
+            <container id="aspace_be269e77dd493a62ba3005e0399659dc" parent="aspace_c217122fad9a06ff53d1b09247ac875c" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref78_l2s" level="file">
@@ -132,8 +131,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Post floppy disks</unittitle>
             <unitid>Series 1</unitid>
             <unitdate datechar="creation">1994</unitdate>
-            <container id="aspace_cba6c5b9f35e70ec9d5c4ef297a382b1" label="Computer Disks [32882019437139]" type="Box">5</container>
-            <container id="aspace_0f50d0f69edb4ac00a310718c603f9d7" parent="aspace_cba6c5b9f35e70ec9d5c4ef297a382b1" type="Folder">7</container>
+            <container id="aspace_4388d586c9d637feb903e1728c2bf956" label="Computer Disks [32882019437139]" type="Box">5</container>
+            <container id="aspace_6411ebb997041837c21ea0322f202dd0" parent="aspace_4388d586c9d637feb903e1728c2bf956" type="Folder">7</container>
           </did>
         </c>
       </c>
@@ -158,72 +157,72 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
           <did>
             <unittitle>Channel 99 cable channel images</unittitle>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_721efd7eaecd1992442f862777fdc6da" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_a07c3ada1b03f6fd4a201043316e5e9c" parent="aspace_721efd7eaecd1992442f862777fdc6da" type="Folder">3</container>
+            <container id="aspace_d2db54757991bce30983ce0cf13d8c40" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_65cf49597842dd98b7a7a1e8335870dc" parent="aspace_d2db54757991bce30983ce0cf13d8c40" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref12_68f" level="file">
           <did>
             <unittitle>Foggy Bottom News photographs</unittitle>
             <unitdate datechar="creation">1991</unitdate>
-            <container id="aspace_a808a2718fae9135ba38e5b8d0ca3f3e" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_000eef1a2717ca0b3b408d0f4d0f72fa" parent="aspace_a808a2718fae9135ba38e5b8d0ca3f3e" type="Folder">4</container>
+            <container id="aspace_e87e6a25ec69c006cb9e8a8a804f2fcd" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_a2a839077aa27a3457ae01790aed85ab" parent="aspace_e87e6a25ec69c006cb9e8a8a804f2fcd" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref13_isp" level="file">
           <did>
             <unittitle>Snapshots of individuals at local political events</unittitle>
             <unitdate datechar="creation">circa 1990</unitdate>
-            <container id="aspace_f94d583b0bb3a8166bea2fb8a2a3e75f" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_a497124a2b2693436419b4d85ced32c8" parent="aspace_f94d583b0bb3a8166bea2fb8a2a3e75f" type="Folder">5</container>
+            <container id="aspace_695885ea5b2ece6a7de4934d35db8064" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_1910c7fe2546f8792cf6501c74fccfaf" parent="aspace_695885ea5b2ece6a7de4934d35db8064" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref14_6ba" level="file">
           <did>
             <unittitle>Thumbnail images of Watergate</unittitle>
             <unitdate datechar="creation">2004-2007</unitdate>
-            <container id="aspace_8ed5261857800c1c30d7fbf2ee883eb6" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_21331820203c09d99b49c1bc6dd97e24" parent="aspace_8ed5261857800c1c30d7fbf2ee883eb6" type="Folder">6</container>
+            <container id="aspace_e1e51b3fdf0b016e941a8babee0c3186" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_9dceeb27fcd1165dd7dfcd72228958bd" parent="aspace_e1e51b3fdf0b016e941a8babee0c3186" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref15_64b" level="file">
           <did>
             <unittitle>Watergate East photographs</unittitle>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_260f9307bdd33e168e78d3e8591b30bf" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_6dc219b5fa43aece5a9bcec52870afbe" parent="aspace_260f9307bdd33e168e78d3e8591b30bf" type="Folder">7</container>
+            <container id="aspace_65d9a893e654a10c43c73739deee0fb7" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_0a9525e8f02a924373c5a58d45bdd5aa" parent="aspace_65d9a893e654a10c43c73739deee0fb7" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref16_7pl" level="file">
           <did>
             <unittitle>Watergate Post photographs</unittitle>
             <unitdate datechar="creation">1994</unitdate>
-            <container id="aspace_4ea8c756c92d48bc8d1fa6d90c69f92e" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_8b39cb0406b726bfec79d6371b13674c" parent="aspace_4ea8c756c92d48bc8d1fa6d90c69f92e" type="Folder">8</container>
+            <container id="aspace_ab9429b490dd0d02fac2daf752008e83" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_b801e80fbf2cc0ab0518f8477b0f1491" parent="aspace_ab9429b490dd0d02fac2daf752008e83" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref17_ddt" level="file">
           <did>
             <unittitle>Watergate Outside book and postcards</unittitle>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_e5c8d9e0b4a2187364bb6f400276540f" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_b0170e5eec58493336ba3660cf06c890" parent="aspace_e5c8d9e0b4a2187364bb6f400276540f" type="Folder">9</container>
+            <container id="aspace_e2b095528d1fc32f24df40a8f7302b1a" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_665e7dccd71ce1936b87f426f9faedbe" parent="aspace_e2b095528d1fc32f24df40a8f7302b1a" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref18_tvn" level="file">
           <did>
             <unittitle>Watergate East Anniversary Issue 1964-1992</unittitle>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_8e8c47158d9dc0186596462004932369" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_f69e24b81a61b6f3426176e7b2ca1a10" parent="aspace_8e8c47158d9dc0186596462004932369" type="Folder">10</container>
+            <container id="aspace_84186f57ac86ad647de455f3233b984d" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_8ea1358de005f9accc7c8a7d50c9ad62" parent="aspace_84186f57ac86ad647de455f3233b984d" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref37_4k2" level="file">
           <did>
             <unittitle>Watergate East 1965-2011 photo book</unittitle>
             <unitdate datechar="creation">2011</unitdate>
-            <container id="aspace_80dc59b658f90da89508ae4b56a5187a" label="Graphic Materials [32882019437097]" type="Box">1</container>
-            <container id="aspace_a24d6744d2494b06ee2bec9e21092c85" parent="aspace_80dc59b658f90da89508ae4b56a5187a" type="Folder">11</container>
+            <container id="aspace_5ecb3dc6c243023a1ccfaa2cba6128da" label="Graphic Materials [32882019437097]" type="Box">1</container>
+            <container id="aspace_e4c13c3eaa1ed8c6cf5319f13c4b7016" parent="aspace_5ecb3dc6c243023a1ccfaa2cba6128da" type="Folder">11</container>
           </did>
         </c>
       </c>
@@ -249,8 +248,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Application for Historic Landmark Status</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004-2005</unitdate>
-            <container id="aspace_f8e2720ae3d57fbcdbf31503d4154ac2" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_175b246360ffdb157a6b5eeadf255d3e" parent="aspace_f8e2720ae3d57fbcdbf31503d4154ac2" type="Folder">1</container>
+            <container id="aspace_08ba900d3f8157366ef1b12b0e85dbcd" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_f6d764cdbbc9fdebc0a5cae17d78912f" parent="aspace_08ba900d3f8157366ef1b12b0e85dbcd" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref20_ale" level="file">
@@ -258,8 +257,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Committee to Preserve the Watergate Heritage [1 of 2]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005</unitdate>
-            <container id="aspace_39d0ed536f9196e6df7f58352ff729db" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_39eb5dd7160c427bc5ef42966243210b" parent="aspace_39d0ed536f9196e6df7f58352ff729db" type="Folder">2</container>
+            <container id="aspace_a6b3a0b835406058552d3e96a5eee62a" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_a565661e1807068332f677a015daa13e" parent="aspace_a6b3a0b835406058552d3e96a5eee62a" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref21_gdi" level="file">
@@ -267,8 +266,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Committee to Preserve the Watergate Heritage [2 of 2]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005</unitdate>
-            <container id="aspace_9abac7622b29e54d56f07872ef109993" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_d7b5f3b919623c42936cc60950be2668" parent="aspace_9abac7622b29e54d56f07872ef109993" type="Folder">3</container>
+            <container id="aspace_10be70cdec1418bdd278e649865e99f7" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_44802f735efb5b8282b4df3ca2533554" parent="aspace_10be70cdec1418bdd278e649865e99f7" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref22_ymq" level="file">
@@ -276,8 +275,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Copies of newspaper clippings on the Watergate</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1963-1965</unitdate>
-            <container id="aspace_55e8924bcb8b31adce657fbbad235e4a" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_5cfcd0c41cf88581fe1c5eee9f4ce0fc" parent="aspace_55e8924bcb8b31adce657fbbad235e4a" type="Folder">4</container>
+            <container id="aspace_9c9bdabe07ec3c4ce2a0e34903037efa" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_781601b4626fff2ebf47ea9a2ed0dce9" parent="aspace_9c9bdabe07ec3c4ce2a0e34903037efa" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref23_jol" level="file">
@@ -285,8 +284,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Correspondence and proposals for janitorial services</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2008</unitdate>
-            <container id="aspace_69b946805674919bc35e1fd84dfaa9dc" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_3c578088f15700dd5351b787a86d972a" parent="aspace_69b946805674919bc35e1fd84dfaa9dc" type="Folder">5</container>
+            <container id="aspace_f1e0172ddc7bfba6698f2a81a0b9fb0a" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_047825ffa586f66fcffeb2655763641f" parent="aspace_f1e0172ddc7bfba6698f2a81a0b9fb0a" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref24_0al" level="file">
@@ -294,8 +293,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Foggy Bottom News</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1991</unitdate>
-            <container id="aspace_1377b827836dd245f14773a86e13157c" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_6abe484aa4a0593a3b1e5b09fffaf1cd" parent="aspace_1377b827836dd245f14773a86e13157c" type="Folder">6</container>
+            <container id="aspace_c0bad9e7ab1f5aece6e830ce269e0953" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_26e6a330a2b3b479fa05dd3cb78200f3" parent="aspace_c0bad9e7ab1f5aece6e830ce269e0953" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref25_lf5" level="file">
@@ -303,8 +302,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Historic Preservation Review Board</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_d74b8c31536c1f725948184ec319fe2d" label="Mixed Materials [32882019437105]" type="Box">2</container>
-            <container id="aspace_5e2aaae744735c4c5f2aa9898bf186f4" parent="aspace_d74b8c31536c1f725948184ec319fe2d" type="Folder">7</container>
+            <container id="aspace_d1af1fe5402a493bbe5e0286fb0be431" label="Mixed Materials [32882019437105]" type="Box">2</container>
+            <container id="aspace_66e91fc367529faccf460204369f3f9a" parent="aspace_d1af1fe5402a493bbe5e0286fb0be431" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref75_js0" level="file">
@@ -312,8 +311,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>History of the Watergate (DVD) with Mario di Valmorana and The Watergate (DVD) by Monument Realty</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">08 December 2005</unitdate>
-            <container id="aspace_4fdd2fee4686b2ce1eac706ecdfc90d4" label="Moving Images [32882019437147]" type="Box">6</container>
-            <container id="aspace_71fa02bc6daca16dc2290734ca9771ac" parent="aspace_4fdd2fee4686b2ce1eac706ecdfc90d4" type="Folder">13</container>
+            <container id="aspace_e62fb91019c1179dc5559b438a8f9a03" label="Moving Images [32882019437147]" type="Box">6</container>
+            <container id="aspace_72aa3bf3ceb350f02046e6dbe8672b6a" parent="aspace_e62fb91019c1179dc5559b438a8f9a03" type="Folder">13</container>
           </did>
         </c>
         <c id="aspace_ref26_d7k" level="file">
@@ -321,8 +320,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>In re: Monument's Push to Eliminate Watergate Hotel</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_3e3557617244c8046d0833e9e322a11c" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_37c708412f31c81d11cb5f2afeab2c0d" parent="aspace_3e3557617244c8046d0833e9e322a11c" type="Folder">1</container>
+            <container id="aspace_c17d5d97b261dcfcadf5bb3f09407b12" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_ee38689de6e47c91b577b338f2c430f0" parent="aspace_c17d5d97b261dcfcadf5bb3f09407b12" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref27_lyf" level="file">
@@ -330,8 +329,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Kennedy Center</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_6a0e14af9cbefac2a910610596bd2ff4" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_721d9fb54ccd46603f2b343aabcdc23a" parent="aspace_6a0e14af9cbefac2a910610596bd2ff4" type="Folder">2</container>
+            <container id="aspace_76c18aadea17e8d4cad8191b17df3900" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_a81190ef454e874928913cc45adba94d" parent="aspace_76c18aadea17e8d4cad8191b17df3900" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref28_7bg" level="file">
@@ -339,8 +338,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Stowell biographical information</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_a2ff69246e83e7e9f9707db5a683ed51" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_51d77057d4f303f5c82a307bc0abffbf" parent="aspace_a2ff69246e83e7e9f9707db5a683ed51" type="Folder">3</container>
+            <container id="aspace_37df7a1288a492af4938e7476c9b1fbb" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_dd9400681c9760a31a59933024bc7123" parent="aspace_37df7a1288a492af4938e7476c9b1fbb" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref29_a80" level="file">
@@ -348,8 +347,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Complex Council</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_5ccee686130786b55af4d0cc260ef4cc" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_694c0f4140eabbe96392f19785c0771d" parent="aspace_5ccee686130786b55af4d0cc260ef4cc" type="Folder">4</container>
+            <container id="aspace_236e327842a45c86f93da6a5005ace92" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_cd0d4179325c1db0faf0182b900d7909" parent="aspace_236e327842a45c86f93da6a5005ace92" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref30_nrj" level="file">
@@ -357,8 +356,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Vote Stowell</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1994</unitdate>
-            <container id="aspace_e971ac9eed89e2e9b696f02bfead6fa6" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_884231254d0cc54624f93ab65a7dec2c" parent="aspace_e971ac9eed89e2e9b696f02bfead6fa6" type="Folder">5</container>
+            <container id="aspace_d651892e496f8160e7bb4475c1389c61" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_003d0532b90f4bf4994b613ec08daaa2" parent="aspace_d651892e496f8160e7bb4475c1389c61" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref31_zjx" level="file">
@@ -366,8 +365,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate East Cooperative, Proposal for Condition Assessment</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2008</unitdate>
-            <container id="aspace_e9853f76ff38bbe7f14750083562042e" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_fee33208548b6f1bb36de456a89b8719" parent="aspace_e9853f76ff38bbe7f14750083562042e" type="Folder">6</container>
+            <container id="aspace_47f08c54e9c4b12af1e7ca3054f17523" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_371bcd30d1835bc3fd718f94e859585b" parent="aspace_47f08c54e9c4b12af1e7ca3054f17523" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref32_2sa" level="file">
@@ -375,8 +374,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate East security</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_388af0eef9b76b9ebc515c459637df4c" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_848790a3f8736261c94e288db155a8d5" parent="aspace_388af0eef9b76b9ebc515c459637df4c" type="Folder">7</container>
+            <container id="aspace_08aa0c4fb316e01e7039ad85e3da97e2" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_31aa9dec40ba4a1af387516070c06034" parent="aspace_08aa0c4fb316e01e7039ad85e3da97e2" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref33_k8u" level="file">
@@ -384,8 +383,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate/Monument Realty [1 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_8be4e9cb9a231b54eadacf79daee681e" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_531e9ce6aa31dee1aa5dbbe0e09b5e58" parent="aspace_8be4e9cb9a231b54eadacf79daee681e" type="Folder">8</container>
+            <container id="aspace_a92e6e03e6e8aa4719f0493280180e98" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_f632dab4a79ba4f12afe54777f240d4f" parent="aspace_a92e6e03e6e8aa4719f0493280180e98" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref34_0ic" level="file">
@@ -393,8 +392,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate/Monument Realty [2 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_f6c53a97b64d89e3a81a4e69b76f2ca9" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_c647945097d76ce302c79d450b097db2" parent="aspace_f6c53a97b64d89e3a81a4e69b76f2ca9" type="Folder">9</container>
+            <container id="aspace_6361a03ecc60d2c841bb73fc65d4cfaf" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_21a2b9276481793831dd7003311279a3" parent="aspace_6361a03ecc60d2c841bb73fc65d4cfaf" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref35_z28" level="file">
@@ -402,8 +401,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate/Monument Realty [3 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_3aaf960dd15e573c1cce51aa38adf266" label="Mixed Materials [32882019437113]" type="Box">3</container>
-            <container id="aspace_f4d4a00066a154b32cb66f45f9b62492" parent="aspace_3aaf960dd15e573c1cce51aa38adf266" type="Folder">10</container>
+            <container id="aspace_3e1253b223be2fcdff6ed81197a4b2ef" label="Mixed Materials [32882019437113]" type="Box">3</container>
+            <container id="aspace_c493e31e08bea828880f44cb1d73b6dd" parent="aspace_3e1253b223be2fcdff6ed81197a4b2ef" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref38_kyf" level="file">
@@ -411,8 +410,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Anniversary Issue Upgrade [1 of 2]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005-2006</unitdate>
-            <container id="aspace_a4165b6d3a9557388277b0530a4e4ca3" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_5d67189d9b9987aa71d87008a73a61a9" parent="aspace_a4165b6d3a9557388277b0530a4e4ca3" type="Folder">1</container>
+            <container id="aspace_5a32f27b54d43b96560404dde996db2a" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_6e294e2d53a045a262011a51a7569c4b" parent="aspace_5a32f27b54d43b96560404dde996db2a" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref39_n7k" level="file">
@@ -420,8 +419,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate Anniversary Issue Upgrade [2 of 2]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005-2006</unitdate>
-            <container id="aspace_47f765c4ecc122c44245cc1b2d3a29ac" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_1ad11209416f6c7ab6289127d5446fb1" parent="aspace_47f765c4ecc122c44245cc1b2d3a29ac" type="Folder">2</container>
+            <container id="aspace_646477291f4f5fe94f50271017e023d2" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_3fd0d31905df23c05bb6b14b2d543dc0" parent="aspace_646477291f4f5fe94f50271017e023d2" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref40_jk1" level="file">
@@ -429,8 +428,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Insurance proposal</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2010</unitdate>
-            <container id="aspace_9907a19df20682f61dd741f7d0976fb9" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_87a9151edf969c67c074cb87a8e77b27" parent="aspace_9907a19df20682f61dd741f7d0976fb9" type="Folder">3</container>
+            <container id="aspace_afe83b44f551113fbbeaa2e3c8fc64c6" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_0bfaf9a21a225e645f299b70ab4f3f95" parent="aspace_afe83b44f551113fbbeaa2e3c8fc64c6" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref41_l1w" level="file">
@@ -438,8 +437,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Annual Meeting</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_a628cc55d085ac2efdf366f70a0f259c" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_2b662a5056d9a0dea9415586e25b13f6" parent="aspace_a628cc55d085ac2efdf366f70a0f259c" type="Folder">4</container>
+            <container id="aspace_dd3db2b359975032c5eeeeff708802a9" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_f54e3ae2309bd38d980c59baef8c2e81" parent="aspace_dd3db2b359975032c5eeeeff708802a9" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref42_dfw" level="file">
@@ -447,8 +446,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Annual Report</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005</unitdate>
-            <container id="aspace_dd2452b1d0acc99c54d77cf8925e188e" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_66f9035d709a2379a21a908105c8d0ff" parent="aspace_dd2452b1d0acc99c54d77cf8925e188e" type="Folder">5</container>
+            <container id="aspace_9a59cff30e514e1c5a3b8fada27ca567" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_5302b781dbbd168850aeeaee40a663ab" parent="aspace_9a59cff30e514e1c5a3b8fada27ca567" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref43_29x" level="file">
@@ -456,8 +455,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Annual Report</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_5c8a13764143d2446a125ae55c8663c0" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_e1d2cc6b4ccc0e96d3f9cbcf12602e22" parent="aspace_5c8a13764143d2446a125ae55c8663c0" type="Folder">6</container>
+            <container id="aspace_37efe18ac61fa873b144860ca1f84a37" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_7cb0ed3dcaad229a549a32eeca779a52" parent="aspace_37efe18ac61fa873b144860ca1f84a37" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref44_yjy" level="file">
@@ -465,8 +464,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Annual Report</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2010</unitdate>
-            <container id="aspace_dc6545d43afe4710b4a4ef61db7899c8" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_48631e3878bc745d4e26ee45dd4dede9" parent="aspace_dc6545d43afe4710b4a4ef61db7899c8" type="Folder">7</container>
+            <container id="aspace_ec2d9cfd27849cbb33f24207e0230858" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_e48eac2e0cb6fc444711f869fab169c6" parent="aspace_ec2d9cfd27849cbb33f24207e0230858" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref45_2uf" level="file">
@@ -474,8 +473,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI audit</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1991</unitdate>
-            <container id="aspace_0fbd290efe810dd902cb55fd0b4f8cfb" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_f7230c1c1f9622d450f43c4dd962f2d7" parent="aspace_0fbd290efe810dd902cb55fd0b4f8cfb" type="Folder">8</container>
+            <container id="aspace_33404e16d866c468c6fa856fb724dff7" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_42459f6085bd8c1146abc5fabc26002f" parent="aspace_33404e16d866c468c6fa856fb724dff7" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref46_fe0" level="file">
@@ -483,8 +482,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">1992</unitdate>
-            <container id="aspace_f1015e83e237c151d72b028dbc9b9546" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_2207c7acdc9c55f6a185cd4116565ea7" parent="aspace_f1015e83e237c151d72b028dbc9b9546" type="Folder">9</container>
+            <container id="aspace_3172cdfafd747f5664336568ce2a1f9c" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_f61342d427e32cb6d07fb3814ad9e11a" parent="aspace_3172cdfafd747f5664336568ce2a1f9c" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref47_15y" level="file">
@@ -492,8 +491,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [1 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_a752e1af689eb40a7933b9edb028ac38" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_a5a7cd76655a6c9506433902c35e283b" parent="aspace_a752e1af689eb40a7933b9edb028ac38" type="Folder">10</container>
+            <container id="aspace_dbcd38bb9eeff218de658b39e09d6888" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_caadaf49e58b3ee7db4c36e8218520bf" parent="aspace_dbcd38bb9eeff218de658b39e09d6888" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref48_nxp" level="file">
@@ -501,8 +500,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [2 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_8de292cc977bf8757042f3a82decd181" label="Mixed Materials [32882019437121]" type="Box">4</container>
-            <container id="aspace_5c9ea638bfda94d025417282d2b135a4" parent="aspace_8de292cc977bf8757042f3a82decd181" type="Folder">11</container>
+            <container id="aspace_e29847f9d6acfecf196b2794df56c4b7" label="Mixed Materials [32882019437121]" type="Box">4</container>
+            <container id="aspace_d0dc0e3ed5c395a094431d680ff41287" parent="aspace_e29847f9d6acfecf196b2794df56c4b7" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref49_634" level="file">
@@ -510,8 +509,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [3 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_f5faab91dad3995da0f98aa868f05bdb" label="Mixed Materials [32882019437139]" type="Box">5</container>
-            <container id="aspace_e6406eae6fd31f0b3439a41ddf796ccb" parent="aspace_f5faab91dad3995da0f98aa868f05bdb" type="Folder">1</container>
+            <container id="aspace_37e48c7fa8048612e6c43a281cab7d3c" label="Mixed Materials [32882019437139]" type="Box">5</container>
+            <container id="aspace_a94ea753ce486dae1c2a8b40bc822e2a" parent="aspace_37e48c7fa8048612e6c43a281cab7d3c" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref50_qb9" level="file">
@@ -519,8 +518,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_3d47b11cd5dd0d873de53e08c7c2b891" label="Mixed Materials [32882019437139]" type="Box">5</container>
-            <container id="aspace_f40f29d7b380eddbb9cb3fd31d0b01a1" parent="aspace_3d47b11cd5dd0d873de53e08c7c2b891" type="Folder">2</container>
+            <container id="aspace_8676b9895eae8c3acb3c0bee202d93ac" label="Mixed Materials [32882019437139]" type="Box">5</container>
+            <container id="aspace_07d497cf50520628cc72fb9a1e2c19bf" parent="aspace_8676b9895eae8c3acb3c0bee202d93ac" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref51_mhr" level="file">
@@ -528,8 +527,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [1 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2007-2009</unitdate>
-            <container id="aspace_30bf239022bc2681de8a4ed189dfe858" label="Mixed Materials [32882019437139]" type="Box">5</container>
-            <container id="aspace_370e7b056b880588a5d52bb054cd9e8e" parent="aspace_30bf239022bc2681de8a4ed189dfe858" type="Folder">3</container>
+            <container id="aspace_636b66b627c220f4779f998dab53fe22" label="Mixed Materials [32882019437139]" type="Box">5</container>
+            <container id="aspace_2273c1e1d6cc8abef21f97555f9ae898" parent="aspace_636b66b627c220f4779f998dab53fe22" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref52_xrn" level="file">
@@ -537,8 +536,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [2 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2007-2009</unitdate>
-            <container id="aspace_9647c87ba4c9572aec1de847abc19c33" label="Mixed Materials [32882019437139]" type="Box">5</container>
-            <container id="aspace_008b1ecf5ba68d20dd76b3d4e2da53bb" parent="aspace_9647c87ba4c9572aec1de847abc19c33" type="Folder">4</container>
+            <container id="aspace_a839a5312412f23d78ded421a7366321" label="Mixed Materials [32882019437139]" type="Box">5</container>
+            <container id="aspace_d2223c8ed62eabdff3b09c0759ef6e9a" parent="aspace_a839a5312412f23d78ded421a7366321" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref53_2ny" level="file">
@@ -546,8 +545,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda [3 of 3]</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2007-2009</unitdate>
-            <container id="aspace_f63fe48b62a7b4f76a6c732ec33c86dc" label="Mixed Materials [32882019437139]" type="Box">5</container>
-            <container id="aspace_e410a29ecf5e224dec3f9eeef53af0ff" parent="aspace_f63fe48b62a7b4f76a6c732ec33c86dc" type="Folder">5</container>
+            <container id="aspace_289a288f4d5315257b734a16c4846f82" label="Mixed Materials [32882019437139]" type="Box">5</container>
+            <container id="aspace_0831f7301fe20d02c4006a6703443930" parent="aspace_289a288f4d5315257b734a16c4846f82" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref54_uhi" level="file">
@@ -555,8 +554,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI board correspondence and memoranda</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2010-2011</unitdate>
-            <container id="aspace_0e831ff1ad1c08707000675151d7e32c" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_3ce80f786e71acb92612f4544b6e9327" parent="aspace_0e831ff1ad1c08707000675151d7e32c" type="Folder">1</container>
+            <container id="aspace_d403ce2cc391c16bbc6e399dc92873ef" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_06d7ed2dc9410c63335d30e6c45bb5d1" parent="aspace_d403ce2cc391c16bbc6e399dc92873ef" type="Folder">1</container>
           </did>
         </c>
         <c id="aspace_ref55_6sm" level="file">
@@ -564,8 +563,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Board candidates</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">undated</unitdate>
-            <container id="aspace_eaa177b36a51d111aaf2df6a604e9443" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_ae9223fcd300f85361c64b29a6a34c51" parent="aspace_eaa177b36a51d111aaf2df6a604e9443" type="Folder">2</container>
+            <container id="aspace_939ae4bcd0bcdc68ff469fafb4790b4d" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_35d92a92a920933951ff025190c8cdb9" parent="aspace_939ae4bcd0bcdc68ff469fafb4790b4d" type="Folder">2</container>
           </did>
         </c>
         <c id="aspace_ref56_xkq" level="file">
@@ -573,8 +572,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Board meetings</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2010</unitdate>
-            <container id="aspace_2f768ea447498e1e4c0687bc778b13ec" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_c0da99c64033aa68a261b6e7f21c6813" parent="aspace_2f768ea447498e1e4c0687bc778b13ec" type="Folder">3</container>
+            <container id="aspace_ded47ea8c194bb37dc49229a77d9e891" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_4e016c388aca4eb9d86076ca558af6ad" parent="aspace_ded47ea8c194bb37dc49229a77d9e891" type="Folder">3</container>
           </did>
         </c>
         <c id="aspace_ref57_n2o" level="file">
@@ -582,8 +581,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Board nominees</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2005</unitdate>
-            <container id="aspace_f0162f366ef65064473787a626d46568" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_32745c0e7a83aaa656ccb0b66e6dd361" parent="aspace_f0162f366ef65064473787a626d46568" type="Folder">4</container>
+            <container id="aspace_d76dae812d697dc02db2ce80e2fc1085" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_215d9e5c37098b5577dd89787bfbaf33" parent="aspace_d76dae812d697dc02db2ce80e2fc1085" type="Folder">4</container>
           </did>
         </c>
         <c id="aspace_ref58_xal" level="file">
@@ -591,8 +590,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI button</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_312c3ce5ee7068b4746ad0a0657b616a" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_899512972d8ad9732063c0085f4463c1" parent="aspace_312c3ce5ee7068b4746ad0a0657b616a" type="Folder">5</container>
+            <container id="aspace_84aa0e207e3f98f2cb5f92b7bfdf87ac" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_69796d01b8f8aad46e1c5295f66c0161" parent="aspace_84aa0e207e3f98f2cb5f92b7bfdf87ac" type="Folder">5</container>
           </did>
         </c>
         <c id="aspace_ref59_2bq" level="file">
@@ -600,8 +599,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI By-laws</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2007</unitdate>
-            <container id="aspace_1a79fd5f857db369393b5a9ebed8ae1d" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_32ae30fd79e1eafdbb1f6ad96497e79b" parent="aspace_1a79fd5f857db369393b5a9ebed8ae1d" type="Folder">6</container>
+            <container id="aspace_e8a1a2f4c1a0b7a4a2c31c38c2e917bf" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_5bf596321a5db704dd242856146ca404" parent="aspace_e8a1a2f4c1a0b7a4a2c31c38c2e917bf" type="Folder">6</container>
           </did>
         </c>
         <c id="aspace_ref60_j84" level="file">
@@ -609,8 +608,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Capital Improvements Program</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_901bfd74e5f4d14c5a72da4c9ac1ecd2" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_136db1438325140ab62474db69aa7687" parent="aspace_901bfd74e5f4d14c5a72da4c9ac1ecd2" type="Folder">7</container>
+            <container id="aspace_1e79898fc53f3d14e007f66aa8266b90" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_c74c50070b0706e109ab7b38ab56090c" parent="aspace_1e79898fc53f3d14e007f66aa8266b90" type="Folder">7</container>
           </did>
         </c>
         <c id="aspace_ref61_lyo" level="file">
@@ -618,8 +617,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI Governing documents</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2006</unitdate>
-            <container id="aspace_3229e3fead7799db261103a945eead83" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_33f11218f1cce0d9f23b215d0d92d5ec" parent="aspace_3229e3fead7799db261103a945eead83" type="Folder">8</container>
+            <container id="aspace_1f35e5bedd014520f40078ca55472ee7" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_e26a13becc7f11581f6a9974ed3ad812" parent="aspace_1f35e5bedd014520f40078ca55472ee7" type="Folder">8</container>
           </did>
         </c>
         <c id="aspace_ref62_fp6" level="file">
@@ -627,8 +626,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI membership committee</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2007</unitdate>
-            <container id="aspace_57a055b99e59fc5dba4743616dd94caf" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_fafaf4578c435e9f2e39ed6ee6aa8be8" parent="aspace_57a055b99e59fc5dba4743616dd94caf" type="Folder">9</container>
+            <container id="aspace_beeb402e5a6bfa14ececdd01fe627d85" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_1e9fa5c3109522a0272763655f0552b6" parent="aspace_beeb402e5a6bfa14ececdd01fe627d85" type="Folder">9</container>
           </did>
         </c>
         <c id="aspace_ref63_y5i" level="file">
@@ -636,8 +635,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI membership committee</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2008-2010</unitdate>
-            <container id="aspace_87ebbf702a52fe50f87c8b99311b4746" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_c3ee45e69c960e34e0542907bc8364cb" parent="aspace_87ebbf702a52fe50f87c8b99311b4746" type="Folder">10</container>
+            <container id="aspace_715eb21e70060c878b0e04875096bb8c" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_ee2400151b97ad014dec96fa22e028c5" parent="aspace_715eb21e70060c878b0e04875096bb8c" type="Folder">10</container>
           </did>
         </c>
         <c id="aspace_ref76_94i" level="file">
@@ -645,8 +644,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Watergate news clips (DVD)</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">17 June 2002</unitdate>
-            <container id="aspace_888c3cab4fafc0f235656dc8e394a65c" label="Moving Images [32882019437113]" type="Box">3</container>
-            <container id="aspace_df8168281bd4a4ffebef9bbc6d266265" parent="aspace_888c3cab4fafc0f235656dc8e394a65c" type="Folder">11</container>
+            <container id="aspace_3416d2a4eb68d972656b8fa8aab66eba" label="Moving Images [32882019437113]" type="Box">3</container>
+            <container id="aspace_457da923d7e50b9803073b71dd7ffc4b" parent="aspace_3416d2a4eb68d972656b8fa8aab66eba" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref64_x2k" level="file">
@@ -654,8 +653,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>WEI rules and by-laws</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_f12d308ea6b82c27751b582b7b149e16" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_740e4fe35c995c684db286fea5d9ba3c" parent="aspace_f12d308ea6b82c27751b582b7b149e16" type="Folder">11</container>
+            <container id="aspace_a71a043d500a97526cd209f30e416b1d" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_a942d86a46c8e5c2a26ed2243262eb90" parent="aspace_a71a043d500a97526cd209f30e416b1d" type="Folder">11</container>
           </did>
         </c>
         <c id="aspace_ref65_84n" level="file">
@@ -663,8 +662,8 @@ James Oglethorpe to the Trustees, 13 January 1876, RG0001 Series 1, Box 4, Folde
             <unittitle>Zoning Commission Public Hearing, Watergate Hotel</unittitle>
             <unitid>Series 3</unitid>
             <unitdate datechar="creation">2004</unitdate>
-            <container id="aspace_a9558f4c48d5a2b3aceaa6db4a81124f" label="Mixed Materials [32882019437147]" type="Box">6</container>
-            <container id="aspace_bf1e0277687364637f649187d2449fd0" parent="aspace_a9558f4c48d5a2b3aceaa6db4a81124f" type="Folder">12</container>
+            <container id="aspace_c63d42705f82bc3259dd5a1675bbe3c4" label="Mixed Materials [32882019437147]" type="Box">6</container>
+            <container id="aspace_3f6eedf99ad589b1395c2f04b17a60e0" parent="aspace_c63d42705f82bc3259dd5a1675bbe3c4" type="Folder">12</container>
           </did>
         </c>
       </c>
