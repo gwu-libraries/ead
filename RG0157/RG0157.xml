@@ -21,7 +21,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation>This finding aid was produced using ArchivesSpace on <date>2022-05-18 15:07:38 -0400</date>.</creation>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2022-06-02 15:41:30 -0400</date>.</creation>
       <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
     </profiledesc>
   </eadheader>
@@ -34,61 +34,102 @@
       <unitid>RG0157</unitid>
       <physdesc altrender="whole">
         <extent altrender="materialtype spaceoccupied">200 item(s)</extent>
-        <physfacet>All digital files.</physfacet>
+        <physfacet>Vast majority digital files and one box.</physfacet>
       </physdesc>
       <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
       <abstract id="aspace_4b92c65b35895d01fc5fb1e89ccc47a7">George Washington University celebrated its 200th anniversary in 2021. All materials are related to that event.</abstract>
+      <physloc id="aspace_048e2264e3497ff38824f7114b82f1fe">Materials are stored off-site, and will require additional retreival time. Please contact the Special Collections Research Center for more information.</physloc>
       <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
 .    </langmaterial>
     </did>
     <scopecontent id="aspace_e5053bc22bb03cc43e0c75ccbafafb9d">
       <head>Scope and Contents</head>
-      <p>Materials in this collection are web crawls and social media crawls, as well as video birthday tributes from the GW community.</p>
+      <p>Materials in this collection are web crawls and social media crawls, as well as video birthday tributes from the GW community. It also contains the special Bicentennial issue of the GW University Magazine.</p>
     </scopecontent>
+    <accessrestrict id="aspace_d7b08137c804312963d074256866c1c0">
+      <head>Conditions Governing Access</head>
+      <p>Collection is open for research.</p>
+    </accessrestrict>
+    <prefercite id="aspace_ab5c112db7c5c4641c595e62aac0685b">
+      <head>Preferred Citation</head>
+      <p>RG0157: George Washington University Bicentennial Collection, Special Collections Research Center, The George Washington University Libraries, Washington, DC.</p>
+    </prefercite>
     <dsc>
-      <c id="aspace_ea1da82ed11fdf102ef1ebef9f9c28d7" level="series">
+      <c id="aspace_184eb6763a02ff590df376975141ed06" level="series">
         <did>
-          <unittitle>Bicentennial Web Archives</unittitle>
+          <unittitle>Digital materials</unittitle>
           <unitid>Series 1</unitid>
           <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
           <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
         </did>
-        <userestrict id="aspace_17c1d36d3580f4b4d5a19efb74538808">
-          <head>Conditions Governing Use</head>
-          <p>The series is open for research.</p>
-        </userestrict>
-        <scopecontent id="aspace_a7d38c8416559ac24e0407ab335de07d">
+        <scopecontent id="aspace_b2e41d92697f72927910c1f442f90649">
           <head>Scope and Contents</head>
-          <p>Websites were captured using Archive-it.</p>
+          <p>This series contains the digital materials created and collected during the Bicentennial.</p>
         </scopecontent>
+        <c id="aspace_ea1da82ed11fdf102ef1ebef9f9c28d7" level="subseries">
+          <did>
+            <unittitle>Bicentennial Web Archives</unittitle>
+            <unitid>Series 1 Subseries 1</unitid>
+            <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <userestrict id="aspace_17c1d36d3580f4b4d5a19efb74538808">
+            <head>Conditions Governing Use</head>
+            <p>The series is open for research.</p>
+          </userestrict>
+          <scopecontent id="aspace_a7d38c8416559ac24e0407ab335de07d">
+            <head>Scope and Contents</head>
+            <p>Websites were captured using Archive-it.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_960201b8f1d763f0b4da89c65c04345f" level="subseries">
+          <did>
+            <unittitle>Twitter Hashtag #GW200</unittitle>
+            <unitid>Series 1 Subseries 2</unitid>
+            <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <accessrestrict id="aspace_161d9a1cf20d031abe5751bef2f558b4">
+            <head>Conditions Governing Access</head>
+            <p>Materials are currently restricted; contact archives@gwu.edu for more information.</p>
+          </accessrestrict>
+          <scopecontent id="aspace_bb1f0ec3db821b0b897c7417faedb371">
+            <head>Scope and Contents</head>
+            <p>During the Bicentennial, the official hashtag for social media was #GW200.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_7feeb40ca9cb1498e7529afa569edf59" level="series">
+          <did>
+            <unittitle>Happy Birthday GW Videos</unittitle>
+            <unitid>Series 1 Subseries 3</unitid>
+            <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+          <scopecontent id="aspace_013d6106c648d037e67d270105b733c3">
+            <head>Scope and Contents</head>
+            <p>During the Bicentennial year, GW contracted with the program Tribute to receive videos celebrating the 200th anniversary of GW. Individuals recorded short videos themselves and uploaded them to the Tribute system. Participants included students, staff, faculty, alumni and more.</p>
+          </scopecontent>
+        </c>
       </c>
-      <c id="aspace_960201b8f1d763f0b4da89c65c04345f" level="series">
+      <c id="aspace_6cc104abfb4cc9276a52e04215267b82" level="series">
         <did>
-          <unittitle>Twitter Hashtag #GW200</unittitle>
+          <unittitle>Print materials</unittitle>
           <unitid>Series 2</unitid>
           <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
           <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
         </did>
-        <accessrestrict id="aspace_161d9a1cf20d031abe5751bef2f558b4">
-          <head>Conditions Governing Access</head>
-          <p>Materials are currently restricted; contact archives@gwu.edu for more information.</p>
-        </accessrestrict>
-        <scopecontent id="aspace_bb1f0ec3db821b0b897c7417faedb371">
+        <scopecontent id="aspace_e975be56ecb211ac8cdd8d543a64c411">
           <head>Scope and Contents</head>
-          <p>During the Bicentennial, the official hashtag for social media was #GW200.</p>
+          <p>While the vast majority of the materials collected were digital, the small amount of print items are in series 2.</p>
         </scopecontent>
-      </c>
-      <c id="aspace_7feeb40ca9cb1498e7529afa569edf59" level="series">
-        <did>
-          <unittitle>Happy Birthday GW Videos</unittitle>
-          <unitid>Series 3</unitid>
-          <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
-          <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
-        </did>
-        <scopecontent id="aspace_013d6106c648d037e67d270105b733c3">
-          <head>Scope and Contents</head>
-          <p>During the Bicentennial year, GW contracted with the program Tribute to receive videos celebrating the 200th anniversary of GW. Individuals recorded short videos themselves and uploaded them to the Tribute system. Participants included students, staff, faculty, alumni and more.</p>
-        </scopecontent>
+        <c id="aspace_2385b15227b214712e15403f59231828" level="file">
+          <did>
+            <unittitle>GW Magazine - special issue</unittitle>
+            <unitdate datechar="creation" normal="2021/2021">2021</unitdate>
+            <physdesc id="aspace_d062fe1bef9d995257e8d7151ac59d46">Contains two copies.</physdesc>
+            <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+          </did>
+        </c>
       </c>
     </dsc>
   </archdesc>
